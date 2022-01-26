@@ -17,26 +17,26 @@
 <tr class="odd">
 <td><p><strong>Game Data</strong></p>
 <ul>
-<li><a href="Armor_Index" title="wikilink">Armor Index</a></li>
-<li><a href="Battle_Rank" title="wikilink">Battle Rank</a></li>
-<li><a href="Certifications" title="wikilink">Certifications</a></li>
-<li><a href="Command_Rank" title="wikilink">Command Rank</a></li>
-<li><a href="Core_Combat" title="wikilink">Core Combat</a> &amp; <a href="AfterShock" title="wikilink">AfterShock</a></li>
-<li><a href="Events" title="wikilink">Events</a></li>
-<li><a href="Facilities" title="wikilink">Facilities</a> ("Bases") &amp; <a href="Towers" title="wikilink">Towers</a></li>
-<li><a href="Gameplay_Fundamentals" title="wikilink">Gameplay Fundamentals</a></li>
-<li><a href="Heads-up_Display" title="wikilink">Heads-up Display</a> (HUD)</li>
-<li><a href="Implants" title="wikilink">Implants</a></li>
-<li><a href="In-Game_Commands" title="wikilink">In-Game Commands</a></li>
-<li><a href="Known_Issues" title="wikilink">Known Issues</a></li>
-<li><a href="Locations" title="wikilink">Locations</a></li>
-<li><a href="Menu" title="wikilink">Menus</a></li>
-<li><a href="Merit_Commendations" title="wikilink">Merit Commendations</a></li>
-<li><a href="Patches" title="wikilink">Patch History</a></li>
-<li><a href="Structure_Armor" title="wikilink">Structure Armor</a></li>
-<li><a href="Vehicle_Armor" title="wikilink">Vehicle Armor</a></li>
-<li><a href="Vehicle_Index" title="wikilink">Vehicle Index</a></li>
-<li><a href="Weapons_Index" title="wikilink">Weapons Index</a></li>
+<li><a href="Armor_Index.md" title="wikilink">Armor Index</a></li>
+<li><a href="Battle_Rank.md" title="wikilink">Battle Rank</a></li>
+<li><a href="Certifications.md" title="wikilink">Certifications</a></li>
+<li><a href="Command_Rank.md" title="wikilink">Command Rank</a></li>
+<li><a href="Core_Combat.md" title="wikilink">Core Combat</a> &amp; <a href="AfterShock.md" title="wikilink">AfterShock</a></li>
+<li><a href="Events.md" title="wikilink">Events</a></li>
+<li><a href="Facilities.md" title="wikilink">Facilities</a> ("Bases") &amp; <a href="Towers.md" title="wikilink">Towers</a></li>
+<li><a href="Gameplay_Fundamentals.md" title="wikilink">Gameplay Fundamentals</a></li>
+<li><a href="Heads-up_Display.md" title="wikilink">Heads-up Display</a> (HUD)</li>
+<li><a href="Implants.md" title="wikilink">Implants</a></li>
+<li><a href="In-Game_Commands.md" title="wikilink">In-Game Commands</a></li>
+<li><a href="Known_Issues.md" title="wikilink">Known Issues</a></li>
+<li><a href="Locations.md" title="wikilink">Locations</a></li>
+<li><a href="Menu.md" title="wikilink">Menus</a></li>
+<li><a href="Merit_Commendations.md" title="wikilink">Merit Commendations</a></li>
+<li><a href="Patches.md" title="wikilink">Patch History</a></li>
+<li><a href="Structure_Armor.md" title="wikilink">Structure Armor</a></li>
+<li><a href="Vehicle_Armor.md" title="wikilink">Vehicle Armor</a></li>
+<li><a href="Vehicle_Index.md" title="wikilink">Vehicle Index</a></li>
+<li><a href="Weapons_Index.md" title="wikilink">Weapons Index</a></li>
 </ul></td>
 <td><p><strong>Communication</strong></p>
 <ul>

@@ -7,17 +7,17 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Medium_Battle_Tank" title="wikilink">Medium Battle Tank</a><br />
-<a href="Vanguard" title="wikilink">Vanguard</a> (<a href="New_Conglomerate" title="wikilink">NC</a>), <a href="Prowler" title="wikilink">Prowler</a> (<a href="Terran_Republic" title="wikilink">TR</a>), <a href="Magrider" title="wikilink">Magrider</a> (<a href="Vanu_Sovereignty" title="wikilink">VS</a>)</p></td>
+<td><p><a href="Medium_Battle_Tank.md" title="wikilink">Medium Battle Tank</a><br />
+<a href="Vanguard.md" title="wikilink">Vanguard</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Prowler.md" title="wikilink">Prowler</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Magrider.md" title="wikilink">Magrider</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Armored_Assault_I" title="wikilink">Armored Assault I</a></p></td>
+<td><p><a href="Armored_Assault_I.md" title="wikilink">Armored Assault I</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Required For</strong></p></td>
-<td><p><a href="Flail" title="wikilink">Flail</a><br />
-<a href="BattleFrame_Robotics" title="wikilink">BattleFrame Robotics</a></p></td>
+<td><p><a href="Flail.md" title="wikilink">Flail</a><br />
+<a href="BattleFrame_Robotics.md" title="wikilink">BattleFrame Robotics</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Cert Point Cost</strong></p></td>

@@ -7,8 +7,8 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Advanced_Mobile_Station" title="wikilink">Advanced Mobile Station</a> (AMS)<br />
-<a href="Router" title="wikilink">Router</a></p></td>
+<td><p><a href="Advanced_Mobile_Station.md" title="wikilink">Advanced Mobile Station</a> (AMS)<br />
+<a href="Router.md" title="wikilink">Router</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>

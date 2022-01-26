@@ -17,9 +17,9 @@ giant robots (or mecha) of the PlanetSide universe.
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><img src="Colussus.jpg" title="fig:Colussus.jpg" width="180" alt="Colussus.jpg" />, the <a href="TR" title="wikilink">TR</a> gunner variant BFR.]]</p></td>
-<td><p><img src="AphelionPicture.jpg" title="fig:AphelionPicture.jpg" width="210" alt="AphelionPicture.jpg" />, the <a href="VS" title="wikilink">VS</a> gunner variant BFR.]]</p></td>
-<td><p><img src="NC_Peregrine.jpg" title="fig:NC_Peregrine.jpg" width="165" alt="NC_Peregrine.jpg" />, the <a href="NC" title="wikilink">NC</a> gunner variant BFR.]]</p></td>
+<td><p><img src="Colussus.jpg" title="fig:Colussus.jpg" width="180" alt="Colussus.jpg" />, the <a href="TR.md" title="wikilink">TR</a> gunner variant BFR.]]</p></td>
+<td><p><img src="AphelionPicture.jpg" title="fig:AphelionPicture.jpg" width="210" alt="AphelionPicture.jpg" />, the <a href="VS.md" title="wikilink">VS</a> gunner variant BFR.]]</p></td>
+<td><p><img src="NC_Peregrine.jpg" title="fig:NC_Peregrine.jpg" width="165" alt="NC_Peregrine.jpg" />, the <a href="NC.md" title="wikilink">NC</a> gunner variant BFR.]]</p></td>
 </tr>
 </tbody>
 </table></td>

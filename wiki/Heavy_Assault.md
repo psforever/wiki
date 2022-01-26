@@ -7,12 +7,12 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Maelstrom" title="wikilink">Maelstrom</a><br />
-<a href="Jackhammer" title="wikilink">Jackhammer</a> (<a href="New_Conglomerate" title="wikilink">NC</a>), <a href="Mini-Chaingun" title="wikilink">Mini-Chaingun</a> (<a href="Terran_Republic" title="wikilink">TR</a>), <a href="Lasher" title="wikilink">Lasher</a> (<a href="Vanu_Sovereignty" title="wikilink">VS</a>)</p></td>
+<td><p><a href="Maelstrom.md" title="wikilink">Maelstrom</a><br />
+<a href="Jackhammer.md" title="wikilink">Jackhammer</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Mini-Chaingun.md" title="wikilink">Mini-Chaingun</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Lasher.md" title="wikilink">Lasher</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Required For</strong></p></td>

@@ -7,12 +7,12 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Decimator" title="wikilink">Decimator</a><br />
-<a href="Phoenix" title="wikilink">Phoenix</a> (<a href="New_Conglomerate" title="wikilink">NC</a>), <a href="Striker" title="wikilink">Striker</a> (<a href="Terran_Republic" title="wikilink">TR</a>), <a href="Lancer" title="wikilink">Lancer</a> (<a href="Vanu_Sovereignty" title="wikilink">VS</a>)</p></td>
+<td><p><a href="Decimator.md" title="wikilink">Decimator</a><br />
+<a href="Phoenix.md" title="wikilink">Phoenix</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Striker.md" title="wikilink">Striker</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Lancer.md" title="wikilink">Lancer</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Required For</strong></p></td>

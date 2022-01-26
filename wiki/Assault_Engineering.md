@@ -10,17 +10,17 @@
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
 <td><ul>
-<li><a href="Field_Deployment_Unit" title="wikilink">Field Deployment Unit</a> (FDU)</li>
-<li><a href="Aegis_Shield_Generator" title="wikilink">Aegis Shield Generator</a></li>
-<li><a href="One-Manned_Field_Turret" title="wikilink">One-Manned Field Turret</a></li>
-<li><a href="Disruptor_Mine" title="wikilink">Disruptor Mine</a></li>
-<li>Ability to place <a href="ACE#Spitfire_Turret" title="wikilink">Spitfire Turrets</a> inside Enemy <a href="SOI" title="wikilink">SOIs</a></li>
+<li><a href="Field_Deployment_Unit.md" title="wikilink">Field Deployment Unit</a> (FDU)</li>
+<li><a href="Aegis_Shield_Generator.md" title="wikilink">Aegis Shield Generator</a></li>
+<li><a href="One-Manned_Field_Turret.md" title="wikilink">One-Manned Field Turret</a></li>
+<li><a href="Disruptor_Mine.md" title="wikilink">Disruptor Mine</a></li>
+<li>Ability to place <a href="ACE#Spitfire_Turret" title="wikilink">Spitfire Turrets</a> inside Enemy <a href="SOI.md" title="wikilink">SOIs</a></li>
 <li>Ammunition Upgrade for the Aegis Shield Generator</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Combat_Engineering" title="wikilink">Combat Engineering</a></p></td>
+<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Required For</strong></p></td>

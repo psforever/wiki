@@ -260,7 +260,7 @@ Players can send chat to different channels using a variety of commands.
 <li>/sitrep <message></li>
 <li>For CR5 continental and global chat commands, please see <a href="Commands#Commander_Commands" title="wikilink">Commands</a></li>
 </ul></li>
-<li><a href="Black_Ops" title="wikilink">Black Ops</a> Channel
+<li><a href="Black_Ops.md" title="wikilink">Black Ops</a> Channel
 <ul>
 <li>/b <message></li>
 <li>/c <message></li>

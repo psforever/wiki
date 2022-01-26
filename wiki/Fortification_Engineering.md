@@ -10,18 +10,18 @@
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
 <td><ul>
-<li><a href="Field_Deployment_Unit" title="wikilink">Field Deployment Unit</a> (FDU)</li>
-<li><a href="Shadow_Turret" title="wikilink">Shadow Turret</a></li>
-<li><a href="Cerberus_Turret" title="wikilink">Cerberus Turret</a></li>
-<li><a href="Tactical_Resonance_Area_Protection" title="wikilink">Tactical Resonance Area Protection</a> (TRAP)</li>
-<li><a href="Phalanx" title="wikilink">Phalanx</a> Wall Turret Upgrades</li>
-<li><a href="Aegis_Shield_Generator" title="wikilink">Aegis Shield Generator</a> Upgrades</li>
-<li>Increased number of <a href="Combat_Engineering" title="wikilink">Combat Engineering</a> Deployables</li>
+<li><a href="Field_Deployment_Unit.md" title="wikilink">Field Deployment Unit</a> (FDU)</li>
+<li><a href="Shadow_Turret.md" title="wikilink">Shadow Turret</a></li>
+<li><a href="Cerberus_Turret.md" title="wikilink">Cerberus Turret</a></li>
+<li><a href="Tactical_Resonance_Area_Protection.md" title="wikilink">Tactical Resonance Area Protection</a> (TRAP)</li>
+<li><a href="Phalanx.md" title="wikilink">Phalanx</a> Wall Turret Upgrades</li>
+<li><a href="Aegis_Shield_Generator.md" title="wikilink">Aegis Shield Generator</a> Upgrades</li>
+<li>Increased number of <a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a> Deployables</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Combat_Engineering" title="wikilink">Combat Engineering</a></p></td>
+<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Required For</strong></p></td>

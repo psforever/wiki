@@ -7,8 +7,8 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Harasser" title="wikilink">Harasser</a>, <a href="Skyguard" title="wikilink">Skyguard</a><br />
-<a href="Enforcer" title="wikilink">Enforcer</a> (<a href="New_Conglomerate" title="wikilink">NC</a>), <a href="Marauder" title="wikilink">Marauder</a> (<a href="Terran_Republic" title="wikilink">TR</a>), <a href="Thresher" title="wikilink">Thresher</a> (<a href="Vanu_Sovereignty" title="wikilink">VS</a>)</p></td>
+<td><p><a href="Harasser.md" title="wikilink">Harasser</a>, <a href="Skyguard.md" title="wikilink">Skyguard</a><br />
+<a href="Enforcer.md" title="wikilink">Enforcer</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Marauder.md" title="wikilink">Marauder</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Thresher.md" title="wikilink">Thresher</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>

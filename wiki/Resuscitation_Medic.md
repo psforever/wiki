@@ -2,7 +2,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><b>Level</b></p></td>
-<td style="text-align: center;"><p><b><a href="Revive" title="wikilink">Revives</a></b></p></td>
+<td style="text-align: center;"><p><b><a href="Revive.md" title="wikilink">Revives</a></b></p></td>
 <td style="text-align: center;"><p><b>Streak</b></p></td>
 <td style="text-align: center;"><p><b>Title</b></p></td>
 <td style="text-align: center;"><p><b>Award</b></p></td>

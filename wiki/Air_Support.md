@@ -7,8 +7,8 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Galaxy" title="wikilink">Galaxy</a>, <a href="Liberator" title="wikilink">Liberator</a>, <a href="Lodestar" title="wikilink">Lodestar</a><br />
-With <a href="Bomber_Ace" title="wikilink">Bomber Ace Bronze</a>: <a href="Vulture" title="wikilink">Vulture</a></p></td>
+<td><p><a href="Galaxy.md" title="wikilink">Galaxy</a>, <a href="Liberator.md" title="wikilink">Liberator</a>, <a href="Lodestar.md" title="wikilink">Lodestar</a><br />
+With <a href="Bomber_Ace.md" title="wikilink">Bomber Ace Bronze</a>: <a href="Vulture.md" title="wikilink">Vulture</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>

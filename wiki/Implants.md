@@ -50,7 +50,7 @@ Timer (mm:ss)</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="Audio_Amplifier" title="wikilink">Audio Amplifier</a></p></td>
+<td><p><a href="Audio_Amplifier.md" title="wikilink">Audio Amplifier</a></p></td>
 <td><figure>
 <img src="Audio_amplifier.gif" title="Image:Audio_amplifier.gif" alt="Image:Audio_amplifier.gif" /><figcaption aria-hidden="true">Image:Audio_amplifier.gif</figcaption>
 </figure></td>
@@ -58,7 +58,7 @@ Timer (mm:ss)</p></th>
 <td><p>01:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Darklight" title="wikilink">Darklight Vision</a></p></td>
+<td><p><a href="Darklight.md" title="wikilink">Darklight Vision</a></p></td>
 <td><figure>
 <img src="Darklight.gif" title="Image:Darklight.gif" alt="Image:Darklight.gif" /><figcaption aria-hidden="true">Image:Darklight.gif</figcaption>
 </figure></td>
@@ -66,7 +66,7 @@ Timer (mm:ss)</p></th>
 <td><p>01:00</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Enhanced_Targeting" title="wikilink">Enhanced Targeting</a></p></td>
+<td><p><a href="Enhanced_Targeting.md" title="wikilink">Enhanced Targeting</a></p></td>
 <td><figure>
 <img src="Enhanced_targeting.gif" title="Image:Enhanced_targeting.gif" alt="Image:Enhanced_targeting.gif" /><figcaption aria-hidden="true">Image:Enhanced_targeting.gif</figcaption>
 </figure></td>
@@ -74,7 +74,7 @@ Timer (mm:ss)</p></th>
 <td><p>01:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Melee_Booster" title="wikilink">Melee Booster</a></p></td>
+<td><p><a href="Melee_Booster.md" title="wikilink">Melee Booster</a></p></td>
 <td><figure>
 <img src="Melee_booster.gif" title="Image:Melee_booster.gif" alt="Image:Melee_booster.gif" /><figcaption aria-hidden="true">Image:Melee_booster.gif</figcaption>
 </figure></td>
@@ -82,7 +82,7 @@ Timer (mm:ss)</p></th>
 <td><p>02:00</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Personal_Shield" title="wikilink">Personal Shield</a></p></td>
+<td><p><a href="Personal_Shield.md" title="wikilink">Personal Shield</a></p></td>
 <td><figure>
 <img src="Personal_shield.gif" title="Image:Personal_shield.gif" alt="Image:Personal_shield.gif" /><figcaption aria-hidden="true">Image:Personal_shield.gif</figcaption>
 </figure></td>
@@ -90,7 +90,7 @@ Timer (mm:ss)</p></th>
 <td><p>02:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Range_Magnifier" title="wikilink">Range Magnifier</a></p></td>
+<td><p><a href="Range_Magnifier.md" title="wikilink">Range Magnifier</a></p></td>
 <td><figure>
 <img src="Range_magnifier.gif" title="Image:Range_magnifier.gif" alt="Image:Range_magnifier.gif" /><figcaption aria-hidden="true">Image:Range_magnifier.gif</figcaption>
 </figure></td>
@@ -98,7 +98,7 @@ Timer (mm:ss)</p></th>
 <td><p>01:00</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Regeneration" title="wikilink">Regeneration</a></p></td>
+<td><p><a href="Regeneration.md" title="wikilink">Regeneration</a></p></td>
 <td><figure>
 <img src="Regeneration.gif" title="Image:Regeneration.gif" alt="Image:Regeneration.gif" /><figcaption aria-hidden="true">Image:Regeneration.gif</figcaption>
 </figure></td>
@@ -106,7 +106,7 @@ Timer (mm:ss)</p></th>
 <td><p>02:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Second_Wind" title="wikilink">Second Wind</a></p></td>
+<td><p><a href="Second_Wind.md" title="wikilink">Second Wind</a></p></td>
 <td><figure>
 <img src="Second_wind.gif" title="Image:Second_wind.gif" alt="Image:Second_wind.gif" /><figcaption aria-hidden="true">Image:Second_wind.gif</figcaption>
 </figure></td>
@@ -114,7 +114,7 @@ Timer (mm:ss)</p></th>
 <td><p>03:10</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Sensor_Shield" title="wikilink">Sensor Shield</a></p></td>
+<td><p><a href="Sensor_Shield.md" title="wikilink">Sensor Shield</a></p></td>
 <td><figure>
 <img src="Sensor_shield.gif" title="Image:Sensor_shield.gif" alt="Image:Sensor_shield.gif" /><figcaption aria-hidden="true">Image:Sensor_shield.gif</figcaption>
 </figure></td>
@@ -122,7 +122,7 @@ Timer (mm:ss)</p></th>
 <td><p>01:30</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Surge" title="wikilink">Surge</a></p></td>
+<td><p><a href="Surge.md" title="wikilink">Surge</a></p></td>
 <td><figure>
 <img src="Surge.gif" title="Image:Surge.gif" alt="Image:Surge.gif" /><figcaption aria-hidden="true">Image:Surge.gif</figcaption>
 </figure></td>

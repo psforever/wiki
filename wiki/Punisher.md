@@ -6,11 +6,11 @@ with a Punisher\]\]
 <tbody>
 <tr class="odd">
 <td><p><strong>Certification Required</strong></p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Empire</strong></p></td>
-<td><p><a href="Common_Pool" title="wikilink">Common Pool</a></p></td>
+<td><p><a href="Common_Pool.md" title="wikilink">Common Pool</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Primary Mode</strong></p></td>
@@ -22,7 +22,7 @@ with a Punisher\]\]
 </tr>
 <tr class="odd">
 <td><p><strong>Ammunition</strong></p></td>
-<td><p>Primary: 9mm Bullets (<a href="9mm_Bullet" title="wikilink">Standard</a> or <a href="AP_9mm_Bullet" title="wikilink">Armor Piercing</a>)<br />
+<td><p>Primary: 9mm Bullets (<a href="9mm_Bullet.md" title="wikilink">Standard</a> or <a href="AP_9mm_Bullet.md" title="wikilink">Armor Piercing</a>)<br />
 Secondary: Rockets, Frag Grenades, Plasma Grenades or Jammer Grenades</p></td>
 </tr>
 <tr class="even">

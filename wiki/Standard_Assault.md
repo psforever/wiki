@@ -7,8 +7,8 @@
 </tr>
 <tr class="even">
 <td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Automatic_Machine_Pistol" title="wikilink">AMP</a>, <a href="Plasma_grenade" title="wikilink">Plasma grenade</a>, <a href="Jammer_grenade" title="wikilink">Jammer grenade</a>, <a href="Fragmentation_grenade" title="wikilink">Fragmentation grenade</a>, <a href="Suppressor" title="wikilink">Suppressor</a><br />
-<a href="Mag-Scatter" title="wikilink">Mag-Scatter Pistol</a>, <a href="Mag-Cutter" title="wikilink">Mag-Cutter</a> (<a href="New_Conglomerate" title="wikilink">NC</a>), <a href="Repeater" title="wikilink">Repeater</a>, <a href="Chainblade" title="wikilink">Chainblade</a> (<a href="Terran_Republic" title="wikilink">TR</a>), <a href="Beamer" title="wikilink">Beamer</a>, <a href="Force-Blade" title="wikilink">Force-Blade</a> (<a href="Vanu_Sovereignty" title="wikilink">VS</a>)</p></td>
+<td><p><a href="Automatic_Machine_Pistol.md" title="wikilink">AMP</a>, <a href="Plasma_grenade.md" title="wikilink">Plasma grenade</a>, <a href="Jammer_grenade.md" title="wikilink">Jammer grenade</a>, <a href="Fragmentation_grenade.md" title="wikilink">Fragmentation grenade</a>, <a href="Suppressor.md" title="wikilink">Suppressor</a><br />
+<a href="Mag-Scatter.md" title="wikilink">Mag-Scatter Pistol</a>, <a href="Mag-Cutter.md" title="wikilink">Mag-Cutter</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Repeater.md" title="wikilink">Repeater</a>, <a href="Chainblade.md" title="wikilink">Chainblade</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Beamer.md" title="wikilink">Beamer</a>, <a href="Force-Blade.md" title="wikilink">Force-Blade</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pre-requisite</strong></p></td>

@@ -39,7 +39,7 @@ Cost</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Mechanized_Assault_Exo-Suit" title="wikilink">Mechanized Assault Exo-Suit</a>:</p></td>
+<td><p><a href="Mechanized_Assault_Exo-Suit.md" title="wikilink">Mechanized Assault Exo-Suit</a>:</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -79,39 +79,39 @@ Cost</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="Standard_Assault" title="wikilink">Standard Assault</a></p></td>
+<td><p><a href="Standard_Assault.md" title="wikilink">Standard Assault</a></p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Heavy_Assault" title="wikilink">Heavy Assault</a></p></td>
+<td><p><a href="Heavy_Assault.md" title="wikilink">Heavy Assault</a></p></td>
 <td><p>4</p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Special_Assault" title="wikilink">Special Assault</a></p></td>
+<td><p><a href="Special_Assault.md" title="wikilink">Special Assault</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Elite_Assault" title="wikilink">Elite Assault</a></p></td>
+<td><p><a href="Elite_Assault.md" title="wikilink">Elite Assault</a></p></td>
 <td><p>1</p></td>
-<td><p><a href="Special_Assault" title="wikilink">Special Assault</a></p></td>
+<td><p><a href="Special_Assault.md" title="wikilink">Special Assault</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Anti-Vehicular" title="wikilink">Anti-Vehicular</a></p></td>
+<td><p><a href="Anti-Vehicular.md" title="wikilink">Anti-Vehicular</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Sniping" title="wikilink">Sniping</a></p></td>
+<td><p><a href="Sniping.md" title="wikilink">Sniping</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="Medium_Assault" title="wikilink">Medium Assault</a></p></td>
+<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -129,39 +129,39 @@ Cost</p></th>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="Medical" title="wikilink">Medical</a></p></td>
+<td><p><a href="Medical.md" title="wikilink">Medical</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Advanced_Medical" title="wikilink">Advanced Medical</a></p></td>
+<td><p><a href="Advanced_Medical.md" title="wikilink">Advanced Medical</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="Medical" title="wikilink">Medical</a></p></td>
+<td><p><a href="Medical.md" title="wikilink">Medical</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Engineering" title="wikilink">Engineering</a></p></td>
+<td><p><a href="Engineering.md" title="wikilink">Engineering</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Combat_Engineering" title="wikilink">Combat Engineering</a></p></td>
+<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="Engineering" title="wikilink">Engineering</a></p></td>
+<td><p><a href="Engineering.md" title="wikilink">Engineering</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Assault_Engineering" title="wikilink">Assault Engineering</a></p></td>
+<td><p><a href="Assault_Engineering.md" title="wikilink">Assault Engineering</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="Combat_Engineering" title="wikilink">Combat Engineering</a></p></td>
+<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Fortification_Engineering" title="wikilink">Fortification Engineering</a></p></td>
+<td><p><a href="Fortification_Engineering.md" title="wikilink">Fortification Engineering</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="Combat_Engineering" title="wikilink">Combat Engineering</a></p></td>
+<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Advanced_Engineering" title="wikilink">Advanced Engineering</a></p></td>
+<td><p><a href="Advanced_Engineering.md" title="wikilink">Advanced Engineering</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="Combat_Engineering" title="wikilink">Combat Engineering</a></p></td>
+<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="Hacking_(Certification)" title="wikilink">Hacking</a></p></td>
@@ -169,24 +169,24 @@ Cost</p></th>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Advanced_Hacking" title="wikilink">Advanced Hacking</a></p></td>
+<td><p><a href="Advanced_Hacking.md" title="wikilink">Advanced Hacking</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="Hacking_(Certification)" title="wikilink">Hacking</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Expert_Hacking" title="wikilink">Expert Hacking</a></p></td>
+<td><p><a href="Expert_Hacking.md" title="wikilink">Expert Hacking</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="Advanced_Hacking" title="wikilink">Advanced Hacking</a></p></td>
+<td><p><a href="Advanced_Hacking.md" title="wikilink">Advanced Hacking</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Data_Corruption" title="wikilink">Data Corruption</a></p></td>
+<td><p><a href="Data_Corruption.md" title="wikilink">Data Corruption</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="Advanced_Hacking" title="wikilink">Advanced Hacking</a></p></td>
+<td><p><a href="Advanced_Hacking.md" title="wikilink">Advanced Hacking</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Electronics_Expert" title="wikilink">Electronics Expert</a></p></td>
+<td><p><a href="Electronics_Expert.md" title="wikilink">Electronics Expert</a></p></td>
 <td><p>4</p></td>
-<td><p><a href="Advanced_Hacking" title="wikilink">Advanced Hacking</a></p></td>
+<td><p><a href="Advanced_Hacking.md" title="wikilink">Advanced Hacking</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -209,22 +209,22 @@ Cost</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Air_Cavalry_Assault" title="wikilink">Air Cavalry Assault</a></p></td>
+<td><p><a href="Air_Cavalry_Assault.md" title="wikilink">Air Cavalry Assault</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="Air_Cavalry_Scout" title="wikilink">Air Cavalry Scout</a> or <a href="Light_Scout" title="wikilink">Light Scout</a></p></td>
+<td><p><a href="Air_Cavalry_Scout.md" title="wikilink">Air Cavalry Scout</a> or <a href="Light_Scout.md" title="wikilink">Light Scout</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Air_Cavalry_Interceptor" title="wikilink">Air Cavalry Interceptor</a></p></td>
+<td><p><a href="Air_Cavalry_Interceptor.md" title="wikilink">Air Cavalry Interceptor</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="Air_Cavalry_Scout" title="wikilink">Air Cavalry Scout</a> or <a href="Light_Scout" title="wikilink">Light Scout</a></p></td>
+<td><p><a href="Air_Cavalry_Scout.md" title="wikilink">Air Cavalry Scout</a> or <a href="Light_Scout.md" title="wikilink">Light Scout</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="Air_Cavalry_Scout" title="wikilink">Air Cavalry Scout</a></p></td>
+<td><p><a href="Air_Cavalry_Scout.md" title="wikilink">Air Cavalry Scout</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Air_Support" title="wikilink">Air Support</a></p></td>
+<td><p><a href="Air_Support.md" title="wikilink">Air Support</a></p></td>
 <td><p>3</p></td>
 <td></td>
 </tr>
@@ -239,47 +239,47 @@ Cost</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Armored_Assault_I" title="wikilink">Armored Assault I</a></p></td>
+<td><p><a href="Armored_Assault_I.md" title="wikilink">Armored Assault I</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Armored_Assault_II" title="wikilink">Armored Assault II</a></p></td>
+<td><p><a href="Armored_Assault_II.md" title="wikilink">Armored Assault II</a></p></td>
 <td><p>1</p></td>
-<td><p><a href="Armored_Assault_I" title="wikilink">Armored Assault I</a></p></td>
+<td><p><a href="Armored_Assault_I.md" title="wikilink">Armored Assault I</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="BFR_(Certification)" title="wikilink">Battleframe Robotics (BFR)</a></p></td>
 <td><p>4</p></td>
-<td><p><a href="Armored_Assault_II" title="wikilink">Armored Assault II</a></p></td>
+<td><p><a href="Armored_Assault_II.md" title="wikilink">Armored Assault II</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="BFR_Anti-Aircraft" title="wikilink">BFR Anti-Aircraft</a></p></td>
+<td><p><a href="BFR_Anti-Aircraft.md" title="wikilink">BFR Anti-Aircraft</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="BFR_(Certification)" title="wikilink">BFR</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="BFR_Anti-Infantry" title="wikilink">BFR Anti-Infantry</a></p></td>
+<td><p><a href="BFR_Anti-Infantry.md" title="wikilink">BFR Anti-Infantry</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="BFR_(Certification)" title="wikilink">BFR</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="Flail_(Certification)" title="wikilink">Flail</a></p></td>
 <td><p>1</p></td>
-<td><p><a href="Armored_Assault_II" title="wikilink">Armored Assault II</a></p></td>
+<td><p><a href="Armored_Assault_II.md" title="wikilink">Armored Assault II</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="Galaxy_Gunship_(Certification)" title="wikilink">Galaxy Gunship</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="Air_Support" title="wikilink">Air Support</a></p></td>
+<td><p><a href="Air_Support.md" title="wikilink">Air Support</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="Ground_Support" title="wikilink">Ground Support</a></p></td>
+<td><p><a href="Ground_Support.md" title="wikilink">Ground Support</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Ground_Transport" title="wikilink">Ground Transport</a></p></td>
+<td><p><a href="Ground_Transport.md" title="wikilink">Ground Transport</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
@@ -289,7 +289,7 @@ Cost</p></th>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="Light_Scout" title="wikilink">Light Scout</a></p></td>
+<td><p><a href="Light_Scout.md" title="wikilink">Light Scout</a></p></td>
 <td><p>5</p></td>
 <td></td>
 </tr>
