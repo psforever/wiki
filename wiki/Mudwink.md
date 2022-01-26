@@ -121,6 +121,6 @@ luck with the new tool.
 
 Enjoy the firepower TR and happy hunting.
 
---[Mudwink](User:Mudwink.md "wikilink") 13:40, 31 October 2007 (EDT)Mudwink
+--[Mudwink](/User:Mudwink "wikilink") 13:40, 31 October 2007 (EDT)Mudwink
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")

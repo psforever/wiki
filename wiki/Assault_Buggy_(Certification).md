@@ -27,12 +27,12 @@
 
 **Assault Buggy**
 
-The [Skyguard](Skyguard.md "wikilink") requires a [Technology
-Plant](Technology_Plant.md "wikilink") in order to be purchasable.
+The [Skyguard](/Skyguard "wikilink") requires a [Technology
+Plant](/Technology_Plant "wikilink") in order to be purchasable.
 
 Due to the Open-Air Compartment, it is possible to drive all of these
-[vehicles](vehicle.md "wikilink") while wearing [Reinforced
-Exo-Suit](Reinforced_Exo.$1.md "wikilink"). Additionally, the driver of
+[vehicles](/vehicle "wikilink") while wearing [Reinforced
+Exo-Suit](/Reinforced_Exo-Suit "wikilink"). Additionally, the driver of
 these vehicles may bail out at any time.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](/Category:Certification "wikilink")

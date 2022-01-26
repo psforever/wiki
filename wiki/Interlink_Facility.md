@@ -1,1 +1,1 @@
-1.  REDIRECT [Interlink](Interlink.md "wikilink")
+1.  REDIRECT [Interlink](/Interlink "wikilink")

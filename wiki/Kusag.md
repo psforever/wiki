@@ -1,19 +1,19 @@
 Kusag is one of the four [Technology
-Plants](Technology_Plant.md "wikilink") on [Ishundar](Ishundar.md "wikilink")
+Plants](/Technology_Plant "wikilink") on [Ishundar](/Ishundar "wikilink")
 and is to the East inside grids P9, Q9, P10 and Q10.
 
-It has [Lattice](Lattice.md "wikilink") Links to:
+It has [Lattice](/Lattice "wikilink") Links to:
 
-- [Interlink Facility](Interlink_Facility.md "wikilink")
-  [Irkalla](Irkalla.md "wikilink")
-- [Bio Laboratory](Bio_Laboratory.md "wikilink")
-  [Lahar](Lahar.md "wikilink")
-- [Amp Station](Amp_Station.md "wikilink") [Enkidu](Enkidu.md "wikilink")
-- A Broadcast [Warpgate](Warpgate.md "wikilink")
+- [Interlink Facility](/Interlink_Facility "wikilink")
+  [Irkalla](/Irkalla "wikilink")
+- [Bio Laboratory](/Bio_Laboratory "wikilink")
+  [Lahar](/Lahar "wikilink")
+- [Amp Station](/Amp_Station "wikilink") [Enkidu](/Enkidu "wikilink")
+- A Broadcast [Warpgate](/Warpgate "wikilink")
 
-It is a [Hack-and-Hold](Hack-and-Hold.md "wikilink")
-[Facility](Facility.md "wikilink") with a [Watch
-tower](Watch_tower.md "wikilink") to it's northwest, just outside of its
-[SOI](SOI.md "wikilink").
+It is a [Hack-and-Hold](/Hack-and-Hold "wikilink")
+[Facility](/Facility "wikilink") with a [Watch
+tower](/Watch_tower "wikilink") to it's northwest, just outside of its
+[SOI](/SOI "wikilink").
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

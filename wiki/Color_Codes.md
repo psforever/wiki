@@ -3,15 +3,15 @@
 ## Chat pane
 
 When using the in-game chat (for instance, the output of a
-[Macro](Macro.md "wikilink")) you use a single character code to denote
+[Macro](/Macro "wikilink")) you use a single character code to denote
 which color to use. (1-F, i.e., a single Hexadecimal digit).
 
 The Command for this is:
 
 - <Channel> \\#<hexdigit> <message>
   - <Channel> - The Channel you want your message to go to, this can
-    be /o ([Outfit](Outfit.md "wikilink")), /s
-    ([Squad](Squad.md "wikilink")), /p ([Platoon](Platoon.md "wikilink")),
+    be /o ([Outfit](/Outfit "wikilink")), /s
+    ([Squad](/Squad "wikilink")), /p ([Platoon](/Platoon "wikilink")),
     /b (Broadcast), /l (Local) or /c (Command).
   - <hexdigit> - The number or letter of the color that you want
     your message to be.
@@ -83,4 +83,4 @@ to create specific colors is beyond the scope of this wiki. Please refer
 to tools such as the [W3 School's List of HTML Color
 Names](http://www.w3schools.com/tags/ref_colornames.asp).
 
-[Category:Commands](Category:Commands.md "wikilink")
+[Category:Commands](/Category:Commands "wikilink")

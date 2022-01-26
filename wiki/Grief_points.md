@@ -1,7 +1,7 @@
 **Grief points** are a mechanism introduced in an attempt to control the
-amount of [friendly fire](friendly_fire.md "wikilink") that takes place in
+amount of [friendly fire](/friendly_fire "wikilink") that takes place in
 PlanetSide. If at any point a character damages soldiers or equipment
-owned by their own [Empire](Empire.md "wikilink") (with a weapon or a
+owned by their own [Empire](/Empire "wikilink") (with a weapon or a
 vehicle), they will be awarded grief points corresponding to the amount
 of damage caused. As grief points accumulate the subsequent grief added
 is significantly higher. This is to prevent unduly penalizing actual
@@ -131,7 +131,7 @@ while not logged into PlanetSide, the grief lock timer does not. Thus if
 you have a 30 minute grief lock, you must stay logged in for it to
 expire, or else the lock time will carry over until your next session.
 
-[Squad](Squad.md "wikilink") and [outfit](outfit.md "wikilink") members are
+[Squad](/Squad "wikilink") and [outfit](/outfit "wikilink") members are
 exempt from grief for damaging fellow members, as it is assumed that the
 squad and outfit can manage itself.
 
@@ -140,11 +140,11 @@ are shared among characters on the same server, preventing griefers from
 logging in with one character, racking up grief points, and switching
 characters to have a clean slate.
 
-Two common sources of grief are the [Thumper](Thumper.md "wikilink") and
-the [Liberator](Liberator.md "wikilink"). The Thumper because in
+Two common sources of grief are the [Thumper](/Thumper "wikilink") and
+the [Liberator](/Liberator "wikilink"). The Thumper because in
 inexperienced hands it can cause a large amount of area-effect damage to
 friendlies (especially in confined base corridors), and the Liberator
 because of the delay between the release of a bomb and the subsequent
 detonation at ground level.
 
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](/category:Terminology "wikilink")

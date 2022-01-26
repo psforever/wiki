@@ -20,25 +20,25 @@ makes you think the game is broken, when in fact only training
 functionality is broken.
 
 So if you press "Play", you will be required to pick a game server. Pick
-the one with a low [ping](ping.md "wikilink"). For Europeans this will be
-[Werner](Werner.md "wikilink"), for East Coast users this is likely
-[Emerald](Emerald.md "wikilink") and so on. Then create a character. Pick
+the one with a low [ping](/ping "wikilink"). For Europeans this will be
+[Werner](/Werner "wikilink"), for East Coast users this is likely
+[Emerald](/Emerald "wikilink") and so on. Then create a character. Pick
 one of the three empires for your new character. You can create multiple
 characters if you like, but each character starts out with next to no
 abilities. So you might want to focus on developing a single character
 first.
 
 Improving yourself and your abilities in Planetside is based on battle
-[Experience Points](Experience_Points.md "wikilink") (BEP). BEP is awarded
+[Experience Points](/Experience_Points "wikilink") (BEP). BEP is awarded
 for kills that you or your squad members achieve. Also you get BEP for
-taking over an enemy base. Your [Battle Rank](Battle_Rank.md "wikilink")
+taking over an enemy base. Your [Battle Rank](/Battle_Rank "wikilink")
 (BR) increases the more BEP you collect.
 
 With each Battle Rank you gain one [certification
-point](certification_points.md "wikilink") to invest into your abilities
-like piloting certain [vehicles](Vehicle_Index.md "wikilink") or using
+point](/certification_points "wikilink") to invest into your abilities
+like piloting certain [vehicles](/Vehicle_Index "wikilink") or using
 particular weapons. Also with Battle Rank 6, 12 and 18 you can add
-[Implants](Implants.md "wikilink") to yourself that also provide new
+[Implants](/Implants "wikilink") to yourself that also provide new
 abilities. The highest BR to achieve is 23, but it will take a long time
 to get there (I have just reached BR 12 after 3 weeks). The higher your
 BR, the slower you will advance to higher levels. On the flipside, this
@@ -101,7 +101,7 @@ without having shot at a single enemy.
 Initially you had 4 certification points to spend on your skills
 (certs). With each new battle rank you gained extra 1 point. So now you
 should have 7 or 8 points to spend. Here is a few tips on how to spend
-your [Certification points](Certification_points.md "wikilink") (CP).
+your [Certification points](/Certification_points "wikilink") (CP).
 
 #### Prefer to drive tanks?
 
@@ -115,15 +115,15 @@ requires two gunners and has much heavier armor.
 
 #### Want to pilot aircraft?
 
-Get [Air Cavalry Scout](Air_Cavalry_Scout.md "wikilink") (3 CP) if you want
+Get [Air Cavalry Scout](/Air_Cavalry_Scout "wikilink") (3 CP) if you want
 to become a combat pilot. You may even add an extra [Air Cavalry
-Assault](Air_Cavalry_Assault.md "wikilink") (2 more CP) to get access to
-the [Reaver](Reaver.md "wikilink") aircraft which is equipped with powerful
+Assault](/Air_Cavalry_Assault "wikilink") (2 more CP) to get access to
+the [Reaver](/Reaver "wikilink") aircraft which is equipped with powerful
 air to ground missiles.
 
 #### Want to fix broken stuff?
 
-Also get [Engineering](Engineering.md "wikilink") (3 CP) if you want to be
+Also get [Engineering](/Engineering "wikilink") (3 CP) if you want to be
 able to repair vehicles or aircraft on the field. This is a useful skill
 to have. It also enables you to repair broken terminals and turrets
 belonging to your empire. You must wield the Advanced Nano Dispenser
@@ -134,24 +134,24 @@ your inventory.
 
 If you feel more like fighting close combat, get a good armor
 certificate, like the [reinforced
-Exo-Suit](reinforced_Exo.$1.md "wikilink") (3 CP) plus some weapons
-certifications, like [Medium%20Assault](Medium.md%20Assault "wikilink") (2
+Exo-Suit](/reinforced_Exo-Suit "wikilink") (3 CP) plus some weapons
+certifications, like [Medium%20Assault](/Medium%20Assault "wikilink") (2
 CP) and possibly some extra weapons certs like
-[Heavy](Heavy_Assault.md "wikilink") or [Special
-Assault](Special_Assault.md "wikilink"), [Sniping](Sniping.md "wikilink") or
-[Anti-Vehicular](Anti.$1.md "wikilink"). With only Medium assault
-and the standard "[Agile Exo-Suit](Agile_Exo.$1.md "wikilink")" you are
+[Heavy](/Heavy_Assault "wikilink") or [Special
+Assault](/Special_Assault "wikilink"), [Sniping](/Sniping "wikilink") or
+[Anti-Vehicular](/Anti-Vehicular "wikilink"). With only Medium assault
+and the standard "[Agile Exo-Suit](/Agile_Exo-Suit "wikilink")" you are
 no match against other players and you will surely die EXTREMELY often
 which is frustrating.
 
 #### Like to wear a cyborg suit?
 
 If you want to become some sort of Cyborg, try the [Mechanized Armored
-Exo-Suit](Mechanized_Armored_Exo.$1.md "wikilink") certs (MAX). The AA
+Exo-Suit](/Mechanized_Armored_Exo-Suit "wikilink") certs (MAX). The AA
 MAX is the least expensive MAX cert, however it only works well against
 aircraft targets. When anchored (with the B key), its firing rate is
 doubled making it a huge threats to all aircraft (the [Terran
-Republic](Terran_Republic.md "wikilink")'s [Burster](Burster.md "wikilink")
+Republic](/Terran_Republic "wikilink")'s [Burster](/Burster "wikilink")
 MAX that is). It is guaranteed to get you some good kills however you
 are very vulnerable when faced with infantry and vehicles. The
 Anti-Vehicle MAX (AV MAX) and Anti-Infantry (AI MAX) are more expensive
@@ -164,9 +164,9 @@ great firepower.
 #### Like to cloak and sabotage?
 
 If you are the sneaky guy, get the [Infiltration
-Suit](Infiltration_Suit.md "wikilink") certificate (2 CP). Also get the
-[Engineering](Engineering.md "wikilink") (3 CP) and [Combat
-Engineering](Combat_Engineering.md "wikilink") (2 extra CP) skill. This
+Suit](/Infiltration_Suit "wikilink") certificate (2 CP). Also get the
+[Engineering](/Engineering "wikilink") (3 CP) and [Combat
+Engineering](/Combat_Engineering "wikilink") (2 extra CP) skill. This
 will allow you to sneak up to an enemy and plant mines or boomers right
 below their feet which will catch them by surprise most of the time. You
 can also lay mines, set up turrets and motion detectors to hinder the
@@ -178,7 +178,7 @@ your stamina, but prevents you from being shot by an enemy turret.
 #### Recommended implants:
 
 One recommended implant to get (once you reach BR6) is the [Enhanced
-Targeting](Enhanced_Targeting.md "wikilink") implant. It allows you to see
+Targeting](/Enhanced_Targeting "wikilink") implant. It allows you to see
 who is in the enemy you are targeting and what health status he or his
 vehicle has. This greatly helps in deciding whether it is wise to
 continue pursuit of an enemy or whether to abort your attack to seek
@@ -212,10 +212,10 @@ on any world. This will get you either
 - into a friendly tower that is close to a hot spot
 
 Bases can be confusing. After 3 weeks, I still havent memorized every
-single base layout. There are [Amp Stations](Amp_Station.md "wikilink"),
-[Bio Labs](Bio_Lab.md "wikilink"), [Tech Plants](Tech_Plant.md "wikilink"),
-[Dropship Centers](Dropship_Center.md "wikilink"), and [Interlink
-Facilities](Interlink_Facility.md "wikilink"), each having a different
+single base layout. There are [Amp Stations](/Amp_Station "wikilink"),
+[Bio Labs](/Bio_Lab "wikilink"), [Tech Plants](/Tech_Plant "wikilink"),
+[Dropship Centers](/Dropship_Center "wikilink"), and [Interlink
+Facilities](/Interlink_Facility "wikilink"), each having a different
 layouts and multiple stories. So I often finding myself wandering
 through the corridors, not ending up where I want to. The map only
 offers limited orientation because it only shows the level you are
@@ -250,7 +250,7 @@ numbers with heavy machinery.
 ### Basic Game Objectives
 
 - Do not shoot friendly troops. Doing so incurs [Grief
-  points](Grief_points.md "wikilink"). Above 1000 grief points, your
+  points](/Grief_points "wikilink"). Above 1000 grief points, your
   weapons will be DISABLED and your operating of vehicles will be
   limited to walking speed. Grief points are reduced slowly at a
   constant rate.
@@ -262,11 +262,11 @@ numbers with heavy machinery.
 <!-- -->
 
 - Make sure the enemy cannot hack your base's [control
-  console](Control_Console.md "wikilink").
+  console](/Control_Console "wikilink").
 
 <!-- -->
 
-- Defend your base's [generator](generator.md "wikilink"). Without it, no
+- Defend your base's [generator](/generator "wikilink"). Without it, no
   terminal or turret will work.
 
 <!-- -->
@@ -280,18 +280,18 @@ numbers with heavy machinery.
   turns neutral which is a bad thing if it was your own base, but a
   good thing if it is an enemy base. Broken turrets and terminals
   drain energy from the silo! [Advanced Nanite
-  Transport](Advanced_Nanite_Transport.md "wikilink") vehicles (ANTs)
+  Transport](/Advanced_Nanite_Transport "wikilink") vehicles (ANTs)
   must be used to collect Nanites from
-  [warpgates](warpgate.md "wikilink") and transport them to the silos.
+  [warpgates](/warpgate "wikilink") and transport them to the silos.
 
 <!-- -->
 
-- Hack enemy [Facilities](Facilities.md "wikilink"). There are two types
+- Hack enemy [Facilities](/Facilities "wikilink"). There are two types
   of facilities. Some must be hacked and held for 15 minutes to
-  conquer, others must be hacked and a [LLU](LLU.md "wikilink") must be
+  conquer, others must be hacked and a [LLU](/LLU "wikilink") must be
   taken to your own base (similar to a "capture the flag" game).
   Hacking is done with the [Remote Electronics
-  Kit](Remote_Electronics_Kit.md "wikilink") (REK). It disables door
+  Kit](/Remote_Electronics_Kit "wikilink") (REK). It disables door
   locks on enemy facilities and allows hacking the control console.
   Hacking takes time.
 
@@ -309,7 +309,7 @@ numbers with heavy machinery.
 
 <!-- -->
 
-- A tool called [TeamSpeak](TeamSpeak.md "wikilink") is available free of
+- A tool called [TeamSpeak](/TeamSpeak "wikilink") is available free of
   charge on the Internet and can be used to provide voice
   communications for squads and outfits.
 
@@ -598,11 +598,11 @@ Advanced Knowledge
   dematerializes and vice versa. That means if you get killed while
   there were detonators in your inventory, the boomers also go away!
   To avoid this problem, put the detonators into your
-  [locker](locker.md "wikilink") or a vehicle trunk (but make sure the
+  [locker](/locker "wikilink") or a vehicle trunk (but make sure the
   vehicle stays around long enough). You can also drop the detonators,
   at the risk of someone else (enemies) picking them up.
 
-### [Burster](Burster.md "wikilink") MAX Tactics
+### [Burster](/Burster "wikilink") MAX Tactics
 
 - <i>NOTE: This is a guide for using The TR Burster MAX, NOT the VS
   Starfire or NC Sparrow MAX
@@ -691,4 +691,4 @@ Written by:
 
 (Astrala, TR on Werner. BR 12 when this guide was started, now at BR 15)
 
-[category: Strategy](category:_Strategy.md "wikilink")
+[category: Strategy](/category:_Strategy "wikilink")

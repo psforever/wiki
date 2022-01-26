@@ -28,9 +28,9 @@ With <a href="BFR_(Merit)" title="wikilink">BFR Basic</a> <a href="Merit" title=
 
 **Battle Frame Robotics**
 
-You must have a [BFR Imprint](BFR_Imprint.md "wikilink") from the
-[caverns](cavern.md "wikilink") before obtaining this
-[certification](certification.md "wikilink").
+You must have a [BFR Imprint](/BFR_Imprint "wikilink") from the
+[caverns](/cavern "wikilink") before obtaining this
+[certification](/certification "wikilink").
 
 Upon completion, you have access only to the Gunner Variant BFR, not the
 Flight Variant.
@@ -38,8 +38,8 @@ Flight Variant.
 Flight Variant's (FV) are avaliable after completing the [BFR
 Basic](</BFR_(Merit)> "wikilink").
 
-This [Certification](Certification.md "wikilink") is required to obtain the
+This [Certification](/Certification "wikilink") is required to obtain the
 [BFR Basic](</BFR_(Merit)> "wikilink") [Merit
-Commendation](Merit_Commendation.md "wikilink").
+Commendation](/Merit_Commendation "wikilink").
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](/Category:Certification "wikilink")

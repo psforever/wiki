@@ -1,1 +1,1 @@
-1.  REDIRECT [Darklight](Darklight.md "wikilink")
+1.  REDIRECT [Darklight](/Darklight "wikilink")

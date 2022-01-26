@@ -1,7 +1,7 @@
-![](Oi_decal23_VS.md.gif "fig:Oi_decal23_VS.gif")\]\] **Allied Tribal
-Forces** is one of the oldest [VS](VS.md "wikilink")
-[Outfits](Outfit.md "wikilink") forming August of 2002 in early preparation
-for the release of [PlanetSide](PlanetSide.md "wikilink").
+![](/Oi_decal23_VS.gif "fig:Oi_decal23_VS.gif")\]\] **Allied Tribal
+Forces** is one of the oldest [VS](/VS "wikilink")
+[Outfits](/Outfit "wikilink") forming August of 2002 in early preparation
+for the release of [PlanetSide](/PlanetSide "wikilink").
 
 Initially 6 separate clans forming an alliance under the Allied Tribal
 Forces banner, ATF has grown from a PlanetSide outfit into a massive

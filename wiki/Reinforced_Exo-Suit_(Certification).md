@@ -1,7 +1,7 @@
 |                        |                                                        |
 | ---------------------- | ------------------------------------------------------ |
 | **Type**               | Armor                                                  |
-| **Provides Access To** | [Reinforced Exo-Suit](Reinforced_Exo.$1.md "wikilink") |
+| **Provides Access To** | [Reinforced Exo-Suit](/Reinforced_Exo-Suit "wikilink") |
 | **Pre-requisite**      | \-                                                     |
 | **Required For**       | \-                                                     |
 | **Cert Point Cost**    | 3                                                      |
@@ -11,6 +11,6 @@
 **Reinforced Exo-Suit**
 
 This certification is free for characters with the [Five Year Term of
-Service](Term_of_Service.md "wikilink") award.
+Service](/Term_of_Service "wikilink") award.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](/Category:Certification "wikilink")

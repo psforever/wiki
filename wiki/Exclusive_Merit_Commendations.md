@@ -1,11 +1,11 @@
 # Exclusive Merits
 
 These extremely rare [Merit
-Commendations](Merit_Commendation.md "wikilink") are only given out to
+Commendations](/Merit_Commendation "wikilink") are only given out to
 certain people or groups that have:
 
-- Attended special [PlanetSide](PlanetSide.md "wikilink")
-  [Events](Event.md "wikilink")
+- Attended special [PlanetSide](/PlanetSide "wikilink")
+  [Events](/Event "wikilink")
 - Helped out the community by performing a certain task
 - Won a contest
 - Completed certain in-game requirements
@@ -18,7 +18,7 @@ certain people or groups that have:
 <tr>
 <td rowspan="1">
 
-[Ball & Chain](Ball_.md&_Chain "wikilink")
+[Ball & Chain](/Ball_&_Chain "wikilink")
 
 </td>
 <td class="mitd">
@@ -85,7 +85,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Distinguished Veteran](Distinguished_Veteran.md "wikilink")
+[Distinguished Veteran](/Distinguished_Veteran "wikilink")
 
 </td>
 <td class="mitd">
@@ -214,7 +214,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Black Ops Mercenary](Black_Ops_Mercenary.md "wikilink")
+[Black Ops Mercenary](/Black_Ops_Mercenary "wikilink")
 
 </td>
 <td class="mitd">
@@ -504,7 +504,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Holiday Gingerbread Men](Holiday_Gingerbread_Men.md "wikilink")
+[Holiday Gingerbread Men](/Holiday_Gingerbread_Men "wikilink")
 
 </td>
 <td class="mitd">
@@ -542,7 +542,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Holiday Snowmen](Holiday_Snowmen.md "wikilink")
+[Holiday Snowmen](/Holiday_Snowmen "wikilink")
 
 </td>
 <td class="mitd">
@@ -580,7 +580,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Holiday Spirit of Youth](Holiday_Spirit_of_Youth.md "wikilink")
+[Holiday Spirit of Youth](/Holiday_Spirit_of_Youth "wikilink")
 
 </td>
 <td class="mitd">
@@ -1337,4 +1337,4 @@ Appreciation](</Quality_Assurance_Appreciation_(merit)> "wikilink")
 </tr>
 </table>
 
-[\*](category:Merits.md "wikilink")
+[\*](/category:Merits "wikilink")

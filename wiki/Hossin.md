@@ -1,19 +1,19 @@
-![](images/HossinMap.jpg "fig:HossinMap.jpg")
-![](images/Hossin_Terrain.jpg "fig:Hossin_Terrain.jpg")
+![](/images/HossinMap.jpg "fig:HossinMap.jpg")
+![](/images/Hossin_Terrain.jpg "fig:Hossin_Terrain.jpg")
 
 ## Continental Data
 
-|                                             |                                                                                       |
-| ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Category:                                   | Caustic Atmosphere                                                                    |
-| Climate:                                    | Humid, Temperate                                                                      |
-| Landmass:                                   | Continent                                                                             |
-| Terrain:                                    | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains.    |
-| [Facilities](Facilities.md "wikilink"):     | 11                                                                                    |
-| [Towers](Tower.md "wikilink"):              | 18                                                                                    |
-| Active [Warpgates](Warpgate.md "wikilink"): | 4                                                                                     |
-| Active [Geowarps](Geowarp.md "wikilink"):   | 1                                                                                     |
-| [Capitol](Capitol.md "wikilink"):           | [Interlink Facility](Interlink_Facility.md "wikilink") [Voltan](Voltan.md "wikilink") |
+|                                           |                                                                                    |
+| ----------------------------------------- | ---------------------------------------------------------------------------------- |
+| Category:                                 | Caustic Atmosphere                                                                 |
+| Climate:                                  | Humid, Temperate                                                                   |
+| Landmass:                                 | Continent                                                                          |
+| Terrain:                                  | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains. |
+| [Facilities](/Facilities "wikilink"):     | 11                                                                                 |
+| [Towers](/Tower "wikilink"):              | 18                                                                                 |
+| Active [Warpgates](/Warpgate "wikilink"): | 4                                                                                  |
+| Active [Geowarps](/Geowarp "wikilink"):   | 1                                                                                  |
+| [Capitol](/Capitol "wikilink"):           | [Interlink Facility](/Interlink_Facility "wikilink") [Voltan](/Voltan "wikilink")  |
 
 ## Description
 
@@ -25,56 +25,56 @@ This lush, temperate continent has low-lying hills and boggy swamps
 dotting the terrain that lure the unwary into thinking straight-line of
 travel would be easiest, much to their later dismay.
 
-The [continent](continent.md "wikilink") is divided by a river in the
+The [continent](/continent "wikilink") is divided by a river in the
 center which splits and surrounds an island on its way through the
-continent. On this island is the [Capitol](Capitol.md "wikilink") of
-Hossin, [Voltan](Voltan.md "wikilink"), an [Interlink
-Facility](Interlink_Facility.md "wikilink").
+continent. On this island is the [Capitol](/Capitol "wikilink") of
+Hossin, [Voltan](/Voltan "wikilink"), an [Interlink
+Facility](/Interlink_Facility "wikilink").
 
-Hossin is a [Home Continent](Home_Continent.md "wikilink"). A
-[Sanctuary](Sanctuary.md "wikilink") warpgate links to the
-[Mulac](Mulac.md "wikilink") Technology Plant in the south east. The
-continent's other [warpgates](warpgate.md "wikilink") link from
-[Ghanon](Ghanon.md "wikilink") to [Sungrey](Sungrey.md "wikilink") on
-[Amerish](Amerish.md "wikilink"), [Hurakan](Hurakan.md "wikilink") to
-[Wakea](Wakea.md "wikilink") on [Searhus](Searhus.md "wikilink"), and
-[Chac](Chac.md "wikilink") to [Baal](Baal.md "wikilink") on
-[Ishundar](Ishundar.md "wikilink"). See [Home
-Continent](Home_Continent.md "wikilink") for the current empire sanctuary
+Hossin is a [Home Continent](/Home_Continent "wikilink"). A
+[Sanctuary](/Sanctuary "wikilink") warpgate links to the
+[Mulac](/Mulac "wikilink") Technology Plant in the south east. The
+continent's other [warpgates](/warpgate "wikilink") link from
+[Ghanon](/Ghanon "wikilink") to [Sungrey](/Sungrey "wikilink") on
+[Amerish](/Amerish "wikilink"), [Hurakan](/Hurakan "wikilink") to
+[Wakea](/Wakea "wikilink") on [Searhus](/Searhus "wikilink"), and
+[Chac](/Chac "wikilink") to [Baal](/Baal "wikilink") on
+[Ishundar](/Ishundar "wikilink"). See [Home
+Continent](/Home_Continent "wikilink") for the current empire sanctuary
 links.
 
 This continent is also refered to as
-[Hos](Acronyms_and_Slang.md "wikilink").
+[Hos](/Acronyms_and_Slang "wikilink").
 
 Source: PlanetSide In-game descriptions, pre- and
-post-[Bending](Bending.md "wikilink").
+post-[Bending](/Bending "wikilink").
 
-## Base [Facilities](Facilities.md "wikilink")
+## Base [Facilities](/Facilities "wikilink")
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](/Amp_Station "wikilink")
 
-- [Ixtab](Ixtab.md "wikilink") ([Sub-Capitol](Sub.$1.md "wikilink"))
+- [Ixtab](/Ixtab "wikilink") ([Sub-Capitol](/Sub-Capitol "wikilink"))
 
-### [Bio Laboratories](Bio_Laboratories.md "wikilink")
+### [Bio Laboratories](/Bio_Laboratories "wikilink")
 
-- [Acan](Acan.md "wikilink") (Sub-Capitol)
-- [Bitol](Bitol.md "wikilink") (Sub-Capitol)
-- [Zotz](Zotz.md "wikilink")
+- [Acan](/Acan "wikilink") (Sub-Capitol)
+- [Bitol](/Bitol "wikilink") (Sub-Capitol)
+- [Zotz](/Zotz "wikilink")
 
-### [Dropship Centers](Dropship_Centers.md "wikilink")
+### [Dropship Centers](/Dropship_Centers "wikilink")
 
-- [Naum](Naum.md "wikilink") (Sub-Capitol)
+- [Naum](/Naum "wikilink") (Sub-Capitol)
 
-### [Interlink Facilities](Interlink_Facilities.md "wikilink")
+### [Interlink Facilities](/Interlink_Facilities "wikilink")
 
-- [Hurakan](Hurakan.md "wikilink")
-- [Kisin](Kisin.md "wikilink")
-- [Voltan](Voltan.md "wikilink") ([Capitol](Capitol.md "wikilink"))
+- [Hurakan](/Hurakan "wikilink")
+- [Kisin](/Kisin "wikilink")
+- [Voltan](/Voltan "wikilink") ([Capitol](/Capitol "wikilink"))
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](/Technology_Plant "wikilink")
 
-- [Chac](Chac.md "wikilink")
-- [Ghanon](Ghanon.md "wikilink")
-- [Mulac](Mulac.md "wikilink")
+- [Chac](/Chac "wikilink")
+- [Ghanon](/Ghanon "wikilink")
+- [Mulac](/Mulac "wikilink")
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](/Category:Locations "wikilink")

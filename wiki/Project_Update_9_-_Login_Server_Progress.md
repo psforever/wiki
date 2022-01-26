@@ -60,4 +60,4 @@ With this, here are some of the things that are my list of things to do
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=156)
 
-[Category:PSForever Updates](Category:PSForever_Updates.md "wikilink")
+[Category:PSForever Updates](/Category:PSForever_Updates "wikilink")

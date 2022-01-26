@@ -141,4 +141,4 @@ at once with a slight decrease to accuracy. It has two ammo types:
 
 MORE SOON....
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")

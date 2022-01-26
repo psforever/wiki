@@ -1,30 +1,30 @@
-Each type of [base facility](facilities.md "wikilink") carries with it a
+Each type of [base facility](/facilities "wikilink") carries with it a
 unique benefit for the Empire holding that base. These benefits can be
 linked to other facilities via the [Continental
-Lattice](lattice.md "wikilink"). A facility can enjoy many benefits from
+Lattice](/lattice "wikilink"). A facility can enjoy many benefits from
 mulitiple bases through direct and indirect chains of links.
 
 Facility Linked Benefits, or FLB, can be interupted if the base is
-[hacked](Capturing_Bases.md "wikilink") by the enemy, if the
-[generator](generator.md "wikilink") is destroyed, a
-[Virus](Virus.md "wikilink") is uploaded into the [Main
-Terminal](Main_Terminal.md "wikilink"), or the base runs out of
-[NTU](NTU.md "wikilink") and goes [neutral](neutral.md "wikilink"). Any
+[hacked](/Capturing_Bases "wikilink") by the enemy, if the
+[generator](/generator "wikilink") is destroyed, a
+[Virus](/Virus "wikilink") is uploaded into the [Main
+Terminal](/Main_Terminal "wikilink"), or the base runs out of
+[NTU](/NTU "wikilink") and goes [neutral](/neutral "wikilink"). Any
 facility linked to this incapacitated base, directly or via a chain of
 bases, will lose that base's benefit (except viruses, which affect only
 the infected base).
 
 This system is a similar one used for [Cavern
-Modules](Modules.md "wikilink").
+Modules](/Modules "wikilink").
 
-Icons on the [Continental Map](Continental_Map.md "wikilink") represent
+Icons on the [Continental Map](/Continental_Map "wikilink") represent
 each type of benefit associated or linked to that base.
 
 ## Available Facility Benefits
 
-- [Amp Station](Amp_Station.md "wikilink") - (Benefit icon: Shielded
+- [Amp Station](/Amp_Station "wikilink") - (Benefit icon: Shielded
   vehicle) Charges the shield generators of vehicles while they are in
-  a friendly [Sphere of Influence (SOI)](SOI.md "wikilink").
+  a friendly [Sphere of Influence (SOI)](/SOI "wikilink").
 
   **Shield Generators:** Each vehicle has a shield generator installed
   in it. When they enter an Amp Station's SOI or the SOI of a facility
@@ -37,24 +37,24 @@ each type of benefit associated or linked to that base.
   friendly SOI, the shield will remain, though it will not recharge if
   it takes any damage until the driver returned to an Amp Station's
   SOI or any SOI linked to an Amp Station. See [Vehicle
-  Armor](Vehicle_Armor.md "wikilink") for a list of vehicle shield
+  Armor](/Vehicle_Armor "wikilink") for a list of vehicle shield
   strength and the time to fully charge the shield.
 
 <!-- -->
 
-- [Bio Laboratory](Bio_Laboratory.md "wikilink") - (Benefit icon: [Spawn
-  tube](Spawn_tube.md "wikilink")) Reduces respawn times at friendly
+- [Bio Laboratory](/Bio_Laboratory "wikilink") - (Benefit icon: [Spawn
+  tube](/Spawn_tube "wikilink")) Reduces respawn times at friendly
   linked facilities.
 
 <!-- -->
 
-- [Dropship Center](Dropship_Center.md "wikilink") - (Benefit icon:
+- [Dropship Center](/Dropship_Center "wikilink") - (Benefit icon:
   Wrench) Enables the Repair ability at Vehicle [Repair and Rearm
-  Stations](Repair.md/Rearm_Silo "wikilink").
+  Stations](/Repair/Rearm_Silo "wikilink").
 
   **Rearm and Repair pads and silos** provide a quick and easy way for
   vehicles to repair damage. Each facility is equipped with one or
-  more aircraft [landing pads](Landing_Pad.md "wikilink") and two ground
+  more aircraft [landing pads](/Landing_Pad "wikilink") and two ground
   panels that will perform this function. When a player is in control
   of a vehicle, they can approach either the pad or panel, depending
   on whether they are controlling an aircraft or a ground vehicle, and
@@ -67,25 +67,25 @@ each type of benefit associated or linked to that base.
 
   Replenishment of vehicle ammunition has since become a free feature
   for all bases, regardless of a link to a Dropship Center. See
-  [Repair/Rearm Silo](Repair.md/Rearm_Silo "wikilink").
-  Note: [Ancient Tech](Ancient_Tech.md "wikilink") Vehicles
-  ([Flail](Flail.md "wikilink") and
-  [Switchblade](Switchblade.md "wikilink")) require the [Vehicle
-  Module](Vehicle_Module.md "wikilink") benefit to be repaired and/or
+  [Repair/Rearm Silo](/Repair/Rearm_Silo "wikilink").
+  Note: [Ancient Tech](/Ancient_Tech "wikilink") Vehicles
+  ([Flail](/Flail "wikilink") and
+  [Switchblade](/Switchblade "wikilink")) require the [Vehicle
+  Module](/Vehicle_Module "wikilink") benefit to be repaired and/or
   rearmed, and will not be repaired with the Dropship Center benefit
   alone.
 
 <!-- -->
 
-- [Interlink Facility](Interlink_Facility.md "wikilink") - (Benefit icon:
+- [Interlink Facility](/Interlink_Facility "wikilink") - (Benefit icon:
   Radar) Enhanced RADAR abilities at all linked facilities.
 
   Facilities linked to an Interlink Facility will gain certain
   enhancements to their **RADAR systems**. All enemy vehicles will
   appear on RADAR, except for deployed [Advanced Mobile
-  Stations](Advanced_Mobile_Station.md "wikilink"),
-  [Harassers](Harasser.md "wikilink"), [Mosquitos](Mosquito.md "wikilink"),
-  and [Wasps](Wasp.md "wikilink"). All running enemy infantry, including
+  Stations](/Advanced_Mobile_Station "wikilink"),
+  [Harassers](/Harasser "wikilink"), [Mosquitos](/Mosquito "wikilink"),
+  and [Wasps](/Wasp "wikilink"). All running enemy infantry, including
   cloaked Infiltrators, will appear on the RADAR. Enemy infantry,
   including cloaked Infiltrators, will appear on RADAR if they are
   within a Spitfire Turret or Motion Sensor's detection radius,
@@ -93,8 +93,8 @@ each type of benefit associated or linked to that base.
 
 <!-- -->
 
-- [Technology Plant](Technology_Plant.md "wikilink") - (Benefit icon:
+- [Technology Plant](/Technology_Plant "wikilink") - (Benefit icon:
   Tank) Provides Access to [Advanced Assault
-  vehicles](Advanced_Assault_vehicles.md "wikilink")
+  vehicles](/Advanced_Assault_vehicles "wikilink")
 
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](/category:Terminology "wikilink")

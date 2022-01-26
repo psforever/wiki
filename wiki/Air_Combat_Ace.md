@@ -235,10 +235,10 @@ combat aircraft yourself.
 
 Combat aircraft include the following:
 
-- [Liberator](Liberator.md "wikilink")
-- [Reaver](Reaver.md "wikilink")
-- [Mosquito](Mosquito.md "wikilink")
-- [Vulture](Vulture.md "wikilink")
-- [Wasp](Wasp.md "wikilink")
+- [Liberator](/Liberator "wikilink")
+- [Reaver](/Reaver "wikilink")
+- [Mosquito](/Mosquito "wikilink")
+- [Vulture](/Vulture "wikilink")
+- [Wasp](/Wasp "wikilink")
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

@@ -1,1 +1,1 @@
-[category:Facilities](category:Facilities.md "wikilink")
+[category:Facilities](/category:Facilities "wikilink")

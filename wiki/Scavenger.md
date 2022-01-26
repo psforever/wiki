@@ -450,12 +450,12 @@
 </table>
 
 A six-level Merit awarded for using a handheld weapon of an opposing
-[Empire](Empire.md "wikilink").
+[Empire](/Empire "wikilink").
 This can be a Weapon from one of the following classes:
 
-- [Standard Assault](Standard_Assault.md "wikilink")
-- [Medium Assault](Medium_Assault.md "wikilink")
-- [Heavy Assault](Heavy_Assault.md "wikilink")
-- [Anti-Vehicular](Anti.$1.md "wikilink")
+- [Standard Assault](/Standard_Assault "wikilink")
+- [Medium Assault](/Medium_Assault "wikilink")
+- [Heavy Assault](/Heavy_Assault "wikilink")
+- [Anti-Vehicular](/Anti-Vehicular "wikilink")
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

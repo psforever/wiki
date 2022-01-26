@@ -213,6 +213,6 @@
 </table>
 
 This Merit is awarded to soldiers amassing kills with [Medium
-Assault](Medium_Assault.md "wikilink") weapons.
+Assault](/Medium_Assault "wikilink") weapons.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

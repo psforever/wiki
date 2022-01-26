@@ -34,8 +34,8 @@
 </tbody>
 </table>
 
-This [Exclusive](Exclusive_Merit_Commendations.md "wikilink") [Merit
-Commendation](Merit_Commendation.md "wikilink") is awarded to Players at
-the discretion of [SOE](SOE.md "wikilink") [CSRs](CSR.md "wikilink").
+This [Exclusive](/Exclusive_Merit_Commendations "wikilink") [Merit
+Commendation](/Merit_Commendation "wikilink") is awarded to Players at
+the discretion of [SOE](/SOE "wikilink") [CSRs](/CSR "wikilink").
 
-[Category:Merits](Category:Merits.md "wikilink")
+[Category:Merits](/Category:Merits "wikilink")

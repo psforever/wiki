@@ -27,14 +27,14 @@
 
 **Light Scout**
 
-This "package deal" [certification](certification.md "wikilink") equates to
+This "package deal" [certification](/certification "wikilink") equates to
 [Assault Buggy](</Assault_Buggy_(Certification)> "wikilink") certification
-with the addition of the [Mosquito](Mosquito.md "wikilink") for a 1-point
+with the addition of the [Mosquito](/Mosquito "wikilink") for a 1-point
 discount.
 
 This cert cannot be purchased if a conflicting certification is already
 possessed; in this case Assault Buggy,
 [Harasser](</Harasser_(Certification)> "wikilink"), or [Air Cavalry
-Scout](Air_Cavalry_Scout.md "wikilink").
+Scout](/Air_Cavalry_Scout "wikilink").
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](/Category:Certification "wikilink")

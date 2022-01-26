@@ -1,16 +1,16 @@
-Hiro is one of the four [Bio Laboratories](Bio_Laboratory.md "wikilink") on
-[Searhus](Searhus.md "wikilink") and is in the North inside grids L6 and
+Hiro is one of the four [Bio Laboratories](/Bio_Laboratory "wikilink") on
+[Searhus](/Searhus "wikilink") and is in the North inside grids L6 and
 L7.
 
-It has [Lattice](Lattice.md "wikilink") Links to:
+It has [Lattice](/Lattice "wikilink") Links to:
 
-- [Interlink Facility](Interlink_Facility.md "wikilink")
-  [Laka](Laka.md "wikilink")
-- [Amp Station](Amp_Station.md "wikilink") [Matagi](Matagi.md "wikilink")
-- [Technology Plant](Technology_Plant.md "wikilink")
-  [Karihi](Karihi.md "wikilink")
+- [Interlink Facility](/Interlink_Facility "wikilink")
+  [Laka](/Laka "wikilink")
+- [Amp Station](/Amp_Station "wikilink") [Matagi](/Matagi "wikilink")
+- [Technology Plant](/Technology_Plant "wikilink")
+  [Karihi](/Karihi "wikilink")
 
 It is a Hack and Hold Facility and has a Gun Tower to its East, which is
-partially inside the [SOI](SOI.md "wikilink").
+partially inside the [SOI](/SOI "wikilink").
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

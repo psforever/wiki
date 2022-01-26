@@ -1,13 +1,13 @@
-[Sony Online Entertainment](Sony_Online_Entertainment.md "wikilink") (SOE)
+[Sony Online Entertainment](/Sony_Online_Entertainment "wikilink") (SOE)
 is a computer game development division of Sony which seems to
 specialize in Massively Multiplayer Online Games. SOE is best known for
 creating EverQuest, Star Wars Galaxies, and
-[PlanetSide](PlanetSide.md "wikilink"), which all have thousands of
+[PlanetSide](/PlanetSide "wikilink"), which all have thousands of
 subscribers. SOE was originally Verant Interactive. **NOTOC**
 
 ## History
 
-![](images/EverQuest_Box_Art.jpg "EverQuest_Box_Art.jpg")
+![](/images/EverQuest_Box_Art.jpg "EverQuest_Box_Art.jpg")
 
 ### EverQuest
 
@@ -29,7 +29,7 @@ becoming known as Verant Interactive.
 
 _EverQuest_ became immensely popular and gained ten expansion packs, a
 sequel, and numerous spin off games.
-![](images/Star_Wars_Galaxies_Box_Art.jpg "fig:Star_Wars_Galaxies_Box_Art.jpg")
+![](/images/Star_Wars_Galaxies_Box_Art.jpg "fig:Star_Wars_Galaxies_Box_Art.jpg")
 
 ### Star Wars Galaxies
 
@@ -50,7 +50,7 @@ your own cities and such like it was for the past 2 years.
 
 Sony Online Entertainment has taken several new leaps in Massively
 Multiplayer Online gaming with the releases of
-[PlanetSide](PlanetSide.md "wikilink") and _EverQuest Online Adventures_.
+[PlanetSide](/PlanetSide "wikilink") and _EverQuest Online Adventures_.
 PlanetSide was one of the first massively multiplayer online first
 person shooters, while _EverQuest Online Adventures_ was one of the
 first PS2 MMORPG's. Neither turned out to be as popular as SOE's other
@@ -63,7 +63,7 @@ It is headquartered in San Diego, California with studios in Austin,
 Texas and Seattle, Washington. Sony Online Entertainment released
 _EverQuest II_, but it still maintains many of it's older games,
 including the original _EverQuest_ and
-[PlanetSide](PlanetSide.md "wikilink").
+[PlanetSide](/PlanetSide "wikilink").
 
 On January 17, 2005, SOE announced it's new feature called Station
 Publishing, which is a new label for distributing titles made by other
@@ -80,4 +80,4 @@ including _Jeopardy! Online_ and _Cosmic Rift_
   Site](http://starwarsgalaxies.station.sony.com/)
 - [_PlanetSide_'s Official Site](http://planetside.station.sony.com/)
 
-[Category:PlanetSide](Category:PlanetSide.md "wikilink")
+[Category:PlanetSide](/Category:PlanetSide "wikilink")

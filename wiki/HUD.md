@@ -1,1 +1,1 @@
-1.  REDIRECT [Heads-up Display](Heads.$1.md "wikilink")
+1.  REDIRECT [Heads-up Display](/Heads-up_Display "wikilink")

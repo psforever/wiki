@@ -6,19 +6,19 @@ be the case.)
 
 Located at the top middle, this strip shows the names, numbers,
 conditions and grid references of the members of your current
-[squad](squad.md "wikilink"). Red sections indicate a squad member's
+[squad](/squad "wikilink"). Red sections indicate a squad member's
 current Health, blue shows Armor. Each squad member is given an
 arbitrarty number, which is used to show them on the [Continental
-Map](Continental_Map.md "wikilink"). Thier current Map
-[Grid](Grid.md "wikilink") reference is shown under their name.
+Map](/Continental_Map "wikilink"). Thier current Map
+[Grid](/Grid "wikilink") reference is shown under their name.
 
-In a [Platoon](Platoon.md "wikilink"), this information extends to cover up
+In a [Platoon](/Platoon "wikilink"), this information extends to cover up
 to two other squads, show in different colored borders; yellow, orange,
 and purple.
 
-### [Proximity Map](Proximity_Map.md "wikilink")
+### [Proximity Map](/Proximity_Map "wikilink")
 
-Located at the top left, the [Proximity Map](Proximity_Map.md "wikilink")
+Located at the top left, the [Proximity Map](/Proximity_Map "wikilink")
 shows detailed information of the immediate surrounding terran or rooms.
 It also shows friendly troop positions and movments as green dots, and
 in some circumstances, enemy troops and vehicles as red.
@@ -31,7 +31,7 @@ field of view as up, in the Video Options.
 
 Located in the centre, this cross-hair shows you where your gun will
 fire. This is dynamic and adjusts position in the case of off-set
-weaponry; i.e. [Lightning](Lightning.md "wikilink") weapon systems and BFR
+weaponry; i.e. [Lightning](/Lightning "wikilink") weapon systems and BFR
 arms.
 
 The reticule changes color depending on what it is over:
@@ -49,7 +49,7 @@ When over a target the reticle also displays the name and distance of
 the target.
 
 The reticle also shows the current status of the [Cone of
-fire](Cone_of_fire.md "wikilink") system, and how accurate the shot will
+fire](/Cone_of_fire "wikilink") system, and how accurate the shot will
 be. The further apart the reticule's extremeties are, the less accurate.
 Stop moving and crouch to draw these edges in and increase the accuracy.
 The shot has a random chance of landing anywhere within a circle
@@ -59,7 +59,7 @@ The reticle also displayed if a shot has hit the target, by flashing a
 transparent gold disk each time a shot lands on target. This includes
 static objects and friendlies.
 
-### Status & [Chat](In.$1.md "wikilink") Pane
+### Status & [Chat](/In-Game_Chat "wikilink") Pane
 
 This window is divided into two sections.
 
@@ -75,34 +75,34 @@ with any kills made against, or by, his current squad. Squad kill
 messages can be from a different planet. \[Square Brackets\] denote that
 that player was using a vehicle at the time.
 
-Used with the [Continental Map](Continental_Map.md "wikilink"), this 'kill
+Used with the [Continental Map](/Continental_Map "wikilink"), this 'kill
 spam' can be a powerful tool to work our enemy positions and makeup, as
 it cannot be masked.
 
 Also shown in this section in white text are
-[experience](experience.md "wikilink") awards, as they happen, and world
+[experience](/experience "wikilink") awards, as they happen, and world
 messages, such as the capture of facilities, and the movement of
-[LLUs](LLU.md "wikilink"), implant activations and any other system
+[LLUs](/LLU "wikilink"), implant activations and any other system
 messages.
 
 The lower half shows the chat section. Typed text and voice macros show
 here. Default colors are:
 
 - White: Local Text - Range 20-30m
-- Yellow: [Squad](Squad.md "wikilink") Channel
-- Orange: [Platoon](Platoon.md "wikilink") Channel
-- Bright Green: [Outfit](Outfit.md "wikilink") Channel
-- Indigo/Blue: [SOI](SOI.md "wikilink") Broadcast
+- Yellow: [Squad](/Squad "wikilink") Channel
+- Orange: [Platoon](/Platoon "wikilink") Channel
+- Bright Green: [Outfit](/Outfit "wikilink") Channel
+- Indigo/Blue: [SOI](/SOI "wikilink") Broadcast
 - Blue: Private Messages
 - Teal/Green: Command Broadcasts
 
 These colors are all user definable from the options menu.
 
-(See also: [In-Game Commands](In.$1.md "wikilink"))
+(See also: [In-Game Commands](/In-Game_Commands "wikilink"))
 
 Both section are scrollable and retain several hundred lines.
 
-The top bar of this window has buttons to allow [LFS](LFS.md "wikilink")
+The top bar of this window has buttons to allow [LFS](/LFS "wikilink")
 toggle, and to select the default chat channel, and which channels are
 listened to.
 
@@ -113,7 +113,7 @@ left. The green outline indicates a healthy vehicle, which fills with
 red as more damage is taken. When the outline is full of red, the
 vehicle explodes.
 
-The presence of an [Amp Station](Amp_Station.md "wikilink") allows a shield
+The presence of an [Amp Station](/Amp_Station "wikilink") allows a shield
 to be charged around the vehicle. This is shown by a blue ring around
 the green outline, and also in the status bar at the bottom, as a
 separate gauge.
@@ -121,16 +121,16 @@ separate gauge.
 The vehicle outline may be changed for a more simple armor bar in the
 lower status bar by clicking the appropriate down arrow.
 
-For [ANT](ANT.md "wikilink")'s, there is an [NTU](NTU.md "wikilink") bar at
-the bottom which displays how many [NTU](NTU.md "wikilink")'s have been
+For [ANT](/ANT "wikilink")'s, there is an [NTU](/NTU "wikilink") bar at
+the bottom which displays how many [NTU](/NTU "wikilink")'s have been
 stored from a warpgate to be transferred to an [NTU
-Silo](NTU_Silo.md "wikilink").
+Silo](/NTU_Silo "wikilink").
 
-In the case of [BattleFrame Robotics](BattleFrame_Robotics.md "wikilink"),
+In the case of [BattleFrame Robotics](/BattleFrame_Robotics "wikilink"),
 the vehicle outline also displays the current state of the various BFR
 subsystems, as green, yellow and red icons.
 
-[Afterburner](Afterburner.md "wikilink") status, and vehicle speed are
+[Afterburner](/Afterburner "wikilink") status, and vehicle speed are
 found at the bottom, in the centre.
 
 ### Session Stats
@@ -140,13 +140,13 @@ This small window will show vital statistics about the current session:
 - Time: How long this session has lasted.
 - K/D: How many kills the soldier has made and how many time he has
   died, this session.
-- A: How many Kill [Assists](Assist.md "wikilink") you have made.
+- A: How many Kill [Assists](/Assist "wikilink") you have made.
 - BEP: How many [Battle Experience
-  Points](Battle_Experience_Points.md "wikilink") earned this session
+  Points](/Battle_Experience_Points "wikilink") earned this session
 - CEP: How many [Command Experience
-  Points](Command_Experience_Points.md "wikilink") earned this session.
+  Points](/Command_Experience_Points "wikilink") earned this session.
 - SEP: How many [Support Experience
-  Points](Support_Experience_Points.md "wikilink") earned this session.
+  Points](/Support_Experience_Points "wikilink") earned this session.
 
 These numbers reset when disconnected, even if only breifly. If you have
 to reboot PlanetSide or your computer you will keep your K/D ratio and
@@ -182,7 +182,7 @@ detailed information windows:
 #### Inventory
 
 (Default: I) The backpack icon allows access to the soldier's
-[Inventory](Inventory.md "wikilink"); pistol and rifle slots, and backpack.
+[Inventory](/Inventory "wikilink"); pistol and rifle slots, and backpack.
 Items may be picked up and dropped with the mouse pointer.
 
 #### Character
@@ -192,10 +192,10 @@ containing details of experience progress, ranks, BRF Imprint Status,
 Greif Points and Certifications. Training progress and career statistics
 can also be found here.
 
-#### [Map](Map.md "wikilink")
+#### [Map](/Map "wikilink")
 
 (Default: M) This icon opens the [Continental
-Map](Continental_Map.md "wikilink"), centered on the soldier's current
+Map](/Continental_Map "wikilink"), centered on the soldier's current
 location.
 
 #### Community Window
@@ -204,8 +204,8 @@ location.
 squad members to be kicked, promoted, and Platoons to be formed or
 disbanded.
 
-Other tabs on this window allow [Friends List](Friends_List.md "wikilink")
-management and, [Ignore List](Ignore.md "wikilink") management.
+Other tabs on this window allow [Friends List](/Friends_List "wikilink")
+management and, [Ignore List](/Ignore "wikilink") management.
 
 #### Vehicle
 
@@ -219,7 +219,7 @@ passengers kicked out.
 outfit members, their ranks and outfit point can be seen, as well as
 thier online/offline status.
 
-Senior [Outfit](Outfit.md "wikilink") members may edit outfit settings
+Senior [Outfit](/Outfit "wikilink") members may edit outfit settings
 here.
 
 #### Status & Chat Pane On/Off
@@ -233,7 +233,7 @@ This icon toggles the Proximity or Radar Window on or off.
 ### Bio Pane
 
 Located at the bottom left, a soldier's current
-[Health](Health.md "wikilink"), [Stamina](Stamina.md "wikilink") and Armor
+[Health](/Health "wikilink"), [Stamina](/Stamina "wikilink") and Armor
 totals are show in bar and numerical form.
 
 - Red - Health
@@ -244,29 +244,29 @@ totals are show in bar and numerical form.
 
 Positioned in the centre of the status pane, the Hotkey bar contains
 eight numbered fields corresponding to the F1-F8 function keys. Each can
-be used to trigger [implants](implants.md "wikilink") (such as the
-[Surge](Surge.md "wikilink") implant), items (such as
-[MedKits](MedKit.md "wikilink")), or text chat macros, by dragging the
-corresponding icon from the [Inventory](Inventory.md "wikilink") or the
+be used to trigger [implants](/implants "wikilink") (such as the
+[Surge](/Surge "wikilink") implant), items (such as
+[MedKits](/MedKit "wikilink")), or text chat macros, by dragging the
+corresponding icon from the [Inventory](/Inventory "wikilink") or the
 appropriate in-game panel to the hotkey you wish to assign.
 
 ### Holster Icons
 
-Located lower right, the contents of any [holsters](holster.md "wikilink")
+Located lower right, the contents of any [holsters](/holster "wikilink")
 are shown in icon form. A faded icon indicates that a weapon is curently
 holstered.
 
 Beneath the weapon is shown the number of shots left in the weapon, an
 icon showing which type of ammunition is currently loaded, and the
 number of extra rounds being carried in the
-[backpack](backpack.md "wikilink"), available for reload.
+[backpack](/backpack "wikilink"), available for reload.
 
 The current fire-mode of the weapon is shown as a yellow pip to the left
 of the gun, and is also shown as a status message in the Status Window
 when changed.
 
 (Note: The [Adaptive Construction
-Engine](Adaptive_Construction_Engine.md "wikilink") shows the object it is
+Engine](/Adaptive_Construction_Engine "wikilink") shows the object it is
 set to make, rather than the ACE itself.)
 
 In Vehicles, these icons are replaced with the currently available
@@ -277,4 +277,4 @@ vehicle guns.
 This icon, located bottom right, hides or shows the Soldier Management
 toolbar, above.
 
-[category:HUD](category:HUD.md "wikilink")
+[category:HUD](/category:HUD "wikilink")

@@ -215,8 +215,8 @@
 This Merit is awarded to soldiers amassing kills with one of the
 following:
 
-- [Thumper](Thumper.md "wikilink")
-- [Plasma grenade](Plasma_grenade.md "wikilink")
-- [Fragmentation grenade](Fragmentation_grenade.md "wikilink")
+- [Thumper](/Thumper "wikilink")
+- [Plasma grenade](/Plasma_grenade "wikilink")
+- [Fragmentation grenade](/Fragmentation_grenade "wikilink")
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

@@ -1,14 +1,14 @@
-Each character in [PlanetSide](PlanetSide.md "wikilink") is a member of one
-of three [Empires](Empires.md "wikilink") (teams):
+Each character in [PlanetSide](/PlanetSide "wikilink") is a member of one
+of three [Empires](/Empires "wikilink") (teams):
 
-- [New Conglomerate](New_Conglomerate.md "wikilink")
-- [Terran Republic](Terran_Republic.md "wikilink")
-- [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
+- [New Conglomerate](/New_Conglomerate "wikilink")
+- [Terran Republic](/Terran_Republic "wikilink")
+- [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")
 
-Each [Empire](Empires.md "wikilink") is different in its philosophy, which
+Each [Empire](/Empires "wikilink") is different in its philosophy, which
 carries into the Empire-Specific weapons and vehicles.
 
-Once a character has selected an [Empire](Empires.md "wikilink") that
+Once a character has selected an [Empire](/Empires "wikilink") that
 character cannot change Empires.
 
-[Category:Game Guides](Category:Game_Guides.md "wikilink")
+[Category:Game Guides](/Category:Game_Guides "wikilink")

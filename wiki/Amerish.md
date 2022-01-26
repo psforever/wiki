@@ -1,19 +1,19 @@
-![](images/AmerishContinentMap.jpg "AmerishContinentMap.jpg")
+![](/images/AmerishContinentMap.jpg "AmerishContinentMap.jpg")
 
 ## Continental Data
 
-![](images/Amerish_Terrain.jpg "Amerish_Terrain.jpg")
+![](/images/Amerish_Terrain.jpg "Amerish_Terrain.jpg")
 
-|                   |                                                                         |
-| ----------------- | ----------------------------------------------------------------------- |
-| Category:         | Gas Giant Moon                                                          |
-| Climate:          | Temperate                                                               |
-| Landmass:         | Continent                                                               |
-| Terrain:          | Grassy plains, rolling hills, sandy beaches, woodlands                  |
-| Facilities:       | 12                                                                      |
-| Towers:           | ?                                                                       |
-| Active Warpgates: | 4                                                                       |
-| Capitol:          | [Amp Station](Amp_Station.md "wikilink") [Verica](Verica.md "wikilink") |
+|                   |                                                                     |
+| ----------------- | ------------------------------------------------------------------- |
+| Category:         | Gas Giant Moon                                                      |
+| Climate:          | Temperate                                                           |
+| Landmass:         | Continent                                                           |
+| Terrain:          | Grassy plains, rolling hills, sandy beaches, woodlands              |
+| Facilities:       | 12                                                                  |
+| Towers:           | ?                                                                   |
+| Active Warpgates: | 4                                                                   |
+| Capitol:          | [Amp Station](/Amp_Station "wikilink") [Verica](/Verica "wikilink") |
 
 ## Description
 
@@ -30,14 +30,14 @@ However, the four small islands off the coasts can be used for alternate
 paths, making for elements of unpredictability and ambush.
 
 This continent is permanently connected to an
-[Empire](Empire.md "wikilink")'s [Sanctuary](Sanctuary.md "wikilink") via a
-link with the [Bio Laboratory](Bio_Laboratory.md "wikilink")
-[Ikanam](Ikanam.md "wikilink"), and is the Home Continent for that empire.
-See [Home Continent](Home_Continent.md "wikilink") for the current empire
+[Empire](/Empire "wikilink")'s [Sanctuary](/Sanctuary "wikilink") via a
+link with the [Bio Laboratory](/Bio_Laboratory "wikilink")
+[Ikanam](/Ikanam "wikilink"), and is the Home Continent for that empire.
+See [Home Continent](/Home_Continent "wikilink") for the current empire
 sanctuary links.
 
 This continent is also refered to as
-[Amer](Acronyms_and_Slang.md "wikilink").
+[Amer](/Acronyms_and_Slang "wikilink").
 
 ---
 
@@ -47,29 +47,29 @@ This continent is also refered to as
 
 ### Amp Stations
 
-- [Verica](Verica.md "wikilink") ([Capitol](Capitol.md "wikilink"))
-- [Sungrey](Sungrey.md "wikilink")
+- [Verica](/Verica "wikilink") ([Capitol](/Capitol "wikilink"))
+- [Sungrey](/Sungrey "wikilink")
 
 ### Bio Laboratories
 
-- [Ikanam](Ikanam.md "wikilink")
-- [Kyoi](Kyoi.md "wikilink") ([Sub-Capitol](Sub.$1.md "wikilink"))
-- [Onatha](Onatha.md "wikilink")
-- [Xelas](Xelas.md "wikilink") (Sub-Capitol)
+- [Ikanam](/Ikanam "wikilink")
+- [Kyoi](/Kyoi "wikilink") ([Sub-Capitol](/Sub-Capitol "wikilink"))
+- [Onatha](/Onatha "wikilink")
+- [Xelas](/Xelas "wikilink") (Sub-Capitol)
 
 ### Dropship Centers
 
-- [Azeban](Azeban.md "wikilink")
+- [Azeban](/Azeban "wikilink")
 
 ### Interlink Facilities
 
-- [Cetan](Cetan.md "wikilink") (Sub-Capitol)
-- [Qumu](Qumu.md "wikilink") (Sub-Capitol)
+- [Cetan](/Cetan "wikilink") (Sub-Capitol)
+- [Qumu](/Qumu "wikilink") (Sub-Capitol)
 
 ### Technology Plants
 
-- [Heyoka](Heyoka.md "wikilink")
-- [Mekala](Mekala.md "wikilink")
-- [Tumas](Tumas.md "wikilink")
+- [Heyoka](/Heyoka "wikilink")
+- [Mekala](/Mekala "wikilink")
+- [Tumas](/Tumas "wikilink")
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](/Category:Locations "wikilink")

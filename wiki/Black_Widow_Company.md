@@ -1,6 +1,6 @@
 [theblackwidowcompany.net](http://www.theblackwidowcompany.net):
-[TR](TR.md "wikilink") [Emerald](Emerald.md "wikilink")
-[Outfit](Outfit.md "wikilink")
+[TR](/TR "wikilink") [Emerald](/Emerald "wikilink")
+[Outfit](/Outfit "wikilink")
 
 Our actions on the battlefield and off the battlefield speak for
 themselves. We don't have a million members, but all of our members are

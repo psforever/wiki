@@ -198,14 +198,14 @@ since 1902.
 This Merit is awarded for amassing kills with one of the following:
 
 - [Spitfire
-  Turret](Adaptive_Construction_Engine.md#Spitfire_Turret "wikilink")
-- [Boomer](Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29 "wikilink")
+  Turret](/Adaptive_Construction_Engine#Spitfire_Turret "wikilink")
+- [Boomer](/Adaptive_Construction_Engine#Remote-Detonated_Charge_.28Boomer.29 "wikilink")
 - [High Explosive
-  Mine](Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29 "wikilink")
-- [Cerberus Turret](Cerberus_Turret.md "wikilink")
-- [Shadow Turret](Shadow_Turret.md "wikilink")
+  Mine](/Adaptive_Construction_Engine#Remote-Detonated_Charge_.28Boomer.29 "wikilink")
+- [Cerberus Turret](/Cerberus_Turret "wikilink")
+- [Shadow Turret](/Shadow_Turret "wikilink")
 
 **Note: The Gold and Platinum awards have the same graphic. This is a
-mistake by [SOE](SOE.md "wikilink").**
+mistake by [SOE](/SOE "wikilink").**
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

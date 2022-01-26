@@ -1,3 +1,3 @@
 Elevation: 57.8m
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

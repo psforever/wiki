@@ -1,9 +1,9 @@
-![](images/AdlivunZiplines.jpg "fig:AdlivunZiplines.jpg")s in
-[Adlivun](Adlivun.md "wikilink") [Cavern](Cavern.md "wikilink")\]\]
-![](images/TRonZipline.jpg "fig:TRonZipline.jpg") Commander traveling on a
-[Zipline](Zipline.md "wikilink")\]\] [Ziplines](Zipline.md "wikilink") are
-objects located solely within the [caverns](Core_Combat.md "wikilink")
-which allow Infantry (and [MAX](MAX.md "wikilink") Units) to quickly move
+![](/images/AdlivunZiplines.jpg "fig:AdlivunZiplines.jpg")s in
+[Adlivun](/Adlivun "wikilink") [Cavern](/Cavern "wikilink")\]\]
+![](/images/TRonZipline.jpg "fig:TRonZipline.jpg") Commander traveling on a
+[Zipline](/Zipline "wikilink")\]\] [Ziplines](/Zipline "wikilink") are
+objects located solely within the [caverns](/Core_Combat "wikilink")
+which allow Infantry (and [MAX](/MAX "wikilink") Units) to quickly move
 between different platforms.
 
 The entry and exit points of a zipline are spheres of energy, and
@@ -15,9 +15,9 @@ recommended that you keep your weapon out in case you encounter enemies
 on the other side of the zipline). These transportation devices are
 found throughout each cavern, allowing access to high buildings as well
 as rapid movement through the access tunnels and [Troop
-Tunnels](Troop_Tunnel.md "wikilink").
+Tunnels](/Troop_Tunnel "wikilink").
 
-[Vehicles](Vehicle.md "wikilink") attempting to enter a zipline (or merely
+[Vehicles](/Vehicle "wikilink") attempting to enter a zipline (or merely
 moving to a point where they are touching any part of the zipline) will
 take damage. Vehicles parked too close to a zipline node will be given a
 warning for deconstruction. Ziplines are different from teleporters in
@@ -34,9 +34,9 @@ with them while traveling.
 
 Troops using the ziplines are clearly visible as a brightly colored
 glowing ball in transit, colored red for the [Terran
-Republic](Terran_Republic.md "wikilink"), purple for the [Vanu
-Sovereignty](Vanu_Sovereignty.md "wikilink") and yellow for the [New
-Conglomerate](New_Conglomerate.md "wikilink"), and all three can be seen
+Republic](/Terran_Republic "wikilink"), purple for the [Vanu
+Sovereignty](/Vanu_Sovereignty "wikilink") and yellow for the [New
+Conglomerate](/New_Conglomerate "wikilink"), and all three can be seen
 from some distance away.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")

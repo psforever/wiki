@@ -169,9 +169,9 @@
 </tbody>
 </table>
 
-These [Merit Commendations](Merit_Commendations.md "wikilink") are awarded
-to the attendees of the annual [SOE](SOE.md "wikilink") [Fan
-Faire](Fan_Faire.md "wikilink"). The 2009 merit was awarded again for 2010
+These [Merit Commendations](/Merit_Commendations "wikilink") are awarded
+to the attendees of the annual [SOE](/SOE "wikilink") [Fan
+Faire](/Fan_Faire "wikilink"). The 2009 merit was awarded again for 2010
 and 2011 attendees.
 
-[Category:Merits](Category:Merits.md "wikilink")
+[Category:Merits](/Category:Merits "wikilink")

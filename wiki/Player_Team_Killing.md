@@ -3,5 +3,5 @@ punish the occasional team killing. Sometimes a player is repeatedly
 team killing and you need to file a harassment claim. It can be done by
 typing **/appeal** and filling out the window with your situation.
 
-[Category:Terminology](Category:Terminology.md "wikilink") [Category:Game
-Guides](Category:Game_Guides.md "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
+Guides](/Category:Game_Guides "wikilink")

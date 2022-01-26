@@ -9,7 +9,7 @@ installed you can fill out your username information and continue below:
 ## To Connect
 
 If you have mIRC installed you can click
-[this](irc:.md//irc.forthegamers.org:6667/planetside) link and it will
+[this](/irc://irc.forthegamers.org:6667/planetside) link and it will
 connect you.
 
 OR
@@ -70,4 +70,4 @@ people.
 Once the connection is made, the window for #planetside automatically
 opens.
 
-[category:Communication](category:Communication.md "wikilink")
+[category:Communication](/category:Communication "wikilink")

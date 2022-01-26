@@ -35,7 +35,7 @@
 </table>
 
 This merit was awarded to players who participated in the filming of an
-in-game marketing movie on the [Test Server](Test_Server.md "wikilink") for
-[The Bending](The_Bending.md "wikilink").
+in-game marketing movie on the [Test Server](/Test_Server "wikilink") for
+[The Bending](/The_Bending "wikilink").
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

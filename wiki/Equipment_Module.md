@@ -1,17 +1,17 @@
-Installing this [module](modules.md "wikilink") provides three distinct
-beneficial [Module benefits](Module_benefit.md "wikilink"):
+Installing this [module](/modules "wikilink") provides three distinct
+beneficial [Module benefits](/Module_benefit "wikilink"):
 
-1.  Enables purchase of [Ancient-Tech](Ancient.$1.md "wikilink") (AT)
-    weaponry from [Facility](Facility.md "wikilink") [Equipment
-    Terminals](Equipment_Terminal.md "wikilink"):
-    - [Maelstrom](Maelstrom.md "wikilink")
-    - [Spiker](Spiker.md "wikilink")
-    - [Radiator](Radiator.md "wikilink")
+1.  Enables purchase of [Ancient-Tech](/Ancient-Tech "wikilink") (AT)
+    weaponry from [Facility](/Facility "wikilink") [Equipment
+    Terminals](/Equipment_Terminal "wikilink"):
+    - [Maelstrom](/Maelstrom "wikilink")
+    - [Spiker](/Spiker "wikilink")
+    - [Radiator](/Radiator "wikilink")
 2.  Real-time recharging of AT weapons' capacitors within the
-    [SOI](SOI.md "wikilink")
-3.  [MAX](MAX.md "wikilink") reaquisition timer is reduced by 50%.
+    [SOI](/SOI "wikilink")
+3.  [MAX](/MAX "wikilink") reaquisition timer is reduced by 50%.
 
 This module appears blue on the [Continental
-Map](Continental_Map.md "wikilink").
+Map](/Continental_Map "wikilink").
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")

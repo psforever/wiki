@@ -1,10 +1,10 @@
-A population lock is when a [continent](continent.md "wikilink") is full,
+A population lock is when a [continent](/continent "wikilink") is full,
 and cannot hold any more players.
 
 They come in two varieties:
 
 - Empire Population Lock - The maximum numbers of troops for your
-  specific [empire](empire.md "wikilink") has been reached for this
+  specific [empire](/empire "wikilink") has been reached for this
   continent. However, the same may not be true for the other empire at
   the time.
 
@@ -16,5 +16,5 @@ They come in two varieties:
   continental servers, and is only seen during a very intense
   three-way battle.
 
-[Category:Game Guides](Category:Game_Guides.md "wikilink")
-[Category:Terminology](Category:Terminology.md "wikilink")
+[Category:Game Guides](/Category:Game_Guides "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink")

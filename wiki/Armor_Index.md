@@ -1,31 +1,31 @@
 ## Infantry
 
-- [Standard Exo-Suit](Standard_Exo.$1.md "wikilink") ("Pajamas" or
+- [Standard Exo-Suit](/Standard_Exo-Suit "wikilink") ("Pajamas" or
   "PJs")
-- [Agile Exo-Suit](Agile_Exo.$1.md "wikilink") ("Agile")
-- [Reinforced Exo-Suit](Reinforced_Exo.$1.md "wikilink") ("Rexo")
-- [Infiltration Suit](Infiltration_Suit.md "wikilink") ("Cloaker")
+- [Agile Exo-Suit](/Agile_Exo-Suit "wikilink") ("Agile")
+- [Reinforced Exo-Suit](/Reinforced_Exo-Suit "wikilink") ("Rexo")
+- [Infiltration Suit](/Infiltration_Suit "wikilink") ("Cloaker")
 
-## [Mechanized Assault Exo-Suits](MAX.md "wikilink") ([MAX](MAX.md "wikilink"))
+## [Mechanized Assault Exo-Suits](/MAX "wikilink") ([MAX](/MAX "wikilink"))
 
 ### New Conglomerate
 
-- [Falcon](Falcon.md "wikilink")
-- [Scattercannon](Scattercannon.md "wikilink")
-  (["ScatMax"](Acronyms_and_Slang.md "wikilink"))
-- [Sparrow](Sparrow.md "wikilink")
+- [Falcon](/Falcon "wikilink")
+- [Scattercannon](/Scattercannon "wikilink")
+  (["ScatMax"](/Acronyms_and_Slang "wikilink"))
+- [Sparrow](/Sparrow "wikilink")
 
 ### Terran Republic
 
-- [Pounder](Pounder.md "wikilink")
-- [Dual-Cycler](Dual.$1.md "wikilink")
-  (["DC"](Acronyms_and_Slang.md "wikilink"))
-- [Burster](Burster.md "wikilink")
+- [Pounder](/Pounder "wikilink")
+- [Dual-Cycler](/Dual-Cycler "wikilink")
+  (["DC"](/Acronyms_and_Slang "wikilink"))
+- [Burster](/Burster "wikilink")
 
 ### Vanu Sovereignty
 
-- [Comet](Comet.md "wikilink")
-- [Quasar](Quasar.md "wikilink")
-- [Starfire](Starfire.md "wikilink")
+- [Comet](/Comet "wikilink")
+- [Quasar](/Quasar "wikilink")
+- [Starfire](/Starfire "wikilink")
 
-[\*](category:Armor.md "wikilink")
+[\*](/category:Armor "wikilink")

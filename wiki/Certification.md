@@ -1,8 +1,8 @@
 A **certification** (cert) is a soldier attribute that allows him or her
 to operate specific classes equipment.
 
-[Certifications](Certifications.md "wikilink") are obtained at the expense
-of [Certification points](Certification_points.md "wikilink"), which are
+[Certifications](/Certifications "wikilink") are obtained at the expense
+of [Certification points](/Certification_points "wikilink"), which are
 earned through game experience.
 
 Some certifications have prerequisites that must be obtained in order.
@@ -17,22 +17,22 @@ You may only forget one certification at a time. However, if you forget
 a cert that serves as a prerequisite for others, any dependant
 certifications will be forgotten as well.
 
-For example, if you have a [BFR](BFR.md "wikilink") certification and you
-forget [Armored Assault I](Armored_Assault_I.md "wikilink"), you will lose
-three certs: [Armored Assault I](Armored_Assault_I.md "wikilink"), [Armored
-Assault II](Armored_Assault_II.md "wikilink"), and BFR. If you also had
-[BFR Anti-Aircraft](BFR_Anti.$1.md "wikilink"), [BFR
-Anti-Infantry](BFR_Anti.$1.md "wikilink"), and
-[Flail](Flail.md "wikilink"), you will forget those as well.
+For example, if you have a [BFR](/BFR "wikilink") certification and you
+forget [Armored Assault I](/Armored_Assault_I "wikilink"), you will lose
+three certs: [Armored Assault I](/Armored_Assault_I "wikilink"), [Armored
+Assault II](/Armored_Assault_II "wikilink"), and BFR. If you also had
+[BFR Anti-Aircraft](/BFR_Anti-Aircraft "wikilink"), [BFR
+Anti-Infantry](/BFR_Anti-Infantry "wikilink"), and
+[Flail](/Flail "wikilink"), you will forget those as well.
 
-With the release of version [3.11](3.md.11 "wikilink"), characters will
+With the release of version [3.11](/3.11 "wikilink"), characters will
 receive the option to "forget all" certifications. This option is only
 usable once, until the next major release, at which time each character
 will again receive the option.
 
-[Certification Terminals](Certification_Terminal.md "wikilink") can be
-found in the [HART building](HART_building.md "wikilink") of your
-[Empire](Empire.md "wikilink")'s [Sanctuary](Sanctuary.md "wikilink"), and in
-[Bio Laboratories](Bio_Laboratory.md "wikilink").
+[Certification Terminals](/Certification_Terminal "wikilink") can be
+found in the [HART building](/HART_building "wikilink") of your
+[Empire](/Empire "wikilink")'s [Sanctuary](/Sanctuary "wikilink"), and in
+[Bio Laboratories](/Bio_Laboratory "wikilink").
 
-[\*](Category:Certification.md "wikilink")
+[\*](/Category:Certification "wikilink")

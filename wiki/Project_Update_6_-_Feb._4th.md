@@ -33,4 +33,4 @@ Until next time!
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=135)
 
-[Category:PSForever Updates](Category:PSForever_Updates.md "wikilink")
+[Category:PSForever Updates](/Category:PSForever_Updates "wikilink")

@@ -218,17 +218,17 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md "wikilink") is awarded for
+This [Merit Commendation](/Merit_Commendation "wikilink") is awarded for
 kills scored by friendly soldier after they have used a
-[Locker](Locker.md "wikilink") that was hacked by you, using a
-[REK](REK.md "wikilink"). The tracker stops after 5 minutes or when the
+[Locker](/Locker "wikilink") that was hacked by you, using a
+[REK](/REK "wikilink"). The tracker stops after 5 minutes or when the
 soldier dies, unless he is revived by an [Advanced
-Medic](Advanced_Medical.md "wikilink"). Kills accumulated for this Merit
-also track for the [Hacking Support](Hacking_Support.md "wikilink") Merit.
+Medic](/Advanced_Medical "wikilink"). Kills accumulated for this Merit
+also track for the [Hacking Support](/Hacking_Support "wikilink") Merit.
 
 The [Hacking](</Hacking_(Certification)> "wikilink") certification is
 required to gain these [Merit
-Commendations](Merit_Commendations.md "wikilink")
+Commendations](/Merit_Commendations "wikilink")
 
 The Advanced and Expert awards for this merit can be arranged to form an
 <b>H</b> to designate the bearer as a Hacker:
@@ -402,4 +402,4 @@ Like the Hacking Support, it can also be arranged into a "U" for
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

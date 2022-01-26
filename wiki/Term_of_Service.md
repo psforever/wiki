@@ -466,23 +466,23 @@
 </tbody>
 </table>
 
-These [Merits](Merit_Commendations.md "wikilink") are awarded to player
+These [Merits](/Merit_Commendations "wikilink") are awarded to player
 characters (not game accounts) every real-time year that they have
-served their [Empire](Empire.md "wikilink"). Once earned, the highest level
+served their [Empire](/Empire "wikilink"). Once earned, the highest level
 of the merit is automatically displayed on your avatar's shoulder (upon
 your next log-in to the game) in a special 4th display area above the
 other three. The highest **Term of Service** merit earned is always
 displayed and cannot be removed. The merit series stops at year 6.
 
 Upon earning certain **Term of Service** merits, some hand-held weaponry
-and [armor](armor.md "wikilink") can be obtained for free, without the need
-for the normally associated [certification](certification.md "wikilink"):
+and [armor](/armor "wikilink") can be obtained for free, without the need
+for the normally associated [certification](/certification "wikilink"):
 
 - **Two Year Term of Service Award**: [Heavy Scout
-  Rifle](Heavy_Scout_Rifle.md "wikilink") and
-  [Scorpion](Scorpion.md "wikilink")
-- **Three Year Term of Service Award**: [Dragon](Dragon.md "wikilink")
+  Rifle](/Heavy_Scout_Rifle "wikilink") and
+  [Scorpion](/Scorpion "wikilink")
+- **Three Year Term of Service Award**: [Dragon](/Dragon "wikilink")
 - **Five Year Term of Service Award**: [Reinforced
   Exo-Suit](</Reinforced_Exo-Suit_(Certification)> "wikilink")
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

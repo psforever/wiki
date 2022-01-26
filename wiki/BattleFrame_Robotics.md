@@ -30,26 +30,26 @@ giant robots (or mecha) of the PlanetSide universe.
 ### The Story
 
 In the story, the technology for BattleFrame Robotics was originally
-developed on Earth by the [Terran Republic](Terran_Republic.md "wikilink").
+developed on Earth by the [Terran Republic](/Terran_Republic "wikilink").
 However, the technology could not be perfected there. The republic of
 Earth then sent the schematics for BFRs through the micro-wormhole
 between Earth and the Auraxian System to the three warring empires of
 Auraxis. Each side received the schematics, and began making their own
 variants of the technology.
 
-The [Terran Republic](Terran_Republic.md "wikilink") developed the
-[Colossus](Colossus.md "wikilink").
-The [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink") developed the
-[Aphelion](Aphelion.md "wikilink").
-The [New Conglomerate](New_Conglomerate.md "wikilink") developed the
-[Peregrine](Peregrine.md "wikilink").
+The [Terran Republic](/Terran_Republic "wikilink") developed the
+[Colossus](/Colossus "wikilink").
+The [Vanu Sovereignty](/Vanu_Sovereignty "wikilink") developed the
+[Aphelion](/Aphelion "wikilink").
+The [New Conglomerate](/New_Conglomerate "wikilink") developed the
+[Peregrine](/Peregrine "wikilink").
 
 However, the systems of a BFR were very complicated, proving to be too
 much of a burden for a single pilot. The [Auraxian
-Core](Auraxian_Core.md "wikilink") had felt the deaths of all the prototype
+Core](/Auraxian_Core "wikilink") had felt the deaths of all the prototype
 BFR pilots, and sent the empires of Auraxis a message. This message came
-in the form of [Monoliths](Monolith.md "wikilink") that spawned [Resonance
-Crystals](Resonance_Crystals.md "wikilink") that allowed a single pilot to
+in the form of [Monoliths](/Monolith "wikilink") that spawned [Resonance
+Crystals](/Resonance_Crystals "wikilink") that allowed a single pilot to
 control the complex systems of a BFR. Each empire adapted the crystals
 into their soldiers, and the empires of Auraxis were able to field BFRs
 and develop tactics for their use, as well as their defeat.
@@ -125,8 +125,8 @@ restored by repairing the BFR.
 </tbody>
 </table>
 
-Additionally, [Jammer grenades](Jammer_grenade.md "wikilink") and
-[EMP](EMP.md "wikilink") blasts can temporarily cripple a BFR, causing it
+Additionally, [Jammer grenades](/Jammer_grenade "wikilink") and
+[EMP](/EMP "wikilink") blasts can temporarily cripple a BFR, causing it
 to move and fire much more slowly, and in the case of the flight
 variants, completely disabling the flight systems until the effect wears
 off.
@@ -147,27 +147,27 @@ In the gunner variant, the shields will be activated whenever a soldier
 enters either the pilot or gunner's seat, and will remain active as long
 one or both of these positions is occupied. Emptying both positions will
 deactivate the shields, leaving the BFR directly vulnerable to attack or
-[jacking](jack.md "wikilink").
+[jacking](/jack "wikilink").
 
-There is a [known issue](Known_Issues.md "wikilink") regarding the gunner
+There is a [known issue](/Known_Issues "wikilink") regarding the gunner
 no being able to aim left and right. However, this is a fairly rare bug.
 
 ##### Empire-specific gunner variants
 
-- The [Colossus](Colossus.md "wikilink") ([Terran
-  Republic](Terran_Republic.md "wikilink"))
-- The [Peregrine](Peregrine.md "wikilink") ([New
-  Conglomerate](New_Conglomerate.md "wikilink"))
-- The [Aphelion](Aphelion.md "wikilink") ([Vanu
-  Sovereignty](Vanu_Sovereignty.md "wikilink"))
+- The [Colossus](/Colossus "wikilink") ([Terran
+  Republic](/Terran_Republic "wikilink"))
+- The [Peregrine](/Peregrine "wikilink") ([New
+  Conglomerate](/New_Conglomerate "wikilink"))
+- The [Aphelion](/Aphelion "wikilink") ([Vanu
+  Sovereignty](/Vanu_Sovereignty "wikilink"))
 
 #### Flight variants
 
 Flight variants are single-pilot BFRs with a flight pack on their backs
 to allow the BFR to fly vertically for a short amount of time (in a
-similar manner to the [VS](VS.md "wikilink") [MAX](MAX.md "wikilink") units'
+similar manner to the [VS](/VS "wikilink") [MAX](/MAX "wikilink") units'
 jump-jets). The flight systems are powered by the "BFR capacitor", which
-is measured with a small bar on the player's [HUD](HUD.md "wikilink"). The
+is measured with a small bar on the player's [HUD](/HUD "wikilink"). The
 capacitor recharges over time when the flight systems are not in use.
 When a flight variant uses its flight systems, the shields are
 deactivated for the entire time the BFR is in the air, reactivating once
@@ -180,24 +180,24 @@ regenerate their shields compared to their gunner counterparts.
 Conversely, flight variants can run and walk much faster than the ground
 variants, giving them the ability to flee relatively quickly when under
 attack. Each empire variant's maximum jump height is different, with the
-[Invader](Invader.md "wikilink") having the highest jump and the
-[Eclipse](Eclipse.md "wikilink") having the lowest.
+[Invader](/Invader "wikilink") having the highest jump and the
+[Eclipse](/Eclipse "wikilink") having the lowest.
 
 ##### Empire-specific flight variants
 
-- The [Invader](Invader.md "wikilink") ([Terran
-  Republic](Terran_Republic.md "wikilink"))
-- The [Eagle](Eagle.md "wikilink") ([New
-  Conglomerate](New_Conglomerate.md "wikilink"))
-- The [Eclipse](Eclipse.md "wikilink") ([Vanu
-  Sovereignty](Vanu_Sovereignty.md "wikilink"))
+- The [Invader](/Invader "wikilink") ([Terran
+  Republic](/Terran_Republic "wikilink"))
+- The [Eagle](/Eagle "wikilink") ([New
+  Conglomerate](/New_Conglomerate "wikilink"))
+- The [Eclipse](/Eclipse "wikilink") ([Vanu
+  Sovereignty](/Vanu_Sovereignty "wikilink"))
 
 ### BFR Certification
 
 In order to certify to get a BFR, a pilot must first get a [BFR
-Imprint](BFR_Imprint.md "wikilink") down in the
-[caverns](cavern.md "wikilink") if the character was created after June 18, 2009. Also, [Armored Assault I](Armored_Assault_I.md "wikilink") and
-[Armored Assault II](Armored_Assault_II.md "wikilink") are required to gain
+Imprint](/BFR_Imprint "wikilink") down in the
+[caverns](/cavern "wikilink") if the character was created after June 18, 2009. Also, [Armored Assault I](/Armored_Assault_I "wikilink") and
+[Armored Assault II](/Armored_Assault_II "wikilink") are required to gain
 the BattleFrame Robotics certification.
 
 Anti-Vehicular (AV) pilot weapons come with the basic BFR certification
@@ -206,15 +206,15 @@ Anti-Infantry (AI)). In order to get AI and Anti-Aircraft pilot weapons,
 1 cert point must be spent for each individually.
 
 To obtain a flight variant, one must earn the [BFR
-Basic](</BFR_(Merit)> "wikilink") [merit](merit.md "wikilink"), which involves
+Basic](</BFR_(Merit)> "wikilink") [merit](/merit "wikilink"), which involves
 scoring 100 unique kills and then a kill streak of 15 with the BFR pilot
 weapons.
 
 BFR timers take 25 minutes from the time of original purchase until
 another BFR can be acquired. The timer is reduced to 15 minutes if a
-[Vehicle Module](Vehicle_Module.md "wikilink") is installed, or the base is
-receiving a [Cavern Lock](Cavern_Lock.md "wikilink") Benefit.
+[Vehicle Module](/Vehicle_Module "wikilink") is installed, or the base is
+receiving a [Cavern Lock](/Cavern_Lock "wikilink") Benefit.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Vehicles](Category:Vehicles.md "wikilink") [Category:Ground
-Vehicles](Category:Ground_Vehicles.md "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")
+[Category:Vehicles](/Category:Vehicles "wikilink") [Category:Ground
+Vehicles](/Category:Ground_Vehicles "wikilink")

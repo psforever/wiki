@@ -1,7 +1,7 @@
-Rainstorms are found on [Amerish](Amerish.md "wikilink"),
-[Ascension](Ascension.md "wikilink"), [Cyssor](Cyssor.md "wikilink"),
-[Extinction](Extinction.md "wikilink"), [Forseral](Forseral.md "wikilink"),
-[Hossin](Hossin.md "wikilink"), [Searhus](Searhus.md "wikilink"), and the
-three [Sanctuary](Sanctuary.md "wikilink") continents.
+Rainstorms are found on [Amerish](/Amerish "wikilink"),
+[Ascension](/Ascension "wikilink"), [Cyssor](/Cyssor "wikilink"),
+[Extinction](/Extinction "wikilink"), [Forseral](/Forseral "wikilink"),
+[Hossin](/Hossin "wikilink"), [Searhus](/Searhus "wikilink"), and the
+three [Sanctuary](/Sanctuary "wikilink") continents.
 
-[Category:Weather](Category:Weather.md "wikilink")
+[Category:Weather](/Category:Weather "wikilink")

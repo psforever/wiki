@@ -1,4 +1,4 @@
-Weapons of the [New Conglomerate](New_Conglomerate.md "wikilink")
+Weapons of the [New Conglomerate](/New_Conglomerate "wikilink")
 
-[category:Weapons](category:Weapons.md "wikilink") [category:New
-Conglomerate](category:New_Conglomerate.md "wikilink")
+[category:Weapons](/category:Weapons "wikilink") [category:New
+Conglomerate](/category:New_Conglomerate "wikilink")

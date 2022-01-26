@@ -1,25 +1,25 @@
-![](images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
-Missile](Scorpion_Missile.md "wikilink")\]\]
+![](/images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
+Missile](/Scorpion_Missile "wikilink")\]\]
 
-|                            |                                                     |
-| -------------------------- | --------------------------------------------------- |
-| **Certification Required** | [Elite Assault](Elite_Assault.md "wikilink")        |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")            |
-| **Primary Mode**           | Fire                                                |
-| **Secondary Mode**         | Lock                                                |
-| **Ammunition**             | [Scorpion Missiles](Scorpion_Missile.md "wikilink") |
-| **Range**                  | Minimum: 50.5m Maximum: 301.7m                      |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                               |
-| **Magazine Capacity**      | 1                                                   |
-| **Zoom**                   | 12x                                                 |
+|                            |                                                   |
+| -------------------------- | ------------------------------------------------- |
+| **Certification Required** | [Elite Assault](/Elite_Assault "wikilink")        |
+| **Empire**                 | [Common Pool](/Common_Pool "wikilink")            |
+| **Primary Mode**           | Fire                                              |
+| **Secondary Mode**         | Lock                                              |
+| **Ammunition**             | [Scorpion Missiles](/Scorpion_Missile "wikilink") |
+| **Range**                  | Minimum: 50.5m Maximum: 301.7m                    |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                             |
+| **Magazine Capacity**      | 1                                                 |
+| **Zoom**                   | 12x                                               |
 
 **Scorpion**
 
 The Scorpion is part of the new [Elite
-Assault](Elite_Assault.md "wikilink")
-[certification](certification.md "wikilink"), along with the
-[Dragon](Dragon.md "wikilink"). However if you have at least the [Two Year
-Term of Service Award](Term_of_Service.md "wikilink"), you can acquire the
+Assault](/Elite_Assault "wikilink")
+[certification](/certification "wikilink"), along with the
+[Dragon](/Dragon "wikilink"). However if you have at least the [Two Year
+Term of Service Award](/Term_of_Service "wikilink"), you can acquire the
 Scorpion without certing Elite Assault.
 
 The Scorpion is a straight-trajectory "smart missile" that detonates at
@@ -62,7 +62,7 @@ the rocklets will explode well short of your target.
 The Scorpion has a rather large learning curve, but once mastered, it's
 a devastating weapon.
 
-The weapon has a rare [known issue](Known_Issues.md "wikilink") involving
+The weapon has a rare [known issue](/Known_Issues "wikilink") involving
 the bomblets not exploding properly.
 
-[Category:Weapons](Category:Weapons.md "wikilink")
+[Category:Weapons](/Category:Weapons "wikilink")

@@ -1,15 +1,15 @@
-Mithra is [Extinction](Oshur.md#Extinction "wikilink")'s only [Amp
-Station](Amp_Station.md "wikilink") and is in the upper North West in grids
+Mithra is [Extinction](/Oshur#Extinction "wikilink")'s only [Amp
+Station](/Amp_Station "wikilink") and is in the upper North West in grids
 N7, N8 and O7.
 
-It has [Lattice](Lattice.md "wikilink") Links to:
+It has [Lattice](/Lattice "wikilink") Links to:
 
-- [Interlink Facility](Interlink_Facility.md "wikilink")
-  [Hvar](Hvar.md "wikilink")
-- [Bio Laboratory](Bio_Laboratory.md "wikilink")
-  [Yazata](Yazata.md "wikilink")
+- [Interlink Facility](/Interlink_Facility "wikilink")
+  [Hvar](/Hvar "wikilink")
+- [Bio Laboratory](/Bio_Laboratory "wikilink")
+  [Yazata](/Yazata "wikilink")
 
-It is a [Hack-and-Hold](Hack-and-Hold.md "wikilink") Facility. There are no
-[Towers](Tower.md "wikilink") close to the Facility.
+It is a [Hack-and-Hold](/Hack-and-Hold "wikilink") Facility. There are no
+[Towers](/Tower "wikilink") close to the Facility.
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

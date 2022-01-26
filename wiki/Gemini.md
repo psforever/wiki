@@ -1,11 +1,11 @@
 Gemini is the only remaining server for
-[Planetside](Planetside.md "wikilink"), located on the East coast of the
-United States. On May 20, 2008, the [Markov](Markov.md "wikilink") and
-[Emerald](Emerald.md "wikilink") servers combined to form Gemini. On August
-25, 2009 [Werner](Werner.md "wikilink") was also merged into the Gemini
+[Planetside](/Planetside "wikilink"), located on the East coast of the
+United States. On May 20, 2008, the [Markov](/Markov "wikilink") and
+[Emerald](/Emerald "wikilink") servers combined to form Gemini. On August
+25, 2009 [Werner](/Werner "wikilink") was also merged into the Gemini
 server.
 
-Character and [Outfit](Outfit.md "wikilink") names that were not unique to
+Character and [Outfit](/Outfit "wikilink") names that were not unique to
 both Markov and Emerald had a "-M" (for Markov) or a "-E" (for Emerald),
 appended to the name if the name did not have priority. The same method
 was used for the Werner merge with a "-W" (for Werner) and a "-G" (for
@@ -152,4 +152,4 @@ Additional FAQ
   merge and will no longer have access to characters on those accounts
   after the server merge (May 20, 2008 )
 
-[category:Servers](category:Servers.md "wikilink")
+[category:Servers](/category:Servers "wikilink")

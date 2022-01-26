@@ -1,15 +1,15 @@
 **NTUs** (Nanite Technology Units) are collected from
-[warpgates](warpgate.md "wikilink") and active
-[geowarps](geowarp.md "wikilink") by
-[ANTs](Advanced_Nanite_Transport.md "wikilink") or [NTU
-Siphons](NTU_Siphon.md "wikilink") and stored in facility [NTU
-Silos](NTU_Silo.md "wikilink") to be converted by
-[generators](generator.md "wikilink") into power for all base systems.
+[warpgates](/warpgate "wikilink") and active
+[geowarps](/geowarp "wikilink") by
+[ANTs](/Advanced_Nanite_Transport "wikilink") or [NTU
+Siphons](/NTU_Siphon "wikilink") and stored in facility [NTU
+Silos](/NTU_Silo "wikilink") to be converted by
+[generators](/generator "wikilink") into power for all base systems.
 
 NTUs are consumed by the base when repairing damaged systems such as the
-generator, [Respawn tubes](Respawn_tube.md "wikilink"), terminals, and
-[Phalanx](Phalanx.md "wikilink") wall turrets. If the NTU level of a base
-falls to 0%, the facility becomes [neutral](neutral.md "wikilink"). The
+generator, [Respawn tubes](/Respawn_tube "wikilink"), terminals, and
+[Phalanx](/Phalanx "wikilink") wall turrets. If the NTU level of a base
+falls to 0%, the facility becomes [neutral](/neutral "wikilink"). The
 level must be raised above 0% for a successful recapture.
 
 ## Game Lore
@@ -25,5 +25,5 @@ like magic.
 No one really knows what they are, only that we can manipulate them to
 our own ends.
 
-[Category:Terminology](Category:Terminology.md "wikilink") [Category:Game
-Items](Category:Game_Items.md "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
+Items](/Category:Game_Items "wikilink")

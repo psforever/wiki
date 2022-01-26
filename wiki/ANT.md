@@ -1,2 +1,2 @@
 1.  REDIRECT [Advanced Nanite
-    Transport](Advanced_Nanite_Transport.md "wikilink")
+    Transport](/Advanced_Nanite_Transport "wikilink")

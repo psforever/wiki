@@ -1,12 +1,12 @@
 **Incentives** are bonuses awarded to an underpopulated empire and
 include a percentage increase in [Experience
-Points](Experience_Points.md "wikilink") awarded for kills and reduction in
+Points](/Experience_Points "wikilink") awarded for kills and reduction in
 spawn timers and vehicle acquisition timers.
 
 Incentives are applied in two different scales:
 
-- [Empire Incentives](Empire_Incentives.md "wikilink") (Planetary
+- [Empire Incentives](/Empire_Incentives "wikilink") (Planetary
   (Continent/Cavern) scale)
-- [Global Incentives](Global_Incentives.md "wikilink") (Universal scale)
+- [Global Incentives](/Global_Incentives "wikilink") (Universal scale)
 
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](/category:Terminology "wikilink")

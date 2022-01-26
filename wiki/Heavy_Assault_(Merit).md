@@ -1,1 +1,1 @@
-1.  REDIRECT [Heavy Weapons](Heavy_Weapons.md "wikilink")
+1.  REDIRECT [Heavy Weapons](/Heavy_Weapons "wikilink")

@@ -1,2 +1,2 @@
 1.  REDIRECT [One-Manned Field
-    Turret](One.$1.md "wikilink")
+    Turret](/One-Manned_Field_Turret "wikilink")

@@ -19,4 +19,4 @@ and [Command
 Squad](http://www.planetside-idealab.com/idea_command_abilities.shtml#commandsquads)
 concepts.
 
-[Category:Idealab](Category:Idealab.md "wikilink")
+[Category:Idealab](/Category:Idealab "wikilink")

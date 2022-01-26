@@ -1,103 +1,103 @@
-![](images/Bio_Layout.jpg "fig:Bio_Layout.jpg") Bio Laboratory
-[facilities](facilities.md "wikilink") are the weakest in terms of defense,
-as their [generators](generator.md "wikilink") are located on the rooftop
+![](/images/Bio_Layout.jpg "fig:Bio_Layout.jpg") Bio Laboratory
+[facilities](/facilities "wikilink") are the weakest in terms of defense,
+as their [generators](/generator "wikilink") are located on the rooftop
 of the facility. The Bio Laboratory grants a faster
-[respawn](respawn.md "wikilink") time to all units spawning at any friendly
-facilities connected to it on the [Lattice](Lattice.md "wikilink").
+[respawn](/respawn "wikilink") time to all units spawning at any friendly
+facilities connected to it on the [Lattice](/Lattice "wikilink").
 
-The [Control Console](Control_Console.md "wikilink") for this base is in
-the basement, level 1. The [LLU](LLU.md "wikilink") Socket is located on
+The [Control Console](/Control_Console "wikilink") for this base is in
+the basement, level 1. The [LLU](/LLU "wikilink") Socket is located on
 Basement Level 2 (below the research lab next to the [Respawn
-room](Respawn_room.md "wikilink")}
+room](/Respawn_room "wikilink")}
 
 Unique feature - medical room with an [Advanced Medical
-Terminal](Advanced_Medical_Terminal.md "wikilink") and
-[Lockers](Lockers.md "wikilink") located next to the [main
-lobby](main_lobby.md "wikilink"). They are also the only facilities outside
-of [Sanctuary](Sanctuary.md "wikilink") with
-[Certification](Certification_Terminal.md "wikilink") and
-[Implant](Implant_Terminal.md "wikilink") terminals.
+Terminal](/Advanced_Medical_Terminal "wikilink") and
+[Lockers](/Lockers "wikilink") located next to the [main
+lobby](/main_lobby "wikilink"). They are also the only facilities outside
+of [Sanctuary](/Sanctuary "wikilink") with
+[Certification](/Certification_Terminal "wikilink") and
+[Implant](/Implant_Terminal "wikilink") terminals.
 
 ## Base Facility Specs
 
-|                                                                                                                      |                                                 |
-| -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [Control Console](Control_Console.md "wikilink"):                                                                    | Level 1                                         |
-| [Generator](Generator.md "wikilink"):                                                                                | Roof                                            |
-| [Spawn room](Respawn_room.md "wikilink"):                                                                            | Level 1                                         |
-| [Vehicle Terminal](Vehicle_Terminal.md "wikilink") (Air/Ground):                                                     | Courtyard                                       |
-| [BFR Shed](BFR_Shed.md "wikilink"):                                                                                  | Courtyard                                       |
-| [Certification Terminals](Certification_Terminal.md "wikilink")/[Implant Terminals](Implant_Terminal.md "wikilink"): | Level 1                                         |
-| [Lattice Logic Unit](LLU.md "wikilink") Socket:                                                                      | Basement                                        |
-| [Facility Linked Benefit](Facility_Linked_Benefit.md "wikilink"):                                                    | Reduce Respawn timer (benefit icon: spawn tube) |
-| [Wall Turrets](Phalanx.md "wikilink"):                                                                               | 6                                               |
-|                                                                                                                      |                                                 |
+|                                                                                                                  |                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Control Console](/Control_Console "wikilink"):                                                                  | Level 1                                         |
+| [Generator](/Generator "wikilink"):                                                                              | Roof                                            |
+| [Spawn room](/Respawn_room "wikilink"):                                                                          | Level 1                                         |
+| [Vehicle Terminal](/Vehicle_Terminal "wikilink") (Air/Ground):                                                   | Courtyard                                       |
+| [BFR Shed](/BFR_Shed "wikilink"):                                                                                | Courtyard                                       |
+| [Certification Terminals](/Certification_Terminal "wikilink")/[Implant Terminals](/Implant_Terminal "wikilink"): | Level 1                                         |
+| [Lattice Logic Unit](/LLU "wikilink") Socket:                                                                    | Basement                                        |
+| [Facility Linked Benefit](/Facility_Linked_Benefit "wikilink"):                                                  | Reduce Respawn timer (benefit icon: spawn tube) |
+| [Wall Turrets](/Phalanx "wikilink"):                                                                             | 6                                               |
+|                                                                                                                  |                                                 |
 
 ## Bio Laboratory Locations
 
-### [Amerish](Amerish.md "wikilink")
+### [Amerish](/Amerish "wikilink")
 
-- [Ikanam](Ikanam.md "wikilink")
-- [Kyoi](Kyoi.md "wikilink") (Sub-Capitol)
-- [Onatha](Onatha.md "wikilink")
-- [Xelas](Xelas.md "wikilink") (Sub-Capitol)
+- [Ikanam](/Ikanam "wikilink")
+- [Kyoi](/Kyoi "wikilink") (Sub-Capitol)
+- [Onatha](/Onatha "wikilink")
+- [Xelas](/Xelas "wikilink") (Sub-Capitol)
 
-### [Ceryshen](Ceryshen.md "wikilink")
+### [Ceryshen](/Ceryshen "wikilink")
 
-- [Sedna](Sedna.md "wikilink") (Sub-Capitol)
-- [Tootega](Tootega.md "wikilink") (Sub-Capitol)
-- [Tarqaq](Tarqaq.md "wikilink")
+- [Sedna](/Sedna "wikilink") (Sub-Capitol)
+- [Tootega](/Tootega "wikilink") (Sub-Capitol)
+- [Tarqaq](/Tarqaq "wikilink")
 
-### [Cyssor](Cyssor.md "wikilink")
+### [Cyssor](/Cyssor "wikilink")
 
-- [Chuku](Chuku.md "wikilink")
-- [Honsi](Honsi.md "wikilink")
-- [Itan](Itan.md "wikilink")
-- [Mukuru](Mukuru.md "wikilink")
-- [Shango](Shango.md "wikilink")
+- [Chuku](/Chuku "wikilink")
+- [Honsi](/Honsi "wikilink")
+- [Itan](/Itan "wikilink")
+- [Mukuru](/Mukuru "wikilink")
+- [Shango](/Shango "wikilink")
 
-### [Esamir](Esamir.md "wikilink")
+### [Esamir](/Esamir "wikilink")
 
-- [Freyr](Freyr.md "wikilink") (Sub-Capitol)
-- [Mani](Mani.md "wikilink") (Sub-Capitol)
-- [Ran](Ran.md "wikilink")
-- [Ymir](Ymir.md "wikilink") (Sub-Capitol)
+- [Freyr](/Freyr "wikilink") (Sub-Capitol)
+- [Mani](/Mani "wikilink") (Sub-Capitol)
+- [Ran](/Ran "wikilink")
+- [Ymir](/Ymir "wikilink") (Sub-Capitol)
 
-### [Forseral](Forseral.md "wikilink")
+### [Forseral](/Forseral "wikilink")
 
-- [Lugh](Lugh.md "wikilink")
-- [Neit](Neit.md "wikilink") (Capitol)
-- [Ogma](Ogma.md "wikilink") (Sub-Capitol)
+- [Lugh](/Lugh "wikilink")
+- [Neit](/Neit "wikilink") (Capitol)
+- [Ogma](/Ogma "wikilink") (Sub-Capitol)
 
-### [Hossin](Hossin.md "wikilink")
+### [Hossin](/Hossin "wikilink")
 
-- [Acan](Acan.md "wikilink") (Sub-Capitol)
-- [Bitol](Bitol.md "wikilink") (Sub-Capitol)
-- [Zotz](Zotz.md "wikilink")
+- [Acan](/Acan "wikilink") (Sub-Capitol)
+- [Bitol](/Bitol "wikilink") (Sub-Capitol)
+- [Zotz](/Zotz "wikilink")
 
-### [Ishundar](Ishundar.md "wikilink")
+### [Ishundar](/Ishundar "wikilink")
 
-- [Dagon](Dagon.md "wikilink")
-- [Hanish](Hanish.md "wikilink")
-- [Lahar](Lahar.md "wikilink")
-- [Zaqar](Zaqar.md "wikilink")
+- [Dagon](/Dagon "wikilink")
+- [Hanish](/Hanish "wikilink")
+- [Lahar](/Lahar "wikilink")
+- [Zaqar](/Zaqar "wikilink")
 
-### [Oshur Battle Islands](Oshur.md "wikilink")
+### [Oshur Battle Islands](/Oshur "wikilink")
 
-- [Rashnu](Rashnu.md "wikilink")
-- [Yazata](Yazata.md "wikilink")
+- [Rashnu](/Rashnu "wikilink")
+- [Yazata](/Yazata "wikilink")
 
-### [Searhus](Searhus.md "wikilink")
+### [Searhus](/Searhus "wikilink")
 
-- [Akua](Akua.md "wikilink")
-- [Drakulu](Drakulu.md "wikilink")
-- [Hiro](Hiro.md "wikilink")
-- [Iva](Iva.md "wikilink")
+- [Akua](/Akua "wikilink")
+- [Drakulu](/Drakulu "wikilink")
+- [Hiro](/Hiro "wikilink")
+- [Iva](/Iva "wikilink")
 
-### [Solsar](Solsar.md "wikilink")
+### [Solsar](/Solsar "wikilink")
 
-- [Aton](Aton.md "wikilink")
-- [Horus](Horus.md "wikilink")
-- [Thoth](Thoth.md "wikilink") (Capitol)
+- [Aton](/Aton "wikilink")
+- [Horus](/Horus "wikilink")
+- [Thoth](/Thoth "wikilink") (Capitol)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](/Category:Locations "wikilink")

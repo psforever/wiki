@@ -1,8 +1,8 @@
-![](images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg") [Technology
-Plant](Technology_Plant.md "wikilink") on Northern
-[Esamir](Esamir.md "wikilink").
+![](/images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg") [Technology
+Plant](/Technology_Plant "wikilink") on Northern
+[Esamir](/Esamir "wikilink").
 
-Linked to [Andvari](Andvari.md "wikilink"), [Jarl](Jarl.md "wikilink"), and
-[Mani](Mani.md "wikilink").
+Linked to [Andvari](/Andvari "wikilink"), [Jarl](/Jarl "wikilink"), and
+[Mani](/Mani "wikilink").
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

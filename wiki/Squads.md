@@ -1,1 +1,1 @@
-1.  redirect [Squad](Squad.md "wikilink")
+1.  redirect [Squad](/Squad "wikilink")

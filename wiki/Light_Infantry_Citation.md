@@ -130,4 +130,4 @@
 
 **\*\*\*Note: Only the "Generalist" level is on the live server\*\*\***
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

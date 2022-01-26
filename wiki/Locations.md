@@ -1,69 +1,69 @@
-![](images/InterstellarMap.jpg "fig:InterstellarMap.jpg")\]\]
-[Auraxis](Auraxis.md "wikilink") has 10 Surface
-[Continents](Continent.md "wikilink") and 6 [Caverns](Caverns.md "wikilink").
+![](/images/InterstellarMap.jpg "fig:InterstellarMap.jpg")\]\]
+[Auraxis](/Auraxis "wikilink") has 10 Surface
+[Continents](/Continent "wikilink") and 6 [Caverns](/Caverns "wikilink").
 Some of those Continents also feature Special Locations like a strange
-landscape or a [Monolith](Monolith.md "wikilink"). Facility Locations like
-the [Spawn Room](Spawn_Room.md "wikilink") and the
-[Generator](Generator.md "wikilink") are also listed under this category.
+landscape or a [Monolith](/Monolith "wikilink"). Facility Locations like
+the [Spawn Room](/Spawn_Room "wikilink") and the
+[Generator](/Generator "wikilink") are also listed under this category.
 
 ## Locations
 
 ### Continents
 
-- [Amerish](Amerish.md "wikilink")
-- [Ceryshen](Ceryshen.md "wikilink")
-- [Cyssor](Cyssor.md "wikilink")
-- [Esamir](Esamir.md "wikilink")
-- [Forseral](Forseral.md "wikilink")
-- [Hossin](Hossin.md "wikilink")
-- [Ishundar](Ishundar.md "wikilink")
-- Oshur [Battle Islands](Battle_Islands.md "wikilink")
-- [Searhus](Searhus.md "wikilink")
-- [Solsar](Solsar.md "wikilink")
+- [Amerish](/Amerish "wikilink")
+- [Ceryshen](/Ceryshen "wikilink")
+- [Cyssor](/Cyssor "wikilink")
+- [Esamir](/Esamir "wikilink")
+- [Forseral](/Forseral "wikilink")
+- [Hossin](/Hossin "wikilink")
+- [Ishundar](/Ishundar "wikilink")
+- Oshur [Battle Islands](/Battle_Islands "wikilink")
+- [Searhus](/Searhus "wikilink")
+- [Solsar](/Solsar "wikilink")
 
 ### Special Continents
 
-- [New Conglomerate](New_Conglomerate.md "wikilink")
-  [Sanctuary](Sanctuary.md "wikilink")
-- [Terran Republic](Terran_Republic.md "wikilink")
-  [Sanctuary](Sanctuary.md "wikilink")
-- [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
-  [Sanctuary](Sanctuary.md "wikilink")
+- [New Conglomerate](/New_Conglomerate "wikilink")
+  [Sanctuary](/Sanctuary "wikilink")
+- [Terran Republic](/Terran_Republic "wikilink")
+  [Sanctuary](/Sanctuary "wikilink")
+- [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")
+  [Sanctuary](/Sanctuary "wikilink")
 
 ### Former Continents
 
-- [Oshur Prime](Oshur_Prime.md "wikilink")
+- [Oshur Prime](/Oshur_Prime "wikilink")
 
 ### Caverns
 
-- [Adlivun](Adlivun.md "wikilink")
-- [Annwn](Annwn.md "wikilink")
-- [Byblos](Byblos.md "wikilink")
-- [Drugaskan](Drugaskan.md "wikilink")
-- [Hunhau](Hunhau.md "wikilink")
-- [Supai](Supai.md "wikilink")
+- [Adlivun](/Adlivun "wikilink")
+- [Annwn](/Annwn "wikilink")
+- [Byblos](/Byblos "wikilink")
+- [Drugaskan](/Drugaskan "wikilink")
+- [Hunhau](/Hunhau "wikilink")
+- [Supai](/Supai "wikilink")
 
 ## Special Locations
 
-- [Monolith Locations](Monolith_Locations.md "wikilink")
+- [Monolith Locations](/Monolith_Locations "wikilink")
 
 ## Facility Locations
 
-- [Air Terminal Room](Air_Terminal_Room.md "wikilink") ([Technology
-  Plant](Technology_Plant.md "wikilink") only)
-- [Back Door](Back_Door.md "wikilink")
-- [Barracks](Barracks.md "wikilink")
-- [Control Console](Control_Console.md "wikilink")
+- [Air Terminal Room](/Air_Terminal_Room "wikilink") ([Technology
+  Plant](/Technology_Plant "wikilink") only)
+- [Back Door](/Back_Door "wikilink")
+- [Barracks](/Barracks "wikilink")
+- [Control Console](/Control_Console "wikilink")
 - [Dropship Center Air Terminal
-  Building](Dropship_Center_Air_Terminal_Building.md "wikilink")
-  ([Dropship Center](Dropship_Center.md "wikilink") only)
-- [Generator](Generator.md "wikilink")
-- [Lounge](Lounge.md "wikilink")
-- [Main lobby](Main_lobby.md "wikilink")
-- [Medical Bay](Medical_Bay.md "wikilink") ([Bio
-  Laboratory](Bio_Laboratory.md "wikilink") only)
-- [Research Room](Research_Room.md "wikilink") (Bio Laboratory only)
-- [Spawn Room](Spawn_Room.md "wikilink")
-- [Vehicle Bay](Vehicle_Bay.md "wikilink") (Technology Plant only)
+  Building](/Dropship_Center_Air_Terminal_Building "wikilink")
+  ([Dropship Center](/Dropship_Center "wikilink") only)
+- [Generator](/Generator "wikilink")
+- [Lounge](/Lounge "wikilink")
+- [Main lobby](/Main_lobby "wikilink")
+- [Medical Bay](/Medical_Bay "wikilink") ([Bio
+  Laboratory](/Bio_Laboratory "wikilink") only)
+- [Research Room](/Research_Room "wikilink") (Bio Laboratory only)
+- [Spawn Room](/Spawn_Room "wikilink")
+- [Vehicle Bay](/Vehicle_Bay "wikilink") (Technology Plant only)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](/Category:Locations "wikilink")

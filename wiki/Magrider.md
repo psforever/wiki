@@ -1,22 +1,22 @@
-![](images/Magrider.jpg "Magrider.jpg")
+![](/images/Magrider.jpg "Magrider.jpg")
 
-|                            |                                                                                                                 |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | [Medium Battle Tank](Medium_Battle_Tank.md "wikilink")                                                          |
-| **Role**                   | Attack                                                                                                          |
-| **Certification Required** | [Armored Assault I](Armored_Assault_I.md "wikilink") and [Armored Assault II](Armored_Assault_II.md "wikilink") |
-| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")                                                              |
-| **Primary Weapon**         | Heavy Rail Beam                                                                                                 |
-| **Secondary Weapon**       | Pulsed Particle Accelerator                                                                                     |
-| **Ammunition Used**        | [PPA Battery](PPA_Battery.md "wikilink") and [Rail Beam Battery](Rail_Beam_Battery.md "wikilink")               |
-| **Range**                  | PPA: 200m Heavy Rail Beam: 300m                                                                                 |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                           |
-| **Handling**               | Good                                                                                                            |
-| **Top speed**              | 65 kph (45 kph over water)                                                                                      |
+|                            |                                                                                                             |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Type**                   | [Medium Battle Tank](/Medium_Battle_Tank "wikilink")                                                        |
+| **Role**                   | Attack                                                                                                      |
+| **Certification Required** | [Armored Assault I](/Armored_Assault_I "wikilink") and [Armored Assault II](/Armored_Assault_II "wikilink") |
+| **Empire**                 | [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")                                                            |
+| **Primary Weapon**         | Heavy Rail Beam                                                                                             |
+| **Secondary Weapon**       | Pulsed Particle Accelerator                                                                                 |
+| **Ammunition Used**        | [PPA Battery](/PPA_Battery "wikilink") and [Rail Beam Battery](/Rail_Beam_Battery "wikilink")               |
+| **Range**                  | PPA: 200m Heavy Rail Beam: 300m                                                                             |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                       |
+| **Handling**               | Good                                                                                                        |
+| **Top speed**              | 65 kph (45 kph over water)                                                                                  |
 
 **Magrider**
 
-The Magrider is the [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")'s
+The Magrider is the [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")'s
 medium battle tank (MBT). Unique because of its non-tracked drive, the
 Magrider floats above the ground, enabling the vehicle to travel over
 water and strafe. It can be agile even when traversing rough terrain.
@@ -32,19 +32,19 @@ MBTs, but the long range of the gun means that the Magrider can engage
 enemies before they can respond. The Magrider is also the only MBT armed
 with a driver weapon, the pulsed particle accelerator. The Magrider may
 NOT be driven while wearing the [Reinforced
-Exo-Suit](Reinforced_Exo.$1.md "wikilink").
+Exo-Suit](/Reinforced_Exo-Suit "wikilink").
 
-The Magrider requires a [Technology Plant](Technology_Plant.md "wikilink")
-lattice link or [Sanctuary](Sanctuary.md "wikilink") vehicle pad in order
+The Magrider requires a [Technology Plant](/Technology_Plant "wikilink")
+lattice link or [Sanctuary](/Sanctuary "wikilink") vehicle pad in order
 to be purchasable.
 
 Shots to kill (with Heavy Rail Beam only):
 
-|                                      |          |
-| ------------------------------------ | -------- |
-| [Lightning](Lightning.md "wikilink") | 8 shots  |
-| [Prowler](Prowler.md "wikilink")     | 21 shots |
-| [Vanguard](Vanguard.md "wikilink")   | 21 shots |
+|                                    |          |
+| ---------------------------------- | -------- |
+| [Lightning](/Lightning "wikilink") | 8 shots  |
+| [Prowler](/Prowler "wikilink")     | 21 shots |
+| [Vanguard](/Vanguard "wikilink")   | 21 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)
@@ -55,10 +55,10 @@ Tactics
 
 </H3>
 
-- [Magrider Guide by Quovatis](Magrider_Guide_by_Quovatis.md "wikilink")
+- [Magrider Guide by Quovatis](/Magrider_Guide_by_Quovatis "wikilink")
 
-[category:Vehicles](category:Vehicles.md "wikilink") [category:Ground
-Vehicles](category:Ground_Vehicles.md "wikilink") [category:Vanu
-Sovereignty Vehicles](category:Vanu_Sovereignty_Vehicles.md "wikilink")
+[category:Vehicles](/category:Vehicles "wikilink") [category:Ground
+Vehicles](/category:Ground_Vehicles "wikilink") [category:Vanu
+Sovereignty Vehicles](/category:Vanu_Sovereignty_Vehicles "wikilink")
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")

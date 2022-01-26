@@ -227,10 +227,10 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md "wikilink") is awarded for
-[reviving](Revive.md "wikilink") friendly soldiers after they have been
+This [Merit Commendation](/Merit_Commendation "wikilink") is awarded for
+[reviving](/Revive "wikilink") friendly soldiers after they have been
 killed by enemy fire, using the [Medical
-Applicator](Medical_Applicator.md "wikilink")
+Applicator](/Medical_Applicator "wikilink")
 
 The Advanced and Expert awards for this merit can be arranged to form
 the universal symbol for humanitarian aid:
@@ -318,4 +318,4 @@ the universal symbol for humanitarian aid:
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

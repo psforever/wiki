@@ -17,7 +17,7 @@
 
 - "Why must everything be turned into a weapon?" The scientist
   gesticulated wildly at the crystalline structures around him. "The
-  [Ancients](Ancients.md "wikilink") created this planet as a construct
+  [Ancients](/Ancients "wikilink") created this planet as a construct
   to alter the very fabric of existence. We have the barest inkling of
   how they effected such manipulations, yet we diminish these great
   discoveries by turning them into weapons of war! It's beyond
@@ -29,7 +29,7 @@
 
 ### BFR Origins
 
-- "Timeline: Six months [Pre-Bending](The_Bending.md "wikilink")
+- "Timeline: Six months [Pre-Bending](/The_Bending "wikilink")
 
   The concept and design of Exoskeletal vehicles is nothing new. The
   Old Republic experimented with different designs over the past 40 to
@@ -44,7 +44,7 @@
 
 "My name is Frank Root. I've been alive for a long time. Well, if you
 don't count the two hundred or so times that I've died. I am a soldier
-of the [New Conglomerate](New_Conglomerate.md "wikilink"). One of the
+of the [New Conglomerate](/New_Conglomerate "wikilink"). One of the
 first, actually..." [As told by Frank Root, New Conglomerate
 Technician](http://planetside.station.sony.com/news_archive.vm?id=65061&month=022005)
 
@@ -76,4 +76,4 @@ Technician](http://planetside.station.sony.com/news_archive.vm?id=65061&month=02
   Technophobes are shortsighted, only seeing scarcity and survival of
   the fittest..."
 
-[Category:PlanetSide](Category:PlanetSide.md "wikilink")
+[Category:PlanetSide](/Category:PlanetSide "wikilink")

@@ -1,10 +1,10 @@
 **Broadcast** refers to one of the following:
 
 1.  The /broadcast channel available in the chat window. See [In-Game
-    Commands](In.$1.md "wikilink").
-2.  The ability to teleport from one [warpgate](warpgate.md "wikilink") to
+    Commands](/In-Game_Commands "wikilink").
+2.  The ability to teleport from one [warpgate](/warpgate "wikilink") to
     another along the continental or galactic
-    [lattice](lattice.md "wikilink"). See [Broadcast
-    warpgate](Broadcast_warpgate.md "wikilink").
+    [lattice](/lattice "wikilink"). See [Broadcast
+    warpgate](/Broadcast_warpgate "wikilink").
 
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](/category:Terminology "wikilink")

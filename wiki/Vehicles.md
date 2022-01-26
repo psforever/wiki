@@ -1,1 +1,1 @@
-1.  redirect [Vehicle](Vehicle.md "wikilink")
+1.  redirect [Vehicle](/Vehicle "wikilink")

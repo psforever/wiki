@@ -1,6 +1,6 @@
-![](images/Tr_weapons.jpg "fig:Tr_weapons.jpg")'s empire-specific handheld
-weaponry.\]\] [Weapons](Weapon.md "wikilink") are the bread and butter of
-the game [PlanetSide](PlanetSide.md "wikilink"). They are practically
+![](/images/Tr_weapons.jpg "fig:Tr_weapons.jpg")'s empire-specific handheld
+weaponry.\]\] [Weapons](/Weapon "wikilink") are the bread and butter of
+the game [PlanetSide](/PlanetSide "wikilink"). They are practically
 essential to do anything in PlanetSide, as PlanetSide is a war simulator
 and weapons are the basis of any war. The weapons in PlanetSide are
 highly diversified, from grenade launchers to shotguns to sniper rifles.
@@ -17,7 +17,7 @@ learn which weapons to use and when and why.
 ## Acquiring Weapons
 
 When a player first spawns in PlanetSide, they automatically have a
-[Suppressor](Suppressor.md "wikilink"), their Empire-Specific pistol, a
+[Suppressor](/Suppressor "wikilink"), their Empire-Specific pistol, a
 combat knife, four boxes of standard 9mm ammo, one box of AP 9mm ammo,
 and one box of whatever ammunition that empire's empire-specific pistol
 uses. However, to use the more advanced weaponry which is more prevalant
@@ -26,17 +26,17 @@ on the battlefield, the user has to go through a slight process.
 ### Certifications
 
 To be able to acquire certain weapons, a player needs certain
-[certifications](certification.md "wikilink") from a [certification
-terminal](certification_terminal.md "wikilink"). There are only six weapon
+[certifications](/certification "wikilink") from a [certification
+terminal](/certification_terminal "wikilink"). There are only six weapon
 certifications, and all characters have one of them. The six weapon
 cerifications are as follows:
 
-- [Standard Assault](Standard_Assault.md "wikilink")
-- [Medium Assault](Medium_Assault.md "wikilink")
-  - [Heavy Assault](Heavy_Assault.md "wikilink")
-  - [Special Assault](Special_Assault.md "wikilink")
-  - [Sniping](Sniping.md "wikilink")
-  - [Anti-Vehicular](Anti.$1.md "wikilink")
+- [Standard Assault](/Standard_Assault "wikilink")
+- [Medium Assault](/Medium_Assault "wikilink")
+  - [Heavy Assault](/Heavy_Assault "wikilink")
+  - [Special Assault](/Special_Assault "wikilink")
+  - [Sniping](/Sniping "wikilink")
+  - [Anti-Vehicular](/Anti-Vehicular "wikilink")
 
 All characters are required to have Standard Assault, and Medium Assault
 is the prerequisite to the other four weapon certifications. Thus,
@@ -46,17 +46,17 @@ character has it.
 ### Merits
 
 In addition to this, the [Heavy Scout
-Rifle](Heavy_Scout_Rifle.md "wikilink") requires no certification, but it
+Rifle](/Heavy_Scout_Rifle "wikilink") requires no certification, but it
 does require the player to have a [2 Year Term of
-Service](Term_of_Service.md "wikilink") to be able to acquire it.
+Service](/Term_of_Service "wikilink") to be able to acquire it.
 Currently, the Heavy Scout Rifle is the only weapon in the game to have
 such a requirement.
 
 ### Equipment Terminal
 
-After a player has the correct [certification](certification.md "wikilink")
-or [Merit](Merit_Commendation.md "wikilink"), they must purchase the
-weapons from an [equipment terminal](equipment_terminal.md "wikilink"). In
+After a player has the correct [certification](/certification "wikilink")
+or [Merit](/Merit_Commendation "wikilink"), they must purchase the
+weapons from an [equipment terminal](/equipment_terminal "wikilink"). In
 addition to this, when they purchase a weapon, to be able to use it,
 they must have the correct type of holster in their armor.
 
@@ -73,8 +73,8 @@ sometimes slot 3. These are smaller weapons, as the pistol holster is
 only 3x3. The weapons that use the pistol holster are:
 
 - All Empire-Specific pistols
-- [AMP](AMP.md "wikilink")
-- [Spiker](Spiker.md "wikilink")
+- [AMP](/AMP "wikilink")
+- [Spiker](/Spiker "wikilink")
 - Hand-Held Grenades
 
 Even though Hand-Held Grenades are fired through the pistol holster,
@@ -88,12 +88,12 @@ have any rifle slots. Rifle slots are slot 2 and 4, and are reserved for
 more powerful weapons. These are the weapons that a player will usually
 use when in combat. The weapons that use the rifle slot are:
 
-- All [Medium Assault](Medium_Assault.md "wikilink") weapons except for
+- All [Medium Assault](/Medium_Assault "wikilink") weapons except for
   the Spiker
-- [Heavy Assault](Heavy_Assault.md "wikilink") weapons
-- [Special Assault](Special_Assault.md "wikilink") weapons
-- [Sniping](Sniping.md "wikilink") weapons
-- [Anti-Vehicular](Anti.$1.md "wikilink") weapons
+- [Heavy Assault](/Heavy_Assault "wikilink") weapons
+- [Special Assault](/Special_Assault "wikilink") weapons
+- [Sniping](/Sniping "wikilink") weapons
+- [Anti-Vehicular](/Anti-Vehicular "wikilink") weapons
 
 Although Medium Assault weapons and Special Assault weapons use rifles
 slots, they do not take up the full 9 x 3 space. This doesn't make a
@@ -111,20 +111,20 @@ There are exceptions to this rule, but this is generally speaking.
 Also, many weapons have two types of ammo: standard ammo and AP ammo.
 Standard ammo is white in color, and is designed to take out other
 infantry. AP ammo is gold in color, and is designed to take out enemy
-[MAX](MAX.md "wikilink")'s and [vehicles](vehicle.md "wikilink"). The only
+[MAX](/MAX "wikilink")'s and [vehicles](/vehicle "wikilink"). The only
 weapons with these sorts of restrictions are [Standard
-Assault](Standard_Assault.md "wikilink"), [Medium
-Assault](Medium_Assault.md "wikilink"), and [Heavy
-Assault](Heavy_Assault.md "wikilink") weapons.
+Assault](/Standard_Assault "wikilink"), [Medium
+Assault](/Medium_Assault "wikilink"), and [Heavy
+Assault](/Heavy_Assault "wikilink") weapons.
 
 The exceptions to this rule are [Ancient
-Technology](Ancient_Technology.md "wikilink") and [Vanu
-Sovereignty](Vanu_Sovereignty.md "wikilink") weapons. The
-[Beamer](Beamer.md "wikilink") and the [Pulsar](Pulsar.md "wikilink") have an
+Technology](/Ancient_Technology "wikilink") and [Vanu
+Sovereignty](/Vanu_Sovereignty "wikilink") weapons. The
+[Beamer](/Beamer "wikilink") and the [Pulsar](/Pulsar "wikilink") have an
 inherent AP mode which allows the user to switch to armor piecing on the
 fly without worrying about different ammo types. The
-[Lasher](Lasher.md "wikilink") and the [Ancient
-Technology](Ancient_Technology.md "wikilink") weapons are already effective
+[Lasher](/Lasher "wikilink") and the [Ancient
+Technology](/Ancient_Technology "wikilink") weapons are already effective
 against all type of enemies without different ammunition types or firing
 modes designed specifically for them.
 
@@ -137,12 +137,12 @@ Each and every weapon has a role on the battlefield.
 ### Combat Knives
 
 The combat knives of PlanetSide are the
-[Chainblade](Chainblade.md "wikilink"),
-[Mag-Cutter](Mag.$1.md "wikilink"), and
-[Force-Blade](Force.$1.md "wikilink"). Knives are generally a soldier's
-last resort, although many [Infiltrators](Infiltrator.md "wikilink") do use
+[Chainblade](/Chainblade "wikilink"),
+[Mag-Cutter](/Mag-Cutter "wikilink"), and
+[Force-Blade](/Force-Blade "wikilink"). Knives are generally a soldier's
+last resort, although many [Infiltrators](/Infiltrator "wikilink") do use
 the combat knives as primary weapons, usually with the help of the
-[Melee Booster](Melee_Booster.md "wikilink") implant. Also, all knives have
+[Melee Booster](/Melee_Booster "wikilink") implant. Also, all knives have
 a Force Attack funcion which allows them to become much more powerful,
 but it emits a loud sound which notifies people to the presence of a
 knife wielder.
@@ -155,24 +155,24 @@ have it with you. You cannot loot enemy knives.
 ### Basic Weapons
 
 All characters start with these weapons, as these are the weapons that
-come with the [Standard Assault](Standard_Assault.md "wikilink")
+come with the [Standard Assault](/Standard_Assault "wikilink")
 certification.
 
 #### Pistols
 
 Pistols are generally used as back up weapons, although
-[Infiltrators](Infiltrator.md "wikilink") are forced to use these as
+[Infiltrators](/Infiltrator "wikilink") are forced to use these as
 weapons if they do not use the Combat Knife or the [Adaptive
-Construction Engine](Adaptive_Construction_Engine.md "wikilink"). Also,
+Construction Engine](/Adaptive_Construction_Engine "wikilink"). Also,
 many soldiers use pistols as a back up weapon, since many of them use
 the same ammo type as their corresponding empire's [Medium
-Assault](Medium_Assault.md "wikilink") and [Heavy
-Assault](Heavy_Assault.md "wikilink") weapons. There are two main classes
+Assault](/Medium_Assault "wikilink") and [Heavy
+Assault](/Heavy_Assault "wikilink") weapons. There are two main classes
 of pistols, long range pistols and short range pistols. Also, when a
 player spawns, they will have their Empire-specific pistol with them.
 
 Short range pistols are what Infiltrators tend to like to use. These are
-the [AMP](AMP.md "wikilink") and the [Mag-Scatter](Mag.$1.md "wikilink").
+the [AMP](/AMP "wikilink") and the [Mag-Scatter](/Mag-Scatter "wikilink").
 These weapons are designed to be close range, so, naturally, the
 Infiltrator, as a generally close range class, can use this to their
 advantage. Also, many Snipers and Medium Assault users like to take one
@@ -183,36 +183,36 @@ Long range pistols is a slightly misleading name, as these pistols still
 are not anywhere near Medium Assault range. However, these weapons can
 be used effectively in ranges over 20 meters, which is somewhat
 advantageous to Infiltrators, as they can kill enemies outside of the 20
-meter [Darklight](Darklight.md "wikilink") range without fear of being
+meter [Darklight](/Darklight "wikilink") range without fear of being
 detected by Darklight. The long range pistols are the
-[Beamer](Beamer.md "wikilink") and the [Repeater](Repeater.md "wikilink"),
-which means the [New Conglomerate](New_Conglomerate.md "wikilink") has no
+[Beamer](/Beamer "wikilink") and the [Repeater](/Repeater "wikilink"),
+which means the [New Conglomerate](/New_Conglomerate "wikilink") has no
 available long range pistol without looting.
 
-**\*Note:** The [Spiker](Spiker.md "wikilink") is also a Long Range pistol
-but it is classified under [Medium Assault](Medium_Assault.md "wikilink")
+**\*Note:** The [Spiker](/Spiker "wikilink") is also a Long Range pistol
+but it is classified under [Medium Assault](/Medium_Assault "wikilink")
 and will be talked about later.\*
 
 #### Suppressor
 
 This is the most basic rifle weapon in the game, and does the lowest
-damage per shot of any rifle. The [Suppressor](Suppressor.md "wikilink") is
+damage per shot of any rifle. The [Suppressor](/Suppressor "wikilink") is
 incredibly accurate, and can be used for some long range work. However,
 generally, if a player has a certification above Standard Assault, they
 don't want to be using the Suppressor. A player spawns with the
 Suppressor when they first spawn out of a [Spawn
-Tube](Spawn_Tube.md "wikilink") or [AMS](AMS.md "wikilink").
+Tube](/Spawn_Tube "wikilink") or [AMS](/AMS "wikilink").
 
 ### Medium Assault
 
-[Medium Assault](Medium_Assault.md "wikilink") is one of the most bread and
+[Medium Assault](/Medium_Assault "wikilink") is one of the most bread and
 butter certifications in the game of PlanetSide. Almost every character
 has it, as it is the pre-requisite for [Heavy
-Assault](Heavy_Assault.md "wikilink"),
-[Anti-Vehicular](Anti.$1.md "wikilink"),
-[Sniping](Sniping.md "wikilink"), and [Special
-Assault](Special_Assault.md "wikilink"). [Medium
-Assault](Medium_Assault.md "wikilink") weapons are all good in all
+Assault](/Heavy_Assault "wikilink"),
+[Anti-Vehicular](/Anti-Vehicular "wikilink"),
+[Sniping](/Sniping "wikilink"), and [Special
+Assault](/Special_Assault "wikilink"). [Medium
+Assault](/Medium_Assault "wikilink") weapons are all good in all
 situations, but they do not excel in any one situation.
 
 #### Empire-Specific Assault Rifles
@@ -222,15 +222,15 @@ used in pretty much any situation, be it long range or short range.
 These weapons are used by many characters due to their versatility, and
 are especially newbie friendly due to this. However, even veteran
 characters use these weapons. These weapons are the
-[Cycler](Cycler.md "wikilink"), [Gauss](Gauss.md "wikilink"), and
-[Pulsar](Pulsar.md "wikilink"). While these weapons can all be fired in
+[Cycler](/Cycler "wikilink"), [Gauss](/Gauss "wikilink"), and
+[Pulsar](/Pulsar "wikilink"). While these weapons can all be fired in
 fully automatic, this can only be reliably used in close range combat.
 For longer range combat, burst firing is preferable to keep the [Cone of
-fire](Cone_of_fire.md "wikilink") under control.
+fire](/Cone_of_fire "wikilink") under control.
 
 #### Punisher
 
-Another incredibly versatile weapon, the [Punisher](Punisher.md "wikilink")
+Another incredibly versatile weapon, the [Punisher](/Punisher "wikilink")
 is not as good as the other three Assault Rifles at being an assault
 rifle, but it has one major advantage over them: a single shot
 grenade/rocket launcher. The Punisher, in secondary fire mode, can fire
@@ -247,21 +247,21 @@ ammo to finish off a target.
 #### Sweeper
 
 The Sweeper is the most powerful close range weapon in the [Medium
-Assault](Medium_Assault.md "wikilink") certification. As a shotgun, it's
+Assault](/Medium_Assault "wikilink") certification. As a shotgun, it's
 use is quickly diminished at longer ranges, but it has a tighter spread
-than the [Heavy Assault](Heavy_Assault.md "wikilink") weapons and can
+than the [Heavy Assault](/Heavy_Assault "wikilink") weapons and can
 therefore be used at a slightly longer range. Some players even prefer
 the Sweeper to it's big brother, the [New
-Conglomerate](New_Conglomerate.md "wikilink")
-[Jackhammer](Jackhammer.md "wikilink"). However, this all comes down to
+Conglomerate](/New_Conglomerate "wikilink")
+[Jackhammer](/Jackhammer "wikilink"). However, this all comes down to
 personal preference.
 
 #### Spiker
 
-This is an [Ancient Technology](Ancient_Technology.md "wikilink") pistol
+This is an [Ancient Technology](/Ancient_Technology "wikilink") pistol
 with quite an interesting role. Users can charge up the shot, but the
 longer a shot is charged up, the more ammo is expended. However, fully
-charged, the [Spiker](Spiker.md "wikilink") does do quite a bit of damage
+charged, the [Spiker](/Spiker "wikilink") does do quite a bit of damage
 with quite an impressive splash for a pistol. Infiltrators tend to enjoy
 using the Spiker, as it has a fairly long range and a good damage ratio.
 However, careful ammo management is important to get many kills with it.
@@ -269,34 +269,34 @@ However, careful ammo management is important to get many kills with it.
 ### Heavy Weapons
 
 One of the most heavily contested and debated about certifications,
-[Heavy Assault](Heavy_Assault.md "wikilink") is designed to be at the
+[Heavy Assault](/Heavy_Assault "wikilink") is designed to be at the
 forefront of any attack. It is the most expensive of any hand-held
 weaponry certification, at four
-[certification](certification.md "wikilink") points along with the [Medium
-Assault](Medium_Assault.md "wikilink") certification, but you still see
+[certification](/certification "wikilink") points along with the [Medium
+Assault](/Medium_Assault "wikilink") certification, but you still see
 quite a few weapons from this certification out on the battlefield.
 These weapons are designed to be room clearers and have a very low time
 to kill in close range combat.
 
 #### Lasher
 
-The [Lasher](Lasher.md "wikilink") is the [Vanu
-Sovereignty](Vanu_Sovereignty.md "wikilink")'s Heavy Assault weapon. The
+The [Lasher](/Lasher "wikilink") is the [Vanu
+Sovereignty](/Vanu_Sovereignty "wikilink")'s Heavy Assault weapon. The
 Lasher features a "lash" which does damage to all surrounding targets
 after a Lasher orb hits the ground, an enemy, or anything. This makes
 the Lasher quite an effective indoor room clearer, as the wall and the
 floor will often lash towards enemies and do damage, even if the Lasher
 user does not directly hit the enemy. However, the Lasher suffers from
 incredibly slow projectile speed and high [Damage
-Degradation](Damage_Degradation.md "wikilink"), which makes the weapon
+Degradation](/Damage_Degradation "wikilink"), which makes the weapon
 usless after a fairly short range. However, because of the slight lash,
 a Lasher user can hit enemies around corners, which allows the Lasher to
-double as a weak [Special Assault](Special_Assault.md "wikilink") weapon.
+double as a weak [Special Assault](/Special_Assault "wikilink") weapon.
 
 #### Jackhammer
 
-The [Jackhammer](Jackhammer.md "wikilink") is the [New
-Conglomerate](New_Conglomerate.md "wikilink")'s Heavy Assault weapon. The
+The [Jackhammer](/Jackhammer "wikilink") is the [New
+Conglomerate](/New_Conglomerate "wikilink")'s Heavy Assault weapon. The
 JackHammer is an automatic shotgun with a rather high pellet spread but
 a high damage output. It is the only Heavy Assault with a secondary
 mode, which is a triple shot mode, where three shotgun slugs are
@@ -308,8 +308,8 @@ secondary mode, the JackHammer fills it's role nicely as a room clearer.
 
 #### Mini-Chaingun
 
-The [Mini-Chaingun](Mini.$1.md "wikilink") is the [Terran
-Republic](Terran_Republic.md "wikilink")'s Heavy Assault weapon. The
+The [Mini-Chaingun](/Mini-Chaingun "wikilink") is the [Terran
+Republic](/Terran_Republic "wikilink")'s Heavy Assault weapon. The
 Mini-Chaingun, sometimes shortenned to just MCG, is a rapid firing
 machine gun with a very high magazine capacity. With 100 shots per
 magazine, the MCG can pour out quite a bit of lead. However, because of
@@ -321,15 +321,15 @@ range combat to minimize the cone of fire.
 
 #### Maelstrom
 
-The [Maelstrom](Maelstrom.md "wikilink") is an [Ancient
-Technology](Ancient_Technology.md "wikilink") [Heavy
-Assault](Heavy_Assault.md "wikilink") weapon. The Maelstrom is an
+The [Maelstrom](/Maelstrom "wikilink") is an [Ancient
+Technology](/Ancient_Technology "wikilink") [Heavy
+Assault](/Heavy_Assault "wikilink") weapon. The Maelstrom is an
 incredibly versatile weapon which has both potential for anti-personnel
 and anti-armor use. In primary mode, a vortex whip comes out of the end
 of the Maelstrom, which, while it does not do as much damage as the
-normal [Heavy Assault](Heavy_Assault.md "wikilink") weaponry, can be used
+normal [Heavy Assault](/Heavy_Assault "wikilink") weaponry, can be used
 if needed. The secondary mode fires a grenade which does quite a bit of
-damage and can lash, similarily to the [Lasher](Lasher.md "wikilink"),
+damage and can lash, similarily to the [Lasher](/Lasher "wikilink"),
 through walls and around corners. The final mode is the same as the
 secondary mode, except there is a two-second fuse on the grenade, which
 allows the weapon to be used as Special Assault.
@@ -345,7 +345,7 @@ since there is no are-based hit detection.
 
 #### Bolt Driver
 
-The [Bolt Driver](Bolt_Driver.md "wikilink") was the only Sniper Rifle in
+The [Bolt Driver](/Bolt_Driver "wikilink") was the only Sniper Rifle in
 the game for two years. It has the highest damage per shot of any
 handheld infantry weapon in the game, doing 100 damage in total.
 However, a player wearing any armor besides an Infiltration suit will
@@ -385,7 +385,7 @@ can be used effectively indoors, tend to shine in outdoors combat.
 
 ##### Lancer
 
-The [Lancer](Lancer.md "wikilink") is the Vanu Sovereignty's Anti-Vehicular
+The [Lancer](/Lancer "wikilink") is the Vanu Sovereignty's Anti-Vehicular
 weapon. This features a fast travelling bolt which does quite an
 impressive bit of damage to vehicles. The Lancer has a charge up time of
 about a second, which means the user has to lead targets not only for
@@ -396,7 +396,7 @@ the other Empire-Specific Anti-Vehicular Weaponry.
 
 ##### Phoenix
 
-The [Phoenix](Phoenix.md "wikilink") is the New Conglomerate's
+The [Phoenix](/Phoenix "wikilink") is the New Conglomerate's
 Anti-Vehicular weapon. The Phoenix features a guided missile, which
 allows the user to compensate for vehicle movement in flight, as well as
 fire around corners and around obstacles. This allows the user to be
@@ -411,14 +411,14 @@ fire mode.
 
 Because the Phoenix does do quite a bit of damage, comparable to the
 Decimator, the Phoenix can be utilized quite effectively indoors against
-[MAX](MAX.md "wikilink")'s. It operates pretty much as a reloadable
+[MAX](/MAX "wikilink")'s. It operates pretty much as a reloadable
 Decimator indoors, which means it has a slightly higher time to kill,
 but can still be effective in a pinch. It is probably the most effective
 of the three empire-specific anti-vehicular weapons indoors.
 
 ##### Striker
 
-The [Striker](Striker.md "wikilink") is the Terran Republic's
+The [Striker](/Striker "wikilink") is the Terran Republic's
 anti-vehicular weapon. The Striker features lock on missiles, which
 allows it to hit fast moving vehicles with ease. However, to keep the
 missile tracking a target, the Striker's reticle must be kept on the
@@ -431,9 +431,9 @@ which launches dumbfire missiles.
 
 #### Decimator
 
-The [Decimator](Decimator.md "wikilink") is more of a short range
+The [Decimator](/Decimator "wikilink") is more of a short range
 anti-vehicular weapon, and is more designed to be used against
-[MAX](MAX.md "wikilink") units. The Decimator is a 3 shot non-reloadable
+[MAX](/MAX "wikilink") units. The Decimator is a 3 shot non-reloadable
 rocket launcher which fires only dumbfire missiles which do a
 considerable amount of damage. The Decimator kills full-health MAX Units
 in three shots, and, while it is difficult to hit moving vehicles,
@@ -458,7 +458,7 @@ weapons are fairly unique.
 #### Thumper
 
 By far the most popular Special Assault weapon, the
-[Thumper](Thumper.md "wikilink") is a grenade launcher which can fire
+[Thumper](/Thumper "wikilink") is a grenade launcher which can fire
 either Plasma, Fragmentation, or Jammer grenades. The weapon can be used
 on explode on contact, which is useful for lobbing grenades over walls
 and cover, or on a three-second fuse, which allows the grenades time to
@@ -468,7 +468,7 @@ in quickly.
 
 #### Rocklet Rifle
 
-The [Rocklet Rifle](Rocklet_Rifle.md "wikilink") is a handheld rocket
+The [Rocklet Rifle](/Rocklet_Rifle "wikilink") is a handheld rocket
 launcher which fires 6 rockets in rapid succession. With normal rockets,
 the Rocklet can kill an infantry even wearing a Reinforced Exo-Suit in
 one magazine. The rockets also do quite a bit of vehicle damage, and can
@@ -487,8 +487,8 @@ jumps dramatically in this mode.
 
 #### Radiator
 
-The [Radiator](Radiator.md "wikilink") is an [Ancient
-Technology](Ancient_Technology.md "wikilink") grenade launcher which fires
+The [Radiator](/Radiator "wikilink") is an [Ancient
+Technology](/Ancient_Technology "wikilink") grenade launcher which fires
 grenades that explode into a very large pain field. This field slowly
 damages enemies, completely ignoring their armor, and eats away at their
 health. This _includes_ enemies inside of a vehicle, which allows a
@@ -501,10 +501,10 @@ explode on contact and time-fuse grenades.
 ### Hand Held Grenades
 
 These are hand held versions of the [Jammer
-grenade](Jammer_grenade.md "wikilink"), [Fragmentation
-grenade](Fragmentation_grenade.md "wikilink"), and [Plasma
-grenade](Plasma_grenade.md "wikilink") grenades which are also used in the
-[Thumper](Thumper.md "wikilink") and the [Punisher](Punisher.md "wikilink").
+grenade](/Jammer_grenade "wikilink"), [Fragmentation
+grenade](/Fragmentation_grenade "wikilink"), and [Plasma
+grenade](/Plasma_grenade "wikilink") grenades which are also used in the
+[Thumper](/Thumper "wikilink") and the [Punisher](/Punisher "wikilink").
 These take up a pistol slot, but are actually stored in the inventory
 slightly smaller than normal pistol weapons. These can be incredibly
 useful, as they can hit enemies around cover and make them weaker, and
@@ -512,7 +512,7 @@ lure them out into attacking you in their weakened state.
 
 ## General Use
 
-The weapons in [PlanetSide](PlanetSide.md "wikilink") are not
+The weapons in [PlanetSide](/PlanetSide "wikilink") are not
 extraordinarily difficult to utilize. To fire a weapon, use the fire
 button (default: Mouse 1). Some weapons have more than one fire mode,
 which can be switched to on the fly (default: mouse 2). If you are
@@ -524,7 +524,7 @@ that can be learned.
 ### Close Quarters Combat
 
 At ranges of less than 10 meters, generally, a [Heavy
-Assault](Heavy_Assault.md "wikilink") weapon is the best choice. Close
+Assault](/Heavy_Assault "wikilink") weapon is the best choice. Close
 Quarters Combat tends to involve running at full speed while firing, and
 not worrying about cone of fire. Strafing is important for dodging enemy
 fire, and constantly keeping your reticle on the enemy is incredibly
@@ -532,7 +532,7 @@ important as well.
 
 ### Long Range Combat
 
-In long range combat, [cone of fire](cone_of_fire.md "wikilink") management
+In long range combat, [cone of fire](/cone_of_fire "wikilink") management
 becomes incredibly important. Generally speaking, fully automatic fire
 is never recommended for long range combat, as the cone of fire blooms
 far too much to be useful. Also, at these long ranges, it is important
@@ -541,10 +541,10 @@ slower bullets more. You may have to compensate for this.
 
 ## See Also
 
-- [Weapons Index](Weapons_Index.md "wikilink")
+- [Weapons Index](/Weapons_Index "wikilink")
 - [Weaponry Merit
-  Commendations](Weaponry_Merit_Commendations.md "wikilink")
+  Commendations](/Weaponry_Merit_Commendations "wikilink")
 
-[Category:Terminology](Category:Terminology.md "wikilink")
-[Category:Weapons](Category:Weapons.md "wikilink") [Category:Game
-Guides](Category:Game_Guides.md "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink")
+[Category:Weapons](/Category:Weapons "wikilink") [Category:Game
+Guides](/Category:Game_Guides "wikilink")

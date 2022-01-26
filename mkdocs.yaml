@@ -1,8 +1,6 @@
 docs_dir: wiki
 site_name: PSForever Wiki
 site_url: https://psforever.github.io/wiki/
-repo_url: https://github.com/psforever/wiki
-repo_name: GitHub
 theme:
   name: material
 #use_directory_urls: false

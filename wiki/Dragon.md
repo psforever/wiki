@@ -1,17 +1,17 @@
-![](images/Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
-![](images/Dragon.jpg "fig:Dragon.jpg")
+![](/images/Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
+![](/images/Dragon.jpg "fig:Dragon.jpg")
 
-|                            |                                                |
-| -------------------------- | ---------------------------------------------- |
-| **Certification Required** | [Elite Assault](Elite_Assault.md "wikilink")   |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")       |
-| **Primary Mode**           | Stream                                         |
-| **Secondary Mode**         | Sunburst explosion                             |
-| **Ammunition**             | [Incendiary Gel](Incendiary_Gel.md "wikilink") |
-| **Range**                  | 12 meters                                      |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                          |
-| **Magazine Capacity**      | 100                                            |
-| **Zoom**                   | 2x                                             |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | [Elite Assault](/Elite_Assault "wikilink")   |
+| **Empire**                 | [Common Pool](/Common_Pool "wikilink")       |
+| **Primary Mode**           | Stream                                       |
+| **Secondary Mode**         | Sunburst explosion                           |
+| **Ammunition**             | [Incendiary Gel](/Incendiary_Gel "wikilink") |
+| **Range**                  | 12 meters                                    |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                        |
+| **Magazine Capacity**      | 100                                          |
+| **Zoom**                   | 2x                                           |
 
 **Dragon**
 
@@ -19,7 +19,7 @@ The Dragon is a flamethrower that can either fire a continuous stream of
 flames in primary mode, or shoot a "bomb" of fire, which will explode
 and ignite anyone nearby. The range of the Dragon is limited, but its
 damage output is very high, and can quickly kill Infantry and
-[MAXs](MAX.md "wikilink") alike.
+[MAXs](/MAX "wikilink") alike.
 
 The primary mode fires a short burst of flames, consuming 5 ammunition.
 Once started, the burst must finish firing, but holding down the fire
@@ -35,8 +35,8 @@ delay. With a magazine taking up a 4x4 inventory space, use this mode
 sparingly, as it eats up ammo quickly!
 
 The Dragon is free to those having the [Three Year Term of
-Service](Term_of_Service.md "wikilink") [merit](merit.md "wikilink") or
-available to those certing [Elite Assault](Elite_Assault.md "wikilink").
+Service](/Term_of_Service "wikilink") [merit](/merit "wikilink") or
+available to those certing [Elite Assault](/Elite_Assault "wikilink").
 The Dragon has a 3 minute acquisition timer.
 
-[Category:Weapons](Category:Weapons.md "wikilink")
+[Category:Weapons](/Category:Weapons "wikilink")

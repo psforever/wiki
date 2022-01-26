@@ -1,1 +1,1 @@
-1.  REDIRECT [Laze Pointer](Laze_Pointer.md "wikilink")
+1.  REDIRECT [Laze Pointer](/Laze_Pointer "wikilink")

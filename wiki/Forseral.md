@@ -1,18 +1,18 @@
-![](images/ForseralMap.jpg "fig:ForseralMap.jpg")
-![](images/Forseral_Terrain.jpg "fig:Forseral_Terrain.jpg")
+![](/images/ForseralMap.jpg "fig:ForseralMap.jpg")
+![](/images/Forseral_Terrain.jpg "fig:Forseral_Terrain.jpg")
 
 ## Continental Data
 
-|                                             |                                                                           |
-| ------------------------------------------- | ------------------------------------------------------------------------- |
-| Category:                                   | Binary Temperate                                                          |
-| Climate:                                    | Temperate                                                                 |
-| Landmass:                                   | Continent                                                                 |
-| Terrain:                                    | Grassy plains, woodlands, lakes, rocky peaks, wide beaches                |
-| [Facilities](Facilities.md "wikilink"):     | 10                                                                        |
-| [Towers](Tower.md "wikilink"):              |                                                                           |
-| Active [Warpgates](Warpgate.md "wikilink"): | 4                                                                         |
-| [Capitol](Capitol.md "wikilink"):           | [Bio Laboratory](Bio_Laboratory.md "wikilink") [Neit](Neit.md "wikilink") |
+|                                           |                                                                       |
+| ----------------------------------------- | --------------------------------------------------------------------- |
+| Category:                                 | Binary Temperate                                                      |
+| Climate:                                  | Temperate                                                             |
+| Landmass:                                 | Continent                                                             |
+| Terrain:                                  | Grassy plains, woodlands, lakes, rocky peaks, wide beaches            |
+| [Facilities](/Facilities "wikilink"):     | 10                                                                    |
+| [Towers](/Tower "wikilink"):              |                                                                       |
+| Active [Warpgates](/Warpgate "wikilink"): | 4                                                                     |
+| [Capitol](/Capitol "wikilink"):           | [Bio Laboratory](/Bio_Laboratory "wikilink") [Neit](/Neit "wikilink") |
 
 ## Description
 
@@ -25,44 +25,44 @@ peaks jut up into the sky. Pockets of trees provide visual screening for
 ground troops, while ridges of mountains prevent straight-line travel
 from area-to-area.
 
-This is a home continent with a [Sanctuary](Sanctuary.md "wikilink") link
-to the technology plant of [Eadon](Eadon.md "wikilink"). See [Home
-Continent](Home_Continent.md "wikilink") for the current empire sanctuary
+This is a home continent with a [Sanctuary](/Sanctuary "wikilink") link
+to the technology plant of [Eadon](/Eadon "wikilink"). See [Home
+Continent](/Home_Continent "wikilink") for the current empire sanctuary
 links.
 
 This continent is also refered to as
-[Fors](Acronyms_and_Slang.md "wikilink").
+[Fors](/Acronyms_and_Slang "wikilink").
 
 ---
 
 --source: Planetside In-game descriptions, pre- and
-post-[Bending](Bending.md "wikilink").
+post-[Bending](/Bending "wikilink").
 
-## Base [Facilities](Facilities.md "wikilink")
+## Base [Facilities](/Facilities "wikilink")
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](/Amp_Station "wikilink")
 
-- [Eadon](Eadon.md "wikilink")
-- [Pwyll](Pwyll.md "wikilink") ([Sub-Capitol](Sub.$1.md "wikilink"))
+- [Eadon](/Eadon "wikilink")
+- [Pwyll](/Pwyll "wikilink") ([Sub-Capitol](/Sub-Capitol "wikilink"))
 
-### [Bio Laboratories](Bio_Laboratory.md "wikilink")
+### [Bio Laboratories](/Bio_Laboratory "wikilink")
 
-- [Lugh](Lugh.md "wikilink")
-- [Neit](Neit.md "wikilink") ([Capitol](Capitol.md "wikilink"))
-- [Ogma](Ogma.md "wikilink") (Sub-Capitol)
+- [Lugh](/Lugh "wikilink")
+- [Neit](/Neit "wikilink") ([Capitol](/Capitol "wikilink"))
+- [Ogma](/Ogma "wikilink") (Sub-Capitol)
 
-### [Dropship Centers](Dropship_Center.md "wikilink")
+### [Dropship Centers](/Dropship_Center "wikilink")
 
-- [Bel](Bel.md "wikilink")
+- [Bel](/Bel "wikilink")
 
-### [Interlink Facilities](Interlink_Facilities.md "wikilink")
+### [Interlink Facilities](/Interlink_Facilities "wikilink")
 
-- [Caer](Caer.md "wikilink") (Sub-Capitol)
-- [Dagda](Dagda.md "wikilink")
+- [Caer](/Caer "wikilink") (Sub-Capitol)
+- [Dagda](/Dagda "wikilink")
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](/Technology_Plant "wikilink")
 
-- [Anu](Anu.md "wikilink")
-- [Gwydion](Gwydion.md "wikilink") (Sub-Capitol)
+- [Anu](/Anu "wikilink")
+- [Gwydion](/Gwydion "wikilink") (Sub-Capitol)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](/Category:Locations "wikilink")

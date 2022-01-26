@@ -225,6 +225,6 @@ driving a ground vehicle.
 Commendation are exactly the same as the Qualification to Platinum
 levels of the [Transport
 Blockade](</Transport_Blockade_(Merit)> "wikilink") Merit Commendation.
-This is a mistake made by [SOE](SOE.md "wikilink").**
+This is a mistake made by [SOE](/SOE "wikilink").**
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](/category:Merits "wikilink")

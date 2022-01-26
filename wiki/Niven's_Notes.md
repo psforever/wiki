@@ -1,10 +1,10 @@
 A few pointers and observations in various categories, by Niven: BR21,
-CR1, TR [Werner](Werner.md "wikilink"), [Total
-Oblivion](Total_Oblivion.md "wikilink") Outfit.
+CR1, TR [Werner](/Werner "wikilink"), [Total
+Oblivion](/Total_Oblivion "wikilink") Outfit.
 
 ## Niven's Notes: Striker
 
-(See also: [Striker](Striker.md "wikilink"))
+(See also: [Striker](/Striker "wikilink"))
 
 The Striker has perhaps the most flexibilty of the four infantry-based
 AV weapon systems, equally able to tackle MAX, Ground and Air targets.
@@ -15,17 +15,17 @@ Some notes to help use it:
   does mean the rocket will home in on the target, the target must be
   kept in the reticule to guide the rocket all the way in, to be sure
   of a hit. The nearest equivalent is the
-  [Starfire](Starfire.md "wikilink") MAX weapon system.
+  [Starfire](/Starfire "wikilink") MAX weapon system.
 
 <!-- -->
 
 - **Range**: The Stiker will not lock on to targets more than 250m
   away. Also, the rocket itself, if Dumbfired, will tend to timeout
   (explode) at this distance anyway. Do not waste rockets on
-  [Liberators](Liberator.md "wikilink") at the flight ceiling, you will
+  [Liberators](/Liberator "wikilink") at the flight ceiling, you will
   not hit, unless at a very high altitude base
-  ([Searhus](Searhus.md "wikilink") Crater,
-  [Ceryshen](Ceryshen.md "wikilink") Mesas).
+  ([Searhus](/Searhus "wikilink") Crater,
+  [Ceryshen](/Ceryshen "wikilink") Mesas).
 
 <!-- -->
 
@@ -38,7 +38,7 @@ Some notes to help use it:
 <!-- -->
 
 - **Outdoor Only**: While the Striker _can_ be used indoors, as a
-  general rule the [Decimator](Decimator.md "wikilink") is a better
+  general rule the [Decimator](/Decimator "wikilink") is a better
   choice for close-quarter battles against MAX units and
   Spawn/Generator destruction. The Decimator does much more damage per
   shot, and you are unlikely to survive for more than two shots in
@@ -84,7 +84,7 @@ Some notes to help use it:
 <!-- -->
 
 - **Run And Gun**: The Striker has no appreciable [Cone of
-  Fire](Cone_of_Fire.md "wikilink") bloom, and can be used just as
+  Fire](/Cone_of_Fire "wikilink") bloom, and can be used just as
   effectively while running and strafing, as crouching, so if you
   _have_ been spotted, you can make it more difficult for them to
   return fire. If you drive a vehicle off, but fail to kill it,
@@ -103,8 +103,8 @@ Some notes to help use it:
   9 reloads) in Rexo. You'll either be dead before they are all used,
   or near enough a base, tower or AMS during that time, to resupply.
   Often two boxes is enough, allowing room for secondary weapon ammo,
-  and support items. (This holds true for [Lancer](Lancer.md "wikilink")
-  and [Phoenix](Phoenix.md "wikilink") users too.)
+  and support items. (This holds true for [Lancer](/Lancer "wikilink")
+  and [Phoenix](/Phoenix "wikilink") users too.)
 
 <!-- -->
 
@@ -125,26 +125,26 @@ Some notes to help use it:
 <!-- -->
 
 - **Other Gear**: Striker users will need a backup weapon for
-  Anti-Infantry work; the [Medium Assault](Medium_Assault.md "wikilink")
+  Anti-Infantry work; the [Medium Assault](/Medium_Assault "wikilink")
   Category is ideal for this, in particular the
-  [Punisher](Punisher.md "wikilink") (EMP), and the
-  [Sweeper](Sweeper.md "wikilink"). [Engineering](Engineering.md "wikilink")
-  ([BANK](BANK.md "wikilink")) will be useful to patch up splash damage
+  [Punisher](/Punisher "wikilink") (EMP), and the
+  [Sweeper](/Sweeper "wikilink"). [Engineering](/Engineering "wikilink")
+  ([BANK](/BANK "wikilink")) will be useful to patch up splash damage
   and rocket spam, as the Striker tends to attract a lot of this.
-  [Combat Engineering](Combat_Engineering.md "wikilink") compliments AV
+  [Combat Engineering](/Combat_Engineering "wikilink") compliments AV
   well, creating a well-rounded Anti Vehicle Specialist. [Special
-  Assault](Special_Assault.md "wikilink") provides access to the EMP
-  loaded [Thumper](Thumper.md "wikilink"), which can disrupt vehicle
+  Assault](/Special_Assault "wikilink") provides access to the EMP
+  loaded [Thumper](/Thumper "wikilink"), which can disrupt vehicle
   guns, prior to oppening fire with the Striker. At a pinch, handheld
-  [Jammer grenades](Jammer_grenade.md "wikilink") can help, but require
+  [Jammer grenades](/Jammer_grenade "wikilink") can help, but require
   far more practice to land well. [Enhanced
-  Targeting](Enhanced_Targeting.md "wikilink") is the single most useful
+  Targeting](/Enhanced_Targeting "wikilink") is the single most useful
   implant for a dedicated Striker user, allowing progress to be
   measured and weaker vehicles to be picked off. [Personal
-  Shield](Personal_Shield.md "wikilink") can provide a few extra crucial
-  seconds to get the last rockets in, and [Surge](Surge.md "wikilink")
+  Shield](/Personal_Shield "wikilink") can provide a few extra crucial
+  seconds to get the last rockets in, and [Surge](/Surge "wikilink")
   can help the AV trooper to get to cover if it goes wrong.
-  [Reinforced Exo-Suit](Reinforced_Exo.$1.md "wikilink") allows a much
+  [Reinforced Exo-Suit](/Reinforced_Exo-Suit "wikilink") allows a much
   needed back-up rifle slot, and greater survivability outdoors.
 
 <!-- -->
@@ -171,9 +171,9 @@ Some notes to help use it:
   caused to make it academic. Approach the combat area slowly and only
   charge once a Striker position has been confirmed. Air Cavalry
   should always try to have a full tank of
-  [Afterburner](Afterburner.md "wikilink") ready, as this will allow the
-  fragile [Mosquito](Mosquito.md "wikilink") and
-  [Reaver](Reaver.md "wikilink") to outrun Striker missiles to safety.
+  [Afterburner](/Afterburner "wikilink") ready, as this will allow the
+  fragile [Mosquito](/Mosquito "wikilink") and
+  [Reaver](/Reaver "wikilink") to outrun Striker missiles to safety.
   Less disciplined Striker users will tend to fire at anything and
   everything as soon as it comes into range, and this can pinpoint
   them quickly to the patient and observant. Striker rockets in flight
@@ -213,7 +213,7 @@ Some notes to help use it:
 
 - **Range**: As noted above; vehicles are safe beyond 250m. Many
   vehicle guns are capable of longer ranges, particularly arcing
-  projectiles, such as the [Vanguard](Vanguard.md "wikilink") main gun.
+  projectiles, such as the [Vanguard](/Vanguard "wikilink") main gun.
   Use these to retaliate in saftey.
 
 <!-- -->
@@ -247,4 +247,4 @@ Some notes to help use it:
   is less tell-tale engine or rocket launch sounds to give the game
   away.
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")

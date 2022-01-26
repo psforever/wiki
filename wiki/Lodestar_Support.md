@@ -219,11 +219,11 @@
 </table>
 
 This Merit is awarded for kills scored by friendly soldiers in a vehicle
-that was repaired by your [Lodestar](Lodestar.md "wikilink"). The tracker
+that was repaired by your [Lodestar](/Lodestar "wikilink"). The tracker
 starts after the first kill after the repair assist. The tracker stops 5
 to 10 minutes later, depending how much repair was needed. If the
 soldier dies, the tracker stops, unless he is revived. While you will
-also receive [assists](assist.md "wikilink") and [Support Experience
-Points](Support_Experience_Points.md "wikilink") for vehicles rearming from
+also receive [assists](/assist "wikilink") and [Support Experience
+Points](/Support_Experience_Points "wikilink") for vehicles rearming from
 your Lodestar, this merit only tracks repair assists.
-[category:merits](category:merits.md "wikilink")
+[category:merits](/category:merits "wikilink")

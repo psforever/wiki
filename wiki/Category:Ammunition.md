@@ -1,5 +1,5 @@
 This page lists all the different types of
-[ammunition](ammunition.md "wikilink") in
-[PlanetSide](PlanetSide.md "wikilink"), from both hand held
-[weaponry](weapon.md "wikilink") and [vehicle](vehicle.md "wikilink") mounted
+[ammunition](/ammunition "wikilink") in
+[PlanetSide](/PlanetSide "wikilink"), from both hand held
+[weaponry](/weapon "wikilink") and [vehicle](/vehicle "wikilink") mounted
 weaponry.
