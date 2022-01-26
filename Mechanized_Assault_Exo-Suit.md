@@ -12,29 +12,29 @@ effectiveness in the field.
 
 Each type of armor has its own
 [certification](certifications "wikilink"), although the
-[Uni-MAX](Uni-MAX_(Certification) "wikilink") certification gives access
+[Uni-MAX](<Uni-MAX_(Certification)> "wikilink") certification gives access
 to all three types of MAX armor at a reduced cost.
 
 ## [New Conglomerate](New_Conglomerate "wikilink")
 
-![](NCMAXArmors2.jpg "fig:NCMAXArmors2.jpg") MAX Armor at, from left to
+![](images/NCMAXArmors2.jpg "fig:NCMAXArmors2.jpg") MAX Armor at, from left to
 right, [Battle Rank](Battle_Rank "wikilink") 1, 7, 14 and 25\]\]
 Anti-Infantry: [Scattercannon](Scattercannon "wikilink")
 Anti-Vehicle: [Falcon](Falcon "wikilink")
 Anti-Aircraft: [Sparrow](Sparrow "wikilink")
-*New Conglomerate* MAX Units are equipped with a light energy shield.
+_New Conglomerate_ MAX Units are equipped with a light energy shield.
 The shield draws power from from an onboard MAX Capacitor. Once
 depleted, the capacitor will recharge. The MAX Unit cannot fire when the
 Shield is active.
 
 ## [Terran Republic](Terran_Republic "wikilink")
 
-![](TRMAXArmor2.jpg "fig:TRMAXArmor2.jpg") MAX Armor at, from left to
+![](images/TRMAXArmor2.jpg "fig:TRMAXArmor2.jpg") MAX Armor at, from left to
 right, [Battle Rank](Battle_Rank "wikilink") 1, 7, 14 and 25\]\]
 Anti-Infantry: [Dual-Cycler](Dual-Cycler "wikilink")
 Anti-Vehicle: [Pounder](Pounder "wikilink")
 Anti-Aircraft: [Burster](Burster "wikilink")
-*Terran Republic* MAX Units have 2 special abilities. The first is the
+_Terran Republic_ MAX Units have 2 special abilities. The first is the
 ability to "lock down", doubling their rate of fire and reducing the
 [Cone of fire](Cone_of_fire "wikilink") at the cost of no movement.
 Aiming is possible, but the range of pivot is extremely reduced. The
@@ -47,12 +47,12 @@ active will glow red.
 
 ## [Vanu Sovereignty](Vanu_Sovereignty "wikilink")
 
-![](VS_MAXs.jpg "fig:VS_MAXs.jpg") MAX Armor at, from left to right,
+![](images/VS_MAXs.jpg "fig:VS_MAXs.jpg") MAX Armor at, from left to right,
 [Battle Rank](Battle_Rank "wikilink") 1, 7, 14 and 25\]\] Anti-Infantry:
 [Quasar](Quasar "wikilink")
 Anti-Vehicle: [Comet](Comet "wikilink")
 Anti-Aircraft: [Starfire](Starfire "wikilink")
-*Vanu Sovereignty* MAX Units are equipped with limited jump-jets. These
+_Vanu Sovereignty_ MAX Units are equipped with limited jump-jets. These
 jump jets draw power from an onboard MAX Capacitor. Once depleted, the
 capacitor will recharge.
 

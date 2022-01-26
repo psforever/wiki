@@ -1,7 +1,7 @@
-![](Radiator.jpg "Radiator.jpg")
+![](images/Radiator.jpg "Radiator.jpg")
 
 |                            |                                                             |
-|----------------------------|-------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------- |
 | **Certification Required** | [Special Assault](Special_Assault "wikilink")               |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                       |
 | **Primary Mode**           | Grenade Lob                                                 |

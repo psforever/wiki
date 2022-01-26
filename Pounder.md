@@ -1,21 +1,21 @@
-![](PounderPicture.jpg "fig:PounderPicture.jpg") Anti-Vehicle
+![](images/PounderPicture.jpg "fig:PounderPicture.jpg") Anti-Vehicle
 [MAX](MAX "wikilink")\]\]
 
-|                            |                                                                                                                  |
-|----------------------------|------------------------------------------------------------------------------------------------------------------|
-| **Certification Required** | [Anti-Vehicle MAX](Anti-Vehicle_MAX_(Certification) "wikilink") or [Uni-MAX](Uni-MAX_(Certification) "wikilink") |
-| **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                                                    |
-| **Armor**                  | 650                                                                                                              |
-| **Primary Mode**           | Normal fire                                                                                                      |
-| **Secondary Mode**         | 3 second fuse                                                                                                    |
-| **Magazine Capacity**      | 30                                                                                                               |
-| **Ammunition**             | Mortar Grenades                                                                                                  |
-| **Special Ability**        | Anchors, Overdrive                                                                                               |
+|                            |                                                                                                                      |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Anti-Vehicle MAX](<Anti-Vehicle_MAX_(Certification)> "wikilink") or [Uni-MAX](<Uni-MAX_(Certification)> "wikilink") |
+| **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                                                        |
+| **Armor**                  | 650                                                                                                                  |
+| **Primary Mode**           | Normal fire                                                                                                          |
+| **Secondary Mode**         | 3 second fuse                                                                                                        |
+| **Magazine Capacity**      | 30                                                                                                                   |
+| **Ammunition**             | Mortar Grenades                                                                                                      |
+| **Special Ability**        | Anchors, Overdrive                                                                                                   |
 
 **Pounder**
 
 The **Pounder** is the [Anti-Vehicle
-MAX](Anti-Vehicle_MAX_(Certification) "wikilink") of the [Terran
+MAX](<Anti-Vehicle_MAX_(Certification)> "wikilink") of the [Terran
 Republic](Terran_Republic "wikilink"). It boasts two large mortar
 launchers on both its arms that can launch its ammunition over great
 ranges. This is an indirect fire weapon, requiring the operator to
@@ -30,7 +30,7 @@ enabling the pounder to move.
 Shots to kill:
 
 |                                                       |          |
-|-------------------------------------------------------|----------|
+| ----------------------------------------------------- | -------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 5 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 7 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 10 shots |

@@ -1,9 +1,9 @@
-![](AegisGenerator.jpg "fig:AegisGenerator.jpg")
-![](AegisAmmo.jpg "fig:AegisAmmo.jpg")
-![](AegisInfo.jpg "fig:AegisInfo.jpg")
+![](images/AegisGenerator.jpg "fig:AegisGenerator.jpg")
+![](images/AegisAmmo.jpg "fig:AegisAmmo.jpg")
+![](images/AegisInfo.jpg "fig:AegisInfo.jpg")
 
 |                            |                                                                                                                  |
-|----------------------------|------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                            |
 | **Primary Mode**           | Deploy Shield Generator                                                                                          |

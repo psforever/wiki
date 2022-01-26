@@ -1,10 +1,10 @@
-![](EsamirMap.jpg "fig:EsamirMap.jpg")
-![](Esamir_Terrain.jpg "fig:Esamir_Terrain.jpg")
+![](images/EsamirMap.jpg "fig:EsamirMap.jpg")
+![](images/Esamir_Terrain.jpg "fig:Esamir_Terrain.jpg")
 
 ## Continental Data
 
 |                                          |                                                                         |
-|------------------------------------------|-------------------------------------------------------------------------|
+| ---------------------------------------- | ----------------------------------------------------------------------- |
 | Category:                                | Outer World                                                             |
 | Climate:                                 | Arctic                                                                  |
 | Landmass:                                | Continent                                                               |
@@ -60,38 +60,38 @@ This continent is also refered to as
 
 ### Amp Stations
 
--   [Freyr](Freyr "wikilink") (Sub-Capitol)
--   [Kvasir](Kvasir "wikilink")
--   [Nott](Nott "wikilink")
+- [Freyr](Freyr "wikilink") (Sub-Capitol)
+- [Kvasir](Kvasir "wikilink")
+- [Nott](Nott "wikilink")
 
 ### Bio Laboratories
 
--   [Mani](Mani "wikilink") (Sub-Capitol)
--   [Ran](Ran "wikilink")
--   [Ymir](Ymir "wikilink") (Sub-Capitol)
+- [Mani](Mani "wikilink") (Sub-Capitol)
+- [Ran](Ran "wikilink")
+- [Ymir](Ymir "wikilink") (Sub-Capitol)
 
 ### Dropship Centers
 
--   [Andvari](Andvari "wikilink")
+- [Andvari](Andvari "wikilink")
 
 ### Interlink Facilities
 
--   [Jarl](Jarl "wikilink") (Sub-Capitol)
--   [Vidar](Vidar "wikilink")
+- [Jarl](Jarl "wikilink") (Sub-Capitol)
+- [Vidar](Vidar "wikilink")
 
 ### Technology Plants
 
--   [Dagur](Dagur "wikilink")
--   [Eisa](Eisa "wikilink") (Capitol)
--   [Gjallar](Gjallar "wikilink")
--   [Helheim](Helheim "wikilink")
+- [Dagur](Dagur "wikilink")
+- [Eisa](Eisa "wikilink") (Capitol)
+- [Gjallar](Gjallar "wikilink")
+- [Helheim](Helheim "wikilink")
 
 ## Features
 
 ### Land Bridges
 
-![](Esa_landbridge_map.jpg "fig:Esa_landbridge_map.jpg")
-![](Esa_landbridge_aerial.jpg "fig:Esa_landbridge_aerial.jpg")
+![](images/Esa_landbridge_map.jpg "fig:Esa_landbridge_map.jpg")
+![](images/Esa_landbridge_aerial.jpg "fig:Esa_landbridge_aerial.jpg")
 
 Esamir has two distinct land bridge areas; paths where vehicles can ford
 bodies of water with little risk of engine swamping.

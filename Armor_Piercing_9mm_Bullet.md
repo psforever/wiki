@@ -1,7 +1,7 @@
-![](ap9mmbullet.jpg "ap9mmbullet.jpg")
+![](images/ap9mmbullet.jpg "ap9mmbullet.jpg")
 
 |                          |                                                                                                                                                                                                                                                                                 |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**              | [Automatic Machine Pistol](Automatic_Machine_Pistol "wikilink") (AMP), [Repeater](Repeater "wikilink"), [Suppressor](Suppressor "wikilink"), [Cycler](Cycler "wikilink"), [Gauss](Gauss "wikilink"), [Punisher](Punisher "wikilink"), [Mini-Chaingun](Mini-Chaingun "wikilink") |
 | **Empire**               | [Common Pool](Common_Pool "wikilink")                                                                                                                                                                                                                                           |
 | **Inventory dimensions** | 3x3                                                                                                                                                                                                                                                                             |

@@ -1,7 +1,7 @@
-![](PSScreenShot0287.jpg "fig:PSScreenShot0287.jpg")
-![](UpgradingPhalanx.jpg "fig:UpgradingPhalanx.jpg")\]\]
-![](AAPhalanx.jpg "fig:AAPhalanx.jpg")
-![](AVPhalanx.jpg "fig:AVPhalanx.jpg") **Phalanx wall turrets** are the
+![](images/PSScreenShot0287.jpg "fig:PSScreenShot0287.jpg")
+![](images/UpgradingPhalanx.jpg "fig:UpgradingPhalanx.jpg")\]\]
+![](images/AAPhalanx.jpg "fig:AAPhalanx.jpg")
+![](images/AVPhalanx.jpg "fig:AVPhalanx.jpg") **Phalanx wall turrets** are the
 only fixed weapons and non-passive defensive installations of [surface
 bases](Facilities#Surface_Bases "wikilink") and gun and air
 [towers](towers "wikilink").
@@ -9,7 +9,7 @@ bases](Facilities#Surface_Bases "wikilink") and gun and air
 When unmanned, the **Phalanx** can track and fire upon larger
 [vehicles](Vehicle "wikilink") and aircraft, as well as
 [MAX](Mechanized_Armored_Exo-Suit "wikilink") units (only if they are in
-run mode). [ATVs](ATV_(Certification) "wikilink"),
+run mode). [ATVs](<ATV_(Certification)> "wikilink"),
 [Harassers](Harasser "wikilink"), and [Mosquitos](Mosquito "wikilink")
 are invisible to **Phalanx** turrets. An active unmanned **Phalanx**
 will return fire if fired upon and is less than 50% damaged. It is

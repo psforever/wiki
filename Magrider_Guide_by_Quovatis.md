@@ -20,7 +20,7 @@ it is the only tank that can travel over water. This is a big advantage.
 
 ## Driver Setup
 
-![](magdriverloadout.JPG "fig:magdriverloadout.JPG") driver loadout\]\]
+![](images/magdriverloadout.jpg "fig:magdriverloadout.JPG") driver loadout\]\]
 When you acquire your [Magrider](Magrider "wikilink") you should have a
 favorite with 4 boxes of PPA and 2 boxes of Rail Beam ammo. This should
 be your normal loadout, as the PPA goes through ammo quickly. However,
@@ -30,7 +30,7 @@ much. Your favorite should also have a spare glue gun, 5 boxes of glue,
 and perhaps a medpack. This allows you to carry less glue in your
 infantry loadout, saving space for other things...
 
-![](MagTrunk.JPG "fig:MagTrunk.JPG") [Favorite](Favorites "wikilink")
+![](images/MagTrunk.jpg "fig:MagTrunk.JPG") [Favorite](Favorites "wikilink")
 for the [Magrider](Magrider "wikilink")\]\] If you do a lot of tank
 driving, you should have a favorite with a box of PPA ammo, a glue gun,
 a pulsar, glue, a REK (sometimes you might need to take a tower), and
@@ -74,34 +74,34 @@ is out of range. Find a target. Stay at maximum range and stationary to
 engage if not under fire. If you are on water, you can move as much as
 you like, as long as you stay in range.
 
--   Roads: Avoid roads if at all possible. Always assume the roads are
-    filled with mines. If you must drive on the road, drive as far to
-    the side as possible.
+- Roads: Avoid roads if at all possible. Always assume the roads are
+  filled with mines. If you must drive on the road, drive as far to
+  the side as possible.
 
 <!-- -->
 
--   Water: Water is your friend. Drive on water whenever possible. If
-    you hug the shoreline, your speed will not decrease. The main
-    benefit of water is that it provides a stable surface for your
-    gunner. Driving in long circles out in the middle of the water
-    allows your gunner to hit almost anything with pinpoint accuracy,
-    while dodging almost all enemy fire. I've literally done this for 5
-    minutes with multiple enemies trying to kill us.
+- Water: Water is your friend. Drive on water whenever possible. If
+  you hug the shoreline, your speed will not decrease. The main
+  benefit of water is that it provides a stable surface for your
+  gunner. Driving in long circles out in the middle of the water
+  allows your gunner to hit almost anything with pinpoint accuracy,
+  while dodging almost all enemy fire. I've literally done this for 5
+  minutes with multiple enemies trying to kill us.
 
 <!-- -->
 
--   Hills: Avoid when you can, as it is very hard for the gunner to hit
-    anything. However, sometimes getting on top of a hill overlooking a
-    base can yield many kills. If you strafe while going up a hill, you
-    get more torque out of the tank, so keep that in mind.
+- Hills: Avoid when you can, as it is very hard for the gunner to hit
+  anything. However, sometimes getting on top of a hill overlooking a
+  base can yield many kills. If you strafe while going up a hill, you
+  get more torque out of the tank, so keep that in mind.
 
 <!-- -->
 
--   Trees: Trees are the friend of an experienced
-    [Magrider](Magrider "wikilink") driver, but can be deadly for the
-    inexperienced. Your tank is not as wide as the other tanks, and you
-    can slip through the trees and run away easily. Inexperienced
-    drivers will get stuck in the trees, leading to death many times.
+- Trees: Trees are the friend of an experienced
+  [Magrider](Magrider "wikilink") driver, but can be deadly for the
+  inexperienced. Your tank is not as wide as the other tanks, and you
+  can slip through the trees and run away easily. Inexperienced
+  drivers will get stuck in the trees, leading to death many times.
 
 You should be glancing at your mini-map (radar) every second or 2. You
 need to watch out for [Liberators](Liberator "wikilink") lining you up
@@ -148,154 +148,154 @@ straight into the battle, and never repair.
 
 ## Target-Specific Tactics
 
--   Aircraft: Reavers are the main threat here, but all aircraft are
-    treated the same. You have two choices: try to kill it, or drag him
-    by friendlies. If you chose to kill it, find water and drive in
-    circles. You gunner should hopefully be able to kill him easily. If
-    you can't find water, find a relatively flat spot of ground, and
-    strafe slowly in one direction. This lets your gunner have a stable
-    platform and you might dodge a few missiles. If there are no flat
-    spots around, if you are badly damaged, or if the aircraft is smart
-    and flies almost directly overhead, head for the trees and
-    friendlies.
+- Aircraft: Reavers are the main threat here, but all aircraft are
+  treated the same. You have two choices: try to kill it, or drag him
+  by friendlies. If you chose to kill it, find water and drive in
+  circles. You gunner should hopefully be able to kill him easily. If
+  you can't find water, find a relatively flat spot of ground, and
+  strafe slowly in one direction. This lets your gunner have a stable
+  platform and you might dodge a few missiles. If there are no flat
+  spots around, if you are badly damaged, or if the aircraft is smart
+  and flies almost directly overhead, head for the trees and
+  friendlies.
 
 <!-- -->
 
--   [Lightnings](Lightning "wikilink"): Not much of a threat. Usually
-    you can just snipe them at long range, or head straight in for the
-    kill. If there are lots of them, keep moving to avoid fire. Use the
-    PPA for even quicker kills.
--   [Fury](Fury "wikilink"): One of your biggest threats. Second only to
-    the reaver, you should kill these first. The rockets from the
-    [Fury](Fury "wikilink") do massive damage. Lure them to open ground
-    where you can kill them easily.
--   Flight Variant [BFRs](BFR "wikilink"): These BFRs have the same top
-    speed as a Mag while in run mode. Get out on water and run in
-    circles. Disengage if you get badly hurt. You can win 1 on 1 with a
-    flight variant if you drive well, but engage cautiously. If anything
-    else starts shooting at you, break away.
--   Sunderer Variants ([Vindicator](Vindicator "wikilink"),
-    [Juggernaut](Juggernaut "wikilink"), and
-    [Leviathan](Leviathan "wikilink")): Though all very similar in
-    firepower, the Vindicator has a slight edge because of the high
-    damage of the 20mm and the projectile veolocity, but you can treat
-    all variants the same. The biggest threat these vehicles pose is
-    their [EMP](EMP "wikilink") blast. Stay as far away as possible to
-    engage, so you stay out of the blast range. Zig-zag to avoid the
-    75mm fire, as this is the majority of their firepower. The profile
-    is so big that it's hard to miss them at any range, so don't be shy
-    about staying far away. If you come on one them by surprise another
-    tactic you can use is to stay as close as possible to them. You will
-    stay below their gun arc (unless they have a
-    [ballgunner](ballgun "wikilink"), but it doesn't do much damage) and
-    will be relatively safe. However, you are prone to EMP blasts and
-    the splash from your own railbeam weapon, so only use this tactic if
-    you are isolated from heavy fighting or know that they already used
-    their EMP.
--   [One-Manned Field Turrets](One-Manned_Field_Turret "wikilink"): All
-    OMFTs are similar and suffer from damage degredation. Get too close
-    and you will be shredded up. The range of the turrets is 250m, so
-    you have 50m more range to use to your advantage. Avoid close
-    encounters unless you are at full health, and finish them off if you
-    get the chance, as their shields recharge and you don't want to
-    waste your efforts.
+- [Lightnings](Lightning "wikilink"): Not much of a threat. Usually
+  you can just snipe them at long range, or head straight in for the
+  kill. If there are lots of them, keep moving to avoid fire. Use the
+  PPA for even quicker kills.
+- [Fury](Fury "wikilink"): One of your biggest threats. Second only to
+  the reaver, you should kill these first. The rockets from the
+  [Fury](Fury "wikilink") do massive damage. Lure them to open ground
+  where you can kill them easily.
+- Flight Variant [BFRs](BFR "wikilink"): These BFRs have the same top
+  speed as a Mag while in run mode. Get out on water and run in
+  circles. Disengage if you get badly hurt. You can win 1 on 1 with a
+  flight variant if you drive well, but engage cautiously. If anything
+  else starts shooting at you, break away.
+- Sunderer Variants ([Vindicator](Vindicator "wikilink"),
+  [Juggernaut](Juggernaut "wikilink"), and
+  [Leviathan](Leviathan "wikilink")): Though all very similar in
+  firepower, the Vindicator has a slight edge because of the high
+  damage of the 20mm and the projectile veolocity, but you can treat
+  all variants the same. The biggest threat these vehicles pose is
+  their [EMP](EMP "wikilink") blast. Stay as far away as possible to
+  engage, so you stay out of the blast range. Zig-zag to avoid the
+  75mm fire, as this is the majority of their firepower. The profile
+  is so big that it's hard to miss them at any range, so don't be shy
+  about staying far away. If you come on one them by surprise another
+  tactic you can use is to stay as close as possible to them. You will
+  stay below their gun arc (unless they have a
+  [ballgunner](ballgun "wikilink"), but it doesn't do much damage) and
+  will be relatively safe. However, you are prone to EMP blasts and
+  the splash from your own railbeam weapon, so only use this tactic if
+  you are isolated from heavy fighting or know that they already used
+  their EMP.
+- [One-Manned Field Turrets](One-Manned_Field_Turret "wikilink"): All
+  OMFTs are similar and suffer from damage degredation. Get too close
+  and you will be shredded up. The range of the turrets is 250m, so
+  you have 50m more range to use to your advantage. Avoid close
+  encounters unless you are at full health, and finish them off if you
+  get the chance, as their shields recharge and you don't want to
+  waste your efforts.
 
 <!-- -->
 
--   [New Conglomerate](New_Conglomerate "wikilink")
-    -   [Vanguard](Vanguard "wikilink"): Probably the easiest enemy tank
-        to kill. While they have the most armor, and heaviest hitting
-        gun, they lack mobility and rate of fire. However, if you engage
-        at close range, you will likely die. Engage at medium-long range
-        and move to avoid fire. If you must engage at close range, use
-        the PPA and weave through trees. If you can't get the first 3 or
-        4 rail beam shots on him before he notices you, you probably
-        need to disengage. If one is following you, head for water, or
-        trees. Vanguards have a really tough time in trees. When they
-        get stuck in the trees, circle back and finish them off.
-    -   [Thunderer](Thunderer "wikilink"): I fear this vehicle the most
-        of any enemy vehicle. It has direct fire weapons, meaning that
-        most of your normal tactics don't work. Running for water might
-        not be the best choice when facing thunderers because if they
-        follow you into the water, only half of their surface area is
-        hittable, while you are no different. Keep as far away from
-        thunderers as possible, where you still can dodge their slow
-        projectiles. If you find dueling one at close range, you MUST
-        engage with the PPA. It is the ONLY way you will win, as the
-        Thunderer with two gunners has a faster time to kill on a
-        Magrider, than the Rail Beam alone can match.
-    -   [Enforcer](Enforcer "wikilink"): Usually not much of a threat,
-        unless they are in packs. They are fast, however, which makes
-        killing them a little tricky.
-    -   [Phoenix](Phoenix "wikilink"): While the Phoenix has a slow rate
-        of fire, when it does hit, it hurts. Avoid hills where Phoenix
-        users can hide. If there is just one, close and kill. Watch your
-        minimap for the direction. The main limitation is its range.
-        When running from Phoenixes, run in a straight line away from
-        the user. Hopefully the fuse will burn out before it gets to
-        you. Sometimes weaving in trees can scrape off inexperienced
-        Phoenix users.
-    -   [Peregrine](Peregrine "wikilink"): If it has the particle cannon
-        as the gunner weapon (which almost all of them do), avoid at all
-        costs. The particle cannon can kill you very quickly and is very
-        accurate. Don't fire upon it to let them know you are there, and
-        only fire on it if it's hurting or others are helping you. The
-        shield regeneration rate of a crouched [BFR](BFR "wikilink") is
-        only slightly less than the damage the rail beam can deliver.
-        You will be shooting at it a very long time if you think you
-        will kill it alone.
+- [New Conglomerate](New_Conglomerate "wikilink")
+  - [Vanguard](Vanguard "wikilink"): Probably the easiest enemy tank
+    to kill. While they have the most armor, and heaviest hitting
+    gun, they lack mobility and rate of fire. However, if you engage
+    at close range, you will likely die. Engage at medium-long range
+    and move to avoid fire. If you must engage at close range, use
+    the PPA and weave through trees. If you can't get the first 3 or
+    4 rail beam shots on him before he notices you, you probably
+    need to disengage. If one is following you, head for water, or
+    trees. Vanguards have a really tough time in trees. When they
+    get stuck in the trees, circle back and finish them off.
+  - [Thunderer](Thunderer "wikilink"): I fear this vehicle the most
+    of any enemy vehicle. It has direct fire weapons, meaning that
+    most of your normal tactics don't work. Running for water might
+    not be the best choice when facing thunderers because if they
+    follow you into the water, only half of their surface area is
+    hittable, while you are no different. Keep as far away from
+    thunderers as possible, where you still can dodge their slow
+    projectiles. If you find dueling one at close range, you MUST
+    engage with the PPA. It is the ONLY way you will win, as the
+    Thunderer with two gunners has a faster time to kill on a
+    Magrider, than the Rail Beam alone can match.
+  - [Enforcer](Enforcer "wikilink"): Usually not much of a threat,
+    unless they are in packs. They are fast, however, which makes
+    killing them a little tricky.
+  - [Phoenix](Phoenix "wikilink"): While the Phoenix has a slow rate
+    of fire, when it does hit, it hurts. Avoid hills where Phoenix
+    users can hide. If there is just one, close and kill. Watch your
+    minimap for the direction. The main limitation is its range.
+    When running from Phoenixes, run in a straight line away from
+    the user. Hopefully the fuse will burn out before it gets to
+    you. Sometimes weaving in trees can scrape off inexperienced
+    Phoenix users.
+  - [Peregrine](Peregrine "wikilink"): If it has the particle cannon
+    as the gunner weapon (which almost all of them do), avoid at all
+    costs. The particle cannon can kill you very quickly and is very
+    accurate. Don't fire upon it to let them know you are there, and
+    only fire on it if it's hurting or others are helping you. The
+    shield regeneration rate of a crouched [BFR](BFR "wikilink") is
+    only slightly less than the damage the rail beam can deliver.
+    You will be shooting at it a very long time if you think you
+    will kill it alone.
 
 <!-- -->
 
--   [Terran Republic](Terran_Republic "wikilink")
-    -   [Prowler](Prowler "wikilink"): This is your biggest enemy tank
-        threat. At close range, the [Prowler](Prowler "wikilink") will
-        kill you in the blink of an eye, especially with 2 gunners. Use
-        the same tactics as the [Vanguard](Vanguard "wikilink") above.
-        Stay as far away as possible and lure them into trees or head
-        for water.
-    -   [Raider](Raider "wikilink"): While not as deadly as the
-        [Thunderer](Thunderer "wikilink"), at point blank range, you
-        will still have a hard time winning. Keep as far away as
-        possible, where the damage of the raider is less. Like the
-        tactics for the [Thunderer](Thunderer "wikilink"), water might
-        not always be the right choice.
-    -   [Marauder](Marauder "wikilink"): Very little threat unless you
-        are heavily damaged. Pursue and destroy, but watch for their
-        heavy hitting brothers. This vehicle can carry 3
-        striker-equipped troops. They pose a bigger threat when the bail
-        and [Striker](Striker "wikilink") you. Kill them before they can
-        bail.
-    -   [Striker](Striker "wikilink"): A lone striker is no threat, but
-        it seems like just about every TR player has one. If you get
-        locked on, head for obstacles to break the lock. Even if you do
-        break the lock, you need to change direction, since the rocket
-        can sill hit you if you don't.
-    -   [Colossus](Colossus "wikilink"): Not as bad as the
-        [Peregrine](Peregrine "wikilink"), but still just as hard to
-        kill. Treat like a [Prowler](Prowler "wikilink") to avoid fire.
+- [Terran Republic](Terran_Republic "wikilink")
+  - [Prowler](Prowler "wikilink"): This is your biggest enemy tank
+    threat. At close range, the [Prowler](Prowler "wikilink") will
+    kill you in the blink of an eye, especially with 2 gunners. Use
+    the same tactics as the [Vanguard](Vanguard "wikilink") above.
+    Stay as far away as possible and lure them into trees or head
+    for water.
+  - [Raider](Raider "wikilink"): While not as deadly as the
+    [Thunderer](Thunderer "wikilink"), at point blank range, you
+    will still have a hard time winning. Keep as far away as
+    possible, where the damage of the raider is less. Like the
+    tactics for the [Thunderer](Thunderer "wikilink"), water might
+    not always be the right choice.
+  - [Marauder](Marauder "wikilink"): Very little threat unless you
+    are heavily damaged. Pursue and destroy, but watch for their
+    heavy hitting brothers. This vehicle can carry 3
+    striker-equipped troops. They pose a bigger threat when the bail
+    and [Striker](Striker "wikilink") you. Kill them before they can
+    bail.
+  - [Striker](Striker "wikilink"): A lone striker is no threat, but
+    it seems like just about every TR player has one. If you get
+    locked on, head for obstacles to break the lock. Even if you do
+    break the lock, you need to change direction, since the rocket
+    can sill hit you if you don't.
+  - [Colossus](Colossus "wikilink"): Not as bad as the
+    [Peregrine](Peregrine "wikilink"), but still just as hard to
+    kill. Treat like a [Prowler](Prowler "wikilink") to avoid fire.
 
 <!-- -->
 
--   [Vanu Sovereignty](Vanu_Sovereignty "wikilink")
-    -   [Magrider](Magrider "wikilink"): Rarely encountered, but a big
-        threat. Head for trees, where you will likely make the less
-        experienced magrider driver get hung up.
-    -   [Aurora](Aurora "wikilink"): Laugh at them after you kill them.
-        Not a big threat.
-    -   [Thresher](Thresher "wikilink"): Keep moving to avoid fire.
-        Treat like an [Enforcer](Enforcer "wikilink").
-    -   [Lancer](Lancer "wikilink"): Not much you can do to avoid fire.
-        Find cover and try to get out of range, though the range is
-        huge. Trees might help.
-    -   [Aphelion](Aphelion "wikilink"): If you ever find one of these,
-        it's rare. They have decent anti-vehicular armorment, so it's
-        best to stay away. It's harder to dodge hits, since the fire is
-        direct fire.
+- [Vanu Sovereignty](Vanu_Sovereignty "wikilink")
+  - [Magrider](Magrider "wikilink"): Rarely encountered, but a big
+    threat. Head for trees, where you will likely make the less
+    experienced magrider driver get hung up.
+  - [Aurora](Aurora "wikilink"): Laugh at them after you kill them.
+    Not a big threat.
+  - [Thresher](Thresher "wikilink"): Keep moving to avoid fire.
+    Treat like an [Enforcer](Enforcer "wikilink").
+  - [Lancer](Lancer "wikilink"): Not much you can do to avoid fire.
+    Find cover and try to get out of range, though the range is
+    huge. Trees might help.
+  - [Aphelion](Aphelion "wikilink"): If you ever find one of these,
+    it's rare. They have decent anti-vehicular armorment, so it's
+    best to stay away. It's harder to dodge hits, since the fire is
+    direct fire.
 
 ## Gunner Guide
 
-![](MagGunnerLoadout.JPG "fig:MagGunnerLoadout.JPG") gunner loadout.
+![](images/MagGunnerLoadout.jpg "fig:MagGunnerLoadout.JPG") gunner loadout.
 Replace the [CUD](CUD "wikilink") with two more boxes of glue if not CR3
 or above. More glue should always be in the trunk.\]\] As stated before,
 ideally you need to be on voice comms with your driver. You don't have
@@ -328,33 +328,33 @@ You should always target the least armored and most heavily armed
 targets first. A rough order of threats that you should engage when on
 the defense:
 
--   [Reaver](Reaver "wikilink"): Probably your biggest threat, so they
-    should always be priority if you know they see you.
--   [Fury](Fury "wikilink"): Very damaging weapon, but relatively easy
-    to kill. Kill first.
--   AV [MAX](MAX "wikilink") units: [Falcon](Falcon "wikilink") is not
-    much a threat, but if a [Pounder](Pounder "wikilink") if firing at
-    you, it should be second only to the reaver, as they can kill you
-    very quickly.
--   Nearby Anti-Vehicular Troops: If you have a good line of sight on
-    them, target them before enemy tanks. But if they are hiding behind
-    trees or cover, ignore.
--   Tanks: Low on the list, but they have high firepower if they are
-    nearby.
--   [Thunderer](Thunderer "wikilink") and [Raider](Raider "wikilink"):
-    Low armor, but high damage output. As stated earlier, we want to
-    avoid contact at close range, but if you do, these should be second
-    only to the reaver.
--   Assault Buggies: Not much of a threat, so these should be a very low
-    priority when under fire.
--   Sunderer Variants: Moderate threat, but takes a long time to take
-    down. Engage if it's the only threat, but ignore if there are
-    deadlier enemies out there.
--   [Mosquito](Mosquito "wikilink") Usually not much of a threat, but
-    likely a quick take-down.
--   [BFRs](BFR "wikilink"): Lowest of all, since you almost ask for
-    death if you start shooting them. If they are hurt or others are
-    engaging with you, take them out.
+- [Reaver](Reaver "wikilink"): Probably your biggest threat, so they
+  should always be priority if you know they see you.
+- [Fury](Fury "wikilink"): Very damaging weapon, but relatively easy
+  to kill. Kill first.
+- AV [MAX](MAX "wikilink") units: [Falcon](Falcon "wikilink") is not
+  much a threat, but if a [Pounder](Pounder "wikilink") if firing at
+  you, it should be second only to the reaver, as they can kill you
+  very quickly.
+- Nearby Anti-Vehicular Troops: If you have a good line of sight on
+  them, target them before enemy tanks. But if they are hiding behind
+  trees or cover, ignore.
+- Tanks: Low on the list, but they have high firepower if they are
+  nearby.
+- [Thunderer](Thunderer "wikilink") and [Raider](Raider "wikilink"):
+  Low armor, but high damage output. As stated earlier, we want to
+  avoid contact at close range, but if you do, these should be second
+  only to the reaver.
+- Assault Buggies: Not much of a threat, so these should be a very low
+  priority when under fire.
+- Sunderer Variants: Moderate threat, but takes a long time to take
+  down. Engage if it's the only threat, but ignore if there are
+  deadlier enemies out there.
+- [Mosquito](Mosquito "wikilink") Usually not much of a threat, but
+  likely a quick take-down.
+- [BFRs](BFR "wikilink"): Lowest of all, since you almost ask for
+  death if you start shooting them. If they are hurt or others are
+  engaging with you, take them out.
 
 On the attack, you should be targeting [AMSes](AMS "wikilink"), tanks,
 and [MAX](MAX "wikilink") units in that order as priority, though it's

@@ -1,4 +1,4 @@
-![](BIMap.jpg "BIMap.jpg")
+![](images/BIMap.jpg "BIMap.jpg")
 
 ## Description
 
@@ -42,27 +42,27 @@ This collection of Battle Islands is sometimes refered to as
 
 ### [Amp Stations](Amp_Station "wikilink")
 
--   [Mithra](Mithra "wikilink"), [Extinction](Extinction "wikilink")
--   [Sraosha](Sraosha "wikilink"), [Ascension](Ascension "wikilink")
+- [Mithra](Mithra "wikilink"), [Extinction](Extinction "wikilink")
+- [Sraosha](Sraosha "wikilink"), [Ascension](Ascension "wikilink")
 
 ### [Bio Laboratories](Bio_Laboratory "wikilink")
 
--   [Rashnu](Rashnu "wikilink"), [Ascension](Ascension "wikilink")
--   [Yazata](Yazata "wikilink"), [Extinction](Extinction "wikilink")
+- [Rashnu](Rashnu "wikilink"), [Ascension](Ascension "wikilink")
+- [Yazata](Yazata "wikilink"), [Extinction](Extinction "wikilink")
 
 ### [Dropship Centers](Dropship_Center "wikilink")
 
--   [Atar](Atar "wikilink"), [Nexus](Nexus "wikilink")
+- [Atar](Atar "wikilink"), [Nexus](Nexus "wikilink")
 
 ### [Interlink Facilities](Interlink_Facility "wikilink")
 
--   [Hvar](Hvar "wikilink"), [Extinction](Extinction "wikilink")
--   [Zal](Zal "wikilink"), [Ascension](Ascension "wikilink")
+- [Hvar](Hvar "wikilink"), [Extinction](Extinction "wikilink")
+- [Zal](Zal "wikilink"), [Ascension](Ascension "wikilink")
 
 ### [Technology Plants](Technology_Plant "wikilink")
 
--   [Dahaka](Dahaka "wikilink"), [Desolation](Desolation "wikilink")
--   [Izha](Izha "wikilink"), [Desolation](Desolation "wikilink")
--   [Jamshid](Jamshid "wikilink"), [Desolation](Desolation "wikilink")
+- [Dahaka](Dahaka "wikilink"), [Desolation](Desolation "wikilink")
+- [Izha](Izha "wikilink"), [Desolation](Desolation "wikilink")
+- [Jamshid](Jamshid "wikilink"), [Desolation](Desolation "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

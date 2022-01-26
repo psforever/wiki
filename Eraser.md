@@ -1,8 +1,8 @@
-![](Eraser.jpg "fig:Eraser.jpg")
-![](Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
+![](images/Eraser.jpg "fig:Eraser.jpg")
+![](images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")     |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Primary Mode**           | Single Shot                                     |

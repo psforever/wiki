@@ -1,4 +1,4 @@
-![](Dagur_overhead.jpg "fig:Dagur_overhead.jpg") [Technology
+![](images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg") [Technology
 Plant](Technology_Plant "wikilink") on Northern
 [Esamir](Esamir "wikilink").
 

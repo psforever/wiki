@@ -1,5 +1,5 @@
-![Image:UpgradeCanister.png](UpgradeCanister.png "fig:Image:UpgradeCanister.png")
-![](UpgradeCanisterNano.jpg "fig:UpgradeCanisterNano.jpg") Commander
+![Image:UpgradeCanister.png](images/UpgradeCanister.png "fig:Image:UpgradeCanister.png")
+![](images/UpgradeCanisterNano.jpg "fig:UpgradeCanisterNano.jpg") Commander
 using a [Nano Dispenser](Nano_Dispenser "wikilink") with an Upgrade
 Canister\]\]
 

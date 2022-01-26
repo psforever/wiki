@@ -1,4 +1,4 @@
-![](Bio_Layout.jpg "fig:Bio_Layout.jpg") Bio Laboratory
+![](images/Bio_Layout.jpg "fig:Bio_Layout.jpg") Bio Laboratory
 [facilities](facilities "wikilink") are the weakest in terms of defense,
 as their [generators](generator "wikilink") are located on the rooftop
 of the facility. The Bio Laboratory grants a faster
@@ -21,7 +21,7 @@ of [Sanctuary](Sanctuary "wikilink") with
 ## Base Facility Specs
 
 |                                                                                                                |                                                 |
-|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | [Control Console](Control_Console "wikilink"):                                                                 | Level 1                                         |
 | [Generator](Generator "wikilink"):                                                                             | Roof                                            |
 | [Spawn room](Respawn_room "wikilink"):                                                                         | Level 1                                         |
@@ -37,67 +37,67 @@ of [Sanctuary](Sanctuary "wikilink") with
 
 ### [Amerish](Amerish "wikilink")
 
--   [Ikanam](Ikanam "wikilink")
--   [Kyoi](Kyoi "wikilink") (Sub-Capitol)
--   [Onatha](Onatha "wikilink")
--   [Xelas](Xelas "wikilink") (Sub-Capitol)
+- [Ikanam](Ikanam "wikilink")
+- [Kyoi](Kyoi "wikilink") (Sub-Capitol)
+- [Onatha](Onatha "wikilink")
+- [Xelas](Xelas "wikilink") (Sub-Capitol)
 
 ### [Ceryshen](Ceryshen "wikilink")
 
--   [Sedna](Sedna "wikilink") (Sub-Capitol)
--   [Tootega](Tootega "wikilink") (Sub-Capitol)
--   [Tarqaq](Tarqaq "wikilink")
+- [Sedna](Sedna "wikilink") (Sub-Capitol)
+- [Tootega](Tootega "wikilink") (Sub-Capitol)
+- [Tarqaq](Tarqaq "wikilink")
 
 ### [Cyssor](Cyssor "wikilink")
 
--   [Chuku](Chuku "wikilink")
--   [Honsi](Honsi "wikilink")
--   [Itan](Itan "wikilink")
--   [Mukuru](Mukuru "wikilink")
--   [Shango](Shango "wikilink")
+- [Chuku](Chuku "wikilink")
+- [Honsi](Honsi "wikilink")
+- [Itan](Itan "wikilink")
+- [Mukuru](Mukuru "wikilink")
+- [Shango](Shango "wikilink")
 
 ### [Esamir](Esamir "wikilink")
 
--   [Freyr](Freyr "wikilink") (Sub-Capitol)
--   [Mani](Mani "wikilink") (Sub-Capitol)
--   [Ran](Ran "wikilink")
--   [Ymir](Ymir "wikilink") (Sub-Capitol)
+- [Freyr](Freyr "wikilink") (Sub-Capitol)
+- [Mani](Mani "wikilink") (Sub-Capitol)
+- [Ran](Ran "wikilink")
+- [Ymir](Ymir "wikilink") (Sub-Capitol)
 
 ### [Forseral](Forseral "wikilink")
 
--   [Lugh](Lugh "wikilink")
--   [Neit](Neit "wikilink") (Capitol)
--   [Ogma](Ogma "wikilink") (Sub-Capitol)
+- [Lugh](Lugh "wikilink")
+- [Neit](Neit "wikilink") (Capitol)
+- [Ogma](Ogma "wikilink") (Sub-Capitol)
 
 ### [Hossin](Hossin "wikilink")
 
--   [Acan](Acan "wikilink") (Sub-Capitol)
--   [Bitol](Bitol "wikilink") (Sub-Capitol)
--   [Zotz](Zotz "wikilink")
+- [Acan](Acan "wikilink") (Sub-Capitol)
+- [Bitol](Bitol "wikilink") (Sub-Capitol)
+- [Zotz](Zotz "wikilink")
 
 ### [Ishundar](Ishundar "wikilink")
 
--   [Dagon](Dagon "wikilink")
--   [Hanish](Hanish "wikilink")
--   [Lahar](Lahar "wikilink")
--   [Zaqar](Zaqar "wikilink")
+- [Dagon](Dagon "wikilink")
+- [Hanish](Hanish "wikilink")
+- [Lahar](Lahar "wikilink")
+- [Zaqar](Zaqar "wikilink")
 
 ### [Oshur Battle Islands](Oshur "wikilink")
 
--   [Rashnu](Rashnu "wikilink")
--   [Yazata](Yazata "wikilink")
+- [Rashnu](Rashnu "wikilink")
+- [Yazata](Yazata "wikilink")
 
 ### [Searhus](Searhus "wikilink")
 
--   [Akua](Akua "wikilink")
--   [Drakulu](Drakulu "wikilink")
--   [Hiro](Hiro "wikilink")
--   [Iva](Iva "wikilink")
+- [Akua](Akua "wikilink")
+- [Drakulu](Drakulu "wikilink")
+- [Hiro](Hiro "wikilink")
+- [Iva](Iva "wikilink")
 
 ### [Solsar](Solsar "wikilink")
 
--   [Aton](Aton "wikilink")
--   [Horus](Horus "wikilink")
--   [Thoth](Thoth "wikilink") (Capitol)
+- [Aton](Aton "wikilink")
+- [Horus](Horus "wikilink")
+- [Thoth](Thoth "wikilink") (Capitol)
 
 [Category:Locations](Category:Locations "wikilink")

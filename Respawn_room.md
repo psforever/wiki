@@ -1,6 +1,6 @@
-![](SpawnRoom.jpg "fig:SpawnRoom.jpg")\]\]
-![](SpawnRoom2.jpg "fig:SpawnRoom2.jpg") from another view\]\]
-![](CaveSpawnRoom.jpg "fig:CaveSpawnRoom.jpg") in a
+![](images/SpawnRoom.jpg "fig:SpawnRoom.jpg")\]\]
+![](images/SpawnRoom2.jpg "fig:SpawnRoom2.jpg") from another view\]\]
+![](images/CaveSpawnRoom.jpg "fig:CaveSpawnRoom.jpg") in a
 [Cavern](Cavern "wikilink") [Redoubt
 Building](Redoubt_Building "wikilink")\]\] Room in
 [facilities](facilities "wikilink"), [towers](towers "wikilink"), or the

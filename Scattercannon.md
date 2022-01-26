@@ -1,22 +1,22 @@
-![](PSScreenShot0258.jpg "fig:PSScreenShot0258.jpg") ScatterCannon MAX
+![](images/PSScreenShot0258.jpg "fig:PSScreenShot0258.jpg") ScatterCannon MAX
 Unit\]\]
 
-|                            |                                                                                                                    |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Certification Required** | [Anti-Infantry MAX](Anti-Infantry_MAX_(Certification) "wikilink") or [Uni-MAX](Uni-MAX_(Certification) "wikilink") |
-| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                    |
-| **Armor**                  | 650                                                                                                                |
-| **Primary Mode**           | Wide Spread                                                                                                        |
-| **Secondary Mode**         | Medium Spread                                                                                                      |
-| **Tertiary Mode**          | Tight Spread                                                                                                       |
-| **Magazine Capacity**      | 40                                                                                                                 |
-| **Ammunition**             | Heavy Shotgun Shells                                                                                               |
-| **Special Ability**        | Shield                                                                                                             |
+|                            |                                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Anti-Infantry MAX](<Anti-Infantry_MAX_(Certification)> "wikilink") or [Uni-MAX](<Uni-MAX_(Certification)> "wikilink") |
+| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                        |
+| **Armor**                  | 650                                                                                                                    |
+| **Primary Mode**           | Wide Spread                                                                                                            |
+| **Secondary Mode**         | Medium Spread                                                                                                          |
+| **Tertiary Mode**          | Tight Spread                                                                                                           |
+| **Magazine Capacity**      | 40                                                                                                                     |
+| **Ammunition**             | Heavy Shotgun Shells                                                                                                   |
+| **Special Ability**        | Shield                                                                                                                 |
 
 **Scattercannon**
 
 The [New Conglomerate](New_Conglomerate "wikilink") [Anti-Infantry
-MAX](Anti-Infantry_MAX_(Certification) "wikilink")—the
+MAX](<Anti-Infantry_MAX_(Certification)> "wikilink")—the
 **Scattercannon**— is comparable to a heavy bore shotgun on steroids.
 Packing a whopping 40 shells per magazine, a larger shell and three fire
 modes, mowing down infantry has never been easier. The first fire mode
@@ -29,7 +29,7 @@ though it takes the most finesse to aim.
 Shots to kill (Average Spread in a Close to Medium Distance 5-15 m):
 
 |                                                       |             |
-|-------------------------------------------------------|-------------|
+| ----------------------------------------------------- | ----------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 3-4 shots   |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 4-5 shots   |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 6-7 shots   |

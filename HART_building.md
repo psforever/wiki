@@ -1,4 +1,4 @@
-![](HART.jpg "fig:HART.jpg") The platform-hangar and dock serves as a
+![](images/HART.jpg "fig:HART.jpg") The platform-hangar and dock serves as a
 waiting area between [HART](HART "wikilink") flights, and has [Implant
 Terminals](Implant_Terminal "wikilink"), [Medical
 Terminals](Medical_Terminal "wikilink"), [Certification

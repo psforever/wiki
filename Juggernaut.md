@@ -1,8 +1,8 @@
-![](JuggernautFront.jpg "fig:JuggernautFront.jpg") Juggernaut\]\]
-![](Juggernaut.jpg "fig:Juggernaut.jpg")
+![](images/JuggernautFront.jpg "fig:JuggernautFront.jpg") Juggernaut\]\]
+![](images/Juggernaut.jpg "fig:Juggernaut.jpg")
 
 |                            |                                                                                                                                                                             |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Transport                                                                                                                                                             |
 | **Role**                   | Heavy Troop Transport                                                                                                                                                       |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")                                                                                                                             |
@@ -17,7 +17,7 @@
 
 **Juggernaut**
 
-The *Juggernaut* is the Terran Republic's heavy troop transport vehicle.
+The _Juggernaut_ is the Terran Republic's heavy troop transport vehicle.
 It features 2 75mm and 2 15mm Chainguns on the top and 2
 [Ballguns](Ballgun "wikilink") on the side. The Juggernaut can pass
 through enemy [Shield Module](Shield_Module "wikilink") defenses.

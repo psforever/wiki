@@ -1,4 +1,4 @@
-![](Colussus.jpg "fig:Colussus.jpg") of the [Terran
+![](images/Colussus.jpg "fig:Colussus.jpg") of the [Terran
 Republic](Terran_Republic "wikilink")\]\]
 
 Gunner variants have, in addition the the pilot weapons, an extra gunner
@@ -13,12 +13,12 @@ The Flight Variant of the Colossus is the [Invader](Invader "wikilink").
 
 The pilot weapons available to the Colossus are
 
--   The [Tank Defense Cannon](Tank_Defense_Cannon "wikilink")
-    (Anti-Vehicular)
--   The [Rotary Chaingun](Rotary_Chaingun "wikilink") (Anti-Infantry)
--   The [Burster](Burster_(BFR) "wikilink") (Anti-Aircraft)
--   The [NTU Siphon](NTU_Siphon "wikilink")
--   The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
+- The [Tank Defense Cannon](Tank_Defense_Cannon "wikilink")
+  (Anti-Vehicular)
+- The [Rotary Chaingun](Rotary_Chaingun "wikilink") (Anti-Infantry)
+- The [Burster](<Burster_(BFR)> "wikilink") (Anti-Aircraft)
+- The [NTU Siphon](NTU_Siphon "wikilink")
+- The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
 
 The pilot has room for two such weapons at a time and can be two of the
 same weapon, or two different weapons.
@@ -27,13 +27,13 @@ same weapon, or two different weapons.
 
 The gunner weapons available to the Colossus are
 
--   The [Dual 100mm Cannons](Dual_100mm_Cannons "wikilink")
-    (Anti-Vehicular)
--   The [Mortar Launcher](Mortar_Launcher "wikilink") (Anti-Infantry)
+- The [Dual 100mm Cannons](Dual_100mm_Cannons "wikilink")
+  (Anti-Vehicular)
+- The [Mortar Launcher](Mortar_Launcher "wikilink") (Anti-Infantry)
 
 Only one gunner weapon can be used at a time.
 
-![](PSScreenShot0315.jpg "fig:PSScreenShot0315.jpg") Colossus (Classic
+![](images/PSScreenShot0315.jpg "fig:PSScreenShot0315.jpg") Colossus (Classic
 model)\]\]
 
 [Category:Game Items](Category:Game_Items "wikilink")

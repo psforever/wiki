@@ -1,7 +1,7 @@
-![](PSScreenShot0332.jpg "fig:PSScreenShot0332.jpg") Striker\]\]
+![](images/PSScreenShot0332.jpg "fig:PSScreenShot0332.jpg") Striker\]\]
 
 |                            |                                               |
-|----------------------------|-----------------------------------------------|
+| -------------------------- | --------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular "wikilink")   |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink") |
 | **Primary Mode**           | Homing Missile                                |
@@ -30,7 +30,7 @@ In secondary mode, the [Striker](Striker "wikilink") fires an unguided
 Shots to kill:
 
 |                                   |          |
-|-----------------------------------|----------|
+| --------------------------------- | -------- |
 | [MAX](MAX "wikilink")             | 6 shots  |
 | [Lightning](Lightning "wikilink") | 12 shots |
 | [Prowler](Prowler "wikilink")     | 36 shots |

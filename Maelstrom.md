@@ -1,8 +1,8 @@
-![](Maelstrom.jpg "fig:Maelstrom.jpg") soldier defends a [Control
+![](images/Maelstrom.jpg "fig:Maelstrom.jpg") soldier defends a [Control
 Console](Control_Console "wikilink") with his Maelstrom\]\]
 
 |                            |                                                                 |
-|----------------------------|-----------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](Heavy_Assault "wikilink")                       |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                           |
 | **Primary Mode**           | Vortex Whip                                                     |
@@ -60,7 +60,7 @@ equipment [Module benefit](Module_benefit "wikilink") via
 Shots to kill (Vortex Whip):
 
 |                                                       |           |
-|-------------------------------------------------------|-----------|
+| ----------------------------------------------------- | --------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 12 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 15 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 23 shots  |

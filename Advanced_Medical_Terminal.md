@@ -1,4 +1,4 @@
-![](Advanced_Med_Term.jpg "Advanced_Med_Term.jpg")
+![](images/Advanced_Med_Term.jpg "Advanced_Med_Term.jpg")
 
 The Advanced Medical Terminal fills both Health and Armor as normal
 [Medical Terminals](Medical_Terminal "wikilink") do, but does this at a

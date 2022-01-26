@@ -1,22 +1,22 @@
-![](SparrowPicture.jpg "fig:SparrowPicture.jpg")'s Anti-Aircraft
+![](images/SparrowPicture.jpg "fig:SparrowPicture.jpg")'s Anti-Aircraft
 [MAX](MAX "wikilink")\]\]
 
-|                            |                                                                                                                    |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Certification Required** | [Anti-Aircraft MAX](Anti-Aircraft_MAX_(Certification) "wikilink") or [Uni-MAX](Uni-MAX_(Certification) "wikilink") |
-| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                    |
-| **Armor**                  | 650                                                                                                                |
-| **Primary Mode**           | Normal fire                                                                                                        |
-| **Secondary Mode**         | \-                                                                                                                 |
-| **Magazine Capacity**      | 12                                                                                                                 |
-| **Ammunition**             | Missiles                                                                                                           |
-| **Range**                  | Lockon: 350m Dumbfire: 500m                                                                                        |
-| **Special Ability**        | Shield                                                                                                             |
+|                            |                                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)> "wikilink") or [Uni-MAX](<Uni-MAX_(Certification)> "wikilink") |
+| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                        |
+| **Armor**                  | 650                                                                                                                    |
+| **Primary Mode**           | Normal fire                                                                                                            |
+| **Secondary Mode**         | \-                                                                                                                     |
+| **Magazine Capacity**      | 12                                                                                                                     |
+| **Ammunition**             | Missiles                                                                                                               |
+| **Range**                  | Lockon: 350m Dumbfire: 500m                                                                                            |
+| **Special Ability**        | Shield                                                                                                                 |
 
 **Sparrow**
 
 The [New Conglomerate](New_Conglomerate "wikilink")'s [Anti-Aircraft
-MAX](Anti-Aircraft_MAX_(Certification) "wikilink") **Sparrow**
+MAX](<Anti-Aircraft_MAX_(Certification)> "wikilink") **Sparrow**
 configuration packs a powerful punch. After a relatively lengthy
 lock-on, its anti-air missiles feature a "fire-and-forget" tracking
 system, which will follow and attempt to strike the target aircraft for

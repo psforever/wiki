@@ -1,7 +1,7 @@
-![](Magcutter.jpg "Magcutter.jpg")
+![](images/Magcutter.jpg "Magcutter.jpg")
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink") |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink") |
 | **Primary Mode**           | Slash                                           |

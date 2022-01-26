@@ -1,4 +1,4 @@
-![](MagTrunk.JPG "fig:MagTrunk.JPG") trunk filled with ammunition and
+![](images/MagTrunk.jpg "fig:MagTrunk.JPG") trunk filled with ammunition and
 extra repair gear.\]\]
 
 Similar to a soldier's [Inventory](Inventory "wikilink"), trunks are the

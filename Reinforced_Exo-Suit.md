@@ -1,23 +1,23 @@
-![](NCRexoArmors.jpg "fig:NCRexoArmors.jpg") [Reinforced
+![](images/NCRexoArmors.jpg "fig:NCRexoArmors.jpg") [Reinforced
 Exo-Suits](Reinforced_Exo-Suit "wikilink") at, from left to right,
 [Battle Rank](Battle_Rank "wikilink") 1, 7, 14 and 25\]\]
 
-![](TRRexoArmors2.jpg "fig:TRRexoArmors2.jpg") [Reinforced
+![](images/TRRexoArmors2.jpg "fig:TRRexoArmors2.jpg") [Reinforced
 Exo-Suits](Reinforced_Exo-Suit "wikilink") at, from left to right,
 [Battle Rank](Battle_Rank "wikilink") 1, 7, 14 and 25\]\]
 
-![](VS_Rexos.jpg "fig:VS_Rexos.jpg") [Reinforced
+![](images/VS_Rexos.jpg "fig:VS_Rexos.jpg") [Reinforced
 Exo-Suits](Reinforced_Exo-Suit "wikilink") at, from left to right,
 [Battle Rank](Battle_Rank "wikilink") 1, 7, 14 and 25\]\]
 
-|                            |                                                                       |
-|----------------------------|-----------------------------------------------------------------------|
-| **Certification Required** | [Reinforced Exo-Suit](Reinforced_Exo-Suit_(Certification) "wikilink") |
-| **Empire**                 | [Common Pool](Common_Pool "wikilink")                                 |
-| **Armor**                  | 200                                                                   |
-| **Pistol Holsters**        | 2                                                                     |
-| **Rifle Holsters**         | 2                                                                     |
-| **Inventory Dimensions**   | 12 x 9                                                                |
+|                            |                                                                         |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Certification Required** | [Reinforced Exo-Suit](<Reinforced_Exo-Suit_(Certification)> "wikilink") |
+| **Empire**                 | [Common Pool](Common_Pool "wikilink")                                   |
+| **Armor**                  | 200                                                                     |
+| **Pistol Holsters**        | 2                                                                       |
+| **Rifle Holsters**         | 2                                                                       |
+| **Inventory Dimensions**   | 12 x 9                                                                  |
 
 **Reinforced Exo-Suit**
 

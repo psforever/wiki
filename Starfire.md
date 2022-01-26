@@ -1,16 +1,16 @@
-![`Starfire_MAX.jpg`](Starfire_MAX.jpg "Starfire_MAX.jpg")
+![`Starfire_MAX.jpg`](images/Starfire_MAX.jpg "Starfire_MAX.jpg")
 
-|                            |                                                                                                                    |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Certification Required** | [Anti-Aircraft MAX](Anti-Aircraft_MAX_(Certification) "wikilink") or [Uni-MAX](Uni-MAX_(Certification) "wikilink") |
-| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink")                                                                    |
-| **Armor**                  | 650                                                                                                                |
-| **Primary Mode**           | Normal fire                                                                                                        |
-| **Secondary Mode**         | \-                                                                                                                 |
-| **Magazine Capacity**      | 8                                                                                                                  |
-| **Ammunition**             | Plasma Spheres                                                                                                     |
-| **Range**                  | Lockon: 350 m Dumbfire: 500m                                                                                       |
-| **Special Ability**        | Jumpjets                                                                                                           |
+|                            |                                                                                                                        |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)> "wikilink") or [Uni-MAX](<Uni-MAX_(Certification)> "wikilink") |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink")                                                                        |
+| **Armor**                  | 650                                                                                                                    |
+| **Primary Mode**           | Normal fire                                                                                                            |
+| **Secondary Mode**         | \-                                                                                                                     |
+| **Magazine Capacity**      | 8                                                                                                                      |
+| **Ammunition**             | Plasma Spheres                                                                                                         |
+| **Range**                  | Lockon: 350 m Dumbfire: 500m                                                                                           |
+| **Special Ability**        | Jumpjets                                                                                                               |
 
 **Starfire**
 

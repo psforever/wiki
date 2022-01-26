@@ -1,8 +1,8 @@
-![](Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
-![](Dragon.jpg "fig:Dragon.jpg")
+![](images/Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
+![](images/Dragon.jpg "fig:Dragon.jpg")
 
 |                            |                                             |
-|----------------------------|---------------------------------------------|
+| -------------------------- | ------------------------------------------- |
 | **Certification Required** | [Elite Assault](Elite_Assault "wikilink")   |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")       |
 | **Primary Mode**           | Stream                                      |

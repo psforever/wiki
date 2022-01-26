@@ -1,8 +1,8 @@
-![](Avenger.jpg "fig:Avenger.jpg")
-![](AvengerInside.jpg "fig:AvengerInside.jpg")
+![](images/Avenger.jpg "fig:Avenger.jpg")
+![](images/AvengerInside.jpg "fig:AvengerInside.jpg")
 
 |                            |                                                                                                                  |
-|----------------------------|------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink") |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                                                    |
 | **Primary Mode**           | Upgraded Cycler                                                                                                  |

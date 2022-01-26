@@ -1,12 +1,12 @@
-![](PhantasmBottom.jpg "fig:PhantasmBottom.jpg")
-![](PhantasmSide.jpg "fig:PhantasmSide.jpg")
-![](Phantasm.jpg "fig:Phantasm.jpg"), signed by Fisa\]\]
+![](images/PhantasmBottom.jpg "fig:PhantasmBottom.jpg")
+![](images/PhantasmSide.jpg "fig:PhantasmSide.jpg")
+![](images/Phantasm.jpg "fig:Phantasm.jpg"), signed by Fisa\]\]
 
 |                            |                                                      |
-|----------------------------|------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------- |
 | **Type**                   | Cloaked Aircraft                                     |
 | **Role**                   | Stealth                                              |
-| **Certification Required** | [Phantasm](Phantasm_(Certification) "wikilink")      |
+| **Certification Required** | [Phantasm](<Phantasm_(Certification)> "wikilink")    |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                |
 | **Primary Weapon**         | \-                                                   |
 | **Secondary Weapon**       | \-                                                   |

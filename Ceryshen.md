@@ -1,10 +1,10 @@
-![](CeryshenMap.jpg "fig:CeryshenMap.jpg")
-![](Ceryshen_Terrain.jpg "fig:Ceryshen_Terrain.jpg")
+![](images/CeryshenMap.jpg "fig:CeryshenMap.jpg")
+![](images/Ceryshen_Terrain.jpg "fig:Ceryshen_Terrain.jpg")
 
 ## Continental Data
 
 |                   |                                                                           |
-|-------------------|---------------------------------------------------------------------------|
+| ----------------- | ------------------------------------------------------------------------- |
 | Category:         | Binary Temperate                                                          |
 | Climate:          | Arctic                                                                    |
 | Landmass:         | Continent                                                                 |
@@ -36,7 +36,7 @@ Continent](Home_Continent "wikilink") for the current empire
 This continent is also refered to as
 [Cery](Acronyms_and_Slang "wikilink").
 
-------------------------------------------------------------------------
+---
 
 --source: Planetside In-game descriptions, pre- and post-Bending.
 
@@ -44,26 +44,26 @@ This continent is also refered to as
 
 ### Amp Stations
 
--   [Akna](Akna "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
+- [Akna](Akna "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
 
 ### Bio Laboratories
 
--   [Sedna](Sedna "wikilink") (Sub-Capitol)
--   [Tootega](Tootega "wikilink") (Sub-Capitol)
--   [Tarqaq](Tarqaq "wikilink")
+- [Sedna](Sedna "wikilink") (Sub-Capitol)
+- [Tootega](Tootega "wikilink") (Sub-Capitol)
+- [Tarqaq](Tarqaq "wikilink")
 
 ### Dropship Centers
 
--   [Anguta](Anguta "wikilink") ([Capitol](Capitol "wikilink"))
+- [Anguta](Anguta "wikilink") ([Capitol](Capitol "wikilink"))
 
 ### Interlink Facilities
 
--   [Keelut](Keelut "wikilink")
+- [Keelut](Keelut "wikilink")
 
 ### Technology Plants
 
--   [Igaluk](Igaluk "wikilink")
--   [Nerrivik](Nerrivik "wikilink") (Sub-Capitol)
--   [Pinga](Pinga "wikilink")
+- [Igaluk](Igaluk "wikilink")
+- [Nerrivik](Nerrivik "wikilink") (Sub-Capitol)
+- [Pinga](Pinga "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

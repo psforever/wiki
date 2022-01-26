@@ -1,4 +1,4 @@
-![](PSScreenShot0322.jpg "fig:PSScreenShot0322.jpg") Invader\]\] The
+![](images/PSScreenShot0322.jpg "fig:PSScreenShot0322.jpg") Invader\]\] The
 **Invader** is the flight variant of [BattleFrame
 Robotics](BattleFrame_Robotics "wikilink") developed by the [Terran
 Republic](Terran_Republic "wikilink").
@@ -25,12 +25,12 @@ attack.
 
 The pilot weapons available to the Colossus are
 
--   The [Tank Defense Cannon](Tank_Defense_Cannon "wikilink")
-    (Anti-Vehicular)
--   The [Rotary Chaingun](Rotary_Chaingun "wikilink") (Anti-Infantry)
--   The [Burster](Burster_(BFR) "wikilink") (Anti-Aircraft)
--   The [NTU Siphon](NTU_Siphon "wikilink")
--   The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
+- The [Tank Defense Cannon](Tank_Defense_Cannon "wikilink")
+  (Anti-Vehicular)
+- The [Rotary Chaingun](Rotary_Chaingun "wikilink") (Anti-Infantry)
+- The [Burster](<Burster_(BFR)> "wikilink") (Anti-Aircraft)
+- The [NTU Siphon](NTU_Siphon "wikilink")
+- The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
 
 The pilot can equip two of these weapons, in any combination.
 Additionally, it is possible to manually deactivate one of the weapons,

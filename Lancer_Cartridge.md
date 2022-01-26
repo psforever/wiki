@@ -1,7 +1,7 @@
-![](Lancercartridge.jpg "Lancercartridge.jpg")
+![](images/Lancercartridge.jpg "Lancercartridge.jpg")
 
 |                          |                                                 |
-|--------------------------|-------------------------------------------------|
+| ------------------------ | ----------------------------------------------- |
 | **Used by**              | [Lancer](Lancer "wikilink")                     |
 | **Empire**               | [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Inventory dimensions** | 4x4                                             |

@@ -1,7 +1,7 @@
-![](Frag_Hand_grenade.jpg "fig:Frag_Hand_grenade.jpg")\]\]
+![](images/Frag_Hand_grenade.jpg "fig:Frag_Hand_grenade.jpg")\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")           |
 | **Primary Mode**           | Explode on Contact                              |

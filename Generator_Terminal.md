@@ -1,4 +1,4 @@
-![](GenTerm.jpg "fig:GenTerm.jpg") room\]\]
+![](images/GenTerm.jpg "fig:GenTerm.jpg") room\]\]
 
 The [Generator Terminal](Generator_Terminal "wikilink") is located at
 the entrance of the [Generator](Generator "wikilink") of each

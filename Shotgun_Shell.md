@@ -1,7 +1,7 @@
-![](Shotgunshell.jpg "Shotgunshell.jpg")
+![](images/Shotgunshell.jpg "Shotgunshell.jpg")
 
 |                          |                                                                                                           |
-|--------------------------|-----------------------------------------------------------------------------------------------------------|
+| ------------------------ | --------------------------------------------------------------------------------------------------------- |
 | **Used by**              | [Mag-Scatter](Mag-Scatter "wikilink"), [Sweeper](Sweeper "wikilink"), [Jackhammer](Jackhammer "wikilink") |
 | **Empire**               | [Common Pool](Common_Pool "wikilink")                                                                     |
 | **Inventory dimensions** | 3x3                                                                                                       |

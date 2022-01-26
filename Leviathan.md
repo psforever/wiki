@@ -1,7 +1,7 @@
-![](LeviathanFront.jpg "fig:LeviathanFront.jpg") Leviathan\]\]
+![](images/LeviathanFront.jpg "fig:LeviathanFront.jpg") Leviathan\]\]
 
 |                            |                                                                                                                                                           |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Transport                                                                                                                                           |
 | **Role**                   | Heavy Troop Transport                                                                                                                                     |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")                                                                                                           |
@@ -16,7 +16,7 @@
 
 **Leviathan**
 
-The *Leviathan* is the Vanu Sovereignty's heavy troop transport vehicle.
+The _Leviathan_ is the Vanu Sovereignty's heavy troop transport vehicle.
 It features 2 75mm and 2 [Flux Cannons](Flux_Cannon "wikilink") on the
 top and 2 [Ballguns](Ballgun "wikilink") on the side. The Leviathan can
 pass through enemy [Shield Module](Shield_Module "wikilink") defenses.

@@ -1,8 +1,8 @@
-![](PSScreenShot0290.jpg "fig:PSScreenShot0290.jpg") Soldier with a
+![](images/PSScreenShot0290.jpg "fig:PSScreenShot0290.jpg") Soldier with a
 Pulsar\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")     |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Primary Mode**           | Standard Bolt                                   |
@@ -33,7 +33,7 @@ from equipment terminals.
 Shots to kill:
 
 |                                                       |                                               |
-|-------------------------------------------------------|-----------------------------------------------|
+| ----------------------------------------------------- | --------------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 7 shots                                       |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 8 shots                                       |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 10 shots                                      |

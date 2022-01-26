@@ -1,4 +1,4 @@
-![](AncientEquipmentTerminal.jpg "fig:AncientEquipmentTerminal.jpg") in
+![](images/AncientEquipmentTerminal.jpg "fig:AncientEquipmentTerminal.jpg") in
 the [Caverns](Cavern "wikilink")\]\]
 
 Similar to a normal [Equipment terminal](Equipment_terminal "wikilink"),

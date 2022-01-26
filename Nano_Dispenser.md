@@ -1,7 +1,7 @@
-![](Nano_dispenser.jpg "fig:Nano_dispenser.jpg")\]\]
+![](images/Nano_dispenser.jpg "fig:Nano_dispenser.jpg")\]\]
 
 |                            |                                                                                                |
-|----------------------------|------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Engineering](Engineering "wikilink")                                                          |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                          |
 | **Primary Mode**           | Repair                                                                                         |
@@ -15,7 +15,7 @@
 **Nano Dispenser**
 
 The [Nano Dispenser](Nano_Dispenser "wikilink") (commonly referred to as
-the *glue gun* or *repair gun*) allows for field repair of all
+the _glue gun_ or _repair gun_) allows for field repair of all
 "destroyable" equipment, i.e., [vehicles](Vehicle "wikilink"), all
 [turrets](Turret "wikilink"), [equipment
 terminals](Equipment_Terminal "wikilink"), [medical

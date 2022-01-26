@@ -1,10 +1,10 @@
-![](SolsarMap.jpg "fig:SolsarMap.jpg")
-![](Solsar_Terrain.jpg "fig:Solsar_Terrain.jpg")
+![](images/SolsarMap.jpg "fig:SolsarMap.jpg")
+![](images/Solsar_Terrain.jpg "fig:Solsar_Terrain.jpg")
 
 ## Continental Data
 
 |                                          |                                                                             |
-|------------------------------------------|-----------------------------------------------------------------------------|
+| ---------------------------------------- | --------------------------------------------------------------------------- |
 | Category:                                | Inner Planet                                                                |
 | Climate:                                 | Desert                                                                      |
 | Landmass:                                | Continent                                                                   |
@@ -17,14 +17,14 @@
 
 ## Description
 
-![](Rockswarpgate.jpg "fig:Rockswarpgate.jpg")\]\] The large central
+![](images/Rockswarpgate.jpg "fig:Rockswarpgate.jpg")\]\] The large central
 oasis of Solsar is flanked by two warp gates on plateaus nearby, making
 it a unique tactical situation.
 
 There are relatively few roads and very rough off-road terrain here,
 making the bases more defensible to standard massed armor attacks.
 
-------------------------------------------------------------------------
+---
 
 Source: Planetside In-game descriptions, pre- and
 post-[Bending](Bending "wikilink").
@@ -40,26 +40,26 @@ sanctuary links.
 
 ### [Amp Stations](Amp_Station "wikilink")
 
--   [Mont](Mont "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
--   [Bastet](Bastet "wikilink")
+- [Mont](Mont "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
+- [Bastet](Bastet "wikilink")
 
 ### [Bio Laboratories](Bio_Laboratories "wikilink")
 
--   [Aton](Aton "wikilink")
--   [Horus](Horus "wikilink")
--   [Thoth](Thoth "wikilink") ([Capitol](Capitol "wikilink"))
+- [Aton](Aton "wikilink")
+- [Horus](Horus "wikilink")
+- [Thoth](Thoth "wikilink") ([Capitol](Capitol "wikilink"))
 
 ### [Dropship Centers](Dropship_Center "wikilink")
 
--   [Sobek](Sobek "wikilink") (Sub-Capitol)
+- [Sobek](Sobek "wikilink") (Sub-Capitol)
 
 ### [Interlink Facilities](Interlink_Facilities "wikilink")
 
--   [Hapi](Hapi "wikilink") (Sub-Capitol)
+- [Hapi](Hapi "wikilink") (Sub-Capitol)
 
 ### [Technology Plants](Technology_Plant "wikilink")
 
--   [Amun](Amun "wikilink") (Sub-Capitol)
--   [Seth](Seth "wikilink")
+- [Amun](Amun "wikilink") (Sub-Capitol)
+- [Seth](Seth "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

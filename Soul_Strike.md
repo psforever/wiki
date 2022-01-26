@@ -1,4 +1,4 @@
-![](Decoys_memorial1.jpg "fig:Decoys_memorial1.jpg") Soul_Strike is a
+![](images/Decoys_memorial1.jpg "fig:Decoys_memorial1.jpg") Soul_Strike is a
 mid-sized [outfit](outfit "wikilink") that fights for the [Vanu
 Sovereignty](Vanu_Sovereignty "wikilink") on the
 [Emerald](Emerald "wikilink") [Server](Server "wikilink"). They also

@@ -1,4 +1,4 @@
-![](Annwn.jpg "fig:Annwn.jpg") ![](AnnwnMap.jpg "fig:AnnwnMap.jpg")
+![](images/Annwn.jpg "fig:Annwn.jpg") ![](images/AnnwnMap.jpg "fig:AnnwnMap.jpg")
 
 Annwn is one of the six [Core Combat](Core_Combat "wikilink")
 [Caverns](Caverns "wikilink") and is characterized by teal soil, green

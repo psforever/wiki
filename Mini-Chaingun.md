@@ -1,7 +1,7 @@
-![](MCG.jpg "fig:MCG.jpg") Soldier equipped with a Mini-Chaingun\]\]
+![](images/MCG.jpg "fig:MCG.jpg") Soldier equipped with a Mini-Chaingun\]\]
 
 |                            |                                                                                             |
-|----------------------------|---------------------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](Heavy_Assault "wikilink")                                                   |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                               |
 | **Primary Mode**           | Rapid Fire                                                                                  |
@@ -32,7 +32,7 @@ Assault](Heavy_Assault "wikilink") weaponry outdoors.
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 8 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 9 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 13 shots                                 |

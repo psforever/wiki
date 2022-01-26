@@ -1,4 +1,4 @@
-![](Ventrilo.jpg "fig:Ventrilo.jpg") [Ventrilo](Ventrilo "wikilink") is
+![](images/Ventrilo.jpg "fig:Ventrilo.jpg") [Ventrilo](Ventrilo "wikilink") is
 a scalable Voice over IP communication program created by Flaship
 Industries, Inc. Users download the Ventrilo client and then connect to
 a Ventrilo server. Users usually communicate through use of a headset or
@@ -15,10 +15,10 @@ to mandate Ventrilo to be a member of the [outfit](outfit "wikilink").
 
 ## See Also
 
--   [Teamspeak](Teamspeak "wikilink")
+- [Teamspeak](Teamspeak "wikilink")
 
 ## External Links
 
--   [The Ventrilo Home Page](http://www.ventrilo.com/)
+- [The Ventrilo Home Page](http://www.ventrilo.com/)
 
 [category:Communication](category:Communication "wikilink")

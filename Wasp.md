@@ -1,7 +1,7 @@
-![](Wasp.jpg "fig:Wasp.jpg") [Wasp](Wasp "wikilink")\]\]
+![](images/Wasp.jpg "fig:Wasp.jpg") [Wasp](Wasp "wikilink")\]\]
 
 |                            |                                                                                                                              |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Anti-Aircraft Aircraft                                                                                                       |
 | **Role**                   | Anti-Aircraft                                                                                                                |
 | **Certification Required** | [Air Cavalry Interceptor](Air_Cavalry_Interceptor "wikilink")                                                                |

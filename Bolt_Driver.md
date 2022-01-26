@@ -1,8 +1,8 @@
-![](Bolt_driver.jpg "fig:Bolt_driver.jpg") [Rexo](Rexo "wikilink")
+![](images/Bolt_driver.jpg "fig:Bolt_driver.jpg") [Rexo](Rexo "wikilink")
 wields a Bolt Driver in [Byblos](Byblos "wikilink")\]\]
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | [Sniping](Sniping "wikilink")         |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") |
 | **Primary Mode**           | Single Shot                           |

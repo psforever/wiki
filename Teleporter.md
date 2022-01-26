@@ -1,12 +1,12 @@
-![](Teleporter.jpg "fig:Teleporter.jpg")
-![](TeleporterBoardingPoint.jpg "fig:TeleporterBoardingPoint.jpg") in
+![](images/Teleporter.jpg "fig:Teleporter.jpg")
+![](images/TeleporterBoardingPoint.jpg "fig:TeleporterBoardingPoint.jpg") in
 the [Caverns](Cavern "wikilink")\]\]
-![](TeleporterExit.jpg "fig:TeleporterExit.jpg") Soldier exiting an
+![](images/TeleporterExit.jpg "fig:TeleporterExit.jpg") Soldier exiting an
 Ancient Teleporter in the [Caverns](Cavern "wikilink")\]\]
 
 There are three types of Teleporter in Planetside.
 
--   Sanctuary Virtual Transit Link
+- Sanctuary Virtual Transit Link
 
 Each [Sanctuary](Sanctuary "wikilink") Island is divided into three
 [HART](HART "wikilink") complexes. These columns, located at each corner
@@ -18,7 +18,7 @@ These same teleporters are used in the [VR
 Training](VR_Training "wikilink") areas and allow access to the vehicle
 range, shooting range, and exit from virtual reality.
 
--   Ancient Technology Cave Teleporter Rings
+- Ancient Technology Cave Teleporter Rings
 
 The [Core Combat](Core_Combat "wikilink") [Caverns](Caverns "wikilink")
 are dotted with glowing ring-pairs at strategic places on the floor.
@@ -30,7 +30,7 @@ will be killed, and [BEP](BEP "wikilink") awarded to the enemy. This is
 a tactic sometimes used by enemy cloakers to kill you instantly (without
 firing).
 
--   Router Telepad
+- Router Telepad
 
 A deployed [Router](Router "wikilink") and correctly placed
 [Telepad](Telepad "wikilink") form an instantaneous link between them,

@@ -1,4 +1,4 @@
-![](PSScreenShot0282.jpg "fig:PSScreenShot0282.jpg") The Implant
+![](images/PSScreenShot0282.jpg "fig:PSScreenShot0282.jpg") The Implant
 Terminal inserts cybernetic devices called
 [Implants](Implants "wikilink") into various points, or slots, of a
 soldier's body.
@@ -19,7 +19,7 @@ weapons will have a very hard time damaging the terminal as the hitbox
 is so small.
 
 Note: To hack an Implant Terminal using the
-[Hacking](Hacking_(Certification) "wikilink")
+[Hacking](<Hacking_(Certification)> "wikilink")
 [Certification](Certification "wikilink"), stand at the front of the
 terminal and point your [REK](REK "wikilink") near the top of the device
 to start hacking.

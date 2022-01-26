@@ -1,8 +1,8 @@
-![](PSScreenShot0299.jpg "fig:PSScreenShot0299.jpg") Soldier carrying a
+![](images/PSScreenShot0299.jpg "fig:PSScreenShot0299.jpg") Soldier carrying a
 Suppressor\]\]
 
 |                            |                                                                                               |
-|----------------------------|-----------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink")                                               |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                         |
 | **Primary Mode**           | Single Shot                                                                                   |
@@ -28,7 +28,7 @@ can also go straight through a BFR's shield, damaging the BFR itself.
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 8 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 10 shots                                 |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 15 shots                                 |

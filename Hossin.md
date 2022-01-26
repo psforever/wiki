@@ -1,10 +1,10 @@
-![](HossinMap.jpg "fig:HossinMap.jpg")
-![](Hossin_Terrain.jpg "fig:Hossin_Terrain.jpg")
+![](images/HossinMap.jpg "fig:HossinMap.jpg")
+![](images/Hossin_Terrain.jpg "fig:Hossin_Terrain.jpg")
 
 ## Continental Data
 
 |                                          |                                                                                    |
-|------------------------------------------|------------------------------------------------------------------------------------|
+| ---------------------------------------- | ---------------------------------------------------------------------------------- |
 | Category:                                | Caustic Atmosphere                                                                 |
 | Climate:                                 | Humid, Temperate                                                                   |
 | Landmass:                                | Continent                                                                          |
@@ -53,28 +53,28 @@ post-[Bending](Bending "wikilink").
 
 ### [Amp Stations](Amp_Station "wikilink")
 
--   [Ixtab](Ixtab "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
+- [Ixtab](Ixtab "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
 
 ### [Bio Laboratories](Bio_Laboratories "wikilink")
 
--   [Acan](Acan "wikilink") (Sub-Capitol)
--   [Bitol](Bitol "wikilink") (Sub-Capitol)
--   [Zotz](Zotz "wikilink")
+- [Acan](Acan "wikilink") (Sub-Capitol)
+- [Bitol](Bitol "wikilink") (Sub-Capitol)
+- [Zotz](Zotz "wikilink")
 
 ### [Dropship Centers](Dropship_Centers "wikilink")
 
--   [Naum](Naum "wikilink") (Sub-Capitol)
+- [Naum](Naum "wikilink") (Sub-Capitol)
 
 ### [Interlink Facilities](Interlink_Facilities "wikilink")
 
--   [Hurakan](Hurakan "wikilink")
--   [Kisin](Kisin "wikilink")
--   [Voltan](Voltan "wikilink") ([Capitol](Capitol "wikilink"))
+- [Hurakan](Hurakan "wikilink")
+- [Kisin](Kisin "wikilink")
+- [Voltan](Voltan "wikilink") ([Capitol](Capitol "wikilink"))
 
 ### [Technology Plants](Technology_Plant "wikilink")
 
--   [Chac](Chac "wikilink")
--   [Ghanon](Ghanon "wikilink")
--   [Mulac](Mulac "wikilink")
+- [Chac](Chac "wikilink")
+- [Ghanon](Ghanon "wikilink")
+- [Mulac](Mulac "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

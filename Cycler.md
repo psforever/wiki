@@ -1,7 +1,7 @@
-![](Cycler.jpg "Cycler.jpg")
+![](images/Cycler.jpg "Cycler.jpg")
 
 |                            |                                                                                               |
-|----------------------------|-----------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")                                                   |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                                 |
 | **Primary Mode**           | Rapid Fire                                                                                    |
@@ -25,7 +25,7 @@ fired in long bursts; better accuracy comes with shorter bursts.
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 8 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 9 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 13 shots                                 |

@@ -1,9 +1,9 @@
-![](Interlink_Layout.jpg "Interlink_Layout.jpg")
+![](images/Interlink_Layout.jpg "Interlink_Layout.jpg")
 
 ## Base Facility Specs
 
 |                                                                |                                                     |
-|----------------------------------------------------------------|-----------------------------------------------------|
+| -------------------------------------------------------------- | --------------------------------------------------- |
 | [Control Console](Control_Console "wikilink"):                 | Basement                                            |
 | [Generator](Generator "wikilink"):                             | Basement                                            |
 | [Spawn room](Respawn_room "wikilink"):                         | Level 1                                             |
@@ -16,7 +16,7 @@
 
 ## Description
 
-![](Interlink.jpg "fig:Interlink.jpg") Interlink Facilities have the
+![](images/Interlink.jpg "fig:Interlink.jpg") Interlink Facilities have the
 unique benefit of Enhanced RADAR and can provide this ability to any
 [lattice-linked](Facility_Linked_Benefit "wikilink") facility.
 
@@ -35,52 +35,52 @@ regardless of whether they are moving or not.
 
 ### [Amerish](Amerish "wikilink")
 
--   [Cetan](Cetan "wikilink") (Sub-Capitol)
--   [Qumu](Qumu "wikilink") (Sub-Capitol)
+- [Cetan](Cetan "wikilink") (Sub-Capitol)
+- [Qumu](Qumu "wikilink") (Sub-Capitol)
 
 ### [Ceryshen](Ceryshen "wikilink")
 
--   [Keelut](Keelut "wikilink") (Sub-Capitol)
+- [Keelut](Keelut "wikilink") (Sub-Capitol)
 
 ### [Cyssor](Cyssor "wikilink")
 
--   [Bomazi](Bomazi "wikilink")
--   [Tore](Tore "wikilink")
+- [Bomazi](Bomazi "wikilink")
+- [Tore](Tore "wikilink")
 
 ### [Esamir](Esamir "wikilink")
 
--   [Jarl](Jarl "wikilink")
--   [Vidar](Vidar "wikilink")
+- [Jarl](Jarl "wikilink")
+- [Vidar](Vidar "wikilink")
 
 ### [Forseral](Forseral "wikilink")
 
--   [Caer](Caer "wikilink") (Sub-Capitol)
--   [Dagda](Dagda "wikilink")
+- [Caer](Caer "wikilink") (Sub-Capitol)
+- [Dagda](Dagda "wikilink")
 
 ### [Hossin](Hossin "wikilink")
 
--   [Hurakan](Hurakan "wikilink")
--   [Kisin](Kisin "wikilink")
--   [Voltan](Voltan "wikilink") (Capitol)
+- [Hurakan](Hurakan "wikilink")
+- [Kisin](Kisin "wikilink")
+- [Voltan](Voltan "wikilink") (Capitol)
 
 ### [Ishundar](Ishundar "wikilink")
 
--   [Irkalla](Irkalla "wikilink")
--   [Neti](Neti "wikilink")
+- [Irkalla](Irkalla "wikilink")
+- [Neti](Neti "wikilink")
 
 ### [Oshur Battle Islands](Oshur "wikilink")
 
--   [Hvar](Hvar "wikilink") (Extinction)
--   [Zal](Zal "wikilink") (Ascension)
+- [Hvar](Hvar "wikilink") (Extinction)
+- [Zal](Zal "wikilink") (Ascension)
 
 ### [Searhus](Searhus "wikilink")
 
--   [Laka](Laka "wikilink")
--   [Oro](Oro "wikilink")
--   [Wakea](Wakea "wikilink")
+- [Laka](Laka "wikilink")
+- [Oro](Oro "wikilink")
+- [Wakea](Wakea "wikilink")
 
 ### [Solsar](Solsar "wikilink")
 
--   [Hapi](Hapi "wikilink") (Sub-Capitol)
+- [Hapi](Hapi "wikilink") (Sub-Capitol)
 
 [Category:Locations](Category:Locations "wikilink")

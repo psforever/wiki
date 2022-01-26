@@ -5,10 +5,10 @@
 on this page no longer exists in game (as of Version
 [3.12.12](3.12.12 "wikilink"), April 20 2007)**
 
-![](Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
+![](images/Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
 
 |                            |                                                                                      |
-|----------------------------|--------------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------------ |
 | **Type**                   | Heavy Transport                                                                      |
 | **Role**                   | Heavy Troop Transport                                                                |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")                                      |

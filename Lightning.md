@@ -1,7 +1,7 @@
-![](Lightning.jpg "fig:Lightning.jpg") Lightning\]\]
+![](images/Lightning.jpg "fig:Lightning.jpg") Lightning\]\]
 
 |                            |                                                                                                                 |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Light Tank                                                                                                      |
 | **Role**                   | Attack/Escort                                                                                                   |
 | **Certification Required** | [Armored Assault I](Armored_Assault_I "wikilink")                                                               |
@@ -24,7 +24,7 @@ shooting or as light artillery. A Lightning can be transported by the
 Shots to kill (with 75mm Cannon only):
 
 |                                   |          |
-|-----------------------------------|----------|
+| --------------------------------- | -------- |
 | [Lightning](Lightning "wikilink") | 14 shots |
 | [Prowler](Prowler "wikilink")     | 36 shots |
 | [Magrider](Magrider "wikilink")   | 28 shots |

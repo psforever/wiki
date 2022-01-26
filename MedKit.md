@@ -1,7 +1,7 @@
-![](PSScreenShot0298.jpg "PSScreenShot0298.jpg")
+![](images/PSScreenShot0298.jpg "PSScreenShot0298.jpg")
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | None                                  |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") |
 | **Primary Mode**           | Restores 25 Health                    |

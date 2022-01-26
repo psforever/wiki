@@ -1,4 +1,4 @@
-![](Barracksdownstairs.jpg "fig:Barracksdownstairs.jpg") barracks\]\]
+![](images/Barracksdownstairs.jpg "fig:Barracksdownstairs.jpg") barracks\]\]
 This room is typically located one level beneath the
 [lounge](lounge "wikilink") in all [facilities](facilities "wikilink")
 (excluding [Bio Labs](Bio_Laboratory "wikilink"), which have a [Research

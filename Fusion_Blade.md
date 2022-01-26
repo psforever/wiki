@@ -1,9 +1,9 @@
-![](FusionBladeNC.jpg "fig:FusionBladeNC.jpg") Soldier with the Fusion
-Blade\]\] ![](FusionBladeVS.jpg "fig:FusionBladeVS.jpg") Soldier
+![](images/FusionBladeNC.jpg "fig:FusionBladeNC.jpg") Soldier with the Fusion
+Blade\]\] ![](images/FusionBladeVS.jpg "fig:FusionBladeVS.jpg") Soldier
 equipped with the Fusion Blade in Secondary Mode\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")           |
 | **Primary Mode**           | Slash                                           |

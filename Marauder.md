@@ -1,10 +1,10 @@
-![](Marauder.jpg "fig:Marauder.jpg")-colored Marauder\]\]
+![](images/Marauder.jpg "fig:Marauder.jpg")-colored Marauder\]\]
 
 |                            |                                                                                                                   |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Assault Buggy                                                                                               |
 | **Role**                   | Attack/Defense                                                                                                    |
-| **Certification Required** | [Assault Buggy](Assault_Buggy_(Certification) "wikilink") or [Light Scout](Light_Scout "wikilink")                |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)> "wikilink") or [Light Scout](Light_Scout "wikilink")              |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                                                     |
 | **Primary Weapon**         | [Ground Pounder](Ground_Pounder "wikilink") Grenade Launcher                                                      |
 | **Secondary Weapon**       | 12 mm rotary chaingun                                                                                             |

@@ -1,5 +1,5 @@
-![](Drugaskan.jpg "fig:Drugaskan.jpg")
-![](DrugaskanMap.jpg "fig:DrugaskanMap.jpg")
+![](images/Drugaskan.jpg "fig:Drugaskan.jpg")
+![](images/DrugaskanMap.jpg "fig:DrugaskanMap.jpg")
 
 Drugaskan is one of the six [Core Combat](Core_Combat "wikilink")
 [Caverns](Caverns "wikilink").
@@ -7,7 +7,7 @@ Drugaskan is one of the six [Core Combat](Core_Combat "wikilink")
 <div style="float: left; border:solid #CCCCFF 1px; margin: 1px;">
 
 |                                                                                                        |
-|--------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------ |
 | **This page has been classified as a [stub](stub "wikilink"). You can help the wiki by expanding it.** |
 
 </div>

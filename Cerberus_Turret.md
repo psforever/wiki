@@ -1,7 +1,7 @@
-![](CerberusTurret.jpg "CerberusTurret.jpg")
+![](images/CerberusTurret.jpg "CerberusTurret.jpg")
 
 |                            |                                                                                                                              |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Fortification Engineering](Fortification_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                        |
 | **Primary Mode**           | Cerberus Turret                                                                                                              |
@@ -36,7 +36,7 @@ These Turrets cannot be deployed inside an Enemy [SOI](SOI "wikilink").
 
 Kills made with these turrets count towards both the [Air
 Defender](Air_Defender "wikilink") and
-[Engineering](Engineering_(Merit) "wikilink")
+[Engineering](<Engineering_(Merit)> "wikilink")
 [Merits](Merit "wikilink").
 
 [Category:Weapons](Category:Weapons "wikilink")

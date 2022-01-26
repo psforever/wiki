@@ -1,6 +1,6 @@
-![](VSShieldModFacility.jpg "fig:VSShieldModFacility.jpg")
+![](images/VSShieldModFacility.jpg "fig:VSShieldModFacility.jpg")
 [Facility](Facility "wikilink") with a Shield Module Benefit\]\]
-![](Shield_module.jpg "fig:Shield_module.jpg") Installing this
+![](images/Shield_module.jpg "fig:Shield_module.jpg") Installing this
 [Module](modules "wikilink") provides the [Module
 Benefit](module_benefit "wikilink") of powering a Force Field across the
 Gate, or openings in the [Courtyard](Courtyard "wikilink") wall.

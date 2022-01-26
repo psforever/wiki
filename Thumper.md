@@ -1,7 +1,7 @@
-![](Thumper.jpg "Thumper.jpg")
+![](images/Thumper.jpg "Thumper.jpg")
 
 |                            |                                                                                                                                        |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Special Assault](Special_Assault "wikilink")                                                                                          |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                                  |
 | **Primary Mode**           | Explode on contact                                                                                                                     |
@@ -48,7 +48,7 @@ Rifle](Rocklet_Rifle "wikilink") and the
 
 Merit-qualified kills with the Thumper count towards both the
 [Grenadier](Grenadier "wikilink") and [Special
-Assault](Special_Assault_(Merit) "wikilink") [Merit
+Assault](<Special_Assault_(Merit)> "wikilink") [Merit
 Commendations](Merit_Commendations "wikilink").
 
 [category:Common Pool Weapons](category:Common_Pool_Weapons "wikilink")

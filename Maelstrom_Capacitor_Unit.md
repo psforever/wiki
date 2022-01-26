@@ -1,7 +1,7 @@
-![](Maelstrom_ammo.JPG "Maelstrom_ammo.JPG")
+![](images/Maelstrom_ammo.jpg "Maelstrom_ammo.JPG")
 
 |                          |                                                      |
-|--------------------------|------------------------------------------------------|
+| ------------------------ | ---------------------------------------------------- |
 | **Used by**              | [Maelstrom](Maelstrom "wikilink")                    |
 | **Empire**               | [Common Pool](Common_Pool "wikilink") (Ancient Tech) |
 | **Inventory dimensions** | 3x3                                                  |

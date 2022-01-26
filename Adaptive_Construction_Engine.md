@@ -1,10 +1,10 @@
-![](ACEPicture.jpg "fig:ACEPicture.jpg") Soldier holding an ACE\]\]
+![](images/ACEPicture.jpg "fig:ACEPicture.jpg") Soldier holding an ACE\]\]
 
 |                            |                                                                                                                                                           |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Combat Engineering](Combat_Engineering "wikilink")                                                                                                       |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                                                     |
-| **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](#Remote-Detonated_Charge_(Boomer) "wikilink")                                                                    |
+| **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](<#Remote-Detonated_Charge_(Boomer)> "wikilink")                                                                  |
 | **Secondary Mode**         | Deploy [High Explosive Mine](#High_Explosive_Mine "wikilink") or [Disruptor Mine](Disruptor_Mine "wikilink") (Selectable with the "Change Ammo" function) |
 | **Tertiary Mode**          | Deploy [Spitfire Turret](#Spitfire_Turret "wikilink"), [Cerberus Turret](Cerberus_Turret "wikilink") or [Shadow Turret](Shadow_Turret "wikilink")         |
 | **Quaternary Mode**        | Deploy [Motion Sensor](#Motion_Sensor_Alarm "wikilink") or [Sensor Disruptor](Sensor_Disruptor "wikilink")                                                |
@@ -15,7 +15,7 @@
 
 **Adaptive Construction Engine (ACE)**
 
-__NOTOC__
+**NOTOC**
 
 Key to setting up defenses and used for special operations, the
 **Adaptive Construction Engine** is a multi-purpose device used in the
@@ -58,7 +58,7 @@ Engineer at any one time.
 
 ## High Explosive Mine
 
-![](HE_Mine.jpg "fig:HE_Mine.jpg") The enemy of many a soldier, this
+![](images/HE_Mine.jpg "fig:HE_Mine.jpg") The enemy of many a soldier, this
 proximity mine fortunately can tell friend from foe, but that's about
 it. Lay and pray is the motto to follow after deploying this devestating
 weapon. Harmful to both infantry and [vehicle](vehicle "wikilink")
@@ -67,14 +67,14 @@ alike, the weapons litter the battlefields. While not as versatile as
 cannot be remotely detonated), they make up for it in sheer force.
 Susceptible to standard fire, Jammers and [EMP](EMP "wikilink") blasts,
 the weapons are easily enough destroyed. Like
-[Boomers](#Remote-Detonated_Charge_(Boomer) "wikilink"), friendly Mines
+[Boomers](<#Remote-Detonated_Charge_(Boomer)> "wikilink"), friendly Mines
 will display a green ring surrounding them and cannot be detonated by
 other friendly Jammers/[EMPs](EMP "wikilink"). Up to 20 Mines may be
 deployed by a single Combat Engineer at any one time.
 
 ## Spitfire Turret
 
-![](Spitfire.jpg "fig:Spitfire.jpg")\]\] The bane of many a soldier,
+![](images/Spitfire.jpg "fig:Spitfire.jpg")\]\] The bane of many a soldier,
 this deployable turret is a common sight on the battlefield. Set to
 automatically fire at any adversary (soldier or
 [vehicle](vehicle "wikilink")), the "Spit" is a dangerous battlefield

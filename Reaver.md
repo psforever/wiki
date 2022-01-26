@@ -1,7 +1,7 @@
-![](PSScreenShot0259.jpg "fig:PSScreenShot0259.jpg") Reaver\]\]
+![](images/PSScreenShot0259.jpg "fig:PSScreenShot0259.jpg") Reaver\]\]
 
 |                            |                                                                                                                         |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Light Gunship                                                                                                           |
 | **Role**                   | Attack                                                                                                                  |
 | **Certification Required** | [Air Cavalry Assault](Air_Cavalry_Assault "wikilink")                                                                   |

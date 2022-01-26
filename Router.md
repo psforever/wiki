@@ -1,7 +1,7 @@
-![](Router.jpg "fig:Router.jpg") Router\]\]
+![](images/Router.jpg "fig:Router.jpg") Router\]\]
 
 |                            |                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------- |
 | **Type**                   | Deployable Point-to-Point Teleporter                                            |
 | **Role**                   | Tactical                                                                        |
 | **Certification Required** | [Ground Support](Ground_Support "wikilink")                                     |

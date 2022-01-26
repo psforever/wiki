@@ -1,8 +1,8 @@
-![](PSScreenShot0246.jpg "fig:PSScreenShot0246.jpg") Soldier carrying a
+![](images/PSScreenShot0246.jpg "fig:PSScreenShot0246.jpg") Soldier carrying a
 Decimator\]\]
 
 |                            |                                             |
-|----------------------------|---------------------------------------------|
+| -------------------------- | ------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")       |
 | **Primary Mode**           | Dumb Fire                                   |
@@ -38,7 +38,7 @@ Assault](Special_Assault "wikilink") certification.
 Shots to kill:
 
 |                                   |          |
-|-----------------------------------|----------|
+| --------------------------------- | -------- |
 | [MAX](MAX "wikilink")             | 3 shots  |
 | [Lightning](Lightning "wikilink") | 4 shots  |
 | [Prowler](Prowler "wikilink")     | 11 shots |

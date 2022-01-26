@@ -1,7 +1,7 @@
-![](PSScreenShot0256.jpg "PSScreenShot0256.jpg")
+![](images/PSScreenShot0256.jpg "PSScreenShot0256.jpg")
 
 |                            |                                             |
-|----------------------------|---------------------------------------------|
+| -------------------------- | ------------------------------------------- |
 | **Certification Required** | [Engineering](Engineering "wikilink")       |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")       |
 | **Primary Mode**           | Repair Friendliess                          |
@@ -28,9 +28,9 @@ the self-repair of the user.
     of you. This will allow him to "protect" you from damage, meaning
     that you might both survive a sneak attack.
 
--   Additionally, crouching further reduces your chances of being hit,
-    especially when behind a
-    [MAX](Mechanized_Armored_Exo-Suit "wikilink").
+- Additionally, crouching further reduces your chances of being hit,
+  especially when behind a
+  [MAX](Mechanized_Armored_Exo-Suit "wikilink").
 
 1.  Whenever possible, repair any
     [MAX](Mechanized_Armored_Exo-Suit "wikilink") unit you see.

@@ -1,7 +1,7 @@
-![](Lasher.jpg "fig:Lasher.jpg") soldier firing a Lasher\]\]
+![](images/Lasher.jpg "fig:Lasher.jpg") soldier firing a Lasher\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Heavy Assault](Heavy_Assault "wikilink")       |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Primary Mode**           | Energy Orb                                      |
@@ -41,7 +41,7 @@ equipment terminals.
 Shots to kill (With direct orb contact within 20m.):
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 4 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 5 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 6 shots                                  |

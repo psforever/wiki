@@ -1,19 +1,19 @@
-![](VSThresher.jpg "fig:VSThresher.jpg") Thresher\]\]
-![](Thresher_profile.jpg "fig:Thresher_profile.jpg") like the
+![](images/VSThresher.jpg "fig:VSThresher.jpg") Thresher\]\]
+![](images/Thresher_profile.jpg "fig:Thresher_profile.jpg") like the
 [Magrider](Magrider "wikilink")\]\]
 
-|                            |                                                                                                    |
-|----------------------------|----------------------------------------------------------------------------------------------------|
-| **Type**                   | Heavy Assault Buggy                                                                                |
-| **Role**                   | Attack                                                                                             |
-| **Certification Required** | [Assault Buggy](Assault_Buggy_(Certification) "wikilink") or [Light Scout](Light_Scout "wikilink") |
-| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink")                                                    |
-| **Primary Weapon**         | [Flux Cannon](Flux_Cannon "wikilink")                                                              |
-| **Secondary Weapon**       | \-                                                                                                 |
-| **Ammunition Used**        | [Flux Battery](Flux_Battery "wikilink")                                                            |
-| **Occupants**              | 2 (Driver and Gunner)                                                                              |
-| **Handling**               | Good                                                                                               |
-| **Top speed**              | 85 kph (59 kph over water)                                                                         |
+|                            |                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                                                  |
+| **Role**                   | Attack                                                                                               |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)> "wikilink") or [Light Scout](Light_Scout "wikilink") |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink")                                                      |
+| **Primary Weapon**         | [Flux Cannon](Flux_Cannon "wikilink")                                                                |
+| **Secondary Weapon**       | \-                                                                                                   |
+| **Ammunition Used**        | [Flux Battery](Flux_Battery "wikilink")                                                              |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                |
+| **Handling**               | Good                                                                                                 |
+| **Top speed**              | 85 kph (59 kph over water)                                                                           |
 
 **Thresher**
 

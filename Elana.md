@@ -2,7 +2,7 @@
 
 ## [Spiker](Spiker "wikilink")
 
-![](Elana_potato.jpg "fig:Elana_potato.jpg") in the
+![](images/Elana_potato.jpg "fig:Elana_potato.jpg") in the
 [Generator](Generator "wikilink") room\]\]
 
 <h3>
@@ -42,7 +42,7 @@ before an enemy even knows you are there.
 
 ### Kill whoring
 
-![](Elana_sweeper.jpg "fig:Elana_sweeper.jpg") and a
+![](images/Elana_sweeper.jpg "fig:Elana_sweeper.jpg") and a
 [Thumper](Thumper "wikilink") in a [Bio
 Laboratory](Bio_Laboratory "wikilink")\]\]
 
@@ -106,15 +106,15 @@ period of time. Here's what it takes to kill a few common targets. Keep
 in mind that the splash damage on these bombs is fairly limited so you
 need to hit directly to achieve these results:
 
--   Infantry - 1 bomb
--   Max - 2 bombs
--   Lightning - 1+ bomb (1 bomb will take a full health lightning to
-    being disabled)
--   Turrets - 2 bombs
--   Skyguard - 2 bombs
--   Medium Tank (Vanguard, Prowler, Magrider) - 3 bombs
--   FV BFR - 4 bombs (if you can hit it that many times)
--   GV BFR - 5+ bombs
+- Infantry - 1 bomb
+- Max - 2 bombs
+- Lightning - 1+ bomb (1 bomb will take a full health lightning to
+  being disabled)
+- Turrets - 2 bombs
+- Skyguard - 2 bombs
+- Medium Tank (Vanguard, Prowler, Magrider) - 3 bombs
+- FV BFR - 4 bombs (if you can hit it that many times)
+- GV BFR - 5+ bombs
 
 Keep in mind that during a typical low altitude bombing run you'll only
 get 3-4 bombs on a target. So while you can easily kill a turret or a

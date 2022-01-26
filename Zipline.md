@@ -1,6 +1,6 @@
-![](AdlivunZiplines.jpg "fig:AdlivunZiplines.jpg")s in
+![](images/AdlivunZiplines.jpg "fig:AdlivunZiplines.jpg")s in
 [Adlivun](Adlivun "wikilink") [Cavern](Cavern "wikilink")\]\]
-![](TRonZipline.jpg "fig:TRonZipline.jpg") Commander traveling on a
+![](images/TRonZipline.jpg "fig:TRonZipline.jpg") Commander traveling on a
 [Zipline](Zipline "wikilink")\]\] [Ziplines](Zipline "wikilink") are
 objects located solely within the [caverns](Core_Combat "wikilink")
 which allow Infantry (and [MAX](MAX "wikilink") Units) to quickly move

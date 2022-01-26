@@ -1,7 +1,7 @@
-![](Repeater.jpg "Repeater.jpg")
+![](images/Repeater.jpg "Repeater.jpg")
 
 |                            |                                                                                               |
-|----------------------------|-----------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink")                                               |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")                                                 |
 | **Primary Mode**           | Single Shot                                                                                   |
@@ -32,7 +32,7 @@ slower firing rate.
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 7 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 8 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 10 shots                                 |

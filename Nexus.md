@@ -1,8 +1,8 @@
-![](NexusMap.jpg "fig:NexusMap.jpg")\]\]
-![](Nexus_Terrain.jpg "fig:Nexus_Terrain.jpg")
+![](images/NexusMap.jpg "fig:NexusMap.jpg")\]\]
+![](images/Nexus_Terrain.jpg "fig:Nexus_Terrain.jpg")
 
 |                                          |                                           |
-|------------------------------------------|-------------------------------------------|
+| ---------------------------------------- | ----------------------------------------- |
 | Category:                                | Island Cluster                            |
 | Climate (Nexus):                         | Arctic                                    |
 | Landmass:                                | [Battle Island](Battle_Island "wikilink") |

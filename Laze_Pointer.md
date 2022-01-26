@@ -1,8 +1,8 @@
-![](Laze_Pointer.jpg "fig:Laze_Pointer.jpg")
-![](Laze_powered.jpg "fig:Laze_powered.jpg")
+![](images/Laze_Pointer.jpg "fig:Laze_Pointer.jpg")
+![](images/Laze_powered.jpg "fig:Laze_powered.jpg")
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | None                                  |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") |
 | **Primary Mode**           | Paint Target                          |

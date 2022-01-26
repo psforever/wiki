@@ -1,4 +1,4 @@
-![](Speed_module.jpg "fig:Speed_module.jpg") Installing this
+![](images/Speed_module.jpg "fig:Speed_module.jpg") Installing this
 [module](modules "wikilink") provides the [module
 benefit](module_benefit "wikilink") of significantly reducing the
 respawn delay at the [facility](facility "wikilink"). Additionally, all

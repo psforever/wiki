@@ -1,8 +1,8 @@
-![](Spear.jpg "fig:Spear.jpg")
-![](Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
+![](images/Spear.jpg "fig:Spear.jpg")
+![](images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")     |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink") |
 | **Primary Mode**           | Single Shot                                     |

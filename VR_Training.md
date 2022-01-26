@@ -1,4 +1,4 @@
-![](VR_bldg.jpg "fig:VR_bldg.jpg") in
+![](images/VR_bldg.jpg "fig:VR_bldg.jpg") in
 [Sanctuary](Sanctuary "wikilink")\]\] The VR Training area can be found
 in [Sanctuary](Sanctuary "wikilink"), in the same building as the spawn
 tubes. The area is divided in to two sections; the Shooting Range and
@@ -41,7 +41,7 @@ the east of the start point. This island provides an excellent
 opportunity to gain a feel for the handling characteristics of any of
 the available vehicles, and their guns.
 
-![](VR_vehs_map.jpg "VR_vehs_map.jpg")
+![](images/VR_vehs_map.jpg "VR_vehs_map.jpg")
 
 As with the Shooting Range, certification restrictions are lifted for
 the duration of the soldier's session here, allowing any of their

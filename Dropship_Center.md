@@ -1,7 +1,7 @@
 ## Base Facility Specs
 
 |                                                                |                                                             |
-|----------------------------------------------------------------|-------------------------------------------------------------|
+| -------------------------------------------------------------- | ----------------------------------------------------------- |
 | [Control Console](Control_Console "wikilink"):                 | Basement                                                    |
 | [Generator](Generator "wikilink"):                             | Basement                                                    |
 | [Spawn room](Respawn_room "wikilink"):                         | Level 1                                                     |
@@ -14,7 +14,7 @@
 
 ## Description
 
-![](Dropship.jpg "Dropship.jpg")
+![](images/Dropship.jpg "Dropship.jpg")
 
 **Dropship Centers** are some of the rarest and most powerful
 [bases](facilities "wikilink") on a [planet](planet "wikilink"). There
@@ -39,42 +39,42 @@ building in the **Dropship Center's** courtyard.
 
 ### [Amerish](Amerish "wikilink")
 
--   [Azeban](Azeban "wikilink")
+- [Azeban](Azeban "wikilink")
 
 ### [Ceryshen](Ceryshen "wikilink")
 
--   [Anguta](Anguta "wikilink") (Capitol)
+- [Anguta](Anguta "wikilink") (Capitol)
 
 ### [Cyssor](Cyssor "wikilink")
 
--   [Gunuku](Gunuku "wikilink")
+- [Gunuku](Gunuku "wikilink")
 
 ### [Esamir](Esamir "wikilink")
 
--   [Andvari](Andvari "wikilink")
+- [Andvari](Andvari "wikilink")
 
 ### [Forseral](Forseral "wikilink")
 
--   [Bel](Bel "wikilink")
+- [Bel](Bel "wikilink")
 
 ### [Hossin](Hossin "wikilink")
 
--   [Naum](Naum "wikilink") (Sub-Capitol)
+- [Naum](Naum "wikilink") (Sub-Capitol)
 
 ### [Ishundar](Ishundar "wikilink")
 
--   [Akkan](Akkan "wikilink")
+- [Akkan](Akkan "wikilink")
 
 ### [Oshur Battle Islands](Oshur "wikilink")
 
--   [Atar](Atar "wikilink") (Nexus)
+- [Atar](Atar "wikilink") (Nexus)
 
 ### [Searhus](Searhus "wikilink")
 
--   [Sina](Sina "wikilink")
+- [Sina](Sina "wikilink")
 
 ### [Solsar](Solsar "wikilink")
 
--   [Sobek](Sobek "wikilink") (Sub-Capitol)
+- [Sobek](Sobek "wikilink") (Sub-Capitol)
 
 [Category:Locations](Category:Locations "wikilink")

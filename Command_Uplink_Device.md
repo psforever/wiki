@@ -1,7 +1,7 @@
-![](PSScreenShot0255.jpg "PSScreenShot0255.jpg")
+![](images/PSScreenShot0255.jpg "PSScreenShot0255.jpg")
 
 |                            |                                                                              |
-|----------------------------|------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------- |
 | **Certification Required** | None                                                                         |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                        |
 | **Primary Mode**           | Activate selected Command Resource                                           |

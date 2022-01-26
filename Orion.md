@@ -1,7 +1,7 @@
-![](Orion.jpg "Orion.jpg")
+![](images/Orion.jpg "Orion.jpg")
 
 |                            |                                                                                                                  |
-|----------------------------|------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink") |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink")                                                                  |
 | **Primary Mode**           | Quasar                                                                                                           |

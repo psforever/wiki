@@ -1,7 +1,7 @@
-![](AMS.jpg "AMS.jpg")
+![](images/AMS.jpg "AMS.jpg")
 
 |                            |                                             |
-|----------------------------|---------------------------------------------|
+| -------------------------- | ------------------------------------------- |
 | **Type**                   | Utility                                     |
 | **Role**                   | Mobile Spawn/Equipment Resource             |
 | **Certification Required** | [Ground Support](Ground_Support "wikilink") |

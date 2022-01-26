@@ -1,4 +1,4 @@
-![](Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
+![](images/Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
 [Speed](Speed_Module "wikilink"), and [Equipment
 Modules](Equipment_Module "wikilink") in their cradles in an
 [Interlink](Interlink "wikilink") [Facility](Facility "wikilink")\]\]
@@ -47,15 +47,15 @@ minutes, killing the carrier and anything nearby.
 
 ## Available Modules
 
-![](Shield_module.jpg "fig:Shield_module.jpg")\]\] Currently, six types
+![](images/Shield_module.jpg "fig:Shield_module.jpg")\]\] Currently, six types
 of modules are available to be installed (map icon color is listed):
 
--   [Equipment Module](Equipment_Module "wikilink") (blue)
--   [Health Module](Health_Module "wikilink") (yellow)
--   [Pain Module](Pain_Module "wikilink") (beige)
--   [Shield Module](Shield_Module "wikilink") (aqua)
--   [Speed Module](Speed_Module "wikilink") (orange)
--   [Vehicle Module](Vehicle_Module "wikilink") (purple)
+- [Equipment Module](Equipment_Module "wikilink") (blue)
+- [Health Module](Health_Module "wikilink") (yellow)
+- [Pain Module](Pain_Module "wikilink") (beige)
+- [Shield Module](Shield_Module "wikilink") (aqua)
+- [Speed Module](Speed_Module "wikilink") (orange)
+- [Vehicle Module](Vehicle_Module "wikilink") (purple)
 
 Empires may also try to achieve a [Cavern Lock](Cavern_Lock "wikilink")
 which will provide all six module benefits to any linked or chain linked

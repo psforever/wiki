@@ -1,4 +1,4 @@
-![](Lockers_biolab.jpg "fig:Lockers_biolab.jpg") Medical Bay\]\]
+![](images/Lockers_biolab.jpg "fig:Lockers_biolab.jpg") Medical Bay\]\]
 ![](Locker-Contents.jpg "fig:Locker-Contents.jpg")s\]\]
 
 Lockers are personal storage locations within every
@@ -31,7 +31,7 @@ down.
 #### Enemy and Neutral Facilities
 
 Lockers in Enemy or Neutral Facilities can be hacked if you have the
-basic [Hacking](Hacking_(Certification) "wikilink")
+basic [Hacking](<Hacking_(Certification)> "wikilink")
 [certification](certification "wikilink"). Note however that the
 Facility's generator must be online, if it is destroyed than you cannot
 use the Lockers.

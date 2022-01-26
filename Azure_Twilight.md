@@ -1,4 +1,4 @@
-![](AT_akkan_to_kusag.jpg "fig:AT_akkan_to_kusag.jpg") prepares to
+![](images/AT_akkan_to_kusag.jpg "fig:AT_akkan_to_kusag.jpg") prepares to
 traverse [Ishundar](Ishundar "wikilink")\]\] Azure Twilight is
 [Emerald](Emerald "wikilink")'s largest [VS](VS "wikilink")
 [outfits](outfit "wikilink"). They're known for their excellent use of

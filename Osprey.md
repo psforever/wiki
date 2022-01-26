@@ -1,9 +1,9 @@
-![](OspreyFront.jpg "fig:OspreyFront.jpg") Deployable Turret\]\]
-![](OspreyRear.jpg "fig:OspreyRear.jpg") Deployable Turret\]\]
-![](OspreySide.jpg "fig:OspreySide.jpg") Deployable Turret\]\]
+![](images/OspreyFront.jpg "fig:OspreyFront.jpg") Deployable Turret\]\]
+![](images/OspreyRear.jpg "fig:OspreyRear.jpg") Deployable Turret\]\]
+![](images/OspreySide.jpg "fig:OspreySide.jpg") Deployable Turret\]\]
 
 |                            |                                                       |
-|----------------------------|-------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink") |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")       |
 | **Primary Mode**           | Long-range ScatterCannon                              |

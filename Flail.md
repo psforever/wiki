@@ -1,11 +1,11 @@
-![](FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its Dispersion
+![](images/FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its Dispersion
 Cannon\]\]
 
 |                            |                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Artillery                                                                 |
 | **Role**                   | Attack/Defense                                                                  |
-| **Certification Required** | [Flail](Flail_(Certification) "wikilink")                                       |
+| **Certification Required** | [Flail](<Flail_(Certification)> "wikilink")                                     |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") ([Ancient Tech](Ancient_Tech "wikilink")) |
 | **Primary Weapon**         | Dispersion Cannon                                                               |
 | **Occupants**              | 1 (Driver)                                                                      |
@@ -35,7 +35,7 @@ above sea-level of the target, allowing the Flail user's first shot to
 hit. A third way of targeting is done by the squad leader assigning the
 squad experience waypoint (blue diamond) to a particular squad member
 (done in the "manage" tab). An aiming point will be produced for the
-flail and provides *perfect* targeting information like the [laze
+flail and provides _perfect_ targeting information like the [laze
 pointer](laze_pointer "wikilink"). Note however, that you will be
 targeting the feet of your own squad member!
 

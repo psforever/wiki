@@ -1,4 +1,4 @@
-![](PSScreenShot0310.jpg "fig:PSScreenShot0310.jpg")\]\] The
+![](images/PSScreenShot0310.jpg "fig:PSScreenShot0310.jpg")\]\] The
 Repair/Rearm Landing Pad, commonly just refered to as a **Landing Pad**,
 is a flat platform structure attached to the causewalks of every
 [facility](Facilities "wikilink"), and to the roof of [Air

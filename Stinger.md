@@ -1,8 +1,8 @@
-![](Stinger.jpg "fig:Stinger.jpg")
-![](Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
+![](images/Stinger.jpg "fig:Stinger.jpg")
+![](images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")     |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")   |
 | **Primary Mode**           | Single Shot                                     |

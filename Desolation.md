@@ -1,7 +1,7 @@
-![](DesolationMap.jpg "fig:DesolationMap.jpg")![](Desolation_Terrain.jpg "fig:Desolation_Terrain.jpg")
+![](images/DesolationMap.jpg "fig:DesolationMap.jpg")![](images/Desolation_Terrain.jpg "fig:Desolation_Terrain.jpg")
 
 |                                      |                                                     |
-|--------------------------------------|-----------------------------------------------------|
+| ------------------------------------ | --------------------------------------------------- |
 | Category:                            | Island Cluster                                      |
 | Climate:                             | Arid                                                |
 | Landmass:                            | [Battle Island](Battle_Island "wikilink")           |
@@ -38,8 +38,8 @@ not modified by anything but [Modules](Modules "wikilink").
 
 ### [Technology Plants](Technology_Plant "wikilink")
 
--   [Dahaka](Dahaka "wikilink")
--   [Izha](Izha "wikilink")
--   [Jamshid](Jamshid "wikilink")
+- [Dahaka](Dahaka "wikilink")
+- [Izha](Izha "wikilink")
+- [Jamshid](Jamshid "wikilink")
 
 [category:Locations](category:Locations "wikilink")

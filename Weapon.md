@@ -1,4 +1,4 @@
-![](Tr_weapons.jpg "fig:Tr_weapons.jpg")'s empire-specific handheld
+![](images/Tr_weapons.jpg "fig:Tr_weapons.jpg")'s empire-specific handheld
 weaponry.\]\] [Weapons](Weapon "wikilink") are the bread and butter of
 the game [PlanetSide](PlanetSide "wikilink"). They are practically
 essential to do anything in PlanetSide, as PlanetSide is a war simulator
@@ -31,12 +31,12 @@ terminal](certification_terminal "wikilink"). There are only six weapon
 certifications, and all characters have one of them. The six weapon
 cerifications are as follows:
 
--   [Standard Assault](Standard_Assault "wikilink")
--   [Medium Assault](Medium_Assault "wikilink")
-    -   [Heavy Assault](Heavy_Assault "wikilink")
-    -   [Special Assault](Special_Assault "wikilink")
-    -   [Sniping](Sniping "wikilink")
-    -   [Anti-Vehicular](Anti-Vehicular "wikilink")
+- [Standard Assault](Standard_Assault "wikilink")
+- [Medium Assault](Medium_Assault "wikilink")
+  - [Heavy Assault](Heavy_Assault "wikilink")
+  - [Special Assault](Special_Assault "wikilink")
+  - [Sniping](Sniping "wikilink")
+  - [Anti-Vehicular](Anti-Vehicular "wikilink")
 
 All characters are required to have Standard Assault, and Medium Assault
 is the prerequisite to the other four weapon certifications. Thus,
@@ -72,10 +72,10 @@ The pistol holsters on an armor are always going to be slot 1 and
 sometimes slot 3. These are smaller weapons, as the pistol holster is
 only 3x3. The weapons that use the pistol holster are:
 
--   All Empire-Specific pistols
--   [AMP](AMP "wikilink")
--   [Spiker](Spiker "wikilink")
--   Hand-Held Grenades
+- All Empire-Specific pistols
+- [AMP](AMP "wikilink")
+- [Spiker](Spiker "wikilink")
+- Hand-Held Grenades
 
 Even though Hand-Held Grenades are fired through the pistol holster,
 when stored in the inventory, a handheld grenade only takes up a 2x2
@@ -88,12 +88,12 @@ have any rifle slots. Rifle slots are slot 2 and 4, and are reserved for
 more powerful weapons. These are the weapons that a player will usually
 use when in combat. The weapons that use the rifle slot are:
 
--   All [Medium Assault](Medium_Assault "wikilink") weapons except for
-    the Spiker
--   [Heavy Assault](Heavy_Assault "wikilink") weapons
--   [Special Assault](Special_Assault "wikilink") weapons
--   [Sniping](Sniping "wikilink") weapons
--   [Anti-Vehicular](Anti-Vehicular "wikilink") weapons
+- All [Medium Assault](Medium_Assault "wikilink") weapons except for
+  the Spiker
+- [Heavy Assault](Heavy_Assault "wikilink") weapons
+- [Special Assault](Special_Assault "wikilink") weapons
+- [Sniping](Sniping "wikilink") weapons
+- [Anti-Vehicular](Anti-Vehicular "wikilink") weapons
 
 Although Medium Assault weapons and Special Assault weapons use rifles
 slots, they do not take up the full 9 x 3 space. This doesn't make a
@@ -189,9 +189,9 @@ detected by Darklight. The long range pistols are the
 which means the [New Conglomerate](New_Conglomerate "wikilink") has no
 available long range pistol without looting.
 
-***Note:** The [Spiker](Spiker "wikilink") is also a Long Range pistol
+**\*Note:** The [Spiker](Spiker "wikilink") is also a Long Range pistol
 but it is classified under [Medium Assault](Medium_Assault "wikilink")
-and will be talked about later.*
+and will be talked about later.\*
 
 #### Suppressor
 
@@ -491,7 +491,7 @@ The [Radiator](Radiator "wikilink") is an [Ancient
 Technology](Ancient_Technology "wikilink") grenade launcher which fires
 grenades that explode into a very large pain field. This field slowly
 damages enemies, completely ignoring their armor, and eats away at their
-health. This *includes* enemies inside of a vehicle, which allows a
+health. This _includes_ enemies inside of a vehicle, which allows a
 coordinated radiator team to kill all drivers and passengers inside of a
 vehicle without touching the vehicle at all, which makes it ripe for
 hacking. However, the radiator generally does damage too slowly for this
@@ -541,9 +541,9 @@ slower bullets more. You may have to compensate for this.
 
 ## See Also
 
--   [Weapons Index](Weapons_Index "wikilink")
--   [Weaponry Merit
-    Commendations](Weaponry_Merit_Commendations "wikilink")
+- [Weapons Index](Weapons_Index "wikilink")
+- [Weaponry Merit
+  Commendations](Weaponry_Merit_Commendations "wikilink")
 
 [Category:Terminology](Category:Terminology "wikilink")
 [Category:Weapons](Category:Weapons "wikilink") [Category:Game

@@ -1,7 +1,7 @@
-![](DisruptorMine.jpg "DisruptorMine.jpg")
+![](images/DisruptorMine.jpg "DisruptorMine.jpg")
 
 |                            |                                                                               |
-|----------------------------|-------------------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink")                         |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                         |
 | **Primary Mode**           | Disruptor Mine                                                                |

@@ -1,7 +1,7 @@
-![](Strikermissle.jpg "Strikermissle.jpg")
+![](images/Strikermissle.jpg "Strikermissle.jpg")
 
 |                          |                                               |
-|--------------------------|-----------------------------------------------|
+| ------------------------ | --------------------------------------------- |
 | **Used by**              | [Striker](Striker "wikilink")                 |
 | **Empire**               | [Terran Republic](Terran_Republic "wikilink") |
 | **Inventory dimensions** | 4x4                                           |

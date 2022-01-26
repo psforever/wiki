@@ -1,10 +1,10 @@
-![](Skyguard.jpg "Skyguard.jpg")
+![](images/Skyguard.jpg "Skyguard.jpg")
 
 |                            |                                                                                                                               |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Assault Buggy                                                                                                           |
 | **Role**                   | Anti-Aircraft                                                                                                                 |
-| **Certification Required** | [Assault Buggy](Assault_Buggy_(Certification) "wikilink") or [Light Scout](Light_Scout "wikilink")                            |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)> "wikilink") or [Light Scout](Light_Scout "wikilink")                          |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                         |
 | **Primary Weapon**         | [Flak](Flak "wikilink") Cannon                                                                                                |
 | **Secondary Weapon**       | 12mm machine gun                                                                                                              |

@@ -1,4 +1,4 @@
-![](LLU.jpg "fig:LLU.jpg")\]\] The **LLU** (Lattice Logic Unit) is a
+![](images/LLU.jpg "fig:LLU.jpg")\]\] The **LLU** (Lattice Logic Unit) is a
 small, spherical shaped object which spawns within special bases (called
 LLU [bases](facility "wikilink")) in a space called the [Lattice Logic
 Unit Socket](Lattice_Logic_Unit_Socket "wikilink") when that base is

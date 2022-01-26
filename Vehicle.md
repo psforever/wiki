@@ -1,4 +1,4 @@
-![](Vanguard_threefourths.jpg "fig:Vanguard_threefourths.jpg")
+![](images/Vanguard_threefourths.jpg "fig:Vanguard_threefourths.jpg")
 [Vanguard](Vanguard "wikilink") [Medium Battle
 Tank](Medium_Battle_Tank "wikilink").\]\] [Vehicles](Vehicle "wikilink")
 are an essential part to [PlanetSide](PlanetSide "wikilink") as they are
@@ -39,30 +39,30 @@ applying for certain vehicles.
 
 The list of vehicular certifications is as follows:
 
--   [ATV](ATV "wikilink")
-    -   [Switchblade](Switchblade_(Certification) "wikilink")
--   [Harasser](Harasser "wikilink")
--   [Light Scout](Light_Scout "wikilink")
--   [Assault Buggy](Assault_Buggy_(Certification) "wikilink")
--   [Armored Assault I](Armored_Assault_I "wikilink")
-    -   [Armored Assault II](Armored_Assault_II "wikilink")
-        -   [Flail](Flail "wikilink")
-        -   [BattleFrame Robotics](BattleFrame_Robotics "wikilink")
-            -   [BFR Anti-Infantry](BFR_Anti-Infantry "wikilink")
-            -   [BFR Anti-Aircraft](BFR_Anti-Aircraft "wikilink")
--   [Ground Transport](Ground_Transport "wikilink")
--   [Ground Support](Ground_Support "wikilink")
--   [Air Cavalry, Scout](Air_Cavalry_Scout "wikilink")
-    -   [Air Cavalry, Assault](Air_Cavalry_Assault "wikilink") ([Light
-        Scout](Light_Scout "wikilink") can be used in place of Air
-        Cavalry, Scout as a pre-requisite)
-    -   [Air Cavalry, Interceptor](Air_Cavalry_Interceptor "wikilink")
-        (Light Scout can be used in place of Air Cavalry, Scout as a
-        pre-requisite)
--   [Air Support](Air_Support "wikilink")
-    -   [Galaxy Gunship](Galaxy_Gunship_(Certification) "wikilink")
--   [Phantasm](Phantasm_(Certification) "wikilink") (requires
-    [Infiltration Suit](Infiltration_Suit_(Certification) "wikilink"))
+- [ATV](ATV "wikilink")
+  - [Switchblade](<Switchblade_(Certification)> "wikilink")
+- [Harasser](Harasser "wikilink")
+- [Light Scout](Light_Scout "wikilink")
+- [Assault Buggy](<Assault_Buggy_(Certification)> "wikilink")
+- [Armored Assault I](Armored_Assault_I "wikilink")
+  - [Armored Assault II](Armored_Assault_II "wikilink")
+    - [Flail](Flail "wikilink")
+    - [BattleFrame Robotics](BattleFrame_Robotics "wikilink")
+      - [BFR Anti-Infantry](BFR_Anti-Infantry "wikilink")
+      - [BFR Anti-Aircraft](BFR_Anti-Aircraft "wikilink")
+- [Ground Transport](Ground_Transport "wikilink")
+- [Ground Support](Ground_Support "wikilink")
+- [Air Cavalry, Scout](Air_Cavalry_Scout "wikilink")
+  - [Air Cavalry, Assault](Air_Cavalry_Assault "wikilink") ([Light
+    Scout](Light_Scout "wikilink") can be used in place of Air
+    Cavalry, Scout as a pre-requisite)
+  - [Air Cavalry, Interceptor](Air_Cavalry_Interceptor "wikilink")
+    (Light Scout can be used in place of Air Cavalry, Scout as a
+    pre-requisite)
+- [Air Support](Air_Support "wikilink")
+  - [Galaxy Gunship](<Galaxy_Gunship_(Certification)> "wikilink")
+- [Phantasm](<Phantasm_(Certification)> "wikilink") (requires
+  [Infiltration Suit](<Infiltration_Suit_(Certification)> "wikilink"))
 
 In addition, any player has access to the [Advanced Nanite
 Transport](Advanced_Nanite_Transport "wikilink").
@@ -76,11 +76,11 @@ before they can be purchased or driven.
 The vehicles and their requirements are listed below:
 
 [Vulture](Vulture "wikilink") : [Bomber Ace Bronze](Bomber_Ace "wikilink")
-Flight-Variant BFRs ([Invader](Invader "wikilink"), [Eclipse](Eclipse "wikilink"), or [Eagle](Eagle "wikilink")) : [BFR Basic](BFR_(Merit) "wikilink")
+Flight-Variant BFRs ([Invader](Invader "wikilink"), [Eclipse](Eclipse "wikilink"), or [Eagle](Eagle "wikilink")) : [BFR Basic](<BFR_(Merit)> "wikilink")
 
 ### Vehicle Terminal
 
-![](NCmag.jpg "fig:NCmag.jpg") is a vehicle which requires a [Technology
+![](images/NCmag.jpg "fig:NCmag.jpg") is a vehicle which requires a [Technology
 Plant](Technology_Plant "wikilink").\]\] Once a player has the correct
 certification, a player can purchase the vehicle from a friendly or
 hacked [Vehicle Terminal](Vehicle_Terminal "wikilink"). However, some
@@ -113,15 +113,15 @@ they are at through the lattice. An Empire's
 [Sanctuary](Sanctuary "wikilink") also counts as well. The vehicles that
 are restricted by this are:
 
--   [Reaver](Reaver "wikilink")
--   [Liberator](Liberator "wikilink")
--   [Vulture](Vulture "wikilink")
--   [Magrider](Magrider "wikilink")
--   [Vanguard](Vanguard "wikilink")
--   [Prowler](Prowler "wikilink")
--   [Skyguard](Skyguard "wikilink")
--   [Wasp](Wasp "wikilink")
--   [Phantasm](Phantasm "wikilink")
+- [Reaver](Reaver "wikilink")
+- [Liberator](Liberator "wikilink")
+- [Vulture](Vulture "wikilink")
+- [Magrider](Magrider "wikilink")
+- [Vanguard](Vanguard "wikilink")
+- [Prowler](Prowler "wikilink")
+- [Skyguard](Skyguard "wikilink")
+- [Wasp](Wasp "wikilink")
+- [Phantasm](Phantasm "wikilink")
 
 Similarily, [Ancient Tech](Ancient_Tech "wikilink") vehicles can only be
 purchased at a base with a [Vehicle Module](Vehicle_Module "wikilink")
@@ -130,8 +130,8 @@ Vehicle Module installed. Alternately, these vehicles can always be
 purchased in any of the six [Core Combat](Core_Combat "wikilink")
 [caverns](cavern "wikilink"). The vehicles under this restriction are:
 
--   [Switchblade](Switchblade "wikilink")
--   [Flail](Flail "wikilink")
+- [Switchblade](Switchblade "wikilink")
+- [Flail](Flail "wikilink")
 
 ### Armor Requirements
 
@@ -139,29 +139,29 @@ Certain vehicles require the driver to be wearing a certain type of
 armor. These are considered "closed cockpit vehicles" and only accept a
 user wearing one of the following armor types as the driver:
 
--   [Infiltration Suit](Infiltration_Suit "wikilink")
--   [Standard Exo-Suit](Standard_Exo-Suit "wikilink")
--   [Agile Exo-Suit](Agile_Exo-Suit "wikilink")
+- [Infiltration Suit](Infiltration_Suit "wikilink")
+- [Standard Exo-Suit](Standard_Exo-Suit "wikilink")
+- [Agile Exo-Suit](Agile_Exo-Suit "wikilink")
 
 Other vehicles have no such restriction, and allow the above armors as
 well as a user wearing a [Reinforced
 Exo-Suit](Reinforced_Exo-Suit "wikilink") to be the driver. These are
 considered "open cockpit vehicles". The "open cockpit vehicles" are:
 
--   [Marauder](Marauder "wikilink")
--   [Thresher](Thresher "wikilink")
--   [Enforcer](Enforcer "wikilink")
--   [Skyguard](Skyguard "wikilink")
--   [Harasser](Harasser "wikilink")
--   [Fury](Fury "wikilink")
--   [Basilisk](Basilisk "wikilink")
--   [Wraith](Wraith "wikilink")
--   [Switchblade](Switchblade "wikilink")
--   [Router](Router "wikilink")
--   [Flail](Flail "wikilink")
--   [Leviathan](Leviathan "wikilink")
--   [Vindicator](Vindicator "wikilink")
--   [Juggernaut](Juggernaut "wikilink")
+- [Marauder](Marauder "wikilink")
+- [Thresher](Thresher "wikilink")
+- [Enforcer](Enforcer "wikilink")
+- [Skyguard](Skyguard "wikilink")
+- [Harasser](Harasser "wikilink")
+- [Fury](Fury "wikilink")
+- [Basilisk](Basilisk "wikilink")
+- [Wraith](Wraith "wikilink")
+- [Switchblade](Switchblade "wikilink")
+- [Router](Router "wikilink")
+- [Flail](Flail "wikilink")
+- [Leviathan](Leviathan "wikilink")
+- [Vindicator](Vindicator "wikilink")
+- [Juggernaut](Juggernaut "wikilink")
 
 All other vehicles are considered to be closed cockpit vehicles.
 
@@ -182,7 +182,7 @@ not use any of these key mappings.
 These are the default Vehicle Controls.
 
 |                         |                      |                      |
-|-------------------------|----------------------|----------------------|
+| ----------------------- | -------------------- | -------------------- |
 | <b>Game Action</b>      | <b>Key Binding 1</b> | <b>Key Binding 2</b> |
 | Cruise 0% Power         | \`                   |                      |
 | Cruise 10%Power         | 1                    | NUM1                 |
@@ -210,7 +210,7 @@ control set along with Vehicle Controls.
 These are the default Ground Controls.
 
 |                    |                      |                      |
-|--------------------|----------------------|----------------------|
+| ------------------ | -------------------- | -------------------- |
 | <b>Game Action</b> | <b>Key Binding 1</b> | <b>Key Binding 2</b> |
 | Forward            | W                    |                      |
 | Backward           | S                    |                      |
@@ -228,7 +228,7 @@ control set along with Vehicle Controls.
 These are the default Air Controls.
 
 |                     |                      |                      |
-|---------------------|----------------------|----------------------|
+| ------------------- | -------------------- | -------------------- |
 | <b>Game Action</b>  | <b>Key Binding 1</b> | <b>Key Binding 2</b> |
 | Flight Elevate      | E                    |                      |
 | Flight Lower        | C                    |                      |
@@ -245,11 +245,11 @@ These controls are used only for BFR's. BFR's do not use the Vehicle
 Control set and instead rely only on this control set to control the
 BFR's.
 
-These are the default BFR Controls. ![](Eagle2.jpg "fig:Eagle2.jpg"), a
+These are the default BFR Controls. ![](images/Eagle2.jpg "fig:Eagle2.jpg"), a
 [BFR](BFR "wikilink") which uses the BFR Keymapping.\]\]
 
 |                         |                      |                      |
-|-------------------------|----------------------|----------------------|
+| ----------------------- | -------------------- | -------------------- |
 | <b>Game Action</b>      | <b>Key Binding 1</b> | <b>Key Binding 2</b> |
 | Forward                 | W                    |                      |
 | Backward                | S                    |                      |
@@ -327,12 +327,12 @@ best driver/gunner combinations use a Voice Over IP program such as
 By gunning for a vehicle, a player can get certain merits. These merits
 are as follows:
 
--   [Ground Gunner](Ground_Gunner "wikilink") (most ground vehicles)
--   [Bombardier](Bombardier_(Merit) "wikilink") (Liberator and Vulture)
--   [Air Defender](Air_Defender "wikilink") (Skyguard)
--   [Cavalry Pilot](Cavalry_Pilot "wikilink") (Galaxy Gunship)
+- [Ground Gunner](Ground_Gunner "wikilink") (most ground vehicles)
+- [Bombardier](<Bombardier_(Merit)> "wikilink") (Liberator and Vulture)
+- [Air Defender](Air_Defender "wikilink") (Skyguard)
+- [Cavalry Pilot](Cavalry_Pilot "wikilink") (Galaxy Gunship)
 
-![](Galaxy_Side.jpg "fig:Galaxy_Side.jpg") troop transport.\]\]
+![](images/Galaxy_Side.jpg "fig:Galaxy_Side.jpg") troop transport.\]\]
 
 ### Passenger Slots
 
@@ -365,30 +365,30 @@ smaller ground vehicles in the air. The [Galaxy](Galaxy "wikilink") has
 a much smaller vehicle bay and can therefore only transport certain
 vehicles. These vehicles are:
 
--   [Advanced Nanite Transport](Advanced_Nanite_Transport "wikilink")
--   [Basilisk](Basilisk "wikilink")
--   [Fury](Fury "wikilink")
--   [Wraith](Wraith "wikilink")
--   [Switchblade](Switchblade "wikilink")
--   [Harasser](Harasser "wikilink")
--   [Enforcer](Enforcer "wikilink")
--   [Marauder](Marauder "wikilink")
--   [Thresher](Thresher "wikilink")
--   [Skyguard](Skyguard "wikilink")
--   [Lightning](Lightning "wikilink")
+- [Advanced Nanite Transport](Advanced_Nanite_Transport "wikilink")
+- [Basilisk](Basilisk "wikilink")
+- [Fury](Fury "wikilink")
+- [Wraith](Wraith "wikilink")
+- [Switchblade](Switchblade "wikilink")
+- [Harasser](Harasser "wikilink")
+- [Enforcer](Enforcer "wikilink")
+- [Marauder](Marauder "wikilink")
+- [Thresher](Thresher "wikilink")
+- [Skyguard](Skyguard "wikilink")
+- [Lightning](Lightning "wikilink")
 
 A [Lodestar](Lodestar "wikilink") can carry any ground vehicle,
 including [BFRs](BFR "wikilink").
 
-*Note: For a [Router](Router "wikilink") to enter a
+_Note: For a [Router](Router "wikilink") to enter a
 [Lodestar](Lodestar "wikilink"), it must strafe into the Lodestar
-sideways.*
+sideways._
 
 ## See Also
 
--   [Vehicle Index](Vehicle_Index "wikilink")
--   [Vehicular Merit
-    Commendations](Vehicular_Merit_Commendations "wikilink")
+- [Vehicle Index](Vehicle_Index "wikilink")
+- [Vehicular Merit
+  Commendations](Vehicular_Merit_Commendations "wikilink")
 
 [category:Game Items](category:Game_Items "wikilink")
 [\*](category:Vehicles "wikilink")

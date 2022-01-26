@@ -1,7 +1,7 @@
-![](RaiderPicture.jpg "fig:RaiderPicture.jpg") Raider\]\]
+![](images/RaiderPicture.jpg "fig:RaiderPicture.jpg") Raider\]\]
 
 |                            |                                                           |
-|----------------------------|-----------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------- |
 | **Type**                   | Medium Transport                                          |
 | **Role**                   | Medium Troop Transport                                    |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")           |

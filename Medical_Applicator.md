@@ -1,7 +1,7 @@
-![](PSScreenShot0257.jpg "PSScreenShot0257.jpg")
+![](images/PSScreenShot0257.jpg "PSScreenShot0257.jpg")
 
 |                            |                                               |
-|----------------------------|-----------------------------------------------|
+| -------------------------- | --------------------------------------------- |
 | **Certification Required** | [Medical](Medical "wikilink")                 |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")         |
 | **Primary Mode**           | Heal Friendlies                               |

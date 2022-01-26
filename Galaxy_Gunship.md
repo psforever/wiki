@@ -1,11 +1,11 @@
-![](GalGunshipFront.jpg "fig:GalGunshipFront.jpg") Galaxy Gunship\]\]
-![](GalGunShipRear.jpg "fig:GalGunShipRear.jpg")
+![](images/GalGunshipFront.jpg "fig:GalGunshipFront.jpg") Galaxy Gunship\]\]
+![](images/GalGunShipRear.jpg "fig:GalGunShipRear.jpg")
 
 |                            |                                                                                                                |
-|----------------------------|----------------------------------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Gunship                                                                                                  |
 | **Role**                   | Attack                                                                                                         |
-| **Certification Required** | [Galaxy Gunship](Galaxy_Gunship_(Certification) "wikilink")                                                    |
+| **Certification Required** | [Galaxy Gunship](<Galaxy_Gunship_(Certification)> "wikilink")                                                  |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                          |
 | **Primary Weapon**         | Three 35mm Chainguns                                                                                           |
 | **Secondary Weapon**       | Two [Ground Pounder](Ground_Pounder "wikilink") Mortar Launchers                                               |

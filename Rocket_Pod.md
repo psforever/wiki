@@ -1,7 +1,7 @@
-![](rocketpod.jpg "rocketpod.jpg")
+![](images/rocketpod.jpg "rocketpod.jpg")
 
 |                          |                                                                            |
-|--------------------------|----------------------------------------------------------------------------|
+| ------------------------ | -------------------------------------------------------------------------- |
 | **Used by**              | [Punisher](Punisher "wikilink"), [Rocklet Rifle](Rocklet_Rifle "wikilink") |
 | **Empire**               | [Common Pool](Common_Pool "wikilink")                                      |
 | **Inventory dimensions** | 3x3                                                                        |
@@ -18,7 +18,7 @@ this point, the rocket will explode. Rocket Pods can be acquired at any
 [empire](empire "wikilink"). Rockets are effective against both infantry
 and armored targets.
 
-Because Rockets are considered anti-vehicular weapons, they *cannot*
+Because Rockets are considered anti-vehicular weapons, they _cannot_
 pass though the energy shields of [BattleFrame
 Robotics](BattleFrame_Robotics "wikilink").
 

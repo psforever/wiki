@@ -1,4 +1,4 @@
-![](Respawn.jpg "fig:Respawn.jpg") At each [Sanctuary
+![](images/Respawn.jpg "fig:Respawn.jpg") At each [Sanctuary
 Villa](Sanctuary_Villa "wikilink") are three [Respawn
 Buildings](Respawn_Building "wikilink") placed close to the [HART
 building](HART_building "wikilink"). These locations are where any

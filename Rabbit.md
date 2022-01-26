@@ -25,10 +25,10 @@ restrictions for the Rabbit ball carrier.
 
 The Rabbit ball carrier cannot enter the following areas:
 
--   The [SOI](SOI "wikilink") of a tower or facility belonging to
-    <i>any</i> empire, including neutral facilities.
--   Water
--   [Warpgates](Warpgate "wikilink")
+- The [SOI](SOI "wikilink") of a tower or facility belonging to
+  <i>any</i> empire, including neutral facilities.
+- Water
+- [Warpgates](Warpgate "wikilink")
 
 If the Rabbit ball carrier enters any of the above areas, the Rabbit
 ball resets to another spawn point on the
@@ -54,7 +54,7 @@ will also get health, armor, and stamina regeneration while carrying it.
 
 ## The Rabbit Status
 
-![](RabbitWindow.png "fig:RabbitWindow.png") window showing the score
+![](images/RabbitWindow.png "fig:RabbitWindow.png") window showing the score
 and other information.\]\] The Rabbit Status Window will appear on the
 screen for all players while they are on the zone that is hosting the
 Rabbit event. Score points for your [empire](empire "wikilink") by

@@ -1,11 +1,11 @@
-![](CyssorContinentalMap.jpg "CyssorContinentalMap.jpg")
+![](images/CyssorContinentalMap.jpg "CyssorContinentalMap.jpg")
 
 ## Continental Data
 
-![](Cyssor_Terrain.jpg "Cyssor_Terrain.jpg")
+![](images/Cyssor_Terrain.jpg "Cyssor_Terrain.jpg")
 
 |                                              |                                          |
-|----------------------------------------------|------------------------------------------|
+| -------------------------------------------- | ---------------------------------------- |
 | Category:                                    | Pre-Nova System                          |
 | Climate:                                     | Temperate, tropical                      |
 | Landmass:                                    | Continent                                |
@@ -40,7 +40,7 @@ Center](Dropship_Center "wikilink") in the middle of Cyssor.
 [Continent Locking](Continent_lock "wikilink") Cyssor grants a +10%
 armor bonus to all vehicles of given empire.
 
-------------------------------------------------------------------------
+---
 
 --source: Planetside In-game descriptions, pre- and post-Bending.
 
@@ -48,34 +48,34 @@ armor bonus to all vehicles of given empire.
 
 ### Amp Stations
 
--   [Aja](Aja "wikilink")
--   [Ekera](Ekera "wikilink")
--   [Kaang](Kaang "wikilink")
--   [Nzame](Nzame "wikilink")
--   [Pamba](Pamba "wikilink")
+- [Aja](Aja "wikilink")
+- [Ekera](Ekera "wikilink")
+- [Kaang](Kaang "wikilink")
+- [Nzame](Nzame "wikilink")
+- [Pamba](Pamba "wikilink")
 
 ### Bio Laboratories
 
--   [Honsi](Honsi "wikilink")
--   [Chuku](Chuku "wikilink")
--   [Itan](Itan "wikilink")
--   [Mukuru](Mukuru "wikilink")
--   [Shango](Shango "wikilink")
+- [Honsi](Honsi "wikilink")
+- [Chuku](Chuku "wikilink")
+- [Itan](Itan "wikilink")
+- [Mukuru](Mukuru "wikilink")
+- [Shango](Shango "wikilink")
 
 ### Dropship Center
 
--   [Gunuku](Gunuku "wikilink")
+- [Gunuku](Gunuku "wikilink")
 
 ### Interlink Facilities
 
--   [Tore](Tore "wikilink")
--   [Bomazi](Bomazi "wikilink")
+- [Tore](Tore "wikilink")
+- [Bomazi](Bomazi "wikilink")
 
 ### Technology Plant
 
--   [Faro](Faro "wikilink")
--   [Leza](Leza "wikilink")
--   [Orisha](Orisha "wikilink")
--   [Wele](Wele "wikilink")
+- [Faro](Faro "wikilink")
+- [Leza](Leza "wikilink")
+- [Orisha](Orisha "wikilink")
+- [Wele](Wele "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

@@ -1,7 +1,7 @@
-![](Ant.jpg "fig:Ant.jpg") ![](ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
+![](images/Ant.jpg "fig:Ant.jpg") ![](images/ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Type**                   | Utility                               |
 | **Role**                   | Resource Gathering                    |
 | **Certification Required** | None                                  |

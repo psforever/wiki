@@ -1,7 +1,7 @@
-![](ATammo.JPG "ATammo.JPG")
+![](images/ATammo.jpg "ATammo.JPG")
 
 |                          |                                                              |
-|--------------------------|--------------------------------------------------------------|
+| ------------------------ | ------------------------------------------------------------ |
 | **Used by**              | [Spiker](Spiker "wikilink"), [Radiator](Radiator "wikilink") |
 | **Empire**               | [Common Pool](Common_Pool "wikilink") (Ancient Tech)         |
 | **Inventory dimensions** | 3x3                                                          |

@@ -1,8 +1,8 @@
-![](Sweeper.jpg "fig:Sweeper.jpg") Soldier fields the Sweeper
+![](images/Sweeper.jpg "fig:Sweeper.jpg") Soldier fields the Sweeper
 Shotgun\]\]
 
 |                            |                                                                                                                      |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")                                                                          |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                |
 | **Primary Mode**           | Single Shot                                                                                                          |
@@ -33,7 +33,7 @@ Assault](Medium_Assault "wikilink") weaponry against
 Shots to kill (Close to Medium Range):
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 2 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 3 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 4 shots                                  |

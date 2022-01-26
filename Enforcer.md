@@ -1,22 +1,22 @@
-![](Enforcer.jpg "fig:Enforcer.jpg") Enforcer\]\]
+![](images/Enforcer.jpg "fig:Enforcer.jpg") Enforcer\]\]
 
-|                            |                                                                                                    |
-|----------------------------|----------------------------------------------------------------------------------------------------|
-| **Type**                   | Heavy Assault Buggy                                                                                |
-| **Role**                   | Attack/Defense                                                                                     |
-| **Certification Required** | [Assault Buggy](Assault_Buggy_(Certification) "wikilink") or [Light Scout](Light_Scout "wikilink") |
-| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                    |
-| **Primary Weapon**         | [Firebird](Firebird "wikilink") Rocket Launcher                                                    |
-| **Ammunition**             | [Firebird Rocket](Firebird_Rocket "wikilink")                                                      |
-| **Occupants**              | 2 (Driver and Gunner)                                                                              |
-| **Handling**               | Good                                                                                               |
-| **Top speed**              | 80 kph                                                                                             |
+|                            |                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                                                  |
+| **Role**                   | Attack/Defense                                                                                       |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)> "wikilink") or [Light Scout](Light_Scout "wikilink") |
+| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                      |
+| **Primary Weapon**         | [Firebird](Firebird "wikilink") Rocket Launcher                                                      |
+| **Ammunition**             | [Firebird Rocket](Firebird_Rocket "wikilink")                                                        |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                |
+| **Handling**               | Good                                                                                                 |
+| **Top speed**              | 80 kph                                                                                               |
 
 **Enforcer**
 
 The [New Conglomerate](New_Conglomerate "wikilink") **Enforcer** buggy
 is obtained with the 3 point [Assault
-Buggy](Assault_Buggy_(Certification) "wikilink")
+Buggy](<Assault_Buggy_(Certification)> "wikilink")
 [Certification](Certification "wikilink") or the 5 point [Light
 Scout](Light_Scout "wikilink") certification.
 

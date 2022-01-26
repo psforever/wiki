@@ -1,4 +1,4 @@
-![](PSScreenShot0281.jpg "PSScreenShot0281.jpg")
+![](images/PSScreenShot0281.jpg "PSScreenShot0281.jpg")
 
 Medical Terminals can be found in all
 [Facilities](Facilities "wikilink") (except [Towers](Tower "wikilink"))

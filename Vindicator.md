@@ -1,8 +1,8 @@
-![](VindicatorFront.jpg "fig:VindicatorFront.jpg") Vindicator\]\]
-![](VindicatorRear.jpg "fig:VindicatorRear.jpg")
+![](images/VindicatorFront.jpg "fig:VindicatorFront.jpg") Vindicator\]\]
+![](images/VindicatorRear.jpg "fig:VindicatorRear.jpg")
 
 |                            |                                                                                                                                                                                     |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Transport                                                                                                                                                                     |
 | **Role**                   | Heavy Troop Transport                                                                                                                                                               |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")                                                                                                                                     |
@@ -17,7 +17,7 @@
 
 **Vindicator**
 
-The *Vindicator* is the New Conglomerate's heavy troop transport
+The _Vindicator_ is the New Conglomerate's heavy troop transport
 vehicle. It features 2 75mm and 2 20mm Cannons on the top and 2
 [Ballguns](Ballgun "wikilink") on the side. The Vindicator can pass
 through enemy [Shield Module](Shield_Module "wikilink") defenses.

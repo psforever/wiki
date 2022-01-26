@@ -1,7 +1,7 @@
-![](Mosquito.jpg "Mosquito.jpg")
+![](images/Mosquito.jpg "Mosquito.jpg")
 
 |                            |                                                                                            |
-|----------------------------|--------------------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------------------ |
 | **Type**                   | Light Assault Aircraft                                                                     |
 | **Role**                   | Recon                                                                                      |
 | **Certification Required** | [Air Cavalry Scout](Air_Cavalry_Scout "wikilink") or [Light Scout](Light_Scout "wikilink") |

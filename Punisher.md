@@ -1,4 +1,4 @@
-![](PSScreenShot0253.jpg "fig:PSScreenShot0253.jpg") Soldier equipped
+![](images/PSScreenShot0253.jpg "fig:PSScreenShot0253.jpg") Soldier equipped
 with a Punisher\]\]
 
 <table>
@@ -67,7 +67,7 @@ standard rounds until you have reloaded your
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 8 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 9 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 13 shots                                 |

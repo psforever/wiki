@@ -1,4 +1,4 @@
-![](InterstellarMap.jpg "fig:InterstellarMap.jpg") Overhead Map of the
+![](images/InterstellarMap.jpg "fig:InterstellarMap.jpg") Overhead Map of the
 [planets](planet "wikilink") and of Auraxian space, showing the
 [Galactic Lattice](Galactic_Lattice "wikilink") network between the
 worlds and their [continents](continent "wikilink"). Accessed with the
@@ -34,7 +34,7 @@ location will appear as a white arrow.
 Double-clicking on a continent or planet will open up the [Continental
 Map](Continental_Map "wikilink") of that world or cavern.
 
-------------------------------------------------------------------------
+---
 
 Add toggle descrptions for population, etc.
 

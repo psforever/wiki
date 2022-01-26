@@ -1,9 +1,9 @@
 ## **The ArmorDeth Ant Trap & The ArmorDeth AMS Trap**
 
-![](Armordeth_ANT_Trap.jpg "fig:Armordeth_ANT_Trap.jpg") Trap nears
+![](images/Armordeth_ANT_Trap.jpg "fig:Armordeth_ANT_Trap.jpg") Trap nears
 completion at a [Searhus](Searhus "wikilink") [Back
 Door](Back_Door "wikilink")\]\]
-![](ANT_Trap_Above.jpg "fig:ANT_Trap_Above.jpg") Trap nears completion
+![](images/ANT_Trap_Above.jpg "fig:ANT_Trap_Above.jpg") Trap nears completion
 at a [Searhus](Searhus "wikilink") [Back Door](Back_Door "wikilink")\]\]
 What is it? Well after watching all my
 [CE](Combat_Engineering "wikilink") get [EMP](EMP "wikilink")'ed over
@@ -40,8 +40,8 @@ Lets go over the game plan, it's very simple.
     backdoor in the middle. So you open the door, look up and place the
     motion sensor. You can not pass the sensor without crouching under
     it as an Agile (NOTE - Reinforced and MAXES cannot pass). **UPDATE**
-    *- Place a spitfire right below the motion sensor, it will take some
-    practice, but the door should hide the spit.*
+    _- Place a spitfire right below the motion sensor, it will take some
+    practice, but the door should hide the spit._
 
 <!-- -->
 
@@ -67,7 +67,7 @@ destroy the AMS and we all know how much damage an AMS can do.
 
 Fun Stuff!
 
-------------------------------------------------------------------------
+---
 
 **ArmorDeth**
 

@@ -1,8 +1,8 @@
-![](PSScreenShot0248.jpg "fig:PSScreenShot0248.jpg") Soldier holding a
+![](images/PSScreenShot0248.jpg "fig:PSScreenShot0248.jpg") Soldier holding a
 Gauss Rifle\]\]
 
 |                            |                                                                                               |
-|----------------------------|-----------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")                                                   |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                               |
 | **Primary Mode**           | Single Shot                                                                                   |
@@ -28,7 +28,7 @@ best burst-fired when used at medium to long ranges.
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 7 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 8 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 10 shots                                 |

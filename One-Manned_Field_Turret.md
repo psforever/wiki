@@ -1,8 +1,8 @@
-![](OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
+![](images/OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
 [Osprey](Osprey "wikilink")\]\]
 
 |                            |                                                                                                                                                 |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink")                                |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink"), [Terran Republic](Terran_Republic "wikilink"), [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Primary Mode**           | Deploy Field Turret                                                                                                                             |

@@ -1,5 +1,5 @@
-![](BFR_Shed.jpg "fig:BFR_Shed.jpg") Shed\]\]
-![](BFR_term.jpg "fig:BFR_term.jpg") The BFR Shed is used to acquire
+![](images/BFR_Shed.jpg "fig:BFR_Shed.jpg") Shed\]\]
+![](images/BFR_term.jpg "fig:BFR_term.jpg") The BFR Shed is used to acquire
 [BattleFrame Robotics](BattleFrame_Robotics "wikilink") units, similar
 to the [Vehicle Terminal](Vehicle_Terminal "wikilink").
 

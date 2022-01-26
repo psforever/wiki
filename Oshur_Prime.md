@@ -1,4 +1,4 @@
-![](Meteor.jpg "fig:Meteor.jpg") shower during a special Oshur Prime
+![](images/Meteor.jpg "fig:Meteor.jpg") shower during a special Oshur Prime
 [event](event "wikilink")\]\]
 
 ## [Oshur Prime](Oshur_Prime "wikilink")
@@ -49,26 +49,26 @@ with Oshur Prime as their theatre of operations.
 
 ### [Amp Stations](Amp_Station "wikilink")
 
--   Mithra
+- Mithra
 
 ### [Bio Laboratories](Bio_Laboratory "wikilink")
 
--   Rashnu
--   Yazata
--   Zal
+- Rashnu
+- Yazata
+- Zal
 
 ### [Dropship Centers](Dropship_Center "wikilink")
 
--   Atar
+- Atar
 
 ### [Interlink Facilities](Interlink_Facility "wikilink")
 
--   Hvar
+- Hvar
 
 ### [Technology Plants](Technology_Plant "wikilink")
 
--   Dahaka
--   Izha
--   Jamshid
+- Dahaka
+- Izha
+- Jamshid
 
 [Category:Locations](Category:Locations "wikilink")

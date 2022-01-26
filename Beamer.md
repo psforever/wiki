@@ -1,8 +1,8 @@
-![](PSScreenShot0293.jpg "fig:PSScreenShot0293.jpg") Soldier holding a
+![](images/PSScreenShot0293.jpg "fig:PSScreenShot0293.jpg") Soldier holding a
 Beamer\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink") |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Primary Mode**           | Standard Bolt                                   |
@@ -33,7 +33,7 @@ Fire](Cone_of_Fire "wikilink") than the standard mode.
 Shots to kill (Average on a close to medium range):
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 6 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 7 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 9 shots                                  |

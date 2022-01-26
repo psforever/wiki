@@ -1,4 +1,4 @@
-![](PlanetSide_box.jpg "fig:PlanetSide_box.jpg")
+![](images/PlanetSide_box.jpg "fig:PlanetSide_box.jpg")
 [PlanetSide](PlanetSide "wikilink") is one of the first
 Massively-Multiplayer Online First Person Shooters (MMOFPS), and was
 published and developed by [Sony Online
@@ -97,9 +97,9 @@ physics and high-energy arrays to defend themselves.
 ### Analysis
 
 Within the game, there has been much discussion over which factions are
-inherently *good* or *evil*. Some claim the Republic to be the
+inherently _good_ or _evil_. Some claim the Republic to be the
 [empire](empire "wikilink") that was intended to be the villains of the
-game, due to the theoretical similarity to *Fascism*, although it can be
+game, due to the theoretical similarity to _Fascism_, although it can be
 argued that neither the Republic nor Fascism are inherently bad, as they
 are only doing what they feel is right on the whole, which is protecting
 humanity from its own incompetence. These same people also tend to
@@ -154,7 +154,7 @@ released about once a month. These [patches](patch "wikilink") usually
 focus on fixing in-game bugs and adding new content. PlanetSide also has
 a [Test Server](Test_Server "wikilink") like other online games to test
 changes before they go onto live servers.
-![](Core_Combat_Box.jpg "fig:Core_Combat_Box.jpg") box art.\]\]
+![](images/Core_Combat_Box.jpg "fig:Core_Combat_Box.jpg") box art.\]\]
 
 ### Core Combat
 
@@ -234,7 +234,7 @@ their own. The warpgates still funcioned under the normal
 [lattice](lattice "wikilink"), but the skies were different. Also,
 [Oshur](Oshur "wikilink") was removed completely, and in its place were
 the [Battle Islands](Battle_Islands "wikilink").
-![](Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]
+![](images/Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]
 
 ### Aftershock
 
@@ -247,13 +247,13 @@ Robotics](BattleFrame_Robotics "wikilink") (BFR's).
 
 ## See Also
 
--   [Core Combat](Core_Combat "wikilink")
--   [Events](Events "wikilink")
--   [Patches](Patches "wikilink")
--   [PlanetSide Next](PlanetSide_Next "wikilink")
+- [Core Combat](Core_Combat "wikilink")
+- [Events](Events "wikilink")
+- [Patches](Patches "wikilink")
+- [PlanetSide Next](PlanetSide_Next "wikilink")
 
 ## External Links
 
--   [The Official *PlanetSide* Website](http://www.planetside.com/)
+- [The Official _PlanetSide_ Website](http://www.planetside.com/)
 
 [Category:PlanetSide](Category:PlanetSide "wikilink")

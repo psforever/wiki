@@ -1,18 +1,18 @@
-![](Cloaker_firing.jpg "fig:Cloaker_firing.jpg")
-![](TRInfilPicture.jpg "fig:TRInfilPicture.jpg") Infiltrator coming out
+![](images/Cloaker_firing.jpg "fig:Cloaker_firing.jpg")
+![](images/TRInfilPicture.jpg "fig:TRInfilPicture.jpg") Infiltrator coming out
 of the [Implant Terminal](Implant_Terminal "wikilink")\]\]
-![](NCInfiltrationSuit.jpg "fig:NCInfiltrationSuit.jpg") Infiltrator\]\]
-![](VS_InfilSuit.jpg "fig:VS_InfilSuit.jpg") Infiltrator\]\]
+![](images/NCInfiltrationSuit.jpg "fig:NCInfiltrationSuit.jpg") Infiltrator\]\]
+![](images/VS_InfilSuit.jpg "fig:VS_InfilSuit.jpg") Infiltrator\]\]
 
-|                            |                                                                   |
-|----------------------------|-------------------------------------------------------------------|
-| **Certification Required** | [Infiltration Suit](Infiltration_Suit_(Certification) "wikilink") |
-| **Empire**                 | [Common Pool](Common_Pool "wikilink")                             |
-| **Armor**                  | 0                                                                 |
-| **Pistol Holsters**        | 1                                                                 |
-| **Rifle Holsters**         | None                                                              |
-| **Inventory Dimensions**   | 6 x 6                                                             |
-| **Other**                  | Allows the wearer to "cloak" (become invisible)                   |
+|                            |                                                                     |
+| -------------------------- | ------------------------------------------------------------------- |
+| **Certification Required** | [Infiltration Suit](<Infiltration_Suit_(Certification)> "wikilink") |
+| **Empire**                 | [Common Pool](Common_Pool "wikilink")                               |
+| **Armor**                  | 0                                                                   |
+| **Pistol Holsters**        | 1                                                                   |
+| **Rifle Holsters**         | None                                                                |
+| **Inventory Dimensions**   | 6 x 6                                                               |
+| **Other**                  | Allows the wearer to "cloak" (become invisible)                     |
 
 **Infiltration Suit**
 

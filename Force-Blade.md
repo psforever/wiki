@@ -1,7 +1,7 @@
-![](Forceblade.jpg "Forceblade.jpg")
+![](images/Forceblade.jpg "Forceblade.jpg")
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink") |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink") |
 | **Primary Mode**           | Slash                                           |

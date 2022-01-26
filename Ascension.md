@@ -1,8 +1,8 @@
-![](AscensionMap.jpg "fig:AscensionMap.jpg")
+![](images/AscensionMap.jpg "fig:AscensionMap.jpg")
 [thumb](image:Ascension_Terrain.jpg "wikilink")
 
 |                      |                                       |
-|----------------------|---------------------------------------|
+| -------------------- | ------------------------------------- |
 | Category:            | Island Cluster                        |
 | Climate (Ascension): | Temperate                             |
 | Landmass:            | Battle Island                         |

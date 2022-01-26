@@ -1,8 +1,8 @@
-![](PSScreenShot0292.jpg "fig:PSScreenShot0292.jpg") Soldier equipped
+![](images/PSScreenShot0292.jpg "fig:PSScreenShot0292.jpg") Soldier equipped
 with an AMP\]\]
 
 |                            |                                                                                               |
-|----------------------------|-----------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink")                                               |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                         |
 | **Primary Mode**           | Machine Pistol                                                                                |
@@ -31,7 +31,7 @@ off very wounded troops from a medium, safe distance.
 Shots to kill:
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 8 shots                                  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 9 shots                                  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 13 shots                                 |

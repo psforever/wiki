@@ -1,7 +1,7 @@
-![](Thunderer_VS.jpg "fig:Thunderer_VS.jpg") Thunderer\]\]
+![](images/Thunderer_VS.jpg "fig:Thunderer_VS.jpg") Thunderer\]\]
 
 |                            |                                                               |
-|----------------------------|---------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------- |
 | **Type**                   | Medium Transport                                              |
 | **Role**                   | Medium Troop Transport                                        |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")               |

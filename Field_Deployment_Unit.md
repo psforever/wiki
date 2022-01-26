@@ -1,7 +1,7 @@
-![](FDUInventory.jpg "FDUInventory.jpg")
+![](images/FDUInventory.jpg "FDUInventory.jpg")
 
 |                            |                                                                                                                                                                                       |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering "wikilink") or [Fortification Engineering](Fortification_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                                                                                 |
 | **Primary Mode**           | Deploy [TRAP](Tactical_Resonance_Area_Protection "wikilink") (Fortification Engineering)                                                                                              |
@@ -31,8 +31,8 @@ Map](Continental_Map "wikilink"). They can also be deconstructed by
 double clicking on their icon on the continental map and selecting to
 deconstruct them.
 
-![](FDU.jpg "fig:FDU.jpg")
-![](FDUConstructing.jpg "fig:FDUConstructing.jpg")
-![](FDUCarry.jpg "fig:FDUCarry.jpg") Soldier carrying 2 FDU's\]\]
+![](images/FDU.jpg "fig:FDU.jpg")
+![](images/FDUConstructing.jpg "fig:FDUConstructing.jpg")
+![](images/FDUCarry.jpg "fig:FDUCarry.jpg") Soldier carrying 2 FDU's\]\]
 
 [Category:Weapons](Category:Weapons "wikilink")

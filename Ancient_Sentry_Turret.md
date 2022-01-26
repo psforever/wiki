@@ -1,4 +1,4 @@
-![](AT_Turret.jpg "fig:AT_Turret.jpg")\]\] The
+![](images/AT_Turret.jpg "fig:AT_Turret.jpg")\]\] The
 [Ancient-Tech](Ancient-Tech "wikilink") Turret is found in the
 [Caverns](Caverns "wikilink") of [Auraxis](Auraxis "wikilink"). They
 fire energy projectiles at a fairly rapid rate, with sufficient reserves

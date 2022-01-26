@@ -1,4 +1,4 @@
-![](Cert_term.jpg "Cert_term.jpg")
+![](images/Cert_term.jpg "Cert_term.jpg")
 
 Located on each [Empire](Empire "wikilink")'s
 [Sanctuary](Sanctuary "wikilink") and in [Bio Lab](Bio_Lab "wikilink")

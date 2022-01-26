@@ -1,4 +1,4 @@
-![](Global_Map.jpg "fig:Global_Map.jpg") The [Global
+![](images/Global_Map.jpg "fig:Global_Map.jpg") The [Global
 Map](Global_Map "wikilink") was the way
 [PlanetSide](PlanetSide "wikilink") originally showed the ten continents
 and three sanctuaries. Before [The Bending](The_Bending "wikilink")
@@ -64,9 +64,9 @@ jobs that the Global Map did just fine.
 
 ## See Also
 
--   [Battle Islands](Battle_Islands "wikilink")
--   [Interstellar Map](Interstellar_Map "wikilink")
--   [Oshur](Oshur "wikilink")
--   [The Bending](The_Bending "wikilink")
+- [Battle Islands](Battle_Islands "wikilink")
+- [Interstellar Map](Interstellar_Map "wikilink")
+- [Oshur](Oshur "wikilink")
+- [The Bending](The_Bending "wikilink")
 
 [category:Terminology](category:Terminology "wikilink")

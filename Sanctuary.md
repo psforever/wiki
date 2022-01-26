@@ -1,6 +1,6 @@
-![](NCSanctuaryMap.jpg "fig:NCSanctuaryMap.jpg") Sanctuary Map\]\]
-![](TRSanctuaryMap.jpg "fig:TRSanctuaryMap.jpg") Sanctuary Map\]\]
-![](VSSanctuaryMap.jpg "fig:VSSanctuaryMap.jpg") Sanctuary Map\]\] Each
+![](images/NCSanctuaryMap.jpg "fig:NCSanctuaryMap.jpg") Sanctuary Map\]\]
+![](images/TRSanctuaryMap.jpg "fig:TRSanctuaryMap.jpg") Sanctuary Map\]\]
+![](images/VSSanctuaryMap.jpg "fig:VSSanctuaryMap.jpg") Sanctuary Map\]\] Each
 Empire's Sanctuary island is secure from all enemy attacks. This island
 is a hub of ways to move about the Auraxian Planetary Web, as well as a
 safe place to meet and train. As of Version 3.4, each Sanctuary has a
@@ -38,25 +38,25 @@ building](HART_building "wikilink").
 
 ### Sanctuary Features
 
--   [Air towers](Air_tower "wikilink")
--   [BFR Sheds](BFR_Shed "wikilink")
--   [Certification terminals](Certification_terminal "wikilink")
--   [Equipment terminals](Equipment_terminal "wikilink")
--   [Gun towers](Gun_tower "wikilink")
--   [HART buildings](HART_building "wikilink")
--   [Implant Terminals](Implant_Terminal "wikilink")
--   [Lockers](Lockers "wikilink")
--   [Medical Terminals](Medical_Terminal "wikilink")
--   [Repair/Rearm Silos](Repair/Rearm_Silo "wikilink")
--   [Respawn tubes](Respawn_tube "wikilink")
--   [Respawn Buildings](Respawn_Building "wikilink")
--   [Teleporters](Teleporter "wikilink")
--   [Vehicle Terminals](Vehicle_Terminal "wikilink")
--   [VR Training](VR_Training "wikilink")
--   [Warpgates](Warpgate "wikilink")
--   [Watch towers](Watch_tower "wikilink")
+- [Air towers](Air_tower "wikilink")
+- [BFR Sheds](BFR_Shed "wikilink")
+- [Certification terminals](Certification_terminal "wikilink")
+- [Equipment terminals](Equipment_terminal "wikilink")
+- [Gun towers](Gun_tower "wikilink")
+- [HART buildings](HART_building "wikilink")
+- [Implant Terminals](Implant_Terminal "wikilink")
+- [Lockers](Lockers "wikilink")
+- [Medical Terminals](Medical_Terminal "wikilink")
+- [Repair/Rearm Silos](Repair/Rearm_Silo "wikilink")
+- [Respawn tubes](Respawn_tube "wikilink")
+- [Respawn Buildings](Respawn_Building "wikilink")
+- [Teleporters](Teleporter "wikilink")
+- [Vehicle Terminals](Vehicle_Terminal "wikilink")
+- [VR Training](VR_Training "wikilink")
+- [Warpgates](Warpgate "wikilink")
+- [Watch towers](Watch_tower "wikilink")
 
-------------------------------------------------------------------------
+---
 
 --source: Planetside In-game descriptions
 

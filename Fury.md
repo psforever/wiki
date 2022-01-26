@@ -1,10 +1,10 @@
-![](Fury.jpg "fig:Fury.jpg") Fury\]\]
+![](images/Fury.jpg "fig:Fury.jpg") Fury\]\]
 
 |                            |                                                         |
-|----------------------------|---------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------- |
 | **Type**                   | ATV                                                     |
 | **Role**                   | Rapid Response/Escort                                   |
-| **Certification Required** | [ATV](ATV_(Certification) "wikilink")                   |
+| **Certification Required** | [ATV](<ATV_(Certification)> "wikilink")                 |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                   |
 | **Primary Weapon**         | Hellfire Rocket Launcher                                |
 | **Secondary Weapon**       | \-                                                      |

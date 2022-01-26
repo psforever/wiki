@@ -1,14 +1,14 @@
-![](fragmentationgrenadepack.jpg "fragmentationgrenadepack.jpg")
+![](images/fragmentationgrenadepack.jpg "fragmentationgrenadepack.jpg")
 
 |                       |                                                                                                           |
-|-----------------------|-----------------------------------------------------------------------------------------------------------|
+| --------------------- | --------------------------------------------------------------------------------------------------------- |
 | Weapons Using:        | [Punisher](Punisher "wikilink"), [Thumper](Thumper "wikilink"), [Rocklet Rifle](Rocklet_Rifle "wikilink") |
 | Empire:               | [Common Pool](Common_Pool "wikilink")                                                                     |
 | Inventory dimensions: | 3x3                                                                                                       |
 | Quantity per pack:    | 12                                                                                                        |
 |                       |                                                                                                           |
 
-*Fragmentation Grenades Packs* are explosive devices, similar to the
+_Fragmentation Grenades Packs_ are explosive devices, similar to the
 handheld [Fragmentation Grenade](Fragmentation_grenade "wikilink"),
 launched from the [Punisher](Punisher "wikilink") or
 [Thumper](Thumper "wikilink"). Unlike rockets, after being launched,
@@ -23,18 +23,18 @@ at damaging infantry as well as armored targets. Furthermore,
 Fragmentation Grenades have a generous splash damage meaning a direct
 hit is not required to damage a target.
 
-*Fragmentation Grenade Packs* can also be fired from the [Rocklet
+_Fragmentation Grenade Packs_ can also be fired from the [Rocklet
 Rifle](Rocklet_Rifle "wikilink"). When fired in this manner, the
 explosive charge travels in a straight line. The charge explodes when it
 comes into range of an aircraft or reaches its maximum range. If the
-round comes into contact with *any* object other than an aircraft, the
+round comes into contact with _any_ object other than an aircraft, the
 round will not explode causing very little damage. When used in this
 manner, the charges are refered to as **Flaklets**. Flaklets are
 effective at damaging aircraft. However, for any other circumstance,
 [Rockets](Rocket_Pod "wikilink") should be used instead.
 
 Because Fragmentation Grenades are considered anti-vehicular weapons,
-they *cannot* pass though the energy shields of [BattleFrame
+they _cannot_ pass though the energy shields of [BattleFrame
 Robotics](BattleFrame_Robotics "wikilink").
 
 [Category:Game Items](Category:Game_Items "wikilink")

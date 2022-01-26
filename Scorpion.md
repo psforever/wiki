@@ -1,8 +1,8 @@
-![](Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
+![](images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
 Missile](Scorpion_Missile "wikilink")\]\]
 
 |                            |                                                  |
-|----------------------------|--------------------------------------------------|
+| -------------------------- | ------------------------------------------------ |
 | **Certification Required** | [Elite Assault](Elite_Assault "wikilink")        |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")            |
 | **Primary Mode**           | Fire                                             |

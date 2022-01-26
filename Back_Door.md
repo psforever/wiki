@@ -1,6 +1,6 @@
-![](Backdoor.jpg "fig:Backdoor.jpg") on [Nexus](Nexus "wikilink")\]\]
+![](images/Backdoor.jpg "fig:Backdoor.jpg") on [Nexus](Nexus "wikilink")\]\]
 
-![](Back_Door_TR.jpg "fig:Back_Door_TR.jpg") Forces defending a backdoor
+![](images/Back_Door_TR.jpg "fig:Back_Door_TR.jpg") Forces defending a backdoor
 against a [Vanu Sovereignty](Vanu_Sovereignty "wikilink") assault\]\]
 
 The Back Door is the entry point to the inside of a

@@ -1,7 +1,7 @@
-![](Rocklet_Rifle.jpg "Rocklet_Rifle.jpg")
+![](images/Rocklet_Rifle.jpg "Rocklet_Rifle.jpg")
 
 |                            |                                                                                                            |
-|----------------------------|------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Special Assault](Special_Assault "wikilink")                                                              |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                      |
 | **Primary Mode**           | Single Fire                                                                                                |
@@ -48,7 +48,7 @@ Pack](Fragmentation_Grenade_Pack "wikilink")
 Shots to kill (Direct hit with rocklet):
 
 |                                                       |          |
-|-------------------------------------------------------|----------|
+| ----------------------------------------------------- | -------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 3 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 4 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 6 shots  |

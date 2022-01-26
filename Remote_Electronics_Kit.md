@@ -1,10 +1,10 @@
-![](GrannyHacker.jpg "fig:GrannyHacker.jpg")
-![](PSScreenShot0329.jpg "fig:PSScreenShot0329.jpg")
-![](AdvancedHacker.jpg "fig:AdvancedHacker.jpg")
-![](ExpertHacker.jpg "fig:ExpertHacker.jpg")
+![](images/GrannyHacker.jpg "fig:GrannyHacker.jpg")
+![](images/PSScreenShot0329.jpg "fig:PSScreenShot0329.jpg")
+![](images/AdvancedHacker.jpg "fig:AdvancedHacker.jpg")
+![](images/ExpertHacker.jpg "fig:ExpertHacker.jpg")
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | None                                  |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") |
 | **Primary Mode**           | Hack                                  |
@@ -31,58 +31,58 @@ listed below under their respective Hacking level.
 
 No Hacking Certification:
 
--   Hack [Facility](Facility "wikilink") and [Tower](Tower "wikilink")
-    [IFF](IFF "wikilink") Door Lock (unlock and re-lock)
--   Hack [Tower](Tower "wikilink") [Control
-    Console](Control_Console "wikilink") (60 seconds)
--   Hack [Facility](Facility "wikilink") Control Console (60 seconds)
+- Hack [Facility](Facility "wikilink") and [Tower](Tower "wikilink")
+  [IFF](IFF "wikilink") Door Lock (unlock and re-lock)
+- Hack [Tower](Tower "wikilink") [Control
+  Console](Control_Console "wikilink") (60 seconds)
+- Hack [Facility](Facility "wikilink") Control Console (60 seconds)
 
 The REK of a non-certified hacker (or "Granny" Hacker) emits a
 **yellow** beam.
 
 Hacking Certification:
 
--   Faster hacking of the following;
-    -   Tower/Facility Control Console: 40 seconds
--   Hack [Certification Terminals](Certification_Terminal "wikilink")
--   Hack [Lockers](Lockers "wikilink")
--   Hack [Medical Terminals](Medical_Terminal "wikilink")
--   Hack [Implant Terminals](Implant_Terminal "wikilink")
+- Faster hacking of the following;
+  - Tower/Facility Control Console: 40 seconds
+- Hack [Certification Terminals](Certification_Terminal "wikilink")
+- Hack [Lockers](Lockers "wikilink")
+- Hack [Medical Terminals](Medical_Terminal "wikilink")
+- Hack [Implant Terminals](Implant_Terminal "wikilink")
 
 The REK of a regular Hacker emits a **red** beam.
 
 Advanced Hacking Certification:
 
--   Faster hacking of the following;
-    -   Tower/Facility Control Console: 20 seconds
--   Hack [Equipment terminals](Equipment_terminal "wikilink")
--   Hack [Vehicle Terminals](Vehicle_Terminal "wikilink")
--   Hack [Advanced Medical
-    Terminals](Advanced_Medical_Terminal "wikilink")
--   [Jack](Jack "wikilink") **Empty** Enemy
-    [Vehicles](Vehicle "wikilink")
--   Deconstruct Enemy [One-Manned Field
-    Turrets](One-Manned_Field_Turret "wikilink")
--   Hack [Main Consoles](Main_Console "wikilink") (in special
-    circumstances)
+- Faster hacking of the following;
+  - Tower/Facility Control Console: 20 seconds
+- Hack [Equipment terminals](Equipment_terminal "wikilink")
+- Hack [Vehicle Terminals](Vehicle_Terminal "wikilink")
+- Hack [Advanced Medical
+  Terminals](Advanced_Medical_Terminal "wikilink")
+- [Jack](Jack "wikilink") **Empty** Enemy
+  [Vehicles](Vehicle "wikilink")
+- Deconstruct Enemy [One-Manned Field
+  Turrets](One-Manned_Field_Turret "wikilink")
+- Hack [Main Consoles](Main_Console "wikilink") (in special
+  circumstances)
 
 The REK of an Advanced Hacker emits a **purple** beam.
 
 Expert Hacking Certification:
 
--   Faster hacking of the following;
-    -   Tower/Facility Control Console: 15 seconds
--   Increase [Spawn Room](Spawn_Room "wikilink") [Pain
-    Field](Pain_Field "wikilink") damage (30 minute duration)
--   Increase [Generator](Generator "wikilink") [Pain
-    Field](Pain_Field "wikilink") damage (30 minute duration)
--   [Jack](Jack "wikilink") and use enemy [One-Manned Field
-    Turrets](One-Manned_Field_Turret "wikilink")
--   [Jack](Jack "wikilink") **Occupied** Enemy Vehicles
--   Upgrade [Aegis Shield Generator](Aegis_Shield_Generator "wikilink")
-    with enhanced radar abilities
--   Increased Sensor Shield protection while hacking
--   Remove viruses from infected equipment
+- Faster hacking of the following;
+  - Tower/Facility Control Console: 15 seconds
+- Increase [Spawn Room](Spawn_Room "wikilink") [Pain
+  Field](Pain_Field "wikilink") damage (30 minute duration)
+- Increase [Generator](Generator "wikilink") [Pain
+  Field](Pain_Field "wikilink") damage (30 minute duration)
+- [Jack](Jack "wikilink") and use enemy [One-Manned Field
+  Turrets](One-Manned_Field_Turret "wikilink")
+- [Jack](Jack "wikilink") **Occupied** Enemy Vehicles
+- Upgrade [Aegis Shield Generator](Aegis_Shield_Generator "wikilink")
+  with enhanced radar abilities
+- Increased Sensor Shield protection while hacking
+- Remove viruses from infected equipment
 
 The REK of an Expert Hacker emits a **blue** beam.
 

@@ -1,10 +1,10 @@
-![](Dagur_overhead.jpg "fig:Dagur_overhead.jpg"),
+![](images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg"),
 [Esamir](Esamir "wikilink") as seen from above\]\]
 
 ## Base Facility Specs
 
 |                                                                |                                           |
-|----------------------------------------------------------------|-------------------------------------------|
+| -------------------------------------------------------------- | ----------------------------------------- |
 | [Control Console](Control_Console "wikilink"):                 | Level 3                                   |
 | [Generator](Generator "wikilink"):                             | Level 1                                   |
 | [Spawn room](Respawn_room "wikilink"):                         | Level 2                                   |
@@ -17,7 +17,7 @@
 
 ## Description
 
-![](Techplant.jpg "fig:Techplant.jpg") Technology Plants are arguably
+![](images/Techplant.jpg "fig:Techplant.jpg") Technology Plants are arguably
 the most important type of [facility](facilities "wikilink") on a
 continent, as its [base benefit](Facility_Linked_Benefit "wikilink")
 allows acquisition of [Advanced Assault vehicles and
@@ -39,63 +39,63 @@ another on Level 2 for the Ground Vehicle creation pad.
 
 ### [Amerish](Amerish "wikilink")
 
--   [Heyoka](Heyoka "wikilink")
--   [Mekala](Mekala "wikilink")
--   [Tumas](Tumas "wikilink")
+- [Heyoka](Heyoka "wikilink")
+- [Mekala](Mekala "wikilink")
+- [Tumas](Tumas "wikilink")
 
 ### [Ceryshen](Ceryshen "wikilink")
 
--   [Igaluk](Igaluk "wikilink")
--   [Nerrivik](Nerrivik "wikilink") (Sub-Capitol)
--   [Pinga](Pinga "wikilink")
+- [Igaluk](Igaluk "wikilink")
+- [Nerrivik](Nerrivik "wikilink") (Sub-Capitol)
+- [Pinga](Pinga "wikilink")
 
 ### [Cyssor](Cyssor "wikilink")
 
--   [Faro](Faro "wikilink")
--   [Leza](Leza "wikilink")
--   [Orisha](Orisha "wikilink")
--   [Wele](Wele "wikilink")
+- [Faro](Faro "wikilink")
+- [Leza](Leza "wikilink")
+- [Orisha](Orisha "wikilink")
+- [Wele](Wele "wikilink")
 
 ### [Esamir](Esamir "wikilink")
 
--   [Eisa](Eisa "wikilink") (Capitol)
--   [Dagur](Dagur "wikilink")
--   [Gjallar](Gjallar "wikilink")
--   [Helheim](Helheim "wikilink")
+- [Eisa](Eisa "wikilink") (Capitol)
+- [Dagur](Dagur "wikilink")
+- [Gjallar](Gjallar "wikilink")
+- [Helheim](Helheim "wikilink")
 
 ### [Forseral](Forseral "wikilink")
 
--   [Anu](Anu "wikilink")
--   [Gwydion](Gwydion "wikilink") (Sub-Capitol)
+- [Anu](Anu "wikilink")
+- [Gwydion](Gwydion "wikilink") (Sub-Capitol)
 
 ### [Hossin](Hossin "wikilink")
 
--   [Chac](Chac "wikilink")
--   [Ghanon](Ghanon "wikilink")
--   [Mulac](Mulac "wikilink")
+- [Chac](Chac "wikilink")
+- [Ghanon](Ghanon "wikilink")
+- [Mulac](Mulac "wikilink")
 
 ### [Ishundar](Ishundar "wikilink")
 
--   [Baal](Baal "wikilink")
--   [Girru](Girru "wikilink")
--   [Kusag](Kusag "wikilink")
--   [Marduk](Marduk "wikilink")
+- [Baal](Baal "wikilink")
+- [Girru](Girru "wikilink")
+- [Kusag](Kusag "wikilink")
+- [Marduk](Marduk "wikilink")
 
 ### [Oshur Battle Islands](Oshur "wikilink")
 
--   [Dahaka](Dahaka "wikilink")
--   [Izha](Izha "wikilink")
--   [Jamshid](Jamshid "wikilink")
+- [Dahaka](Dahaka "wikilink")
+- [Izha](Izha "wikilink")
+- [Jamshid](Jamshid "wikilink")
 
 ### [Searhus](Searhus "wikilink")
 
--   [Karihi](Karihi "wikilink")
--   [Ngaru](Ngaru "wikilink")
--   [Tara](Tara "wikilink")
+- [Karihi](Karihi "wikilink")
+- [Ngaru](Ngaru "wikilink")
+- [Tara](Tara "wikilink")
 
 ### [Solsar](Solsar "wikilink")
 
--   [Amun](Amun "wikilink") (Sub-Capitol)
--   [Seth](Seth "wikilink")
+- [Amun](Amun "wikilink") (Sub-Capitol)
+- [Seth](Seth "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

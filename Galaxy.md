@@ -1,7 +1,7 @@
-![`GalaxyNC.jpg`](GalaxyNC.jpg "fig:GalaxyNC.jpg")` Galaxy]]`
+![`GalaxyNC.jpg`](images/GalaxyNC.jpg "fig:GalaxyNC.jpg")` Galaxy]]`
 
 |                            |                                                                                                                            |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Dropship                                                                                                                   |
 | **Role**                   | Heavy Troop Transport                                                                                                      |
 | **Certification Required** | [Air Support](Air_Support "wikilink")                                                                                      |
@@ -15,7 +15,7 @@
 
 **Galaxy**
 
-![](Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg")
+![](images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg")
 
 The **Galaxy** is a huge aircraft capable of carrying 9 infantry and 2
 [MAX](MAX "wikilink") units, as well as the pilot and any passengers of
@@ -38,17 +38,17 @@ Support](Air_Support "wikilink")
 
 Vehicles that can fit in the [Galaxy](Galaxy "wikilink") cargo hold are:
 
--   [ANT](Advanced_Nanite_Transport "wikilink")
--   [Basilisk](Basilisk "wikilink")
--   [Enforcer](Enforcer "wikilink")
--   [Fury](Fury "wikilink")
--   [Harasser](Harasser "wikilink")
--   [Lightning](Lightning "wikilink")
--   [Marauder](Marauder "wikilink")
--   [Skyguard](Skyguard "wikilink")
--   [Switchblade](Switchblade "wikilink")
--   [Thresher](Thresher "wikilink")
--   [Wraith](Wraith "wikilink")
+- [ANT](Advanced_Nanite_Transport "wikilink")
+- [Basilisk](Basilisk "wikilink")
+- [Enforcer](Enforcer "wikilink")
+- [Fury](Fury "wikilink")
+- [Harasser](Harasser "wikilink")
+- [Lightning](Lightning "wikilink")
+- [Marauder](Marauder "wikilink")
+- [Skyguard](Skyguard "wikilink")
+- [Switchblade](Switchblade "wikilink")
+- [Thresher](Thresher "wikilink")
+- [Wraith](Wraith "wikilink")
 
 The Galaxy's apparent namesake is the [Lockheed
 Galaxy](http://en.wikipedia.org/wiki/C-5_Galaxy)

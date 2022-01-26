@@ -1,11 +1,11 @@
-![](Wraiths.jpg "fig:Wraiths.jpg") ![](Wraith.jpg "fig:Wraith.jpg")
+![](images/Wraiths.jpg "fig:Wraiths.jpg") ![](images/Wraith.jpg "fig:Wraith.jpg")
 Wraith\]\]
 
 |                            |                                                                                                          |
-|----------------------------|----------------------------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **Type**                   | ATV                                                                                                      |
 | **Role**                   | Recon                                                                                                    |
-| **Certification Required** | [ATV](ATV_(Certification) "wikilink")                                                                    |
+| **Certification Required** | [ATV](<ATV_(Certification)> "wikilink")                                                                  |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                    |
 | **Primary Weapon**         | \-                                                                                                       |
 | **Secondary Weapon**       | \-                                                                                                       |

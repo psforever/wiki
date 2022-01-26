@@ -1,11 +1,11 @@
-![](IshundarMap.jpg "IshundarMap.jpg")
+![](images/IshundarMap.jpg "IshundarMap.jpg")
 
 ## Continental Data
 
-![](Ishundar_Terrain.jpg "Ishundar_Terrain.jpg")
+![](images/Ishundar_Terrain.jpg "Ishundar_Terrain.jpg")
 
 |                   |                                                                       |
-|-------------------|-----------------------------------------------------------------------|
+| ----------------- | --------------------------------------------------------------------- |
 | Category:         | Desert World                                                          |
 | Climate:          | Arid                                                                  |
 | Landmass:         | Continent                                                             |
@@ -35,7 +35,7 @@ two highlands in Ishundar's center, making traffic flows between the two
 halves more predictable and creating bottlenecks for tacticians to
 exploit.
 
-------------------------------------------------------------------------
+---
 
 --source: Planetside In-game descriptions, pre- and post-Bending.
 
@@ -44,36 +44,36 @@ This continent is also refered to as
 
 Features and Landmarks:
 
--   [Stonehenge](Stonehenge "wikilink")
--   Ishundar Canyon
+- [Stonehenge](Stonehenge "wikilink")
+- Ishundar Canyon
 
 ## Base Facilities
 
 ### Amp Stations
 
--   [Enkidu](Enkidu "wikilink")
+- [Enkidu](Enkidu "wikilink")
 
 ### Bio Laboratories
 
--   [Dagon](Dagon "wikilink")
--   [Hanish](Hanish "wikilink")
--   [Lahar](Lahar "wikilink")
--   [Zaqar](Zaqar "wikilink")
+- [Dagon](Dagon "wikilink")
+- [Hanish](Hanish "wikilink")
+- [Lahar](Lahar "wikilink")
+- [Zaqar](Zaqar "wikilink")
 
 ### Dropship Centers
 
--   [Akkan](Akkan "wikilink")
+- [Akkan](Akkan "wikilink")
 
 ### Interlink Facilities
 
--   [Irkalla](Irkalla "wikilink")
--   [Neti](Neti "wikilink")
+- [Irkalla](Irkalla "wikilink")
+- [Neti](Neti "wikilink")
 
 ### Technology Plants
 
--   [Baal](Baal "wikilink")
--   [Girru](Girru "wikilink")
--   [Kusag](Kusag "wikilink")
--   [Marduk](Marduk "wikilink")
+- [Baal](Baal "wikilink")
+- [Girru](Girru "wikilink")
+- [Kusag](Kusag "wikilink")
+- [Marduk](Marduk "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

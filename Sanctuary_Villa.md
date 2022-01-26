@@ -1,4 +1,4 @@
-![](Sancvilla.jpg "fig:Sancvilla.jpg") [Sanctuary](Sanctuary "wikilink")
+![](images/Sancvilla.jpg "fig:Sancvilla.jpg") [Sanctuary](Sanctuary "wikilink")
 Villa \]\] A Sanctuary Villa is a homebase located near a
 [warpgate](warpgate "wikilink"). Each Villa is made up of 1 [HART
 building](HART_building "wikilink"), 3 [Respawn

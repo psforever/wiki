@@ -1,7 +1,7 @@
-![](bolt.jpg "bolt.jpg")
+![](images/bolt.jpg "bolt.jpg")
 
 |                          |                                                                                                |
-|--------------------------|------------------------------------------------------------------------------------------------|
+| ------------------------ | ---------------------------------------------------------------------------------------------- |
 | **Used by**              | [Bolt Driver](Bolt_Driver "wikilink"), [Heavy Scout Rifle](Heavy_Scout_Rifle "wikilink") (HSR) |
 | **Empire**               | [Common Pool](Common_Pool "wikilink")                                                          |
 | **Inventory dimensions** | 3x3                                                                                            |

@@ -1,4 +1,4 @@
-![](NC_Peregrine.jpg "fig:NC_Peregrine.jpg") Peregrine with dual
+![](images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg") Peregrine with dual
 [Anti-Tank Machine Guns](Anti-Tank_Machine_Gun "wikilink") and a
 [Particle Cannon](Particle_Cannon "wikilink")\]\]
 
@@ -23,19 +23,19 @@ The Flight Variant of the Peregrine is the [Eagle](Eagle "wikilink").
 
 The pilot weapons available to the Peregrine are:
 
--   The [Hammer](Hammer "wikilink") (Anti-Infantry)
--   The [Sparrow](Sparrow_(BFR) "wikilink") Missile Pod (Anti-Aircraft)
--   The [Anti-Tank Machine Gun](Anti-Tank_Machine_Gun "wikilink")
-    (Anti-Vehicular)
--   The [NTU Siphon](NTU_Siphon "wikilink")
--   The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
+- The [Hammer](Hammer "wikilink") (Anti-Infantry)
+- The [Sparrow](<Sparrow_(BFR)> "wikilink") Missile Pod (Anti-Aircraft)
+- The [Anti-Tank Machine Gun](Anti-Tank_Machine_Gun "wikilink")
+  (Anti-Vehicular)
+- The [NTU Siphon](NTU_Siphon "wikilink")
+- The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
 
 The pilot can equip two of these weapons, in any combination.
 Additionally, it is possible to manually deactivate one of the weapons,
 using them one at a time (one weapon must always remain active,
 however).
 
-![](Peregrine_VS.jpg "fig:Peregrine_VS.jpg")-[jacked](jack "wikilink")
+![](images/Peregrine_VS.jpg "fig:Peregrine_VS.jpg")-[jacked](jack "wikilink")
 Peregrine, operating with a full crew of pilot and gunner. Equipped with
 two [Hammers](Hammer "wikilink") and a [Particle
 Cannon](Particle_Cannon "wikilink")\]\]
@@ -44,8 +44,8 @@ Cannon](Particle_Cannon "wikilink")\]\]
 
 The gunner weapons available to the Peregrine are
 
--   The [Particle Cannon](Particle_Cannon "wikilink") (Anti-Vehicular)
--   The [Rocket Pod](Rocket_Pod_(BFR) "wikilink") (Anti-Infantry)
+- The [Particle Cannon](Particle_Cannon "wikilink") (Anti-Vehicular)
+- The [Rocket Pod](<Rocket_Pod_(BFR)> "wikilink") (Anti-Infantry)
 
 Only one gunner weapon can be used at a time.
 

@@ -1,4 +1,4 @@
-![](TroopTunnel.jpg "fig:TroopTunnel.jpg") in
+![](images/TroopTunnel.jpg "fig:TroopTunnel.jpg") in
 [Supai](Supai "wikilink")\]\]
 
 Troop Tunnels are narrow passageways in [Caverns](Cavern "wikilink")

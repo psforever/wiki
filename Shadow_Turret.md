@@ -1,7 +1,7 @@
-![](ShadowTurret.jpg "ShadowTurret.jpg")
+![](images/ShadowTurret.jpg "ShadowTurret.jpg")
 
 |                            |                                                                                                                              |
-|----------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Fortification Engineering](Fortification_Engineering "wikilink") or [Advanced Engineering](Advanced_Engineering "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                        |
 | **Primary Mode**           | Shadow Turret                                                                                                                |

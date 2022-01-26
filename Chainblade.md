@@ -1,7 +1,7 @@
-![](Chainblade.jpg "Chainblade.jpg")
+![](images/Chainblade.jpg "Chainblade.jpg")
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault "wikilink") |
 | **Empire**                 | [Terran Republic](Terran_Republic "wikilink")   |
 | **Primary Mode**           | Slash                                           |

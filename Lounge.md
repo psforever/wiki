@@ -1,4 +1,4 @@
-![](TRLounge.jpg "fig:TRLounge.jpg") Lounge\]\] Sometimes called the
+![](images/TRLounge.jpg "fig:TRLounge.jpg") Lounge\]\] Sometimes called the
 Kitchen, this room is typically adjacent to the [respawn
 room](respawn_room "wikilink") in a [facility](facilities "wikilink").
 

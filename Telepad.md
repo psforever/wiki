@@ -1,9 +1,9 @@
-![](Telepad.jpg "fig:Telepad.jpg")
-![](Telepad_deployed.jpg "fig:Telepad_deployed.jpg") telepad with its
+![](images/Telepad.jpg "fig:Telepad.jpg")
+![](images/Telepad_deployed.jpg "fig:Telepad_deployed.jpg") telepad with its
 [Router](Router "wikilink") in the background\]\]
 
 |                            |                                                                  |
-|----------------------------|------------------------------------------------------------------|
+| -------------------------- | ---------------------------------------------------------------- |
 | **Certification Required** | None                                                             |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                            |
 | **Primary Mode**           | Deploy                                                           |

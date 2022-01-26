@@ -1,20 +1,20 @@
-![](Main_Term.jpg "Main_Term.jpg")
+![](images/Main_Term.jpg "Main_Term.jpg")
 
 The **Main terminal** of each [Facility](Facility "wikilink") is located
 in the [main lobby](main_lobby "wikilink").
 
 For Squad/Platoon Leaders the Main terminal can be used to:
 
--   [Recall](Recall "wikilink") your [Squad](Squad "wikilink") to
-    [Sanctuary](Sanctuary "wikilink") (Must be [Squad
-    Leader](Squad_Leader "wikilink"))
--   Recall your [Platoon](Platoon "wikilink") to Sanctuary (Must be
-    [Platoon Leader](Platoon_Leader "wikilink"))
--   Set Squad's [Home Base](Squad_Home_Base "wikilink") (Must be Squad
-    Leader)
--   Set Platoon's Home Base (Must be Platoon Leader)
--   Recall Squad to Home Base (Must be Squad Leader)
--   Recall Platoon to Home Base (Must be Platoon Leader)
+- [Recall](Recall "wikilink") your [Squad](Squad "wikilink") to
+  [Sanctuary](Sanctuary "wikilink") (Must be [Squad
+  Leader](Squad_Leader "wikilink"))
+- Recall your [Platoon](Platoon "wikilink") to Sanctuary (Must be
+  [Platoon Leader](Platoon_Leader "wikilink"))
+- Set Squad's [Home Base](Squad_Home_Base "wikilink") (Must be Squad
+  Leader)
+- Set Platoon's Home Base (Must be Platoon Leader)
+- Recall Squad to Home Base (Must be Squad Leader)
+- Recall Platoon to Home Base (Must be Platoon Leader)
 
 Players certed in the [Data Corruption](Data_Corruption "wikilink")
 [certification](certification "wikilink") can hack into the Main

@@ -1,19 +1,19 @@
-![](Vanguard.jpg "fig:Vanguard.jpg")'s [Medium Battle
+![](images/Vanguard.jpg "fig:Vanguard.jpg")'s [Medium Battle
 Tank](Medium_Battle_Tank "wikilink")\]\]
-![](Vanguards.jpg "fig:Vanguards.jpg")\]\]
+![](images/Vanguards.jpg "fig:Vanguards.jpg")\]\]
 
-|                            |                                                                                                                          |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| **Type**                   | [Medium Battle Tank](Medium_Battle_Tank "wikilink")                                                                      |
-| **Role**                   | Attack                                                                                                                   |
-| **Certification Required** | [Armored Assault I](Armored_Assault_I "wikilink") and [Armored Assault II](Armored_Assault_II "wikilink")                |
-| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                          |
-| **Primary Weapon**         | 150mm Cannon                                                                                                             |
-| **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                   |
-| **Ammunition**             | [150mm Tank Shells](Tank_Shell_(150mm) "wikilink") and [Recoilless Cannon Bullets](Recoilless_Cannon_Bullets "wikilink") |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                                    |
-| **Handling**               | Average                                                                                                                  |
-| **Top speed**              | 60 kph                                                                                                                   |
+|                            |                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | [Medium Battle Tank](Medium_Battle_Tank "wikilink")                                                                        |
+| **Role**                   | Attack                                                                                                                     |
+| **Certification Required** | [Armored Assault I](Armored_Assault_I "wikilink") and [Armored Assault II](Armored_Assault_II "wikilink")                  |
+| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                            |
+| **Primary Weapon**         | 150mm Cannon                                                                                                               |
+| **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                     |
+| **Ammunition**             | [150mm Tank Shells](<Tank_Shell_(150mm)> "wikilink") and [Recoilless Cannon Bullets](Recoilless_Cannon_Bullets "wikilink") |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                                      |
+| **Handling**               | Average                                                                                                                    |
+| **Top speed**              | 60 kph                                                                                                                     |
 
 **Vanguard**
 
@@ -32,7 +32,7 @@ to be purchasable.
 Shots to kill (with 150mm Cannon only):
 
 |                                   |          |
-|-----------------------------------|----------|
+| --------------------------------- | -------- |
 | [Lightning](Lightning "wikilink") | 4 shots  |
 | [Prowler](Prowler "wikilink")     | 10 shots |
 | [Magrider](Magrider "wikilink")   | 8 shots  |

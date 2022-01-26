@@ -1,4 +1,4 @@
-![](EagleFV.jpg "fig:EagleFV.jpg") [Eagle](Eagle "wikilink")\]\] The
+![](images/EagleFV.jpg "fig:EagleFV.jpg") [Eagle](Eagle "wikilink")\]\] The
 **Eagle** is the flight variant of [BattleFrame
 Robotics](BattleFrame_Robotics "wikilink") developed by the [New
 Conglomerate](New_Conglomerate "wikilink").
@@ -27,12 +27,12 @@ attack.
 
 The pilot weapons available to the Eagle are
 
--   The [Hammer](Hammer "wikilink") (Anti-Infantry)
--   The [Sparrow](Sparrow_(BFR) "wikilink") Missile Pod (Anti-Aircraft)
--   The [Anti-Tank Machine Gun](Anti-Tank_Machine_Gun "wikilink")
-    (Anti-Vehicular)
--   The [NTU Siphon](NTU_Siphon "wikilink")
--   The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
+- The [Hammer](Hammer "wikilink") (Anti-Infantry)
+- The [Sparrow](<Sparrow_(BFR)> "wikilink") Missile Pod (Anti-Aircraft)
+- The [Anti-Tank Machine Gun](Anti-Tank_Machine_Gun "wikilink")
+  (Anti-Vehicular)
+- The [NTU Siphon](NTU_Siphon "wikilink")
+- The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
 
 The pilot can equip two of these weapons, in any combination.
 Additionally, it is possible to manually deactivate one of the weapons,

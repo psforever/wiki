@@ -1,4 +1,4 @@
-![](Equip_Term.jpg "Equip_Term.jpg")
+![](images/Equip_Term.jpg "Equip_Term.jpg")
 
 **Equipment terminals** provide troops with
 [weapons](Weapons_Index "wikilink"), ammunition,

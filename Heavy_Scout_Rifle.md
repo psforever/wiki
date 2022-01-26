@@ -1,7 +1,7 @@
-![](HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
+![](images/HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | [Sniping](Sniping "wikilink")         |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") |
 | **Primary Mode**           | Semi-Automatic                        |
@@ -34,7 +34,7 @@ may obtain it by purchasing the [Sniping](Sniping "wikilink")
 Shots to kill:
 
 |                                                       |          |
-|-------------------------------------------------------|----------|
+| ----------------------------------------------------- | -------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 3 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 4 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 5 shots  |

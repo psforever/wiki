@@ -1,7 +1,7 @@
-![](Lancer.jpg "fig:Lancer.jpg") Soldier firing a Lancer\]\]
+![](images/Lancer.jpg "fig:Lancer.jpg") Soldier firing a Lancer\]\]
 
 |                            |                                                   |
-|----------------------------|---------------------------------------------------|
+| -------------------------- | ------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular "wikilink")       |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty "wikilink")   |
 | **Primary Mode**           | Energy Beam                                       |
@@ -30,7 +30,7 @@ Cell](Energy_Cell "wikilink") ammo.
 Shots to kill:
 
 |                                   |             |
-|-----------------------------------|-------------|
+| --------------------------------- | ----------- |
 | [MAX](MAX "wikilink")             | 6 shots     |
 | [Lightning](Lightning "wikilink") | 9 shots     |
 | [Prowler](Prowler "wikilink")     | 22(?) shots |

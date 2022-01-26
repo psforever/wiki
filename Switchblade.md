@@ -1,10 +1,10 @@
-![](SwitchbladePicture.jpg "fig:SwitchbladePicture.jpg") Switchblade\]\]
+![](images/SwitchbladePicture.jpg "fig:SwitchbladePicture.jpg") Switchblade\]\]
 
 |                            |                                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------------------- |
 | **Type**                   | Rapid Assault                                                                   |
 | **Role**                   | Rapid Response/Escort                                                           |
-| **Certification Required** | [Switchblade](Switchblade_(Certification) "wikilink")                           |
+| **Certification Required** | [Switchblade](<Switchblade_(Certification)> "wikilink")                         |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") ([Ancient-Tech](Ancient-Tech "wikilink")) |
 | **Primary Weapon**         | Forward firing Scythe Energy Cannon                                             |
 | **Deployed**               | 360 degrees firing Scythe Energy Cannon with increased Rate of Fire             |

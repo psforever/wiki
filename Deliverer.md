@@ -1,8 +1,8 @@
-![](Deliverer.jpg "fig:Deliverer.jpg")
-![](DelivererPicture.jpg "fig:DelivererPicture.jpg") Deliverer\]\]
+![](images/Deliverer.jpg "fig:Deliverer.jpg")
+![](images/DelivererPicture.jpg "fig:DelivererPicture.jpg") Deliverer\]\]
 
 |                            |                                                                   |
-|----------------------------|-------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------- |
 | **Type**                   | Medium Transport                                                  |
 | **Role**                   | Medium Troop Transport                                            |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink")                   |

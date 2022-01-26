@@ -1,7 +1,7 @@
-![](Magrider.jpg "Magrider.jpg")
+![](images/Magrider.jpg "Magrider.jpg")
 
 |                            |                                                                                                           |
-|----------------------------|-----------------------------------------------------------------------------------------------------------|
+| -------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Type**                   | [Medium Battle Tank](Medium_Battle_Tank "wikilink")                                                       |
 | **Role**                   | Attack                                                                                                    |
 | **Certification Required** | [Armored Assault I](Armored_Assault_I "wikilink") and [Armored Assault II](Armored_Assault_II "wikilink") |
@@ -41,7 +41,7 @@ to be purchasable.
 Shots to kill (with Heavy Rail Beam only):
 
 |                                   |          |
-|-----------------------------------|----------|
+| --------------------------------- | -------- |
 | [Lightning](Lightning "wikilink") | 8 shots  |
 | [Prowler](Prowler "wikilink")     | 21 shots |
 | [Vanguard](Vanguard "wikilink")   | 21 shots |
@@ -55,7 +55,7 @@ Tactics
 
 </H3>
 
--   [Magrider Guide by Quovatis](Magrider_Guide_by_Quovatis "wikilink")
+- [Magrider Guide by Quovatis](Magrider_Guide_by_Quovatis "wikilink")
 
 [category:Vehicles](category:Vehicles "wikilink") [category:Ground
 Vehicles](category:Ground_Vehicles "wikilink") [category:Vanu

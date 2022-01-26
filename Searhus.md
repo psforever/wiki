@@ -1,10 +1,10 @@
-![](SearhusMap.jpg "fig:SearhusMap.jpg")
-![](Searhus_Terrain.jpg "fig:Searhus_Terrain.jpg")
+![](images/SearhusMap.jpg "fig:SearhusMap.jpg")
+![](images/Searhus_Terrain.jpg "fig:Searhus_Terrain.jpg")
 
 ## Continental Data
 
 |                                          |                                                                             |
-|------------------------------------------|-----------------------------------------------------------------------------|
+| ---------------------------------------- | --------------------------------------------------------------------------- |
 | Category:                                | Heavy Vulcanism                                                             |
 | Climate:                                 | Tropical                                                                    |
 | Landmass:                                | Continent                                                                   |
@@ -30,7 +30,7 @@ keep those bases secure, the facilities on the rim of the caldera should
 be secured as well. Beware the lava pools! They are extremely
 unforgiving.
 
-------------------------------------------------------------------------
+---
 
 --source: Planetside In-game descriptions, pre- and
 post-[Bending](Bending "wikilink").
@@ -39,31 +39,31 @@ post-[Bending](Bending "wikilink").
 
 ### [Amp Stations](Amp_Station "wikilink")
 
--   [Matagi](Matagi "wikilink")
--   [Pele](Pele "wikilink")
--   [Rehua](Rehua "wikilink")
+- [Matagi](Matagi "wikilink")
+- [Pele](Pele "wikilink")
+- [Rehua](Rehua "wikilink")
 
 ### [Bio Laboratories](Bio_Laboratories "wikilink")
 
--   [Akua](Akua "wikilink")
--   [Drakulu](Drakulu "wikilink")
--   [Hiro](Hiro "wikilink")
--   [Iva](Iva "wikilink")
+- [Akua](Akua "wikilink")
+- [Drakulu](Drakulu "wikilink")
+- [Hiro](Hiro "wikilink")
+- [Iva](Iva "wikilink")
 
 ### [Dropship Centers](Dropship_Center "wikilink")
 
--   [Sina](Sina "wikilink")
+- [Sina](Sina "wikilink")
 
 ### [Interlink Facilities](Interlink_Facilities "wikilink")
 
--   [Laka](Laka "wikilink")
--   [Oro](Oro "wikilink")
--   [Wakea](Wakea "wikilink")
+- [Laka](Laka "wikilink")
+- [Oro](Oro "wikilink")
+- [Wakea](Wakea "wikilink")
 
 ### [Technology Plants](Technology_Plant "wikilink")
 
--   [Karihi](Karihi "wikilink")
--   [Ngaru](Ngaru "wikilink")
--   [Tara](Tara "wikilink")
+- [Karihi](Karihi "wikilink")
+- [Ngaru](Ngaru "wikilink")
+- [Tara](Tara "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

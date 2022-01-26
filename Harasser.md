@@ -1,19 +1,19 @@
-![](harasser.jpg "harasser.jpg")
+![](images/harasser.jpg "harasser.jpg")
 
-|                            |                                                                                                                                     |
-|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| **Type**                   | Light Assault Buggy                                                                                                                 |
-| **Role**                   | Attack/Defense                                                                                                                      |
-| **Certification Required** | [Harasser](Harasser_(Certification) "wikilink"), [Assault Buggy](Assault_Buggy "wikilink") or [Light Scout](Light_Scout "wikilink") |
-| **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                               |
-| **Primary Weapon**         | [12mm](12mm "wikilink") rotary chaingun                                                                                             |
-| **Secondary Weapon**       | \-                                                                                                                                  |
-| **Ammunition Used**        | [Rotary Chaingun Bullets](Rotary_Chaingun_Bullets "wikilink")                                                                       |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                                               |
-| **Handling**               | Excellent                                                                                                                           |
-| **Top speed**              | 85 kph                                                                                                                              |
-| **Defense**                | 1250 AV                                                                                                                             |
-| **Maximum Driver Equip**   | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink")                                                                               |
+|                            |                                                                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Light Assault Buggy                                                                                                                   |
+| **Role**                   | Attack/Defense                                                                                                                        |
+| **Certification Required** | [Harasser](<Harasser_(Certification)> "wikilink"), [Assault Buggy](Assault_Buggy "wikilink") or [Light Scout](Light_Scout "wikilink") |
+| **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                                 |
+| **Primary Weapon**         | [12mm](12mm "wikilink") rotary chaingun                                                                                               |
+| **Secondary Weapon**       | \-                                                                                                                                    |
+| **Ammunition Used**        | [Rotary Chaingun Bullets](Rotary_Chaingun_Bullets "wikilink")                                                                         |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                                                 |
+| **Handling**               | Excellent                                                                                                                             |
+| **Top speed**              | 85 kph                                                                                                                                |
+| **Defense**                | 1250 AV                                                                                                                               |
+| **Maximum Driver Equip**   | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink")                                                                                 |
 
 **Harasser**
 

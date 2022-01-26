@@ -1,10 +1,10 @@
-![](Basilisk.jpg "Basilisk.jpg")
+![](images/Basilisk.jpg "Basilisk.jpg")
 
 |                            |                                                               |
-|----------------------------|---------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------- |
 | **Type**                   | ATV                                                           |
 | **Role**                   | Rapid Response/Escort                                         |
-| **Certification Required** | [ATV](ATV_(Certification) "wikilink")                         |
+| **Certification Required** | [ATV](<ATV_(Certification)> "wikilink")                       |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                         |
 | **Primary Weapon**         | 2 12mm Rotary Chainguns                                       |
 | **Secondary Weapon**       | \-                                                            |

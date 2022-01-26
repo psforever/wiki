@@ -1,7 +1,7 @@
-![](Lodestar.jpg "Lodestar.jpg")
+![](images/Lodestar.jpg "Lodestar.jpg")
 
 |                            |                                                             |
-|----------------------------|-------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------- |
 | **Type**                   | Vehicle Transport                                           |
 | **Role**                   | Vehicle Transport/Mobile Repair                             |
 | **Certification Required** | [Air Support](Air_Support "wikilink")                       |
@@ -14,7 +14,7 @@
 
 **Lodestar**
 
-![](Lodestar_NC.jpg "fig:Lodestar_NC.jpg") Lodestar carries an
+![](images/Lodestar_NC.jpg "fig:Lodestar_NC.jpg") Lodestar carries an
 [AMS](AMS "wikilink")\]\] The **Lodestar** is a massive, shoebox shaped
 aircraft designed to carry any vehicle and also act as a remote
 repair/rearm station. Infantry may not be directly transported by the

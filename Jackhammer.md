@@ -1,8 +1,8 @@
-![](PSScreenShot0243.jpg "fig:PSScreenShot0243.jpg") Soldier carrying a
+![](images/PSScreenShot0243.jpg "fig:PSScreenShot0243.jpg") Soldier carrying a
 Jackhammer\]\]
 
 |                            |                                                                                                                      |
-|----------------------------|----------------------------------------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](Heavy_Assault "wikilink")                                                                            |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                      |
 | **Primary Mode**           | Single Shot                                                                                                          |
@@ -28,7 +28,7 @@ must be reloaded.
 Shots to kill (Close to Medium Range):
 
 |                                                       |                                          |
-|-------------------------------------------------------|------------------------------------------|
+| ----------------------------------------------------- | ---------------------------------------- |
 | [Standard Exo-Suit](Standard_Exo-Suit "wikilink")     | 2-3 shots                                |
 | [Agile Exo-Suit](Agile_Exo-Suit "wikilink")           | 3-5 shots                                |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink") | 4-6 shots                                |

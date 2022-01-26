@@ -1,8 +1,8 @@
-![](PSScreenShot0249.jpg "fig:PSScreenShot0249.jpg") Soldier with a
+![](images/PSScreenShot0249.jpg "fig:PSScreenShot0249.jpg") Soldier with a
 Phoenix Missile Launcher\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular "wikilink")     |
 | **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink") |
 | **Primary Mode**           | Camera Guided                                   |
@@ -36,7 +36,7 @@ when the target is visible and stationary or in close proximity to the
 Shots to kill:
 
 |                                   |          |
-|-----------------------------------|----------|
+| --------------------------------- | -------- |
 | [MAX](MAX "wikilink")             | 3 shots  |
 | [Lightning](Lightning "wikilink") | 6 shots  |
 | [Prowler](Prowler "wikilink")     | 18 shots |

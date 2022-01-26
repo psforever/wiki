@@ -1,8 +1,8 @@
-![](SpikerPicture.jpg "fig:SpikerPicture.jpg") Soldier is loading his
+![](images/SpikerPicture.jpg "fig:SpikerPicture.jpg") Soldier is loading his
 Spiker\]\]
 
 |                            |                                                                    |
-|----------------------------|--------------------------------------------------------------------|
+| -------------------------- | ------------------------------------------------------------------ |
 | **Certification Required** | [Medium Assault](Medium_Assault "wikilink")                        |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                              |
 | **Primary Mode**           | Energy Orb                                                         |
@@ -43,7 +43,7 @@ Tactics
 
 </H3>
 
--   [Elana](Elana "wikilink")
+- [Elana](Elana "wikilink")
 
 [Category:Game Items](Category:Game_Items "wikilink")
 [Category:Weapons](Category:Weapons "wikilink") [Category:Common Pool

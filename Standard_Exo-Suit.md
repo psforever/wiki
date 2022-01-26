@@ -1,11 +1,11 @@
-![](PSScreenShot0317.jpg "fig:PSScreenShot0317.jpg") Standard Armor\]\]
-![](NCStandardExoSuit.jpg "fig:NCStandardExoSuit.jpg") Standard
-Armor\]\] ![](VS_Standards.jpg "fig:VS_Standards.jpg") [Standard
+![](images/PSScreenShot0317.jpg "fig:PSScreenShot0317.jpg") Standard Armor\]\]
+![](images/NCStandardExoSuit.jpg "fig:NCStandardExoSuit.jpg") Standard
+Armor\]\] ![](images/VS_Standards.jpg "fig:VS_Standards.jpg") [Standard
 Exo-Suit](Standard_Exo-Suit "wikilink") at, from left to right, [Battle
 Rank](Battle_Rank "wikilink") 1, 7 and 14.\]\]
 
 |                            |                                       |
-|----------------------------|---------------------------------------|
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | None                                  |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink") |
 | **Armor**                  | 50                                    |

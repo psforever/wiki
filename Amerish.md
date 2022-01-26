@@ -1,11 +1,11 @@
-![](AmerishContinentMap.jpg "AmerishContinentMap.jpg")
+![](images/AmerishContinentMap.jpg "AmerishContinentMap.jpg")
 
 ## Continental Data
 
-![](Amerish_Terrain.jpg "Amerish_Terrain.jpg")
+![](images/Amerish_Terrain.jpg "Amerish_Terrain.jpg")
 
 |                   |                                                                   |
-|-------------------|-------------------------------------------------------------------|
+| ----------------- | ----------------------------------------------------------------- |
 | Category:         | Gas Giant Moon                                                    |
 | Climate:          | Temperate                                                         |
 | Landmass:         | Continent                                                         |
@@ -39,7 +39,7 @@ sanctuary links.
 This continent is also refered to as
 [Amer](Acronyms_and_Slang "wikilink").
 
-------------------------------------------------------------------------
+---
 
 --source: Planetside In-game descriptions, pre- and post-Bending.
 
@@ -47,29 +47,29 @@ This continent is also refered to as
 
 ### Amp Stations
 
--   [Verica](Verica "wikilink") ([Capitol](Capitol "wikilink"))
--   [Sungrey](Sungrey "wikilink")
+- [Verica](Verica "wikilink") ([Capitol](Capitol "wikilink"))
+- [Sungrey](Sungrey "wikilink")
 
 ### Bio Laboratories
 
--   [Ikanam](Ikanam "wikilink")
--   [Kyoi](Kyoi "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
--   [Onatha](Onatha "wikilink")
--   [Xelas](Xelas "wikilink") (Sub-Capitol)
+- [Ikanam](Ikanam "wikilink")
+- [Kyoi](Kyoi "wikilink") ([Sub-Capitol](Sub-Capitol "wikilink"))
+- [Onatha](Onatha "wikilink")
+- [Xelas](Xelas "wikilink") (Sub-Capitol)
 
 ### Dropship Centers
 
--   [Azeban](Azeban "wikilink")
+- [Azeban](Azeban "wikilink")
 
 ### Interlink Facilities
 
--   [Cetan](Cetan "wikilink") (Sub-Capitol)
--   [Qumu](Qumu "wikilink") (Sub-Capitol)
+- [Cetan](Cetan "wikilink") (Sub-Capitol)
+- [Qumu](Qumu "wikilink") (Sub-Capitol)
 
 ### Technology Plants
 
--   [Heyoka](Heyoka "wikilink")
--   [Mekala](Mekala "wikilink")
--   [Tumas](Tumas "wikilink")
+- [Heyoka](Heyoka "wikilink")
+- [Mekala](Mekala "wikilink")
+- [Tumas](Tumas "wikilink")
 
 [Category:Locations](Category:Locations "wikilink")

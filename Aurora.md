@@ -1,7 +1,7 @@
-![](VSAurora.jpg "fig:VSAurora.jpg") Aurora\]\]
+![](images/VSAurora.jpg "fig:VSAurora.jpg") Aurora\]\]
 
 |                            |                                                 |
-|----------------------------|-------------------------------------------------|
+| -------------------------- | ----------------------------------------------- |
 | **Type**                   | Medium Transport                                |
 | **Role**                   | Medium Troop Transport                          |
 | **Certification Required** | [Ground Transport](Ground_Transport "wikilink") |

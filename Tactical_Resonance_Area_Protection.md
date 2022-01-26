@@ -1,7 +1,7 @@
-![](TRAP.jpg "fig:TRAP.jpg") entrace\]\]
+![](images/TRAP.jpg "fig:TRAP.jpg") entrace\]\]
 
 |                            |                                                                   |
-|----------------------------|-------------------------------------------------------------------|
+| -------------------------- | ----------------------------------------------------------------- |
 | **Certification Required** | [Fortification Engineering](Fortification_Engineering "wikilink") |
 | **Empire**                 | [Common Pool](Common_Pool "wikilink")                             |
 | **Primary Mode**           | TRAP                                                              |

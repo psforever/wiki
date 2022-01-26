@@ -1,4 +1,4 @@
-![](AphelionPicture.jpg "fig:AphelionPicture.jpg")'s Gunner Variant
+![](images/AphelionPicture.jpg "fig:AphelionPicture.jpg")'s Gunner Variant
 [BFR](BFR "wikilink")\]\]
 
 The Aphelion is the gunner variant of [BattleFrame
@@ -22,13 +22,13 @@ The Flight Variant of the Aphelion is the [Eclipse](Eclipse "wikilink").
 
 The Pilot Weapons that the Aphelion can obtain are
 
--   The [Continuous Laser](Continuous_Laser "wikilink") (Anti-Infantry)
--   The [Pulsed Particle
-    Accelerator](Pulsed_Particle_Accelerator_(BFR) "wikilink")
-    (Anti-Vehicular)
--   The [Starfire](Starfire_(BFR) "wikilink") (Anti-Aircraft)
--   The [NTU Siphon](NTU_Siphon "wikilink")
--   The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
+- The [Continuous Laser](Continuous_Laser "wikilink") (Anti-Infantry)
+- The [Pulsed Particle
+  Accelerator](<Pulsed_Particle_Accelerator_(BFR)> "wikilink")
+  (Anti-Vehicular)
+- The [Starfire](<Starfire_(BFR)> "wikilink") (Anti-Aircraft)
+- The [NTU Siphon](NTU_Siphon "wikilink")
+- The [Armor Siphon](Armor_Siphon "wikilink") (Anti-Vehicular)
 
 The pilot has room for two such weapons at a time and can be two of the
 same weapon, or two different weapons.
@@ -37,15 +37,15 @@ same weapon, or two different weapons.
 
 The gunner weapons available to the Aphelion are
 
--   The [Immolation Cannon](Immolation_Cannon "wikilink")
-    (Anti-Vehicular)
--   The[Plasma Mortars](Plasma_Mortar "wikilink") (Anti-Infantry)
+- The [Immolation Cannon](Immolation_Cannon "wikilink")
+  (Anti-Vehicular)
+- The[Plasma Mortars](Plasma_Mortar "wikilink") (Anti-Infantry)
 
 Only one gunner weapon can be used at a time.
 
 ## History
 
-![](Aphelions.jpg "fig:Aphelions.jpg")\]\] The currently-fielded unit
+![](images/Aphelions.jpg "fig:Aphelions.jpg")\]\] The currently-fielded unit
 named "Aphelion" varies from the pictured unit. When introduced, the
 two-man version of the [VS](VS "wikilink") battleframe was named the
 **Orion**. It was renamed "Aphelion" in patch [3.2.6](3.2.6 "wikilink"),

@@ -1,18 +1,18 @@
 # Introduction to Merit Commendations
 
-![](Achievements_pane.jpg "Achievements_pane.jpg")
+![](images/Achievements_pane.jpg "Achievements_pane.jpg")
 
 Merit Commendations are awards for certain activities done within the
 game. This includes:
 
--   Kills using certain [weapons](weapon "wikilink") or
-    [vehicles](vehicle "wikilink")
--   Destroying a specific kind of unit
--   Kills under certain circumstances
--   Supporting/Assisting other players
--   Visiting certain locations
--   Attending events
--   [Jacking](Jack "wikilink") vehicles
+- Kills using certain [weapons](weapon "wikilink") or
+  [vehicles](vehicle "wikilink")
+- Destroying a specific kind of unit
+- Kills under certain circumstances
+- Supporting/Assisting other players
+- Visiting certain locations
+- Attending events
+- [Jacking](Jack "wikilink") vehicles
 
 Merits are displayed in the player pane under the "Achievements" tab.
 This window shows both the Merits you are displaying, and the Merits you
@@ -46,28 +46,28 @@ At present, there are six categories of Merit Commendations:
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](SupportMeritThumb.png "fig:SupportMeritThumb.png")\]\]
+![](images/SupportMeritThumb.png "fig:SupportMeritThumb.png")\]\]
 
 </td>
 <td width="170" align="center" valign="top">
 
 <b></b>
-![](VehMeritThumb.png "fig:VehMeritThumb.png")\]\] <b></b>
-![](DefenseMeritThumb.png "fig:DefenseMeritThumb.png")\]\]
+![](images/VehMeritThumb.png "fig:VehMeritThumb.png")\]\] <b></b>
+![](images/DefenseMeritThumb.png "fig:DefenseMeritThumb.png")\]\]
 
 </td>
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](WeaponryMeritThumb2.png "fig:WeaponryMeritThumb2.png")\]\]
+![](images/WeaponryMeritThumb2.png "fig:WeaponryMeritThumb2.png")\]\]
 
 </td>
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](ActivityMeritThumbnail_copy.png "fig:ActivityMeritThumbnail_copy.png")\]\]
+![](images/ActivityMeritThumbnail_copy.png "fig:ActivityMeritThumbnail_copy.png")\]\]
 <b></b>
-![](Exclusive_Merit_Commendation.png "fig:Exclusive_Merit_Commendation.png")\]\]
+![](images/Exclusive_Merit_Commendation.png "fig:Exclusive_Merit_Commendation.png")\]\]
 
 </td>
 </tr>
@@ -88,9 +88,9 @@ merit, and then a streak to complete it.
 Said streaks require you to kill a certain amount of people without
 dying.
 
--   Example:
+- Example:
 
-The [Heavy Assault](Heavy_Assault_(Merit) "wikilink") Platinum Merit
+The [Heavy Assault](<Heavy_Assault_(Merit)> "wikilink") Platinum Merit
 Commendation requires 8,000 kills to Qualify for it. After you have
 achieved those 8,000 kills the game will flag you as Qualified and you
 will have to kill 12 Enemy Soldiers ([Unique
@@ -107,9 +107,9 @@ If you are working on a streak for a Merit, which requires 5 kills and
 you die after getting 4 Streak kills, those 4 kills will count towards
 the next level of the Merit that you are working on.
 
--   Example:
+- Example:
 
-You are working on [Basic Weapons](Basic_Weapons_(Merit) "wikilink")
+You are working on [Basic Weapons](<Basic_Weapons_(Merit)> "wikilink")
 Silver streak, which requires 4 kills and it takes you 50 kills until
 you finally get 4 in one life, then you will only have to get 50 kills
 to qualify for Basic Weapons Gold, instead of 100.
@@ -120,26 +120,26 @@ Kill Assists are kills that a Friendly Soldier made after you Supported
 him. You can Support someone and gain Kill Assists and Support
 Experience Points through one of the following activities:
 
--   Healing another Soldier
--   Repairing another Soldier or [Vehicle](Vehicle "wikilink") with
-    either a [Nano Dispenser](Nano_Dispenser "wikilink"),
-    [BANK](BANK "wikilink") or [Lodestar](Lodestar "wikilink")
--   [Reviving](revive "wikilink") another Soldier
--   Hacking a Terminal or [Locker](Locker "wikilink") or providing an
-    [AMS](AMS "wikilink") Terminal or Lodestar for others to obtain
-    Equipment and/or Ammunition from.
--   Providing an [Advanced Mobile
-    Station](Advanced_Mobile_Station "wikilink") for others to Spawn
-    from.
--   Having Soldiers bail from your [Galaxy](Galaxy "wikilink")
--   Placing or owning a [Router](Router "wikilink")
+- Healing another Soldier
+- Repairing another Soldier or [Vehicle](Vehicle "wikilink") with
+  either a [Nano Dispenser](Nano_Dispenser "wikilink"),
+  [BANK](BANK "wikilink") or [Lodestar](Lodestar "wikilink")
+- [Reviving](revive "wikilink") another Soldier
+- Hacking a Terminal or [Locker](Locker "wikilink") or providing an
+  [AMS](AMS "wikilink") Terminal or Lodestar for others to obtain
+  Equipment and/or Ammunition from.
+- Providing an [Advanced Mobile
+  Station](Advanced_Mobile_Station "wikilink") for others to Spawn
+  from.
+- Having Soldiers bail from your [Galaxy](Galaxy "wikilink")
+- Placing or owning a [Router](Router "wikilink")
 
 Also see:
 
--   [Assist](Assist "wikilink") (For more Details about Kill Assists)
--   [Support Merit
-    Commendations](Support_Merit_Commendations "wikilink") (For more
-    Details about how to obtain the Support Merits and their
-    requirments)
+- [Assist](Assist "wikilink") (For more Details about Kill Assists)
+- [Support Merit
+  Commendations](Support_Merit_Commendations "wikilink") (For more
+  Details about how to obtain the Support Merits and their
+  requirments)
 
 [category:Merits](category:Merits "wikilink")
