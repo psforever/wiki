@@ -1,0 +1,1 @@
+1.  REDIRECT [Laze Pointer](Laze_Pointer "wikilink")

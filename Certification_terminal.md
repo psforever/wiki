@@ -1,0 +1,1 @@
+1.  REDIRECT [Certification Terminal](Certification_Terminal "wikilink")

@@ -1,0 +1,1 @@
+1.  REDIRECT [Interlink](Interlink "wikilink")
