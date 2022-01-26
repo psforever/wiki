@@ -1,1 +1,1 @@
-1.  REDIRECT [BFR Shed](/BFR_Shed "wikilink")
+1.  REDIRECT [BFR Shed](BFR_Shed.md "wikilink")

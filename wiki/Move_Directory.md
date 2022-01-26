@@ -1,10 +1,10 @@
-If you want to install [PlanetSide](/PlanetSide "wikilink") to an
+If you want to install [PlanetSide](PlanetSide.md "wikilink") to an
 alternate location you have a few options.
 
 ## Method One
 
-Fully uninstall [PlanetSide](/PlanetSide "wikilink") &
-[Launchpad](/Launchpad "wikilink") then download the [Grey Falcon
+Fully uninstall [PlanetSide](PlanetSide.md "wikilink") &
+[Launchpad](Launchpad.md "wikilink") then download the [Grey Falcon
 Planetside Installer](http://www.greyfalcon.net/psinstall.exe) then when
 it asks you do you want to install it to the default location click on
 "NO".
@@ -29,4 +29,4 @@ entVersion\\App Paths\\LaunchPad.exe\\
 2\) Type in **"set c:\\program files\\sony\\planetside=_your new
 location_"**
 
-[Category:Game Guides](/Category:Game_Guides "wikilink")
+[Category:Game Guides](Category:Game_Guides.md "wikilink")

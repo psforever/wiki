@@ -1,2 +1,2 @@
 1.  redirect [Battle Experience
-    Points](/Battle_Experience_Points "wikilink")
+    Points](Battle_Experience_Points.md "wikilink")

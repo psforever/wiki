@@ -5,31 +5,31 @@ both the pilot and bombardier be successful and stay alive while
 bombing. I will note that many pilots will tell you something completely
 opposite of what I put in this guide. There might well be better tactics
 out there that work in certain situations, but I have the [Bomber Ace
-Auraxium](/Bomber_Ace "wikilink") merit and this is what has worked for
+Auraxium](Bomber_Ace.md "wikilink") merit and this is what has worked for
 me.
 
 ## Liberator and Vulture Properties
 
 ### Liberator
 
-The [Liberator](/Liberator "wikilink") is the most used bomber and is
-available to anyone with the [Air Support](/Air_Support "wikilink")
-[certification](/certification "wikilink"). The nose gun is a powerful
+The [Liberator](Liberator.md "wikilink") is the most used bomber and is
+available to anyone with the [Air Support](Air_Support.md "wikilink")
+[certification](certification.md "wikilink"). The nose gun is a powerful
 35mm Chaingun that shreds every type of target from infantry to armor to
 aircraft. The bomber seat can drop two types of bombs: Anti-Infantry
 cluster bombs and Anti-Armor tank buster bombs. The tailgun fires
 powerful 25mm rounds that are good on a variety of targets, though best
 used for fending off enemy aircraft. The Liberator lacks an afterburner,
-but can hold one more box of [ammunition](/ammunition "wikilink") than
-the [Vulture](/Vulture "wikilink") in its [trunk](/trunk "wikilink").
+but can hold one more box of [ammunition](ammunition.md "wikilink") than
+the [Vulture](Vulture.md "wikilink") in its [trunk](trunk.md "wikilink").
 
 ### Vulture
 
 The Vulture is a specialized bomber available to those who have the [Air
-Support](/Air_Support "wikilink") certification and also the [Bomber Ace
-Bronze](/Bomber_Ace "wikilink") [Merit
-Commendation](/Merit_Commendation "wikilink"). The nosegun of the vulture
-used the same [35mm Chaingun Bullets](/35mm_Chaingun_Bullets "wikilink")
+Support](Air_Support.md "wikilink") certification and also the [Bomber Ace
+Bronze](Bomber_Ace.md "wikilink") [Merit
+Commendation](Merit_Commendation.md "wikilink"). The nosegun of the vulture
+used the same [35mm Chaingun Bullets](35mm_Chaingun_Bullets.md "wikilink")
 as the Liberator, but fires them more rapidly. The trade-off is the
 damage per shot is much lower and takes a very long time (>5 sec) to
 reload. The bomber seat can drop only Anti-Armor bombs and lacks the
@@ -54,7 +54,7 @@ long as there is cover nearby.
 
 For low altitude bombing you want to fly as low as possible to the
 ground to avoid being seen by the enemy. You want to fly just high
-enough as to not set off any [mines](/ACE#High_Explosive_Mine "wikilink")
+enough as to not set off any [mines](ACE.md#High_Explosive_Mine "wikilink")
 on the ground. Approach your target from the flanks or rear. You only
 want to take enemy fire on your exit and not your entrance. As you
 approach, gain enough height so that the bombing icon is illuminated and
@@ -82,9 +82,9 @@ they don't always see or notice you up there until you start dropping
 bombs. I use this tactic when the enemy is clumped up on a bridge as
 they have nowhere to run except to drown. I also use it if the enemy
 base is at a low altitude and I'm fighting flak weapons ([Wall
-Turrets](/Wall_Turret "wikilink") and [TR](/TR "wikilink")
-[Burster](/Burster "wikilink") [MAXes](/MAX "wikilink"). You're fairly
-safe from [flak](/flak "wikilink") at high altitude unless you fly very
+Turrets](Wall_Turret.md "wikilink") and [TR](TR.md "wikilink")
+[Burster](Burster.md "wikilink") [MAXes](MAX.md "wikilink"). You're fairly
+safe from [flak](flak.md "wikilink") at high altitude unless you fly very
 predictably and the enemy has great skill.
 
 Again you will want to approach from the side or rear so that the enemy
@@ -133,7 +133,7 @@ area to saturate in bombs and making it less likely that someone can
 dodge your pass.
 
 Generally, you want to avoid trying to bomb moving
-[vehicles](/vehicle "wikilink"). But you can always try. Make sure to
+[vehicles](vehicle.md "wikilink"). But you can always try. Make sure to
 lead them enough. You will have to lead them much more than you think,
 and your bombardier needs to understand how to do this too for a
 successful kill.
@@ -156,7 +156,7 @@ facing the tower is the most populated if your empire owns the tower.
 Line up the wall running down its length and lets the bombs fly on
 unsuspecting snipers.
 
-[Wall Turrets](/Wall_Turret "wikilink") can be the most difficult of
+[Wall Turrets](Wall_Turret.md "wikilink") can be the most difficult of
 targets to destroy. Many times your bombardier will overshoot the
 target, making the bombs land past the target on the ground. To minimize
 this risk, it's best to line up wall turrets so that you pass directly
@@ -172,7 +172,7 @@ I've already talked about how to avoid flak fire. Never fly in a
 straight line when taking flak fire and try to find some cover to break
 the line of sight.
 
-Against the [Sparrow](/Sparrow "wikilink") MAX, you need to fly a little
+Against the [Sparrow](Sparrow.md "wikilink") MAX, you need to fly a little
 differently. If you find Sparrow missiles following you, find terrain to
 hide behind immediately. Even a small hole will do sometimes. Dip down
 and STOP in the hole briefly. Wait until all the missiles have hit the
@@ -180,17 +180,17 @@ ground around you, then continue. If you hadn't stopped, you might have
 avoided one or two missiles, but the rest would still have followed and
 hit you.
 
-Against a [Striker](/Striker "wikilink") or
-[Starfire](/Starfire "wikilink") you can either find a tree or terrain to
+Against a [Striker](Striker.md "wikilink") or
+[Starfire](Starfire.md "wikilink") you can either find a tree or terrain to
 break the lock, or simply fly out of its effective range (250m for the
 striker, 350m for the Starfire). If you are flying directly away from
 them at the same altitude, be sure to turn slightly as you reach the
 maximum effective range, as the missiles will still follow their
 previous path and may hit you if you don't change direction slightly.
 
-Against a [Wasp](/Wasp "wikilink") and you are flying low, fly through
+Against a [Wasp](Wasp.md "wikilink") and you are flying low, fly through
 trees as much as possible to break the lock. Flying inside an [Aegis
-Shield Generator](/Aegis_Shield_Generator "wikilink") will also break the
+Shield Generator](Aegis_Shield_Generator.md "wikilink") will also break the
 lock, but you will likely give away its position, so use wisely. At
 altitude, you have less options. Fly towards friendly anti-air units. If
 you have a tailgunner, your best bet is to stop the aircraft and point
@@ -212,14 +212,14 @@ vulture, you can come in, drop some bombs, then afterburn away to
 safety. You won't get as many kills with the Vulture, but you will live
 more, so there is a trade-off that you will have to balance.
 
-The tactics with the [Vulture](/Vulture "wikilink") is almost identical
+The tactics with the [Vulture](Vulture.md "wikilink") is almost identical
 to that of the Liberator. However, you generally want to avoid flying
 high-altitude missions with the Vulture as it takes forever for the
 bombs to reach the ground. The biggest difference is that you need to
 slow down over a target to allow enough bombs to be dropped to kill it.
 You can then quickly accelerate by afterburning away to safety. Due to
 the small splash radius, you must really fly directly over the target. A
-Vulture bomb will only kill a soldier wearing [Rexo](/Rexo "wikilink")
+Vulture bomb will only kill a soldier wearing [Rexo](Rexo.md "wikilink")
 armor if it lands within 1-2 meters of him.
 
 ## Which Bombs to Use
@@ -237,7 +237,7 @@ over a relatively short distance away from the impact.
 Use cluster bombs on large groups of infantry. It will take two bombs to
 kill most infantry. Works best if you strafe as discussed before to
 spread out the damage. The main use of cluster bombs are on
-[BFRs](/BFR "wikilink"). Yes it sounds strange, but cluster bombs
+[BFRs](BFR.md "wikilink"). Yes it sounds strange, but cluster bombs
 actually do more damage to a BFR if its shields are up than a tank
 buster bomb does. It also has a higher probability of damaging critical
 systems. However, if the BFR has no shields, it's best to use tank
@@ -254,7 +254,7 @@ doors as the splash damage will kill enemies inside the door while
 cluster bombs will not. Also use tank buster bombs in heavily forested
 areas as cluster bombs will sometimes explode at tree top level,
 rendering them useless. Of course, tank buster bombs should be used on
-all forms of vehicles, except [BFRs](/BFR "wikilink"), as discussed
+all forms of vehicles, except [BFRs](BFR.md "wikilink"), as discussed
 earlier.
 
 ## Bombardier Information
@@ -278,4 +278,4 @@ closest to you to ensure you will hit it. It's embarrassing to watch all
 mountain, missing completely. The crosshair is accurate most of the
 time, but don't always trust it, especially on steep slopes.
 
-[Category:Strategy](/Category:Strategy "wikilink")
+[Category:Strategy](Category:Strategy.md "wikilink")

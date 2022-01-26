@@ -1,1 +1,1 @@
-1.  REDIRECT [New Conglomerate](/New_Conglomerate "wikilink")
+1.  REDIRECT [New Conglomerate](New_Conglomerate.md "wikilink")

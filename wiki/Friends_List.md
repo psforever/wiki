@@ -5,13 +5,13 @@ before the player name (e.g. emerald.playername).
 
 From the orginzation info window you can select the friends tab.
 
-![The Window](/Interface.gif "The Window")
+![The Window](Interface.md.gif "The Window")
 
 Here the _add_ and **delete** buttons make it easier for you to manage
 friends. The monitor button adds a monitor to your hud.
 
-![The hud](/Hud.gif "The hud")
+![The hud](Hud.md.gif "The hud")
 
-[category:Commands](/category:Commands "wikilink")
+[category:Commands](category:Commands.md "wikilink")
 
-[category:HUD](/category:HUD "wikilink")
+[category:HUD](category:HUD.md "wikilink")

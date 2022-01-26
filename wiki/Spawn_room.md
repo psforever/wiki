@@ -1,1 +1,1 @@
-1.  REDIRECT [Respawn room](/Respawn_room "wikilink")
+1.  REDIRECT [Respawn room](Respawn_room.md "wikilink")

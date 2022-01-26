@@ -1,12 +1,12 @@
 ## ESC Key Options
 
-Recall to Sanctuary : Returns you to your Empire's [Sanctuary](/Sanctuary "wikilink") after a set time: Friendly area, 10s, Neutral area, 20s, Enemy area, 30s.
-Game Options : Opens the [Game Options Window](#Game_Options "wikilink"), allowing you to adjust your Gameplay defaults such as session stats, [HUD](/HUD "wikilink") preferences, and [proximity radar](/Proximity_Map "wikilink") settings.
+Recall to Sanctuary : Returns you to your Empire's [Sanctuary](Sanctuary.md "wikilink") after a set time: Friendly area, 10s, Neutral area, 20s, Enemy area, 30s.
+Game Options : Opens the [Game Options Window](#Game_Options "wikilink"), allowing you to adjust your Gameplay defaults such as session stats, [HUD](HUD.md "wikilink") preferences, and [proximity radar](Proximity_Map.md "wikilink") settings.
 Color Options : Opens the [Color Options Window](#Color_Options "wikilink"), allowing you to change colors for chat channels and name tags.
 Video Options : Opens the [Video Options Window](#Video_Options "wikilink"), allowing you to adjust your Video settings. These changes will be reflected the next time you start PlanetSide.
 Audio Options : Opens the [Audio Options Window](#Audio_Options "wikilink"), allowing you to adjust your Audio settings.
 Key Mappings : Opens the [Keymappings Window](#Keymappings "wikilink"), allowing you to change your control scheme
-[Instant Action](/Instant_Action "wikilink") : When selecting this item, your character will be deployed to a location near a [Hotspot](/Hotspot "wikilink").
+[Instant Action](Instant_Action.md "wikilink") : When selecting this item, your character will be deployed to a location near a [Hotspot](Hotspot.md "wikilink").
 
 ## Video Options
 
@@ -42,7 +42,7 @@ Warpgate Effect : The weird little effect that shows when an object moves throug
 Bullet Holes : If you turn this on, bullet-based weapons will leave holes in the walls. Drawing all those extra decals does impact framerate, but not as much as you'd think. Like the above, it's a matter of whether you want those few extra FPS or not, and remember that you have to turn this on for the Warpgate Effect to show up.
 
 - **Note:** When a large weapon impacts [One-Manned Field
-  Turrets](/One-Manned_Field_Turret "wikilink"), it leaves a black
+  Turrets](One.$1.md "wikilink"), it leaves a black
   "burn" mark. Over time, these build up into a black sheet, which can
   block the vision of the gunner in certain directions. If you gun
   field turrets often, it's best to keep this option off.
@@ -82,13 +82,13 @@ Hide UI : Hides the user interface when taking screenshots.
 Show one Squad per line : When displaying Platoons, put each squad's members on their own line.
 Allow Squad List Overlap : Allow other UI windows to overlap the Squad/Platoon list (to save screen space).
 Auto Reload : If selected, you will automatically reload your weapon if it runs out of ammunition.
-[LFS](/LFS "wikilink") Auto On : If selected, the Looking For Squad (LFS) flag will be automatically set on your character when they enter the world.
-Enable [Map](/Map "wikilink") edge scroll : If selected, you can pan around the overhead map by positioning your mouse cursor near the edge of the map in the direction you want to pan. If not selected, you must click and drag to pan around the map.
+[LFS](LFS.md "wikilink") Auto On : If selected, the Looking For Squad (LFS) flag will be automatically set on your character when they enter the world.
+Enable [Map](Map.md "wikilink") edge scroll : If selected, you can pan around the overhead map by positioning your mouse cursor near the edge of the map in the direction you want to pan. If not selected, you must click and drag to pan around the map.
 Invert Map Mousewheel Zoom : reverses the zoom direction of the mousewheel when viewing the map.
 Show Damage Flash : If selected, the screen flashes red when you take damage.
 Render Names : Determine which names will appear over friendly soldiers and vehicles. Your choices are Player, Player and Outfit, and none.
 Bandwidth Settings : Modem users should pick "Low". Other users should experiment between "Medium" and "High" to see which setting is best.
-[Proximity Radar](/Proximity_Map "wikilink") Range Settings : **Rotate Radar:** If selected, the proximity map will rotate about the player (so the player's arrow always faces up).
+[Proximity Radar](Proximity_Map.md "wikilink") Range Settings : **Rotate Radar:** If selected, the proximity map will rotate about the player (so the player's arrow always faces up).
 **Use Automatic Ranges:** Automatically change the current range of the proximity map.
 
 ## Audio Options
@@ -97,4 +97,4 @@ Bandwidth Settings : Modem users should pick "Low". Other users should experimen
 
 **Article in progress**
 
-[Category:Game Guides](/Category:Game_Guides "wikilink")
+[Category:Game Guides](Category:Game_Guides.md "wikilink")

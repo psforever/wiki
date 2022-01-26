@@ -217,11 +217,11 @@
 </table>
 
 This merit, available only to [New
-Conglomerate](/New_Conglomerate "wikilink") players, is awarded for kills
-made by using the [NC](/NC "wikilink") version of the [One-Manned Field
-Turret](/One-Manned_Field_Turret "wikilink"): The
-[Osprey](/Osprey "wikilink"). These kills also count towards the general
-[Turret Gunner](/Turret_Gunner "wikilink") [Merit
-Commendation](/Merit_Commendation "wikilink").
+Conglomerate](New_Conglomerate.md "wikilink") players, is awarded for kills
+made by using the [NC](NC.md "wikilink") version of the [One-Manned Field
+Turret](One.$1.md "wikilink"): The
+[Osprey](Osprey.md "wikilink"). These kills also count towards the general
+[Turret Gunner](Turret_Gunner.md "wikilink") [Merit
+Commendation](Merit_Commendation.md "wikilink").
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

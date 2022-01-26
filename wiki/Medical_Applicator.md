@@ -1,25 +1,25 @@
-![](/images/PSScreenShot0257.jpg "PSScreenShot0257.jpg")
+![](images/PSScreenShot0257.jpg "PSScreenShot0257.jpg")
 
-|                            |                                                |
-| -------------------------- | ---------------------------------------------- |
-| **Certification Required** | [Medical](/Medical "wikilink")                 |
-| **Empire**                 | [Common Pool](/Common_Pool "wikilink")         |
-| **Primary Mode**           | Heal Friendlies                                |
-| **Secondary Mode**         | Heal Self                                      |
-| **Ammunition**             | [Health Canister](/Health_Canister "wikilink") |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                         |
-| **Magazine Capacity**      | 100                                            |
-| **Zoom**                   | None                                           |
+|                            |                                                  |
+| -------------------------- | ------------------------------------------------ |
+| **Certification Required** | [Medical](Medical.md "wikilink")                 |
+| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")         |
+| **Primary Mode**           | Heal Friendlies                                  |
+| **Secondary Mode**         | Heal Self                                        |
+| **Ammunition**             | [Health Canister](Health_Canister.md "wikilink") |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                           |
+| **Magazine Capacity**      | 100                                              |
+| **Zoom**                   | None                                             |
 
 **Medical Applicator**
 
 The battlefield medic is possibly one of the most coveted squad members.
-Using the [Medical Applicator](/Medical_Applicator "wikilink"), they can
+Using the [Medical Applicator](Medical_Applicator.md "wikilink"), they can
 heal soldiers in the field. With the additional [Advanced
-Medical](/Advanced_Medical "wikilink") certification, the [Medical
-Applicator](/Medical_Applicator "wikilink") can be used to revive fallen
+Medical](Advanced_Medical.md "wikilink") certification, the [Medical
+Applicator](Medical_Applicator.md "wikilink") can be used to revive fallen
 solders (provided they have not released). Two settings govern the use
-of the [Medical Applicator](/Medical_Applicator "wikilink"). The Primary
+of the [Medical Applicator](Medical_Applicator.md "wikilink"). The Primary
 setting allows for the heal/revive of soldiers in the field. The
 Secondary function will allow the user to heal himself.
 
@@ -40,9 +40,9 @@ Secondary function will allow the user to heal himself.
     someplace else out of the way so that your crosshairs don't rest on
     an area of heavy traffic.
 5.  Advanced Medics can see "fallen" friendly soldiers on the [Proximity
-    Map](/Proximity_Map "wikilink") when their Medical Applicator is
+    Map](Proximity_Map.md "wikilink") when their Medical Applicator is
     drawn. They are represented as glowing triangles.
-6.  It's a good idea to create a [macro](/macro "wikilink") in local chat
+6.  It's a good idea to create a [macro](macro.md "wikilink") in local chat
     announcing "I am an advanced medic. Do not release!" This will let
     people know that there is an advanced medic in the area willing to
     revive them, and encourage them to wait for a revive.
@@ -50,6 +50,6 @@ Secondary function will allow the user to heal himself.
     times. It takes 25 units of health canister supply to revive a
     fallen ally.
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Weapons](/Category:Weapons "wikilink") [Category:Common Pool
-Weapons](/Category:Common_Pool_Weapons "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Weapons](Category:Weapons.md "wikilink") [Category:Common Pool
+Weapons](Category:Common_Pool_Weapons.md "wikilink")

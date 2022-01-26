@@ -1,1 +1,1 @@
-1.  REDIRECT [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")
+1.  REDIRECT [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")

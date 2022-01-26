@@ -1,10 +1,10 @@
 ## Infantry
 
-- [Standard Exo-Suit](/Standard_Exo-Suit "wikilink") ("pajamas" or
+- [Standard Exo-Suit](Standard_Exo.$1.md "wikilink") ("pajamas" or
   "pjs")
-- [Agile Exo-Suit](/Agile_Exo-Suit "wikilink") ("Agile")
-- [Reinforced Exo-Suit](/Reinforced_Exo-Suit "wikilink") ("Rexo")
-- [Infiltration Suit](/Infiltration_Suit "wikilink") ("Cloaker")
+- [Agile Exo-Suit](Agile_Exo.$1.md "wikilink") ("Agile")
+- [Reinforced Exo-Suit](Reinforced_Exo.$1.md "wikilink") ("Rexo")
+- [Infiltration Suit](Infiltration_Suit.md "wikilink") ("Cloaker")
 
 ## Mechanized Assault Exo-Suits
 
@@ -12,18 +12,18 @@ MAX Suits
 
 ### New Conglomerate
 
-- [Falcon](/Falcon "wikilink") - anti-armor
-- [Scattercannon](/Scattercannon "wikilink") ("ScatMax") -
+- [Falcon](Falcon.md "wikilink") - anti-armor
+- [Scattercannon](Scattercannon.md "wikilink") ("ScatMax") -
   anti-infantry
-- [Sparrow](/Sparrow "wikilink") - anti-aircraft
+- [Sparrow](Sparrow.md "wikilink") - anti-aircraft
 
 ### Terran Republic
 
-[Pounder](/Pounder "wikilink") anti-armor
-[Dual-Cycler](/Dual-Cycler "wikilink") ("DC") anti-infantry
-[Burster](/Burster "wikilink") - anti-air
+[Pounder](Pounder.md "wikilink") anti-armor
+[Dual-Cycler](Dual.$1.md "wikilink") ("DC") anti-infantry
+[Burster](Burster.md "wikilink") - anti-air
 
 ### Vanu Sovereignty
 
-[Comet](/Comet "wikilink") anti-armor [Quasar](/Quasar "wikilink")
-anti-infantry [Starfire](/Starfire "wikilink") anti-air
+[Comet](Comet.md "wikilink") anti-armor [Quasar](Quasar.md "wikilink")
+anti-infantry [Starfire](Starfire.md "wikilink") anti-air

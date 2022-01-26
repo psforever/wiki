@@ -1,19 +1,19 @@
-![](/images/ATammo.jpg "ATammo.JPG")
+![](images/ATammo.jpg "ATammo.JPG")
 
-|                          |                                                                |
-| ------------------------ | -------------------------------------------------------------- |
-| **Used by**              | [Spiker](/Spiker "wikilink"), [Radiator](/Radiator "wikilink") |
-| **Empire**               | [Common Pool](/Common_Pool "wikilink") (Ancient Tech)          |
-| **Inventory dimensions** | 3x3                                                            |
-| **Quantity per pack**    | 30 units                                                       |
+|                          |                                                                    |
+| ------------------------ | ------------------------------------------------------------------ |
+| **Used by**              | [Spiker](Spiker.md "wikilink"), [Radiator](Radiator.md "wikilink") |
+| **Empire**               | [Common Pool](Common_Pool.md "wikilink") (Ancient Tech)            |
+| **Inventory dimensions** | 3x3                                                                |
+| **Quantity per pack**    | 30 units                                                           |
 
 **Ancient Capacitor Unit**
 
-The Ancient Capacitor Unit is the [ammunition](/ammunition "wikilink")
-used by the Ancient Tech [weapons](/weapon "wikilink") the
-[Radiator](/Radiator "wikilink") and [Spiker](/Spiker "wikilink"). The
+The Ancient Capacitor Unit is the [ammunition](ammunition.md "wikilink")
+used by the Ancient Tech [weapons](weapon.md "wikilink") the
+[Radiator](Radiator.md "wikilink") and [Spiker](Spiker.md "wikilink"). The
 Ancient Capacitor Unit is available at any [Equipment
-Terminal](/Equipment_Terminal "wikilink").
+Terminal](Equipment_Terminal.md "wikilink").
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Ammunition](/Category:Ammunition "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Ammunition](Category:Ammunition.md "wikilink")

@@ -1,47 +1,47 @@
-![](/images/PSScreenShot0332.jpg "fig:PSScreenShot0332.jpg") Striker\]\]
+![](images/PSScreenShot0332.jpg "fig:PSScreenShot0332.jpg") Striker\]\]
 
-|                            |                                                |
-| -------------------------- | ---------------------------------------------- |
-| **Certification Required** | [Anti-Vehicular](/Anti-Vehicular "wikilink")   |
-| **Empire**                 | [Terran Republic](/Terran_Republic "wikilink") |
-| **Primary Mode**           | Homing Missile                                 |
-| **Secondary Mode**         | Dumb Fire                                      |
-| **Ammunition**             | [Striker Missile](/Striker_Missile "wikilink") |
-| **Range**                  | 240 m                                          |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                          |
-| **Magazine Capacity**      | 5                                              |
-| **Zoom**                   | 4x                                             |
+|                            |                                                  |
+| -------------------------- | ------------------------------------------------ |
+| **Certification Required** | [Anti-Vehicular](Anti.$1.md "wikilink")          |
+| **Empire**                 | [Terran Republic](Terran_Republic.md "wikilink") |
+| **Primary Mode**           | Homing Missile                                   |
+| **Secondary Mode**         | Dumb Fire                                        |
+| **Ammunition**             | [Striker Missile](Striker_Missile.md "wikilink") |
+| **Range**                  | 240 m                                            |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                            |
+| **Magazine Capacity**      | 5                                                |
+| **Zoom**                   | 4x                                               |
 
 **Striker**
 
-The [Striker](/Striker "wikilink") is the [Terran
-Republic](/Terran_Republic "wikilink")'s
-[Anti-Vehicular](/Anti-Vehicular "wikilink") weapon. In primary mode, the
-[Striker](/Striker "wikilink") can "lock on" to any vehicle,
-[MAX](/Mechanized_Armored_Exo-Suit "wikilink") unit, [Phalanx wall
-turret](/Phalanx "wikilink"), or [Spitfire
-Turret](/Spitfire_Turret "wikilink") which will guide the missle to its
-target. (The [reticle](/reticle "wikilink") must be kept on the target to
+The [Striker](Striker.md "wikilink") is the [Terran
+Republic](Terran_Republic.md "wikilink")'s
+[Anti-Vehicular](Anti.$1.md "wikilink") weapon. In primary mode, the
+[Striker](Striker.md "wikilink") can "lock on" to any vehicle,
+[MAX](Mechanized_Armored_Exo.$1.md "wikilink") unit, [Phalanx wall
+turret](Phalanx.md "wikilink"), or [Spitfire
+Turret](Spitfire_Turret.md "wikilink") which will guide the missle to its
+target. (The [reticle](reticle.md "wikilink") must be kept on the target to
 maintain the "lock.")
 
-In secondary mode, the [Striker](/Striker "wikilink") fires an unguided
+In secondary mode, the [Striker](Striker.md "wikilink") fires an unguided
 "dumbfire" missile.
 
 Shots to kill:
 
-|                                    |          |
-| ---------------------------------- | -------- |
-| [MAX](/MAX "wikilink")             | 6 shots  |
-| [Lightning](/Lightning "wikilink") | 12 shots |
-| [Prowler](/Prowler "wikilink")     | 36 shots |
-| [Magrider](/Magrider "wikilink")   | 28 shots |
-| [Vanguard](/Vanguard "wikilink")   | 36 shots |
+|                                      |          |
+| ------------------------------------ | -------- |
+| [MAX](MAX.md "wikilink")             | 6 shots  |
+| [Lightning](Lightning.md "wikilink") | 12 shots |
+| [Prowler](Prowler.md "wikilink")     | 36 shots |
+| [Magrider](Magrider.md "wikilink")   | 28 shots |
+| [Vanguard](Vanguard.md "wikilink")   | 36 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)
 
 [category:Terran Republic
-Weapons](/category:Terran_Republic_Weapons "wikilink")
+Weapons](category:Terran_Republic_Weapons.md "wikilink")
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Weapons](/Category:Weapons "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Weapons](Category:Weapons.md "wikilink")

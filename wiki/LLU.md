@@ -1,1 +1,1 @@
-1.  REDIRECT [Lattice Logic Unit](/Lattice_Logic_Unit "wikilink")
+1.  REDIRECT [Lattice Logic Unit](Lattice_Logic_Unit.md "wikilink")

@@ -1,1 +1,1 @@
-1.  redirect [Events](/Events "wikilink")
+1.  redirect [Events](Events.md "wikilink")

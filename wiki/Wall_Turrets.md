@@ -1,1 +1,1 @@
-1.  REDIRECT [Phalanx](/Phalanx "wikilink")
+1.  REDIRECT [Phalanx](Phalanx.md "wikilink")

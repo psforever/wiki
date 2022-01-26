@@ -6,10 +6,10 @@ Known Issues
 
 </title>
 
-` `<text xml:space="preserve">`There are only so many hours in the day for the `[`SOE`](/SOE "wikilink")` crew to fix bugs. To report a bug, please visit the official forums or use the /bug command in game. Below is a list of currently known bugs and ways to work around them.`
+` `<text xml:space="preserve">`There are only so many hours in the day for the `[`SOE`](SOE.md "wikilink")` crew to fix bugs. To report a bug, please visit the official forums or use the /bug command in game. Below is a list of currently known bugs and ways to work around them.`
 
 - BFR Bug
-  - Description: When gunning for a [BFR](/BFR "wikilink") you can
+  - Description: When gunning for a [BFR](BFR.md "wikilink") you can
     only aim up and down, when the BFR walks you stay in one place
     and not with the driver.
   - Workaround: Immediately bail out of the BFR and then go back in.
@@ -19,7 +19,7 @@ Known Issues
 - Door Bug
   - Description: Facility doors sometimes appear closed even though
     they are in fact open and enemy fire can go through. This bug
-    most commonly occurs at the [Back Door](/Back_Door "wikilink").
+    most commonly occurs at the [Back Door](Back_Door.md "wikilink").
   - Workaround: Go up to the door and open it manually. This is only
     a temporary fix and the bug can occur again at any time.
 
@@ -28,12 +28,12 @@ Known Issues
 - Friendly-Manned Ancient Sentry Turret Bug
   - Description: Sometimes a member of your own empire that is
     manning an [Ancient Sentry
-    Turret](/Ancient_Sentry_Turret "wikilink") will have their name
+    Turret](Ancient_Sentry_Turret.md "wikilink") will have their name
     in enemy colors as seen with the [Enhanced
-    Targeting](/Enhanced_Targeting "wikilink")
-    [implant](/implant "wikilink"). You get [grief](/grief "wikilink")
+    Targeting](Enhanced_Targeting.md "wikilink")
+    [implant](implant.md "wikilink"). You get [grief](grief.md "wikilink")
     for shooting the seemingly enemy-held turret even if the
-    friendly is in your own [platoon](/platoon "wikilink").
+    friendly is in your own [platoon](platoon.md "wikilink").
   - Workaround: None. You can ask the occupant to get out and back
     in which will likely fix the problem. If you find friendlies
     shooting at you constantly, get out and back in yourself!
@@ -42,7 +42,7 @@ Known Issues
 
 - Scorpion Bug
   - Description: Sometimes the secondary bomblets fired from the
-    [Scorpion](/Scorpion "wikilink") do not emerge from the primary
+    [Scorpion](Scorpion.md "wikilink") do not emerge from the primary
     explosion, basically making the weapon useless.
   - Workaround: Sometimes dropping the weapon on the ground then
     picking it up works. Other times you have to respawn to fix the
@@ -52,8 +52,8 @@ Known Issues
 
 - Missile Lock-on Bug
   - Description: Sometimes lock-on weapons
-    ([Striker](/Striker "wikilink"), [Starfire](/Starfire "wikilink"),
-    [Sparrow](/Sparrow "wikilink"), and [Wasp](/Wasp "wikilink")) only
+    ([Striker](Striker.md "wikilink"), [Starfire](Starfire.md "wikilink"),
+    [Sparrow](Sparrow.md "wikilink"), and [Wasp](Wasp.md "wikilink")) only
     lock or maintain lock when the crosshair is directly over the
     target, making it almost impossible to maintain a lock on your
     target.
@@ -63,11 +63,11 @@ Known Issues
 
 <!-- -->
 
-- [Enhanced Targeting](/Enhanced_Targeting "wikilink") Bug
+- [Enhanced Targeting](Enhanced_Targeting.md "wikilink") Bug
   - Description: The Enhanced Targeting
-    [implant](/implant "wikilink") will sometimes show an enemy
-    [vehicle](/vehicle "wikilink") or [Wall
-    Turret](/Phalanx_Turret "wikilink") as having almost no health
+    [implant](implant.md "wikilink") will sometimes show an enemy
+    [vehicle](vehicle.md "wikilink") or [Wall
+    Turret](Phalanx_Turret.md "wikilink") as having almost no health
     left, while in fact they are at full health. This sometimes
     happens when the vehicle is damaged, goes out of draw distance
     to repair, and then draws again at a later time. You will see
@@ -78,4 +78,4 @@ Known Issues
 
 </text>
 
-[Category:PlanetSide](/Category:PlanetSide "wikilink")
+[Category:PlanetSide](Category:PlanetSide.md "wikilink")

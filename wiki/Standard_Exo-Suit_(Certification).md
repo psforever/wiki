@@ -1,7 +1,7 @@
 |                        |                                                    |
 | ---------------------- | -------------------------------------------------- |
 | **Type**               | Armor                                              |
-| **Provides Access To** | [Standard Exo-Suit](/Standard_Exo-Suit "wikilink") |
+| **Provides Access To** | [Standard Exo-Suit](Standard_Exo.$1.md "wikilink") |
 | **Pre-requisite**      | \-                                                 |
 | **Required For**       | \-                                                 |
 | **Cert Point Cost**    | \-                                                 |
@@ -10,7 +10,7 @@
 
 **Standard Exo-Suit**
 
-The **Standard Exo-Suit** [Certification](/Certification "wikilink") is
+The **Standard Exo-Suit** [Certification](Certification.md "wikilink") is
 given to all soldiers and cannot be removed.
 
-[Category:Certification](/Category:Certification "wikilink")
+[Category:Certification](Category:Certification.md "wikilink")

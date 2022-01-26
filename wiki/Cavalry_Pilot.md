@@ -219,9 +219,9 @@
 </table>
 
 This Merit series is awarded for killing Enemies while piloting a
-[Liberator](/Liberator "wikilink"), [Vulture](/Vulture "wikilink"),
-[Reaver](/Reaver "wikilink"), [Mosquito](/Mosquito "wikilink"), or
-[Wasp](/Wasp "wikilink"). It is also awarded for killing enemies while
-gunning a [Galaxy Gunship](/Galaxy_Gunship "wikilink").
+[Liberator](Liberator.md "wikilink"), [Vulture](Vulture.md "wikilink"),
+[Reaver](Reaver.md "wikilink"), [Mosquito](Mosquito.md "wikilink"), or
+[Wasp](Wasp.md "wikilink"). It is also awarded for killing enemies while
+gunning a [Galaxy Gunship](Galaxy_Gunship.md "wikilink").
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

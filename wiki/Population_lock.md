@@ -1,19 +1,19 @@
-A Population lock means that an [Empire](/Empire "wikilink") has filled
+A Population lock means that an [Empire](Empire.md "wikilink") has filled
 all available server slots to capacity for a
-[continent](/continent "wikilink"). Total capacity for each world is
+[continent](continent.md "wikilink"). Total capacity for each world is
 figured to be roughly 500-550 players.
 
-If a continent is [pop locked](/Acronyms_and_Slang "wikilink"), any
-player warping to the planet via a [warpgate](/warpgate "wikilink") or
-[broadcast warpgate](/broadcast_warpgate "wikilink") will enter the [warp
-queue](/warp_queue "wikilink") until such time as server slots are freed
+If a continent is [pop locked](Acronyms_and_Slang.md "wikilink"), any
+player warping to the planet via a [warpgate](warpgate.md "wikilink") or
+[broadcast warpgate](broadcast_warpgate.md "wikilink") will enter the [warp
+queue](warp_queue.md "wikilink") until such time as server slots are freed
 up.
 
 Each Empire is currently allowed roughly 133 troops per continent, or 13
-full [squads](/squad "wikilink").
+full [squads](squad.md "wikilink").
 
 Population Lock status can be viewed from the [Interstellar
-Map](/Interstellar_Map "wikilink") as a padlock symbol on one of the side
+Map](Interstellar_Map.md "wikilink") as a padlock symbol on one of the side
 windows.
 
 ## Game History
@@ -32,4 +32,4 @@ For 2005, population capacity was reduced to its current \~133 per side
 per continent, this created the side effect of more fights across the
 galaxy.
 
-[category:Terminology](/category:Terminology "wikilink")
+[category:Terminology](category:Terminology.md "wikilink")

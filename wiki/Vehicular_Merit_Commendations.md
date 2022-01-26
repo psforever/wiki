@@ -1,9 +1,9 @@
-This series of [Merit Commendations](/Merit_Commendation "wikilink") are
+This series of [Merit Commendations](Merit_Commendation.md "wikilink") are
 given out for vehicle-related tasks, such as:
 
 - Getting kills while driving a certain vehicle
 - Kills made by crew in a vehicle you are operating
-- Kills made while operating [MAX](/MAX "wikilink") Armor
+- Kills made while operating [MAX](MAX.md "wikilink") Armor
 - Kills made while gunning in a certain vehicle
 
 <hr>
@@ -15,7 +15,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Air Combat Ace](/Air_Combat_Ace "wikilink")
+[Air Combat Ace](Air_Combat_Ace.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -217,7 +217,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Air Defender](/Air_Defender "wikilink")
+[Air Defender](Air_Defender.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -419,7 +419,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Avenger Gunner](/Avenger_Gunner "wikilink")
+[Avenger Gunner](Avenger_Gunner.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -973,7 +973,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Bomber Ace](/Bomber_Ace "wikilink")
+[Bomber Ace](Bomber_Ace.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1175,7 +1175,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Cavalry Driver](/Cavalry_Driver "wikilink")
+[Cavalry Driver](Cavalry_Driver.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1377,7 +1377,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Cavalry Pilot](/Cavalry_Pilot "wikilink")
+[Cavalry Pilot](Cavalry_Pilot.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1579,7 +1579,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Driver Gunnery](/Driver_Gunnery "wikilink")
+[Driver Gunnery](Driver_Gunnery.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1781,7 +1781,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Ground Gunner](/Ground_Gunner "wikilink")
+[Ground Gunner](Ground_Gunner.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -2161,7 +2161,7 @@ bgcolor="#E6B916">
 <tr>
 <td>
 
-[Orion Gunner](/Orion_Gunner "wikilink")
+[Orion Gunner](Orion_Gunner.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -2363,7 +2363,7 @@ bgcolor="#E6B916">
 <tr>
 <td>
 
-[Osprey Gunner](/Osprey_Gunner "wikilink")
+[Osprey Gunner](Osprey_Gunner.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -2564,4 +2564,4 @@ bgcolor="#E6B916">
 </tr>
 </table>
 
-[\*V](/Category:Merits "wikilink")
+[\*V](Category:Merits.md "wikilink")

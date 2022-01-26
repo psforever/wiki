@@ -37,8 +37,8 @@
 </table>
 
 This merit is awarded for completing the Qualification level of the
-following Merits: [Locker Hack](/Locker_Hack "wikilink"), [Hacking
-Support](/Hacking_Support "wikilink") and
+following Merits: [Locker Hack](Locker_Hack.md "wikilink"), [Hacking
+Support](Hacking_Support.md "wikilink") and
 [Jacking](</Jacking_(Merit)> "wikilink").
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

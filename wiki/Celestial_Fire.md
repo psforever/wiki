@@ -1,6 +1,6 @@
-**Celestial Fire** is an [Outfit](/Outfit "wikilink") of primarily
+**Celestial Fire** is an [Outfit](Outfit.md "wikilink") of primarily
 "older" PlanetSide players. The average age of its members is 30+. It
-was formed on the [Konried](/Konried "wikilink") server on the first full
+was formed on the [Konried](Konried.md "wikilink") server on the first full
 day of PlanetSide: May 20, 2003.
 
 **Celestial Fire** prides itself on being organized, yet easy going;
@@ -10,9 +10,9 @@ other times as well. The Outfit doesn't specialize in any one tactic or
 task, preferring to remain loose and able to try new things. They hold
 regular "theme" nights, where a particular certification or operation is
 focused on, but otherwise leave themselves open to whatever task will
-help the [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")
+help the [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
 
-The current Outfit Leader is [Wrathchild-K](/User:Wrathchild "wikilink").
+The current Outfit Leader is [Wrathchild-K](User:Wrathchild.md "wikilink").
 He is the fourth Leader in the Outfit's history.
 
 The **Celestial Fire** website can be found at

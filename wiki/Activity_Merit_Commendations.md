@@ -1,14 +1,14 @@
-This series of [Merit Commendations](/Merit_Commendations "wikilink") is
+This series of [Merit Commendations](Merit_Commendations.md "wikilink") is
 awarded for:
 
 - Destroying a certain class of vehicle
 - Visiting specific locations
 - Character Age
 - Mowing enemies
-- Killing [MAX](/MAX "wikilink") Units
-- Jacking Enemy [Vehicles](/Vehicle "wikilink")
+- Killing [MAX](MAX.md "wikilink") Units
+- Jacking Enemy [Vehicles](Vehicle.md "wikilink")
 
-**Note that [Vehicles](/Vehicle "wikilink") that you have destroyed only
+**Note that [Vehicles](Vehicle.md "wikilink") that you have destroyed only
 count towards a certain Merit if the Vehicle had occupants.**
 
 <hr>
@@ -20,7 +20,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[BFR Buster](/BFR_Buster "wikilink")
+[BFR Buster](BFR_Buster.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -219,7 +219,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td rowspan="2">
 
-[Black Ops Hunter](/Black_Ops_Hunter "wikilink")
+[Black Ops Hunter](Black_Ops_Hunter.md "wikilink")
 
 </td>
 <td class="mit">
@@ -370,7 +370,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Exploration](/Exploration "wikilink")
+[Exploration](Exploration.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -610,7 +610,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td rowspan="2">
 
-[MAX Buster](/MAX_Buster "wikilink")
+[MAX Buster](MAX_Buster.md "wikilink")
 
 </td>
 <td class="mit">
@@ -785,7 +785,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Supply Blockade](/Supply_Blockade "wikilink")
+[Supply Blockade](Supply_Blockade.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -986,7 +986,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Tank Buster](/Tank_Buster "wikilink")
+[Tank Buster](Tank_Buster.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1187,7 +1187,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Transport Blockade](/Transport_Blockade "wikilink")
+[Transport Blockade](Transport_Blockade.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1388,7 +1388,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Annual Terms of Service](/Term_of_Service "wikilink")
+[Annual Terms of Service](Term_of_Service.md "wikilink")
 
 </td>
 <td class="mitd">
@@ -1879,7 +1879,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td rowspan="2">
 
-[Transportation Citation](/Transportation_Citation "wikilink")
+[Transportation Citation](Transportation_Citation.md "wikilink")
 
 </td>
 <td class="mit">
@@ -2029,4 +2029,4 @@ count towards a certain Merit if the Vehicle had occupants.**
 </tr>
 </table>
 
-[\*A](/category:Merits "wikilink")
+[\*A](category:Merits.md "wikilink")

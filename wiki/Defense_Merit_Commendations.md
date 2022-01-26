@@ -1,6 +1,6 @@
 # Empire Defense Merits
 
-This series of [Merit Commendations](/Merit_Commendation "wikilink")
+This series of [Merit Commendations](Merit_Commendation.md "wikilink")
 counts total overall kills by any means necessary.
 
 <hr>
@@ -634,4 +634,4 @@ Auraxium](</Order_of_Empire_Defense_Auraxium_(Merit)> "wikilink")
 <tr>
 <td width="450" colspan="2">
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

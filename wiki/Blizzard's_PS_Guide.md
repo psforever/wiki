@@ -39,6 +39,6 @@ Snipers!](:Image:008_%40-%24%25ing_Snipers%21.jpg "wikilink")
 
 [#15 War Cries](:Image:015_War_Cries.jpg "wikilink")
 
-[Category:Strategy](/Category:Strategy "wikilink")
-[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
-Guides](/Category:Game_Guides "wikilink")
+[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Terminology](Category:Terminology.md "wikilink") [Category:Game
+Guides](Category:Game_Guides.md "wikilink")

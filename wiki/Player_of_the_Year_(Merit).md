@@ -34,8 +34,8 @@
 </tbody>
 </table>
 
-This [Merit](/Merit "wikilink") was awarded to the SOE Player of the Year
-2007: EVILPIG from [NC](/New_Conglomerate "wikilink")
-[Markov](/Markov "wikilink").
+This [Merit](Merit.md "wikilink") was awarded to the SOE Player of the Year
+2007: EVILPIG from [NC](New_Conglomerate.md "wikilink")
+[Markov](Markov.md "wikilink").
 
-[Category:Merits](/Category:Merits "wikilink")
+[Category:Merits](Category:Merits.md "wikilink")

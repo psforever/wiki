@@ -1,1 +1,1 @@
-1.  REDIRECT [Equipment Terminal](/Equipment_Terminal "wikilink")
+1.  REDIRECT [Equipment Terminal](Equipment_Terminal.md "wikilink")

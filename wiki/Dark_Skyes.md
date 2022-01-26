@@ -3,15 +3,15 @@ Are you up to the challenge? DARK SKYES WANTS YOU
 DARK SKYES is looking for some hard core, aggressive recruits.
 
 DARK SKYES is a high speed mobile infantry unit, specializing in
-[MAX](/MAX "wikilink") Crashes and [Galaxy](/Galaxy "wikilink") Drops.
+[MAX](MAX.md "wikilink") Crashes and [Galaxy](Galaxy.md "wikilink") Drops.
 
 DARK SKYES has been in action since the beginning of
-[Planetside](/Planetside "wikilink").
+[Planetside](Planetside.md "wikilink").
 
 DARK SKYES is led by several real world military and law enforcement
 personnel to ensure that your game playing experience is magnified.
 
-DARK SKYES is among the largest [Outfits](/Outfit "wikilink") with highly
+DARK SKYES is among the largest [Outfits](Outfit.md "wikilink") with highly
 motivated troopers who are seasoned on the virtual battlefield. We leave
 no one behind and strive to train you to be the best that you can be. If
 you can be a follower then soon you may find yourself as a leader. We
@@ -27,7 +27,7 @@ DARK SKYES members have a reputation on the battlefield as being
 professional and getting along with other players to further the empires
 call of duty.
 
-[TeamSpeak](/TeamSpeak "wikilink") is required, via our own Teamspeak
+[TeamSpeak](TeamSpeak.md "wikilink") is required, via our own Teamspeak
 server, however a mic is not required.
 
 For an outfit invite, please post @ <http://www.darkskyes.net/> or find

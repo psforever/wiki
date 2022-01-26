@@ -1,6 +1,6 @@
-Certain [facility](/facility "wikilink") objects are destroyable,
-draining [NTU](/NTU "wikilink") to repair. The following is a list of the
-armor values of non-[vehicle](/vehicle "wikilink") objects and their
+Certain [facility](facility.md "wikilink") objects are destroyable,
+draining [NTU](NTU.md "wikilink") to repair. The following is a list of the
+armor values of non-[vehicle](vehicle.md "wikilink") objects and their
 repair time if they are a repairable base object.
 
 <table border="2">
@@ -24,7 +24,7 @@ repair time if they are a repairable base object.
 <tr>
 <td align="center">
 
-[Advanced Medical Terminal](/Advanced_Medical_Terminal "wikilink")
+[Advanced Medical Terminal](Advanced_Medical_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -44,7 +44,7 @@ repair time if they are a repairable base object.
 <tr>
 <td>
 
-[Aegis (non-upgraded)](/Aegis_Shield_Generator "wikilink")
+[Aegis (non-upgraded)](Aegis_Shield_Generator.md "wikilink")
 
 </td>
 </tr>
@@ -97,7 +97,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[BFR Terminal](/BFR_Terminal "wikilink")
+[BFR Terminal](BFR_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -114,7 +114,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Cerberus Turret](/Cerberus_Turret "wikilink")
+[Cerberus Turret](Cerberus_Turret.md "wikilink")
 
 </td>
 <td align="center">
@@ -131,7 +131,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Certification Terminal](/Certification_Terminal "wikilink")
+[Certification Terminal](Certification_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -148,7 +148,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Equipment Terminal](/Equipment_Terminal "wikilink")
+[Equipment Terminal](Equipment_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -165,7 +165,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Generator](/Generator "wikilink")
+[Generator](Generator.md "wikilink")
 
 </td>
 <td align="center">
@@ -182,7 +182,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Implant Terminal](/Implant_Terminal "wikilink")
+[Implant Terminal](Implant_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -199,7 +199,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Medical Terminal](/Medical_Terminal "wikilink")
+[Medical Terminal](Medical_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -216,7 +216,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Motion Sensor](/ACE#Motion_Sensor_Alarm "wikilink")
+[Motion Sensor](ACE.md#Motion_Sensor_Alarm "wikilink")
 
 </td>
 <td align="center">
@@ -233,7 +233,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Respawn Tube](/Respawn_Tube "wikilink")
+[Respawn Tube](Respawn_Tube.md "wikilink")
 
 </td>
 <td align="center">
@@ -250,7 +250,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Sensor Disruptor](/Sensor_Disruptor "wikilink")
+[Sensor Disruptor](Sensor_Disruptor.md "wikilink")
 
 </td>
 <td align="center">
@@ -267,7 +267,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Shadow Turret](/Shadow_Turret "wikilink")
+[Shadow Turret](Shadow_Turret.md "wikilink")
 
 </td>
 <td align="center">
@@ -284,7 +284,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Spitfire Turret](/ACE#Spitfire_Turret "wikilink")
+[Spitfire Turret](ACE.md#Spitfire_Turret "wikilink")
 
 </td>
 <td align="center">
@@ -301,7 +301,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[TRAP](/TRAP "wikilink")
+[TRAP](TRAP.md "wikilink")
 
 </td>
 <td align="center">
@@ -318,7 +318,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Vehicle Terminal](/Vehicle_Terminal "wikilink")
+[Vehicle Terminal](Vehicle_Terminal.md "wikilink")
 
 </td>
 <td align="center">
@@ -335,7 +335,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Wall Turret](/Wall_Turret "wikilink")
+[Wall Turret](Wall_Turret.md "wikilink")
 
 </td>
 <td align="center">
@@ -351,5 +351,5 @@ Aegis (Shield Upgrade)
 </tr>
 </table>
 
-[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
-Guides](/Category:Game_Guides "wikilink")
+[Category:Terminology](Category:Terminology.md "wikilink") [Category:Game
+Guides](Category:Game_Guides.md "wikilink")

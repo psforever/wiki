@@ -1,27 +1,27 @@
 Since I feel that I'm one of the more experienced
-[Magrider](/Magrider "wikilink") drivers in planetside, this guide is
+[Magrider](Magrider.md "wikilink") drivers in planetside, this guide is
 meant to help others out.
 
-\-[Quovatis](/user:Quovatis "wikilink")
+\-[Quovatis](user:Quovatis.md "wikilink")
 
 ## Magrider Properties
 
-I consider the [Magrider](/Magrider "wikilink") to be the best tank in
-planetside. While the [Prowler](/Prowler "wikilink") and
-[Vanguard](/Vanguard "wikilink") are better in specific situations, the
-[Magrider](/Magrider "wikilink") is the most versatile. Your
-[Magrider](/Magrider "wikilink") has a driver weapon, the Pulsed-Particle
+I consider the [Magrider](Magrider.md "wikilink") to be the best tank in
+planetside. While the [Prowler](Prowler.md "wikilink") and
+[Vanguard](Vanguard.md "wikilink") are better in specific situations, the
+[Magrider](Magrider.md "wikilink") is the most versatile. Your
+[Magrider](Magrider.md "wikilink") has a driver weapon, the Pulsed-Particle
 Accelerator (PPA). This weapon is mainly an anti-infantry weapon, but it
 can also turn the battle in your favor versus enemy armor. The gunner
 weapon is the railbeam. Unlike other tanks, this weapon has no arc and
 travels very fast. It has limited splash damage, and takes three hits to
-kill a rexo. The [Magrider](/Magrider "wikilink") is also unique in that
+kill a rexo. The [Magrider](Magrider.md "wikilink") is also unique in that
 it is the only tank that can travel over water. This is a big advantage.
 
 ## Driver Setup
 
-![](/images/magdriverloadout.jpg "fig:magdriverloadout.JPG") driver loadout\]\]
-When you acquire your [Magrider](/Magrider "wikilink") you should have a
+![](images/magdriverloadout.jpg "fig:magdriverloadout.JPG") driver loadout\]\]
+When you acquire your [Magrider](Magrider.md "wikilink") you should have a
 favorite with 4 boxes of PPA and 2 boxes of Rail Beam ammo. This should
 be your normal loadout, as the PPA goes through ammo quickly. However,
 if you plan on doing a lot of water driving or long range sniping, you
@@ -30,24 +30,24 @@ much. Your favorite should also have a spare glue gun, 5 boxes of glue,
 and perhaps a medpack. This allows you to carry less glue in your
 infantry loadout, saving space for other things...
 
-![](/images/MagTrunk.jpg "fig:MagTrunk.JPG") [Favorite](/Favorites "wikilink")
-for the [Magrider](/Magrider "wikilink")\]\] If you do a lot of tank
+![](images/MagTrunk.jpg "fig:MagTrunk.JPG") [Favorite](Favorites.md "wikilink")
+for the [Magrider](Magrider.md "wikilink")\]\] If you do a lot of tank
 driving, you should have a favorite with a box of PPA ammo, a glue gun,
 a pulsar, glue, a REK (sometimes you might need to take a tower), and
 whatever else you can get in there. I prefer the
-[Pulsar](/Pulsar "wikilink") to the [Lasher](/Lasher "wikilink") because
+[Pulsar](Pulsar.md "wikilink") to the [Lasher](Lasher.md "wikilink") because
 you can hot swap with the glue gun directly and it saves space. The
-[Pulsar](/Pulsar "wikilink") also provides medium-range fire that the
+[Pulsar](Pulsar.md "wikilink") also provides medium-range fire that the
 lasher cannot provide if you come under attack while repairing. Have the
 pulsar in the rifle slot just in case you come across an enemy going to
 the vehicle pad. If you are CR3 or higher, take a CUD along for clearing
-minefields or OSing that noob stationary [BFR](/BFR "wikilink") you come
+minefields or OSing that noob stationary [BFR](BFR.md "wikilink") you come
 across.
 
 The implants I recommend are [Enhanced
-Targeting](/Enhanced_Targeting "wikilink"),
-[Darklight](/Darklight "wikilink"), and [Audio
-Amplifier](/Audio_Amplifier "wikilink"). Always have Audio Amp on, and
+Targeting](Enhanced_Targeting.md "wikilink"),
+[Darklight](Darklight.md "wikilink"), and [Audio
+Amplifier](Audio_Amplifier.md "wikilink"). Always have Audio Amp on, and
 Darklight lets you run over those pesky cloakers.
 
 ## Driver Tactics
@@ -98,17 +98,17 @@ you like, as long as you stay in range.
 <!-- -->
 
 - Trees: Trees are the friend of an experienced
-  [Magrider](/Magrider "wikilink") driver, but can be deadly for the
+  [Magrider](Magrider.md "wikilink") driver, but can be deadly for the
   inexperienced. Your tank is not as wide as the other tanks, and you
   can slip through the trees and run away easily. Inexperienced
   drivers will get stuck in the trees, leading to death many times.
 
 You should be glancing at your mini-map (radar) every second or 2. You
-need to watch out for [Liberators](/Liberator "wikilink") lining you up
+need to watch out for [Liberators](Liberator.md "wikilink") lining you up
 all the time. Fixating on a target for 5 seconds is enough time for
 bombs to come out of nowhere and kill you. Pay attention at all times.
 The minimap also lets you see potential targets. The
-[Mosquito](/Mosquito "wikilink")'s overflight radar data is transmitted
+[Mosquito](Mosquito.md "wikilink")'s overflight radar data is transmitted
 to you as well, letting you see targets you might not otherwise. Motion
 detectors also give you information, but you will miss it if you don't
 constantly look at your radar. It also lets you see how the tank your
@@ -137,9 +137,9 @@ look for cloakers. If it's clear and you don't expect enemies, the
 gunner should help you repair. You should almost require your gunner
 have a glue gun, or else you will spend a lot of time repairing
 yourself, which is a waste of time. If you have [Amp
-Station](/Amp_Station "wikilink") benefit, try to repair inside a
-friendly [SOI](/SOI "wikilink") to build shields while you repair. If you
-have [Dropship Center](/Dropship_Center "wikilink") benefit, get ammo and
+Station](Amp_Station.md "wikilink") benefit, try to repair inside a
+friendly [SOI](SOI.md "wikilink") to build shields while you repair. If you
+have [Dropship Center](Dropship_Center.md "wikilink") benefit, get ammo and
 let your gunner repair you at the repair silo if it's clear.
 
 If you drive conservatively, you can live for hours with the same tank,
@@ -161,38 +161,38 @@ straight into the battle, and never repair.
 
 <!-- -->
 
-- [Lightnings](/Lightning "wikilink"): Not much of a threat. Usually
+- [Lightnings](Lightning.md "wikilink"): Not much of a threat. Usually
   you can just snipe them at long range, or head straight in for the
   kill. If there are lots of them, keep moving to avoid fire. Use the
   PPA for even quicker kills.
-- [Fury](/Fury "wikilink"): One of your biggest threats. Second only to
+- [Fury](Fury.md "wikilink"): One of your biggest threats. Second only to
   the reaver, you should kill these first. The rockets from the
-  [Fury](/Fury "wikilink") do massive damage. Lure them to open ground
+  [Fury](Fury.md "wikilink") do massive damage. Lure them to open ground
   where you can kill them easily.
-- Flight Variant [BFRs](/BFR "wikilink"): These BFRs have the same top
+- Flight Variant [BFRs](BFR.md "wikilink"): These BFRs have the same top
   speed as a Mag while in run mode. Get out on water and run in
   circles. Disengage if you get badly hurt. You can win 1 on 1 with a
   flight variant if you drive well, but engage cautiously. If anything
   else starts shooting at you, break away.
-- Sunderer Variants ([Vindicator](/Vindicator "wikilink"),
-  [Juggernaut](/Juggernaut "wikilink"), and
-  [Leviathan](/Leviathan "wikilink")): Though all very similar in
+- Sunderer Variants ([Vindicator](Vindicator.md "wikilink"),
+  [Juggernaut](Juggernaut.md "wikilink"), and
+  [Leviathan](Leviathan.md "wikilink")): Though all very similar in
   firepower, the Vindicator has a slight edge because of the high
   damage of the 20mm and the projectile veolocity, but you can treat
   all variants the same. The biggest threat these vehicles pose is
-  their [EMP](/EMP "wikilink") blast. Stay as far away as possible to
+  their [EMP](EMP.md "wikilink") blast. Stay as far away as possible to
   engage, so you stay out of the blast range. Zig-zag to avoid the
   75mm fire, as this is the majority of their firepower. The profile
   is so big that it's hard to miss them at any range, so don't be shy
   about staying far away. If you come on one them by surprise another
   tactic you can use is to stay as close as possible to them. You will
   stay below their gun arc (unless they have a
-  [ballgunner](/ballgun "wikilink"), but it doesn't do much damage) and
+  [ballgunner](ballgun.md "wikilink"), but it doesn't do much damage) and
   will be relatively safe. However, you are prone to EMP blasts and
   the splash from your own railbeam weapon, so only use this tactic if
   you are isolated from heavy fighting or know that they already used
   their EMP.
-- [One-Manned Field Turrets](/One-Manned_Field_Turret "wikilink"): All
+- [One-Manned Field Turrets](One.$1.md "wikilink"): All
   OMFTs are similar and suffer from damage degredation. Get too close
   and you will be shredded up. The range of the turrets is 250m, so
   you have 50m more range to use to your advantage. Avoid close
@@ -202,8 +202,8 @@ straight into the battle, and never repair.
 
 <!-- -->
 
-- [New Conglomerate](/New_Conglomerate "wikilink")
-  - [Vanguard](/Vanguard "wikilink"): Probably the easiest enemy tank
+- [New Conglomerate](New_Conglomerate.md "wikilink")
+  - [Vanguard](Vanguard.md "wikilink"): Probably the easiest enemy tank
     to kill. While they have the most armor, and heaviest hitting
     gun, they lack mobility and rate of fire. However, if you engage
     at close range, you will likely die. Engage at medium-long range
@@ -213,7 +213,7 @@ straight into the battle, and never repair.
     need to disengage. If one is following you, head for water, or
     trees. Vanguards have a really tough time in trees. When they
     get stuck in the trees, circle back and finish them off.
-  - [Thunderer](/Thunderer "wikilink"): I fear this vehicle the most
+  - [Thunderer](Thunderer.md "wikilink"): I fear this vehicle the most
     of any enemy vehicle. It has direct fire weapons, meaning that
     most of your normal tactics don't work. Running for water might
     not be the best choice when facing thunderers because if they
@@ -224,10 +224,10 @@ straight into the battle, and never repair.
     engage with the PPA. It is the ONLY way you will win, as the
     Thunderer with two gunners has a faster time to kill on a
     Magrider, than the Rail Beam alone can match.
-  - [Enforcer](/Enforcer "wikilink"): Usually not much of a threat,
+  - [Enforcer](Enforcer.md "wikilink"): Usually not much of a threat,
     unless they are in packs. They are fast, however, which makes
     killing them a little tricky.
-  - [Phoenix](/Phoenix "wikilink"): While the Phoenix has a slow rate
+  - [Phoenix](Phoenix.md "wikilink"): While the Phoenix has a slow rate
     of fire, when it does hit, it hurts. Avoid hills where Phoenix
     users can hide. If there is just one, close and kill. Watch your
     minimap for the direction. The main limitation is its range.
@@ -235,105 +235,105 @@ straight into the battle, and never repair.
     the user. Hopefully the fuse will burn out before it gets to
     you. Sometimes weaving in trees can scrape off inexperienced
     Phoenix users.
-  - [Peregrine](/Peregrine "wikilink"): If it has the particle cannon
+  - [Peregrine](Peregrine.md "wikilink"): If it has the particle cannon
     as the gunner weapon (which almost all of them do), avoid at all
     costs. The particle cannon can kill you very quickly and is very
     accurate. Don't fire upon it to let them know you are there, and
     only fire on it if it's hurting or others are helping you. The
-    shield regeneration rate of a crouched [BFR](/BFR "wikilink") is
+    shield regeneration rate of a crouched [BFR](BFR.md "wikilink") is
     only slightly less than the damage the rail beam can deliver.
     You will be shooting at it a very long time if you think you
     will kill it alone.
 
 <!-- -->
 
-- [Terran Republic](/Terran_Republic "wikilink")
-  - [Prowler](/Prowler "wikilink"): This is your biggest enemy tank
-    threat. At close range, the [Prowler](/Prowler "wikilink") will
+- [Terran Republic](Terran_Republic.md "wikilink")
+  - [Prowler](Prowler.md "wikilink"): This is your biggest enemy tank
+    threat. At close range, the [Prowler](Prowler.md "wikilink") will
     kill you in the blink of an eye, especially with 2 gunners. Use
-    the same tactics as the [Vanguard](/Vanguard "wikilink") above.
+    the same tactics as the [Vanguard](Vanguard.md "wikilink") above.
     Stay as far away as possible and lure them into trees or head
     for water.
-  - [Raider](/Raider "wikilink"): While not as deadly as the
-    [Thunderer](/Thunderer "wikilink"), at point blank range, you
+  - [Raider](Raider.md "wikilink"): While not as deadly as the
+    [Thunderer](Thunderer.md "wikilink"), at point blank range, you
     will still have a hard time winning. Keep as far away as
     possible, where the damage of the raider is less. Like the
-    tactics for the [Thunderer](/Thunderer "wikilink"), water might
+    tactics for the [Thunderer](Thunderer.md "wikilink"), water might
     not always be the right choice.
-  - [Marauder](/Marauder "wikilink"): Very little threat unless you
+  - [Marauder](Marauder.md "wikilink"): Very little threat unless you
     are heavily damaged. Pursue and destroy, but watch for their
     heavy hitting brothers. This vehicle can carry 3
     striker-equipped troops. They pose a bigger threat when the bail
-    and [Striker](/Striker "wikilink") you. Kill them before they can
+    and [Striker](Striker.md "wikilink") you. Kill them before they can
     bail.
-  - [Striker](/Striker "wikilink"): A lone striker is no threat, but
+  - [Striker](Striker.md "wikilink"): A lone striker is no threat, but
     it seems like just about every TR player has one. If you get
     locked on, head for obstacles to break the lock. Even if you do
     break the lock, you need to change direction, since the rocket
     can sill hit you if you don't.
-  - [Colossus](/Colossus "wikilink"): Not as bad as the
-    [Peregrine](/Peregrine "wikilink"), but still just as hard to
-    kill. Treat like a [Prowler](/Prowler "wikilink") to avoid fire.
+  - [Colossus](Colossus.md "wikilink"): Not as bad as the
+    [Peregrine](Peregrine.md "wikilink"), but still just as hard to
+    kill. Treat like a [Prowler](Prowler.md "wikilink") to avoid fire.
 
 <!-- -->
 
-- [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")
-  - [Magrider](/Magrider "wikilink"): Rarely encountered, but a big
+- [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
+  - [Magrider](Magrider.md "wikilink"): Rarely encountered, but a big
     threat. Head for trees, where you will likely make the less
     experienced magrider driver get hung up.
-  - [Aurora](/Aurora "wikilink"): Laugh at them after you kill them.
+  - [Aurora](Aurora.md "wikilink"): Laugh at them after you kill them.
     Not a big threat.
-  - [Thresher](/Thresher "wikilink"): Keep moving to avoid fire.
-    Treat like an [Enforcer](/Enforcer "wikilink").
-  - [Lancer](/Lancer "wikilink"): Not much you can do to avoid fire.
+  - [Thresher](Thresher.md "wikilink"): Keep moving to avoid fire.
+    Treat like an [Enforcer](Enforcer.md "wikilink").
+  - [Lancer](Lancer.md "wikilink"): Not much you can do to avoid fire.
     Find cover and try to get out of range, though the range is
     huge. Trees might help.
-  - [Aphelion](/Aphelion "wikilink"): If you ever find one of these,
+  - [Aphelion](Aphelion.md "wikilink"): If you ever find one of these,
     it's rare. They have decent anti-vehicular armorment, so it's
     best to stay away. It's harder to dodge hits, since the fire is
     direct fire.
 
 ## Gunner Guide
 
-![](/images/MagGunnerLoadout.jpg "fig:MagGunnerLoadout.JPG") gunner loadout.
-Replace the [CUD](/CUD "wikilink") with two more boxes of glue if not CR3
+![](images/MagGunnerLoadout.jpg "fig:MagGunnerLoadout.JPG") gunner loadout.
+Replace the [CUD](CUD.md "wikilink") with two more boxes of glue if not CR3
 or above. More glue should always be in the trunk.\]\] As stated before,
 ideally you need to be on voice comms with your driver. You don't have
 time to type "I see a vanguard on the other hill, steady me for a
 second". If you know you will be gunning, your loadout should carry two
 boxes of rail beam ammo and one box of PPA. You should have a glue gun,
-and a [Lasher](/Lasher "wikilink") if you have it certed, though a
-[Pulsar](/Pulsar "wikilink") is fine too. You don't need to carry more
+and a [Lasher](Lasher.md "wikilink") if you have it certed, though a
+[Pulsar](Pulsar.md "wikilink") is fine too. You don't need to carry more
 than 1 or two boxes of repair juice, since hopefully your driver has
 plenty in the trunk if you run out. Recommended implants are [Enhanced
-Targeting](/Enhanced_Targeting "wikilink") and
-[Darklight](/Darklight "wikilink"). The third slot is up to you, but
-[Audio Amplifier](/Audio_Amplifier "wikilink") is probably best.
+Targeting](Enhanced_Targeting.md "wikilink") and
+[Darklight](Darklight.md "wikilink"). The third slot is up to you, but
+[Audio Amplifier](Audio_Amplifier.md "wikilink") is probably best.
 
 Like driving, the gunner needs to be looking at the radar screen every
 few seconds. It might alert you of that cloaker that is right next to
 you or a liberator lining you up. If you see puffs of green smoke ahead,
 that's likely an enemy cloaker laying mines down. Anticipate where he is
 and shoot him. Don't fixate too much on any given target. While you're
-firing at that [Prowler](/Prowler "wikilink") a mile away, your driver
-might have just run into a [Thunderer](/Thunderer "wikilink") at point
+firing at that [Prowler](Prowler.md "wikilink") a mile away, your driver
+might have just run into a [Thunderer](Thunderer.md "wikilink") at point
 blank range and needs your help pronto.
 
 Your main goal while gunning is to defend the tank. Your secondary goal
 is to attack targets. Thus if you are chasing a
-[Vanguard](/Vanguard "wikilink") but a [Reaver](/Reaver "wikilink") is
+[Vanguard](Vanguard.md "wikilink") but a [Reaver](Reaver.md "wikilink") is
 killing you, you need to direct fire at the Reaver first.
 
 You should always target the least armored and most heavily armed
 targets first. A rough order of threats that you should engage when on
 the defense:
 
-- [Reaver](/Reaver "wikilink"): Probably your biggest threat, so they
+- [Reaver](Reaver.md "wikilink"): Probably your biggest threat, so they
   should always be priority if you know they see you.
-- [Fury](/Fury "wikilink"): Very damaging weapon, but relatively easy
+- [Fury](Fury.md "wikilink"): Very damaging weapon, but relatively easy
   to kill. Kill first.
-- AV [MAX](/MAX "wikilink") units: [Falcon](/Falcon "wikilink") is not
-  much a threat, but if a [Pounder](/Pounder "wikilink") if firing at
+- AV [MAX](MAX.md "wikilink") units: [Falcon](Falcon.md "wikilink") is not
+  much a threat, but if a [Pounder](Pounder.md "wikilink") if firing at
   you, it should be second only to the reaver, as they can kill you
   very quickly.
 - Nearby Anti-Vehicular Troops: If you have a good line of sight on
@@ -341,7 +341,7 @@ the defense:
   trees or cover, ignore.
 - Tanks: Low on the list, but they have high firepower if they are
   nearby.
-- [Thunderer](/Thunderer "wikilink") and [Raider](/Raider "wikilink"):
+- [Thunderer](Thunderer.md "wikilink") and [Raider](Raider.md "wikilink"):
   Low armor, but high damage output. As stated earlier, we want to
   avoid contact at close range, but if you do, these should be second
   only to the reaver.
@@ -350,18 +350,18 @@ the defense:
 - Sunderer Variants: Moderate threat, but takes a long time to take
   down. Engage if it's the only threat, but ignore if there are
   deadlier enemies out there.
-- [Mosquito](/Mosquito "wikilink") Usually not much of a threat, but
+- [Mosquito](Mosquito.md "wikilink") Usually not much of a threat, but
   likely a quick take-down.
-- [BFRs](/BFR "wikilink"): Lowest of all, since you almost ask for
+- [BFRs](BFR.md "wikilink"): Lowest of all, since you almost ask for
   death if you start shooting them. If they are hurt or others are
   engaging with you, take them out.
 
-On the attack, you should be targeting [AMSes](/AMS "wikilink"), tanks,
-and [MAX](/MAX "wikilink") units in that order as priority, though it's
+On the attack, you should be targeting [AMSes](AMS.md "wikilink"), tanks,
+and [MAX](MAX.md "wikilink") units in that order as priority, though it's
 never bad to work in a quick infantry kill when possible.
 
 When your driver stops to repair, do a quick darklight sweep of the area
-to check for cloakers, especially near [Lodestars](/Lodestar "wikilink").
+to check for cloakers, especially near [Lodestars](Lodestar.md "wikilink").
 After that, you need to make a judgment to either help repair, or stay
 in the gun. Only experience will help you make the decision.
 
@@ -389,11 +389,11 @@ quite a long time hopefully.
 ## New CE Addendum
 
 With the addition of the new [Combat
-Engineering](/Combat_Engineering "wikilink"), several new tactics can be
+Engineering](Combat_Engineering.md "wikilink"), several new tactics can be
 introduced. The main change for tank drivers is the use of the [Aegis
-Shield Generator](/Aegis_Shield_Generator "wikilink"). By having an
-[FDU](/FDU "wikilink") either in you or your gunner's inventory, or in
-your mag's [trunk](/trunk "wikilink"), you can make a cloaked repair
+Shield Generator](Aegis_Shield_Generator.md "wikilink"). By having an
+[FDU](FDU.md "wikilink") either in you or your gunner's inventory, or in
+your mag's [trunk](trunk.md "wikilink"), you can make a cloaked repair
 station. When you get out to repair, place an Aegis down beside you.
 This will cloak you while you repair. If you plan on coming back to the
 same spot for a while, you might consider charging the shield up to
@@ -403,22 +403,22 @@ to store. Thus, be sure you still have enough glue to repair the mag
 itself, as you cannot get more from the Aegis. Usually it's not worth
 the time to charge the shield, but the cloaking effect is well worth it.
 
-[Cerberus Turrets](/Cerberus_Turret "wikilink") are also a nice addition
+[Cerberus Turrets](Cerberus_Turret.md "wikilink") are also a nice addition
 for tank drivers. Place 1 or 2 of these at your repair site to scare
 away enemy air cav. You can also set up many more in a single area and
 use it as a retreating point to scare off that
-[Reaver](/Reaver "wikilink") that is chasing you.
+[Reaver](Reaver.md "wikilink") that is chasing you.
 
-The new Anti-Vehicular [Wall Turret](/Wall_Turret "wikilink") can make
+The new Anti-Vehicular [Wall Turret](Wall_Turret.md "wikilink") can make
 quick work of a mag. The damage per second is roughly equivalent to the
-[Prowler](/Prowler "wikilink")! These upgraded turrets should be taken
-out whenever possible. Treat like a [Colossus](/Colossus "wikilink"):
+[Prowler](Prowler.md "wikilink")! These upgraded turrets should be taken
+out whenever possible. Treat like a [Colossus](Colossus.md "wikilink"):
 stay far away and strafe to avoid fire and engage with the long range of
 the rail beam.
 
-[TRAPs](/TRAP "wikilink") are usually not a great concern to a Magrider.
+[TRAPs](TRAP.md "wikilink") are usually not a great concern to a Magrider.
 You usually see them on bridges, but Mags can easily avoid bridges. Be
 aware that you can drive stright through a friendly TRAP as if it were
 not there.
 
-[category: Strategy](/category:_Strategy "wikilink")
+[category: Strategy](category:_Strategy.md "wikilink")

@@ -14,10 +14,10 @@ progress.
 While you're waiting for launchpad to install the rest of the client,
 read through this wiki, so you aren't ridiculously lost when you get
 in-game. A good place to start is evaluating your
-[Empire](/Empire "wikilink") choices.
+[Empire](Empire.md "wikilink") choices.
 
 ## Step Four: Play
 
 Go ruin someone's day.
 
-[Category:Game Guides](/Category:Game_Guides "wikilink")
+[Category:Game Guides](Category:Game_Guides.md "wikilink")

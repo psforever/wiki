@@ -38,4 +38,4 @@ is more important.
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=26)
 
-[Category:PSForever Updates](/Category:PSForever_Updates "wikilink")
+[Category:PSForever Updates](Category:PSForever_Updates.md "wikilink")

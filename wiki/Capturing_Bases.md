@@ -1,5 +1,5 @@
 The most basic element of strategy in Planeteside is the fine art of
-capturing [bases](/Facilities "wikilink"). Though the mechanics of a base
+capturing [bases](Facilities.md "wikilink"). Though the mechanics of a base
 capture are simple, there's a lot of different ways you can do it.
 
 <h3>
@@ -9,14 +9,14 @@ The Goal: Hack the CC
 </h3>
 
 When you are attacking a base the ultimate goal will be to
-[hack](/hack "wikilink") the [Control
-Console](/Control_Console "wikilink") of the facility and secure the
+[hack](hack.md "wikilink") the [Control
+Console](Control_Console.md "wikilink") of the facility and secure the
 control console. You must keep control of the CC until either the 15
-minute capture timer runs, or in the case of an [LLU](/LLU "wikilink")
+minute capture timer runs, or in the case of an [LLU](LLU.md "wikilink")
 base, the LLU is delivered.
 
 It takes 20 seconds for an [advanced
-hacker](/Advanced_Hacking "wikilink") to control a CC, so you must be
+hacker](Advanced_Hacking.md "wikilink") to control a CC, so you must be
 sure that the CC is never insecure for more than 20 seconds.
 Furthermore, when you are attempting to stop an enemy from taking your
 base, remember that once it gets down to that 20 second mark, they will
@@ -30,16 +30,16 @@ Securing the hack
 </h3>
 
 Ultimately, control of a base comes down to controlling [spawn
-points](/spawn_point "wikilink"). If you can [spawn](/spawn "wikilink") at
+points](spawn_point.md "wikilink"). If you can [spawn](spawn.md "wikilink") at
 a base and the enemy cannot, you will win most of the time. It is
 possible for well coordinated forces to retake a CC without having a
 nearby spawn point but it is far more difficult to do so.
 
 There are three types of spawn points to consider in this situation:
 
-1.  [AMS](/Advanced_Mobile_Station "wikilink")
-2.  [Towers](/Towers "wikilink")
-3.  Base [spawn tubes](/Respawn_tube "wikilink")
+1.  [AMS](Advanced_Mobile_Station.md "wikilink")
+2.  [Towers](Towers.md "wikilink")
+3.  Base [spawn tubes](Respawn_tube.md "wikilink")
 
 <h3>
 
@@ -52,7 +52,7 @@ it is going to be for you. The base spawns, being inside the base, are
 obviously the greatest threat to a successful base capture.
 
 To shut down the base spawns you can either destroy the individual tubes
-or destroy the [generator](/generator "wikilink"). A tube can be
+or destroy the [generator](generator.md "wikilink"). A tube can be
 destroyed with one boomer, three decimators, or a number of other
 combinations of weapons. Armor piercing and AV weapons are going to be
 best suited to destroying tubes.
@@ -78,7 +78,7 @@ Towers
 
 </h3>
 
-[Towers](/Towers "wikilink"), though usually a good distance from the
+[Towers](Towers.md "wikilink"), though usually a good distance from the
 base, are dangerous because of two factors:
 
 1.  MAX units can be obtained at them
@@ -95,4 +95,4 @@ be able to get outdoors with the proper gear to do it. In a heated
 battle with many enemies spawning close to the base, this may not be
 possible.
 
-[Category:Game Guides](/Category:Game_Guides "wikilink")
+[Category:Game Guides](Category:Game_Guides.md "wikilink")

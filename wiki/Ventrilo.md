@@ -1,4 +1,4 @@
-![](/images/Ventrilo.jpg "fig:Ventrilo.jpg") [Ventrilo](/Ventrilo "wikilink") is
+![](images/Ventrilo.jpg "fig:Ventrilo.jpg") [Ventrilo](Ventrilo.md "wikilink") is
 a scalable Voice over IP communication program created by Flaship
 Industries, Inc. Users download the Ventrilo client and then connect to
 a Ventrilo server. Users usually communicate through use of a headset or
@@ -9,16 +9,16 @@ be changed by switching to a different codec.
 Ventrilo is often used for online gaming when reflexes are an issue and
 time cannot be wasted typing out responses. Rather, gamers use Ventrilo
 to communicate with members on the same team as them for tactical
-reasons. Some [outfits](/outfit "wikilink") in
-[PlanetSide](/PlanetSide "wikilink") use Ventrilo, and some go as far as
-to mandate Ventrilo to be a member of the [outfit](/outfit "wikilink").
+reasons. Some [outfits](outfit.md "wikilink") in
+[PlanetSide](PlanetSide.md "wikilink") use Ventrilo, and some go as far as
+to mandate Ventrilo to be a member of the [outfit](outfit.md "wikilink").
 
 ## See Also
 
-- [Teamspeak](/Teamspeak "wikilink")
+- [Teamspeak](Teamspeak.md "wikilink")
 
 ## External Links
 
 - [The Ventrilo Home Page](http://www.ventrilo.com/)
 
-[category:Communication](/category:Communication "wikilink")
+[category:Communication](category:Communication.md "wikilink")

@@ -26,7 +26,7 @@ Original Participating Organizations:
 ` PlanetSide Idealab`
 ` PlanetSideStats.net`
 ` PlanetSide Comics`
-` Syndicate Radio Network `
+`Syndicate Radio Network`
 
 The only website still operational, though no longer updated, is the
 PlanetSide Idealab.
@@ -37,9 +37,9 @@ Launch Date: January 31, 2005
 
 PlanetSide Syndicate was last edited on February 19th,2011, and for
 all-intensive purposes is now a dead site. [PlanetSide
-Forever](/PlanetSide_Forever "wikilink") has mirrored the site for
+Forever](PlanetSide_Forever.md "wikilink") has mirrored the site for
 archival purposes, as well as to build and improve on it. It is our hope
 that we can restore the content of PS Syndicate and shape it into a
 comprehensive and user-friendly wiki page for all
-[PlanetSide](/PlanetSide "wikilink") players to use. [category:Web
-site](/category:Web_site "wikilink")
+[PlanetSide](PlanetSide.md "wikilink") players to use. [category:Web
+site](category:Web_site.md "wikilink")

@@ -1,4 +1,4 @@
-Articles on the [Empires](/Empire "wikilink") available in
-[PlanetSide](/PlanetSide "wikilink").
+Articles on the [Empires](Empire.md "wikilink") available in
+[PlanetSide](PlanetSide.md "wikilink").
 
-[Category:PlanetSide](/Category:PlanetSide "wikilink")
+[Category:PlanetSide](Category:PlanetSide.md "wikilink")

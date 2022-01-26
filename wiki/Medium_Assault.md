@@ -28,8 +28,8 @@
 
 **Medium Assault**
 
-This [Certification](/Certification "wikilink") is required to obtain the
-[Rifleman](/Rifleman "wikilink") [Merit
-Commendation](/Merit_Commendation "wikilink").
+This [Certification](Certification.md "wikilink") is required to obtain the
+[Rifleman](Rifleman.md "wikilink") [Merit
+Commendation](Merit_Commendation.md "wikilink").
 
-[Category:Certification](/Category:Certification "wikilink")
+[Category:Certification](Category:Certification.md "wikilink")

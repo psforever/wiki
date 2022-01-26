@@ -1,10 +1,10 @@
-[Dropship Center](/Dropship_Center "wikilink") on southeast
-[Searhus](/Searhus "wikilink") in O-15, one [Air
-tower](/Air_tower "wikilink") to northeast (outside of
-[SOI](/SOI "wikilink")), elevation 91.0 meters.
+[Dropship Center](Dropship_Center.md "wikilink") on southeast
+[Searhus](Searhus.md "wikilink") in O-15, one [Air
+tower](Air_tower.md "wikilink") to northeast (outside of
+[SOI](SOI.md "wikilink")), elevation 91.0 meters.
 
-[Lattice](/Lattice "wikilink") links: [Iva](/Iva "wikilink"),
-[Akua](/Akua "wikilink"), [Drakulu](/Drakulu "wikilink"),
-[Rehua](/Rehua "wikilink")
+[Lattice](Lattice.md "wikilink") links: [Iva](Iva.md "wikilink"),
+[Akua](Akua.md "wikilink"), [Drakulu](Drakulu.md "wikilink"),
+[Rehua](Rehua.md "wikilink")
 
-[Category:Facilities](/Category:Facilities "wikilink")
+[Category:Facilities](Category:Facilities.md "wikilink")

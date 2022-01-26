@@ -1,10 +1,10 @@
-Also known as "[ForumSide](/Forumside "wikilink")"
+Also known as "[ForumSide](Forumside.md "wikilink")"
 
 The [PlanetSide Official
 Forums](http://forums.station.sony.com/ps/forums/list.m) are a set of
-forum boards hosted by [SOE](/SOE "wikilink"). It is the official place
+forum boards hosted by [SOE](SOE.md "wikilink"). It is the official place
 on the internet to discuss matters concerning
-[PlanetSide](/PlanetSide "wikilink"), and is thuse the largest gathering
+[PlanetSide](PlanetSide.md "wikilink"), and is thuse the largest gathering
 place for community minded players.
 
 Currently, the forums are powered by [Lithium](http://lithium.com/)
@@ -15,4 +15,4 @@ At the moment, there have been two versions of the forum. Originally,
 there was a fairly basic BBcode board, and now there is the Lithium
 board.
 
-[category:Communication](/category:Communication "wikilink")
+[category:Communication](category:Communication.md "wikilink")

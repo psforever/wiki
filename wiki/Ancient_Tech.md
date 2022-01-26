@@ -1,1 +1,1 @@
-1.  REDIRECT [Ancient Technology](/Ancient_Technology "wikilink")
+1.  REDIRECT [Ancient Technology](Ancient_Technology.md "wikilink")

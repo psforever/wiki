@@ -96,17 +96,17 @@ These Merits are earned by obtaining the various levels of each of the
 following Merit Classes:
 
 - [Basic Weapons](</Basic_Weapons_(Merit)> "wikilink")
-- [Rifleman](/Rifleman "wikilink")
+- [Rifleman](Rifleman.md "wikilink")
 - [Heavy Assault](</Heavy_Assault_(Merit)> "wikilink")
 - [Special Assault](</Special_Assault_(Merit)> "wikilink")
 - [Sniper](</Sniper_(Merit)> "wikilink")
-- [Anti-Armor](/Anti-Armor "wikilink")
+- [Anti-Armor](Anti.$1.md "wikilink")
 
 Each of the first three levels of the above merits will yield the
 successive level of Weapons Citation.
 
 **Note:** Completing the Kill Streaks for the above
-[Merits](/Merit_Commendation "wikilink") is not required to obtain this
+[Merits](Merit_Commendation.md "wikilink") is not required to obtain this
 Merit.
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

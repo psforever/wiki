@@ -1,1 +1,1 @@
-1.  REDIRECT [Lockers](/Lockers "wikilink")
+1.  REDIRECT [Lockers](Lockers.md "wikilink")

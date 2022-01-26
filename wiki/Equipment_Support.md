@@ -221,18 +221,18 @@
 This Merit is rewarded for kills scored by equipment that were damaged
 by Enemy Fire then repaired by you. These include:
 
-- [Phalanx](/Phalanx "wikilink") Wall Turrets (manned or unmanned)
-- All [Vehicles](/Vehicle "wikilink")
-- [Spitfire Turrets](/Spitfire_Turret "wikilink")
-- [Cerberus Turrets](/Cerberus_Turret "wikilink")
-- [Shadow Turrets](/Shadow_Turret "wikilink")
-- [One-Manned Field Turrets](/One-Manned_Field_Turret "wikilink")
-- Manned [Ancient Sentry Turrets](/Ancient_Sentry_Turret "wikilink")
+- [Phalanx](Phalanx.md "wikilink") Wall Turrets (manned or unmanned)
+- All [Vehicles](Vehicle.md "wikilink")
+- [Spitfire Turrets](Spitfire_Turret.md "wikilink")
+- [Cerberus Turrets](Cerberus_Turret.md "wikilink")
+- [Shadow Turrets](Shadow_Turret.md "wikilink")
+- [One-Manned Field Turrets](One.$1.md "wikilink")
+- Manned [Ancient Sentry Turrets](Ancient_Sentry_Turret.md "wikilink")
 
 The tracker starts after the first kill after the repair assist. The
 tracker stops 5 to 10 minutes later, depending how much repair was
 needed (exception: [Tiny Robotics
-Support](/Tiny_Robotics_Support "wikilink") equipment tracks until the
+Support](Tiny_Robotics_Support.md "wikilink") equipment tracks until the
 turret is destroyed and has no timer). The tracker also stops when the
 the repaired equipment gets destroyed.
 
@@ -323,6 +323,6 @@ the universal symbol for humanitarian aid:
 </table>
 
 **Note: The Titanium graphic has a slight color error. This is a mistake
-by [SOE](/SOE "wikilink")**
+by [SOE](SOE.md "wikilink")**
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

@@ -1,1 +1,1 @@
-1.  REDIRECT [Respawn Tube](/Respawn_Tube "wikilink")
+1.  REDIRECT [Respawn Tube](Respawn_Tube.md "wikilink")

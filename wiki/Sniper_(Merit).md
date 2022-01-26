@@ -213,6 +213,6 @@
 </table>
 
 A seven-level Infantry Merit, obtained by amassing kills with the [Bolt
-Driver](/Bolt_Driver "wikilink") and [HSR](/HSR "wikilink").
+Driver](Bolt_Driver.md "wikilink") and [HSR](HSR.md "wikilink").
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

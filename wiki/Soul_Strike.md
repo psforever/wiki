@@ -1,16 +1,16 @@
-![](/images/Decoys_memorial1.jpg "fig:Decoys_memorial1.jpg") Soul_Strike is a
-mid-sized [outfit](/outfit "wikilink") that fights for the [Vanu
-Sovereignty](/Vanu_Sovereignty "wikilink") on the
-[Emerald](/Emerald "wikilink") [Server](/Server "wikilink"). They also
+![](images/Decoys_memorial1.jpg "fig:Decoys_memorial1.jpg") Soul_Strike is a
+mid-sized [outfit](outfit.md "wikilink") that fights for the [Vanu
+Sovereignty](Vanu_Sovereignty.md "wikilink") on the
+[Emerald](Emerald.md "wikilink") [Server](Server.md "wikilink"). They also
 have alt chapters on [New
-Conglomerate](/New_Conglomerate "wikilink")-[Markov](/Markov "wikilink")
+Conglomerate](New_Conglomerate.md "wikilink")-[Markov](Markov.md "wikilink")
 and [Terran
-Republic](/Terran_Republic "wikilink")-[Werner](/Werner "wikilink").
+Republic](Terran_Republic.md "wikilink")-[Werner](Werner.md "wikilink").
 
 ## Outfit History
 
 In the summer of 2004 a couple of Soldiers deployed in Korea joined
-[Planetside](/Planetside "wikilink"). They quickly were snatched up by a
+[Planetside](Planetside.md "wikilink"). They quickly were snatched up by a
 Tactical Outfit, the Band of Bros. Both Soldiers excelled in the game,
 and in making leadership decisions, leading to their quick promotion to
 officer rank. One of those Soldiers excelled so much that the outfit
@@ -33,8 +33,8 @@ Outfit is just coming out of such a recession.
 
 Soul_Strike bills itself as a QRF (Quick Reaction Force). As such, it
 trains its leaders to look for time critical missions. Due to its highly
-mobile nature, the Outfit favors [Galaxy](/Galaxy "wikilink") drops, and
-[MBT](/Medium_Battle_Tank "wikilink") columns, among other tactics.
+mobile nature, the Outfit favors [Galaxy](Galaxy.md "wikilink") drops, and
+[MBT](Medium_Battle_Tank.md "wikilink") columns, among other tactics.
 Soul_Strike also makes extensive use of voice chat as a force
 multiplier.
 
@@ -43,7 +43,7 @@ multiplier.
 Soul_Strike is lead as it always has been by its founder, Soulkeeper.
 Underneath him are the commanding officers, and underneath them are
 Tactical commanders. Anyone can take charge in a Soul_Strike Outfit
-[squad](/squad "wikilink") or [platoon](/platoon "wikilink"), and it is
+[squad](squad.md "wikilink") or [platoon](platoon.md "wikilink"), and it is
 encouraged that everyone in the Outfit get some leadership training. To
 prevent leadership clashes, only one player is actively in command, and
 if not the ranking officer online, his/her decisions are passed through
@@ -65,6 +65,6 @@ Current Tactical Officers are:
 **DrChaos**
 **MissingInAction90**
 
-[Category:Outfits](/Category:Outfits "wikilink") [Category:Vanu
-Sovereignty Outfits](/Category:Vanu_Sovereignty_Outfits "wikilink")
-[Category:Emerald Outfits](/Category:Emerald_Outfits "wikilink")
+[Category:Outfits](Category:Outfits.md "wikilink") [Category:Vanu
+Sovereignty Outfits](Category:Vanu_Sovereignty_Outfits.md "wikilink")
+[Category:Emerald Outfits](Category:Emerald_Outfits.md "wikilink")
