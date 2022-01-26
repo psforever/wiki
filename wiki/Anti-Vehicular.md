@@ -27,8 +27,8 @@
 
 **Anti-Vehicular**
 
-This [Certification](/Certification "wikilink") is required to obtain the
+This [Certification](Certification.md "wikilink") is required to obtain the
 [Anti-Armor](</Anti-Vehicular_(Merit)> "wikilink") [Merit
-Commendation](/Merit_Commendation "wikilink").
+Commendation](Merit_Commendation.md "wikilink").
 
-[Category:Certification](/Category:Certification "wikilink")
+[Category:Certification](Category:Certification.md "wikilink")

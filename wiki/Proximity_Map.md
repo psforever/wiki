@@ -1,14 +1,14 @@
-![`Proximity_map.jpg`](/images/Proximity_map.jpg "Proximity_map.jpg")
+![`Proximity_map.jpg`](images/Proximity_map.jpg "Proximity_map.jpg")
 
 Also known as the "Radar," the **Proximity Map** is typically located in
 the top left of your [Heads-Up Display
-(HUD)](/Heads-up_Display "wikilink") and shows a wealth of data.
+(HUD)](Heads-up_Display.md "wikilink") and shows a wealth of data.
 
 Friendly units are displayed in Green. Enemy Units are displayed in Red.
 
 Depending on certain variables such as [Motion
-Sensors](/Adaptive_Construction_Engine#Motion_Sensor_Alarm "wikilink") or
-control of an [Interlink Facility](/Interlink_Facility "wikilink"), some
+Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm "wikilink") or
+control of an [Interlink Facility](Interlink_Facility.md "wikilink"), some
 Enemy units may or may not show up on your Radar.
 
 When you are outdoors, by default, your Proximity Map displays a map
@@ -16,7 +16,7 @@ When you are outdoors, by default, your Proximity Map displays a map
 for an easier view of nearby troops. When you are indoors, the 50m
 setting will show the layouts of the various rooms that can be found on
 your current level, making navigation within
-[Facilities](/Facilities "wikilink") much easier.
+[Facilities](Facilities.md "wikilink") much easier.
 
 There are two orientation modes, toggleable via the menu:
 
@@ -25,9 +25,9 @@ There are two orientation modes, toggleable via the menu:
 2.  Player-rotate mode, which always shows North upwards and will rotate
     your arrow to indicate your heading.
 
-If you have the [Advanced Medical](/Advanced_Medical "wikilink")
+If you have the [Advanced Medical](Advanced_Medical.md "wikilink")
 certification and equip the [Medical
-Applicator](/Medical_Applicator "wikilink"), fallen soldiers will be
+Applicator](Medical_Applicator.md "wikilink"), fallen soldiers will be
 shown as glowing triangles. If you are a fallen soldier, friendly
 Advanced Medics holding Medical Applicators will be shown as glowing
 crosses (Advanced Medics will see this as well when holding a Medical
@@ -44,7 +44,7 @@ You can toggle the Map on and off from your Soldier Management Bar,
 located at the bottom right of your HUD.
 
 The **Proximity Map** is also called the Proximity Radar, Radar Map, or,
-incorrectly, the [Overhead Map](/Overhead_Map "wikilink").
+incorrectly, the [Overhead Map](Overhead_Map.md "wikilink").
 
-[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
-Guides](/Category:Game_Guides "wikilink")
+[Category:Terminology](Category:Terminology.md "wikilink") [Category:Game
+Guides](Category:Game_Guides.md "wikilink")

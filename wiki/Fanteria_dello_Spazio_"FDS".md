@@ -1,5 +1,5 @@
-The [Planetside](/Planetside "wikilink") Italian
-[Outfit](/Outfit "wikilink").
+The [Planetside](Planetside.md "wikilink") Italian
+[Outfit](Outfit.md "wikilink").
 
 Se siete Italiani questa è l'outfit che che fa per voi, composta solo da
 compatrioti fedelissimi alla Repubblica Terran. Per gildare nella nostra

@@ -1,1 +1,1 @@
-1.  REDIRECT [Dual-Cycler](/Dual-Cycler "wikilink")
+1.  REDIRECT [Dual-Cycler](Dual-Cycler.md "wikilink")

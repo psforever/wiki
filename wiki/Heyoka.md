@@ -1,17 +1,17 @@
 Heyoka is one of the three [Technology
-Plants](/Technology_Plant "wikilink") on [Amerish](/Amerish "wikilink").
+Plants](Technology_Plant.md "wikilink") on [Amerish](Amerish.md "wikilink").
 It is located in grids K14 and K15 in the South of Amerish.
 
-It has [Lattice](/Lattice "wikilink") Links to:
+It has [Lattice](Lattice.md "wikilink") Links to:
 
-- [Interlink Facility](/Interlink_Facility "wikilink")
-  [Cetan](/Cetan "wikilink") (Sub-Capitol)
-- [Bio Laboratory](/Bio_Laboratory "wikilink") [Kyoi](/Kyoi "wikilink")
+- [Interlink Facility](Interlink_Facility.md "wikilink")
+  [Cetan](Cetan.md "wikilink") (Sub-Capitol)
+- [Bio Laboratory](Bio_Laboratory.md "wikilink") [Kyoi](Kyoi.md "wikilink")
   (Sub-Capitol)
-- Bio Laboratory [Ikanam](/Ikanam "wikilink")
+- Bio Laboratory [Ikanam](Ikanam.md "wikilink")
 
-Heyoka is a [LLU](/LLU "wikilink") Facility, and has a Watch Tower to
+Heyoka is a [LLU](LLU.md "wikilink") Facility, and has a Watch Tower to
 it's North East, half in, half outside the Facility's
-[SOI](/SOI "wikilink").
+[SOI](SOI.md "wikilink").
 
-[Category:Facilities](/Category:Facilities "wikilink")
+[Category:Facilities](Category:Facilities.md "wikilink")

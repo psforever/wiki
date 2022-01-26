@@ -1,9 +1,9 @@
-![`Starfire_MAX.jpg`](/images/Starfire_MAX.jpg "Starfire_MAX.jpg")
+![`Starfire_MAX.jpg`](images/Starfire_MAX.jpg "Starfire_MAX.jpg")
 
 |                            |                                                                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)> "wikilink") or [Uni-MAX](<Uni-MAX_(Certification)> "wikilink") |
-| **Empire**                 | [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")                                                                       |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")                                                                     |
 | **Armor**                  | 650                                                                                                                    |
 | **Primary Mode**           | Normal fire                                                                                                            |
 | **Secondary Mode**         | \-                                                                                                                     |
@@ -16,15 +16,15 @@
 
 The **Starfire** features an aircraft tracking mechanism, allowing its
 weapon to home in on enemy aircraft. Unlike the
-[Sparrow](/Sparrow "wikilink") however, the **Starfire** must maintain
+[Sparrow](Sparrow.md "wikilink") however, the **Starfire** must maintain
 the "lock" for the projectiles to find their target.
 
-This [MAX](/Mechanized_Armored_Exo-Suit "wikilink")'s jump jets allow it
+This [MAX](Mechanized_Armored_Exo-Suit.md "wikilink")'s jump jets allow it
 to sail over ground obstacles, making this the most mobile of
-[MAXes](/MAX "wikilink").
+[MAXes](MAX.md "wikilink").
 
 The Starfire has the Fastest Time to Kill of all three
-[Empires](/Empire "wikilink") Anti Aircraft [MAXs](/MAX "wikilink") on
+[Empires](Empire.md "wikilink") Anti Aircraft [MAXs](MAX.md "wikilink") on
 most targets.
 
-[Category:Game Items](/Category:Game_Items "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")

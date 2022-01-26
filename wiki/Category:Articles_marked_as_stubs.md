@@ -11,4 +11,4 @@ is expanded, it should be ensured that reliable sources are cited where
 needed. Once a stub is expanded so that it can be considered a
 full-length article, the {{stub}} tag should be removed.
 
-[Category:Wiki Maintenance](/Category:Wiki_Maintenance "wikilink")
+[Category:Wiki Maintenance](Category:Wiki_Maintenance.md "wikilink")

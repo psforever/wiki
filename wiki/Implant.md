@@ -1,1 +1,1 @@
-1.  REDIRECT [Implants](/Implants "wikilink")
+1.  REDIRECT [Implants](Implants.md "wikilink")

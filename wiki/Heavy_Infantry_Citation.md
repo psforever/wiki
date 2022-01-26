@@ -116,24 +116,24 @@
 </table>
 
 - **Generalist:** Qualify for the Qualification level of the
-  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
-  Assault](/Heavy_Assault "wikilink"), [Special
-  Assault](/Special_Assault "wikilink") and
-  [Sniping](/Sniping "wikilink") Merits.
+  [Anti-Vehicular](Anti-Vehicular.md "wikilink"), [Heavy
+  Assault](Heavy_Assault.md "wikilink"), [Special
+  Assault](Special_Assault.md "wikilink") and
+  [Sniping](Sniping.md "wikilink") Merits.
 - **Expert:** Qualify for the Bronze level of the
-  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
-  Assault](/Heavy_Assault "wikilink"), [Special
-  Assault](/Special_Assault "wikilink") and
-  [Sniping](/Sniping "wikilink") Merits.
+  [Anti-Vehicular](Anti-Vehicular.md "wikilink"), [Heavy
+  Assault](Heavy_Assault.md "wikilink"), [Special
+  Assault](Special_Assault.md "wikilink") and
+  [Sniping](Sniping.md "wikilink") Merits.
 - **Elite:** Qualify for the Silver level of the
-  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
-  Assault](/Heavy_Assault "wikilink"), [Special
-  Assault](/Special_Assault "wikilink") and
-  [Sniping](/Sniping "wikilink") Merits.
+  [Anti-Vehicular](Anti-Vehicular.md "wikilink"), [Heavy
+  Assault](Heavy_Assault.md "wikilink"), [Special
+  Assault](Special_Assault.md "wikilink") and
+  [Sniping](Sniping.md "wikilink") Merits.
 - **Master:** Qualify for the Gold level of the
-  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
-  Assault](/Heavy_Assault "wikilink"), [Special
-  Assault](/Special_Assault "wikilink") and
-  [Sniping](/Sniping "wikilink") Merits.
+  [Anti-Vehicular](Anti-Vehicular.md "wikilink"), [Heavy
+  Assault](Heavy_Assault.md "wikilink"), [Special
+  Assault](Special_Assault.md "wikilink") and
+  [Sniping](Sniping.md "wikilink") Merits.
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

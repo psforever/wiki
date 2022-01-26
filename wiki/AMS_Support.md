@@ -214,11 +214,11 @@
 
 This Merit is awarded for kills scored by Friendly Soldiers after they
 have spawned at your [Advanced Mobile
-Station](/Advanced_Mobile_Station "wikilink"). While you will also
+Station](Advanced_Mobile_Station.md "wikilink"). While you will also
 receive assists and [Support Experience
-Points](/Support_Experience_Points "wikilink") for kills made by friendly
+Points](Support_Experience_Points.md "wikilink") for kills made by friendly
 soldiers after using one of your AMS' [Equipment
-Terminals](/Equipment_Terminal "wikilink"), this merit only tracks
+Terminals](Equipment_Terminal.md "wikilink"), this merit only tracks
 respawn assists.
 
-[category:merits](/category:merits "wikilink")
+[category:merits](category:merits.md "wikilink")

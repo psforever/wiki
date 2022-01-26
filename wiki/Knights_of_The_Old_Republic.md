@@ -1,9 +1,9 @@
 ## Knights of the Old Republic
 
-Knights of the Old Republic is an [outfit](/outfit "wikilink") led by
+Knights of the Old Republic is an [outfit](outfit.md "wikilink") led by
 founders TRxTopDawg and TRxMadDawgx that fights for the [Terran
-Republic](/Terran_Republic "wikilink") on the
-[Emerald](/Emerald "wikilink") [Planetside](/Planetside "wikilink")
+Republic](Terran_Republic.md "wikilink") on the
+[Emerald](Emerald.md "wikilink") [Planetside](Planetside.md "wikilink")
 server.
 
 They specialize in Heavy Infantry and Fast Response. Also known as KOTOR

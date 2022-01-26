@@ -5,35 +5,35 @@ senses, stealth, healing, or battlefield awareness depending on the
 implant chosen.
 
 Your character can earn up to a maximum amount of three Implant Slots
-through gaining [Battle Ranks](/Battle_Rank "wikilink").
+through gaining [Battle Ranks](Battle_Rank.md "wikilink").
 
 - BR6 - First slot
 - BR12 - Second slot
 - BR18 - Third slot
 
 Once a slot has been earned, the actual Implant in it may be changed as
-often as needed; unlike [Certifications](/Certification "wikilink"),
+often as needed; unlike [Certifications](Certification.md "wikilink"),
 there is no change-over timer. The only limitation is access to an
-[Implant Terminal](/Implant_Terminal "wikilink").
+[Implant Terminal](Implant_Terminal.md "wikilink").
 
 Upon installation, Implants require a brief enabling time, known as the
-[Initialization timer](/Initialization_timer "wikilink"). Once enabled
+[Initialization timer](Initialization_timer.md "wikilink"). Once enabled
 you may switch the implant on and off as needed. When activated,
-implants can quickly use up your [stamina](/stamina "wikilink"), leaving
+implants can quickly use up your [stamina](stamina.md "wikilink"), leaving
 you drained and unable to run, so caution is advised. Running out of
 stamina will also cause all implants to turn off, although they can be
 immediately reactivated once stamina returns to 20 or more points.
 
-Enemy [Electro-magnetic Pulse (EMP)](/EMP "wikilink") blasts and [Jammer
-grenades](/Jammer_grenade "wikilink") will deactive all implants, forcing
+Enemy [Electro-magnetic Pulse (EMP)](EMP.md "wikilink") blasts and [Jammer
+grenades](Jammer_grenade.md "wikilink") will deactive all implants, forcing
 them to reset their timers before they can enable and be activated
 again.
 
 Implants are installed at [Implant
-Terminals](/Implant_Terminal "wikilink"), located in the [HART
-building](/HART_building "wikilink") of your
-[Empire](/Empire "wikilink")'s [Sanctuary](/Sanctuary "wikilink"), and in
-[Bio Laboratories](/Bio_Laboratory "wikilink").
+Terminals](Implant_Terminal.md "wikilink"), located in the [HART
+building](HART_building.md "wikilink") of your
+[Empire](Empire.md "wikilink")'s [Sanctuary](Sanctuary.md "wikilink"), and in
+[Bio Laboratories](Bio_Laboratory.md "wikilink").
 
 ## Implant Index
 
@@ -138,4 +138,4 @@ Note that you regain 1sp/sec while standing and 2sp/sec while crouched,
 though the use of the regeneration implant is a special case (see
 above).
 
-[\*](/category:Implants "wikilink")
+[\*](category:Implants.md "wikilink")

@@ -1,14 +1,14 @@
-![](/images/Annwn.jpg "fig:Annwn.jpg") ![](/images/AnnwnMap.jpg "fig:AnnwnMap.jpg")
+![](images/Annwn.jpg "fig:Annwn.jpg") ![](images/AnnwnMap.jpg "fig:AnnwnMap.jpg")
 
-Annwn is one of the six [Core Combat](/Core_Combat "wikilink")
-[Caverns](/Caverns "wikilink") and is characterized by teal soil, green
-marble crystals, and cyan [ziplines](/zipline "wikilink").
+Annwn is one of the six [Core Combat](Core_Combat.md "wikilink")
+[Caverns](Caverns.md "wikilink") and is characterized by teal soil, green
+marble crystals, and cyan [ziplines](zipline.md "wikilink").
 
 This cavern is drastically different from other caverns, as it's laid
 out vertically instead of horizontally. The
-[Redoubts](/Redoubt "wikilink") and [AT Plants](/AT_Plant "wikilink") are
-on the floor, while the [Module Buildings](/Module_Building "wikilink")
-are near the top. The [Core Complex](/Core_Complex "wikilink") lies right
+[Redoubts](Redoubt.md "wikilink") and [AT Plants](AT_Plant.md "wikilink") are
+on the floor, while the [Module Buildings](Module_Building.md "wikilink")
+are near the top. The [Core Complex](Core_Complex.md "wikilink") lies right
 in the middle. Buildings and rock seem to hang in mid-air.
 
 Many inexperienced cavers find it difficult to find their way to the top
@@ -20,4 +20,4 @@ It can be assumed that the origin of the cavern's name comes from the
 paradise-esque underworld [Annwn](http://en.wikipedia.org/wiki/Annwyn)
 in Welsh mythology.
 
-[Category:Locations](/Category:Locations "wikilink")
+[Category:Locations](Category:Locations.md "wikilink")

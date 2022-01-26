@@ -1,15 +1,15 @@
-|                            |                                                                                          |
-| -------------------------- | ---------------------------------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](/BattleFrame_Robotics "wikilink")                                 |
-| **Empire**                 | [New Conglomerate](/New_Conglomerate "wikilink")                                         |
-| **Primary Mode**           | Particle Cannon                                                                          |
-| **Secondary Mode**         | \-                                                                                       |
-| **Ammunition**             | [Peregrine Particle Cannon Ammunition](/Peregrine_Particle_Cannon_Ammunition "wikilink") |
-| **Range**                  | 300m                                                                                     |
-| **Inventory Dimensions**   | [BFR](/BFR "wikilink") Gunner Weapon                                                     |
-| **Magazine Capacity**      | 10                                                                                       |
-| **Zoom**                   | 4x                                                                                       |
-|                            |                                                                                          |
+|                            |                                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------------------ |
+| **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md "wikilink")                                 |
+| **Empire**                 | [New Conglomerate](New_Conglomerate.md "wikilink")                                         |
+| **Primary Mode**           | Particle Cannon                                                                            |
+| **Secondary Mode**         | \-                                                                                         |
+| **Ammunition**             | [Peregrine Particle Cannon Ammunition](Peregrine_Particle_Cannon_Ammunition.md "wikilink") |
+| **Range**                  | 300m                                                                                       |
+| **Inventory Dimensions**   | [BFR](BFR.md "wikilink") Gunner Weapon                                                     |
+| **Magazine Capacity**      | 10                                                                                         |
+| **Zoom**                   | 4x                                                                                         |
+|                            |                                                                                            |
 
 **Particle Cannon**
 
@@ -20,6 +20,6 @@ featuring a straight-line trajectory, yet relatively large cone of fire.
 The weapon leaves behind a minor irradiation field that lingers for a
 few seconds, eating away at the armor of anything inside.
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Weapons](/Category:Weapons "wikilink") [Category:New
-Conglomerate Weapons](/Category:New_Conglomerate_Weapons "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Weapons](Category:Weapons.md "wikilink") [Category:New
+Conglomerate Weapons](Category:New_Conglomerate_Weapons.md "wikilink")

@@ -194,6 +194,6 @@ bgcolor="#E6B916">
 </table>
 
 A six-level Infantry Merit, obtained by amassing kills while operating
-an Anti-Vehicular or Anti-Infantry [MAX](/MAX "wikilink") Unit.
+an Anti-Vehicular or Anti-Infantry [MAX](MAX.md "wikilink") Unit.
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

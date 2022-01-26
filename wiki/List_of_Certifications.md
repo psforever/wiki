@@ -1,7 +1,7 @@
 These skills can be applied to your character at the expense of
-[certification points](/certification_points "wikilink"), which are
+[certification points](certification_points.md "wikilink"), which are
 earned relative to the advancement of your [Battle
-Rank](/Battle_Rank "wikilink") except on Battle Rank 6, 12, 18, 24, 25,
+Rank](Battle_Rank.md "wikilink") except on Battle Rank 6, 12, 18, 24, 25,
 28, 30, 32, 34, 36 and 38. Players who have obtained Battle Rank 40 will
 have access to all certifications in-game, without the need to spend
 certification points.
@@ -306,4 +306,4 @@ Cost</p></th>
 </tbody>
 </table>
 
-[\*](/Category:Certification "wikilink")
+[\*](Category:Certification.md "wikilink")

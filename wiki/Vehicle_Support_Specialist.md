@@ -39,10 +39,10 @@
 This Merit is awarded for completing the Qualification level of the
 following Merits:
 
-- [AMS Support](/AMS_Support "wikilink")
-- [Lodestar Support](/Lodestar_Support "wikilink")
-- [Galaxy Support Pilot](/Galaxy_Support_Pilot "wikilink")
-- [Router Support](/Router_Support "wikilink")
-- [Telepad Deployment](/Telepad_Deployment "wikilink")
+- [AMS Support](AMS_Support.md "wikilink")
+- [Lodestar Support](Lodestar_Support.md "wikilink")
+- [Galaxy Support Pilot](Galaxy_Support_Pilot.md "wikilink")
+- [Router Support](Router_Support.md "wikilink")
+- [Telepad Deployment](Telepad_Deployment.md "wikilink")
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

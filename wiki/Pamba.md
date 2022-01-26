@@ -1,14 +1,14 @@
-![](/images/Pamba_Map.jpg "Pamba_Map.jpg")
+![](images/Pamba_Map.jpg "Pamba_Map.jpg")
 
-An [Amp Station](/Amp_Station "wikilink") on East Cyssor
+An [Amp Station](Amp_Station.md "wikilink") on East Cyssor
 
-[Lattice](/Lattice "wikilink") links:
+[Lattice](Lattice.md "wikilink") links:
 
-- [Shango](/Shango "wikilink"), [Bio
-  Laboratory](/Bio_Laboratory "wikilink")
-- [Kaang](/Kaang "wikilink"), [Amp Station](/Amp_Station "wikilink")
+- [Shango](Shango.md "wikilink"), [Bio
+  Laboratory](Bio_Laboratory.md "wikilink")
+- [Kaang](Kaang.md "wikilink"), [Amp Station](Amp_Station.md "wikilink")
 
-One [Tower](/Tower "wikilink") at the Southeast edge of the
-[SOI](/SOI "wikilink")
+One [Tower](Tower.md "wikilink") at the Southeast edge of the
+[SOI](SOI.md "wikilink")
 
-[Category:Facilities](/Category:Facilities "wikilink")
+[Category:Facilities](Category:Facilities.md "wikilink")

@@ -1,1 +1,1 @@
-[Category:Game Items](/Category:Game_Items "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")

@@ -1,30 +1,30 @@
-![](/images/Forceblade.jpg "Forceblade.jpg")
+![](images/Forceblade.jpg "Forceblade.jpg")
 
-|                            |                                                  |
-| -------------------------- | ------------------------------------------------ |
-| **Certification Required** | [Standard Assault](/Standard_Assault "wikilink") |
-| **Empire**                 | [Vanu Sovereignty](/Vanu_Sovereignty "wikilink") |
-| **Primary Mode**           | Slash                                            |
-| **Secondary Mode**         | Force Attack                                     |
-| **Ammunition**             | \-                                               |
-| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                            |
-| **Magazine Capacity**      | \-                                               |
-| **Zoom**                   | None                                             |
+|                            |                                                    |
+| -------------------------- | -------------------------------------------------- |
+| **Certification Required** | [Standard Assault](Standard_Assault.md "wikilink") |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink") |
+| **Primary Mode**           | Slash                                              |
+| **Secondary Mode**         | Force Attack                                       |
+| **Ammunition**             | \-                                                 |
+| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                              |
+| **Magazine Capacity**      | \-                                                 |
+| **Zoom**                   | None                                               |
 
 **Force-Blade**
 
 Standard issue in all [Infiltration
-Suits](/Infiltration_Suit "wikilink"), [Standard
-Exo-Suits](/Standard_Exo-Suit "wikilink"), [Agile
-Exo-Suits](/Agile_Exo-Suit "wikilink") and [Reinforced
-Exo-Suits](/Reinforced_Exo-Suit "wikilink"), the Force-Blade is a
+Suits](Infiltration_Suit.md "wikilink"), [Standard
+Exo-Suits](Standard_Exo-Suit.md "wikilink"), [Agile
+Exo-Suits](Agile_Exo-Suit.md "wikilink") and [Reinforced
+Exo-Suits](Reinforced_Exo-Suit.md "wikilink"), the Force-Blade is a
 generally a weapon of last resort. (Default key: 5)
 
 However, if a Soldier can manage to get close enough to use it, it does
 do a considerable amount of damage, particularly in secondary mode, with
-the aid of a [Melee Booster](/Melee_Booster "wikilink") implant.
+the aid of a [Melee Booster](Melee_Booster.md "wikilink") implant.
 
-Many [Infiltrators](/Infiltrator "wikilink") use this weapon exclusively,
+Many [Infiltrators](Infiltrator.md "wikilink") use this weapon exclusively,
 as it requires no ammo, and no holster space, only a steely nerve.
 
 Secondary mode activates the powered force edge of the blade, doubling
@@ -34,6 +34,6 @@ audiable noise as it does so.
 (Note: This weapon is part of the soldier's armor and so cannot be
 looted.)
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Weapons](/Category:Weapons "wikilink") [Category:Vanu
-Sovereignty Weapons](/Category:Vanu_Sovereignty_Weapons "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Weapons](Category:Weapons.md "wikilink") [Category:Vanu
+Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md "wikilink")

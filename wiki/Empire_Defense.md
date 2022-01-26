@@ -34,82 +34,82 @@ Server times given in their local timezones:
 
 #### Friday
 
-TR won the [Ishundar](/Ishundar "wikilink")
-[Monolith](/Monolith "wikilink") event by capturing the
-[Monolith](/Monolith "wikilink") and sucessfully delivering it to the
+TR won the [Ishundar](Ishundar.md "wikilink")
+[Monolith](Monolith.md "wikilink") event by capturing the
+[Monolith](Monolith.md "wikilink") and sucessfully delivering it to the
 capital's control console, while the VS maintained control the northern
-area of [Ishundar](/Ishundar "wikilink") helping the TR with the
-[Monolith](/Monolith "wikilink"). The NC managed to hold facilities to
+area of [Ishundar](Ishundar.md "wikilink") helping the TR with the
+[Monolith](Monolith.md "wikilink"). The NC managed to hold facilities to
 the South and East, but couldn't overrun the two empires that were
 working together.
 
-The VS won against the TR on [Amerish](/Amerish "wikilink")
+The VS won against the TR on [Amerish](Amerish.md "wikilink")
 
 #### Saturday
 
 1200  VS attacks NC: VS won against the NC on
-[Solsar](/Solsar "wikilink")
+[Solsar](Solsar.md "wikilink")
 
 1600  NC attacks TR: NC won against the TR on
-[Forseral](/Forseral "wikilink")
+[Forseral](Forseral.md "wikilink")
 
 2000  TR attacks NC: NC held off the TR attack on
-[Hossin](/Hossin "wikilink")
+[Hossin](Hossin.md "wikilink")
 
 #### Sunday
 
 1400  NC attacks VS: VS held off the NC attack on
-[Esamir](/Esamir "wikilink")
+[Esamir](Esamir.md "wikilink")
 
 1800 VS attacks TR: TR held off the VS attack on
-[Ceryshen](/Ceryshen "wikilink")
+[Ceryshen](Ceryshen.md "wikilink")
 
 ### Emerald:
 
 #### Friday
 
-NC won the [Cyssor](/Cyssor "wikilink") [Monolith](/Monolith "wikilink")
-event by holding the capital: [Gunuku](/Gunuku "wikilink"), resulting in
+NC won the [Cyssor](Cyssor.md "wikilink") [Monolith](Monolith.md "wikilink")
+event by holding the capital: [Gunuku](Gunuku.md "wikilink"), resulting in
 a default win, while the VS maintained control of the
-[Monolith](/Monolith "wikilink"). The TR held facilities in the South and
+[Monolith](Monolith.md "wikilink"). The TR held facilities in the South and
 East, and came in second place.
 
-The NC won against the TR on [Forseral](/Forseral "wikilink")
+The NC won against the TR on [Forseral](Forseral.md "wikilink")
 
 #### Saturday
 
 1200 TR attacks VS: VS held off the TR attack on
-[Amerish](/Amerish "wikilink")
+[Amerish](Amerish.md "wikilink")
 
 1600  VS attacks NC: VS won against the NC on
-[Solsar](/Solsar "wikilink")
+[Solsar](Solsar.md "wikilink")
 
 2000 NC attacks VS: VS held off the NC attack on
-[Esamir](/Esamir "wikilink")
+[Esamir](Esamir.md "wikilink")
 
 #### Sunday
 
 1400  VS attacks TR: VS won against the TR on
-[Ceryshen](/Ceryshen "wikilink")
+[Ceryshen](Ceryshen.md "wikilink")
 
 1800  TR attacks NC: NC held off the TR attack on
-[Hossin](/Hossin "wikilink")
+[Hossin](Hossin.md "wikilink")
 
 ### Markov:
 
 #### Friday
 
-VS won the [Monolith](/Monolith "wikilink") event by holding the capital,
+VS won the [Monolith](Monolith.md "wikilink") event by holding the capital,
 resulting in a default win, while the TR maintained control of the
-[Monolith](/Monolith "wikilink"). The NC held facilities in the South and
+[Monolith](Monolith.md "wikilink"). The NC held facilities in the South and
 East, and came in second place.
 
-NC held off the VS attack on [Solsar](/Solsar "wikilink")
+NC held off the VS attack on [Solsar](Solsar.md "wikilink")
 
 #### Saturday
 
 Noon NC attacks TR: NC captured the TR Capitol on
-[Forseral](/Forseral "wikilink")
+[Forseral](Forseral.md "wikilink")
 
 1600 TR attacks VS: VS hold the Capitol
 
@@ -118,9 +118,9 @@ Noon NC attacks TR: NC captured the TR Capitol on
 #### Sunday
 
 1400  TR attacks NC: NC hold off the TR attack on
-[Hossin](/Hossin "wikilink")
+[Hossin](Hossin.md "wikilink")
 
 1800  NC attacks VS: NC captured the VS Capitol on
-[Esamir](/Esamir "wikilink")
+[Esamir](Esamir.md "wikilink")
 
-[Category:Events](/Category:Events "wikilink")
+[Category:Events](Category:Events.md "wikilink")

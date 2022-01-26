@@ -1,26 +1,26 @@
-![](/images/SearhusMap.jpg "fig:SearhusMap.jpg")
-![](/images/Searhus_Terrain.jpg "fig:Searhus_Terrain.jpg")
+![](images/SearhusMap.jpg "fig:SearhusMap.jpg")
+![](images/Searhus_Terrain.jpg "fig:Searhus_Terrain.jpg")
 
 ## Continental Data
 
-|                                           |                                                                             |
-| ----------------------------------------- | --------------------------------------------------------------------------- |
-| Category:                                 | Heavy Vulcanism                                                             |
-| Climate:                                  | Tropical                                                                    |
-| Landmass:                                 | Continent                                                                   |
-| Terrain:                                  | Volcanic pools, dusty craters, sheer cliffs, desolate plains, sunny beaches |
-| [Facilities](/Facilities "wikilink"):     | 14                                                                          |
-| [Towers](/Tower "wikilink"):              | 22                                                                          |
-| Active [Warpgates](/Warpgate "wikilink"): | 3                                                                           |
-| Active [Geowarps](/Geowarp "wikilink"):   | 1 (2 total, active gate cycles)                                             |
-|                                           |                                                                             |
+|                                             |                                                                             |
+| ------------------------------------------- | --------------------------------------------------------------------------- |
+| Category:                                   | Heavy Vulcanism                                                             |
+| Climate:                                    | Tropical                                                                    |
+| Landmass:                                   | Continent                                                                   |
+| Terrain:                                    | Volcanic pools, dusty craters, sheer cliffs, desolate plains, sunny beaches |
+| [Facilities](Facilities.md "wikilink"):     | 14                                                                          |
+| [Towers](Tower.md "wikilink"):              | 22                                                                          |
+| Active [Warpgates](Warpgate.md "wikilink"): | 3                                                                           |
+| Active [Geowarps](Geowarp.md "wikilink"):   | 1 (2 total, active gate cycles)                                             |
+|                                             |                                                                             |
 
 ## Description
 
 This world rages with storms. The moments when the weather is clear are
 momentous as the volcanism that erupts around the world feeds belt after
 belt of the fiercest storms imaginable. The
-[continent](/continent "wikilink") of **Searhus** seems sheltered in the
+[continent](continent.md "wikilink") of **Searhus** seems sheltered in the
 center of a stable "eye" in the storms, but even the peripheral storms
 felt here are severe by comparison elsewhere.
 
@@ -33,37 +33,37 @@ unforgiving.
 ---
 
 --source: Planetside In-game descriptions, pre- and
-post-[Bending](/Bending "wikilink").
+post-[Bending](Bending.md "wikilink").
 
-## Base [Facilities](/Facilities "wikilink")
+## Base [Facilities](Facilities.md "wikilink")
 
-### [Amp Stations](/Amp_Station "wikilink")
+### [Amp Stations](Amp_Station.md "wikilink")
 
-- [Matagi](/Matagi "wikilink")
-- [Pele](/Pele "wikilink")
-- [Rehua](/Rehua "wikilink")
+- [Matagi](Matagi.md "wikilink")
+- [Pele](Pele.md "wikilink")
+- [Rehua](Rehua.md "wikilink")
 
-### [Bio Laboratories](/Bio_Laboratories "wikilink")
+### [Bio Laboratories](Bio_Laboratories.md "wikilink")
 
-- [Akua](/Akua "wikilink")
-- [Drakulu](/Drakulu "wikilink")
-- [Hiro](/Hiro "wikilink")
-- [Iva](/Iva "wikilink")
+- [Akua](Akua.md "wikilink")
+- [Drakulu](Drakulu.md "wikilink")
+- [Hiro](Hiro.md "wikilink")
+- [Iva](Iva.md "wikilink")
 
-### [Dropship Centers](/Dropship_Center "wikilink")
+### [Dropship Centers](Dropship_Center.md "wikilink")
 
-- [Sina](/Sina "wikilink")
+- [Sina](Sina.md "wikilink")
 
-### [Interlink Facilities](/Interlink_Facilities "wikilink")
+### [Interlink Facilities](Interlink_Facilities.md "wikilink")
 
-- [Laka](/Laka "wikilink")
-- [Oro](/Oro "wikilink")
-- [Wakea](/Wakea "wikilink")
+- [Laka](Laka.md "wikilink")
+- [Oro](Oro.md "wikilink")
+- [Wakea](Wakea.md "wikilink")
 
-### [Technology Plants](/Technology_Plant "wikilink")
+### [Technology Plants](Technology_Plant.md "wikilink")
 
-- [Karihi](/Karihi "wikilink")
-- [Ngaru](/Ngaru "wikilink")
-- [Tara](/Tara "wikilink")
+- [Karihi](Karihi.md "wikilink")
+- [Ngaru](Ngaru.md "wikilink")
+- [Tara](Tara.md "wikilink")
 
-[Category:Locations](/Category:Locations "wikilink")
+[Category:Locations](Category:Locations.md "wikilink")

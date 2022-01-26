@@ -1,80 +1,80 @@
 ## Base Facility Specs
 
-|                                                                 |                                                              |
-| --------------------------------------------------------------- | ------------------------------------------------------------ |
-| [Control Console](/Control_Console "wikilink"):                 | Basement                                                     |
-| [Generator](/Generator "wikilink"):                             | Basement                                                     |
-| [Spawn room](/Respawn_room "wikilink"):                         | Level 1                                                      |
-| [Vehicle Terminal](/Vehicle_Terminal "wikilink") (Air):         | Courtyard                                                    |
-| [Vehicle Terminal](/Vehicle_Terminal "wikilink") (Ground):      | Courtyard                                                    |
-| [Lattice Logic Unit](/LLU "wikilink") Socket:                   | Air Vehicle Terminal Room                                    |
-| [Facility Linked Benefit](/Facility_Linked_Benefit "wikilink"): | [Vehicle](/Vehicle "wikilink") Repair (benefit icon: wrench) |
-| [Wall Turrets](/Phalanx "wikilink"):                            | 8                                                            |
-|                                                                 |                                                              |
+|                                                                   |                                                                |
+| ----------------------------------------------------------------- | -------------------------------------------------------------- |
+| [Control Console](Control_Console.md "wikilink"):                 | Basement                                                       |
+| [Generator](Generator.md "wikilink"):                             | Basement                                                       |
+| [Spawn room](Respawn_room.md "wikilink"):                         | Level 1                                                        |
+| [Vehicle Terminal](Vehicle_Terminal.md "wikilink") (Air):         | Courtyard                                                      |
+| [Vehicle Terminal](Vehicle_Terminal.md "wikilink") (Ground):      | Courtyard                                                      |
+| [Lattice Logic Unit](LLU.md "wikilink") Socket:                   | Air Vehicle Terminal Room                                      |
+| [Facility Linked Benefit](Facility_Linked_Benefit.md "wikilink"): | [Vehicle](Vehicle.md "wikilink") Repair (benefit icon: wrench) |
+| [Wall Turrets](Phalanx.md "wikilink"):                            | 8                                                              |
+|                                                                   |                                                                |
 
 ## Description
 
-![](/images/Dropship.jpg "Dropship.jpg")
+![](images/Dropship.jpg "Dropship.jpg")
 
 **Dropship Centers** are some of the rarest and most powerful
-[bases](/facilities "wikilink") on a [planet](/planet "wikilink"). There
+[bases](facilities.md "wikilink") on a [planet](planet.md "wikilink"). There
 is only a single **Dropship Center** on each planet yet their benefit
-can free up an army of [Engineers](/Engineering "wikilink"). The
+can free up an army of [Engineers](Engineering.md "wikilink"). The
 **Dropship Center** gives all friendly-linked
-[facilities](/facilities "wikilink") the ability to repair any
-non-[Ancient Tech](/Ancient_Tech "wikilink") ground or air
-[vehicle](/Vehicle_Index "wikilink") through the use of the ground
-vehicle [Repair/Rearm Silo](/Repair/Rearm_Silo "wikilink") and air
-vehicle [Repair/Rearm Landing Pad](/Landing_Pad "wikilink") (ancient tech
-vehicles require a [Vehicle Module](/Vehicle_Module "wikilink") for this
+[facilities](facilities.md "wikilink") the ability to repair any
+non-[Ancient Tech](Ancient_Tech.md "wikilink") ground or air
+[vehicle](Vehicle_Index.md "wikilink") through the use of the ground
+vehicle [Repair/Rearm.md Silo](Repair/Rearm_Silo.md "wikilink") and air
+vehicle [Repair/Rearm.md Landing Pad](Landing_Pad.md "wikilink") (ancient tech
+vehicles require a [Vehicle Module](Vehicle_Module.md "wikilink") for this
 function). The **Dropship Center** is also the largest of all
-[facilities](/facilities "wikilink") and the only location (other than
-your [sanctuary](/sanctuary "wikilink")) capable of spawning the gigantic
-[Galaxy](/Galaxy "wikilink"), [Galaxy
-Gunship](/Galaxy_Gunship "wikilink"), and [Lodestar](/Lodestar "wikilink")
+[facilities](facilities.md "wikilink") and the only location (other than
+your [sanctuary](sanctuary.md "wikilink")) capable of spawning the gigantic
+[Galaxy](Galaxy.md "wikilink"), [Galaxy
+Gunship](Galaxy_Gunship.md "wikilink"), and [Lodestar](Lodestar.md "wikilink")
 aircraft. The dropship air vehicle pad is located within its own
 building in the **Dropship Center's** courtyard.
 
 ## Dropship Center Locations
 
-### [Amerish](/Amerish "wikilink")
+### [Amerish](Amerish.md "wikilink")
 
-- [Azeban](/Azeban "wikilink")
+- [Azeban](Azeban.md "wikilink")
 
-### [Ceryshen](/Ceryshen "wikilink")
+### [Ceryshen](Ceryshen.md "wikilink")
 
-- [Anguta](/Anguta "wikilink") (Capitol)
+- [Anguta](Anguta.md "wikilink") (Capitol)
 
-### [Cyssor](/Cyssor "wikilink")
+### [Cyssor](Cyssor.md "wikilink")
 
-- [Gunuku](/Gunuku "wikilink")
+- [Gunuku](Gunuku.md "wikilink")
 
-### [Esamir](/Esamir "wikilink")
+### [Esamir](Esamir.md "wikilink")
 
-- [Andvari](/Andvari "wikilink")
+- [Andvari](Andvari.md "wikilink")
 
-### [Forseral](/Forseral "wikilink")
+### [Forseral](Forseral.md "wikilink")
 
-- [Bel](/Bel "wikilink")
+- [Bel](Bel.md "wikilink")
 
-### [Hossin](/Hossin "wikilink")
+### [Hossin](Hossin.md "wikilink")
 
-- [Naum](/Naum "wikilink") (Sub-Capitol)
+- [Naum](Naum.md "wikilink") (Sub-Capitol)
 
-### [Ishundar](/Ishundar "wikilink")
+### [Ishundar](Ishundar.md "wikilink")
 
-- [Akkan](/Akkan "wikilink")
+- [Akkan](Akkan.md "wikilink")
 
-### [Oshur Battle Islands](/Oshur "wikilink")
+### [Oshur Battle Islands](Oshur.md "wikilink")
 
-- [Atar](/Atar "wikilink") (Nexus)
+- [Atar](Atar.md "wikilink") (Nexus)
 
-### [Searhus](/Searhus "wikilink")
+### [Searhus](Searhus.md "wikilink")
 
-- [Sina](/Sina "wikilink")
+- [Sina](Sina.md "wikilink")
 
-### [Solsar](/Solsar "wikilink")
+### [Solsar](Solsar.md "wikilink")
 
-- [Sobek](/Sobek "wikilink") (Sub-Capitol)
+- [Sobek](Sobek.md "wikilink") (Sub-Capitol)
 
-[Category:Locations](/Category:Locations "wikilink")
+[Category:Locations](Category:Locations.md "wikilink")

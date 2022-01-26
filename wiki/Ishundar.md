@@ -1,8 +1,8 @@
-![](/images/IshundarMap.jpg "IshundarMap.jpg")
+![](images/IshundarMap.jpg "IshundarMap.jpg")
 
 ## Continental Data
 
-![](/images/Ishundar_Terrain.jpg "Ishundar_Terrain.jpg")
+![](images/Ishundar_Terrain.jpg "Ishundar_Terrain.jpg")
 
 |                   |                                                                       |
 | ----------------- | --------------------------------------------------------------------- |
@@ -40,40 +40,40 @@ exploit.
 --source: Planetside In-game descriptions, pre- and post-Bending.
 
 This continent is also refered to as
-[Ish](/Acronyms_and_Slang "wikilink").
+[Ish](Acronyms_and_Slang.md "wikilink").
 
 Features and Landmarks:
 
-- [Stonehenge](/Stonehenge "wikilink")
+- [Stonehenge](Stonehenge.md "wikilink")
 - Ishundar Canyon
 
 ## Base Facilities
 
 ### Amp Stations
 
-- [Enkidu](/Enkidu "wikilink")
+- [Enkidu](Enkidu.md "wikilink")
 
 ### Bio Laboratories
 
-- [Dagon](/Dagon "wikilink")
-- [Hanish](/Hanish "wikilink")
-- [Lahar](/Lahar "wikilink")
-- [Zaqar](/Zaqar "wikilink")
+- [Dagon](Dagon.md "wikilink")
+- [Hanish](Hanish.md "wikilink")
+- [Lahar](Lahar.md "wikilink")
+- [Zaqar](Zaqar.md "wikilink")
 
 ### Dropship Centers
 
-- [Akkan](/Akkan "wikilink")
+- [Akkan](Akkan.md "wikilink")
 
 ### Interlink Facilities
 
-- [Irkalla](/Irkalla "wikilink")
-- [Neti](/Neti "wikilink")
+- [Irkalla](Irkalla.md "wikilink")
+- [Neti](Neti.md "wikilink")
 
 ### Technology Plants
 
-- [Baal](/Baal "wikilink")
-- [Girru](/Girru "wikilink")
-- [Kusag](/Kusag "wikilink")
-- [Marduk](/Marduk "wikilink")
+- [Baal](Baal.md "wikilink")
+- [Girru](Girru.md "wikilink")
+- [Kusag](Kusag.md "wikilink")
+- [Marduk](Marduk.md "wikilink")
 
-[Category:Locations](/Category:Locations "wikilink")
+[Category:Locations](Category:Locations.md "wikilink")

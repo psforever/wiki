@@ -1,35 +1,35 @@
-![Image:psreserves.gif](/psreserves.gif "Image:psreserves.gif")
+![Image:psreserves.gif](psreserves.md.gif "Image:psreserves.gif")
 
 **PlanetSide Reserves** was a program that ran from March 24, 2006 to
 March 27, 2007. It offered a limited version of
-[PlanetSide](/PlanetSide "wikilink") without a monthly fee. Characters
-were limited in [Battle Rank](/Battle_Rank "wikilink") and [Command
-Rank](/Command_Rank "wikilink"), and the program was set to end March 24, 2007. When that date arrived, Reserves players were still able to log in
+[PlanetSide](PlanetSide.md "wikilink") without a monthly fee. Characters
+were limited in [Battle Rank](Battle_Rank.md "wikilink") and [Command
+Rank](Command_Rank.md "wikilink"), and the program was set to end March 24, 2007. When that date arrived, Reserves players were still able to log in
 and play, and new Reserves accounts could still be created, but on March
 27, the program was ended.
 
 In conjunction with the launch of the PlanetSide Reserves, all paying
-accounts received access to [AfterShock](/AfterShock "wikilink") content.
+accounts received access to [AfterShock](AfterShock.md "wikilink") content.
 
 [Planetside Reserves information
 page](http://planetside.station.sony.com/reserves/)
 
 ## Details
 
-- Characters limited to Battle Rank 6 and [BEP](/BEP "wikilink")
+- Characters limited to Battle Rank 6 and [BEP](BEP.md "wikilink")
   stopped accruing
-- Characters limited to Command Rank 2 and [CEP](/CEP "wikilink")
+- Characters limited to Command Rank 2 and [CEP](CEP.md "wikilink")
   stopped accruing
-- Characters could enter the [Caverns](/Caverns "wikilink") and use
-  [Ancient Tech](/Ancient_Tech "wikilink")
-  [vehicles](/vehicles "wikilink") and [weapons](/weapons "wikilink"),
-  but could not [Imprint](/Imprint "wikilink") for
-  [BFRs](/BFR "wikilink"), although the pre-requisites for Imprinting
+- Characters could enter the [Caverns](Caverns.md "wikilink") and use
+  [Ancient Tech](Ancient_Tech.md "wikilink")
+  [vehicles](vehicles.md "wikilink") and [weapons](weapons.md "wikilink"),
+  but could not [Imprint](Imprint.md "wikilink") for
+  [BFRs](BFR.md "wikilink"), although the pre-requisites for Imprinting
   could be earned
-- There was no limitation on joining [Squads](/Squads "wikilink") or
-  [Outfits](/Outfits "wikilink")
+- There was no limitation on joining [Squads](Squads.md "wikilink") or
+  [Outfits](Outfits.md "wikilink")
 - Characters on paying accounts moved ahead of PlanetSide Reserves
-  characters in the [warp queue](/warp_queue "wikilink") for a
-  [poplocked](/poplocked "wikilink") [zone](/zone "wikilink")
+  characters in the [warp queue](warp_queue.md "wikilink") for a
+  [poplocked](poplocked.md "wikilink") [zone](zone.md "wikilink")
 
-[Category:Terminology](/Category:Terminology "wikilink")
+[Category:Terminology](Category:Terminology.md "wikilink")

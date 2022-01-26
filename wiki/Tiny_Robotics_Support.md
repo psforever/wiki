@@ -227,13 +227,13 @@
 </tbody>
 </table>
 
-This [merit](/merit "wikilink") is rewarded for kills scored by [Spitfire
-Turrets](/Adaptive_Construction_Engine#Spitfire_Turret "wikilink"),
-[Cerberus Turrets](/Cerberus_Turret "wikilink"), or [Shadow
-Turrets](/Shadow_Turret "wikilink") after you have repaired them by using
-the [Nano Dispenser](/Nano_Dispenser "wikilink"). The turret must have
+This [merit](merit.md "wikilink") is rewarded for kills scored by [Spitfire
+Turrets](Adaptive_Construction_Engine.md#Spitfire_Turret "wikilink"),
+[Cerberus Turrets](Cerberus_Turret.md "wikilink"), or [Shadow
+Turrets](Shadow_Turret.md "wikilink") after you have repaired them by using
+the [Nano Dispenser](Nano_Dispenser.md "wikilink"). The turret must have
 been damaged by enemy fire and the owner of the turret must be on the
-same [continent](/continent "wikilink") for it to count. The tracker
+same [continent](continent.md "wikilink") for it to count. The tracker
 stops when the turret is destroyed.
 
 The Advanced and Expert awards for this merit can be arranged to form
@@ -407,4 +407,4 @@ Or the "T" of "Tiny":
 </tbody>
 </table>
 
-[category:Merits](/category:Merits "wikilink")
+[category:Merits](category:Merits.md "wikilink")

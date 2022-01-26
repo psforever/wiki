@@ -1,30 +1,30 @@
-![](/images/9mmbullet.jpg "9mmbullet.jpg")
+![](images/9mmbullet.jpg "9mmbullet.jpg")
 
-|                          |                                                                                                                                                                                                                                                                                        |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Used by**              | [Automatic Machine Pistol](/Automatic_Machine_Pistol "wikilink") (AMP), [Repeater](/Repeater "wikilink"), [Suppressor](/Suppressor "wikilink"), [Cycler](/Cycler "wikilink"), [Gauss](/Gauss "wikilink"), [Punisher](/Punisher "wikilink"), [Mini-Chaingun](/Mini-Chaingun "wikilink") |
-| **Empire**               | [Common Pool](/Common_Pool "wikilink")                                                                                                                                                                                                                                                 |
-| **Inventory dimensions** | 3x3                                                                                                                                                                                                                                                                                    |
-| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                                                                                             |
+|                          |                                                                                                                                                                                                                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**              | [Automatic Machine Pistol](Automatic_Machine_Pistol.md "wikilink") (AMP), [Repeater](Repeater.md "wikilink"), [Suppressor](Suppressor.md "wikilink"), [Cycler](Cycler.md "wikilink"), [Gauss](Gauss.md "wikilink"), [Punisher](Punisher.md "wikilink"), [Mini-Chaingun](Mini-Chaingun.md "wikilink") |
+| **Empire**               | [Common Pool](Common_Pool.md "wikilink")                                                                                                                                                                                                                                                             |
+| **Inventory dimensions** | 3x3                                                                                                                                                                                                                                                                                                  |
+| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                                                                                                           |
 
 **9mm Bullet**
 
 9mm Bullets are the ubiquitous ordinance of choice for many of the
-weapons used by the [New Conglomerate](/New_Conglomerate "wikilink") and
-[Terran Republic](/Terran_Republic "wikilink"). 9mm ammo can be removed
+weapons used by the [New Conglomerate](New_Conglomerate.md "wikilink") and
+[Terran Republic](Terran_Republic.md "wikilink"). 9mm ammo can be removed
 from any equipment terminal by any empire. 9mm ammo is especially
 effective against soft or lightly armored targets such as [Infiltration
-Suits](/Infiltration_Suit "wikilink") as well as
-[Standard](/Standard_Exo-Suit "wikilink"),
-[Agile](/Agile_Exo-Suit "wikilink"), and [Reinforced
-Exo-suits](/Reinforced_Exo-Suit "wikilink"). Standard 9mm Ammo is
+Suits](Infiltration_Suit.md "wikilink") as well as
+[Standard](Standard_Exo-Suit.md "wikilink"),
+[Agile](Agile_Exo-Suit.md "wikilink"), and [Reinforced
+Exo-suits](Reinforced_Exo-Suit.md "wikilink"). Standard 9mm Ammo is
 ineffective at damaging armored targets. While engaging such targets,
-[Armor Piercing 9mm Bullets](/AP_9mm_Bullet "wikilink") should be
+[Armor Piercing 9mm Bullets](AP_9mm_Bullet.md "wikilink") should be
 employed.
 
 Since 9mm Bullets are for use in small arms, they can pass through the
 energy shields of [BattleFrame
-Robotics](/BattleFrame_Robotics "wikilink").
+Robotics](BattleFrame_Robotics.md "wikilink").
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Ammunition](/Category:Ammunition "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Ammunition](Category:Ammunition.md "wikilink")

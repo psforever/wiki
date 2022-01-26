@@ -1,20 +1,20 @@
-![](/images/PlanetSide_box.jpg "fig:PlanetSide_box.jpg")
-[PlanetSide](/PlanetSide "wikilink") is one of the first
+![](images/PlanetSide_box.jpg "fig:PlanetSide_box.jpg")
+[PlanetSide](PlanetSide.md "wikilink") is one of the first
 Massively-Multiplayer Online First Person Shooters (MMOFPS), and was
 published and developed by [Sony Online
-Entertainment](/Sony_Online_Entertainment "wikilink"). The game was first
+Entertainment](Sony_Online_Entertainment.md "wikilink"). The game was first
 released on May 20th, 2003, and has undergone numerous updates since
-then, including [Core Combat](/Core_Combat "wikilink") and [The
-Bending](/The_Bending "wikilink"). PlanetSide received an ESRB rating of
+then, including [Core Combat](Core_Combat.md "wikilink") and [The
+Bending](The_Bending.md "wikilink"). PlanetSide received an ESRB rating of
 Teen. The game is purely a multiplayer affair, and has only been
 released for the Windows Operating System.
 
 ## Story
 
 After traveling through a womrhole, the [Terran
-Republic](/Terran_Republic "wikilink"), a highly centralized galactic
+Republic](Terran_Republic.md "wikilink"), a highly centralized galactic
 government which has ruled humans for the past 1,112 years, discovered
-the planet of [Auraxis](/Auraxis "wikilink"). Several expeditions were
+the planet of [Auraxis](Auraxis.md "wikilink"). Several expeditions were
 sent through the wormhole to colonize Auraxis, and soon after the
 colonists discovered the remains of an ancient alien race, the Vanu.
 This allowed for the rapid colonization of the ten continents of
@@ -31,7 +31,7 @@ distinct factions and a war over technology began.
 
 ### Terran Republic
 
-The [Terran Republic](/Terran_Republic "wikilink") consists of colonists
+The [Terran Republic](Terran_Republic.md "wikilink") consists of colonists
 who remained loyal to the Republic, and is a conservative, authoritarian
 collectivist nation with the goal of re-establishing contact with the
 homeworld and re-unite the warring factions. Thier leadership comes in
@@ -54,7 +54,7 @@ superior firepower.
 
 ### New Conglomerate
 
-The [New Conglomerate](/New_Conglomerate "wikilink") is a militant
+The [New Conglomerate](New_Conglomerate.md "wikilink") is a militant
 seperatist faction composed of anarchists, liberals, and libertarians
 determined to break and remain free from the domineering Republic. They
 seek to liberate all of humanity from the Republic, regardless of
@@ -72,7 +72,7 @@ their ability to strike fast with light vehicles and infantry.
 
 ### Vanu Sovereignty
 
-The [Vanu Sovereignty](/Vanu_Sovereignty "wikilink") is a loose
+The [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink") is a loose
 transhumanist cult of academics, intellectuals, and technology
 worshippers who believe that the future of humanity lies within the
 exploitation of alien technology. Their leadership is the Sovereignty
@@ -98,7 +98,7 @@ physics and high-energy arrays to defend themselves.
 
 Within the game, there has been much discussion over which factions are
 inherently _good_ or _evil_. Some claim the Republic to be the
-[empire](/empire "wikilink") that was intended to be the villains of the
+[empire](empire.md "wikilink") that was intended to be the villains of the
 game, due to the theoretical similarity to _Fascism_, although it can be
 argued that neither the Republic nor Fascism are inherently bad, as they
 are only doing what they feel is right on the whole, which is protecting
@@ -136,40 +136,40 @@ other Massively Multiplayer Online Games.
 
 Although PlanetSide is a first person shooter at heart, it does have a
 levelling system. Players can gain [Battle Experience
-Points](/Battle_Experience_Points "wikilink") to gain [Battle
-Ranks](/Battle_Rank "wikilink") which can be used to get
-[certifications](/certification "wikilink"),
-[implants](/implant "wikilink"), and [uniform
-upgrades](/uniform_upgrade "wikilink"). Also, through leading, a player
+Points](Battle_Experience_Points.md "wikilink") to gain [Battle
+Ranks](Battle_Rank.md "wikilink") which can be used to get
+[certifications](certification.md "wikilink"),
+[implants](implant.md "wikilink"), and [uniform
+upgrades](uniform_upgrade.md "wikilink"). Also, through leading, a player
 can gain [Command Experience
-Points](/Command_Experience_Points "wikilink") to gain [Command
-Ranks](/Command_Rank "wikilink"), which give the players different
+Points](Command_Experience_Points.md "wikilink") to gain [Command
+Ranks](Command_Rank.md "wikilink"), which give the players different
 command related abilities.
 
 ## Updates
 
 The game is still being actively supported by [Sony Online
-Entertainment](/Sony_Online_Entertainment "wikilink"), with a patch being
-released about once a month. These [patches](/patch "wikilink") usually
+Entertainment](Sony_Online_Entertainment.md "wikilink"), with a patch being
+released about once a month. These [patches](patch.md "wikilink") usually
 focus on fixing in-game bugs and adding new content. PlanetSide also has
-a [Test Server](/Test_Server "wikilink") like other online games to test
+a [Test Server](Test_Server.md "wikilink") like other online games to test
 changes before they go onto live servers.
-![](/images/Core_Combat_Box.jpg "fig:Core_Combat_Box.jpg") box art.\]\]
+![](images/Core_Combat_Box.jpg "fig:Core_Combat_Box.jpg") box art.\]\]
 
 ### Core Combat
 
 On October 27, 2003, PlanetSide's first expansion pack, [Core
-Combat](/Core_Combat "wikilink") was released. This expansion pack added
+Combat](Core_Combat.md "wikilink") was released. This expansion pack added
 new areas and new weapons for players.
 
 #### Story
 
-A new area underneath several [continents](/continent "wikilink") was
-discovered. These [caverns](/cavern "wikilink") appear to be the remnants
-of the ancient Vanu civilization. [Geowarps](/Geowarp "wikilink") on six
-continents, [Hossin](/Hossin "wikilink"), [Amerish](/Amerish "wikilink"),
-[Ceryshen](/Ceryshen "wikilink"), [Oshur](/Oshur "wikilink"),
-[Solsar](/Solsar "wikilink") and [Forseral](/Forseral "wikilink"), were
+A new area underneath several [continents](continent.md "wikilink") was
+discovered. These [caverns](cavern.md "wikilink") appear to be the remnants
+of the ancient Vanu civilization. [Geowarps](Geowarp.md "wikilink") on six
+continents, [Hossin](Hossin.md "wikilink"), [Amerish](Amerish.md "wikilink"),
+[Ceryshen](Ceryshen.md "wikilink"), [Oshur](Oshur.md "wikilink"),
+[Solsar](Solsar.md "wikilink") and [Forseral](Forseral.md "wikilink"), were
 discovered that led to caverns underneath these continents. These
 caverns reflected the continent above, but no colonist from the Republic
 had ever seen them before. The Geowarps appeared from thin air, and were
@@ -191,7 +191,7 @@ new technologies could change the face of the battlefield.
 
 #### Changes to Caverns
 
-With more recent [patches](/patches "wikilink"), the way the caverns work
+With more recent [patches](patches.md "wikilink"), the way the caverns work
 has changed. Rather than having the six caverns being linked to the same
 six continents all the time, two caverns are open at any time and are
 linked to random continents on the surface, and the other four caverns
@@ -199,14 +199,14 @@ have a countdown timer to when they will be opened.
 
 #### Ancient Modules
 
-With these caverns came the addition of [modules](/modules "wikilink").
+With these caverns came the addition of [modules](modules.md "wikilink").
 These are powerful tools, which, when installed in a surface
-[facility](/facility "wikilink"), grant that facility and all other
+[facility](facility.md "wikilink"), grant that facility and all other
 friendly facilities in the lattice certain benefits. The six types of
-modules are [equipment](/Equipment_Module "wikilink"),
-[health](/Health_Module "wikilink"), [pain](/Pain_Module "wikilink"),
-[shield](/Shield_Module "wikilink"), [speed](/Speed_Module "wikilink"),
-and [vehicle](/Vehicle_Module "wikilink").
+modules are [equipment](Equipment_Module.md "wikilink"),
+[health](Health_Module.md "wikilink"), [pain](Pain_Module.md "wikilink"),
+[shield](Shield_Module.md "wikilink"), [speed](Speed_Module.md "wikilink"),
+and [vehicle](Vehicle_Module.md "wikilink").
 
 #### Criticism
 
@@ -214,15 +214,15 @@ Many users criticize Core Combat as an expansion pack, as they feel the
 content added was not enough to justify its purchase. They feel that the
 new equipment and vehicles added in Core Combat aren't accessible
 enough, as it can be fairly difficult to acquire this [Ancient
-Technology](/Ancient_Technology "wikilink") equipment. Also, many people
+Technology](Ancient_Technology.md "wikilink") equipment. Also, many people
 state that fights in the caverns do not happen often enough to justify a
 purchase of Core Combat.
 
-### [The Bending](/The_Bending "wikilink")
+### [The Bending](The_Bending.md "wikilink")
 
 On August 14, 2004, the planet Auraxis underwent a change. For a few
 days before this happened, the planet had been undergoing constant
-[meteor](/meteor "wikilink") showers. No one knew what these meant, but
+[meteor](meteor.md "wikilink") showers. No one knew what these meant, but
 people kept fighting on. Right before it happened, the meteor showers
 became heavier, and then, right before it happened, you could hear the
 words "Bending Sequence Initiated".
@@ -231,29 +231,29 @@ Everyone was forced to respawn back at their sanctuary. Everything
 looked the same, but soldiers noted the different stars. Each of the
 continents was pushed off of Auraxis and became a smaller planet on
 their own. The warpgates still funcioned under the normal
-[lattice](/lattice "wikilink"), but the skies were different. Also,
-[Oshur](/Oshur "wikilink") was removed completely, and in its place were
-the [Battle Islands](/Battle_Islands "wikilink").
-![](/images/Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]
+[lattice](lattice.md "wikilink"), but the skies were different. Also,
+[Oshur](Oshur.md "wikilink") was removed completely, and in its place were
+the [Battle Islands](Battle_Islands.md "wikilink").
+![](images/Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]
 
 ### Aftershock
 
 Aftershock was released on October 18th, 2004. While some people refer
 to Aftershock as a second expansion, Aftershock is simply a repackaging
 of the original PlanetSide along with [Core
-Combat](/Core_Combat "wikilink"). However, Aftershock marked the
+Combat](Core_Combat.md "wikilink"). However, Aftershock marked the
 introduction of a new gameplay element, [BattleFrame
-Robotics](/BattleFrame_Robotics "wikilink") (BFR's).
+Robotics](BattleFrame_Robotics.md "wikilink") (BFR's).
 
 ## See Also
 
-- [Core Combat](/Core_Combat "wikilink")
-- [Events](/Events "wikilink")
-- [Patches](/Patches "wikilink")
-- [PlanetSide Next](/PlanetSide_Next "wikilink")
+- [Core Combat](Core_Combat.md "wikilink")
+- [Events](Events.md "wikilink")
+- [Patches](Patches.md "wikilink")
+- [PlanetSide Next](PlanetSide_Next.md "wikilink")
 
 ## External Links
 
 - [The Official _PlanetSide_ Website](http://www.planetside.com/)
 
-[Category:PlanetSide](/Category:PlanetSide "wikilink")
+[Category:PlanetSide](Category:PlanetSide.md "wikilink")

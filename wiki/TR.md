@@ -1,1 +1,1 @@
-1.  REDIRECT [Terran Republic](/Terran_Republic "wikilink")
+1.  REDIRECT [Terran Republic](Terran_Republic.md "wikilink")

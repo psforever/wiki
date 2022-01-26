@@ -39,36 +39,36 @@
 </table>
 
 Awarded for finding a Gingerbread Men in each of the bases on the [Oshur
-Battle Islands](/Battle_Islands "wikilink") during the Christmas holidays
+Battle Islands](Battle_Islands.md "wikilink") during the Christmas holidays
 of 2006 and 2007.
 
 This merit is required to gain access to the [Super
-Stimpack](/Super_Stimpack "wikilink") during the Christmas holiday
+Stimpack](Super_Stimpack.md "wikilink") during the Christmas holiday
 season.
 
 **Gingerbread Men Locations:**
 
-- **[Ascension](/Ascension "wikilink")**
-  - [Rashnu](/Rashnu "wikilink") - In the middle of the room
-    surrounding the [Control Console](/Control_Console "wikilink")
-  - [Sraosha](/Sraosha "wikilink") - [Control
-    Console](/Control_Console "wikilink")
-  - [Zal](/Zal "wikilink") - Room leading to the
-    [backdoor](/Back_Door "wikilink") (West wall)
-- **[Desolation](/Desolation "wikilink")**
-  - [Dahaka](/Dahaka "wikilink") - Underneath the [Vehicle
-    Terminal](/Vehicle_Terminal "wikilink")
-  - [Izha](/Izha "wikilink") - [Air Terminal
-    Room](/Air_Terminal_Room "wikilink")
-  - [Jamshid](/Jamshid "wikilink") - Basement
-- **[Extinction](/Extinction "wikilink")**
-  - [Hvar](/Hvar "wikilink") - [Generator](/Generator "wikilink")
-  - [Mithra](/Mithra "wikilink") - [Main
-    Lobby](/main_lobby "wikilink")
-  - [Yazata](/Yazata "wikilink") - [Medical
-    Bay](/Medical_Bay "wikilink")
-- **[Nexus](/Nexus "wikilink")**
-  - [Atar](/Atar "wikilink") - [Lounge](/Lounge "wikilink") (Room
-    behind the [Spawn Room](/Spawn_Room "wikilink")
+- **[Ascension](Ascension.md "wikilink")**
+  - [Rashnu](Rashnu.md "wikilink") - In the middle of the room
+    surrounding the [Control Console](Control_Console.md "wikilink")
+  - [Sraosha](Sraosha.md "wikilink") - [Control
+    Console](Control_Console.md "wikilink")
+  - [Zal](Zal.md "wikilink") - Room leading to the
+    [backdoor](Back_Door.md "wikilink") (West wall)
+- **[Desolation](Desolation.md "wikilink")**
+  - [Dahaka](Dahaka.md "wikilink") - Underneath the [Vehicle
+    Terminal](Vehicle_Terminal.md "wikilink")
+  - [Izha](Izha.md "wikilink") - [Air Terminal
+    Room](Air_Terminal_Room.md "wikilink")
+  - [Jamshid](Jamshid.md "wikilink") - Basement
+- **[Extinction](Extinction.md "wikilink")**
+  - [Hvar](Hvar.md "wikilink") - [Generator](Generator.md "wikilink")
+  - [Mithra](Mithra.md "wikilink") - [Main
+    Lobby](main_lobby.md "wikilink")
+  - [Yazata](Yazata.md "wikilink") - [Medical
+    Bay](Medical_Bay.md "wikilink")
+- **[Nexus](Nexus.md "wikilink")**
+  - [Atar](Atar.md "wikilink") - [Lounge](Lounge.md "wikilink") (Room
+    behind the [Spawn Room](Spawn_Room.md "wikilink")
 
-[Category:Merits](/Category:Merits "wikilink")
+[Category:Merits](Category:Merits.md "wikilink")

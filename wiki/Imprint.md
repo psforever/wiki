@@ -1,1 +1,1 @@
-1.  redirect [BFR Imprint](/BFR_Imprint "wikilink")
+1.  redirect [BFR Imprint](BFR_Imprint.md "wikilink")

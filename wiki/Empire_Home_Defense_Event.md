@@ -1,20 +1,20 @@
 On Friday, July 29, 2005, we will be running the Empire Home Defense
 Event!
 
-In this event, one [Empire](/empire "wikilink") (chosen manually,
+In this event, one [Empire](empire.md "wikilink") (chosen manually,
 generally the empire with the highest population at the time) will
 defend both of their home continents simultaneously in two two-way
 battles against the other two empires.
 
 Below are the times the events will be run on the servers:
 
-**[Werner](/Werner "wikilink") 11:00 am Pacific Time (7:00 pm UK, -7.00
+**[Werner](Werner.md "wikilink") 11:00 am Pacific Time (7:00 pm UK, -7.00
 UTC)**
 
-**[Emerald](/Emerald "wikilink") 4:00 pm Pacfic Time (7:00 pm East Coast,
+**[Emerald](Emerald.md "wikilink") 4:00 pm Pacfic Time (7:00 pm East Coast,
 -7.00 UTC)**
 
-**[Markov](/Markov "wikilink") 7:00 pm Pacific Time (-7.00 UTC)**
+**[Markov](Markov.md "wikilink") 7:00 pm Pacific Time (-7.00 UTC)**
 
 Preparations for the event should be made ahead of time. There will be a
 30 minute warning message before these listed times. This message will
@@ -42,12 +42,12 @@ _Results:_
 
 **Werner**
 
-**Defender**: [Vanu Sovereignty](/Vanu_Sovereignty "wikilink")
+**Defender**: [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
 
-- [Terran Republic](/Terran_Republic "wikilink") attacked
-  [Verica](/Verica "wikilink") on [Amerish](/Amerish "wikilink")
-- [New Conglomerate](/New_Conglomerate "wikilink") attacked
-  [Eisa](/Eisa "wikilink") on [Esamir](/Esamir "wikilink")
+- [Terran Republic](Terran_Republic.md "wikilink") attacked
+  [Verica](Verica.md "wikilink") on [Amerish](Amerish.md "wikilink")
+- [New Conglomerate](New_Conglomerate.md "wikilink") attacked
+  [Eisa](Eisa.md "wikilink") on [Esamir](Esamir.md "wikilink")
 
 **Outcome:**
 
@@ -60,12 +60,12 @@ good leadership.
 
 **Emerald**
 
-**Defender:** [Terran Republic](/Terran_Republic "wikilink")
+**Defender:** [Terran Republic](Terran_Republic.md "wikilink")
 
-- New Conglomerate attacked [Neit](/Neit "wikilink") on
-  [Forseral](/Forseral "wikilink")
-- Vanu Sovereignty attacked [Anguta](/Anguta "wikilink") on
-  [Ceryshen](/Ceryshen "wikilink")
+- New Conglomerate attacked [Neit](Neit.md "wikilink") on
+  [Forseral](Forseral.md "wikilink")
+- Vanu Sovereignty attacked [Anguta](Anguta.md "wikilink") on
+  [Ceryshen](Ceryshen.md "wikilink")
 
 **Outcome:**
 
@@ -76,7 +76,7 @@ TR leaders as well.
 
 **Markov**
 
-**Defender:** [New Conglomerate](/New_Conglomerate "wikilink")
+**Defender:** [New Conglomerate](New_Conglomerate.md "wikilink")
 
 **Outcome:**
 
@@ -85,4 +85,4 @@ good leadership, they ended up with the victory. NC fought really well
 on this continent as well. The Vanu Sovereignty defeated the NC. The VS
 were well organized with good leadership.
 
-[Category:Events](/Category:Events "wikilink")
+[Category:Events](Category:Events.md "wikilink")

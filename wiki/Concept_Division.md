@@ -1,4 +1,4 @@
-![Image:Conceptdivision_logo.gif](/Conceptdivision_logo.gif "Image:Conceptdivision_logo.gif")
+![Image:Conceptdivision_logo.gif](Conceptdivision_logo.md.gif "Image:Conceptdivision_logo.gif")
 
 Introducing the Concept Division, where members of the Planetside
 Community share their ideas, visions, and artwork with others. This is a
@@ -35,10 +35,10 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 
 ## Concepts By Author
 
-- [Bwzman](/Bwzman "wikilink")
-- [ChewyLSB](/User:ChewyLSB "wikilink")
+- [Bwzman](Bwzman.md "wikilink")
+- [ChewyLSB](User:ChewyLSB.md "wikilink")
 - Dviddlef
-- [Hayoo](/Hayoo "wikilink")
+- [Hayoo](Hayoo.md "wikilink")
 - Piolet
 - Straws
 - Tiletron/Hyncharas
@@ -49,38 +49,38 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 
 - Concept 01 (by Dviddlef)
 - Concept 02 (by Straws)
-- Empire Tech Levels (by [Hayoo](/Hayoo "wikilink"))
-- NTU Changes and Capacitor System (by [Hayoo](/Hayoo "wikilink"))
+- Empire Tech Levels (by [Hayoo](Hayoo.md "wikilink"))
+- NTU Changes and Capacitor System (by [Hayoo](Hayoo.md "wikilink"))
 
 ### Map and Environments
 
 - Concept 01 (by Piolet)
 - Concept 02 (by Bwzman)
-- Sanctuary Capitals (concept) (by [Hayoo](/Hayoo "wikilink"))
+- Sanctuary Capitals (concept) (by [Hayoo](Hayoo.md "wikilink"))
 - [Urban Outposts (concept)](</Urban_Outposts_(concept)> "wikilink") (by
-  [Hayoo](/Hayoo "wikilink"))
+  [Hayoo](Hayoo.md "wikilink"))
 
 ### Squads, Outfits, and Command
 
 - [Commander-Occupied
   Vehicles](http://comms.planetsidesyndicate.com/showthread.php?t=1311)
-- Command Squads and Task Forces (by [Hayoo](/Hayoo "wikilink"))
-- Outfit Headquarters and Sanc Barracks (by [Hayoo](/Hayoo "wikilink"))
+- Command Squads and Task Forces (by [Hayoo](Hayoo.md "wikilink"))
+- Outfit Headquarters and Sanc Barracks (by [Hayoo](Hayoo.md "wikilink"))
 
 ### Certs and Battlefield Roles
 
-- Medic Interface and Medevac (by [Hayoo](/user:Hayoo "wikilink"))
+- Medic Interface and Medevac (by [Hayoo](user:Hayoo.md "wikilink"))
 - New Certifications: Comtech, Tech, Adv Tech (by
-  [Hayoo](/Hayoo "wikilink"))
+  [Hayoo](Hayoo.md "wikilink"))
 
 ### Vehicles
 
-- **SundII** and Sunderer Variants by [Chirp](/User:Chirp "wikilink")
+- **SundII** and Sunderer Variants by [Chirp](User:Chirp.md "wikilink")
 
 ### Weapons
 
-- Emplacements (by [Hayoo](/Hayoo "wikilink"))
-- Towable Weapons and Equipment (by [Hayoo](/Hayoo "wikilink"))
+- Emplacements (by [Hayoo](Hayoo.md "wikilink"))
+- Towable Weapons and Equipment (by [Hayoo](Hayoo.md "wikilink"))
 
 ### Armor
 
@@ -90,16 +90,16 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 ### Rewards
 
 - [Advanced Service and Supply Infantry Support
-  Tool](/Advanced_Service_and_Supply_Infantry_Support_Tool "wikilink")
-  by [ChewyLSB](/User:ChewyLSB "wikilink")
+  Tool](Advanced_Service_and_Supply_Infantry_Support_Tool.md "wikilink")
+  by [ChewyLSB](User:ChewyLSB.md "wikilink")
 - Concept 02
 
 ## Concepts By Artist
 
-- [Bwzman](/Bwzman "wikilink")
-- [Chirp](/user:Chirp "wikilink")
-- [Hayoo](/Hayoo "wikilink")
+- [Bwzman](Bwzman.md "wikilink")
+- [Chirp](user:Chirp.md "wikilink")
+- [Hayoo](Hayoo.md "wikilink")
 - Pyrotechnic
 - Piolet
 
-[Category:Idealab](/Category:Idealab "wikilink")
+[Category:Idealab](Category:Idealab.md "wikilink")

@@ -1,10 +1,10 @@
-The collection of [weapons](/Weapons_Index "wikilink"), ammunition, and
-supplies currently in your personal [inventory](/inventory "wikilink") or
-your vehicle's [trunk](/trunk "wikilink").
+The collection of [weapons](Weapons_Index.md "wikilink"), ammunition, and
+supplies currently in your personal [inventory](inventory.md "wikilink") or
+your vehicle's [trunk](trunk.md "wikilink").
 
 You can save up to 10 personal loadouts in the
-[Favorites](/Favorites "wikilink") window at any [equipment
-terminal](/equipment_terminal "wikilink"), and up to 5 vehicle loadouts
-at any [Repair/Rearm Silo](/Repair/Rearm_Silo "wikilink").
+[Favorites](Favorites.md "wikilink") window at any [equipment
+terminal](equipment_terminal.md "wikilink"), and up to 5 vehicle loadouts
+at any [Repair/Rearm.md Silo](Repair/Rearm_Silo.md "wikilink").
 
-[Category:Terminology](/Category:Terminology "wikilink")
+[Category:Terminology](Category:Terminology.md "wikilink")

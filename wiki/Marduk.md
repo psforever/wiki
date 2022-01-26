@@ -1,19 +1,19 @@
 **Marduk** is one of the four [Technology
-Plants](/Technology_Plant "wikilink") on [Ishundar](/Ishundar "wikilink")
+Plants](Technology_Plant.md "wikilink") on [Ishundar](Ishundar.md "wikilink")
 and is in the South inside grid H15.
 
-It has [Lattice](/Lattice "wikilink") Links to:
+It has [Lattice](Lattice.md "wikilink") Links to:
 
-- [Interlink Facility](/Interlink_Facility "wikilink")
-  [Neti](/Neti "wikilink")
-- [Amp Station](/Amp_Station "wikilink") [Enkidu](/Enkidu "wikilink")
-- A [Broadcast](/Broadcast "wikilink") [Warpgate](/Warpgate "wikilink")
-- A [Geowarp](/Geowarp "wikilink")
+- [Interlink Facility](Interlink_Facility.md "wikilink")
+  [Neti](Neti.md "wikilink")
+- [Amp Station](Amp_Station.md "wikilink") [Enkidu](Enkidu.md "wikilink")
+- A [Broadcast](Broadcast.md "wikilink") [Warpgate](Warpgate.md "wikilink")
+- A [Geowarp](Geowarp.md "wikilink")
 
-It is a [Hack-and-Hold](/Hack-and-Hold "wikilink")
-[Facility](/Facility "wikilink") with an [Air
-tower](/Air_tower "wikilink") to its north, inside its
-[SOI](/SOI "wikilink").
+It is a [Hack-and-Hold](Hack-and-Hold.md "wikilink")
+[Facility](Facility.md "wikilink") with an [Air
+tower](Air_tower.md "wikilink") to its north, inside its
+[SOI](SOI.md "wikilink").
 
 Elevation: 70.5m
 
@@ -23,4 +23,4 @@ _Marduk_ (mar'dook) was the name of a Mesopotamian god and the patron
 god of Babylon. See the [Wikipedia](http://en.wikipedia.org/wiki/Marduk)
 article.
 
-[Category:Facilities](/Category:Facilities "wikilink")
+[Category:Facilities](Category:Facilities.md "wikilink")

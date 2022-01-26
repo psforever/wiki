@@ -1,1 +1,1 @@
-1.  REDIRECT [category: Vehicles](/category:_Vehicles "wikilink")
+1.  REDIRECT [category: Vehicles](category:_Vehicles.md "wikilink")

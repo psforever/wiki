@@ -1,5 +1,5 @@
 While comonly considered to be a simple slang method of refereing to the
-[Planetside Official Forums](/Planetside_Official_Forums "wikilink"),
+[Planetside Official Forums](Planetside_Official_Forums.md "wikilink"),
 "ForumSide" is a somewhat more detailed topic.
 
 The true meaning of Forumside implies that spending time on the
@@ -12,4 +12,4 @@ consider themselve "ForumSiders." The humor behind this title implaies
 that the spend more time posting on the boards, then they do playing the
 game.
 
-[Category:Terminology](/Category:Terminology "wikilink")
+[Category:Terminology](Category:Terminology.md "wikilink")

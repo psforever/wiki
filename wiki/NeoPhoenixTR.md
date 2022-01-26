@@ -36,14 +36,14 @@ I go by the alias
 [NeoPhoenixTR](http://www.planetsidestats.net/players.php?world_id=15&char_id=751022)(NeoPhoenixTE
 on the
 [forums](http://comms.planetsidesyndicate.com/member.php?userid=144),
-[Wiki](/user:NeoPhoenixTE "wikilink"), and the rest of the net), and my
-main character is an [Emerald](/Emerald "wikilink") [TR](/TR "wikilink")
-[CR5](/Command_Rank "wikilink"). I have been playing PlanetSide for
+[Wiki](user:NeoPhoenixTE.md "wikilink"), and the rest of the net), and my
+main character is an [Emerald](Emerald.md "wikilink") [TR](TR.md "wikilink")
+[CR5](Command_Rank.md "wikilink"). I have been playing PlanetSide for
 nearly two years now, but have always been mediocre at shooter games
 overall. My expertise comes in niche strategies and multitasking... just
 not aiming. \>\_\>
 
-Ever since [BFRs](/BFR "wikilink") were first brought into the game, I
+Ever since [BFRs](BFR.md "wikilink") were first brought into the game, I
 have had a constant fascination with them. True, some of this has come
 from my personal love of the "mecha" genre of Anime, but it was also a
 new dimension to the game. Many hated them, and still hate them, and
@@ -52,7 +52,7 @@ everything in my life, the more I like something, the more I like to
 break it. I work on computers and networks for a living...and I
 literally learned everything by breaking, well, everything.
 
-Sometime ago, the [Markov](/Markov "wikilink") TR named
+Sometime ago, the [Markov](Markov.md "wikilink") TR named
 [Blahman](http://www.planetsidestats.net/players.php?world_id=3&char_id=384070)
 released a [movie showing how to destroy a BFR as a solo
 grunt](http://www.planetsidemovies.com/modules.php?name=Downloads&d_op=viewdownloaddetails&lid=1088&title=How_to_Solo_a_BFR.wmv).
@@ -69,7 +69,7 @@ technique and my name, despite the fact this was never the intent, ever.
 I was just bored and found something I'm good at. :(
 
 I am the first holder of the [BFR Buster Platinum
-Merit](/BFR_Buster "wikilink") and have over 850 BFRs kills recorded
+Merit](BFR_Buster.md "wikilink") and have over 850 BFRs kills recorded
 using the technique I will describe on this page. So, suffice it to say,
 this technique works.
 
@@ -95,7 +95,7 @@ answer any questions I get (and make them stop :\|).
 
 A second answer to that question could be that I like information. I
 like having it, and I like making it. I compile stats for my outfit,
-[KAAOS](/KAAOS "wikilink"), about our outfit nights and turn it into a
+[KAAOS](KAAOS.md "wikilink"), about our outfit nights and turn it into a
 1-page overview once the numbers are available from [Rev's PlanetSide
 Stats page](http://www.planetsidestats.net), and use it to draw
 conclusions on our performance that night. I'm just an information nut
@@ -110,7 +110,7 @@ select people who have wanted to get into BFR Hunting who weren't part
 of the first two groups. ;)
 
 <s>This guide is scheduled for public [official
-forum](/Planetside_Official_Forums "wikilink") release upon
+forum](Planetside_Official_Forums.md "wikilink") release upon
 completion.</s> Released to public on 6/7/2005.
 
 Enjoy the guide!
@@ -125,13 +125,13 @@ Enjoy the guide!
 ## Section 1: BFR Hunting's Point and Purpose
 
 "BFR Hunting" is the process of seeking out enemy
-[BattleFrame](/BattleFrame_Robotics "wikilink") units and destroying
+[BattleFrame](BattleFrame_Robotics.md "wikilink") units and destroying
 them. The purpose of this is to remove these units from the field,
 allowing your empire's frames to gain an advantage in the struggle.
 
 Other purposes of Hunting include: [Battle Experience
-Points](/Battle_Rank "wikilink"), the [BFR Buster
-Merit](/BFR_Buster "wikilink"), and _"fame"_ of being a skilled BFR
+Points](Battle_Rank.md "wikilink"), the [BFR Buster
+Merit](BFR_Buster.md "wikilink"), and _"fame"_ of being a skilled BFR
 Hunter.
 
 All BFRs have a 20-minute timer on average, meaning any BFR that you
@@ -152,16 +152,16 @@ dropping and shooting.
 
 This section will describe the basic essentials needed for BFR Hunting
 
-### [Certifications](/Certifications "wikilink")
+### [Certifications](Certifications.md "wikilink")
 
 #### Required Certs
 
 In order to begin hunting, the following
-[certs](/Certifications "wikilink") are **required**:
+[certs](Certifications.md "wikilink") are **required**:
 
-- [Air Cavalry Scout](/Air_Cavalry_Scout "wikilink") +
-  [Assault](/Air_Cavalry_Assault "wikilink")
-- [Anti-Vehicular](/Anti-Vehicular "wikilink")
+- [Air Cavalry Scout](Air_Cavalry_Scout.md "wikilink") +
+  [Assault](Air_Cavalry_Assault.md "wikilink")
+- [Anti-Vehicular](Anti-Vehicular.md "wikilink")
 
 This technique involves bailing from your aircraft onto the target
 battleframe, and Aircav is the fastest and most effective way to
@@ -173,8 +173,8 @@ what is used to make the kill itself.
 
 The following certs are _optimal_ for BFR Hunting:
 
-- [Heavy Assault](/Heavy_Assault "wikilink")
-- [Advanced Hacking](/Advanced_Hacking "wikilink")
+- [Heavy Assault](Heavy_Assault.md "wikilink")
+- [Advanced Hacking](Advanced_Hacking.md "wikilink")
 
 Heavy Assault is utilized in self-defense during a takedown. Best to
 have the better gun. Advanced hacking is for when the pilot gets out,
@@ -193,20 +193,20 @@ ATV and Harasser serve as a way to keep yourself from _ever_ waiting at
 a vehicle pad. Though these vehicles are not as effective as Air Cavalry
 for sneaking up on BFRs, experienced BFR Hunters can use these methods
 for a "balls out" approach. Both vehicles are also a ton of fun, and the
-harasser can be used to assist in [core module](/Modules "wikilink") and
-[LLU](/LLU "wikilink") runs when you're not hunting.
+harasser can be used to assist in [core module](Modules.md "wikilink") and
+[LLU](LLU.md "wikilink") runs when you're not hunting.
 
-### [Implants](/Implants "wikilink")
+### [Implants](Implants.md "wikilink")
 
 #### Required/Recommended Implants
 
-For hunting, the only [implant](/implants "wikilink") you need is
-[Surge](/Surge "wikilink"). However, as a personal recommendation, here
+For hunting, the only [implant](implants.md "wikilink") you need is
+[Surge](Surge.md "wikilink"). However, as a personal recommendation, here
 are the implants I employ in my personal hunting:
 
-- [Surge](/Surge "wikilink")
-- [Enhanced Targeting](/Enhanced_Targeting "wikilink")
-- [Second Wind](/Second_Wind "wikilink")
+- [Surge](Surge.md "wikilink")
+- [Enhanced Targeting](Enhanced_Targeting.md "wikilink")
+- [Second Wind](Second_Wind.md "wikilink")
 
 Surge will be used to catch up to target battleframes. Enhanced
 Targeting is effective at picking your targets wisely. Second Wind helps
@@ -217,8 +217,8 @@ killshot off.
 
 Implants to avoid using are:
 
-- [Personal Shield](/Personal_Shield "wikilink")
-- [Darklight](/Darklight_Vision "wikilink")
+- [Personal Shield](Personal_Shield.md "wikilink")
+- [Darklight](Darklight_Vision.md "wikilink")
 
 The reasoning behing my recommendation against personal shield is that,
 during a takedown, _stamina is essential_. Darklight is also a stamina
@@ -230,7 +230,7 @@ playstyle as to what you do with your other two implant slots.
 ### Knowledge
 
 There are a few basic things you need to know before even starting to
-hunt. These things are taught in my outfit, [KAAOS](/KAAOS "wikilink")'
+hunt. These things are taught in my outfit, [KAAOS](KAAOS.md "wikilink")'
 training courses, thus why I will tell anyone that wants to attend a
 live training session to undergo the outfit's training. This section
 will only talk about the basic essential knowledge.
@@ -261,7 +261,7 @@ adjustments.
 
 Like stated earlier, this approach requires the use of Aircav. In orer
 to utilize it properly, one must know the basics of operating a
-[Reaver](/Reaver "wikilink") and [Mosquito](/Mosquito "wikilink"),
+[Reaver](Reaver.md "wikilink") and [Mosquito](Mosquito.md "wikilink"),
 including:
 
 - Basic Movement
@@ -279,7 +279,7 @@ to utilize them correctly. A few tips:
   want, and then lay off
 - Fire in bursts to conserve your afterburner
 - You can afterburn all the way into a
-  [warpgate](/warpgate "wikilink"). Your afterburner will be fully
+  [warpgate](warpgate.md "wikilink"). Your afterburner will be fully
   replenished when you emerge on the other side.
 
 Weapon use is literally just practicing your aim with the chaingun and
@@ -326,7 +326,7 @@ to get some air.
 
 Another bit of knowledge one must know is the Deci-Swap Technique. This
 technique is used to increase the firing rate of the
-[Decimator](/Decimator "wikilink") by swapping it with another, and is
+[Decimator](Decimator.md "wikilink") by swapping it with another, and is
 **essential** to taking down BFRs.
 
 <b>UPDATE:</b> This technique has been removed from the game,
@@ -336,14 +336,14 @@ archive of a past strategy.
 [This technique appears as an exploit to many
 people](#Deciswap_Exploit "wikilink"). However, there are also those of
 the opinion that it is no less dirty than mastering the use of the
-tripleshot [Jackhammer](/Jackhammer "wikilink"), and even see it as a
+tripleshot [Jackhammer](Jackhammer.md "wikilink"), and even see it as a
 skill that requires alot of practice to master. There are a few choice
-threads on the [Official Forums](/Planetside_Official_Forums "wikilink")
+threads on the [Official Forums](Planetside_Official_Forums.md "wikilink")
 talking about the morality of using the Deci-Swap technique, but this
 section isn't about how "legal" Deci-Swapping is. Let's move on to what
 this section _is_ about.
 
-### [Inventory](/Inventory "wikilink") Loadout
+### [Inventory](Inventory.md "wikilink") Loadout
 
 The first step to learning this technique is knowing the type of loadout
 to use when BFR Hunting. The loadouts presented here are _recommended_
@@ -353,13 +353,13 @@ loadouts, meaning you can adjust them as you see fit.
 
 There are rules that **must** be followed when building loadouts:
 
-- You must carry at least three (3) [Decimators](/Decimator "wikilink")
+- You must carry at least three (3) [Decimators](Decimator.md "wikilink")
 - You must carry at least one (1) [Jammer
-  Grenade](/Jammer_grenade "wikilink")
-- You must be in [Agile Armor](/Agile_Exo-Suit "wikilink")
+  Grenade](Jammer_grenade.md "wikilink")
+- You must be in [Agile Armor](Agile_Exo-Suit.md "wikilink")
 
 Three Decimators give you a total of nine shots. Typical [Gunner Variant
-BFRs](/BattleFrame_Robotics#The_Variants "wikilink") take 4-5 decimator
+BFRs](BattleFrame_Robotics.md#The_Variants "wikilink") take 4-5 decimator
 shots. This is assuming you hit the armor with every shot. While this
 only requires 2 decimators, the third one is needed for the deci-swap
 technique itself (plus it's insurance for those of us with either bad
@@ -370,9 +370,9 @@ can be engaged, as well as disable a few systems, rendering it an easy
 target.
 
 Agile armor is required due to the fact that you cannot pilot an
-aircraft in [Rexo](/Reinforced_Exo-Suit "wikilink"), and the inventory
-space of both the [Infiltrator](/Infiltration_Suit "wikilink") and
-[Standard Armor](/Standard_Exo-Suit "wikilink") is insufficient to carry
+aircraft in [Rexo](Reinforced_Exo-Suit.md "wikilink"), and the inventory
+space of both the [Infiltrator](Infiltration_Suit.md "wikilink") and
+[Standard Armor](Standard_Exo-Suit.md "wikilink") is insufficient to carry
 your payload.
 
 #### The Poor Man's Loadout
@@ -381,25 +381,25 @@ your payload.
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-MALoadout.gif](/BFRHunter-MALoadout.gif "fig:Image:BFRHunter-MALoadout.gif")
+![Image:BFRHunter-MALoadout.gif](BFRHunter-MALoadout.md.gif "fig:Image:BFRHunter-MALoadout.gif")
 <small>Example of a "Poor Man's Loadout"</small>
 
 </td>
 <td valign=top>
 
 The first loadout described is for those who don't have the certs for
-[Heavy Assault](/Heavy_Assault "wikilink"). This is good for characters
-who are at very low [Battle Ranks](/Battle_Rank "wikilink") that need to
-make some quick [BEP](/Battle_Experience_Points "wikilink") by hunting.
+[Heavy Assault](Heavy_Assault.md "wikilink"). This is good for characters
+who are at very low [Battle Ranks](Battle_Rank.md "wikilink") that need to
+make some quick [BEP](Battle_Experience_Points.md "wikilink") by hunting.
 
 The loadout to the left satisfies the minimum conditions with the 3
 Decimators, and the Jammer. Also, note that the first Decimator is in
 the active rifle (or number 2) holster. The [Sweeper
-Shotgun](/Sweeper "wikilink") is a good choice for a defensive weapon
-from the [Medium Assault](/Medium_Assault "wikilink") pool. It
+Shotgun](Sweeper.md "wikilink") is a good choice for a defensive weapon
+from the [Medium Assault](Medium_Assault.md "wikilink") pool. It
 specializes in close-combat, and is common-pool, so the price is right.
-The [REK](/Remote_Electronics_Kit "wikilink") is totally optional. It's
-recommended if you have [Advanced Hacking](/Advanced_Hacking "wikilink"),
+The [REK](Remote_Electronics_Kit.md "wikilink") is totally optional. It's
+recommended if you have [Advanced Hacking](Advanced_Hacking.md "wikilink"),
 and it's also a good idea to keep a REK on you at all times anyways. ;)
 
 **WARNING!** _Make sure your defensive weapon is loaded with standard
@@ -427,7 +427,7 @@ later on.
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-HALoadout.gif](/BFRHunter-HALoadout.gif "fig:Image:BFRHunter-HALoadout.gif")
+![Image:BFRHunter-HALoadout.gif](BFRHunter-HALoadout.md.gif "fig:Image:BFRHunter-HALoadout.gif")
 <small>Example of an Optimal BFR Hunter Loadout</small>
 
 </td>
@@ -439,14 +439,14 @@ when BFR hunting.
 
 Since we're now using Heavy Assault weapons, the common-pool weaponry is
 out the window. This is where problems can occur between empires. Given
-the empire-specific weapons, the [TR](/Terran_Republic "wikilink") and
-the [NC](/New_Conglomerate "wikilink") have the best defensive HA
-weapons, while the [VS](/Vanu_Sovereignty "wikilink") are at a
-disadvantage. The TR's [Mini-Chaingun](/Mini-Chaingun "wikilink") has a
+the empire-specific weapons, the [TR](Terran_Republic.md "wikilink") and
+the [NC](New_Conglomerate.md "wikilink") have the best defensive HA
+weapons, while the [VS](Vanu_Sovereignty.md "wikilink") are at a
+disadvantage. The TR's [Mini-Chaingun](Mini-Chaingun.md "wikilink") has a
 100 bullet clip that is capable of killing 2-3 grunts before running
-dry. The NC's [Jackhammer](/Jackhammer "wikilink") is like the Sweeper,
+dry. The NC's [Jackhammer](Jackhammer.md "wikilink") is like the Sweeper,
 but bigger, specializing in close-combat. The VS'
-[Lasher](/Lasher "wikilink"), however, only has 25 shots, and is at a
+[Lasher](Lasher.md "wikilink"), however, only has 25 shots, and is at a
 disadvantage outdoors, where any BFR takedown will be taking place. My
 recommendation is that any VS BFR Hunter stick to the Sweeper used in
 the "Poor Man's Loadout" described earlier.
@@ -476,7 +476,7 @@ Enough about how to setup your loadouts. Time to get on with the moves!
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-CursorPosition.gif](/BFRHunter-CursorPosition.gif "fig:Image:BFRHunter-CursorPosition.gif")
+![Image:BFRHunter-CursorPosition.gif](BFRHunter-CursorPosition.md.gif "fig:Image:BFRHunter-CursorPosition.gif")
 <small>Mouse cursor position at the start of a Deci-Swap</small>
 
 </td>
@@ -521,7 +521,7 @@ technique itself!
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-CursorMovement.gif](/BFRHunter-CursorMovement.gif "fig:Image:BFRHunter-CursorMovement.gif")
+![Image:BFRHunter-CursorMovement.gif](BFRHunter-CursorMovement.md.gif "fig:Image:BFRHunter-CursorMovement.gif")
 <small>Mouse Movement during the Deci-Swap</small>
 
 </td>
@@ -578,7 +578,7 @@ Here's a couple scenarios that I recommend for Deci-Swap practice.
 <td valign=center align=center width=400>
 <div id="RexoPracticeLoadout">
 
-![Image:BFRHunter-RexoPracticeLoadout.gif](/BFRHunter-RexoPracticeLoadout.gif "fig:Image:BFRHunter-RexoPracticeLoadout.gif")
+![Image:BFRHunter-RexoPracticeLoadout.gif](BFRHunter-RexoPracticeLoadout.md.gif "fig:Image:BFRHunter-RexoPracticeLoadout.gif")
 <small>Rexo Loadout for Deci-Swap Combat Practice</small>
 
 </div>
@@ -619,11 +619,11 @@ will go into that rifle holster!_
 
 This type of practice is the kind the average grunt may be doing
 already. This same technique has been used to bypass the refire time of
-a [Bolt Driver](/Bolt_Driver "wikilink"), much like it bypasses the
+a [Bolt Driver](Bolt_Driver.md "wikilink"), much like it bypasses the
 Decimator refire time.
 
 Another fun way to practice that _does_ let you practice the "third
-Deci" is to use an enemy [Generator](/Generator "wikilink") as a test
+Deci" is to use an enemy [Generator](Generator.md "wikilink") as a test
 dummy for your BFR Hunter loadout. Simply load up your agile loadout,
 wait for surge, surge through to the enemy gen, and swap away while
 blasting that gen. See how fast you can swap all three with the thought
@@ -641,7 +641,7 @@ Enemy BattleFrames.
 ### Defensive Flying
 
 The main approach to BFRs, like stated earlier, is [Air
-Cavalry](/Air_Cavalry_Assault "wikilink"). So, let's start with how to
+Cavalry](Air_Cavalry_Assault.md "wikilink"). So, let's start with how to
 proceed to your targets.
 
 <h4>
@@ -726,7 +726,7 @@ variants have alot of armor, but can't outrun infantry while jammed.
 
 Picking on the sick and wounded would mean finding a damaged BFR, and
 finishing it off. This would require use of the [Enhanced
-Targeting](/Enhanced_Targeting "wikilink") implant to spot low health
+Targeting](Enhanced_Targeting.md "wikilink") implant to spot low health
 bars, or just a keen sense of how hurt a BFR is simply by how it moves.
 If a BFR is running _away_ from a target, good chance that it's probably
 hurt, or at least in no shape to attack. This also applies to enemy
@@ -756,15 +756,15 @@ You're on the ground, now what? It's time to make use of surge and head
 for the sweet spot! These are ideal placements for you to be during a
 takedown.
 
-#### Against [Terran Republic](/Terran_Republic "wikilink") Frames
+#### Against [Terran Republic](Terran_Republic.md "wikilink") Frames
 
 <table width=100%>
 <tr>
 <td align=center valign=center>
 <div id="ColossusTakedownPlacement">
 
-<small>Placement under a TR [Colossus](/Colossus "wikilink") or
-[Invader](/Invader "wikilink")</small>
+<small>Placement under a TR [Colossus](Colossus.md "wikilink") or
+[Invader](Invader.md "wikilink")</small>
 
 </div>
 </td>
@@ -776,15 +776,15 @@ Description here
 </tr>
 </table>
 
-#### Against [New Conglomerate](/New_Conglomerate "wikilink") Frames
+#### Against [New Conglomerate](New_Conglomerate.md "wikilink") Frames
 
 <table width=100%>
 <tr>
 <td align=center valign=center>
 <div id="PeregrineTakedownPlacement">
 
-<small>Placement under an NC [Peregrine](/Peregrine "wikilink") or
-[Eagle](/Eagle "wikilink")</small>
+<small>Placement under an NC [Peregrine](Peregrine.md "wikilink") or
+[Eagle](Eagle.md "wikilink")</small>
 
 </div>
 </td>
@@ -796,15 +796,15 @@ Description here
 </tr>
 </table>
 
-#### Against [Vanu Sovereignty](/Vanu_Sovereignty "wikilink") Frames
+#### Against [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink") Frames
 
 <table width=100%>
 <tr>
 <td align=center valign=center>
 <div id="AphelionTakedownPlacement">
 
-<small>Placement behind a VS [Aphelion](/Aphelion "wikilink") or
-[Eclipse](/Eclipse "wikilink")</small>
+<small>Placement behind a VS [Aphelion](Aphelion.md "wikilink") or
+[Eclipse](Eclipse.md "wikilink")</small>
 
 </div>
 </td>
@@ -822,16 +822,16 @@ You're in the sweet spot, now where do you shove that deci-swap? Well,
 that all depends on what kind of BFR you are fighting. Here are
 recommended spots to aim during the deci-swap and the takedown.
 
-#### Against [Terran Republic](/Terran_Republic "wikilink") Frames
+#### Against [Terran Republic](Terran_Republic.md "wikilink") Frames
 
 <table width=100%>
 <tr>
 <td align=center valign=center width=400>
 <div id="ColossusTakedownAim">
 
-![Image:ColossusTakedownAim.gif](/ColossusTakedownAim.gif "fig:Image:ColossusTakedownAim.gif")
-<small>Where to aim against a TR [Colossus](/Colossus "wikilink") or
-[Invader](/Invader "wikilink")</small>
+![Image:ColossusTakedownAim.gif](ColossusTakedownAim.md.gif "fig:Image:ColossusTakedownAim.gif")
+<small>Where to aim against a TR [Colossus](Colossus.md "wikilink") or
+[Invader](Invader.md "wikilink")</small>
 
 </div>
 </td>
@@ -857,15 +857,15 @@ decimator hits the frame, and delivers its payload.
 </tr>
 </table>
 
-#### Against [New Conglomerate](/New_Conglomerate "wikilink") Frames
+#### Against [New Conglomerate](New_Conglomerate.md "wikilink") Frames
 
 <table width=100%>
 <tr>
 <td align=center valign=center>
 <div id="PeregrineTakedownAim">
 
-<small>Where to aim against an NC [Peregrine](/Peregrine "wikilink") or
-[Eagle](/Eagle "wikilink")</small>
+<small>Where to aim against an NC [Peregrine](Peregrine.md "wikilink") or
+[Eagle](Eagle.md "wikilink")</small>
 
 </div>
 </td>
@@ -877,15 +877,15 @@ Description here
 </tr>
 </table>
 
-#### Against [Vanu Sovereignty](/Vanu_Sovereignty "wikilink") Frames
+#### Against [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink") Frames
 
 <table width=100%>
 <tr>
 <td align=center valign=center>
 <div id="AphelionTakedownAim">
 
-<small>Where to aim against a VS [Aphelion](/Aphelion "wikilink") or
-[Eclipse](/Eclipse "wikilink")</small>
+<small>Where to aim against a VS [Aphelion](Aphelion.md "wikilink") or
+[Eclipse](Eclipse.md "wikilink")</small>
 
 </div>
 </td>
@@ -952,12 +952,12 @@ Description here
 #### BFR Hitbox Pictures
 
 - Aphelion
-- [Colossus Hitbox Diagram](/Media:ColossusHitbox.jpg "wikilink")
+- [Colossus Hitbox Diagram](Media:ColossusHitbox.md.jpg "wikilink")
   <small>(pictures courtesy of GlenMichael, TR Emerald)</small>
 - Eagle
 - Eclipse
-- [Invader Hitbox Diagram](/Media:InvaderHitbox.jpg "wikilink")
+- [Invader Hitbox Diagram](Media:InvaderHitbox.md.jpg "wikilink")
   <small>(pictures courtesy of GoHokieGo, TR Emerald)</small>
 - Peregrine
 
-[category:Strategy](/category:Strategy "wikilink")
+[category:Strategy](category:Strategy.md "wikilink")

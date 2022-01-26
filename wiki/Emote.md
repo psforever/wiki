@@ -1,4 +1,4 @@
-A /[command](/commands "wikilink") entered into the chat pane, **/em**
+A /[command](commands.md "wikilink") entered into the chat pane, **/em**
 (abbreviated from **/emote**) executes a character animation, visible to
 other players. Usage is either of the following:
 
@@ -24,4 +24,4 @@ example:
 
 /em nod
 
-[Category:Commands](/Category:Commands "wikilink")
+[Category:Commands](Category:Commands.md "wikilink")

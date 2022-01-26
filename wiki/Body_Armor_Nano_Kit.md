@@ -1,21 +1,21 @@
-![](/images/PSScreenShot0256.jpg "PSScreenShot0256.jpg")
+![](images/PSScreenShot0256.jpg "PSScreenShot0256.jpg")
 
-|                            |                                              |
-| -------------------------- | -------------------------------------------- |
-| **Certification Required** | [Engineering](/Engineering "wikilink")       |
-| **Empire**                 | [Common Pool](/Common_Pool "wikilink")       |
-| **Primary Mode**           | Repair Friendliess                           |
-| **Secondary Mode**         | Repair Self                                  |
-| **Ammunition**             | [Armor Canister](/Armor_Canister "wikilink") |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                       |
-| **Magazine Capacity**      | 100                                          |
-| **Zoom**                   | None                                         |
+|                            |                                                |
+| -------------------------- | ---------------------------------------------- |
+| **Certification Required** | [Engineering](Engineering.md "wikilink")       |
+| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")       |
+| **Primary Mode**           | Repair Friendliess                             |
+| **Secondary Mode**         | Repair Self                                    |
+| **Ammunition**             | [Armor Canister](Armor_Canister.md "wikilink") |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                         |
+| **Magazine Capacity**      | 100                                            |
+| **Zoom**                   | None                                           |
 
 **Body Armor Nano Kit (BANK)**
 
-The [Body Armor Nano Kit](/Body_Armor_Nano_Kit "wikilink") (BANK) allows
+The [Body Armor Nano Kit](Body_Armor_Nano_Kit.md "wikilink") (BANK) allows
 for the field repair of all armor classes. The
-[BANK](/Body_Armor_Nano_Kit "wikilink") has two settings. The primary
+[BANK](Body_Armor_Nano_Kit.md "wikilink") has two settings. The primary
 mode is used for repairing other players; the secondary mode allows for
 the self-repair of the user.
 
@@ -23,18 +23,18 @@ the self-repair of the user.
 
 1.  Carrying a BANK around will guarantee that you make friends in the
     field. Everyone loves an armor touch up. Just remember to pack an
-    extra [Armor Canister](/Armor_Canister "wikilink") or two.
+    extra [Armor Canister](Armor_Canister.md "wikilink") or two.
 2.  When repairing, allow the person you're repairing to stand in front
     of you. This will allow him to "protect" you from damage, meaning
     that you might both survive a sneak attack.
 
 - Additionally, crouching further reduces your chances of being hit,
   especially when behind a
-  [MAX](/Mechanized_Armored_Exo-Suit "wikilink").
+  [MAX](Mechanized_Armored_Exo-Suit.md "wikilink").
 
 1.  Whenever possible, repair any
-    [MAX](/Mechanized_Armored_Exo-Suit "wikilink") unit you see.
+    [MAX](Mechanized_Armored_Exo-Suit.md "wikilink") unit you see.
 
-[Category:Game Items](/Category:Game_Items "wikilink")
-[Category:Weapons](/Category:Weapons "wikilink") [Category:Common Pool
-Weapons](/Category:Common_Pool_Weapons "wikilink")
+[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Weapons](Category:Weapons.md "wikilink") [Category:Common Pool
+Weapons](Category:Common_Pool_Weapons.md "wikilink")

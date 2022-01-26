@@ -306,4 +306,4 @@ Screenshots and Guide written by JamQ
 <DIV>
 </DIV>
 
-[Category:Strategy](/Category:Strategy "wikilink")
+[Category:Strategy](Category:Strategy.md "wikilink")
