@@ -1,0 +1,6 @@
+docs_dir: wiki
+site_name: PSForever Wiki
+#site_url: https://example.com/
+theme:
+  name: material
+#use_directory_urls: false
