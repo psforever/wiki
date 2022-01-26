@@ -88,22 +88,17 @@ Events
 
 <text xml:space="preserve">An event is a real-time situational occurance
 in PlanetSide where empires fight over something besides territory and
-Facilities. \*[The Bending](The_Bending "wikilink") (Aug. 16 2004)
-\*[BFR Mayhem](BFR_Mayhem "wikilink") (Oct. 11, 2004) \*[Run For the
-Guns](Run_For_the_Guns "wikilink") (Nov. 27,28 2004) \*[Galactic
-Pathways](Galactic_Pathways "wikilink") (Feb. 20,21 2005) \*[Empire
-Defense](Empire_Defense "wikilink") (Apr. 29-May 2 2005) \*[Emerald E3
-Monolith Battle](Emerald_E3_Monolith_Battle "wikilink") (May 18-May 20
-2005) \*[Empire Home Defense
-Event](Empire_Home_Defense_Event "wikilink") (July 29 2005) \*[Martial
-Law](Martial_Law "wikilink") (April 1 2006) \*[Third Anniversary of
-PlanetSide](Third_Anniversary_of_PlanetSide "wikilink") (May 19-May 26
-2006) \*[Blast Into Battle, Double
-Time](Blast_Into_Battle,_Double_Time "wikilink") (July 27-August 8 2006)
-\*[The Chainblade Massacre](The_Chainblade_Massacre "wikilink")
+Facilities. \*[The Bending](/The_Bending "wikilink") (Aug. 16 2004) \*[BFR Mayhem](/BFR_Mayhem "wikilink") (Oct. 11, 2004) \*[Run For the
+Guns](/Run_For_the_Guns "wikilink") (Nov. 27,28 2004) \*[Galactic
+Pathways](/Galactic_Pathways "wikilink") (Feb. 20,21 2005) \*[Empire
+Defense](/Empire_Defense "wikilink") (Apr. 29-May 2 2005) \*[Emerald E3
+Monolith Battle](/Emerald_E3_Monolith_Battle "wikilink") (May 18-May 20 2005) \*[Empire Home Defense
+Event](/Empire_Home_Defense_Event "wikilink") (July 29 2005) \*[Martial
+Law](/Martial_Law "wikilink") (April 1 2006) \*[Third Anniversary of
+PlanetSide](/Third_Anniversary_of_PlanetSide "wikilink") (May 19-May 26 2006) \*[Blast Into Battle, Double
+Time](/Blast_Into_Battle,_Double_Time "wikilink") (July 27-August 8 2006) \*[The Chainblade Massacre](/The_Chainblade_Massacre "wikilink")
 (October/November 2006-2008, Halloween) \*[Spooktacular
-Days](Spooktacular_Days "wikilink") (October 22nd - November 2nd 2009)
-\*[Rabbit](Rabbit "wikilink") (Can occur at any time) </text>
+Days](/Spooktacular_Days "wikilink") (October 22nd - November 2nd 2009) \*[Rabbit](/Rabbit "wikilink") (Can occur at any time) </text>
 
 </revision>
 
@@ -111,4 +106,4 @@ Days](Spooktacular_Days "wikilink") (October 22nd - November 2nd 2009)
 
 </mediawiki>
 
-[\*](Category:Events "wikilink")
+[\*](/Category:Events "wikilink")

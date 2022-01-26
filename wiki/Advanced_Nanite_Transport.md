@@ -1,42 +1,42 @@
-![](images/Ant.jpg "fig:Ant.jpg") ![](images/ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
+![](/images/Ant.jpg "fig:Ant.jpg") ![](/images/ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
 
-|                            |                                       |
-| -------------------------- | ------------------------------------- |
-| **Type**                   | Utility                               |
-| **Role**                   | Resource Gathering                    |
-| **Certification Required** | None                                  |
-| **Empire**                 | [Common Pool](Common_Pool "wikilink") |
-| **Primary Weapon**         | \-                                    |
-| **Secondary Weapon**       | \-                                    |
-| **Occupants**              | 1 (Driver)                            |
-| **Handling**               | Very Poor                             |
-| **Top speed**              | 61 kph                                |
+|                            |                                        |
+| -------------------------- | -------------------------------------- |
+| **Type**                   | Utility                                |
+| **Role**                   | Resource Gathering                     |
+| **Certification Required** | None                                   |
+| **Empire**                 | [Common Pool](/Common_Pool "wikilink") |
+| **Primary Weapon**         | \-                                     |
+| **Secondary Weapon**       | \-                                     |
+| **Occupants**              | 1 (Driver)                             |
+| **Handling**               | Very Poor                              |
+| **Top speed**              | 61 kph                                 |
 
 **Advanced Nanite Transport (ANT)**
 
 The **Advanced Nanite Transport (ANT)** is used to resupply
-[facilities](facilities "wikilink") with [NTUs](NTU "wikilink").
+[facilities](/facilities "wikilink") with [NTUs](/NTU "wikilink").
 
 To do so, the driver must first drive into a
-[Warpgate](Warpgate "wikilink") or [Geowarp](Geowarp "wikilink") bubble
+[Warpgate](/Warpgate "wikilink") or [Geowarp](/Geowarp "wikilink") bubble
 and deploy the **ANT**. (Default key mapping is 'B'.) Note: If
-harvesting from a [Geowarp](Geowarp "wikilink"), that Geowarp must be
+harvesting from a [Geowarp](/Geowarp "wikilink"), that Geowarp must be
 active at the time.
 
 When the **ANT's** capacitors are full, it will automatically undeploy.
 The driver must travel to a facility and deploy the **ANT** near the
-[NTU Silo](NTU_Silo "wikilink"). The **ANT** will undeploy automatically
-when the [NTU Silo](NTU_Silo "wikilink") is full or the **ANT's**
+[NTU Silo](/NTU_Silo "wikilink"). The **ANT** will undeploy automatically
+when the [NTU Silo](/NTU_Silo "wikilink") is full or the **ANT's**
 capacitors are empty.
 
 One fully-filled **ANT** carries approximately 150% of one
-[facility](facilities "wikilink")'s total [NTU](NTU "wikilink")
+[facility](/facilities "wikilink")'s total [NTU](/NTU "wikilink")
 capacity.
 
 Caution: Fully-charged **ANTs** have a significant secondary blast
 radius when destroyed.
 
-[Category:Game Items](Category:Game_Items "wikilink")
-[Category:Vehicles](Category:Vehicles "wikilink") [Category:Common Pool
-Vehicles](Category:Common_Pool_Vehicles "wikilink") [Category:Ground
-Vehicles](Category:Ground_Vehicles "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")
+[Category:Vehicles](/Category:Vehicles "wikilink") [Category:Common Pool
+Vehicles](/Category:Common_Pool_Vehicles "wikilink") [Category:Ground
+Vehicles](/Category:Ground_Vehicles "wikilink")

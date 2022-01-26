@@ -1,18 +1,18 @@
-![](images/LiberatorPicture.jpg "fig:LiberatorPicture.jpg") Liberator\]\]
+![](/images/LiberatorPicture.jpg "fig:LiberatorPicture.jpg") Liberator\]\]
 
-|                            |                                                                                                                                                                                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Bomber                                                                                                                                                                                                                          |
-| **Role**                   | Supression/Target Bombing                                                                                                                                                                                                       |
-| **Certification Required** | [Air Support](Air_Support "wikilink")                                                                                                                                                                                           |
-| **Empire**                 | [Common Pool](Common_Pool "wikilink")                                                                                                                                                                                           |
-| **Primary Weapon**         | Bombs                                                                                                                                                                                                                           |
-| **Secondary Weapon**       | 35mm Chaingun                                                                                                                                                                                                                   |
-| **Tertiary Weapon**        | 25mm Chaingun                                                                                                                                                                                                                   |
-| **Ammunition Used**        | [Liberator and Vulture Bombs](Liberator_and_Vulture_Bombs "wikilink"), [35mm Chaingun Bullets](35mm_Chaingun_Bullets "wikilink"), and [Liberator and Vulture Tailgun Bullets](Liberator_and_Vulture_Tailgun_Bullets "wikilink") |
-| **Occupants**              | 3 (Pilot, Bomber and Tailgunner)                                                                                                                                                                                                |
-| **Handling**               | Average                                                                                                                                                                                                                         |
-| **Top speed**              | 89 kph                                                                                                                                                                                                                          |
+|                            |                                                                                                                                                                                                                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Bomber                                                                                                                                                                                                                             |
+| **Role**                   | Supression/Target Bombing                                                                                                                                                                                                          |
+| **Certification Required** | [Air Support](/Air_Support "wikilink")                                                                                                                                                                                             |
+| **Empire**                 | [Common Pool](/Common_Pool "wikilink")                                                                                                                                                                                             |
+| **Primary Weapon**         | Bombs                                                                                                                                                                                                                              |
+| **Secondary Weapon**       | 35mm Chaingun                                                                                                                                                                                                                      |
+| **Tertiary Weapon**        | 25mm Chaingun                                                                                                                                                                                                                      |
+| **Ammunition Used**        | [Liberator and Vulture Bombs](/Liberator_and_Vulture_Bombs "wikilink"), [35mm Chaingun Bullets](/35mm_Chaingun_Bullets "wikilink"), and [Liberator and Vulture Tailgun Bullets](/Liberator_and_Vulture_Tailgun_Bullets "wikilink") |
+| **Occupants**              | 3 (Pilot, Bomber and Tailgunner)                                                                                                                                                                                                   |
+| **Handling**               | Average                                                                                                                                                                                                                            |
+| **Top speed**              | 89 kph                                                                                                                                                                                                                             |
 
 **Liberator**
 
@@ -39,14 +39,14 @@ A skilled bombardier may be capable of landing an entire magazine of ten
 bombs on a single point, depending on flight trajectory. By slewing his
 or her view forward or aft, the release path of the bombs is altered.
 
-The Liberator requires a [Technology Plant](Technology_Plant "wikilink")
-lattice link or [Sanctuary](Sanctuary "wikilink") vehicle pad in order
+The Liberator requires a [Technology Plant](/Technology_Plant "wikilink")
+lattice link or [Sanctuary](/Sanctuary "wikilink") vehicle pad in order
 to be purchasable.
 
 Apparent namesake: [Consolidated B-24
 Liberator](http://en.wikipedia.org/wiki/B-24_Liberator)
 
-[Category:Game Items](Category:Game_Items "wikilink")
-[Category:Vehicles](Category:Vehicles "wikilink") [Category:Common Pool
-Vehicles](Category:Common_Pool_Vehicles "wikilink") [Category:Air
-Vehicles](Category:Air_Vehicles "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")
+[Category:Vehicles](/Category:Vehicles "wikilink") [Category:Common Pool
+Vehicles](/Category:Common_Pool_Vehicles "wikilink") [Category:Air
+Vehicles](/Category:Air_Vehicles "wikilink")

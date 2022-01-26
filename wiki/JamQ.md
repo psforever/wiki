@@ -3,12 +3,12 @@
 This guide will teach you how to drain a base from 100% NTU. This guide
 will come in more use if you have the following Certifications\<
 
--   Reinforced Exo (Rexo - For extra inventory space, it allows you to
-    carry more CE and decims)
--   Engineering and Combat Engineering\<
--   Anti Vehicular
--   Any vehicle cert (For an ANT)\<
--   HA/MA with AP ammo
+- Reinforced Exo (Rexo - For extra inventory space, it allows you to
+  carry more CE and decims)
+- Engineering and Combat Engineering\<
+- Anti Vehicular
+- Any vehicle cert (For an ANT)\<
+- HA/MA with AP ammo
 
 Not all of the above certs are a must but they will save time, at the
 least you
@@ -46,7 +46,6 @@ and skyguards, this will make your assault a little easier
 
 </DIV>
 <DIV>
-
 
 <STRONG>What shall I come in?</STRONG>
 Drive to the base in an ANT, make sure it has full NTU. When you get to
@@ -307,4 +306,4 @@ Screenshots and Guide written by JamQ
 <DIV>
 </DIV>
 
-[Category:Strategy](Category:Strategy "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")

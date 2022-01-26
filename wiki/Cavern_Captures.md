@@ -1,11 +1,11 @@
-A cavern capture is part of the [BFR Imprint](BFR_Imprint "wikilink")
+A cavern capture is part of the [BFR Imprint](/BFR_Imprint "wikilink")
 process.
 
 In order to get a cavern capture, one must be inside the
-[SOI](SOI "wikilink") of a [cavern](caverns "wikilink") facility at the
+[SOI](/SOI "wikilink") of a [cavern](/caverns "wikilink") facility at the
 time of capture if the base is worth (at the time of this writing) 450
-[BEP](Battle_Experience_Points "wikilink") or
-[CEP](Command_Experience_Points "wikilink"). Resecures also count if
+[BEP](/Battle_Experience_Points "wikilink") or
+[CEP](/Command_Experience_Points "wikilink"). Resecures also count if
 they are worth 450 BEP or CEP, but a resecure can only count towards the
 cavern capture requirement every 20 minutes.
 
@@ -16,4 +16,4 @@ Beware: If you are killed right before the time of capture, do not
 respawn. Wait until after the capture to click your respawn button, or
 else you will not be awarded the capture.
 
-[Category:Game Guides](Category:Game_Guides "wikilink")
+[Category:Game Guides](/Category:Game_Guides "wikilink")

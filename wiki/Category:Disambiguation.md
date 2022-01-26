@@ -5,7 +5,7 @@ name together so that the viewer of the page can select which use of the
 term the user wishes to view. These pages serve the purpose of
 conforming with the purpose of a wiki to keep links simple and easy to
 navigate. However, when multiple subjects share a common name, such as
-[Map](Map "wikilink"), a user can become confused by this mixture of
+[Map](/Map "wikilink"), a user can become confused by this mixture of
 unrelated topics.
 
 ## Disambiguous Links
@@ -28,10 +28,10 @@ be changed as described above.
 
 ### Disambiguation Repair
 
-*This section contains a partial list of disambiguous links. You con
+_This section contains a partial list of disambiguous links. You con
 contribute to the effort by correcting the links in which the
-disambiguation is linked to.*
+disambiguation is linked to._
 
-[Map](Map "wikilink") -- 11
+[Map](/Map "wikilink") -- 11
 
-[Category:Wiki Maintenance](Category:Wiki_Maintenance "wikilink")
+[Category:Wiki Maintenance](/Category:Wiki_Maintenance "wikilink")

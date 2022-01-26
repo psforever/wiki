@@ -1,41 +1,41 @@
 ## The Bending
 
-*"Just before the end, everything....**bent**"*
+_"Just before the end, everything....**bent**"_
 
 The Bending refers to an event, as well as one hell of a plot twist,
-that changed the face of [Auraxis](Auraxis "wikilink") forever.
+that changed the face of [Auraxis](/Auraxis "wikilink") forever.
 
-During this bending, the [continents](continent "wikilink") of Auraxis
-had fallen under siege by [meteor](meteor "wikilink") storms. Many did
+During this bending, the [continents](/continent "wikilink") of Auraxis
+had fallen under siege by [meteor](/meteor "wikilink") storms. Many did
 not know what it meant, and many were fearful, feeling as if something
 was about to go terribly wrong.
 
 Their fears were confirmed when the continent of
-[Oshur](Oshur "wikilink") fell under heavy meteor attack, and an alien
+[Oshur](/Oshur "wikilink") fell under heavy meteor attack, and an alien
 voice from the sky began speaking during the final hours of the storm.
 
-*Spatial Destabilization Concluded.
+\*Spatial Destabilization Concluded.
 Exotic matter injected. Quantum tunnels stabilized.
 Delivery platform transport fields readied.
 
-Initiating bend sequence now.*<font size=-2>\*</font>
+Initiating bend sequence now.\*<font size=-2>\*</font>
 
 Right after this voice, every soldier on Auraxis had fallen unconcious.
 
 Upon awakening back in their own sanctuaries, the soldiers of every
 empire saw that Auraxis' sun and moons were gone. The sky was different,
 yet the land was the same. The stars had changed, and each
-[continent](continent "wikilink") had somehow shifted to different parts
+[continent](/continent "wikilink") had somehow shifted to different parts
 of the universe.
 
 However, Oshur was gone. It had been replaced within the new [Galactic
-Lattice](Galactic_Lattice "wikilink") by another mysterious world that
-had 4 islands, the [Battle Islands](Battle_Islands "wikilink").
+Lattice](/Galactic_Lattice "wikilink") by another mysterious world that
+had 4 islands, the [Battle Islands](/Battle_Islands "wikilink").
 
 ## The Bending - The Day Everything Changed - An account from a soldier on the field
 
 I was there that day. For three days meteors pounded the surface of
-Auraxis. The [caverns](caverns "wikilink") shook and yet we battled on.
+Auraxis. The [caverns](/caverns "wikilink") shook and yet we battled on.
 It became obvious that whatever was gonna happen would happen on Oshur
 Prime (the name for pre-bending Oshur).
 
@@ -63,4 +63,4 @@ we had worked for wasn't there. But, we had a whole new goal. The galaxy
 was ripe for the taking and a new land to be explored. Everything may
 have changed but in the end the war still waged on.
 
-[Bending, The](Category:Events "wikilink")
+[Bending, The](/Category:Events "wikilink")

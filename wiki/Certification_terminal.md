@@ -1,1 +1,1 @@
-1.  REDIRECT [Certification Terminal](Certification_Terminal "wikilink")
+1.  REDIRECT [Certification Terminal](/Certification_Terminal "wikilink")

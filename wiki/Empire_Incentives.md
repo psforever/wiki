@@ -1,14 +1,14 @@
 Empire Incentives are awarded and adjusted based upon
 continental/planetary population. They activate only when the
-[empire](empire "wikilink") with the highest population on the
-[zone](zone "wikilink") has at least 50 players.
+[empire](/empire "wikilink") with the highest population on the
+[zone](/zone "wikilink") has at least 50 players.
 
 For each zone, you have experience, spawn timer, and purchase timer
 bonuses. These only affect the current zone and are based on that zone's
 population levels. If the dominating empire does not have at least 50
 players on the zone, no zone bonuses are given. So for example, if
-[VS](VS "wikilink") have 95% of the zone with 46 players and
-[NC](NC "wikilink") has 5% with 4 players, that single player doesn't
+[VS](/VS "wikilink") have 95% of the zone with 46 players and
+[NC](/NC "wikilink") has 5% with 4 players, that single player doesn't
 get a bonus because VS only have 46 players, which is 4 short of 50!
 
 If the dominating empire has over 50 players, then the bonus is
@@ -24,12 +24,12 @@ empire and your empire. The percentage levels and bonuses are:
 </td>
 <td align="center">
 
-<b>[Experience](BEP "wikilink") Bonus</b>
+<b>[Experience](/BEP "wikilink") Bonus</b>
 
 </td>
 <td align="center">
 
-<b>[Respawn Timer](Respawn_timer "wikilink") Bonus</b>
+<b>[Respawn Timer](/Respawn_timer "wikilink") Bonus</b>
 
 </td>
 <td align="center">
@@ -124,17 +124,17 @@ empire and your empire. The percentage levels and bonuses are:
 </table>
 
 The "Fractional Imbalance" = your empire / high empire. So if NC has 150
-players, your [TR](TR "wikilink") empire has 90 players, and VS has
+players, your [TR](/TR "wikilink") empire has 90 players, and VS has
 anywhere under 150, you are 90/150 = 60%. You are in the region between
 51% and 85%. That means you get 15% experience bonus, 20% faster
 respawn, and 20% faster purchase timers. This is only on your current
 zone though!
 
 And remember, your [world experience
-bonus](Global_Incentives "wikilink") is added. So in that example if
+bonus](/Global_Incentives "wikilink") is added. So in that example if
 your zone experience bonus is 15% and your world bonus is 50%, you
 actually get 65% more experience on that zone.
 
-See also: [Global Incentives](Global_Incentives "wikilink").
+See also: [Global Incentives](/Global_Incentives "wikilink").
 
-[Category:Game Guides](Category:Game_Guides "wikilink")
+[Category:Game Guides](/Category:Game_Guides "wikilink")

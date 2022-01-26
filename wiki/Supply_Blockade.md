@@ -213,12 +213,12 @@
 </table>
 
 This seven-level Merit is earned by destroying the following
-[Vehicles](Vehicle "wikilink"):
+[Vehicles](/Vehicle "wikilink"):
 
--   [Advanced Mobile Station](Advanced_Mobile_Station "wikilink")
-    ([AMS](AMS "wikilink"))
--   [Lodestar](Lodestar "wikilink")
--   [Advanced Nanite Transport](Advanced_Nanite_Transport "wikilink")
-    ([ANT](ANT "wikilink"))
+- [Advanced Mobile Station](/Advanced_Mobile_Station "wikilink")
+  ([AMS](/AMS "wikilink"))
+- [Lodestar](/Lodestar "wikilink")
+- [Advanced Nanite Transport](/Advanced_Nanite_Transport "wikilink")
+  ([ANT](/ANT "wikilink"))
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

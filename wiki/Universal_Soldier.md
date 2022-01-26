@@ -69,23 +69,23 @@ This is a two stage award.
 The **Elite** level requires the Qualification level of the folowing
 merits:
 
--   [Combat Medic](Combat_Medic "wikilink")
--   [Combat Resuscitation](Combat_Resuscitation "wikilink")
--   [Resuscitation Medic](Resuscitation_Medic "wikilink")
--   [Engineering](Engineering_(Merit) "wikilink")
--   [Equipment Support](Equipment_Support "wikilink")
--   [Infantry Armor Support](Infantry_Armor_Support "wikilink")
--   [Tiny Robotics Support](Tiny_Robotics_Support "wikilink")
+- [Combat Medic](/Combat_Medic "wikilink")
+- [Combat Resuscitation](/Combat_Resuscitation "wikilink")
+- [Resuscitation Medic](/Resuscitation_Medic "wikilink")
+- [Engineering](</Engineering_(Merit)> "wikilink")
+- [Equipment Support](/Equipment_Support "wikilink")
+- [Infantry Armor Support](/Infantry_Armor_Support "wikilink")
+- [Tiny Robotics Support](/Tiny_Robotics_Support "wikilink")
 
 The **Master** level requires those required for the Elite level plus
 the Qualification level of the following merits:
 
--   [Hacking Support](Hacking_Support "wikilink")
--   [Locker Hack](Locker_Hack "wikilink")
--   [Galaxy Support Pilot](Galaxy_Support_Pilot "wikilink")
--   [Router Support](Router_Support "wikilink")
--   [Telepad Deployment](Telepad_Deployment "wikilink")
--   [AMS Support](AMS_Support "wikilink")
--   [Lodestar Support](Lodestar_Support "wikilink")
+- [Hacking Support](/Hacking_Support "wikilink")
+- [Locker Hack](/Locker_Hack "wikilink")
+- [Galaxy Support Pilot](/Galaxy_Support_Pilot "wikilink")
+- [Router Support](/Router_Support "wikilink")
+- [Telepad Deployment](/Telepad_Deployment "wikilink")
+- [AMS Support](/AMS_Support "wikilink")
+- [Lodestar Support](/Lodestar_Support "wikilink")
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

@@ -219,7 +219,7 @@
 </table>
 
 Bombardier is a seven-level Merit for kills achieved while in the
-Bomber's position of a [Liberator](Liberator "wikilink") or
-[Vulture](Vulture "wikilink").
+Bomber's position of a [Liberator](/Liberator "wikilink") or
+[Vulture](/Vulture "wikilink").
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

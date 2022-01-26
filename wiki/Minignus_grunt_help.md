@@ -27,7 +27,7 @@ through. It is best combined with rexo armour as you do not need agility
 (unlike the JH) and the extra armour can save your life.
 
 **JH (Jackhammer):** The Jackhammer is the NC HA weapon. It is a triple
-barrelled combat shotgun which can make mincemeat of the enemy *IF* you
+barrelled combat shotgun which can make mincemeat of the enemy _IF_ you
 get close enough (10- metres is optimum range). It can kill in about 3
 shots against non-MAX armour and doesn't require too much aiming. The
 main problem is having to get within that optimum range and the fact
@@ -106,39 +106,39 @@ possible as i seem to get good kill streaks with them.
 of an experienced player but can be difficult for the new player to use.
 It can fire 3 different types of round:
 
--   Fragmentation grenades: Ideal for the newer player as they have a
-    smaller blast radius so it is easier to use without griefing others.
-    It also has some (but not much) damage against MAXes.
+- Fragmentation grenades: Ideal for the newer player as they have a
+  smaller blast radius so it is easier to use without griefing others.
+  It also has some (but not much) damage against MAXes.
 
 <!-- -->
 
--   Plasma grenades: Extremely powerful but unpredictable, these weapons
-    can do serious damage to enemies but also can be "grief machines" if
-    used uncorrectly. Can kill cloakers in a single hit.
+- Plasma grenades: Extremely powerful but unpredictable, these weapons
+  can do serious damage to enemies but also can be "grief machines" if
+  used uncorrectly. Can kill cloakers in a single hit.
 
 <!-- -->
 
--   Jammer grenades: Like normal Jammers these can disable enemy CE,
-    detonate boomers from a safe range, deactivate implants and destroy
-    vehicular weapon systems. The extra range of the thumper means it is
-    easier to disable spitfires, vehicles and implants from a safe
-    range. Extremely handy!
+- Jammer grenades: Like normal Jammers these can disable enemy CE,
+  detonate boomers from a safe range, deactivate implants and destroy
+  vehicular weapon systems. The extra range of the thumper means it is
+  easier to disable spitfires, vehicles and implants from a safe
+  range. Extremely handy!
 
 **Rocklet rifle:** This weapon can fire in two modes: a normal single
 shot mode or a rapid fire mode that fires all the shots in the magazine
 at once with a slight decrease to accuracy. It has two ammo types:
 
--   Rocket pod: A single magazine of rocket pods can take out a rexo
-    trooper if all the shots hit and can annihilate MAXes in two
-    magazines. It can also do decent damage to light vehicles and
-    aircraft.
+- Rocket pod: A single magazine of rocket pods can take out a rexo
+  trooper if all the shots hit and can annihilate MAXes in two
+  magazines. It can also do decent damage to light vehicles and
+  aircraft.
 
 <!-- -->
 
--   Fragmentation ammo: Using the same ammo type as a thumper this mode
-    can do decent damage to light vehicles and can take out aircraft
-    with far more ease than the rockets due to it's splash damage.
+- Fragmentation ammo: Using the same ammo type as a thumper this mode
+  can do decent damage to light vehicles and can take out aircraft
+  with far more ease than the rockets due to it's splash damage.
 
 MORE SOON....
 
-[Category:Strategy](Category:Strategy "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")

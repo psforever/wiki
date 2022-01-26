@@ -27,37 +27,37 @@ With this, here are some of the things that are my list of things to do
 
 **Login Server**
 
--   Fix the crypto library issue that is preventing development on
-    Windows (pscrypto.dll)
--   Add more functionality to the login server so that it will be able
-    to manage the connection to clients (currently clients auto
-    disconnect after some time due to their not being any keep alives)
--   Design an effective logging scheme that will scale to a bigger
-    server (doing this later will be hard)
--   Create a way to store user accounts in a database and pick a DB
-    solution (MySQL, PostgreSQL, CouchDB, MongoDB, etc.)
+- Fix the crypto library issue that is preventing development on
+  Windows (pscrypto.dll)
+- Add more functionality to the login server so that it will be able
+  to manage the connection to clients (currently clients auto
+  disconnect after some time due to their not being any keep alives)
+- Design an effective logging scheme that will scale to a bigger
+  server (doing this later will be hard)
+- Create a way to store user accounts in a database and pick a DB
+  solution (MySQL, PostgreSQL, CouchDB, MongoDB, etc.)
 
 **GameLogger, GCAPy**
 
--   Write more tools to process the GCAP files in order to figure out
-    the packets necessary for logging in completely
--   Find a list of packets required for connecting the planetside game
-    server
+- Write more tools to process the GCAP files in order to figure out
+  the packets necessary for logging in completely
+- Find a list of packets required for connecting the planetside game
+  server
 
 **GameLauncher**
 
--   Make this prettier and have a way to select between live PlanetSide
-    servers and PSForever servers
+- Make this prettier and have a way to select between live PlanetSide
+  servers and PSForever servers
 
 **Game Server**
 
--   Start removing common components from the LoginServer to a shared
-    code repository
--   Figure out how to get to the character creation screen (what packets
-    are required)
--   Make a high level diagram of what I believe will be involved in the
-    game server
+- Start removing common components from the LoginServer to a shared
+  code repository
+- Figure out how to get to the character creation screen (what packets
+  are required)
+- Make a high level diagram of what I believe will be involved in the
+  game server
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=156)
 
-[Category:PSForever Updates](Category:PSForever_Updates "wikilink")
+[Category:PSForever Updates](/Category:PSForever_Updates "wikilink")

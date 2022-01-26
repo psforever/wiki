@@ -1,1 +1,1 @@
-1.  REDIRECT [Battle Islands](Battle_Islands "wikilink")
+1.  REDIRECT [Battle Islands](/Battle_Islands "wikilink")

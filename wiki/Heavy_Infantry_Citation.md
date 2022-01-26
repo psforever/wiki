@@ -115,25 +115,25 @@
 </tbody>
 </table>
 
--   **Generalist:** Qualify for the Qualification level of the
-    [Anti-Vehicular](Anti-Vehicular "wikilink"), [Heavy
-    Assault](Heavy_Assault "wikilink"), [Special
-    Assault](Special_Assault "wikilink") and
-    [Sniping](Sniping "wikilink") Merits.
--   **Expert:** Qualify for the Bronze level of the
-    [Anti-Vehicular](Anti-Vehicular "wikilink"), [Heavy
-    Assault](Heavy_Assault "wikilink"), [Special
-    Assault](Special_Assault "wikilink") and
-    [Sniping](Sniping "wikilink") Merits.
--   **Elite:** Qualify for the Silver level of the
-    [Anti-Vehicular](Anti-Vehicular "wikilink"), [Heavy
-    Assault](Heavy_Assault "wikilink"), [Special
-    Assault](Special_Assault "wikilink") and
-    [Sniping](Sniping "wikilink") Merits.
--   **Master:** Qualify for the Gold level of the
-    [Anti-Vehicular](Anti-Vehicular "wikilink"), [Heavy
-    Assault](Heavy_Assault "wikilink"), [Special
-    Assault](Special_Assault "wikilink") and
-    [Sniping](Sniping "wikilink") Merits.
+- **Generalist:** Qualify for the Qualification level of the
+  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
+  Assault](/Heavy_Assault "wikilink"), [Special
+  Assault](/Special_Assault "wikilink") and
+  [Sniping](/Sniping "wikilink") Merits.
+- **Expert:** Qualify for the Bronze level of the
+  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
+  Assault](/Heavy_Assault "wikilink"), [Special
+  Assault](/Special_Assault "wikilink") and
+  [Sniping](/Sniping "wikilink") Merits.
+- **Elite:** Qualify for the Silver level of the
+  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
+  Assault](/Heavy_Assault "wikilink"), [Special
+  Assault](/Special_Assault "wikilink") and
+  [Sniping](/Sniping "wikilink") Merits.
+- **Master:** Qualify for the Gold level of the
+  [Anti-Vehicular](/Anti-Vehicular "wikilink"), [Heavy
+  Assault](/Heavy_Assault "wikilink"), [Special
+  Assault](/Special_Assault "wikilink") and
+  [Sniping](/Sniping "wikilink") Merits.
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

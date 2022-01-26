@@ -1,8 +1,8 @@
 [**Guide to TR MAX**]('''Guide_to_TR_MAX''' "wikilink")
 
--   this is not ment to be a comprehensive guide for new users but
-    should offer some assistance and insight to new MAX users.
-    Especially you Newb Uni-MAX owners.
+- this is not ment to be a comprehensive guide for new users but
+  should offer some assistance and insight to new MAX users.
+  Especially you Newb Uni-MAX owners.
 
 The TR MAX units, in my opinion are the best in the game. Although they
 are underpowered compared to the other factions MAX units during normal
@@ -10,7 +10,7 @@ operations their special ability (liability and asset) to anchor down
 makes them incredibly powerful. I will comment on each of the armament
 types seperately.
 
-*AA MAX: BURSTER* his MAX has the unique ability to target and often
+_AA MAX: BURSTER_ his MAX has the unique ability to target and often
 seal the fate of enemy aircraft before they even know what hit them.
 This is due to the fact that the flak MAX is dumb fire mode only. Since
 it has no missle lock warning, this MAX can fire (especially at range)
@@ -31,7 +31,7 @@ win a one on one battle provided you do some straffing and the opponent
 doesnt have anti vehicular weapons. Once again though, you will be
 damaged a lot and likely be killed soon after.
 
-*AV MAX: POUNDER* This is the best all purpose MAX for the TR. The
+_AV MAX: POUNDER_ This is the best all purpose MAX for the TR. The
 mortar projectiles do substantial damage to personnel and aircraft
 (although hard to hit) in addition to vehicles and MAX units. I cant
 swear to this but I am not sure that any other MAX has a faster time to
@@ -57,7 +57,7 @@ difficult it also can allow you to attack enemy vehicles over base
 walls. The secondary fire mode (three second delay) is useful for
 clearing out hallways and to a lesser degree bouncing around corners.
 
-*AI MAX: DUAL CYCLER* Finally we come to the anti-infantry max for the
+_AI MAX: DUAL CYCLER_ Finally we come to the anti-infantry max for the
 TR. This weapon (like all TR weapons) has a high rate of fire and large
 magazine size. The weapon is extremely effective against soft targets
 and is capable of dizzing rate of fire. One issue with this weapon
@@ -84,7 +84,7 @@ suit makes you want to charge in all doors and take on all armor, which
 is a bad idea. This could go on forever but this isnt about general MAX
 strategy. On to the other TR issue...
 
-*To Anchor or not to Anchor*: If you have played (or read about) a TR
+_To Anchor or not to Anchor_: If you have played (or read about) a TR
 MAX then you know that the ability to anchor is a gift and a curse. On
 the one hand you shrink your cone of fire, and almost double the rate of
 fire. On the other you become stationary, and loose the ability to fire
@@ -121,6 +121,6 @@ luck with the new tool.
 
 Enjoy the firepower TR and happy hunting.
 
---[Mudwink](User:Mudwink "wikilink") 13:40, 31 October 2007 (EDT)Mudwink
+--[Mudwink](/User:Mudwink "wikilink") 13:40, 31 October 2007 (EDT)Mudwink
 
-[Category:Strategy](Category:Strategy "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")

@@ -222,10 +222,10 @@ A seven-level Vehicle Merit, obtained by amassing kills by killing
 enemies while using your vehicle's weapons and also driving your
 vehicle.
 
-Applicable Vehicles: [Basilisk](Basilisk "wikilink"),
-[Fury](Fury "wikilink"), [Switchblade](Switchblade "wikilink"),
-[Lightning](Lightning "wikilink"), [Magrider](Magrider "wikilink"), and
-all [BFR](BFR "wikilink") pilot weapons except the [Armor
-Siphon](Armor_Siphon "wikilink").
+Applicable Vehicles: [Basilisk](/Basilisk "wikilink"),
+[Fury](/Fury "wikilink"), [Switchblade](/Switchblade "wikilink"),
+[Lightning](/Lightning "wikilink"), [Magrider](/Magrider "wikilink"), and
+all [BFR](/BFR "wikilink") pilot weapons except the [Armor
+Siphon](/Armor_Siphon "wikilink").
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

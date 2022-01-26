@@ -1,1 +1,1 @@
-1.  REDIRECT [Merit Commendations](Merit_Commendations "wikilink")
+1.  REDIRECT [Merit Commendations](/Merit_Commendations "wikilink")

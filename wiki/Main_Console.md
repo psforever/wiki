@@ -1,1 +1,1 @@
-1.  REDIRECT [Main terminal](Main_terminal "wikilink")
+1.  REDIRECT [Main terminal](/Main_terminal "wikilink")

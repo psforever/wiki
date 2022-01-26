@@ -1,13 +1,13 @@
 Concepts for territory control, capturable structures, and supply lines
 on continents.
 
--   [Urban Outposts Concept
-    Description](http://www.planetside-idealab.com/idea_urbanareas.shtml)
+- [Urban Outposts Concept
+  Description](http://www.planetside-idealab.com/idea_urbanareas.shtml)
 
 <!-- -->
 
--   [Urban Outposts discussion
-    thread](http://s3.invisionfree.com/Planetside_Idealab/index.php?showtopic=22)
+- [Urban Outposts discussion
+  thread](http://s3.invisionfree.com/Planetside_Idealab/index.php?showtopic=22)
 
 Linked to [Empire Tech
 Levels](http://www.planetside-idealab.com/idea_empire_levels.shtml),
@@ -19,4 +19,4 @@ and [Command
 Squad](http://www.planetside-idealab.com/idea_command_abilities.shtml#commandsquads)
 concepts.
 
-[Category:Idealab](Category:Idealab "wikilink")
+[Category:Idealab](/Category:Idealab "wikilink")

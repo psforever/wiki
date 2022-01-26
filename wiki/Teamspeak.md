@@ -1,4 +1,4 @@
-![](images/TeamSpeak.jpg "fig:TeamSpeak.jpg") [Teamspeak](Teamspeak "wikilink")
+![](/images/TeamSpeak.jpg "fig:TeamSpeak.jpg") [Teamspeak](/Teamspeak "wikilink")
 is a voice communications program. It is often used for online first
 person shooters to communicate with players on the same team as you,
 usually through use of a headset or microphone. By using Teamspeak,
@@ -9,11 +9,11 @@ To be able to use TeamSpeak, the user has to download the client and the
 connect to a TeamSpeak server. Usually, a player will log into a
 TeamSpeak server before running the game that they wish to play.
 TeamSpeak has become very popular with
-[PlanetSide](PlanetSide "wikilink"), and many
-[outfits](outfit "wikilink") use Teamspeak as their main method of
+[PlanetSide](/PlanetSide "wikilink"), and many
+[outfits](/outfit "wikilink") use Teamspeak as their main method of
 communication in game, going as far as to mandate Teamspeak to be a part
-of the [outfit](outfit "wikilink"). However, not all
-[outfits](outfit "wikilink") require a microphone or a headset, as it is
+of the [outfit](/outfit "wikilink"). However, not all
+[outfits](/outfit "wikilink") require a microphone or a headset, as it is
 often useful for players to simply listen to the other players on their
 team.
 
@@ -63,11 +63,11 @@ website.
 
 ## See Also
 
-- [Ventrilo](Ventrilo "wikilink")
+- [Ventrilo](/Ventrilo "wikilink")
 
 ## External Links
 
 - [Teamspeak Home Page](http://www.goteamspeak.com/)
 - [Teamspeak Overlay Home Page](http://www.teamspeakoverlay.com/)
 
-[category:Communication](category:Communication "wikilink")
+[category:Communication](/category:Communication "wikilink")

@@ -101,10 +101,10 @@
 </table>
 
 The fifth stage of the "[Empire Defense
-series](Defense_Merit_Commendations#Empire_Defense_Merits "wikilink")"
+series](/Defense_Merit_Commendations#Empire_Defense_Merits "wikilink")"
 of Commendations
 
 This Merit is awarded for killing Enemies while using any means
 necessary.
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

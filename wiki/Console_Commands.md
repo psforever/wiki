@@ -1,1 +1,1 @@
-1.  REDIRECT [Chat Commands](Chat_Commands "wikilink")
+1.  REDIRECT [Chat Commands](/Chat_Commands "wikilink")

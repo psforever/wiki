@@ -36,7 +36,7 @@
 </tbody>
 </table>
 
-The Black Ops Mercenary [Merit](Merit "wikilink") is awarded when a
-Player gets turned into a [Black Ops](Black_Ops "wikilink").
+The Black Ops Mercenary [Merit](/Merit "wikilink") is awarded when a
+Player gets turned into a [Black Ops](/Black_Ops "wikilink").
 
-[Category:merits](Category:merits "wikilink")
+[Category:merits](/Category:merits "wikilink")

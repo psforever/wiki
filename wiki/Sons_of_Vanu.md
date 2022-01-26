@@ -5,7 +5,7 @@ Sons of Vanu plays on the Emerald server.
 member of the United Vanu Alliance,
 [www.commandrank5.com](http://www.commandrank5.com)
 
-*Sons of Vanu: A History, by [Rahl](user:Rahl "wikilink")*
+_Sons of Vanu: A History, by [Rahl](/user:Rahl "wikilink")_
 
 Late in the Beta testing of the game I was leading squads a lot. One
 night I had a particularly awesome squad. We just clicked and had a
@@ -25,7 +25,7 @@ planetside.com includes close to 100 members who have been inactive for
 a long time, but who retain their membership because I hope they will
 return.
 
-We use [Teamspeak](Teamspeak "wikilink") heavily. At first I didn't want
+We use [Teamspeak](/Teamspeak "wikilink") heavily. At first I didn't want
 to use voice comm... but now I wouldn't play without it. Mags with
 gunner/driver voice comm are frikkin beautiful. The ability to warn your
 teammates that there are 4 Vanguards over the hill he is about to cross

@@ -1,11 +1,11 @@
-![](images/Shotgunshell.jpg "Shotgunshell.jpg")
+![](/images/Shotgunshell.jpg "Shotgunshell.jpg")
 
-|                          |                                                                                                           |
-| ------------------------ | --------------------------------------------------------------------------------------------------------- |
-| **Used by**              | [Mag-Scatter](Mag-Scatter "wikilink"), [Sweeper](Sweeper "wikilink"), [Jackhammer](Jackhammer "wikilink") |
-| **Empire**               | [Common Pool](Common_Pool "wikilink")                                                                     |
-| **Inventory dimensions** | 3x3                                                                                                       |
-| **Quantity per pack**    | 16 shells                                                                                                 |
+|                          |                                                                                                              |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| **Used by**              | [Mag-Scatter](/Mag-Scatter "wikilink"), [Sweeper](/Sweeper "wikilink"), [Jackhammer](/Jackhammer "wikilink") |
+| **Empire**               | [Common Pool](/Common_Pool "wikilink")                                                                       |
+| **Inventory dimensions** | 3x3                                                                                                          |
+| **Quantity per pack**    | 16 shells                                                                                                    |
 
 **Shotgun Shell**
 
@@ -19,12 +19,12 @@ they are very ineffective at anything beyond close proximity.
 
 The Standard Shotgun Shells are best against non-armored targets, and
 will do minimum damage to anything that has more armor than a
-[Reinforced Exo-Suit](Reinforced_Exo-Suit "wikilink"). In those
+[Reinforced Exo-Suit](/Reinforced_Exo-Suit "wikilink"). In those
 circumstances, [Armor Piercing Shotgun
-Shells](Armor_Piercing_Shotgun_Shell "wikilink") are suggested.
+Shells](/Armor_Piercing_Shotgun_Shell "wikilink") are suggested.
 
 Because Shotgun Shells are only used in small arms, they can penetrate
-the shields of a [BattleFrame Robotic](BattleFrame_Robotics "wikilink").
+the shields of a [BattleFrame Robotic](/BattleFrame_Robotics "wikilink").
 
-[Category:Game Items](Category:Game_Items "wikilink")
-[Category:Ammunition](Category:Ammunition "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")
+[Category:Ammunition](/Category:Ammunition "wikilink")

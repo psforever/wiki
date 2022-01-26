@@ -1,6 +1,6 @@
 # Empire Defense Merits
 
-This series of [Merit Commendations](Merit_Commendation "wikilink")
+This series of [Merit Commendations](/Merit_Commendation "wikilink")
 counts total overall kills by any means necessary.
 
 <hr>
@@ -12,7 +12,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Combat Initiation Badge](Combat_Initiation_Badge_(Merit) "wikilink")
+[Combat Initiation Badge](</Combat_Initiation_Badge_(Merit)> "wikilink")
 
 </td>
 <td class="mitd">
@@ -103,7 +103,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Citation for Bravery](Citation_for_Bravery_(Merit) "wikilink")
+[Citation for Bravery](</Citation_for_Bravery_(Merit)> "wikilink")
 
 </td>
 <td class="mib">
@@ -188,7 +188,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Medal of Combat Service](Medal_of_Combat_Service_(Merit) "wikilink")
+[Medal of Combat Service](</Medal_of_Combat_Service_(Merit)> "wikilink")
 
 </td>
 <td class="mib">
@@ -274,7 +274,7 @@ counts total overall kills by any means necessary.
 <td>
 
 [Distinguished Service
-Award](Distinguished_Service_Award_(Merit) "wikilink")
+Award](</Distinguished_Service_Award_(Merit)> "wikilink")
 
 </td>
 <td class="mib">
@@ -359,7 +359,7 @@ Award](Distinguished_Service_Award_(Merit) "wikilink")
 <tr>
 <td>
 
-[Order of Empire Defense](Order_of_Empire_Defense_(Merit) "wikilink")
+[Order of Empire Defense](</Order_of_Empire_Defense_(Merit)> "wikilink")
 
 </td>
 <td class="mib">
@@ -451,7 +451,7 @@ Award](Distinguished_Service_Award_(Merit) "wikilink")
 <td>
 
 [Order of Empire Defense
-Titanium](Order_of_Empire_Defense_Titanium_(Merit) "wikilink")
+Titanium](</Order_of_Empire_Defense_Titanium_(Merit)> "wikilink")
 
 </td>
 <td class="mib">
@@ -543,7 +543,7 @@ Titanium](Order_of_Empire_Defense_Titanium_(Merit) "wikilink")
 <td>
 
 [Order of Empire Defense
-Auraxium](Order_of_Empire_Defense_Auraxium_(Merit) "wikilink")
+Auraxium](</Order_of_Empire_Defense_Auraxium_(Merit)> "wikilink")
 
 </td>
 <td class="mib">
@@ -634,4 +634,4 @@ Auraxium](Order_of_Empire_Defense_Auraxium_(Merit) "wikilink")
 <tr>
 <td width="450" colspan="2">
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

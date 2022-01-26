@@ -30,8 +30,8 @@
 All characters start with the Standard Assault Certification. It is not
 necessary to obtain it.
 
-This [Certification](Certification "wikilink") is required to obtain the
-[Basic Weapons](Basic_Weapons_(Merit) "wikilink") [Merit
-Commendation](Merit_Commendation "wikilink").
+This [Certification](/Certification "wikilink") is required to obtain the
+[Basic Weapons](</Basic_Weapons_(Merit)> "wikilink") [Merit
+Commendation](/Merit_Commendation "wikilink").
 
-[Category:Certification](Category:Certification "wikilink")
+[Category:Certification](/Category:Certification "wikilink")

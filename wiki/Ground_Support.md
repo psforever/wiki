@@ -33,13 +33,13 @@ Ground Support.
 
 Due to the Ancient-Tech nature of the router, it is possible to drive
 the Router using a [Reinforced
-Exo-Suit](Reinforced_Exo-Suit "wikilink").
+Exo-Suit](/Reinforced_Exo-Suit "wikilink").
 
-This [Certification](Certification "wikilink") is required to obtain the
-[AMS Support](AMS_Support "wikilink"), [Router
-Support](Router_Support "wikilink"), [Universal
-Soldier](Universal_Soldier "wikilink") and [Vehicle Support
-Specialist](Vehicle_Support_Specialist "wikilink") [Merit
-Commendations](Merit_Commendation "wikilink").
+This [Certification](/Certification "wikilink") is required to obtain the
+[AMS Support](/AMS_Support "wikilink"), [Router
+Support](/Router_Support "wikilink"), [Universal
+Soldier](/Universal_Soldier "wikilink") and [Vehicle Support
+Specialist](/Vehicle_Support_Specialist "wikilink") [Merit
+Commendations](/Merit_Commendation "wikilink").
 
-[Category:Certification](Category:Certification "wikilink")
+[Category:Certification](/Category:Certification "wikilink")

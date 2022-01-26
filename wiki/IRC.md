@@ -9,14 +9,14 @@ installed you can fill out your username information and continue below:
 ## To Connect
 
 If you have mIRC installed you can click
-[this](irc://irc.forthegamers.org:6667/planetside) link and it will
+[this](/irc://irc.forthegamers.org:6667/planetside) link and it will
 connect you.
 
 OR
 
 type
 
-`/server irc.uohost.net`
+`/server irc.uohost.net`
 
 alternate server names are irc.unrealgamers.net and
 irc.synergygaming.com
@@ -29,7 +29,7 @@ Please update your settings to irc.forthegamers.org
 To join a channel to chat, use command /join. Our most popular channels
 are #planetside and #srn. For example, type
 
-`/join #planetside`
+`/join #planetside`
 
 to join the #planetside room.
 
@@ -37,11 +37,11 @@ to join the #planetside room.
 
 Once connected you can register yourself to the server by typing
 
-`/register `<account>` `<password>` `<email>
+`/register `<account>` `<password>` `<email>
 
 then the next time you visit type
 
-`/auth `<account>` `<password>
+`/auth `<account>` `<password>
 
 ### Personal Messages
 
@@ -49,7 +49,7 @@ To send personal messages (called queries) use the command /query with
 their name (and optionally a message). For example, to say hello to
 martyr, you would type (in any irc room)
 
-`/msg martyr hello`
+`/msg martyr hello`
 
 ## Notes on the Java client
 
@@ -70,4 +70,4 @@ people.
 Once the connection is made, the window for #planetside automatically
 opens.
 
-[category:Communication](category:Communication "wikilink")
+[category:Communication](/category:Communication "wikilink")

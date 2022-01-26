@@ -213,6 +213,6 @@
 </table>
 
 A seven-level Infantry Merit, obtained by amassing kills with [Special
-Assault](Special_Assault "wikilink") Weaponry.
+Assault](/Special_Assault "wikilink") Weaponry.
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

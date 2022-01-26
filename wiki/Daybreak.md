@@ -1,1 +1,1 @@
-1.  REDIRECT [Daybreak Game Company](Daybreak_Game_Company "wikilink")
+1.  REDIRECT [Daybreak Game Company](/Daybreak_Game_Company "wikilink")

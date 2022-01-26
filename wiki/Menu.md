@@ -1,12 +1,12 @@
 ## ESC Key Options
 
-Recall to Sanctuary : Returns you to your Empire's [Sanctuary](Sanctuary "wikilink") after a set time: Friendly area, 10s, Neutral area, 20s, Enemy area, 30s.
-Game Options : Opens the [Game Options Window](#Game_Options "wikilink"), allowing you to adjust your Gameplay defaults such as session stats, [HUD](HUD "wikilink") preferences, and [proximity radar](Proximity_Map "wikilink") settings.
+Recall to Sanctuary : Returns you to your Empire's [Sanctuary](/Sanctuary "wikilink") after a set time: Friendly area, 10s, Neutral area, 20s, Enemy area, 30s.
+Game Options : Opens the [Game Options Window](#Game_Options "wikilink"), allowing you to adjust your Gameplay defaults such as session stats, [HUD](/HUD "wikilink") preferences, and [proximity radar](/Proximity_Map "wikilink") settings.
 Color Options : Opens the [Color Options Window](#Color_Options "wikilink"), allowing you to change colors for chat channels and name tags.
 Video Options : Opens the [Video Options Window](#Video_Options "wikilink"), allowing you to adjust your Video settings. These changes will be reflected the next time you start PlanetSide.
 Audio Options : Opens the [Audio Options Window](#Audio_Options "wikilink"), allowing you to adjust your Audio settings.
 Key Mappings : Opens the [Keymappings Window](#Keymappings "wikilink"), allowing you to change your control scheme
-[Instant Action](Instant_Action "wikilink") : When selecting this item, your character will be deployed to a location near a [Hotspot](Hotspot "wikilink").
+[Instant Action](/Instant_Action "wikilink") : When selecting this item, your character will be deployed to a location near a [Hotspot](/Hotspot "wikilink").
 
 ## Video Options
 
@@ -21,37 +21,37 @@ Video Bit-Depth : Affects how many colors are available to Planetside for drawin
 Texture Quality : Affects how blurry objects in the game look. The lower you go, the less sharply-defined they get, but the higher your framerates go. Increasing this setting by one step is roughly equivalent to doubling the amount of RAM Planetside needs to keep running, so use with caution. Setting this to "Low" can be a big framerate booster, and unlike changing to 16-bit color, things don't look too bad unless you get up close and personal. If High just isn't good enough for you, and you're running the Cray supercomputer, you can take this to the next level of detail under Advanced.
 Particle Effects : Particles come in all sorts of guises, but one mark of their appearance is that they usually don't last for very long. You can find particles in puffs of vehicle exhaust, explosions of any kind, orbital strikes, and more. This option sets the detail level of the particles and affects how cool things that involve particles look, as well as how many of them are created. If you set this to Low, you might not even see some particle effects at all. It doesn't make that much of a difference, but it can indeed impact your framerate if there's a ton of battle activity in the area.
 
--   **Addition by Raidin** - Another thing worth mentioning is that when
-    you raise this to High, it turns on dynamic lighting for muzzle
-    flashes on most, if not all weapons. Dynamic lighting does take its
-    toll on FPS, and can slow you down to a crawl on an average video
-    card if you have several people firing their weapons on-screen at
-    once. Try all 3 settings with some friends to find your favorite.
+- **Addition by Raidin** - Another thing worth mentioning is that when
+  you raise this to High, it turns on dynamic lighting for muzzle
+  flashes on most, if not all weapons. Dynamic lighting does take its
+  toll on FPS, and can slow you down to a crawl on an average video
+  card if you have several people firing their weapons on-screen at
+  once. Try all 3 settings with some friends to find your favorite.
 
 Flora Density : Affects how much planty stuff appears on the ground around you, thus enhancing the realism. Thank goodness this can be turned off, because even on Low, it sucks FPS like mad. The reason is that it uses a ton of alpha transparency, which takes your video card a while to compute and slows it down. Turn it Off for best performance.
 Mesh Detail (by Raidin) : This increases the polygon count on player and weapon models. They look better up-close but your video card has to render those extra polys. From my experience, the FPS decrease is negligible. The increase in graphic quality, however, is worth it, IMO. Experiment for yourselves.
 
--   **Addition by Sokko:** I must admit he's right. Since it hardly ever
-    impacts your framerate, the increase in detail when you're looking
-    at something close to you is well worth it. Without this turned on,
-    weapons especially look far too blocky for you to even recognize.
-    Turn it on unless you're working with a 386.
+- **Addition by Sokko:** I must admit he's right. Since it hardly ever
+  impacts your framerate, the increase in detail when you're looking
+  at something close to you is well worth it. Without this turned on,
+  weapons especially look far too blocky for you to even recognize.
+  Turn it on unless you're working with a 386.
 
 Draw Detail Web : Turning this on will make a large area of the terrain around you (the part you're usually concerned about) appear more detailed, though far-off terrain remains the same. Though it certainly looks pretty, it really does a number on your framerate, dropping it by 20 or more in some cases. Best to leave it off.
 Warpgate Effect : The weird little effect that shows when an object moves through (or stops at, in the case of shots) a warpgate bubble. So far as I can tell, it doesn't make a significant difference where framerate is concerned. Oddly enough, you must have Bullet Holes turned on in order for this to work.
 Bullet Holes : If you turn this on, bullet-based weapons will leave holes in the walls. Drawing all those extra decals does impact framerate, but not as much as you'd think. Like the above, it's a matter of whether you want those few extra FPS or not, and remember that you have to turn this on for the Warpgate Effect to show up.
 
--   **Note:** When a large weapon impacts [One-Manned Field
-    Turrets](One-Manned_Field_Turret "wikilink"), it leaves a black
-    "burn" mark. Over time, these build up into a black sheet, which can
-    block the vision of the gunner in certain directions. If you gun
-    field turrets often, it's best to keep this option off.
+- **Note:** When a large weapon impacts [One-Manned Field
+  Turrets](/One-Manned_Field_Turret "wikilink"), it leaves a black
+  "burn" mark. Over time, these build up into a black sheet, which can
+  block the vision of the gunner in certain directions. If you gun
+  field turrets often, it's best to keep this option off.
 
 Shadows On/Off : If turned on, people and vehicles will cast shadows on the ground. It's a bit more of a significant impact on framerate than the Bullet Holes, and it's not really that much of a visual difference. Off is recommended.
 Weather Particles : Different from regular particles, weather particles are what appear when a weather front moves into town, like that ever actually happens (c'mon, devs, you can do better than that!). Thunderstorms, snowstorms, dust storms, all are composed of weather particles. None of these have a really significant impact on framerate at all. Leaving it off does not create a tactical advantage, since even if you can't see the weather particles, it's the view distance fog moving in that matters.
 
--   **Note by Marutuk:** Apparently you now need to have the Skydome
-    turned on for this option to work.
+- **Note by Marutuk:** Apparently you now need to have the Skydome
+  turned on for this option to work.
 
 Skydome : This draws a whole bunch of eye candy up in the sky, which affects your framerate so randomly it's best to experiment with it for yourself. As stated above, you must have this turned on for Weather Particles to appear.
 
@@ -82,13 +82,13 @@ Hide UI : Hides the user interface when taking screenshots.
 Show one Squad per line : When displaying Platoons, put each squad's members on their own line.
 Allow Squad List Overlap : Allow other UI windows to overlap the Squad/Platoon list (to save screen space).
 Auto Reload : If selected, you will automatically reload your weapon if it runs out of ammunition.
-[LFS](LFS "wikilink") Auto On : If selected, the Looking For Squad (LFS) flag will be automatically set on your character when they enter the world.
-Enable [Map](Map "wikilink") edge scroll : If selected, you can pan around the overhead map by positioning your mouse cursor near the edge of the map in the direction you want to pan. If not selected, you must click and drag to pan around the map.
+[LFS](/LFS "wikilink") Auto On : If selected, the Looking For Squad (LFS) flag will be automatically set on your character when they enter the world.
+Enable [Map](/Map "wikilink") edge scroll : If selected, you can pan around the overhead map by positioning your mouse cursor near the edge of the map in the direction you want to pan. If not selected, you must click and drag to pan around the map.
 Invert Map Mousewheel Zoom : reverses the zoom direction of the mousewheel when viewing the map.
 Show Damage Flash : If selected, the screen flashes red when you take damage.
 Render Names : Determine which names will appear over friendly soldiers and vehicles. Your choices are Player, Player and Outfit, and none.
 Bandwidth Settings : Modem users should pick "Low". Other users should experiment between "Medium" and "High" to see which setting is best.
-[Proximity Radar](Proximity_Map "wikilink") Range Settings : **Rotate Radar:** If selected, the proximity map will rotate about the player (so the player's arrow always faces up).
+[Proximity Radar](/Proximity_Map "wikilink") Range Settings : **Rotate Radar:** If selected, the proximity map will rotate about the player (so the player's arrow always faces up).
 **Use Automatic Ranges:** Automatically change the current range of the proximity map.
 
 ## Audio Options
@@ -97,4 +97,4 @@ Bandwidth Settings : Modem users should pick "Low". Other users should experimen
 
 **Article in progress**
 
-[Category:Game Guides](Category:Game_Guides "wikilink")
+[Category:Game Guides](/Category:Game_Guides "wikilink")

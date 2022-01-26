@@ -89,9 +89,9 @@
 </table>
 
 These merits are awarded to characters playing on the
-[Gemini](Gemini "wikilink") server that were previously on the
-[Markov](Markov "wikilink"), [Emerald](Emerald "wikilink"), or
-[Werner](Werner "wikilink") servers. The appropriate merit is awarded
+[Gemini](/Gemini "wikilink") server that were previously on the
+[Markov](/Markov "wikilink"), [Emerald](/Emerald "wikilink"), or
+[Werner](/Werner "wikilink") servers. The appropriate merit is awarded
 the first time the character logs into Gemini.
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

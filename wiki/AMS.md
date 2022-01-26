@@ -1,2 +1,2 @@
 1.  REDIRECT [Advanced Mobile
-    Station](Advanced_Mobile_Station "wikilink")
+    Station](/Advanced_Mobile_Station "wikilink")

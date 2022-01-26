@@ -1,1 +1,1 @@
-[Category:Factions](Category:Factions "wikilink")
+[Category:Factions](/Category:Factions "wikilink")

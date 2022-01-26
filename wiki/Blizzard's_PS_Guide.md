@@ -3,7 +3,7 @@ Welcome to l3lizzard's PlanetSide Guide...
 These comics will be posted periodically. Right now that means as I get
 them uploaded.
 
-------------------------------------------------------------------------
+---
 
 Just to start you off: (Push the back button on your web browser to
 return here.)
@@ -39,6 +39,6 @@ Snipers!](:Image:008_%40-%24%25ing_Snipers%21.jpg "wikilink")
 
 [#15 War Cries](:Image:015_War_Cries.jpg "wikilink")
 
-[Category:Strategy](Category:Strategy "wikilink")
-[Category:Terminology](Category:Terminology "wikilink") [Category:Game
-Guides](Category:Game_Guides "wikilink")
+[Category:Strategy](/Category:Strategy "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
+Guides](/Category:Game_Guides "wikilink")

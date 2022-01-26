@@ -213,7 +213,7 @@ Awarded for the kills a Friendly Soldier scores after you have repaired
 him. The tracker starts after the first kill after the repair assist.
 The tracker stops 5 to 10 minutes later, depending how much repair was
 needed. If the soldier dies, the tracker stops, unless he is
-[revived](revive "wikilink").
+[revived](/revive "wikilink").
 
 The Advanced and Expert awards for this merit can be arranged to form
 the universal symbol for humanitarian aid, but in blue instead of red:
@@ -301,4 +301,4 @@ the universal symbol for humanitarian aid, but in blue instead of red:
 </tbody>
 </table>
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

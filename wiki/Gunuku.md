@@ -1,8 +1,8 @@
-![](images/Gunuku.jpg "fig:Gunuku.jpg")
-![](images/Gunuku_map.jpg "fig:Gunuku_map.jpg") Gunuku is
-[Cyssor](Cyssor "wikilink")'s [Dropship
-Center](Dropship_Center "wikilink"). It is located in [map
-grid](map_grid "wikilink") **M10**.
+![](/images/Gunuku.jpg "fig:Gunuku.jpg")
+![](/images/Gunuku_map.jpg "fig:Gunuku_map.jpg") Gunuku is
+[Cyssor](/Cyssor "wikilink")'s [Dropship
+Center](/Dropship_Center "wikilink"). It is located in [map
+grid](/map_grid "wikilink") **M10**.
 
 The facility is located on a central island of Cyssor, surrounded by the
 Cyssor river that divides a large chunk of the continent. Bridge access
@@ -21,4 +21,4 @@ hill and some woods overlook this tower just to the north.
 **Gunuku** is the name of a principal Nigerian diety in African
 mythology.
 
-[Category:Facilities](Category:Facilities "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

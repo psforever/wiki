@@ -221,18 +221,18 @@
 Awarded for kills scored by friendly troops after they have used one or
 more of the following that was hacked by you:
 
--   [Equipment Terminal](Equipment_Terminal "wikilink")
--   [Locker](Locker "wikilink")
--   [Medical Terminal](Medical_Terminal "wikilink")
--   [Vehicle Terminal](Vehicle_Terminal "wikilink")
--   [BFR Terminal](BFR_Terminal "wikilink")
+- [Equipment Terminal](/Equipment_Terminal "wikilink")
+- [Locker](/Locker "wikilink")
+- [Medical Terminal](/Medical_Terminal "wikilink")
+- [Vehicle Terminal](/Vehicle_Terminal "wikilink")
+- [BFR Terminal](/BFR_Terminal "wikilink")
 
 These apply to all Ancient terminals as well.
 
-The [Hacking](Hacking_(Certification) "wikilink")
-[certification](certification "wikilink") is required to gain these
-[Merit Commendations](Merit_Commendations "wikilink"), but [Advanced
-Hacking](Advanced_Hacking "wikilink") is strongly recommended.
+The [Hacking](</Hacking_(Certification)> "wikilink")
+[certification](/certification "wikilink") is required to gain these
+[Merit Commendations](/Merit_Commendations "wikilink"), but [Advanced
+Hacking](/Advanced_Hacking "wikilink") is strongly recommended.
 
 The Advanced and Expert awards for this merit can be arranged to form an
 <b>H</b> to designate the bearer as a Hacker:
@@ -320,7 +320,7 @@ The Advanced and Expert awards for this merit can be arranged to form an
 </tbody>
 </table>
 
-Or a <b>U</b> as in ***Ultimate Hacker***;
+Or a <b>U</b> as in **_Ultimate Hacker_**;
 
 <table>
 <tbody>
@@ -405,4 +405,4 @@ Or a <b>U</b> as in ***Ultimate Hacker***;
 </tbody>
 </table>
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

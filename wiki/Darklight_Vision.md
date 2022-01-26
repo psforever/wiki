@@ -1,1 +1,1 @@
-1.  REDIRECT [Darklight](Darklight "wikilink")
+1.  REDIRECT [Darklight](/Darklight "wikilink")

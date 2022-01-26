@@ -1,5 +1,5 @@
-Akua is one of the best defensive [facility](facility "wikilink")
-*locations* in the game, due to its high altitude and the surrounding
+Akua is one of the best defensive [facility](/facility "wikilink")
+_locations_ in the game, due to its high altitude and the surrounding
 geography. The mountains east of Akua are so tall and steep as to be
 completely impassible by anything (air or ground vehicles or ground
 troops). There is a sheer cliff dropoff (the crater, or caldera, wall)
@@ -15,8 +15,8 @@ the other to the south. Both are long, uphill approaches and both are
 narrow canyons, making them ideal for mine-laying and defense
 in-general.
 
-There is also no [tower](tower "wikilink") adjacent to Akua, and the
+There is also no [tower](/tower "wikilink") adjacent to Akua, and the
 difficult ground approach and lack of hiding places make it hard to get
 an AMS close to the base.
 
-[Category:Facilities](Category:Facilities "wikilink")
+[Category:Facilities](/Category:Facilities "wikilink")

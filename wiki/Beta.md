@@ -5,7 +5,7 @@ improve the chances that an error will be found before release and also
 to stress test the application with a significantly higher number of
 users.
 
-In terms of [PlanetSide](PlanetSide "wikilink"), it refers to the beta
+In terms of [PlanetSide](/PlanetSide "wikilink"), it refers to the beta
 test period in the approximately two months before the game was released
 in May, 2003. Many veterans of the game will state that they have
 "played since beta," indicating that they have been participating since
@@ -14,4 +14,4 @@ distinguished as consisting of "closed beta", when only those invited
 could participate in the testing, and "open beta", when anyone could
 sign up to test.
 
-[Category:Terminology](Category:Terminology "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink")

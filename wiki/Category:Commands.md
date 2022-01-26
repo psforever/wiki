@@ -1,1 +1,1 @@
-This page lists Commands found in [PlanetSide](PlanetSide "wikilink").
+This page lists Commands found in [PlanetSide](/PlanetSide "wikilink").

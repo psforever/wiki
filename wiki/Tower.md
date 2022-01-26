@@ -1,1 +1,1 @@
-1.  REDIRECT [Towers](Towers "wikilink")
+1.  REDIRECT [Towers](/Towers "wikilink")

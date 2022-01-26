@@ -10,6 +10,6 @@ Potential recruits should head to the Victor Company Forums.
 (Ignore all the Call of Duty Stuff. We are developing a more PlanetSide
 themed section.)
 
-[Category:Outfits](Category:Outfits "wikilink") [Category:New
-Conglomerate Outfits](Category:New_Conglomerate_Outfits "wikilink")
-[Category:Markov Outfits](Category:Markov_Outfits "wikilink")
+[Category:Outfits](/Category:Outfits "wikilink") [Category:New
+Conglomerate Outfits](/Category:New_Conglomerate_Outfits "wikilink")
+[Category:Markov Outfits](/Category:Markov_Outfits "wikilink")

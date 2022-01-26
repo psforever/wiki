@@ -1,5 +1,5 @@
 Character is the common term referring to a playable participant in the
-game [PlanetSide](PlanetSide "wikilink").
+game [PlanetSide](/PlanetSide "wikilink").
 
 Other terms: toon, char, avatar, alt.
 
@@ -11,8 +11,8 @@ and are usually controlled via the traditional means utilized in other
 First Person Shooters: the keyboard and mouse.
 
 Each character has a customizable appearance, name, and affiliation.
-Each [PlanetSide](PlanetSide "wikilink")/Station ([SOE](SOE "wikilink"))
+Each [PlanetSide](/PlanetSide "wikilink")/Station ([SOE](/SOE "wikilink"))
 account may create as many as twenty-four characters on the PlanetSide
-[Server](Server "wikilink").
+[Server](/Server "wikilink").
 
-[Category:Terminology](Category:Terminology "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink")

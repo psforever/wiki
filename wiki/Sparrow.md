@@ -1,10 +1,10 @@
-![](images/SparrowPicture.jpg "fig:SparrowPicture.jpg")'s Anti-Aircraft
-[MAX](MAX "wikilink")\]\]
+![](/images/SparrowPicture.jpg "fig:SparrowPicture.jpg")'s Anti-Aircraft
+[MAX](/MAX "wikilink")\]\]
 
 |                            |                                                                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)> "wikilink") or [Uni-MAX](<Uni-MAX_(Certification)> "wikilink") |
-| **Empire**                 | [New Conglomerate](New_Conglomerate "wikilink")                                                                        |
+| **Empire**                 | [New Conglomerate](/New_Conglomerate "wikilink")                                                                       |
 | **Armor**                  | 650                                                                                                                    |
 | **Primary Mode**           | Normal fire                                                                                                            |
 | **Secondary Mode**         | \-                                                                                                                     |
@@ -15,7 +15,7 @@
 
 **Sparrow**
 
-The [New Conglomerate](New_Conglomerate "wikilink")'s [Anti-Aircraft
+The [New Conglomerate](/New_Conglomerate "wikilink")'s [Anti-Aircraft
 MAX](<Anti-Aircraft_MAX_(Certification)> "wikilink") **Sparrow**
 configuration packs a powerful punch. After a relatively lengthy
 lock-on, its anti-air missiles feature a "fire-and-forget" tracking
@@ -25,4 +25,4 @@ avoid the missiles, which do reasonable damage. The missiles can also be
 dumb-fired and have splash damage upon impact, making the Sparrow quite
 useful for defending against infantry as well as aircraft.
 
-[Category:Game Items](Category:Game_Items "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")

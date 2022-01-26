@@ -20,15 +20,15 @@ with limited and somewhat ancient resources.
 After further research, the scientists have uncovered more about the
 ancient technology.
 
--   The only side arms available are 6 Shooters, Long Rifles, Single
-    Shot-Shotguns, and Dynamite.
--   Armor is limited to the Standard ExoSuit
--   The only vehicle ponies found to be available are wraiths and the
-    available wagons are AMS (only for those certified), and ANT.
--   Strange aerodynamic hat replaces the normal headgear for everyone.
-    Also, soldiers who are battle rank 24+ are able to swap out their
-    hats for various versions.
--   There's no access to support equipment except for Nano Dispenser and
-    Med Kits.
+- The only side arms available are 6 Shooters, Long Rifles, Single
+  Shot-Shotguns, and Dynamite.
+- Armor is limited to the Standard ExoSuit
+- The only vehicle ponies found to be available are wraiths and the
+  available wagons are AMS (only for those certified), and ANT.
+- Strange aerodynamic hat replaces the normal headgear for everyone.
+  Also, soldiers who are battle rank 24+ are able to swap out their
+  hats for various versions.
+- There's no access to support equipment except for Nano Dispenser and
+  Med Kits.
 
-[Category:Events](Category:Events "wikilink")
+[Category:Events](/Category:Events "wikilink")

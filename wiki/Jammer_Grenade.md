@@ -1,1 +1,1 @@
-1.  REDIRECT [Jammer grenade](Jammer_grenade "wikilink")
+1.  REDIRECT [Jammer grenade](/Jammer_grenade "wikilink")

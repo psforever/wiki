@@ -1,9 +1,9 @@
-Each [Capitol](Capitol "wikilink") has a Force Dome over it that
+Each [Capitol](/Capitol "wikilink") has a Force Dome over it that
 protects it from all enemy intrusion. The Force Dome can only be taken
 down by ensuring that current Capitol owners own less than two of the
-[Sub-Capitols](Sub-Capitol "wikilink"). Once that occurs, the Dome goes
+[Sub-Capitols](/Sub-Capitol "wikilink"). Once that occurs, the Dome goes
 down and your attack can begin. (When the Dome goes down, all the
-Sub-Capitol to Capitol [lattice](lattice "wikilink") links (on the
+Sub-Capitol to Capitol [lattice](/lattice "wikilink") links (on the
 overhead map) will begin strobing to alert you to that fact.)
 
 If the Defenders recapture at least two Sub-Capitols than the Dome will
@@ -15,9 +15,9 @@ attack the Capitol.
 An enemy touching the force dome generator (at the top) will be
 instantly killed, though the force dome itself acts as a wall. If the
 empire with the force dome is stupid enough to place a
-[Router](Router "wikilink") that goes to the inside of the dome, enemies
+[Router](/Router "wikilink") that goes to the inside of the dome, enemies
 can enter and will not be killed. However, the
-[generator](generator "wikilink") cannot be destroyed and any damage to
-base objects will not take [NTUs](NTU "wikilink") to repair.
+[generator](/generator "wikilink") cannot be destroyed and any damage to
+base objects will not take [NTUs](/NTU "wikilink") to repair.
 
-[Category:Game Items](Category:Game_Items "wikilink")
+[Category:Game Items](/Category:Game_Items "wikilink")

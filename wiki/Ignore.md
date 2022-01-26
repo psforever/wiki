@@ -1,21 +1,21 @@
 Ignored players cannot talk to you. If a player that you have on Ignore
-sends you a tell, they will receive a "*That player is ignoring you*"
+sends you a tell, they will receive a "_That player is ignoring you_"
 message. If a Player that you have on Ignore sends you a
-[Squad](Squad "wikilink")/[Platoon](Platoon "wikilink")/[Outfit](Outfit "wikilink")
+[Squad](/Squad "wikilink")/[Platoon](/Platoon "wikilink")/[Outfit](/Outfit "wikilink")
 Invite, they will receive an automatic "Invite Declined Message". If a
 player you have on ignore has you on his/her [Friends
-List](Friends_List "wikilink"), you will not show as online even if you
+List](/Friends_List "wikilink"), you will not show as online even if you
 actually are.
 
 To modify your ignore list, the following command can be used in the
 chat pane:
 
-`/ignore [add|remove] `<charactername>` `
+`/ignore [add|remove] `<charactername>` `
 
 The ignore list can also be managed from the [Player
-pane](Player_pane "wikilink").
+pane](/Player_pane "wikilink").
 
 Attempting to add yourself to the ignore list will result in one of a
 few entertaining messages.
 
-[category:Terminology](category:Terminology "wikilink")
+[category:Terminology](/category:Terminology "wikilink")

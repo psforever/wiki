@@ -12,29 +12,29 @@ continent. To other people it would look quite strange as I would be
 flying around ignoring any collision detection. Somethings I learned
 about the game from tonight:
 
--   All physics and collision detection is clientside. If this were to
-    be removed, then walls, doors, or the floor wouldn't stop you
--   Water damage is server-side
--   Nearly all of the interesting GM commands are patched out of the
-    client. Like the code has literally been compiled out. This is quite
-    sad as I suspect the server probably has more than a fair share of
-    strange bugs regarding these commands.
--   There are multiple embedded command processors within planetside
-    that allows for high level actions to to take place. For example,
-    the command for loading a map is 'psc_loadmap'. This goes for the
-    creation of all game objects as well. Logging the calls to these
-    command processors should help figure out how the game is running
--   The /paintball command is locked behind a special bit on the client,
-    but once enabled it allows the creation of floating text anywhere in
-    the world. It's simply a debug tool and nothing else.
--   The cave maps are located in the PlanetSide/expansion1 folder and
-    are prefixed as ugd. Example: ugd01
--   When loading in to a cave map while actually running on a bigger
-    continent, the cave map is always towards the bottom left corner of
-    the overworld map. This is where PlanetSide's (0, 0) coordinate
-    lies.
--   There is a /spectator command in the client, but unfortunately it is
-    patched out
+- All physics and collision detection is clientside. If this were to
+  be removed, then walls, doors, or the floor wouldn't stop you
+- Water damage is server-side
+- Nearly all of the interesting GM commands are patched out of the
+  client. Like the code has literally been compiled out. This is quite
+  sad as I suspect the server probably has more than a fair share of
+  strange bugs regarding these commands.
+- There are multiple embedded command processors within planetside
+  that allows for high level actions to to take place. For example,
+  the command for loading a map is 'psc_loadmap'. This goes for the
+  creation of all game objects as well. Logging the calls to these
+  command processors should help figure out how the game is running
+- The /paintball command is locked behind a special bit on the client,
+  but once enabled it allows the creation of floating text anywhere in
+  the world. It's simply a debug tool and nothing else.
+- The cave maps are located in the PlanetSide/expansion1 folder and
+  are prefixed as ugd. Example: ugd01
+- When loading in to a cave map while actually running on a bigger
+  continent, the cave map is always towards the bottom left corner of
+  the overworld map. This is where PlanetSide's (0, 0) coordinate
+  lies.
+- There is a /spectator command in the client, but unfortunately it is
+  patched out
 
 Here are some screenshots: Image Image Image Image Image Image Image
 
@@ -63,4 +63,4 @@ together. If you are not in it already, ask me or Naeadil for an invite.
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=142)
 
-[Category:PSForever Updates](Category:PSForever_Updates "wikilink")
+[Category:PSForever Updates](/Category:PSForever_Updates "wikilink")

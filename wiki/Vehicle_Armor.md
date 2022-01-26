@@ -1,13 +1,13 @@
-Each [vehicle](vehicle "wikilink") in
-[Planetside](Planetside "wikilink") has a different armor value.
-[Weapons](Weapon "wikilink") do different amounts of damage to each
+Each [vehicle](/vehicle "wikilink") in
+[Planetside](/Planetside "wikilink") has a different armor value.
+[Weapons](/Weapon "wikilink") do different amounts of damage to each
 vehicle, depending on the type of vehicle targeted. For example, the
-[Lancer](Lancer "wikilink") does 175 damage to ground vehicles but only
-125 damage to aircraft. Similarly, anti-aircraft [MAX](MAX "wikilink")
+[Lancer](/Lancer "wikilink") does 175 damage to ground vehicles but only
+125 damage to aircraft. Similarly, anti-aircraft [MAX](/MAX "wikilink")
 units do more damage to aircraft than ground vehicles. If your
-[empire](empire "wikilink") owns the [Cyssor](Cyssor "wikilink")
-[benefit](Empire_Benefit "wikilink"), the base armor of your vehicle is
-increased by 10%. [Amp Station](Amp_Station "wikilink") shields, when at
+[empire](/empire "wikilink") owns the [Cyssor](/Cyssor "wikilink")
+[benefit](/Empire_Benefit "wikilink"), the base armor of your vehicle is
+increased by 10%. [Amp Station](/Amp_Station "wikilink") shields, when at
 full strength, add an additional 20% of armor. The Cyssor benefit does
 not increase the amount of shields on the vehicle, only the base armor.
 
@@ -47,27 +47,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[AMS](AMS "wikilink")
+[AMS](/AMS "wikilink")
 
 </td>
 <td align="center">
 
- 3000
+3000
 
 </td>
 <td align="center">
 
- 3600
+3600
 
 </td>
 <td align="center">
 
- 3300
+3300
 
 </td>
 <td align="center">
 
- 3900
+3900
 
 </td>
 <td align="center">
@@ -79,27 +79,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[ANT](ANT "wikilink")
+[ANT](/ANT "wikilink")
 
 </td>
 <td align="center">
 
- 2000
+2000
 
 </td>
 <td align="center">
 
- 2400
+2400
 
 </td>
 <td align="center">
 
- 2200
+2200
 
 </td>
 <td align="center">
 
- 2600
+2600
 
 </td>
 <td align="center">
@@ -111,27 +111,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Aurora](Aurora "wikilink")
+[Aurora](/Aurora "wikilink")
 
 </td>
 <td align="center">
 
- 2500
+2500
 
 </td>
 <td align="center">
 
- 3000
+3000
 
 </td>
 <td align="center">
 
- 2750
+2750
 
 </td>
 <td align="center">
 
- 3250
+3250
 
 </td>
 <td align="center">
@@ -143,27 +143,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Basilisk](Basilisk "wikilink")
+[Basilisk](/Basilisk "wikilink")
 
 </td>
 <td align="center">
 
-  650
+650
 
 </td>
 <td align="center">
 
-  780
+780
 
 </td>
 <td align="center">
 
-  715
+715
 
 </td>
 <td align="center">
 
-  845
+845
 
 </td>
 <td align="center">
@@ -175,27 +175,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Deliverer](Deliverer "wikilink")
+[Deliverer](/Deliverer "wikilink")
 
 </td>
 <td align="center">
 
- 2500
+2500
 
 </td>
 <td align="center">
 
- 3000
+3000
 
 </td>
 <td align="center">
 
- 2750
+2750
 
 </td>
 <td align="center">
 
- 3250
+3250
 
 </td>
 <td align="center">
@@ -207,27 +207,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Enforcer](Enforcer "wikilink")
+[Enforcer](/Enforcer "wikilink")
 
 </td>
 <td align="center">
 
- 1800
+1800
 
 </td>
 <td align="center">
 
- 2160
+2160
 
 </td>
 <td align="center">
 
- 1980
+1980
 
 </td>
 <td align="center">
 
- 2340
+2340
 
 </td>
 <td align="center">
@@ -239,27 +239,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Flail](Flail "wikilink")
+[Flail](/Flail "wikilink")
 
 </td>
 <td align="center">
 
- 2400
+2400
 
 </td>
 <td align="center">
 
- 2880
+2880
 
 </td>
 <td align="center">
 
- 2640
+2640
 
 </td>
 <td align="center">
 
- 3120
+3120
 
 </td>
 <td align="center">
@@ -271,27 +271,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Fury](Fury "wikilink")
+[Fury](/Fury "wikilink")
 
 </td>
 <td align="center">
 
-  650
+650
 
 </td>
 <td align="center">
 
-  780
+780
 
 </td>
 <td align="center">
 
-  715
+715
 
 </td>
 <td align="center">
 
-  845
+845
 
 </td>
 <td align="center">
@@ -303,27 +303,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Galaxy](Galaxy "wikilink")
+[Galaxy](/Galaxy "wikilink")
 
 </td>
 <td align="center">
 
- 5000
+5000
 
 </td>
 <td align="center">
 
- 6000
+6000
 
 </td>
 <td align="center">
 
- 5500
+5500
 
 </td>
 <td align="center">
 
- 6500
+6500
 
 </td>
 <td align="center">
@@ -335,7 +335,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Galaxy Gunship](Galaxy_Gunship "wikilink")<sup><b>\*</b></sup>
+[Galaxy Gunship](/Galaxy_Gunship "wikilink")<sup><b>\*</b></sup>
 
 </td>
 <td align="center">
@@ -367,27 +367,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Harasser](Harasser "wikilink")
+[Harasser](/Harasser "wikilink")
 
 </td>
 <td align="center">
 
- 1250
+1250
 
 </td>
 <td align="center">
 
- 1500
+1500
 
 </td>
 <td align="center">
 
- 1375
+1375
 
 </td>
 <td align="center">
 
- 1625
+1625
 
 </td>
 <td align="center">
@@ -399,59 +399,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Juggernaut](Juggernaut "wikilink")
+[Juggernaut](/Juggernaut "wikilink")
 
 </td>
 <td align="center">
 
- 6000
+6000
 
 </td>
 <td align="center">
 
- 7200
+7200
 
 </td>
 <td align="center">
 
- 6600
+6600
 
 </td>
 <td align="center">
 
- 7800
-
-</td>
-<td align="center">
-
-4:00
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[Leviathan](Leviathan "wikilink")
-
-</td>
-<td align="center">
-
- 6000
-
-</td>
-<td align="center">
-
- 7200
-
-</td>
-<td align="center">
-
- 6600
-
-</td>
-<td align="center">
-
- 7800
+7800
 
 </td>
 <td align="center">
@@ -463,27 +431,59 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Liberator](Liberator "wikilink")
+[Leviathan](/Leviathan "wikilink")
 
 </td>
 <td align="center">
 
- 2500
+6000
 
 </td>
 <td align="center">
 
- 3000
+7200
 
 </td>
 <td align="center">
 
- 2750
+6600
 
 </td>
 <td align="center">
 
- 3250
+7800
+
+</td>
+<td align="center">
+
+4:00
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[Liberator](/Liberator "wikilink")
+
+</td>
+<td align="center">
+
+2500
+
+</td>
+<td align="center">
+
+3000
+
+</td>
+<td align="center">
+
+2750
+
+</td>
+<td align="center">
+
+3250
 
 </td>
 <td align="center">
@@ -495,27 +495,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Lightning](Lightning "wikilink")
+[Lightning](/Lightning "wikilink")
 
 </td>
 <td align="center">
 
- 2000
+2000
 
 </td>
 <td align="center">
 
- 2400
+2400
 
 </td>
 <td align="center">
 
- 2200
+2200
 
 </td>
 <td align="center">
 
- 2600
+2600
 
 </td>
 <td align="center">
@@ -527,27 +527,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Lodestar](Lodestar "wikilink")
+[Lodestar](/Lodestar "wikilink")
 
 </td>
 <td align="center">
 
- 5000
+5000
 
 </td>
 <td align="center">
 
- 6000
+6000
 
 </td>
 <td align="center">
 
- 5500
+5500
 
 </td>
 <td align="center">
 
- 6500
+6500
 
 </td>
 <td align="center">
@@ -559,27 +559,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Magrider](Magrider "wikilink")
+[Magrider](/Magrider "wikilink")
 
 </td>
 <td align="center">
 
- 3500
+3500
 
 </td>
 <td align="center">
 
- 4200
+4200
 
 </td>
 <td align="center">
 
- 3850
+3850
 
 </td>
 <td align="center">
 
- 4550
+4550
 
 </td>
 <td align="center">
@@ -591,27 +591,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Marauder](Marauder "wikilink")
+[Marauder](/Marauder "wikilink")
 
 </td>
 <td align="center">
 
- 1700
+1700
 
 </td>
 <td align="center">
 
- 2040
+2040
 
 </td>
 <td align="center">
 
- 1870
+1870
 
 </td>
 <td align="center">
 
- 2210
+2210
 
 </td>
 <td align="center">
@@ -623,27 +623,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Mosquito](Mosquito "wikilink")
+[Mosquito](/Mosquito "wikilink")
 
 </td>
 <td align="center">
 
-  665
+665
 
 </td>
 <td align="center">
 
-  798
+798
 
 </td>
 <td align="center">
 
-  732
+732
 
 </td>
 <td align="center">
 
-  865
+865
 
 </td>
 <td align="center">
@@ -655,91 +655,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Phantasm](Phantasm "wikilink")
+[Phantasm](/Phantasm "wikilink")
 
 </td>
 <td align="center">
 
- 2500
+2500
 
 </td>
 <td align="center">
 
- 3000
+3000
 
 </td>
 <td align="center">
 
- 2750
+2750
 
 </td>
 <td align="center">
 
- 3250
-
-</td>
-<td align="center">
-
-1:40
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[Prowler](Prowler "wikilink")
-
-</td>
-<td align="center">
-
- 4000
-
-</td>
-<td align="center">
-
- 4800
-
-</td>
-<td align="center">
-
- 4400
-
-</td>
-<td align="center">
-
- 5200
-
-</td>
-<td align="center">
-
-2:40
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[Raider](Raider "wikilink")
-
-</td>
-<td align="center">
-
- 2500
-
-</td>
-<td align="center">
-
- 3000
-
-</td>
-<td align="center">
-
- 2750
-
-</td>
-<td align="center">
-
- 3250
+3250
 
 </td>
 <td align="center">
@@ -751,59 +687,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Reaver](Reaver "wikilink")
+[Prowler](/Prowler "wikilink")
 
 </td>
 <td align="center">
 
-  1000
+4000
 
 </td>
 <td align="center">
 
- 1200
+4800
 
 </td>
 <td align="center">
 
-  1100
+4400
 
 </td>
 <td align="center">
 
- 1300
-
-</td>
-<td align="center">
-
-0:40
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[Router](Router "wikilink")
-
-</td>
-<td align="center">
-
- 4000
-
-</td>
-<td align="center">
-
- 4800
-
-</td>
-<td align="center">
-
- 4400
-
-</td>
-<td align="center">
-
- 5200
+5200
 
 </td>
 <td align="center">
@@ -815,27 +719,59 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Skyguard](Skyguard "wikilink")
+[Raider](/Raider "wikilink")
 
 </td>
 <td align="center">
 
- 1000
+2500
 
 </td>
 <td align="center">
 
- 1200
+3000
 
 </td>
 <td align="center">
 
- 1100
+2750
 
 </td>
 <td align="center">
 
- 1300
+3250
+
+</td>
+<td align="center">
+
+1:40
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[Reaver](/Reaver "wikilink")
+
+</td>
+<td align="center">
+
+1000
+
+</td>
+<td align="center">
+
+1200
+
+</td>
+<td align="center">
+
+1100
+
+</td>
+<td align="center">
+
+1300
 
 </td>
 <td align="center">
@@ -847,27 +783,91 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Switchblade](Switchblade "wikilink")
+[Router](/Router "wikilink")
 
 </td>
 <td align="center">
 
- 1750
+4000
 
 </td>
 <td align="center">
 
- 2100
+4800
 
 </td>
 <td align="center">
 
- 1925
+4400
 
 </td>
 <td align="center">
 
- 2275
+5200
+
+</td>
+<td align="center">
+
+2:40
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[Skyguard](/Skyguard "wikilink")
+
+</td>
+<td align="center">
+
+1000
+
+</td>
+<td align="center">
+
+1200
+
+</td>
+<td align="center">
+
+1100
+
+</td>
+<td align="center">
+
+1300
+
+</td>
+<td align="center">
+
+0:40
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+[Switchblade](/Switchblade "wikilink")
+
+</td>
+<td align="center">
+
+1750
+
+</td>
+<td align="center">
+
+2100
+
+</td>
+<td align="center">
+
+1925
+
+</td>
+<td align="center">
+
+2275
 
 </td>
 <td align="center">
@@ -879,27 +879,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Thresher](Thresher "wikilink")
+[Thresher](/Thresher "wikilink")
 
 </td>
 <td align="center">
 
- 1600
+1600
 
 </td>
 <td align="center">
 
- 1920
+1920
 
 </td>
 <td align="center">
 
- 1760
+1760
 
 </td>
 <td align="center">
 
- 2080
+2080
 
 </td>
 <td align="center">
@@ -911,27 +911,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Thunderer](Thunderer "wikilink")
+[Thunderer](/Thunderer "wikilink")
 
 </td>
 <td align="center">
 
- 2500
+2500
 
 </td>
 <td align="center">
 
- 3000
+3000
 
 </td>
 <td align="center">
 
- 2750
+2750
 
 </td>
 <td align="center">
 
- 3250
+3250
 
 </td>
 <td align="center">
@@ -943,27 +943,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Vanguard](Vanguard "wikilink")
+[Vanguard](/Vanguard "wikilink")
 
 </td>
 <td align="center">
 
- 4500
+4500
 
 </td>
 <td align="center">
 
- 5400
+5400
 
 </td>
 <td align="center">
 
- 4950
+4950
 
 </td>
 <td align="center">
 
- 5850
+5850
 
 </td>
 <td align="center">
@@ -975,27 +975,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Vindicator](Vindicator "wikilink")
+[Vindicator](/Vindicator "wikilink")
 
 </td>
 <td align="center">
 
- 6000
+6000
 
 </td>
 <td align="center">
 
- 7200
+7200
 
 </td>
 <td align="center">
 
- 6600
+6600
 
 </td>
 <td align="center">
 
- 7800
+7800
 
 </td>
 <td align="center">
@@ -1007,27 +1007,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Vulture](Vulture "wikilink")
+[Vulture](/Vulture "wikilink")
 
 </td>
 <td align="center">
 
- 2500
+2500
 
 </td>
 <td align="center">
 
- 3000
+3000
 
 </td>
 <td align="center">
 
- 2750
+2750
 
 </td>
 <td align="center">
 
- 3250
+3250
 
 </td>
 <td align="center">
@@ -1039,27 +1039,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Wasp](Wasp "wikilink")
+[Wasp](/Wasp "wikilink")
 
 </td>
 <td align="center">
 
-  515
+515
 
 </td>
 <td align="center">
 
-  618
+618
 
 </td>
 <td align="center">
 
-  567
+567
 
 </td>
 <td align="center">
 
-  670
+670
 
 </td>
 <td align="center">
@@ -1071,27 +1071,27 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Wraith](Wraith "wikilink")
+[Wraith](/Wraith "wikilink")
 
 </td>
 <td align="center">
 
-  650
+650
 
 </td>
 <td align="center">
 
-  780
+780
 
 </td>
 <td align="center">
 
-  715
+715
 
 </td>
 <td align="center">
 
-  845
+845
 
 </td>
 <td align="center">
@@ -1112,7 +1112,7 @@ effective armor is 10500. All values given are the effective armor.
 <tr>
 <td align="center">
 
-<b>[BFR](BFR "wikilink") Variant</b>
+<b>[BFR](/BFR "wikilink") Variant</b>
 
 </td>
 <td align="center">
@@ -1211,5 +1211,5 @@ BFR shields take twice as long to regenerate while standing vs. while
 crouched. Once depleted, the shields do not start regenerating for \~2
 seconds.
 
-[Category:Terminology](Category:Terminology "wikilink") [Category:Game
-Guides](Category:Game_Guides "wikilink")
+[Category:Terminology](/Category:Terminology "wikilink") [Category:Game
+Guides](/Category:Game_Guides "wikilink")

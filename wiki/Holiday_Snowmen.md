@@ -39,34 +39,34 @@
 </table>
 
 Awarded for finding a snowmen on each of the 9 surface
-[continents](continent "wikilink") (excluding the [Oshur Battle
-Islands](Battle_Islands "wikilink")) during the Christmas holidays of
+[continents](/continent "wikilink") (excluding the [Oshur Battle
+Islands](/Battle_Islands "wikilink")) during the Christmas holidays of
 2006 and 2007.
 
 This merit is required to gain access to the [Super
-Medkit](Super_Medkit "wikilink") during the Christmas holiday season.
+Medkit](/Super_Medkit "wikilink") during the Christmas holiday season.
 
 **Snowmen Locations:**
 
-Each snowmen is in the [Spawn Room](Spawn_Room "wikilink") of a Tower.
+Each snowmen is in the [Spawn Room](/Spawn_Room "wikilink") of a Tower.
 
--   **[Amerish](Amerish "wikilink")** - South West
-    [Verica](Verica "wikilink") [Watch Tower](Watch_tower "wikilink")
--   **[Ceryshen](Ceryshen "wikilink")** - North
-    [Sedna](Sedna "wikilink") Watch Tower
--   **[Cyssor](Cyssor "wikilink")** - South [Bomazi](Bomazi "wikilink")
-    [Air Tower](Air_tower "wikilink")
--   **[Esamir](Esamir "wikilink")** - East [Dagur](Dagur "wikilink") Air
-    Tower
--   **[Forseral](Forseral "wikilink")** - South [Neit](Neit "wikilink")
-    Watch Tower
--   **[Hossin](Hossin "wikilink")** - South West
-    [Ixtab](Ixtab "wikilink") [Watch Tower](Watch_tower "wikilink")
--   **[Ishundar](Ishundar "wikilink")** - Central Outpost Watch Tower
-    (Near the East [Geowarp](Geowarp "wikilink"))
--   **[Searhus](Searhus "wikilink")** - West [Ngaru](Ngaru "wikilink")
-    Gun Tower
--   **[Solsar](Solsar "wikilink")** - North [Hapi](Hapi "wikilink")
-    Watch Tower
+- **[Amerish](/Amerish "wikilink")** - South West
+  [Verica](/Verica "wikilink") [Watch Tower](/Watch_tower "wikilink")
+- **[Ceryshen](/Ceryshen "wikilink")** - North
+  [Sedna](/Sedna "wikilink") Watch Tower
+- **[Cyssor](/Cyssor "wikilink")** - South [Bomazi](/Bomazi "wikilink")
+  [Air Tower](/Air_tower "wikilink")
+- **[Esamir](/Esamir "wikilink")** - East [Dagur](/Dagur "wikilink") Air
+  Tower
+- **[Forseral](/Forseral "wikilink")** - South [Neit](/Neit "wikilink")
+  Watch Tower
+- **[Hossin](/Hossin "wikilink")** - South West
+  [Ixtab](/Ixtab "wikilink") [Watch Tower](/Watch_tower "wikilink")
+- **[Ishundar](/Ishundar "wikilink")** - Central Outpost Watch Tower
+  (Near the East [Geowarp](/Geowarp "wikilink"))
+- **[Searhus](/Searhus "wikilink")** - West [Ngaru](/Ngaru "wikilink")
+  Gun Tower
+- **[Solsar](/Solsar "wikilink")** - North [Hapi](/Hapi "wikilink")
+  Watch Tower
 
-[Category:Merits](Category:Merits "wikilink")
+[Category:Merits](/Category:Merits "wikilink")

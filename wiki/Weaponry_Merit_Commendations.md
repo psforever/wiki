@@ -1,17 +1,17 @@
-This series of [Merit Commendations](Merit_Commendations "wikilink") is
+This series of [Merit Commendations](/Merit_Commendations "wikilink") is
 awarded for:
 
--   Kills achieved by using a specific [weapon](weapon "wikilink")
--   Kills achieved by using a specific class of
-    [weapon](weapon "wikilink")
--   Qualifying for multiple merits within the Weapons series
+- Kills achieved by using a specific [weapon](/weapon "wikilink")
+- Kills achieved by using a specific class of
+  [weapon](/weapon "wikilink")
+- Qualifying for multiple merits within the Weapons series
 
 <hr>
 <table class="gc">
 <tr>
 <td>
 
-[Anti-Armor](Anti-Armor "wikilink")
+[Anti-Armor](/Anti-Armor "wikilink")
 
 </td>
 <td class="mitd">
@@ -213,7 +213,7 @@ awarded for:
 <tr>
 <td>
 
-[Basic Weapons](Basic_Weapons_(Merit) "wikilink")
+[Basic Weapons](</Basic_Weapons_(Merit)> "wikilink")
 
 </td>
 <td class="mitd">
@@ -415,7 +415,7 @@ awarded for:
 <tr>
 <td>
 
-[Elite Assault](Elite_Assault_(Merit) "wikilink")
+[Elite Assault](</Elite_Assault_(Merit)> "wikilink")
 
 </td>
 <td class="mitd">
@@ -642,7 +642,7 @@ awarded for:
 <tr>
 <td>
 
-[Grenadier](Grenadier "wikilink")
+[Grenadier](/Grenadier "wikilink")
 
 </td>
 <td class="mitd">
@@ -844,7 +844,7 @@ awarded for:
 <tr>
 <td>
 
-[Hand to Hand](Hand_to_Hand "wikilink")
+[Hand to Hand](/Hand_to_Hand "wikilink")
 
 </td>
 <td class="mitd">
@@ -1047,7 +1047,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Heavy Weapons](Heavy_Assault_(Merit) "wikilink")
+[Heavy Weapons](</Heavy_Assault_(Merit)> "wikilink")
 
 </td>
 <td class="mitd">
@@ -1249,7 +1249,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td rowspan="2">
 
-[Heavy Infantry Citation](Heavy_Infantry_Citation "wikilink")
+[Heavy Infantry Citation](/Heavy_Infantry_Citation "wikilink")
 
 </td>
 <td class="mit">
@@ -1373,7 +1373,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td rowspan="2">
 
-[Light Infantry Citation](Light_Infantry_Citation "wikilink")
+[Light Infantry Citation](/Light_Infantry_Citation "wikilink")
 
 </td>
 <td class="mit">
@@ -1497,7 +1497,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Rifleman](Rifleman "wikilink")
+[Rifleman](/Rifleman "wikilink")
 
 </td>
 <td class="mitd">
@@ -1699,7 +1699,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Saboteur](Saboteur "wikilink")
+[Saboteur](/Saboteur "wikilink")
 
 </td>
 <td class="mitd">
@@ -1901,7 +1901,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Scavenger](Scavenger "wikilink")
+[Scavenger](/Scavenger "wikilink")
 
 </td>
 <td class="mitd">
@@ -2392,7 +2392,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Sniper](Sniper_(Merit) "wikilink")
+[Sniper](</Sniper_(Merit)> "wikilink")
 
 </td>
 <td class="mitd">
@@ -2594,7 +2594,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Special Assault](Special_Assault_(Merit) "wikilink")
+[Special Assault](</Special_Assault_(Merit)> "wikilink")
 
 </td>
 <td class="mitd">
@@ -2796,7 +2796,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Turret Gunner](Turret_Gunner "wikilink")
+[Turret Gunner](/Turret_Gunner "wikilink")
 
 </td>
 <td class="mitd">
@@ -2998,7 +2998,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Weapons Citation](Weapons_Citation "wikilink")
+[Weapons Citation](/Weapons_Citation "wikilink")
 
 </td>
 <td class="mitd">
@@ -3088,4 +3088,4 @@ bgcolor="#AAAAAA">
 </tr>
 </table>
 
-[\*W](category:Merits "wikilink")
+[\*W](/category:Merits "wikilink")

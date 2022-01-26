@@ -1,1 +1,1 @@
-[NC](NC "wikilink") [Outfit](Outfit "wikilink")
+[NC](/NC "wikilink") [Outfit](/Outfit "wikilink")

@@ -61,23 +61,23 @@
 </tbody>
 </table>
 
-### [PlanetSide Universe](PlanetSide_Universe "wikilink") [Mobilization](Mobilization "wikilink"): [Alpha](Mobilization_Alpha "wikilink")
+### [PlanetSide Universe](/PlanetSide_Universe "wikilink") [Mobilization](/Mobilization "wikilink"): [Alpha](/Mobilization_Alpha "wikilink")
 
 Awarded on Nov 20 2004 and Feb 24 2005 to attendees of the event by
-[Sporkfire](Sporkfire "wikilink").
+[Sporkfire](/Sporkfire "wikilink").
 
 Planetside Universe-endorsed Planetside Conference, organized by
-[Triggar](user:Triggar "wikilink").
+[Triggar](/user:Triggar "wikilink").
 
 August 2004, Orlando, Fl.
 
-### [Planetside Syndicate](Planetside_Syndicate "wikilink") [Mobilization](Mobilization "wikilink"): [Bravo](Mobilization_Bravo "wikilink")
+### [Planetside Syndicate](/Planetside_Syndicate "wikilink") [Mobilization](/Mobilization "wikilink"): [Bravo](/Mobilization_Bravo "wikilink")
 
-Awarded to attendees of this event by [Zatozia](Zatozia "wikilink").
+Awarded to attendees of this event by [Zatozia](/Zatozia "wikilink").
 
 Planetside Syndicate Conference, organized by
-[Triggar](user:Triggar "wikilink").
+[Triggar](/user:Triggar "wikilink").
 
 July 2005, Orlando, Fl.
 
-[category:Merits](category:Merits "wikilink")
+[category:Merits](/category:Merits "wikilink")

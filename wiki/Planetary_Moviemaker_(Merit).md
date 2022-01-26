@@ -37,7 +37,7 @@
 Awarded to the winners of the Planetary Moviemaker Contest on the
 Forums.
 
-The assignment was to create a [PlanetSide](PlanetSide "wikilink")
+The assignment was to create a [PlanetSide](/PlanetSide "wikilink")
 movie.
 
-[Category:Merits](Category:Merits "wikilink")
+[Category:Merits](/Category:Merits "wikilink")
