@@ -1,0 +1,3 @@
+{
+  "markdownLinkUpdater.exclude": ["**/node_modules/**", "site"]
+}
