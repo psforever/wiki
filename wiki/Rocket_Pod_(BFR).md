@@ -1,12 +1,12 @@
 |                            |                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md "wikilink")                       |
-| **Empire**                 | [New Conglomerate](New_Conglomerate.md "wikilink")                               |
+| **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                       |
+| **Empire**                 | [New Conglomerate](New_Conglomerate.md)                               |
 | **Primary Mode**           | Single shot                                                                      |
 | **Secondary Mode**         | 6-shot Salvo                                                                     |
-| **Ammunition**             | [Peregrine Rocket Pod Ammunition](Peregrine_Rocket_Pod_Ammunition.md "wikilink") |
+| **Ammunition**             | [Peregrine Rocket Pod Ammunition](Peregrine_Rocket_Pod_Ammunition.md) |
 | **Range**                  | Unknown                                                                          |
-| **Inventory Dimensions**   | [BFR](BFR.md "wikilink") Gunner Weapon                                           |
+| **Inventory Dimensions**   | [BFR](BFR.md) Gunner Weapon                                           |
 | **Magazine Capacity**      | 24                                                                               |
 | **Zoom**                   | 2x (?)                                                                           |
 |                            |                                                                                  |
@@ -19,6 +19,6 @@ rockets have an explosive warhead designed for flexible functionality,
 resulting in decent punch to heavy armor and quick kill times on
 encroaching infantry. The weapon has a straight-line trajectory.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Weapons](Category:Weapons.md "wikilink") [Category:New
-Conglomerate Weapons](Category:New_Conglomerate_Weapons.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Weapons](Category:Weapons.md) [Category:New
+Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

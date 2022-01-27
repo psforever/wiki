@@ -1,7 +1,7 @@
 [<http://www.1cmm.net/>](http://www.1cmm.net/)
 
 The 1st Cavalry Midget Mobile, or 1CMM for short, is a rapid-response
-[Outfit](Outfit.md "wikilink") specializing in base captures, resecures and
+[Outfit](Outfit.md) specializing in base captures, resecures and
 tower drops. We take pride in being among the best on Emerald, whether
 it's providing support for our fellow NC, or taking active measures and
 maintaining localized supremacy.
@@ -12,7 +12,7 @@ capable of tackling enormous challenges, whilst maintaining a calm,
 professional and engaging environment that promotes fun, teamwork and
 fair play.
 
-Current Outfit Leader: [Fayaz](user:Fayaz.md "wikilink")
+Current Outfit Leader: [Fayaz](user:Fayaz.md)
 
 Past Outfit Leaders: Fidelio, Xenetic
 

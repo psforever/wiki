@@ -1,11 +1,11 @@
 # Exclusive Merits
 
 These extremely rare [Merit
-Commendations](Merit_Commendation.md "wikilink") are only given out to
+Commendations](Merit_Commendation.md) are only given out to
 certain people or groups that have:
 
-- Attended special [PlanetSide](PlanetSide.md "wikilink")
-  [Events](Event.md "wikilink")
+- Attended special [PlanetSide](PlanetSide.md)
+  [Events](Event.md)
 - Helped out the community by performing a certain task
 - Won a contest
 - Completed certain in-game requirements
@@ -18,7 +18,7 @@ certain people or groups that have:
 <tr>
 <td rowspan="1">
 
-[Ball & Chain](Ball_.md&_Chain "wikilink")
+[Ball & Chain](Ball_.md&_Chain)
 
 </td>
 <td class="mitd">
@@ -85,7 +85,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Distinguished Veteran](Distinguished_Veteran.md "wikilink")
+[Distinguished Veteran](Distinguished_Veteran.md)
 
 </td>
 <td class="mitd">
@@ -176,7 +176,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Bending Actor's Award](</Marketing_(Merit)> "wikilink")
+[Bending Actor's Award](</Marketing_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -214,7 +214,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Black Ops Mercenary](Black_Ops_Mercenary.md "wikilink")
+[Black Ops Mercenary](Black_Ops_Mercenary.md)
 
 </td>
 <td class="mitd">
@@ -252,7 +252,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Customer Service](</Customer_Service_(Merit)> "wikilink")
+[Customer Service](</Customer_Service_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -290,7 +290,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Devil Dogs Acting Award](</666th_Devil_Dogs_(Merit)> "wikilink")
+[Devil Dogs Acting Award](</666th_Devil_Dogs_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -329,7 +329,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="2">
 
-[Fan Faire](</Fan_Faire_(Merit)> "wikilink")
+[Fan Faire](</Fan_Faire_(Merit)>)
 
 </td>
 <td class="mit">
@@ -504,7 +504,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Holiday Gingerbread Men](Holiday_Gingerbread_Men.md "wikilink")
+[Holiday Gingerbread Men](Holiday_Gingerbread_Men.md)
 
 </td>
 <td class="mitd">
@@ -542,7 +542,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Holiday Snowmen](Holiday_Snowmen.md "wikilink")
+[Holiday Snowmen](Holiday_Snowmen.md)
 
 </td>
 <td class="mitd">
@@ -580,7 +580,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Holiday Spirit of Youth](Holiday_Spirit_of_Youth.md "wikilink")
+[Holiday Spirit of Youth](Holiday_Spirit_of_Youth.md)
 
 </td>
 <td class="mitd">
@@ -618,7 +618,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Halloween Assassin](</Halloween_Assassin_(Merit)> "wikilink")
+[Halloween Assassin](</Halloween_Assassin_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -709,7 +709,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="2">
 
-[Loser](</Loser_(Merit)> "wikilink")
+[Loser](</Loser_(Merit)>)
 
 </td>
 <td class="mit">
@@ -831,7 +831,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="1">
 
-[Mobilization](</Mobilization_(Merit)> "wikilink")
+[Mobilization](</Mobilization_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -898,7 +898,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Planetary Moviemaker](</Planetary_Moviemaker_(Merit)> "wikilink")
+[Planetary Moviemaker](</Planetary_Moviemaker_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -936,7 +936,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Stratics.com Historian](</PlanetSide_Stratics_(Merit)> "wikilink")
+[Stratics.com Historian](</PlanetSide_Stratics_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -974,7 +974,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Player of the Year](</Player_of_the_Year_(Merit)> "wikilink")
+[Player of the Year](</Player_of_the_Year_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -1012,7 +1012,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Strategic](</Strategic_(Merit)> "wikilink")
+[Strategic](</Strategic_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -1264,7 +1264,7 @@ bgcolor="#FFFFFF">
 <td>
 
 [Quality Assurance
-Appreciation](</Quality_Assurance_Appreciation_(merit)> "wikilink")
+Appreciation](</Quality_Assurance_Appreciation_(merit)>)
 
 </td>
 <td class="mitd">
@@ -1302,7 +1302,7 @@ Appreciation](</Quality_Assurance_Appreciation_(merit)> "wikilink")
 <tr>
 <td>
 
-[PS No. 1 Outfit (ChinaSide)](</PS_No._1_Outfit_(Merit)> "wikilink")
+[PS No. 1 Outfit (ChinaSide)](</PS_No._1_Outfit_(Merit)>)
 
 </td>
 <td class="mitd">
@@ -1337,4 +1337,4 @@ Appreciation](</Quality_Assurance_Appreciation_(merit)> "wikilink")
 </tr>
 </table>
 
-[\*](category:Merits.md "wikilink")
+[\*](category:Merits.md)

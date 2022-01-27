@@ -1,13 +1,13 @@
 # Weapon tactics
 
-## [Spiker](Spiker.md "wikilink")
+## [Spiker](Spiker.md)
 
 ![](images/Elana_potato.jpg "fig:Elana_potato.jpg") in the
-[Generator](Generator.md "wikilink") room\]\]
+[Generator](Generator.md) room\]\]
 
 <h3>
 
-Tactics (by [Elana](User:Elana.md "wikilink"))
+Tactics (by [Elana](User:Elana.md))
 
 </h3>
 
@@ -23,9 +23,9 @@ fastest.
 
 If you need to take somebody down quickly, your best bet is to fire a
 number of more rapid shots. You'll improve your
-[TTK](Acronyms_and_Slang.md#TTK "wikilink") at the expense of some ammo. A
+[TTK](Acronyms_and_Slang.md#TTK) at the expense of some ammo. A
 good way to get a feel for this is to use the [Enhanced
-Targeting](Enhanced_Targeting.md "wikilink") implant.
+Targeting](Enhanced_Targeting.md) implant.
 
 ### Range
 
@@ -43,8 +43,8 @@ before an enemy even knows you are there.
 ### Kill whoring
 
 ![](images/Elana_sweeper.jpg "fig:Elana_sweeper.jpg") and a
-[Thumper](Thumper.md "wikilink") in a [Bio
-Laboratory](Bio_Laboratory.md "wikilink")\]\]
+[Thumper](Thumper.md) in a [Bio
+Laboratory](Bio_Laboratory.md)\]\]
 
 The best way to get lots of kills with a Spiker is to use it in an area
 where a number of enemies will be clustered together and you will be at
@@ -128,4 +128,4 @@ without shields is a sitting duck. So even if you don't kill them on a
 single pass, they will be effectively taken out of the battle so they
 can repair and let their shields regenerate.
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](Category:Strategy.md)

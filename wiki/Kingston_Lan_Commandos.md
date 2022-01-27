@@ -1,10 +1,10 @@
 ## KINGSTON LAN COMMANDOS
 
 The _Kingston Lan Commandos_ is always looking for players to join our
-[outfit](outfit.md "wikilink"). We are dedicated players who are skilled
+[outfit](outfit.md). We are dedicated players who are skilled
 and have varying specialities. The only requirements that we have is
 that you can shoot the enemy. Most of us use
-[Teamspeak](Teamspeak.md "wikilink"), but if you dont use it no problem.
+[Teamspeak](Teamspeak.md), but if you dont use it no problem.
 Well if you are looking for an outfit that is easy going and kills shit,
 look no farther.
 

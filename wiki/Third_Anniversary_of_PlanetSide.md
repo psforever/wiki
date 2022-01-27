@@ -1,10 +1,10 @@
 To celebrate the Third Anniversary of
-[PlanetSide](PlanetSide.md "wikilink"), an [Event](Event.md "wikilink") was
+[PlanetSide](PlanetSide.md), an [Event](Event.md) was
 held from May 19 to May 26, 2006.
 
-This event was preceded by a series of [meteor](meteor.md "wikilink")
+This event was preceded by a series of [meteor](meteor.md)
 showers and earthquakes that were experienced across the different
-[continents](continent.md "wikilink"). Finally, on the first day of the
+[continents](continent.md). Finally, on the first day of the
 event, these messages began arriving.
 
 ## Messages from Military Command:
@@ -59,8 +59,8 @@ will follow as resolutions are made.
 
 Although we can celebrate ending the Core's intrusions, it wasn't
 without loss: We are no longer able to construct the
-[Lightning](Lightning.md "wikilink"), our strongest remaining assault
-vehicle nor our assault [ATV](ATV.md "wikilink")'s.
+[Lightning](Lightning.md), our strongest remaining assault
+vehicle nor our assault [ATV](ATV.md)'s.
 
 ## Details
 
@@ -71,35 +71,35 @@ be constructed for an unknown period of time.
 
 So far, the following vehicles can no longer be constructed:
 
-- [Sunderer](Sunderer.md "wikilink")
-- [BattleFrame Robotics](BattleFrame_Robotics.md "wikilink")
-- [Vanguard](Vanguard.md "wikilink")
-- [Prowler](Prowler.md "wikilink")
-- [Magrider](Magrider.md "wikilink")
-- [Aurora](Aurora.md "wikilink")
-- [Thunderer](Thunderer.md "wikilink")
-- [Raider](Raider.md "wikilink")
-- [Enforcer](Enforcer.md "wikilink")
-- [Thresher](Thresher.md "wikilink")
-- [Marauder](Marauder.md "wikilink")
-- [Reaver](Reaver.md "wikilink")
-- [Liberator](Liberator.md "wikilink")
-- [Vulture](Vulture.md "wikilink")
-- [Mosquito](Mosquito.md "wikilink")
-- [Skyguard](Skyguard.md "wikilink")
-- [Switchblade](Switchblade.md "wikilink")
-- [Flail](Flail.md "wikilink")
-- [Fury](Fury.md "wikilink")
-- [Basilisk](Basilisk.md "wikilink")
-- [Lightning](Lightning.md "wikilink")
+- [Sunderer](Sunderer.md)
+- [BattleFrame Robotics](BattleFrame_Robotics.md)
+- [Vanguard](Vanguard.md)
+- [Prowler](Prowler.md)
+- [Magrider](Magrider.md)
+- [Aurora](Aurora.md)
+- [Thunderer](Thunderer.md)
+- [Raider](Raider.md)
+- [Enforcer](Enforcer.md)
+- [Thresher](Thresher.md)
+- [Marauder](Marauder.md)
+- [Reaver](Reaver.md)
+- [Liberator](Liberator.md)
+- [Vulture](Vulture.md)
+- [Mosquito](Mosquito.md)
+- [Skyguard](Skyguard.md)
+- [Switchblade](Switchblade.md)
+- [Flail](Flail.md)
+- [Fury](Fury.md)
+- [Basilisk](Basilisk.md)
+- [Lightning](Lightning.md)
 
 Eventually, players received messages informing them that to restore
-their lost [vehicles](vehicle.md "wikilink"), they needed to capture
-[cavern](cavern.md "wikilink") facilities to gain nanites. Everytime a
+their lost [vehicles](vehicle.md), they needed to capture
+[cavern](cavern.md) facilities to gain nanites. Everytime a
 cavern locked, a status bar would reflect the change in recovery based
 on how much they controlled. The vehicles that were removed last, were
 restored first, and this process continued untill the vehicles first
-removed ([BattleFrame Robotics](BattleFrame_Robotics.md "wikilink")) were
+removed ([BattleFrame Robotics](BattleFrame_Robotics.md)) were
 restored again.
 
-[Category:Events](Category:Events.md "wikilink")
+[Category:Events](Category:Events.md)

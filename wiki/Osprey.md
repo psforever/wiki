@@ -4,8 +4,8 @@
 
 |                            |                                                          |
 | -------------------------- | -------------------------------------------------------- |
-| **Certification Required** | [Assault Engineering](Assault_Engineering.md "wikilink") |
-| **Empire**                 | [New Conglomerate](New_Conglomerate.md "wikilink")       |
+| **Certification Required** | [Assault Engineering](Assault_Engineering.md) |
+| **Empire**                 | [New Conglomerate](New_Conglomerate.md)       |
 | **Primary Mode**           | Long-range ScatterCannon                                 |
 | **Secondary Mode**         | \-                                                       |
 | **Ammunition**             | \-                                                       |
@@ -16,14 +16,14 @@
 
 **Osprey**
 
-The [New Conglomerate](New_Conglomerate.md "wikilink") Variant of the
-[One-Manned Field Turrets](One-Manned_Field_Turret.md "wikilink"), and is
+The [New Conglomerate](New_Conglomerate.md) Variant of the
+[One-Manned Field Turrets](One-Manned_Field_Turret.md), and is
 deployed by use of the [Field Deployment
-Unit](Field_Deployment_Unit.md "wikilink"). It is an adaptation of the
-[Scattercannon](Scattercannon.md "wikilink") [MAX](MAX.md "wikilink") weapon,
+Unit](Field_Deployment_Unit.md). It is an adaptation of the
+[Scattercannon](Scattercannon.md) [MAX](MAX.md) weapon,
 though lacking the selectable spread. The [cone of
-fire](cone_of_fire.md "wikilink") is also significantly tighter than the
-[MAX](MAX.md "wikilink") counterpart, allowing for hitting enemies at
+fire](cone_of_fire.md) is also significantly tighter than the
+[MAX](MAX.md) counterpart, allowing for hitting enemies at
 further distances.
 
-[Category:Weapons](Category:Weapons.md "wikilink")
+[Category:Weapons](Category:Weapons.md)

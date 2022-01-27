@@ -1,8 +1,8 @@
 The Bombardier is the member of a combat aircraft crew who operates the
 bombsight and drops the bombs.
 
-Both the [Liberator](Liberator.md "wikilink") and the
-[Vulture](Vulture.md "wikilink") bombers each have one bombardier seat in
+Both the [Liberator](Liberator.md) and the
+[Vulture](Vulture.md) bombers each have one bombardier seat in
 the middle of the aircraft.
 
 The mount-points for this seat are just ahead of the wings on either
@@ -16,8 +16,8 @@ forward and backward along the ground track of the aircraft. Using this
 technique, skilled bombardiers can land an entire magazine on a single
 point.
 
-In the [Liberator](Liberator.md "wikilink"), the bombardier has a secondary
+In the [Liberator](Liberator.md), the bombardier has a secondary
 view mode, "bomber mode," allows him or her to swivel the camera in all
 directions below the aircraft for observation, but munitions cannot be
 dropped in this mode. The Vulture lacks this secondary mode.
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](category:Terminology.md)

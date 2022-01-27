@@ -1,1 +1,1 @@
-1.  REDIRECT [Caverns](Caverns.md "wikilink")
+1.  REDIRECT [Caverns](Caverns.md)

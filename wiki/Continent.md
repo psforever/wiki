@@ -1,46 +1,46 @@
 There are ten battle continents in Planetside: six [Home
-Continents](Home_Continent.md "wikilink") and four [Neutral
-Continents](Neutral_Continent.md "wikilink"). Capturing these continents
-are the main object of the war. [Pre-Bending](The_Bending.md "wikilink")
+Continents](Home_Continent.md) and four [Neutral
+Continents](Neutral_Continent.md). Capturing these continents
+are the main object of the war. [Pre-Bending](The_Bending.md)
 these continents were located on a single planet called Auraxis, but
 ever since the event the continents have been pushed out to exist on ten
-seperate [planets](planet.md "wikilink").
+seperate [planets](planet.md).
 
-Capturing, or [locking](Continental_lock.md "wikilink"), a type of
+Capturing, or [locking](Continental_lock.md), a type of
 continent can provide certain benefits for each Empire depending on its
-[Home](Home_Continent.md "wikilink") or
-[Neutral](Neutral_Continent.md "wikilink") status.
+[Home](Home_Continent.md) or
+[Neutral](Neutral_Continent.md) status.
 
 A continent can be reached by traveling through the
-[warpgates](warpgate.md "wikilink") or [broadcast
-warpgates](broadcast_warpgate.md "wikilink"), and via the [HART
-Shuttle](HART.md "wikilink") system located in each Empire's
-[Sanctuary](Sanctuary.md "wikilink"). It can also be reached by selecting
-[Instant Action](Instant_Action.md "wikilink") from your Esc
-[Menu](Menu.md "wikilink").
+[warpgates](warpgate.md) or [broadcast
+warpgates](broadcast_warpgate.md), and via the [HART
+Shuttle](HART.md) system located in each Empire's
+[Sanctuary](Sanctuary.md). It can also be reached by selecting
+[Instant Action](Instant_Action.md) from your Esc
+[Menu](Menu.md).
 
 Each Continent can be viewed from the
-[Interstellar](Interstellar_Map.md "wikilink") and Continental Maps.
+[Interstellar](Interstellar_Map.md) and Continental Maps.
 
 ### Home Continents
 
-- [Amerish](Amerish.md "wikilink")
-- [Ceryshen](Ceryshen.md "wikilink")
-- [Esamir](Esamir.md "wikilink")
-- [Forseral](Forseral.md "wikilink")
-- [Hossin](Hossin.md "wikilink")
-- [Solsar](Solsar.md "wikilink")
+- [Amerish](Amerish.md)
+- [Ceryshen](Ceryshen.md)
+- [Esamir](Esamir.md)
+- [Forseral](Forseral.md)
+- [Hossin](Hossin.md)
+- [Solsar](Solsar.md)
 
-See [Home Continent](Home_Continent.md "wikilink") for the current empire
+See [Home Continent](Home_Continent.md) for the current empire
 sanctuary links.
 
 ### Neutral Continents
 
-- [Cyssor](Cyssor.md "wikilink")
-- [Ishundar](Ishundar.md "wikilink")
-- [Searhus](Searhus.md "wikilink")
-- [Oshur Battle Islands](Battle_Islands.md "wikilink")
+- [Cyssor](Cyssor.md)
+- [Ishundar](Ishundar.md)
+- [Searhus](Searhus.md)
+- [Oshur Battle Islands](Battle_Islands.md)
 
 The words Planet and Continent are sometimes interchangable.
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

@@ -1,6 +1,6 @@
 The goal of Planetside is to capture and hold the **Facilities**, often
-called **Bases**, on each [Planet](Planet.md "wikilink") and in each
-[Cavern](Cavern.md "wikilink"). These bases provide gathering locations for
+called **Bases**, on each [Planet](Planet.md) and in each
+[Cavern](Cavern.md). These bases provide gathering locations for
 troops, supply points for weapons and equipment, cover from air or
 ground attack, special functions such as vehicle repair or rapid
 respawning, and strategic chokepoints for defense and attack.
@@ -12,325 +12,325 @@ of buildings, terminals, and vital functions.
 
 ### Surface Facilities
 
-- [Amp Station](Amp_Station.md "wikilink")
-- [Bio Laboratory](Bio_Laboratory.md "wikilink")
-- [Dropship Center](Dropship_Center.md "wikilink")
-- [Interlink Facility](Interlink_Facility.md "wikilink")
-- [Technology Plant](Technology_Plant.md "wikilink")
+- [Amp Station](Amp_Station.md)
+- [Bio Laboratory](Bio_Laboratory.md)
+- [Dropship Center](Dropship_Center.md)
+- [Interlink Facility](Interlink_Facility.md)
+- [Technology Plant](Technology_Plant.md)
 
 ### Cavern Facilities
 
-- [AT Plant](AT_Plant.md "wikilink")
-- [Core Complex](Core_Complex.md "wikilink") (This is a non-capturable
+- [AT Plant](AT_Plant.md)
+- [Core Complex](Core_Complex.md) (This is a non-capturable
   Facility)
-- [Module Building](Module_Building.md "wikilink")
-- [Redoubt Building](Redoubt_Building.md "wikilink")
+- [Module Building](Module_Building.md)
+- [Redoubt Building](Redoubt_Building.md)
 
 ### Towers
 
-- [Air tower](Air_tower.md "wikilink")
-- [Gun tower](Gun_tower.md "wikilink")
-- [Watch tower](Watch_tower.md "wikilink")
+- [Air tower](Air_tower.md)
+- [Gun tower](Gun_tower.md)
+- [Watch tower](Watch_tower.md)
 
 ## Facility Features
 
 ### General Base Features
 
-- [BFR Shed](BFR_Shed.md "wikilink")
-- [Control Console](Control_Console.md "wikilink")
-- [Courtyard](Courtyard.md "wikilink")
-- [Equipment terminal](Equipment_terminal.md "wikilink")
-- [Generator](Generator.md "wikilink")
-- [IFF Door Locks](IFF.md "wikilink")
-- [Landing Pad](Landing_Pad.md "wikilink")
-- [Lockers](Lockers.md "wikilink")
-- [Main Terminal](Main_Terminal.md "wikilink")
-- [Matrix Panel](Matrix_Panel.md "wikilink")
-- [Medical Terminal](Medical_Terminal.md "wikilink")
-- [Module Cradle](Module_Cradle.md "wikilink")
-- [NTU Silo](NTU_Silo.md "wikilink")
-- [Phalanx Wall Turrets](Phalanx.md "wikilink")
-- [Repair/Rearm.md Silo](Repair/Rearm_Silo.md "wikilink")
-- [Respawn tubes](Respawn_tube.md "wikilink")
-- [Vehicle Terminal](Vehicle_Terminal.md "wikilink")
+- [BFR Shed](BFR_Shed.md)
+- [Control Console](Control_Console.md)
+- [Courtyard](Courtyard.md)
+- [Equipment terminal](Equipment_terminal.md)
+- [Generator](Generator.md)
+- [IFF Door Locks](IFF.md)
+- [Landing Pad](Landing_Pad.md)
+- [Lockers](Lockers.md)
+- [Main Terminal](Main_Terminal.md)
+- [Matrix Panel](Matrix_Panel.md)
+- [Medical Terminal](Medical_Terminal.md)
+- [Module Cradle](Module_Cradle.md)
+- [NTU Silo](NTU_Silo.md)
+- [Phalanx Wall Turrets](Phalanx.md)
+- [Repair/Rearm.md Silo](Repair/Rearm_Silo.md)
+- [Respawn tubes](Respawn_tube.md)
+- [Vehicle Terminal](Vehicle_Terminal.md)
 
 ### Specific Base Features
 
-- [Advanced Medical Terminal](Advanced_Medical_Terminal.md "wikilink")
-  ([Bio Laboratory](Bio_Laboratory.md "wikilink") only)
-- [Certification Terminal](Certification_Terminal.md "wikilink") (Bio
+- [Advanced Medical Terminal](Advanced_Medical_Terminal.md)
+  ([Bio Laboratory](Bio_Laboratory.md) only)
+- [Certification Terminal](Certification_Terminal.md) (Bio
   Laboratory and Sanctuary only)
-- [Implant Terminal](Implant_Terminal.md "wikilink") (Bio Laboratory and
-  [Sanctuary](Sanctuary.md "wikilink") only)
-- [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md "wikilink")
-  ([LLU](LLU.md "wikilink") Facilities only)
+- [Implant Terminal](Implant_Terminal.md) (Bio Laboratory and
+  [Sanctuary](Sanctuary.md) only)
+- [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md)
+  ([LLU](LLU.md) Facilities only)
 
 ### Cavern Facility Features
 
-- [Ancient Control Console](Ancient_Control_Console.md "wikilink")
-- [Ancient Equipment Terminal](Ancient_Equipment_Terminal.md "wikilink")
+- [Ancient Control Console](Ancient_Control_Console.md)
+- [Ancient Equipment Terminal](Ancient_Equipment_Terminal.md)
 - [Ancient Ground Vehicle
-  Terminal](Ancient_Ground_Vehicle_Terminal.md "wikilink")
+  Terminal](Ancient_Ground_Vehicle_Terminal.md)
 - [Ancient Air Vehicle
-  Terminal](Ancient_Air_Vehicle_Terminal.md "wikilink")
-- [Teleporters](Teleporter.md "wikilink")
-- [Crystals](Crystal.md "wikilink")
+  Terminal](Ancient_Air_Vehicle_Terminal.md)
+- [Teleporters](Teleporter.md)
+- [Crystals](Crystal.md)
 
 # Facilities Directory
 
 Total Capturable Facilities: 153 **Does not include
-[Towers](Tower.md "wikilink") or neutral cavern structures.**
+[Towers](Tower.md) or neutral cavern structures.**
 
 ## Surface Bases
 
-Capturable Facilities, not including [Towers](Tower.md "wikilink"): 117
+Capturable Facilities, not including [Towers](Tower.md): 117
 
-### [Amerish](Amerish.md "wikilink")
+### [Amerish](Amerish.md)
 
 12 Bases:
 
-- [Azeban](Azeban.md "wikilink")
-- [Cetan](Cetan.md "wikilink")
-- [Heyoka](Heyoka.md "wikilink")
-- [Ikanam](Ikanam.md "wikilink")
-- [Kyoi](Kyoi.md "wikilink")
-- [Mekala](Mekala.md "wikilink")
-- [Onatha](Onatha.md "wikilink")
-- [Qumu](Qumu.md "wikilink")
-- [Sungrey](Sungrey.md "wikilink")
-- [Tumas](Tumas.md "wikilink")
-- [Verica](Verica.md "wikilink")
-- [Xelas](Xelas.md "wikilink")
+- [Azeban](Azeban.md)
+- [Cetan](Cetan.md)
+- [Heyoka](Heyoka.md)
+- [Ikanam](Ikanam.md)
+- [Kyoi](Kyoi.md)
+- [Mekala](Mekala.md)
+- [Onatha](Onatha.md)
+- [Qumu](Qumu.md)
+- [Sungrey](Sungrey.md)
+- [Tumas](Tumas.md)
+- [Verica](Verica.md)
+- [Xelas](Xelas.md)
 
-### [Ceryshen](Ceryshen.md "wikilink")
+### [Ceryshen](Ceryshen.md)
 
 9 Bases:
 
-- [Akna](Akna.md "wikilink")
-- [Anguta](Anguta.md "wikilink")
-- [Igaluk](Igaluk.md "wikilink")
-- [Keelut](Keelut.md "wikilink")
-- [Nerrivik](Nerrivik.md "wikilink")
-- [Pinga](Pinga.md "wikilink")
-- [Sedna](Sedna.md "wikilink")
-- [Tarqaq](Tarqaq.md "wikilink")
-- [Tootega](Tootega.md "wikilink")
+- [Akna](Akna.md)
+- [Anguta](Anguta.md)
+- [Igaluk](Igaluk.md)
+- [Keelut](Keelut.md)
+- [Nerrivik](Nerrivik.md)
+- [Pinga](Pinga.md)
+- [Sedna](Sedna.md)
+- [Tarqaq](Tarqaq.md)
+- [Tootega](Tootega.md)
 
-### [Cyssor](Cyssor.md "wikilink")
+### [Cyssor](Cyssor.md)
 
 17 Bases:
 
-- [Aja](Aja.md "wikilink")
-- [Bomazi](Bomazi.md "wikilink")
-- [Chuku](Chuku.md "wikilink")
-- [Ekera](Ekera.md "wikilink")
-- [Faro](Faro.md "wikilink")
-- [Gunuku](Gunuku.md "wikilink")
-- [Honsi](Honsi.md "wikilink")
-- [Itan](Itan.md "wikilink")
-- [Kaang](Kaang.md "wikilink")
-- [Leza](Leza.md "wikilink")
-- [Mukuru](Mukuru.md "wikilink")
-- [Nzame](Nzame.md "wikilink")
-- [Orisha](Orisha.md "wikilink")
-- [Pamba](Pamba.md "wikilink")
-- [Shango](Shango.md "wikilink")
-- [Tore](Tore.md "wikilink")
-- [Wele](Wele.md "wikilink")
+- [Aja](Aja.md)
+- [Bomazi](Bomazi.md)
+- [Chuku](Chuku.md)
+- [Ekera](Ekera.md)
+- [Faro](Faro.md)
+- [Gunuku](Gunuku.md)
+- [Honsi](Honsi.md)
+- [Itan](Itan.md)
+- [Kaang](Kaang.md)
+- [Leza](Leza.md)
+- [Mukuru](Mukuru.md)
+- [Nzame](Nzame.md)
+- [Orisha](Orisha.md)
+- [Pamba](Pamba.md)
+- [Shango](Shango.md)
+- [Tore](Tore.md)
+- [Wele](Wele.md)
 
-### [Esamir](Esamir.md "wikilink")
+### [Esamir](Esamir.md)
 
 13 Bases:
 
-- [Andvari](Andvari.md "wikilink")
-- [Dagur](Dagur.md "wikilink")
-- [Eisa](Eisa.md "wikilink")
-- [Freyr](Freyr.md "wikilink")
-- [Gjallar](Gjallar.md "wikilink")
-- [Helheim](Helheim.md "wikilink")
-- [Jarl](Jarl.md "wikilink")
-- [Kvasir](Kvasir.md "wikilink")
-- [Mani](Mani.md "wikilink")
-- [Nott](Nott.md "wikilink")
-- [Ran](Ran.md "wikilink")
-- [Vidar](Vidar.md "wikilink")
-- [Ymir](Ymir.md "wikilink")
+- [Andvari](Andvari.md)
+- [Dagur](Dagur.md)
+- [Eisa](Eisa.md)
+- [Freyr](Freyr.md)
+- [Gjallar](Gjallar.md)
+- [Helheim](Helheim.md)
+- [Jarl](Jarl.md)
+- [Kvasir](Kvasir.md)
+- [Mani](Mani.md)
+- [Nott](Nott.md)
+- [Ran](Ran.md)
+- [Vidar](Vidar.md)
+- [Ymir](Ymir.md)
 
-### [Forseral](Forseral.md "wikilink")
+### [Forseral](Forseral.md)
 
 10 Bases:
 
-- [Anu](Anu.md "wikilink")
-- [Bel](Bel.md "wikilink")
-- [Caer](Caer.md "wikilink")
-- [Dagda](Dagda.md "wikilink")
-- [Eadon](Eadon.md "wikilink")
-- [Gwydion](Gwydion.md "wikilink")
-- [Lugh](Lugh.md "wikilink")
-- [Neit](Neit.md "wikilink")
-- [Ogma](Ogma.md "wikilink")
-- [Pwyll](Pwyll.md "wikilink")
+- [Anu](Anu.md)
+- [Bel](Bel.md)
+- [Caer](Caer.md)
+- [Dagda](Dagda.md)
+- [Eadon](Eadon.md)
+- [Gwydion](Gwydion.md)
+- [Lugh](Lugh.md)
+- [Neit](Neit.md)
+- [Ogma](Ogma.md)
+- [Pwyll](Pwyll.md)
 
-### [Hossin](Hossin.md "wikilink")
+### [Hossin](Hossin.md)
 
 11 Bases:
 
-- [Acan](Acan.md "wikilink")
-- [Bitol](Bitol.md "wikilink")
-- [Chac](Chac.md "wikilink")
-- [Ghanon](Ghanon.md "wikilink")
-- [Hurakan](Hurakan.md "wikilink")
-- [Ixtab](Ixtab.md "wikilink")
-- [Kisin](Kisin.md "wikilink")
-- [Mulac](Mulac.md "wikilink")
-- [Naum](Naum.md "wikilink")
-- [Voltan](Voltan.md "wikilink")
-- [Zotz](Zotz.md "wikilink")
+- [Acan](Acan.md)
+- [Bitol](Bitol.md)
+- [Chac](Chac.md)
+- [Ghanon](Ghanon.md)
+- [Hurakan](Hurakan.md)
+- [Ixtab](Ixtab.md)
+- [Kisin](Kisin.md)
+- [Mulac](Mulac.md)
+- [Naum](Naum.md)
+- [Voltan](Voltan.md)
+- [Zotz](Zotz.md)
 
-### [Ishundar](Ishundar.md "wikilink")
+### [Ishundar](Ishundar.md)
 
 12 Bases:
 
-- [Akkan](Akkan.md "wikilink")
-- [Baal](Baal.md "wikilink")
-- [Dagon](Dagon.md "wikilink")
-- [Enkidu](Enkidu.md "wikilink")
-- [Girru](Girru.md "wikilink")
-- [Hanish](Hanish.md "wikilink")
-- [Irkalla](Irkalla.md "wikilink")
-- [Kusag](Kusag.md "wikilink")
-- [Lahar](Lahar.md "wikilink")
-- [Marduk](Marduk.md "wikilink")
-- [Neti](Neti.md "wikilink")
-- [Zaqar](Zaqar.md "wikilink")
+- [Akkan](Akkan.md)
+- [Baal](Baal.md)
+- [Dagon](Dagon.md)
+- [Enkidu](Enkidu.md)
+- [Girru](Girru.md)
+- [Hanish](Hanish.md)
+- [Irkalla](Irkalla.md)
+- [Kusag](Kusag.md)
+- [Lahar](Lahar.md)
+- [Marduk](Marduk.md)
+- [Neti](Neti.md)
+- [Zaqar](Zaqar.md)
 
-### [Oshur Battle Islands](Oshur.md "wikilink")
+### [Oshur Battle Islands](Oshur.md)
 
 10 Bases
 
-#### [Ascension](Oshur.md#Ascension "wikilink")
+#### [Ascension](Oshur.md#Ascension)
 
-- [Rashnu](Rashnu.md "wikilink")
-- [Sraosha](Sraosha.md "wikilink")
-- [Zal](Zal.md "wikilink")
+- [Rashnu](Rashnu.md)
+- [Sraosha](Sraosha.md)
+- [Zal](Zal.md)
 
-#### [Desolation](Oshur.md#Desolation "wikilink")
+#### [Desolation](Oshur.md#Desolation)
 
-- [Dahaka](Dahaka.md "wikilink")
-- [Izha](Izha.md "wikilink")
-- [Jamshid](Jamshid.md "wikilink")
+- [Dahaka](Dahaka.md)
+- [Izha](Izha.md)
+- [Jamshid](Jamshid.md)
 
-#### [Extinction](Oshur.md#Extinction "wikilink")
+#### [Extinction](Oshur.md#Extinction)
 
-- [Hvar](Hvar.md "wikilink")
-- [Mithra](Mithra.md "wikilink")
-- [Yazata](Yazata.md "wikilink")
+- [Hvar](Hvar.md)
+- [Mithra](Mithra.md)
+- [Yazata](Yazata.md)
 
-#### [Nexus](Oshur.md#Nexus "wikilink")
+#### [Nexus](Oshur.md#Nexus)
 
-- [Atar](Atar.md "wikilink")
+- [Atar](Atar.md)
 
-### [Searhus](Searhus.md "wikilink")
+### [Searhus](Searhus.md)
 
 14 Bases:
 
-- [Akua](Akua.md "wikilink")
-- [Drakulu](Drakulu.md "wikilink")
-- [Hiro](Hiro.md "wikilink")
-- [Iva](Iva.md "wikilink")
-- [Karihi](Karihi.md "wikilink")
-- [Laka](Laka.md "wikilink")
-- [Matagi](Matagi.md "wikilink")
-- [Ngaru](Ngaru.md "wikilink")
-- [Oro](Oro.md "wikilink")
-- [Pele](Pele.md "wikilink")
-- [Rehua](Rehua.md "wikilink")
-- [Sina](Sina.md "wikilink")
-- [Tara](Tara.md "wikilink")
-- [Wakea](Wakea.md "wikilink")
+- [Akua](Akua.md)
+- [Drakulu](Drakulu.md)
+- [Hiro](Hiro.md)
+- [Iva](Iva.md)
+- [Karihi](Karihi.md)
+- [Laka](Laka.md)
+- [Matagi](Matagi.md)
+- [Ngaru](Ngaru.md)
+- [Oro](Oro.md)
+- [Pele](Pele.md)
+- [Rehua](Rehua.md)
+- [Sina](Sina.md)
+- [Tara](Tara.md)
+- [Wakea](Wakea.md)
 
-### [Solsar](Solsar.md "wikilink")
+### [Solsar](Solsar.md)
 
 9 Bases:
 
-- [Amun](Amun.md "wikilink")
-- [Aton](Aton.md "wikilink")
-- [Bastet](Bastet.md "wikilink")
-- [Hapi](Hapi.md "wikilink")
-- [Horus](Horus.md "wikilink")
-- [Mont](Mont.md "wikilink")
-- [Seth](Seth.md "wikilink")
-- [Sobek](Sobek.md "wikilink")
-- [Thoth](Thoth.md "wikilink")
+- [Amun](Amun.md)
+- [Aton](Aton.md)
+- [Bastet](Bastet.md)
+- [Hapi](Hapi.md)
+- [Horus](Horus.md)
+- [Mont](Mont.md)
+- [Seth](Seth.md)
+- [Sobek](Sobek.md)
+- [Thoth](Thoth.md)
 
 ## Cavern Bases
 
 Capturable Facilities: 36
 
-### [Adlivun](Adlivun.md "wikilink")
+### [Adlivun](Adlivun.md)
 
 6 Capturable Facilities:
 
-- [AT Plant](AT_Plant.md "wikilink") Northwest, Adlivun
-- [AT Plant](AT_Plant.md "wikilink") Southeast, Adlivun
-- [Module Building](Module_Building.md "wikilink") Northeast
-- [Module Building](Module_Building.md "wikilink") Southwest
-- [Redoubt](Redoubt.md "wikilink") Northwest, Adlivun
-- [Redoubt](Redoubt.md "wikilink") Southeast, Adlivun
+- [AT Plant](AT_Plant.md) Northwest, Adlivun
+- [AT Plant](AT_Plant.md) Southeast, Adlivun
+- [Module Building](Module_Building.md) Northeast
+- [Module Building](Module_Building.md) Southwest
+- [Redoubt](Redoubt.md) Northwest, Adlivun
+- [Redoubt](Redoubt.md) Southeast, Adlivun
 
-### [Annwn](Annwn.md "wikilink")
-
-6 Capturable Facilities:
-
-- [AT Plant](AT_Plant.md "wikilink") Northwest, Annwn
-- [AT Plant](AT_Plant.md "wikilink") Southeast, Annwn
-- [Module Building](Module_Building.md "wikilink") Northwest
-- [Module Building](Module_Building.md "wikilink") Southeast
-- [Redoubt](Redoubt.md "wikilink") Northwest, Annwn
-- [Redoubt](Redoubt.md "wikilink") Southeast, Annwn
-
-### [Byblos](Byblos.md "wikilink")
+### [Annwn](Annwn.md)
 
 6 Capturable Facilities:
 
-- [AT Plant](AT_Plant.md "wikilink") North, Byblos
-- [AT Plant](AT_Plant.md "wikilink") South, Byblos
-- [Module Building](Module_Building.md "wikilink") North, Byblos
-- [Module Building](Module_Building.md "wikilink") South, Byblos
-- [Redoubt](Redoubt.md "wikilink") North, Byblos
-- [Redoubt](Redoubt.md "wikilink") South, Byblos
+- [AT Plant](AT_Plant.md) Northwest, Annwn
+- [AT Plant](AT_Plant.md) Southeast, Annwn
+- [Module Building](Module_Building.md) Northwest
+- [Module Building](Module_Building.md) Southeast
+- [Redoubt](Redoubt.md) Northwest, Annwn
+- [Redoubt](Redoubt.md) Southeast, Annwn
 
-### [Drugaskan](Drugaskan.md "wikilink")
-
-6 Capturable Facilities:
-
-- [AT Plant](AT_Plant.md "wikilink") North, Drugaskan
-- [AT Plant](AT_Plant.md "wikilink") South, Drugaskan
-- [Module Building](Module_Building.md "wikilink") North, Drugaskan
-- [Module Building](Module_Building.md "wikilink") South, Drugaskan
-- [Redoubt](Redoubt.md "wikilink") North, Drugaskan
-- [Redoubt](Redoubt.md "wikilink") South, Drugaskan
-
-### [Hunhau](Hunhau.md "wikilink")
+### [Byblos](Byblos.md)
 
 6 Capturable Facilities:
 
-- [AT Plant](AT_Plant.md "wikilink") North, Hunhau
-- [AT Plant](AT_Plant.md "wikilink") South, Hunhau
-- [Module Building](Module_Building.md "wikilink") North, Hunhau
-- [Module Building](Module_Building.md "wikilink") South, Hunhau
-- [Redoubt](Redoubt.md "wikilink") North, Hunhau
-- [Redoubt](Redoubt.md "wikilink") South, Hunhau
+- [AT Plant](AT_Plant.md) North, Byblos
+- [AT Plant](AT_Plant.md) South, Byblos
+- [Module Building](Module_Building.md) North, Byblos
+- [Module Building](Module_Building.md) South, Byblos
+- [Redoubt](Redoubt.md) North, Byblos
+- [Redoubt](Redoubt.md) South, Byblos
 
-### [Supai](Supai.md "wikilink")
+### [Drugaskan](Drugaskan.md)
 
 6 Capturable Facilities:
 
-- [AT Plant](AT_Plant.md "wikilink") North, Supai
-- [AT Plant](AT_Plant.md "wikilink") South, Supai
-- [Module Building](Module_Building.md "wikilink") North, Supai
-- [Module Building](Module_Building.md "wikilink") South, Supai
-- [Redoubt](Redoubt.md "wikilink") North, Supai
-- [Redoubt](Redoubt.md "wikilink") South, Supai
+- [AT Plant](AT_Plant.md) North, Drugaskan
+- [AT Plant](AT_Plant.md) South, Drugaskan
+- [Module Building](Module_Building.md) North, Drugaskan
+- [Module Building](Module_Building.md) South, Drugaskan
+- [Redoubt](Redoubt.md) North, Drugaskan
+- [Redoubt](Redoubt.md) South, Drugaskan
 
-[Category:Locations](Category:Locations.md "wikilink")
+### [Hunhau](Hunhau.md)
+
+6 Capturable Facilities:
+
+- [AT Plant](AT_Plant.md) North, Hunhau
+- [AT Plant](AT_Plant.md) South, Hunhau
+- [Module Building](Module_Building.md) North, Hunhau
+- [Module Building](Module_Building.md) South, Hunhau
+- [Redoubt](Redoubt.md) North, Hunhau
+- [Redoubt](Redoubt.md) South, Hunhau
+
+### [Supai](Supai.md)
+
+6 Capturable Facilities:
+
+- [AT Plant](AT_Plant.md) North, Supai
+- [AT Plant](AT_Plant.md) South, Supai
+- [Module Building](Module_Building.md) North, Supai
+- [Module Building](Module_Building.md) South, Supai
+- [Redoubt](Redoubt.md) North, Supai
+- [Redoubt](Redoubt.md) South, Supai
+
+[Category:Locations](Category:Locations.md)

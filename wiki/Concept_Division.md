@@ -35,10 +35,10 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 
 ## Concepts By Author
 
-- [Bwzman](Bwzman.md "wikilink")
-- [ChewyLSB](User:ChewyLSB.md "wikilink")
+- [Bwzman](Bwzman.md)
+- [ChewyLSB](User:ChewyLSB.md)
 - Dviddlef
-- [Hayoo](Hayoo.md "wikilink")
+- [Hayoo](Hayoo.md)
 - Piolet
 - Straws
 - Tiletron/Hyncharas
@@ -49,38 +49,38 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 
 - Concept 01 (by Dviddlef)
 - Concept 02 (by Straws)
-- Empire Tech Levels (by [Hayoo](Hayoo.md "wikilink"))
-- NTU Changes and Capacitor System (by [Hayoo](Hayoo.md "wikilink"))
+- Empire Tech Levels (by [Hayoo](Hayoo.md))
+- NTU Changes and Capacitor System (by [Hayoo](Hayoo.md))
 
 ### Map and Environments
 
 - Concept 01 (by Piolet)
 - Concept 02 (by Bwzman)
-- Sanctuary Capitals (concept) (by [Hayoo](Hayoo.md "wikilink"))
-- [Urban Outposts (concept)](</Urban_Outposts_(concept)> "wikilink") (by
-  [Hayoo](Hayoo.md "wikilink"))
+- Sanctuary Capitals (concept) (by [Hayoo](Hayoo.md))
+- [Urban Outposts (concept)](</Urban_Outposts_(concept)>) (by
+  [Hayoo](Hayoo.md))
 
 ### Squads, Outfits, and Command
 
 - [Commander-Occupied
   Vehicles](http://comms.planetsidesyndicate.com/showthread.php?t=1311)
-- Command Squads and Task Forces (by [Hayoo](Hayoo.md "wikilink"))
-- Outfit Headquarters and Sanc Barracks (by [Hayoo](Hayoo.md "wikilink"))
+- Command Squads and Task Forces (by [Hayoo](Hayoo.md))
+- Outfit Headquarters and Sanc Barracks (by [Hayoo](Hayoo.md))
 
 ### Certs and Battlefield Roles
 
-- Medic Interface and Medevac (by [Hayoo](user:Hayoo.md "wikilink"))
+- Medic Interface and Medevac (by [Hayoo](user:Hayoo.md))
 - New Certifications: Comtech, Tech, Adv Tech (by
-  [Hayoo](Hayoo.md "wikilink"))
+  [Hayoo](Hayoo.md))
 
 ### Vehicles
 
-- **SundII** and Sunderer Variants by [Chirp](User:Chirp.md "wikilink")
+- **SundII** and Sunderer Variants by [Chirp](User:Chirp.md)
 
 ### Weapons
 
-- Emplacements (by [Hayoo](Hayoo.md "wikilink"))
-- Towable Weapons and Equipment (by [Hayoo](Hayoo.md "wikilink"))
+- Emplacements (by [Hayoo](Hayoo.md))
+- Towable Weapons and Equipment (by [Hayoo](Hayoo.md))
 
 ### Armor
 
@@ -90,16 +90,16 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 ### Rewards
 
 - [Advanced Service and Supply Infantry Support
-  Tool](Advanced_Service_and_Supply_Infantry_Support_Tool.md "wikilink")
-  by [ChewyLSB](User:ChewyLSB.md "wikilink")
+  Tool](Advanced_Service_and_Supply_Infantry_Support_Tool.md)
+  by [ChewyLSB](User:ChewyLSB.md)
 - Concept 02
 
 ## Concepts By Artist
 
-- [Bwzman](Bwzman.md "wikilink")
-- [Chirp](user:Chirp.md "wikilink")
-- [Hayoo](Hayoo.md "wikilink")
+- [Bwzman](Bwzman.md)
+- [Chirp](user:Chirp.md)
+- [Hayoo](Hayoo.md)
 - Pyrotechnic
 - Piolet
 
-[Category:Idealab](Category:Idealab.md "wikilink")
+[Category:Idealab](Category:Idealab.md)

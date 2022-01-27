@@ -1,1 +1,1 @@
-1.  REDIRECT [Facilities](Facilities.md "wikilink")
+1.  REDIRECT [Facilities](Facilities.md)

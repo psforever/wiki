@@ -4,83 +4,83 @@
 
 |                                                                   |                                                     |
 | ----------------------------------------------------------------- | --------------------------------------------------- |
-| [Control Console](Control_Console.md "wikilink"):                 | Basement                                            |
-| [Generator](Generator.md "wikilink"):                             | Basement                                            |
-| [Spawn room](Respawn_room.md "wikilink"):                         | Level 1                                             |
-| [Vehicle Terminal](Vehicle_Terminal.md "wikilink") (Air/Ground):  | Courtyard                                           |
-| [BFR Shed](BFR_Shed.md "wikilink"):                               | Courtyard                                           |
-| [Lattice Logic Unit](LLU.md "wikilink") Socket:                   | Radar dish room on the roof                         |
-| [Facility Linked Benefit](Facility_Linked_Benefit.md "wikilink"): | Enhanced RADAR abilities (benefit icon: RADAR dish) |
-| [Wall Turrets](Phalanx.md "wikilink"):                            | 6                                                   |
+| [Control Console](Control_Console.md):                 | Basement                                            |
+| [Generator](Generator.md):                             | Basement                                            |
+| [Spawn room](Respawn_room.md):                         | Level 1                                             |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):  | Courtyard                                           |
+| [BFR Shed](BFR_Shed.md):                               | Courtyard                                           |
+| [Lattice Logic Unit](LLU.md) Socket:                   | Radar dish room on the roof                         |
+| [Facility Linked Benefit](Facility_Linked_Benefit.md): | Enhanced RADAR abilities (benefit icon: RADAR dish) |
+| [Wall Turrets](Phalanx.md):                            | 6                                                   |
 |                                                                   |                                                     |
 
 ## Description
 
 ![](images/Interlink.jpg "fig:Interlink.jpg") Interlink Facilities have the
 unique benefit of Enhanced RADAR and can provide this ability to any
-[lattice-linked](Facility_Linked_Benefit.md "wikilink") facility.
+[lattice-linked](Facility_Linked_Benefit.md) facility.
 
 This facility possesses enhancements to its **RADAR systems**. All enemy
 vehicles will appear on RADAR, except for deployed [Advanced Mobile
-Stations](Advanced_Mobile_Station.md "wikilink"). All running enemy
+Stations](Advanced_Mobile_Station.md). All running enemy
 infantry, including cloaked
-[Infiltrators](Infiltration_Suit.md "wikilink"), will appear on the RADAR.
+[Infiltrators](Infiltration_Suit.md), will appear on the RADAR.
 Enemy infantry, including cloaked Infiltrators, will appear on RADAR if
 they are within a [Spitfire
-Turret](Adaptive_Construction_Engine.md "wikilink") or [Motion
-Sensor's](Adaptive_Construction_Engine.md "wikilink") detection radius,
+Turret](Adaptive_Construction_Engine.md) or [Motion
+Sensor's](Adaptive_Construction_Engine.md) detection radius,
 regardless of whether they are moving or not.
 
 ## Interlink Facility Locations
 
-### [Amerish](Amerish.md "wikilink")
+### [Amerish](Amerish.md)
 
-- [Cetan](Cetan.md "wikilink") (Sub-Capitol)
-- [Qumu](Qumu.md "wikilink") (Sub-Capitol)
+- [Cetan](Cetan.md) (Sub-Capitol)
+- [Qumu](Qumu.md) (Sub-Capitol)
 
-### [Ceryshen](Ceryshen.md "wikilink")
+### [Ceryshen](Ceryshen.md)
 
-- [Keelut](Keelut.md "wikilink") (Sub-Capitol)
+- [Keelut](Keelut.md) (Sub-Capitol)
 
-### [Cyssor](Cyssor.md "wikilink")
+### [Cyssor](Cyssor.md)
 
-- [Bomazi](Bomazi.md "wikilink")
-- [Tore](Tore.md "wikilink")
+- [Bomazi](Bomazi.md)
+- [Tore](Tore.md)
 
-### [Esamir](Esamir.md "wikilink")
+### [Esamir](Esamir.md)
 
-- [Jarl](Jarl.md "wikilink")
-- [Vidar](Vidar.md "wikilink")
+- [Jarl](Jarl.md)
+- [Vidar](Vidar.md)
 
-### [Forseral](Forseral.md "wikilink")
+### [Forseral](Forseral.md)
 
-- [Caer](Caer.md "wikilink") (Sub-Capitol)
-- [Dagda](Dagda.md "wikilink")
+- [Caer](Caer.md) (Sub-Capitol)
+- [Dagda](Dagda.md)
 
-### [Hossin](Hossin.md "wikilink")
+### [Hossin](Hossin.md)
 
-- [Hurakan](Hurakan.md "wikilink")
-- [Kisin](Kisin.md "wikilink")
-- [Voltan](Voltan.md "wikilink") (Capitol)
+- [Hurakan](Hurakan.md)
+- [Kisin](Kisin.md)
+- [Voltan](Voltan.md) (Capitol)
 
-### [Ishundar](Ishundar.md "wikilink")
+### [Ishundar](Ishundar.md)
 
-- [Irkalla](Irkalla.md "wikilink")
-- [Neti](Neti.md "wikilink")
+- [Irkalla](Irkalla.md)
+- [Neti](Neti.md)
 
-### [Oshur Battle Islands](Oshur.md "wikilink")
+### [Oshur Battle Islands](Oshur.md)
 
-- [Hvar](Hvar.md "wikilink") (Extinction)
-- [Zal](Zal.md "wikilink") (Ascension)
+- [Hvar](Hvar.md) (Extinction)
+- [Zal](Zal.md) (Ascension)
 
-### [Searhus](Searhus.md "wikilink")
+### [Searhus](Searhus.md)
 
-- [Laka](Laka.md "wikilink")
-- [Oro](Oro.md "wikilink")
-- [Wakea](Wakea.md "wikilink")
+- [Laka](Laka.md)
+- [Oro](Oro.md)
+- [Wakea](Wakea.md)
 
-### [Solsar](Solsar.md "wikilink")
+### [Solsar](Solsar.md)
 
-- [Hapi](Hapi.md "wikilink") (Sub-Capitol)
+- [Hapi](Hapi.md) (Sub-Capitol)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

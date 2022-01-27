@@ -40,40 +40,40 @@ exploit.
 --source: Planetside In-game descriptions, pre- and post-Bending.
 
 This continent is also refered to as
-[Ish](Acronyms_and_Slang.md "wikilink").
+[Ish](Acronyms_and_Slang.md).
 
 Features and Landmarks:
 
-- [Stonehenge](Stonehenge.md "wikilink")
+- [Stonehenge](Stonehenge.md)
 - Ishundar Canyon
 
 ## Base Facilities
 
 ### Amp Stations
 
-- [Enkidu](Enkidu.md "wikilink")
+- [Enkidu](Enkidu.md)
 
 ### Bio Laboratories
 
-- [Dagon](Dagon.md "wikilink")
-- [Hanish](Hanish.md "wikilink")
-- [Lahar](Lahar.md "wikilink")
-- [Zaqar](Zaqar.md "wikilink")
+- [Dagon](Dagon.md)
+- [Hanish](Hanish.md)
+- [Lahar](Lahar.md)
+- [Zaqar](Zaqar.md)
 
 ### Dropship Centers
 
-- [Akkan](Akkan.md "wikilink")
+- [Akkan](Akkan.md)
 
 ### Interlink Facilities
 
-- [Irkalla](Irkalla.md "wikilink")
-- [Neti](Neti.md "wikilink")
+- [Irkalla](Irkalla.md)
+- [Neti](Neti.md)
 
 ### Technology Plants
 
-- [Baal](Baal.md "wikilink")
-- [Girru](Girru.md "wikilink")
-- [Kusag](Kusag.md "wikilink")
-- [Marduk](Marduk.md "wikilink")
+- [Baal](Baal.md)
+- [Girru](Girru.md)
+- [Kusag](Kusag.md)
+- [Marduk](Marduk.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

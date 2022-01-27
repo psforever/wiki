@@ -4,11 +4,11 @@
 | --------------------------------------- | --------------------------------------------------- |
 | Category:                               | Island Cluster                                      |
 | Climate:                                | Arid                                                |
-| Landmass:                               | [Battle Island](Battle_Island.md "wikilink")        |
+| Landmass:                               | [Battle Island](Battle_Island.md)        |
 | Terrain:                                | Desert. Sandy dunes, scattered oases, dry lake beds |
-| [Facilities](Facilities.md "wikilink"): | 3                                                   |
-| [Towers](Towers.md "wikilink"):         | 7                                                   |
-| [Warpgates](Warpgate.md "wikilink"):    | 3                                                   |
+| [Facilities](Facilities.md): | 3                                                   |
+| [Towers](Towers.md):         | 7                                                   |
+| [Warpgates](Warpgate.md):    | 3                                                   |
 |                                         |                                                     |
 
 ## Topography
@@ -21,25 +21,25 @@ ripe for snipers and air cavalry.
 
 ## Limitations
 
-As is the case with all [Battle Islands](Battle_Islands.md "wikilink"),
+As is the case with all [Battle Islands](Battle_Islands.md),
 heavy weapons and vehicles do not operate here. Not permitted are [Heavy
-Assault](Heavy_Assault.md "wikilink") weapons,
-[Reavers](Reaver.md "wikilink"), [Artillery](Artillery.md "wikilink"),
-[BFRs](BFR.md "wikilink"), [Medium Battle
-Tanks](Medium_Battle_Tank.md "wikilink"), and Empire Specific
-[Deliverer](Deliverer.md "wikilink") variants.
+Assault](Heavy_Assault.md) weapons,
+[Reavers](Reaver.md), [Artillery](Artillery.md),
+[BFRs](BFR.md), [Medium Battle
+Tanks](Medium_Battle_Tank.md), and Empire Specific
+[Deliverer](Deliverer.md) variants.
 
-## [Facilities](Facilities.md "wikilink")
+## [Facilities](Facilities.md)
 
-All three bases on this island are [LLU](LLU.md "wikilink")-capture
-[Technology Plants](Technology_Plant.md "wikilink"). The lack of a [Bio
-Laboratory](Bio_Laboratory.md "wikilink") here means that spawn times are
-not modified by anything but [Modules](Modules.md "wikilink").
+All three bases on this island are [LLU](LLU.md)-capture
+[Technology Plants](Technology_Plant.md). The lack of a [Bio
+Laboratory](Bio_Laboratory.md) here means that spawn times are
+not modified by anything but [Modules](Modules.md).
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](Technology_Plant.md)
 
-- [Dahaka](Dahaka.md "wikilink")
-- [Izha](Izha.md "wikilink")
-- [Jamshid](Jamshid.md "wikilink")
+- [Dahaka](Dahaka.md)
+- [Izha](Izha.md)
+- [Jamshid](Jamshid.md)
 
-[category:Locations](category:Locations.md "wikilink")
+[category:Locations](category:Locations.md)

@@ -218,10 +218,10 @@
 </tbody>
 </table>
 
-This Merit is awarded to a [Liberator](Liberator.md "wikilink") or
-[Vulture](Vulture.md "wikilink") pilot for kills made by his
-[Bombardier](Bombardier.md "wikilink") or Tailgunner.
+This Merit is awarded to a [Liberator](Liberator.md) or
+[Vulture](Vulture.md) pilot for kills made by his
+[Bombardier](Bombardier.md) or Tailgunner.
 
 Upon completion of the Bronze level of this Merit, the
-[Vulture](Vulture.md "wikilink") becomes available for purchase.
-[category:Merits](category:Merits.md "wikilink")
+[Vulture](Vulture.md) becomes available for purchase.
+[category:Merits](category:Merits.md)

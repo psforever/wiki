@@ -5,11 +5,11 @@ from your normal gameplay. When the event starts, a unique anomaly (the
 "Rabbit ball") appears at a random location on a designated continent. A
 message will be displayed in the chat area announcing where, and the
 location of the Rabbit ball will be displayed on your map by an orange
-[waypoint](waypoint.md "wikilink"). Kills made in close proximity to the
+[waypoint](waypoint.md). Kills made in close proximity to the
 rabbit ball will be rewarded with an extra 25% [experience
-point](BEP.md "wikilink") bonus to the killer and those in his/her
-[squad](squad.md "wikilink"), which is added to any [empire
-incentive](Empire_Incentives.md "wikilink") already in place.
+point](BEP.md) bonus to the killer and those in his/her
+[squad](squad.md), which is added to any [empire
+incentive](Empire_Incentives.md) already in place.
 
 The objective of the Rabbit event is for an empire to keep possession of
 the Rabbit ball and accumulate points towards a certain point goal
@@ -18,21 +18,21 @@ the Rabbit ball and accumulate points towards a certain point goal
 ## The Rabbit Carrier
 
 Any player of any empire can pick up the Rabbit ball. That player can
-also get into a friendly ground [vehicle](vehicle.md "wikilink"), subject
-to the same vehicle restrictions as an [LLU](LLU.md "wikilink") or
-[Module](Module.md "wikilink") carrier. However, there are additional
+also get into a friendly ground [vehicle](vehicle.md), subject
+to the same vehicle restrictions as an [LLU](LLU.md) or
+[Module](Module.md) carrier. However, there are additional
 restrictions for the Rabbit ball carrier.
 
 The Rabbit ball carrier cannot enter the following areas:
 
-- The [SOI](SOI.md "wikilink") of a tower or facility belonging to
+- The [SOI](SOI.md) of a tower or facility belonging to
   <i>any</i> empire, including neutral facilities.
 - Water
-- [Warpgates](Warpgate.md "wikilink")
+- [Warpgates](Warpgate.md)
 
 If the Rabbit ball carrier enters any of the above areas, the Rabbit
 ball resets to another spawn point on the
-[continent](continent.md "wikilink"). This has sometimes been used by
+[continent](continent.md). This has sometimes been used by
 players to try to make the Rabbit ball spawn inside friendlier territory
 on the continent (although it's often a gamble). Players trying to force
 a reset will either run into an SOI, "dunk" the Rabbit (run into water),
@@ -47,7 +47,7 @@ ball (and scores at least 1 point\*), the streak is broken, and another
 ball, or the first empire if it gets the Rabbit ball back.
 
 The player who is carrying the rabbit ball is immune to friendly fire
-and receives 100 [BEP](BEP.md "wikilink") for each point scored. The player
+and receives 100 [BEP](BEP.md) for each point scored. The player
 will also get health, armor, and stamina regeneration while carrying it.
 
 <font size="1">\*Needs confirmation</font>
@@ -57,7 +57,7 @@ will also get health, armor, and stamina regeneration while carrying it.
 ![](images/RabbitWindow.png "fig:RabbitWindow.png") window showing the score
 and other information.\]\] The Rabbit Status Window will appear on the
 screen for all players while they are on the zone that is hosting the
-Rabbit event. Score points for your [empire](empire.md "wikilink") by
+Rabbit event. Score points for your [empire](empire.md) by
 carrying the Rabbit ball or gain bonus experience for participating in
 battle. A point is scored every five seconds the ball is held. The
 empire that reaches the point goal (shown on the Rabbit status window)
@@ -74,7 +74,7 @@ experience or other perks.
 
 The most common use for a Rabbit event is to end a 3-way battle in a
 zone that has lasted many days. The most common reward is a [continental
-lock](continental_lock.md "wikilink") on that zone for 12 hours.
+lock](continental_lock.md) on that zone for 12 hours.
 
-[Category:Game Guides](Category:Game_Guides.md "wikilink")
-[Category:Terminology](Category:Terminology.md "wikilink")
+[Category:Game Guides](Category:Game_Guides.md)
+[Category:Terminology](Category:Terminology.md)

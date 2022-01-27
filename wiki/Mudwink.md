@@ -1,4 +1,4 @@
-[**Guide to TR MAX**]('''Guide_to_TR_MAX''' "wikilink")
+[**Guide to TR MAX**]('''Guide_to_TR_MAX''')
 
 - this is not ment to be a comprehensive guide for new users but
   should offer some assistance and insight to new MAX users.
@@ -121,6 +121,6 @@ luck with the new tool.
 
 Enjoy the firepower TR and happy hunting.
 
---[Mudwink](User:Mudwink.md "wikilink") 13:40, 31 October 2007 (EDT)Mudwink
+--[Mudwink](User:Mudwink.md) 13:40, 31 October 2007 (EDT)Mudwink
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](Category:Strategy.md)

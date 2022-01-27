@@ -1,2 +1,2 @@
 - [DRUCKWELLE (German)](http://www.druckwelle-hq.de)
-  [outfit](outfit.md "wikilink")
+  [outfit](outfit.md)

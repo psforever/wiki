@@ -1,9 +1,9 @@
 |                        |                                                      |
 | ---------------------- | ---------------------------------------------------- |
 | **Type**               | Armor                                                |
-| **Provides Access To** | [Infiltration Suit](Infiltration_Suit.md "wikilink") |
+| **Provides Access To** | [Infiltration Suit](Infiltration_Suit.md) |
 | **Pre-requisite**      | \-                                                   |
-| **Required For**       | [Phantasm](</Phantasm_(Certification)> "wikilink")   |
+| **Required For**       | [Phantasm](</Phantasm_(Certification)>)   |
 | **Cert Point Cost**    | 2                                                    |
 | **Protection**         | 0                                                    |
 | **Holsters**           | 1 Pistol                                             |
@@ -14,11 +14,11 @@
 While this is not technically armor, the "stealth suit" allows you to
 cloak yourself on the battlefield to avoid visual detection. The slower
 you move, the less visible you are. When driving a
-[Wraith](Wraith.md "wikilink") you may cloak both yourself and the vehicle.
-[Darklight](Darklight.md "wikilink") Vision and [Audio
-Amplifier](Audio_Amplifier.md "wikilink") [Implants](Implants.md "wikilink")
+[Wraith](Wraith.md) you may cloak both yourself and the vehicle.
+[Darklight](Darklight.md) Vision and [Audio
+Amplifier](Audio_Amplifier.md) [Implants](Implants.md)
 will aid other players in detecting you. The Infiltration Suit provides
 no armor protection, doesn't allow the use of a rifle, and has a very
 small inventory.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](Category:Certification.md)

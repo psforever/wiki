@@ -27,8 +27,8 @@
 
 **Heavy Assault**
 
-This [Certification](Certification.md "wikilink") is required to obtain the
-[Heavy Weapons](</Heavy_Assault_(Merit)> "wikilink") [Merit
-Commendation](Merit_Commendation.md "wikilink").
+This [Certification](Certification.md) is required to obtain the
+[Heavy Weapons](</Heavy_Assault_(Merit)>) [Merit
+Commendation](Merit_Commendation.md).
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](Category:Certification.md)

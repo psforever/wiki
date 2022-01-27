@@ -213,10 +213,10 @@
 </table>
 
 This Merit is awarded for amassing kills with the
-[Tower](Tower.md "wikilink") and [Facility](Facility.md "wikilink")
-[Phalanx](Phalanx.md "wikilink") Wall Turrets, the [Ancient Sentry
-Turrets](Ancient_Sentry_Turret.md "wikilink") in the
-[Caverns](Cavern.md "wikilink"), or a [One-Manned Field
-Turret](One-Manned_Field_Turret.md "wikilink").
+[Tower](Tower.md) and [Facility](Facility.md)
+[Phalanx](Phalanx.md) Wall Turrets, the [Ancient Sentry
+Turrets](Ancient_Sentry_Turret.md) in the
+[Caverns](Cavern.md), or a [One-Manned Field
+Turret](One-Manned_Field_Turret.md).
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

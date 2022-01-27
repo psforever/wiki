@@ -2,8 +2,8 @@
 
 |                            |                                                    |
 | -------------------------- | -------------------------------------------------- |
-| **Certification Required** | [Standard Assault](Standard_Assault.md "wikilink") |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")           |
+| **Certification Required** | [Standard Assault](Standard_Assault.md) |
+| **Empire**                 | [Common Pool](Common_Pool.md)           |
 | **Primary Mode**           | Explode on Contact                                 |
 | **Secondary Mode**         | Three Second Fuse                                  |
 | **Ammunition**             | \-                                                 |
@@ -18,40 +18,40 @@
 **Jammer grenades** cause electomagnetic interference explosions. This
 interference has the following effects:
 
-- Causes soldier [implant timers](Implants.md "wikilink") to reset.
+- Causes soldier [implant timers](Implants.md) to reset.
 - Causes the following to cease functioning for a short time:
-  - [Proximity Map](Proximity_Map.md "wikilink") radar.
-  - Vehicle weapons (except [BFRs](BattleFrame_Robotics.md "wikilink"))
-  - [Spitfire](Adaptive_Construction_Engine.md#Spitfire_Turret "wikilink"),
-    [Cerberus](Cerberus_Turret.md "wikilink"),
-    [Shadow](Shadow_Turret.md "wikilink"),
-    [Phalanx](Phalanx.md "wikilink"), [OMFT](OMFT.md "wikilink") and
+  - [Proximity Map](Proximity_Map.md) radar.
+  - Vehicle weapons (except [BFRs](BattleFrame_Robotics.md))
+  - [Spitfire](Adaptive_Construction_Engine.md#Spitfire_Turret),
+    [Cerberus](Cerberus_Turret.md),
+    [Shadow](Shadow_Turret.md),
+    [Phalanx](Phalanx.md), [OMFT](OMFT.md) and
     manned [Ancient Sentry
-    Turrets](Ancient_Sentry_Turret.md "wikilink").
+    Turrets](Ancient_Sentry_Turret.md).
   - [Motion
-    Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm "wikilink")
-    and [Sensor Disruptors](Sensor_Disruptor.md "wikilink").
+    Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm)
+    and [Sensor Disruptors](Sensor_Disruptor.md).
 - Causes [High Explosive
-  Mines](Adaptive_Construction_Engine.md#High_Explosive_Mine "wikilink"),
-  [Disruptor Mines](Disruptor_Mine.md "wikilink"), and
-  [Boomers](<Adaptive_Construction_Engine#Remote-Detonated_Charge_(Boomer)> "wikilink")
+  Mines](Adaptive_Construction_Engine.md#High_Explosive_Mine),
+  [Disruptor Mines](Disruptor_Mine.md), and
+  [Boomers](<Adaptive_Construction_Engine#Remote-Detonated_Charge_(Boomer)>)
   to detonate.
 - Causes deployed [Aegis Shield
-  Generators](Aegis_Shield_Generator.md "wikilink") and
-  [AMSes](AMS.md "wikilink") to temporarily decloak.
+  Generators](Aegis_Shield_Generator.md) and
+  [AMSes](AMS.md) to temporarily decloak.
 - Disrupts BFR systems:
   - Slows servos for all frame movements
   - Decreases weapon refire rate
-  - Disables [Armor Siphon](Armor_Siphon.md "wikilink") and [NTU
-    Siphon](NTU_Siphon.md "wikilink") functionality
+  - Disables [Armor Siphon](Armor_Siphon.md) and [NTU
+    Siphon](NTU_Siphon.md) functionality
   - Takes flight systems offline
   - Slows shield regeneration significantly
 
-In addition to the [Hand grenade](Hand_grenade.md "wikilink") three-pack,
+In addition to the [Hand grenade](Hand_grenade.md) three-pack,
 **Jammer grenades** are also available in ammo boxes for use with the
-[Thumper](Thumper.md "wikilink") and [Punisher](Punisher.md "wikilink").
+[Thumper](Thumper.md) and [Punisher](Punisher.md).
 
-[category:Common Pool Weapons](category:Common_Pool_Weapons.md "wikilink")
+[category:Common Pool Weapons](category:Common_Pool_Weapons.md)
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Weapons](Category:Weapons.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Weapons](Category:Weapons.md)

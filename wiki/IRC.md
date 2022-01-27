@@ -70,4 +70,4 @@ people.
 Once the connection is made, the window for #planetside automatically
 opens.
 
-[category:Communication](category:Communication.md "wikilink")
+[category:Communication](category:Communication.md)

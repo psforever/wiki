@@ -1,1 +1,1 @@
-1.  REDIRECT [Towers](Towers.md "wikilink")
+1.  REDIRECT [Towers](Towers.md)

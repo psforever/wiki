@@ -5,21 +5,21 @@ Grenades can be fired from a number of weapons:
 
 ## Man-portable launchers
 
-- [Punisher](Punisher.md "wikilink")
-- [Thumper](Thumper.md "wikilink")
-- [Rocklet Rifle](Rocklet_Rifle.md "wikilink")
-- [Radiator](Radiator.md "wikilink")
-- [Maelstrom](Maelstrom.md "wikilink")
+- [Punisher](Punisher.md)
+- [Thumper](Thumper.md)
+- [Rocklet Rifle](Rocklet_Rifle.md)
+- [Radiator](Radiator.md)
+- [Maelstrom](Maelstrom.md)
 
 ## Heavy launchers
 
-- [Pounder](Pounder.md "wikilink")
-- [Ground Pounder](Ground_Pounder.md "wikilink")
+- [Pounder](Pounder.md)
+- [Ground Pounder](Ground_Pounder.md)
 
-## [Hand grenades](Hand_grenade.md "wikilink")
+## [Hand grenades](Hand_grenade.md)
 
-- [Fragmentation grenade](Fragmentation_grenade.md "wikilink")
-- [Jammer grenade](Jammer_grenade.md "wikilink")
-- [Plasma grenade](Plasma_grenade.md "wikilink")
+- [Fragmentation grenade](Fragmentation_grenade.md)
+- [Jammer grenade](Jammer_grenade.md)
+- [Plasma grenade](Plasma_grenade.md)
 
-[category:Game Items](category:Game_Items.md "wikilink")
+[category:Game Items](category:Game_Items.md)

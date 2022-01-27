@@ -11,7 +11,7 @@ or the backspace key and omit the name from the command.
 
 You can send a tell to a player on another server by prefixing the
 server name (e.g. werner.playername). You can also communicate between
-[SOE](SOE.md "wikilink") games by prefixing the game (e.g. swg.playername
+[SOE](SOE.md) games by prefixing the game (e.g. swg.playername
 for StarWars Galaxies and eq2.playername for EverQuest 2).
 
-[category:Communication](category:Communication.md "wikilink")[category:Commands](category:Commands.md "wikilink")
+[category:Communication](category:Communication.md)[category:Commands](category:Commands.md)

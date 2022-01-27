@@ -215,24 +215,24 @@
 A seven-level Merit, obtained by destroying the following Transport
 vehicles:
 
-- [Deliverer](Deliverer.md "wikilink")
-- [Aurora](Aurora.md "wikilink")
-- [Thunderer](Thunderer.md "wikilink")
-- [Raider](Raider.md "wikilink")
-- [Galaxy](Galaxy.md "wikilink")
-- [Galaxy Gunship](Galaxy_Gunship.md "wikilink")
-- [Juggernaut](Juggernaut.md "wikilink")
-- [Leviathan](Leviathan.md "wikilink")
-- [Vindicator](Vindicator.md "wikilink")
-- [Phantasm](Phantasm.md "wikilink")
+- [Deliverer](Deliverer.md)
+- [Aurora](Aurora.md)
+- [Thunderer](Thunderer.md)
+- [Raider](Raider.md)
+- [Galaxy](Galaxy.md)
+- [Galaxy Gunship](Galaxy_Gunship.md)
+- [Juggernaut](Juggernaut.md)
+- [Leviathan](Leviathan.md)
+- [Vindicator](Vindicator.md)
+- [Phantasm](Phantasm.md)
 
 '''<sup>\*</sup> There is a bug that awards both the Silver and Gold
 merits at the same time after completing 150 kills.
 
 **Note that the Qualification to Platinum levels of this Merit
 Commendation are exactly the same as the Qualification to Platinum
-levels of the [Cavalry Driver](</Cavalry_Driver_(Merit)> "wikilink") Merit
+levels of the [Cavalry Driver](</Cavalry_Driver_(Merit)>) Merit
 Commendation.
-This is a mistake made by [SOE](SOE.md "wikilink").**
+This is a mistake made by [SOE](SOE.md).**
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

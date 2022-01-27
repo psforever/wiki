@@ -1,18 +1,18 @@
-**Continent -** [Amerish](Amerish.md "wikilink")
+**Continent -** [Amerish](Amerish.md)
 
 **Location -** P7/P8
 
-**Base Type -** [Dropship Center](Dropship_Center.md "wikilink")
+**Base Type -** [Dropship Center](Dropship_Center.md)
 
-**Capture Style -** [Hack-and-Hold](Hack-and-Hold.md "wikilink")
+**Capture Style -** [Hack-and-Hold](Hack-and-Hold.md)
 
-**Towers -** North Gun [Tower](Tower.md "wikilink")
+**Towers -** North Gun [Tower](Tower.md)
 
-Azeban has [Lattice](Lattice.md "wikilink") Links to:
+Azeban has [Lattice](Lattice.md) Links to:
 
-- [Amp Station](Amp_Station.md "wikilink") [Sungrey](Sungrey.md "wikilink")
-- [Bio Laboratory](Bio_Laboratory.md "wikilink")
-  [Xelas](Xelas.md "wikilink")
-- [Hossin](Hossin.md "wikilink") Warpgate
+- [Amp Station](Amp_Station.md) [Sungrey](Sungrey.md)
+- [Bio Laboratory](Bio_Laboratory.md)
+  [Xelas](Xelas.md)
+- [Hossin](Hossin.md) Warpgate
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)

@@ -1,1 +1,1 @@
-1.  REDIRECT [PlanetSide](PlanetSide.md "wikilink")
+1.  REDIRECT [PlanetSide](PlanetSide.md)

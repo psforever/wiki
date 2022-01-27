@@ -1,10 +1,10 @@
 An **Outfit Decal** is an image that an Outfit can select when it
-reaches 10,000 [Outfit Points](Outfit_Points.md "wikilink").
+reaches 10,000 [Outfit Points](Outfit_Points.md).
 
-The Outfit Decal is shown on [Vehicles](Vehicle.md "wikilink") that are
-owned by an [Outfit](Outfit.md "wikilink") member, and on each Outfit
-member's [armor](armor.md "wikilink").
-[category:Terminology](category:Terminology.md "wikilink")
+The Outfit Decal is shown on [Vehicles](Vehicle.md) that are
+owned by an [Outfit](Outfit.md) member, and on each Outfit
+member's [armor](armor.md).
+[category:Terminology](category:Terminology.md)
 
 ### Listing of Outfit Decals
 

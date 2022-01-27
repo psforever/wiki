@@ -1,1 +1,1 @@
-1.  REDIRECT [BattleFrame Robotics](BattleFrame_Robotics.md "wikilink")
+1.  REDIRECT [BattleFrame Robotics](BattleFrame_Robotics.md)

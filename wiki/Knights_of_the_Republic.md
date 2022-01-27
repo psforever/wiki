@@ -1,6 +1,6 @@
 Knights of the Republic is a [Terran
-Republic](Terran_Republic.md "wikilink") [Outfit](Outfit.md "wikilink") on the
-[Markov](Markov.md "wikilink") Server.
+Republic](Terran_Republic.md) [Outfit](Outfit.md) on the
+[Markov](Markov.md) Server.
 
 The Outfit is led by ColdStoneKOTR.
 

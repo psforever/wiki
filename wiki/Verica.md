@@ -1,4 +1,4 @@
-Verica is the [Capitol](Capitol.md "wikilink") of
-[Amerish](Amerish.md "wikilink").
+Verica is the [Capitol](Capitol.md) of
+[Amerish](Amerish.md).
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)

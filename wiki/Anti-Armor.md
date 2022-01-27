@@ -213,6 +213,6 @@
 </table>
 
 A seven-level Infantry Merit, obtained by amassing kills with
-[Anti-Vehicular](Anti-Vehicular.md "wikilink") Weaponry.
+[Anti-Vehicular](Anti-Vehicular.md) Weaponry.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

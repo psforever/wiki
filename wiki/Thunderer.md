@@ -4,11 +4,11 @@
 | -------------------------- | ---------------------------------------------------------------- |
 | **Type**                   | Medium Transport                                                 |
 | **Role**                   | Medium Troop Transport                                           |
-| **Certification Required** | [Ground Transport](Ground_Transport.md "wikilink")               |
-| **Empire**                 | [New Conglomerate](New_Conglomerate.md "wikilink")               |
-| **Primary Weapon**         | 2 [Gauss Cannons](Gauss_Cannon.md "wikilink")                    |
+| **Certification Required** | [Ground Transport](Ground_Transport.md)               |
+| **Empire**                 | [New Conglomerate](New_Conglomerate.md)               |
+| **Primary Weapon**         | 2 [Gauss Cannons](Gauss_Cannon.md)                    |
 | **Secondary Weapon**       | \-                                                               |
-| **Ammunition**             | [Gauss Cannon Ammunition](Gauss_Cannon_Ammunition.md "wikilink") |
+| **Ammunition**             | [Gauss Cannon Ammunition](Gauss_Cannon_Ammunition.md) |
 | **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)                           |
 | **Handling**               | Good                                                             |
 | **Top speed**              | 63 kph (40 kph over water)                                       |
@@ -23,10 +23,10 @@ infantry. Like the Deliverer, the Thunderer has adequate trunk space and
 can cross calm rivers and waterways by floating at the surface.
 
 **Introduced: May 27, 2004 with update version
-[2.7.6](2.md.7.6 "wikilink").**
+[2.7.6](2.md.7.6).**
 
-[category:Vehicles](category:Vehicles.md "wikilink") [category:Ground
-Vehicles](category:Ground_Vehicles.md "wikilink") [category:New
-Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md "wikilink")
+[category:Vehicles](category:Vehicles.md) [category:Ground
+Vehicles](category:Ground_Vehicles.md) [category:New
+Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md)
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)

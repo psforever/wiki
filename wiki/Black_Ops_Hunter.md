@@ -148,8 +148,8 @@
 </tbody>
 </table>
 
-This [Merit](Merit.md "wikilink") is awarded for killing players that are
-[Black Ops](Black_Ops.md "wikilink"), and does not have a [unique
-kill](unique_kill.md "wikilink") requirement.
+This [Merit](Merit.md) is awarded for killing players that are
+[Black Ops](Black_Ops.md), and does not have a [unique
+kill](unique_kill.md) requirement.
 
-[Category:Merits](Category:Merits.md "wikilink")
+[Category:Merits](Category:Merits.md)

@@ -1,149 +1,149 @@
-The following is a listing of **[Weapons](Weapon.md "wikilink")**,
+The following is a listing of **[Weapons](Weapon.md)**,
 **Devices** and **ammunition** available to soldiers.
 
 ## Weapons
 
 ### Melee Weapons
 
-- [Chainblade](Chainblade.md "wikilink")
-- [Force-Blade](Force-Blade.md "wikilink")
-- [Fusion Blade](Fusion_Blade.md "wikilink")
-- [Mag-Cutter](Mag-Cutter.md "wikilink")
+- [Chainblade](Chainblade.md)
+- [Force-Blade](Force-Blade.md)
+- [Fusion Blade](Fusion_Blade.md)
+- [Mag-Cutter](Mag-Cutter.md)
 
 ### Standard Assault Weapons
 
 - [Automatic Machine Pistol
-  (AMP)](Automatic_Machine_Pistol.md "wikilink")
-- [Beamer](Beamer.md "wikilink")
-- [Mag-Scatter](Mag-Scatter.md "wikilink")
-- [Repeater](Repeater.md "wikilink")
-- [Suppressor](Suppressor.md "wikilink")
-- [Heavy Scout Rifle](Heavy_Scout_Rifle.md "wikilink") (for characters 2+
+  (AMP)](Automatic_Machine_Pistol.md)
+- [Beamer](Beamer.md)
+- [Mag-Scatter](Mag-Scatter.md)
+- [Repeater](Repeater.md)
+- [Suppressor](Suppressor.md)
+- [Heavy Scout Rifle](Heavy_Scout_Rifle.md) (for characters 2+
   years old)
 
 ### Medium Assault Weapons
 
-- [Eraser](Eraser.md "wikilink")
-- [Cycler](Cycler.md "wikilink")
-- [Gauss](Gauss.md "wikilink")
-- [Pulsar](Pulsar.md "wikilink")
-- [Punisher](Punisher.md "wikilink")
-- [Spear](Spear.md "wikilink")
-- [Spiker](Spiker.md "wikilink") (See: [Core
-  Combat](Core_Combat.md "wikilink"))
-- [Stinger](Stinger.md "wikilink")
-- [Sweeper](Sweeper.md "wikilink")
+- [Eraser](Eraser.md)
+- [Cycler](Cycler.md)
+- [Gauss](Gauss.md)
+- [Pulsar](Pulsar.md)
+- [Punisher](Punisher.md)
+- [Spear](Spear.md)
+- [Spiker](Spiker.md) (See: [Core
+  Combat](Core_Combat.md))
+- [Stinger](Stinger.md)
+- [Sweeper](Sweeper.md)
 
 ### Sniper Weapons
 
-- [Bolt Driver](Bolt_Driver.md "wikilink")
-- [Heavy Scout Rifle](Heavy_Scout_Rifle.md "wikilink")
+- [Bolt Driver](Bolt_Driver.md)
+- [Heavy Scout Rifle](Heavy_Scout_Rifle.md)
 
 ### Special Assault Weapons
 
-- [Radiator](Radiator.md "wikilink") (See: [Core
-  Combat](Core_Combat.md "wikilink"))
-- [Rocklet Rifle](Rocklet_Rifle.md "wikilink")
-- [Thumper](Thumper.md "wikilink")
+- [Radiator](Radiator.md) (See: [Core
+  Combat](Core_Combat.md))
+- [Rocklet Rifle](Rocklet_Rifle.md)
+- [Thumper](Thumper.md)
 
 ### Elite Assault Weapons
 
-- [Dragon](Dragon.md "wikilink")
-- [Scorpion](Scorpion.md "wikilink")
+- [Dragon](Dragon.md)
+- [Scorpion](Scorpion.md)
 
 ### Heavy Weapons
 
-- [Jackhammer](Jackhammer.md "wikilink")
-- [Lasher](Lasher.md "wikilink")
-- [Maelstrom](Maelstrom.md "wikilink") (See: [Core
-  Combat](Core_Combat.md "wikilink"))
-- [Mini-Chaingun (MCG)](Mini-Chaingun.md "wikilink")
+- [Jackhammer](Jackhammer.md)
+- [Lasher](Lasher.md)
+- [Maelstrom](Maelstrom.md) (See: [Core
+  Combat](Core_Combat.md))
+- [Mini-Chaingun (MCG)](Mini-Chaingun.md)
 
 ### Anti-Vehicular Weapons
 
-- [Decimator](Decimator.md "wikilink")
-- [Lancer](Lancer.md "wikilink")
-- [Phoenix](Phoenix.md "wikilink")
-- [Striker](Striker.md "wikilink")
+- [Decimator](Decimator.md)
+- [Lancer](Lancer.md)
+- [Phoenix](Phoenix.md)
+- [Striker](Striker.md)
 
 ### Grenades
 
-- [Fragmentation grenade](Fragmentation_grenade.md "wikilink")
-- [Jammer grenade](Jammer_grenade.md "wikilink")
-- [Plasma grenade](Plasma_grenade.md "wikilink")
+- [Fragmentation grenade](Fragmentation_grenade.md)
+- [Jammer grenade](Jammer_grenade.md)
+- [Plasma grenade](Plasma_grenade.md)
 
 ## Support Devices
 
 ### Engineering
 
 - [Adaptive Construction Engine
-  (ACE)](Adaptive_Construction_Engine.md "wikilink")
-- [Aegis Shield Generator](Aegis_Shield_Generator.md "wikilink")
-- [Avenger](Avenger.md "wikilink")
-- [Body Armor Nano Kit (BANK)](Body_Armor_Nano_Kit.md "wikilink")
-- [Cerberus Turret](Cerberus_Turret.md "wikilink")
-- [Disruptor Mine](Disruptor_Mine.md "wikilink")
-- [Field Deployment Unit](Field_Deployment_Unit.md "wikilink") (FDU)
-- [Nano Dispenser](Nano_Dispenser.md "wikilink")
-- [One-Manned Field Turret](One-Manned_Field_Turret.md "wikilink")
-- [Orion](Orion.md "wikilink")
-- [Osprey](Osprey.md "wikilink")
-- [Shadow Turret](Shadow_Turret.md "wikilink")
+  (ACE)](Adaptive_Construction_Engine.md)
+- [Aegis Shield Generator](Aegis_Shield_Generator.md)
+- [Avenger](Avenger.md)
+- [Body Armor Nano Kit (BANK)](Body_Armor_Nano_Kit.md)
+- [Cerberus Turret](Cerberus_Turret.md)
+- [Disruptor Mine](Disruptor_Mine.md)
+- [Field Deployment Unit](Field_Deployment_Unit.md) (FDU)
+- [Nano Dispenser](Nano_Dispenser.md)
+- [One-Manned Field Turret](One-Manned_Field_Turret.md)
+- [Orion](Orion.md)
+- [Osprey](Osprey.md)
+- [Shadow Turret](Shadow_Turret.md)
 - [Tactical Resonance Area
-  Protection](Tactical_Resonance_Area_Protection.md "wikilink") (TRAP)
+  Protection](Tactical_Resonance_Area_Protection.md) (TRAP)
 
 ### Command
 
-- [Command Uplink Device (CUD)](Command_Uplink_Device.md "wikilink")
-- [Laze Pointer](Laze_Pointer.md "wikilink") (See: [Core
-  Combat](Core_Combat.md "wikilink"))
+- [Command Uplink Device (CUD)](Command_Uplink_Device.md)
+- [Laze Pointer](Laze_Pointer.md) (See: [Core
+  Combat](Core_Combat.md))
 
 ### Medical
 
-- [Medical Applicator](Medical_Applicator.md "wikilink")
-- [MedKit](MedKit.md "wikilink")
-- [Super Medkit](Super_Medkit.md "wikilink")
+- [Medical Applicator](Medical_Applicator.md)
+- [MedKit](MedKit.md)
+- [Super Medkit](Super_Medkit.md)
 
 ### Hacking
 
-- [Remote Electronics Kit (REK)](Remote_Electronics_Kit.md "wikilink")
-- [T-REK](T-REK.md "wikilink")
+- [Remote Electronics Kit (REK)](Remote_Electronics_Kit.md)
+- [T-REK](T-REK.md)
 
 ### Other
 
-- [Super Repair Kit](Super_Repair_Kit.md "wikilink")
-- [Super Stimpack](Super_Stimpack.md "wikilink")
-- [Telepad](Telepad.md "wikilink") (See: [Core
-  Combat](Core_Combat.md "wikilink"))
+- [Super Repair Kit](Super_Repair_Kit.md)
+- [Super Stimpack](Super_Stimpack.md)
+- [Telepad](Telepad.md) (See: [Core
+  Combat](Core_Combat.md))
 
 ## Ammunition
 
 ### Common Pool
 
-- [9mm Bullet](9mm_Bullet.md "wikilink")
-- [10mm Multi-Phase](10mm_Multi-Phase.md "wikilink")
-- [Armor Piercing 9mm Bullet](Armor_Piercing_9mm_Bullet.md "wikilink")
+- [9mm Bullet](9mm_Bullet.md)
+- [10mm Multi-Phase](10mm_Multi-Phase.md)
+- [Armor Piercing 9mm Bullet](Armor_Piercing_9mm_Bullet.md)
 - [Armor Piercing Shotgun
-  Shell](Armor_Piercing_Shotgun_Shell.md "wikilink")
-- [High Caliber Bolt](High_Caliber_Bolt.md "wikilink")
-- [Shotgun Shell](Shotgun_Shell.md "wikilink")
+  Shell](Armor_Piercing_Shotgun_Shell.md)
+- [High Caliber Bolt](High_Caliber_Bolt.md)
+- [Shotgun Shell](Shotgun_Shell.md)
 
-### [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
+### [Vanu Sovereignty](Vanu_Sovereignty.md)
 
-- [Energy Cell](Energy_Cell.md "wikilink")
-- [Lancer Cartridge](Lancer_Cartridge.md "wikilink")
+- [Energy Cell](Energy_Cell.md)
+- [Lancer Cartridge](Lancer_Cartridge.md)
 
-### [New Conglomerate](New_Conglomerate.md "wikilink")
+### [New Conglomerate](New_Conglomerate.md)
 
-- [Phoenix Missile](Phoenix_Missile.md "wikilink")
+- [Phoenix Missile](Phoenix_Missile.md)
 
-### [Terran Republic](Terran_Republic.md "wikilink")
+### [Terran Republic](Terran_Republic.md)
 
-- [Striker Missile](Striker_Missile.md "wikilink")
+- [Striker Missile](Striker_Missile.md)
 
-### [Ancient Tech](Ancient_Tech.md "wikilink")
+### [Ancient Tech](Ancient_Tech.md)
 
-- [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md "wikilink")
-- [Maelstrom Capacitor Unit](Maelstrom_Capacitor_Unit.md "wikilink")
+- [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md)
+- [Maelstrom Capacitor Unit](Maelstrom_Capacitor_Unit.md)
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)

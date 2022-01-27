@@ -2,8 +2,8 @@
 
 |                          |                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| **Used by**              | [Mag-Scatter](Mag-Scatter.md "wikilink"), [Sweeper](Sweeper.md "wikilink"), [Jackhammer](Jackhammer.md "wikilink") |
-| **Empire**               | [Common Pool](Common_Pool.md "wikilink")                                                                           |
+| **Used by**              | [Mag-Scatter](Mag-Scatter.md), [Sweeper](Sweeper.md), [Jackhammer](Jackhammer.md) |
+| **Empire**               | [Common Pool](Common_Pool.md)                                                                           |
 | **Inventory dimensions** | 3x3                                                                                                                |
 | **Quantity per pack**    | 16 shells                                                                                                          |
 
@@ -18,14 +18,14 @@ to this, Shotguns are used primarily indoors and in other close combat
 fights, as they are very ineffective at anything beyond close proximity.
 
 The Armor Piercing Shotgun Shells do good damage to armored targets like
-[MAX Units](MAX.md "wikilink"), [vehicles](vehicle.md "wikilink") and
-[Deployables](Adaptive_Construction_Engine.md "wikilink"), but are rather
+[MAX Units](MAX.md), [vehicles](vehicle.md) and
+[Deployables](Adaptive_Construction_Engine.md), but are rather
 ineffective against smaller, less armored targets. When encountering
 such targets, it is best to use the standard [Shotgun
-Shells](Shotgun_Shell.md "wikilink").
+Shells](Shotgun_Shell.md).
 
 Because Shotgun Shells are only used in small arms, they can penetrate
-the shields of a [BattleFrame Robotic](BattleFrame_Robotics.md "wikilink").
+the shields of a [BattleFrame Robotic](BattleFrame_Robotics.md).
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Ammunition](Category:Ammunition.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Ammunition](Category:Ammunition.md)

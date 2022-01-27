@@ -1,5 +1,5 @@
 ![](images/Rpbanner.jpg "fig:Rpbanner.jpg") **Raging Primates** is a
-[Gemini](Gemini.md "wikilink") (Originally [Markov](Markov.md "wikilink"))
+[Gemini](Gemini.md) (Originally [Markov](Markov.md))
 Outfit of the Vanu Sovereignty. We've maxed out at 10 million outfit
 points and currently have 160+ members.
 

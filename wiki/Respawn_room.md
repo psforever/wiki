@@ -1,25 +1,25 @@
 ![](images/SpawnRoom.jpg "fig:SpawnRoom.jpg")\]\]
 ![](images/SpawnRoom2.jpg "fig:SpawnRoom2.jpg") from another view\]\]
 ![](images/CaveSpawnRoom.jpg "fig:CaveSpawnRoom.jpg") in a
-[Cavern](Cavern.md "wikilink") [Redoubt
-Building](Redoubt_Building.md "wikilink")\]\] Room in
-[facilities](facilities.md "wikilink"), [towers](towers.md "wikilink"), or the
-Sanctuary [Respawn Buildings](Respawn_Building.md "wikilink") where the
-[Respawn tubes](Respawn_tube.md "wikilink") are located.
+[Cavern](Cavern.md) [Redoubt
+Building](Redoubt_Building.md)\]\] Room in
+[facilities](facilities.md), [towers](towers.md), or the
+Sanctuary [Respawn Buildings](Respawn_Building.md) where the
+[Respawn tubes](Respawn_tube.md) are located.
 
 ## Surface Spawn Rooms
 
 In addition to the spawn tubes, these rooms come equipped with
-several[lockers](lockers.md "wikilink") and 3 [Equipment
-terminals](Equipment_terminal.md "wikilink").
+several[lockers](lockers.md) and 3 [Equipment
+terminals](Equipment_terminal.md).
 
 Respawn rooms are protected by low-energy [Pain
-Fields](Pain_Field.md "wikilink"). If a [Pain
-Module](Pain_Module.md "wikilink") is installed, this pain field is even
+Fields](Pain_Field.md). If a [Pain
+Module](Pain_Module.md) is installed, this pain field is even
 more lethal.
 
-The Respawn room is adjacent to the [lounge](lounge.md "wikilink") and
-above the [barracks](barracks.md "wikilink"). These three areas together
+The Respawn room is adjacent to the [lounge](lounge.md) and
+above the [barracks](barracks.md). These three areas together
 are sometimes refered to as the Barracks as well.
 
 ## Cavern Spawn Rooms
@@ -29,12 +29,12 @@ you die, you can select where to spawn, and you will spawn there when
 the timer is done.
 
 However, the Cave Spawn Rooms have no [Spawn
-Tubes](Spawn_Tube.md "wikilink"), and can therefor not be destroyed. The
-[Ancient Equipment Terminals](Ancient_Equipment_Terminal.md "wikilink") in
+Tubes](Spawn_Tube.md), and can therefor not be destroyed. The
+[Ancient Equipment Terminals](Ancient_Equipment_Terminal.md) in
 the Spawn Rooms are also indestructable, making it harder to defend a
-[Cavern](Cavern.md "wikilink") [Facility](Facility.md "wikilink") because you
+[Cavern](Cavern.md) [Facility](Facility.md) because you
 cannot prevent the Enemy from respawning and getting their gear. Cavern
-Spawn Rooms have a [Pain Field](Pain_Field.md "wikilink") strength equal to
-that of a [Pain Module](Pain_Module.md "wikilink") by default.
+Spawn Rooms have a [Pain Field](Pain_Field.md) strength equal to
+that of a [Pain Module](Pain_Module.md) by default.
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

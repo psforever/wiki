@@ -218,9 +218,9 @@
 </tbody>
 </table>
 
-This [merit](merit.md "wikilink") is awarded for kills amassed while
-operating a Ground [Vehicle](Vehicle.md "wikilink")-mounted (non-pilot)
-weapon. The [skyguard](skyguard.md "wikilink") is excluded, as it counts
-for the [Air Defender](Air_Defender.md "wikilink") merit.
+This [merit](merit.md) is awarded for kills amassed while
+operating a Ground [Vehicle](Vehicle.md)-mounted (non-pilot)
+weapon. The [skyguard](skyguard.md) is excluded, as it counts
+for the [Air Defender](Air_Defender.md) merit.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

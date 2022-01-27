@@ -3,7 +3,7 @@
 |                            |                                          |
 | -------------------------- | ---------------------------------------- |
 | **Certification Required** | None                                     |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink") |
+| **Empire**                 | [Common Pool](Common_Pool.md) |
 | **Primary Mode**           | Restores 25 Health                       |
 | **Secondary Mode**         | \-                                       |
 | **Ammunition**             | \-                                       |
@@ -20,4 +20,4 @@ quick application during combat.
 The Medkit has a timer associated with use, allowing one heal every
 two-three seconds. It takes up 4x2 inventory units.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)

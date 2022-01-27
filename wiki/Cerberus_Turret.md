@@ -2,22 +2,22 @@
 
 |                            |                                                                                                                                    |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Fortification Engineering](Fortification_Engineering.md "wikilink") or [Advanced Engineering](Advanced_Engineering.md "wikilink") |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")                                                                                           |
+| **Certification Required** | [Fortification Engineering](Fortification_Engineering.md) or [Advanced Engineering](Advanced_Engineering.md) |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                           |
 | **Primary Mode**           | Cerberus Turret                                                                                                                    |
 | **Secondary Mode**         | \-                                                                                                                                 |
-| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md "wikilink") (ACE)                                                   |
+| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                                   |
 | **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                                             |
 | **Magazine Capacity**      | 1 Turret per ACE unit                                                                                                              |
 | **Zoom**                   | None                                                                                                                               |
 
 **Cerberus Turret**
 
-The Cerberus Turret is deployed using the [ACE](ACE.md "wikilink")'s
+The Cerberus Turret is deployed using the [ACE](ACE.md)'s
 Tertiary Mode. The "Change Ammunition" function will allow you to select
 the Cerberus Turret, the [Spitfire
-Turret](Adaptive_Construction_Engine.md#Spitfire_Turret "wikilink") or the
-[Shadow Turret](Shadow_Turret.md "wikilink").
+Turret](Adaptive_Construction_Engine.md#Spitfire_Turret) or the
+[Shadow Turret](Shadow_Turret.md).
 
 The maximum amount of Cerberus Turrets that can be placed at any given
 time is 5, and they count towards the maximum amount of deployed Turrets
@@ -29,14 +29,14 @@ not be destroyed, hovering or flying slow near one of these Turrets will
 make you "land" rather fast however.
 
 The Cerberus Turret doesn't do a lot of damage to
-[vehicles](vehicle.md "wikilink") and Infantry, and will not fire upon
+[vehicles](vehicle.md) and Infantry, and will not fire upon
 Infantry unless fired upon.
 
-These Turrets cannot be deployed inside an Enemy [SOI](SOI.md "wikilink").
+These Turrets cannot be deployed inside an Enemy [SOI](SOI.md).
 
 Kills made with these turrets count towards both the [Air
-Defender](Air_Defender.md "wikilink") and
-[Engineering](<Engineering_(Merit)> "wikilink")
-[Merits](Merit.md "wikilink").
+Defender](Air_Defender.md) and
+[Engineering](<Engineering_(Merit)>)
+[Merits](Merit.md).
 
-[Category:Weapons](Category:Weapons.md "wikilink")
+[Category:Weapons](Category:Weapons.md)

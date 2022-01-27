@@ -37,9 +37,9 @@ Launch Date: January 31, 2005
 
 PlanetSide Syndicate was last edited on February 19th,2011, and for
 all-intensive purposes is now a dead site. [PlanetSide
-Forever](PlanetSide_Forever.md "wikilink") has mirrored the site for
+Forever](PlanetSide_Forever.md) has mirrored the site for
 archival purposes, as well as to build and improve on it. It is our hope
 that we can restore the content of PS Syndicate and shape it into a
 comprehensive and user-friendly wiki page for all
-[PlanetSide](PlanetSide.md "wikilink") players to use. [category:Web
-site](category:Web_site.md "wikilink")
+[PlanetSide](PlanetSide.md) players to use. [category:Web
+site](category:Web_site.md)

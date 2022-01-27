@@ -1,1 +1,1 @@
-[Category: Common Pool](Category:_Common_Pool.md "wikilink")
+[Category: Common Pool](Category:_Common_Pool.md)

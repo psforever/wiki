@@ -37,11 +37,11 @@
 </table>
 
 This merit is awarded to a soldier who personally visits the
-[Monolith](Monolith.md "wikilink") locations on each of the surface
-continents, excluding the [Oshur](Oshur.md "wikilink") [Battle
-Islands](Battle_Islands.md "wikilink").
+[Monolith](Monolith.md) locations on each of the surface
+continents, excluding the [Oshur](Oshur.md) [Battle
+Islands](Battle_Islands.md).
 
 A list of the coordinates of each Monolith is available on the [Monolith
-Locations](Monolith_Locations.md "wikilink") page.
+Locations](Monolith_Locations.md) page.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

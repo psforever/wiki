@@ -1,19 +1,19 @@
-This series of [Merit Commendations](Merit_Commendations.md "wikilink")
+This series of [Merit Commendations](Merit_Commendations.md)
 rewards the thankless job of supporting the empire, including:
 
 - Reviving fallen soldiers
 - Healing injured soldiers
 - Repairing damaged armor on soldiers, vehicles, and equipment
 - Hacking enemy equipment
-- Operating an [AMS](AMS.md "wikilink"), [Router](Router.md "wikilink"), or
-  [Lodestar](Lodestar.md "wikilink")
+- Operating an [AMS](AMS.md), [Router](Router.md), or
+  [Lodestar](Lodestar.md)
 
 <hr>
 <table class="gc">
 <tr>
 <td>
 
-[AMS Support](AMS_Support.md "wikilink")
+[AMS Support](AMS_Support.md)
 
 </td>
 <td class="mitd">
@@ -215,7 +215,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Combat Medic](Combat_Medic.md "wikilink")
+[Combat Medic](Combat_Medic.md)
 
 </td>
 <td class="mitd">
@@ -417,7 +417,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Combat Resuscitation](Combat_Resuscitation.md "wikilink")
+[Combat Resuscitation](Combat_Resuscitation.md)
 
 </td>
 <td class="mitd">
@@ -619,7 +619,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td rowspan="2">
 
-[Engineering](</Engineering_(Merit)> "wikilink")
+[Engineering](</Engineering_(Merit)>)
 
 </td>
 <td class="mit">
@@ -794,7 +794,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Equipment Support](Equipment_Support.md "wikilink")
+[Equipment Support](Equipment_Support.md)
 
 </td>
 <td class="mitd">
@@ -996,7 +996,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Galaxy Support Pilot](Galaxy_Support_Pilot.md "wikilink")
+[Galaxy Support Pilot](Galaxy_Support_Pilot.md)
 
 </td>
 <td class="mitd">
@@ -1198,7 +1198,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Hack Support Specialist](Hack_Support_Specialist.md "wikilink")
+[Hack Support Specialist](Hack_Support_Specialist.md)
 
 </td>
 <td class="mitd">
@@ -1236,7 +1236,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Hacking Support](Hacking_Support.md "wikilink")
+[Hacking Support](Hacking_Support.md)
 
 </td>
 <td class="mitd">
@@ -1438,7 +1438,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Infantry Armor Support](Infantry_Armor_Support.md "wikilink")
+[Infantry Armor Support](Infantry_Armor_Support.md)
 
 </td>
 <td class="mitd">
@@ -1640,7 +1640,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Locker Hack](Locker_Hack.md "wikilink")
+[Locker Hack](Locker_Hack.md)
 
 </td>
 <td class="mitd">
@@ -1842,7 +1842,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Lodestar Support](Lodestar_Support.md "wikilink")
+[Lodestar Support](Lodestar_Support.md)
 
 </td>
 <td class="mitd">
@@ -2044,7 +2044,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Resuscitation Medic](Resuscitation_Medic.md "wikilink")
+[Resuscitation Medic](Resuscitation_Medic.md)
 
 </td>
 <td class="mitd">
@@ -2246,7 +2246,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Router Support](Router_Support.md "wikilink")
+[Router Support](Router_Support.md)
 
 </td>
 <td class="mitd">
@@ -2448,7 +2448,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Telepad Deployment](Telepad_Deployment.md "wikilink")
+[Telepad Deployment](Telepad_Deployment.md)
 
 </td>
 <td class="mitd">
@@ -2650,7 +2650,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Tiny Robotics Support](Tiny_Robotics_Support.md "wikilink")
+[Tiny Robotics Support](Tiny_Robotics_Support.md)
 
 </td>
 <td class="mitd">
@@ -2852,7 +2852,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td rowspan="1">
 
-[Universal Soldier](Universal_Soldier.md "wikilink")
+[Universal Soldier](Universal_Soldier.md)
 
 </td>
 <td class="mitd">
@@ -2918,7 +2918,7 @@ bgcolor="#b2a0b4">
 <tr>
 <td>
 
-[Vehicle Support Specialist](Vehicle_Support_Specialist.md "wikilink")
+[Vehicle Support Specialist](Vehicle_Support_Specialist.md)
 
 </td>
 <td class="mitd">
@@ -2955,4 +2955,4 @@ bgcolor="#b2a0b4">
 </tr>
 </table>
 
-[\*S](category:Merits.md "wikilink")
+[\*S](category:Merits.md)

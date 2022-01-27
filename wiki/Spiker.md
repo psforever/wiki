@@ -3,11 +3,11 @@ Spiker\]\]
 
 |                            |                                                                    |
 | -------------------------- | ------------------------------------------------------------------ |
-| **Certification Required** | [Medium Assault](Medium_Assault.md "wikilink")                     |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")                           |
+| **Certification Required** | [Medium Assault](Medium_Assault.md)                     |
+| **Empire**                 | [Common Pool](Common_Pool.md)                           |
 | **Primary Mode**           | Energy Orb                                                         |
 | **Secondary Mode**         | \-                                                                 |
-| **Ammunition**             | [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md "wikilink")     |
+| **Ammunition**             | [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md)     |
 | **Range**                  | 200 m                                                              |
 | **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                             |
 | **Magazine Capacity**      | 25                                                                 |
@@ -17,11 +17,11 @@ Spiker\]\]
 **Spiker**
 
 With the discovery of the Core Complex came the introduction of the
-[Spiker](Spiker.md "wikilink") medium assault weapon. Now known as "[The
-Potato](Acronyms_and_Slang.md#P "wikilink")", the
-[Spiker](Spiker.md "wikilink") is a slingshot-type weapon with amazing
+[Spiker](Spiker.md) medium assault weapon. Now known as "[The
+Potato](Acronyms_and_Slang.md#P)", the
+[Spiker](Spiker.md) is a slingshot-type weapon with amazing
 impact and splash damage, making it a
-[cloaker](Infiltration_Suit.md "wikilink") favorite. The longer the fire
+[cloaker](Infiltration_Suit.md) favorite. The longer the fire
 key is held before release, the more powerful the projectile. There is a
 maximum, however, and the weapon will make a distinctive sound when the
 maximum is reached. When at maximum power, the ammo will start counting
@@ -29,12 +29,12 @@ down (to maintain power), thus careful managing of the trigger is needed
 to best conserve ammo.
 
 While the weapon is classified as a pistol, it requires the [Medium
-Assault](Medium_Assault.md "wikilink") certification to purchase, yet fits
+Assault](Medium_Assault.md) certification to purchase, yet fits
 into the pistol inventory slot, allowing its use by cloakers. In
 addition, unless the user is in the core, the base must have an
-[Equipment Module](Equipment_Module.md "wikilink") installed for the weapon
+[Equipment Module](Equipment_Module.md) installed for the weapon
 to be purchased. Many players circumvent this by placing large caches of
-the weapon into their [lockers](lockers.md "wikilink"), making them
+the weapon into their [lockers](lockers.md), making them
 available anywhere on the battlefield.
 
 <H3>
@@ -43,9 +43,9 @@ Tactics
 
 </H3>
 
-- [Elana](Elana.md "wikilink")
+- [Elana](Elana.md)
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Weapons](Category:Weapons.md "wikilink") [Category:Common Pool
-Weapons](Category:Common_Pool_Weapons.md "wikilink") [Category:Core
-Combat](Category:Core_Combat.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+Weapons](Category:Common_Pool_Weapons.md) [Category:Core
+Combat](Category:Core_Combat.md)

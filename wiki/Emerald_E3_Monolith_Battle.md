@@ -1,5 +1,5 @@
-"On May 18th through May 20th on the [Emerald](Emerald.md "wikilink")
-server, the [Monolith](Monolith.md "wikilink") [Event](Event.md "wikilink")
+"On May 18th through May 20th on the [Emerald](Emerald.md)
+server, the [Monolith](Monolith.md) [Event](Event.md)
 will make its return. Only this time the event will be running live from
 the Electronic Entertainment Expo (E3)!
 
@@ -20,18 +20,18 @@ periods:
 
 9:00am 4:00pm (EDT)
 
-Note that this [Event](Event.md "wikilink") is only going to run on the
-[Emerald](Emerald.md "wikilink") [Server](Server.md "wikilink") due to the
+Note that this [Event](Event.md) is only going to run on the
+[Emerald](Emerald.md) [Server](Server.md) due to the
 time constraints."
 
-Information about the Event released by [SOE](SOE.md "wikilink") so far.
+Information about the Event released by [SOE](SOE.md) so far.
 
 - [Syndicate
   Thread](http://comms.planetsidesyndicate.com/showthread.php?t=1688/)
 
 Since this Event is Emerald Server only, I suggest all you
-[Markov](Markov.md "wikilink") and [Werner](Werner.md "wikilink") people make
-some Alts on Emerald and join the [Monolith](Monolith.md "wikilink")
+[Markov](Markov.md) and [Werner](Werner.md) people make
+some Alts on Emerald and join the [Monolith](Monolith.md)
 Battle!
 
-[Category:Events](Category:Events.md "wikilink")
+[Category:Events](Category:Events.md)

@@ -7,7 +7,7 @@ other, as well as receive information regarding the current battle.
 The main interface of the in-game chat system. This is where all
 communication is sent and received.
 
-(See Also: [HUD Chat Pane](HUD.md#Status_&_Chat_Pane "wikilink"))
+(See Also: [HUD Chat Pane](HUD.md#Status_&_Chat_Pane))
 
 ## Sections
 
@@ -16,12 +16,12 @@ The chat HUD is made up of different sections and buttons.
 ### Status Area
 
 This is the top half of the chat HUD that displays [System
-Messages](#System_Messages "wikilink")
+Messages](#System_Messages)
 
 ### Chat Area
 
 This is the bottom half of the chat HUD that displays [Chat
-Messages](#Chat_Messages "wikilink")
+Messages](#Chat_Messages)
 
 ### Text entry
 
@@ -54,7 +54,7 @@ following manner:
 
 At times, the names will appear in brackets ( \[name\] ) to indicate
 that the specific player was inside a vehicle or
-[turret](turret.md "wikilink") at the time of the kill/death.
+[turret](turret.md) at the time of the kill/death.
 
 These messages can be used to determine the current status of the battle
 at hand, from warning nearby players that an enemy is near to informing
@@ -62,23 +62,23 @@ friendly soldiers that an enemy vehicle has been destroyed.
 
 These messages are color-coded per empire.
 
-- Red Name - [Terran Republic](Terran_Republic.md "wikilink") Soldier
-- Purple Name - [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
+- Red Name - [Terran Republic](Terran_Republic.md) Soldier
+- Purple Name - [Vanu Sovereignty](Vanu_Sovereignty.md)
   Soldier
-- Blue Name - [New Conglomerate](New_Conglomerate.md "wikilink") Soldier
+- Blue Name - [New Conglomerate](New_Conglomerate.md) Soldier
 
 <!-- -->
 
 - White Name - This can occur if a player is killed by projectiles
   that are not "owned" by anyone. This can occur with slow projectiles
-  like [Flail](Flail.md "wikilink") projectiles and [Orbital
-  Strikes](Orbital_Strike.md "wikilink") when the player that fired them
+  like [Flail](Flail.md) projectiles and [Orbital
+  Strikes](Orbital_Strike.md) when the player that fired them
   logs off before the projectile hits. Being killed by a flail weapon
   directly (before it hits the ground) will also result in white
-  killspam. Special CSR abilities like [meteor](meteor.md "wikilink")
+  killspam. Special CSR abilities like [meteor](meteor.md)
   showers or CSR Orbital Strikes also appear as white in the killspam.
   In these cases the name of the
-  [weapon](weapon.md "wikilink")/[vehicle](vehicle.md "wikilink") that
+  [weapon](weapon.md)/[vehicle](vehicle.md) that
   killed the player is listed under <killing player name> (ie.
   orbital_strike_big, orbital_strike_small, Mosquito) and a white
   skull as <weapon icon>.
@@ -94,8 +94,8 @@ information and status. They are white in color by default. Typical
 messages include:
 
 - Character has been saved
-- [Cavern](Cavern.md "wikilink") closure warnings and/or notices
-- [Implant](Implant.md "wikilink") Status
+- [Cavern](Cavern.md) closure warnings and/or notices
+- [Implant](Implant.md) Status
 - System errors
 
 ## Tactical Information
@@ -103,16 +103,16 @@ messages include:
 These messages are the same color as System Messages, but provide
 tactical information pertinent to the empire. Messages include:
 
-- [LLU](LLU.md "wikilink") Messages
+- [LLU](LLU.md) Messages
 - Facility Capture Messages
-- [Continental Capture](Continental_lock.md "wikilink") Messages
-- [Empire Benefit](Empire_Benefit.md "wikilink") Messages (typically in
+- [Continental Capture](Continental_lock.md) Messages
+- [Empire Benefit](Empire_Benefit.md) Messages (typically in
   <font color="yellow">Yellow</font>)
 - Facility warning messages
-  - Low [NTU](NTU.md "wikilink") warning
+  - Low [NTU](NTU.md) warning
   - Hacked facility warning
-  - [Alert](Alert.md "wikilink") status
-  - [Force Dome](Force_Dome.md "wikilink") status
+  - [Alert](Alert.md) status
+  - [Force Dome](Force_Dome.md) status
 
 ## Vehicle Warnings/Status
 
@@ -120,8 +120,8 @@ These messages are either <font color="red">Red</font> or white,
 depending on the message.
 
 - <font color="red">Vehicle Stolen!</font> will appear if an enemy
-  [Jacked](Jack.md "wikilink") your vehicle or one of your deployed
-  [One-Manned Field Turrets](One-Manned_Field_Turret.md "wikilink"). The
+  [Jacked](Jack.md) your vehicle or one of your deployed
+  [One-Manned Field Turrets](One-Manned_Field_Turret.md). The
   message will also display in the center of your screen.
 - Deconstruction Warnings will be desplayed in red if your vehicle is
   too close to certain objects and will deconstruct if not moved
@@ -145,14 +145,14 @@ colors, and information about each.
   20 to 30 meters of each other. This channel also has certain rules:
   - Each empire has a separate local channel, in that you cannot
     pick up or transmit to an enemy local channel
-  - Any [voice macros](voice_macro.md "wikilink") within local range
+  - Any [voice macros](voice_macro.md) within local range
     used by both friendly and enemy soldiers will appear in this
     channel to you
 - Broadcast - <font color="#C0C0FF">Purple</font> - Channel used for
   communicating to all friendly soldiers within the same friendly
-  [SOI](SOI.md "wikilink") or continental wide if continent is
-  [locked](Continental_lock.md "wikilink") by the player's own empire.
-- [Private](Tell.md "wikilink") - <font color="#66CCFF">Blue</font> -
+  [SOI](SOI.md) or continental wide if continent is
+  [locked](Continental_lock.md) by the player's own empire.
+- [Private](Tell.md) - <font color="#66CCFF">Blue</font> -
   Used for private communication between players. Can be used to
   communicate with enemy soldiers.
 - Squad - <font color="#FFDC00">Yellow</font> - Channel used by squad
@@ -162,31 +162,31 @@ colors, and information about each.
     Channel used by squad leaders to communicate with eachother
     across an entire continent.
 - Platoon - <font color="#FF8A00">Orange</font> - Similar to squad
-  chat, it allows members of the same [platoon](platoon.md "wikilink") to
+  chat, it allows members of the same [platoon](platoon.md) to
   communicate with eachother at an unlimited range.
   - Platoon Leader - <font color="#CC967A">Brown</font> - Channel
     used solely by leaders of each squad in the same platoon to
     coordinate platoon movement.
 - Outfit - <font color="#40FF40">Green</font> - Channel used by
-  members of the same [outfit](outfit.md "wikilink") to communicate with
+  members of the same [outfit](outfit.md) to communicate with
   eachother at an unlimited range.
 - Command - <font color="#80FFD4">Teal</font> - Channel used by
-  soldiers of the same [Command Rank](Command_Rank.md "wikilink")
+  soldiers of the same [Command Rank](Command_Rank.md)
   (Command Rank 2 or above), as well as continental and global
-  messages sent by friendly [CR5s](CR5.md "wikilink"), with range varying
+  messages sent by friendly [CR5s](CR5.md), with range varying
   on command rank. Situation Reports, reports that a Commander can
   send to Commanders that are one level above him, also use this
   color.
   - Command Rank 2 - Small range, close to the range of an
-    [SOI](SOI.md "wikilink")
+    [SOI](SOI.md)
   - Command Rank 3 - Medium range, close to about 3
-    [SOIs](SOI.md "wikilink")
+    [SOIs](SOI.md)
   - Command Rank 4 - Continental range, seen by all CR4 soldiers on
     the same continent
   - Command Rank 5 - Global range, seen by all CR5 soldiers on the
     server
 - CSR World Broadcast - <font color="#FF8080">Red</font> - **This
-  channel can only be used by [CSRs](CSR.md "wikilink")**, yet can be
+  channel can only be used by [CSRs](CSR.md)**, yet can be
   seen by all players of all empires on the same server.
   - CSR Tell - Used by CSRs for private communication between the
     CSR and player, similar to the regular tell, except for its
@@ -274,7 +274,7 @@ Players can send chat to different channels using a variety of commands.
 
 It is possible to customize the color of chat messages you send.
 
-Please see [Color Codes](Color_Codes.md "wikilink") for details on how to
+Please see [Color Codes](Color_Codes.md) for details on how to
 do this.
 
-[Category:Communication](Category:Communication.md "wikilink")
+[Category:Communication](Category:Communication.md)

@@ -2,11 +2,11 @@
 
 |                            |                                                    |
 | -------------------------- | -------------------------------------------------- |
-| **Certification Required** | [Heavy Assault](Heavy_Assault.md "wikilink")       |
-| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink") |
+| **Certification Required** | [Heavy Assault](Heavy_Assault.md)       |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md) |
 | **Primary Mode**           | Energy Orb                                         |
-| **Secondary Mode**         | [Armor Piercing](Armor_Piercing.md "wikilink") Orb |
-| **Ammunition**             | [Energy Cells](Energy_Cell.md "wikilink")          |
+| **Secondary Mode**         | [Armor Piercing](Armor_Piercing.md) Orb |
+| **Ammunition**             | [Energy Cells](Energy_Cell.md)          |
 | **Range**                  | 90m                                                |
 | **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                              |
 | **Magazine Capacity**      | 35                                                 |
@@ -14,25 +14,25 @@
 
 **Lasher**
 
-The [Lasher](Lasher.md "wikilink") is the [Heavy
-Assault](Heavy_Assault.md "wikilink") weapon of the [Vanu
-Sovereignty](Vanu_Sovereignty.md "wikilink"). It quickly fires energy orbs
+The [Lasher](Lasher.md) is the [Heavy
+Assault](Heavy_Assault.md) weapon of the [Vanu
+Sovereignty](Vanu_Sovereignty.md). It quickly fires energy orbs
 which do significant damage on contact, as well as "Lashing" (When an
 orb brushes by the target) nearby enemy targets for minor damage. The
-orbs travel fairly quickly (as of patch [3.15.29](3.md.15.29 "wikilink"))
-but suffer from [damage degradation](Damage_Degradation.md "wikilink") at
+orbs travel fairly quickly (as of patch [3.15.29](3.md.15.29))
+but suffer from [damage degradation](Damage_Degradation.md) at
 longer ranges. Enemies closer than 5 meters from the shooter will not be
 lashed by near misses. Friendly units are immune to the lash effect at
 all ranges, though they will still take damage upon direct hits. The
 near miss lash does low damage on its own and is best used for
-discovering [cloakers](cloaker.md "wikilink") and making the enemy's
-[COF](COF.md "wikilink") bloom from the damage. However, it is still strong
+discovering [cloakers](cloaker.md) and making the enemy's
+[COF](COF.md) bloom from the damage. However, it is still strong
 enough to make many enemies retreat if they are hiding behind a wall and
 is especially effective in groups of users.
 
-The secondary [Armor Piercing](Armor_Piercing.md "wikilink") fire mode is
-best used against [MAXes](MAX.md "wikilink") and light
-[vehicles](vehicle.md "wikilink"). This mode lacks the lash effect and the
+The secondary [Armor Piercing](Armor_Piercing.md) fire mode is
+best used against [MAXes](MAX.md) and light
+[vehicles](vehicle.md). This mode lacks the lash effect and the
 orbs are colored purple.
 
 A non-native user will be unable to obtain the energy ammunition from
@@ -42,15 +42,15 @@ Shots to kill (With direct orb contact within 20m.):
 
 |                                                          |                                             |
 | -------------------------------------------------------- | ------------------------------------------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md "wikilink")     | 4 shots                                     |
-| [Agile Exo-Suit](Agile_Exo-Suit.md "wikilink")           | 5 shots                                     |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md "wikilink") | 6 shots                                     |
-| [MAX](MAX.md "wikilink")                                 | 28 [AP](Armor_Piercing.md "wikilink") shots |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 4 shots                                     |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 5 shots                                     |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 6 shots                                     |
+| [MAX](MAX.md)                                 | 28 [AP](Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](MedKit.md "wikilink"), [Implants](Implants.md "wikilink") or [Empire
-Incentives](Empire_Incentives.md "wikilink") applied)
+[MedKits](MedKit.md), [Implants](Implants.md) or [Empire
+Incentives](Empire_Incentives.md) applied)
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Weapons](Category:Weapons.md "wikilink") [Category:Vanu
-Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Weapons](Category:Weapons.md) [Category:Vanu
+Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

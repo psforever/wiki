@@ -9,11 +9,11 @@
 | Climate:                                    | Humid, Temperate                                                                      |
 | Landmass:                                   | Continent                                                                             |
 | Terrain:                                    | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains.    |
-| [Facilities](Facilities.md "wikilink"):     | 11                                                                                    |
-| [Towers](Tower.md "wikilink"):              | 18                                                                                    |
-| Active [Warpgates](Warpgate.md "wikilink"): | 4                                                                                     |
-| Active [Geowarps](Geowarp.md "wikilink"):   | 1                                                                                     |
-| [Capitol](Capitol.md "wikilink"):           | [Interlink Facility](Interlink_Facility.md "wikilink") [Voltan](Voltan.md "wikilink") |
+| [Facilities](Facilities.md):     | 11                                                                                    |
+| [Towers](Tower.md):              | 18                                                                                    |
+| Active [Warpgates](Warpgate.md): | 4                                                                                     |
+| Active [Geowarps](Geowarp.md):   | 1                                                                                     |
+| [Capitol](Capitol.md):           | [Interlink Facility](Interlink_Facility.md) [Voltan](Voltan.md) |
 
 ## Description
 
@@ -25,56 +25,56 @@ This lush, temperate continent has low-lying hills and boggy swamps
 dotting the terrain that lure the unwary into thinking straight-line of
 travel would be easiest, much to their later dismay.
 
-The [continent](continent.md "wikilink") is divided by a river in the
+The [continent](continent.md) is divided by a river in the
 center which splits and surrounds an island on its way through the
-continent. On this island is the [Capitol](Capitol.md "wikilink") of
-Hossin, [Voltan](Voltan.md "wikilink"), an [Interlink
-Facility](Interlink_Facility.md "wikilink").
+continent. On this island is the [Capitol](Capitol.md) of
+Hossin, [Voltan](Voltan.md), an [Interlink
+Facility](Interlink_Facility.md).
 
-Hossin is a [Home Continent](Home_Continent.md "wikilink"). A
-[Sanctuary](Sanctuary.md "wikilink") warpgate links to the
-[Mulac](Mulac.md "wikilink") Technology Plant in the south east. The
-continent's other [warpgates](warpgate.md "wikilink") link from
-[Ghanon](Ghanon.md "wikilink") to [Sungrey](Sungrey.md "wikilink") on
-[Amerish](Amerish.md "wikilink"), [Hurakan](Hurakan.md "wikilink") to
-[Wakea](Wakea.md "wikilink") on [Searhus](Searhus.md "wikilink"), and
-[Chac](Chac.md "wikilink") to [Baal](Baal.md "wikilink") on
-[Ishundar](Ishundar.md "wikilink"). See [Home
-Continent](Home_Continent.md "wikilink") for the current empire sanctuary
+Hossin is a [Home Continent](Home_Continent.md). A
+[Sanctuary](Sanctuary.md) warpgate links to the
+[Mulac](Mulac.md) Technology Plant in the south east. The
+continent's other [warpgates](warpgate.md) link from
+[Ghanon](Ghanon.md) to [Sungrey](Sungrey.md) on
+[Amerish](Amerish.md), [Hurakan](Hurakan.md) to
+[Wakea](Wakea.md) on [Searhus](Searhus.md), and
+[Chac](Chac.md) to [Baal](Baal.md) on
+[Ishundar](Ishundar.md). See [Home
+Continent](Home_Continent.md) for the current empire sanctuary
 links.
 
 This continent is also refered to as
-[Hos](Acronyms_and_Slang.md "wikilink").
+[Hos](Acronyms_and_Slang.md).
 
 Source: PlanetSide In-game descriptions, pre- and
-post-[Bending](Bending.md "wikilink").
+post-[Bending](Bending.md).
 
-## Base [Facilities](Facilities.md "wikilink")
+## Base [Facilities](Facilities.md)
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](Amp_Station.md)
 
-- [Ixtab](Ixtab.md "wikilink") ([Sub-Capitol](Sub-Capitol.md "wikilink"))
+- [Ixtab](Ixtab.md) ([Sub-Capitol](Sub-Capitol.md))
 
-### [Bio Laboratories](Bio_Laboratories.md "wikilink")
+### [Bio Laboratories](Bio_Laboratories.md)
 
-- [Acan](Acan.md "wikilink") (Sub-Capitol)
-- [Bitol](Bitol.md "wikilink") (Sub-Capitol)
-- [Zotz](Zotz.md "wikilink")
+- [Acan](Acan.md) (Sub-Capitol)
+- [Bitol](Bitol.md) (Sub-Capitol)
+- [Zotz](Zotz.md)
 
-### [Dropship Centers](Dropship_Centers.md "wikilink")
+### [Dropship Centers](Dropship_Centers.md)
 
-- [Naum](Naum.md "wikilink") (Sub-Capitol)
+- [Naum](Naum.md) (Sub-Capitol)
 
-### [Interlink Facilities](Interlink_Facilities.md "wikilink")
+### [Interlink Facilities](Interlink_Facilities.md)
 
-- [Hurakan](Hurakan.md "wikilink")
-- [Kisin](Kisin.md "wikilink")
-- [Voltan](Voltan.md "wikilink") ([Capitol](Capitol.md "wikilink"))
+- [Hurakan](Hurakan.md)
+- [Kisin](Kisin.md)
+- [Voltan](Voltan.md) ([Capitol](Capitol.md))
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](Technology_Plant.md)
 
-- [Chac](Chac.md "wikilink")
-- [Ghanon](Ghanon.md "wikilink")
-- [Mulac](Mulac.md "wikilink")
+- [Chac](Chac.md)
+- [Ghanon](Ghanon.md)
+- [Mulac](Mulac.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

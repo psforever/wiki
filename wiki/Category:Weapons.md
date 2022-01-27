@@ -1,2 +1,2 @@
 This category lists all of the weapons in
-[PlanetSide](PlanetSide.md "wikilink").
+[PlanetSide](PlanetSide.md).

@@ -84,10 +84,10 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md "wikilink") was awarded to
+This [Merit Commendation](Merit_Commendation.md) was awarded to
 players that killed an assassinator during [The Chainblade
-Massacre](The_Chainblade_Massacre.md "wikilink") [Event](Event.md "wikilink")
-in 2006 or participated in enemy [Sanctuary](Sanctuary.md "wikilink") raids
+Massacre](The_Chainblade_Massacre.md) [Event](Event.md)
+in 2006 or participated in enemy [Sanctuary](Sanctuary.md) raids
 around the same time.
 
-[Category:Merits](Category:Merits.md "wikilink")
+[Category:Merits](Category:Merits.md)

@@ -2,10 +2,10 @@
 
 |                                                                                                           |
 | --------------------------------------------------------------------------------------------------------- |
-| **This page has been classified as a [stub](stub.md "wikilink"). You can help the wiki by expanding it.** |
+| **This page has been classified as a [stub](stub.md). You can help the wiki by expanding it.** |
 
 </div>
 
 [Category:Articles marked as
-stubs](Category:Articles_marked_as_stubs.md "wikilink")
-[Category:Facilities](Category:Facilities.md "wikilink")
+stubs](Category:Articles_marked_as_stubs.md)
+[Category:Facilities](Category:Facilities.md)

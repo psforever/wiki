@@ -9,15 +9,15 @@ command rank.
 To view the tactical data, click on the Tactical toggle on the continent
 map, or press the A key.
 
-Each square is 1/4 by area of the map's [Grid](Grid.md "wikilink") squares.
+Each square is 1/4 by area of the map's [Grid](Grid.md) squares.
 
 ## Interpreting
 
 Aqua squares represent areas under surveillance, where no significant
 troop activity is detected.
 
-Purple, Red, and Blue squares indicate [VS](VS.md "wikilink"),
-[TR](TR.md "wikilink"), and [NC](NC.md "wikilink") movements, respectively.
+Purple, Red, and Blue squares indicate [VS](VS.md),
+[TR](TR.md), and [NC](NC.md) movements, respectively.
 
 Yellow areas indicate contested regions (i.e. nearly equal number of
 enemy and friendly units, or nearly equal number of two different
@@ -31,32 +31,32 @@ increases.
 Friendly troops are shown on the tactical overlay all all times. Enemy
 troops are only shown if they are in the detection range (aqua squares).
 The detection area is determined by two factors: Friendly units and
-towers. Friendly [Scout Vehicles](Light_Scout.md "wikilink") have a large
+towers. Friendly [Scout Vehicles](Light_Scout.md) have a large
 detection area while foot soldiers have a slightly smaller detection
 range. Tower detection area is determined by tower type and its
-location. [Watch towers](Watch_tower.md "wikilink") have a larger detection
-area than [Gun towers](Gun_tower.md "wikilink") or [Air
-towers](Air_tower.md "wikilink"). Because of interference, towers close to
+location. [Watch towers](Watch_tower.md) have a larger detection
+area than [Gun towers](Gun_tower.md) or [Air
+towers](Air_tower.md). Because of interference, towers close to
 bases have smaller detection areas than those in the open
-([Warpgate](Warpgate.md "wikilink") outpost towers).
+([Warpgate](Warpgate.md) outpost towers).
 
 ## Undetectable Units
 
 Certain enemy units do not show up on the tactical overlay. These
 include:
 
-- Cloaked Units (Cloaked Infiltrators, [Wraiths](Wraith.md "wikilink"),
-  and [Phantasms](Phantasm.md "wikilink"))
-- Support Vehicles ([AMS](AMS.md "wikilink"),
-  [Router](Router.md "wikilink"), and [Lodestar](Lodestar.md "wikilink"))
-- Special Operation Vehicles ([Galaxy](Galaxy.md "wikilink"),
-  [Leviathan](Leviathan.md "wikilink"),
-  [Juggernaut](Juggernaut.md "wikilink"), and
-  [Vindicator](Vindicator.md "wikilink"))
-- Gate Shielded (any unit inside a [Warpgate](Warpgate.md "wikilink") or
-  active [Geowarp](Geowarp.md "wikilink") bubble)
+- Cloaked Units (Cloaked Infiltrators, [Wraiths](Wraith.md),
+  and [Phantasms](Phantasm.md))
+- Support Vehicles ([AMS](AMS.md),
+  [Router](Router.md), and [Lodestar](Lodestar.md))
+- Special Operation Vehicles ([Galaxy](Galaxy.md),
+  [Leviathan](Leviathan.md),
+  [Juggernaut](Juggernaut.md), and
+  [Vindicator](Vindicator.md))
+- Gate Shielded (any unit inside a [Warpgate](Warpgate.md) or
+  active [Geowarp](Geowarp.md) bubble)
 
 Occupants of undetectable units are also undetectable (e.g. galaxy
 passengers)
 
-[Category:Terminology](Category:Terminology.md "wikilink")
+[Category:Terminology](Category:Terminology.md)

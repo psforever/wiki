@@ -1,5 +1,5 @@
 ![](images/AscensionMap.jpg "fig:AscensionMap.jpg")
-[thumb](image:Ascension_Terrain.md.jpg "wikilink")
+[thumb](image:Ascension_Terrain.md.jpg)
 
 |                      |                                       |
 | -------------------- | ------------------------------------- |
@@ -25,12 +25,12 @@ for control of this island.
 
 ## Limitations
 
-As is the case with all [Battle Islands](Battle_Islands.md "wikilink"),
+As is the case with all [Battle Islands](Battle_Islands.md),
 heavy weapons and vehicles do not operate here. Not permitted are [Heavy
-Assault](Heavy_Assault.md "wikilink") weapons,
-[Reavers](Reaver.md "wikilink"), [Artillery](Artillery.md "wikilink"),
-[BFRs](BFR.md "wikilink"), [Medium Battle
-Tanks](Medium_Battle_Tank.md "wikilink") and Empire Specific
-[Deliverer](Deliverer.md "wikilink") variants.
+Assault](Heavy_Assault.md) weapons,
+[Reavers](Reaver.md), [Artillery](Artillery.md),
+[BFRs](BFR.md), [Medium Battle
+Tanks](Medium_Battle_Tank.md) and Empire Specific
+[Deliverer](Deliverer.md) variants.
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

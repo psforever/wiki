@@ -2,7 +2,7 @@
 
 ## Description
 
-The name [Oshur](Oshur.md "wikilink") was once associated with an extremely
+The name [Oshur](Oshur.md) was once associated with an extremely
 rough desert continent consisting of the broken bones of an impact
 crater. The rough badlands and choppy terrain made it relatively easy to
 hide fairly large forces in what seemed to be plain view. A giant,
@@ -10,59 +10,59 @@ unexplained avian skeleton once lay fossilized on the continent, giving
 rise to lively discussions about the Vanu that were here before.
 
 But a year ago, the event we know as [The
-Bending](The_Bending.md "wikilink") occurred, ripping apart our reality and
+Bending](The_Bending.md) occurred, ripping apart our reality and
 spreading the Auraxian continents across a dozen worlds. Oshur was
 erased or torn asunder, and in its place appeared 4 smaller landmasses
-we came to call [Battle Islands](Battle_Islands.md "wikilink")
+we came to call [Battle Islands](Battle_Islands.md)
 
 The Battle Islands have unique vehicle and weapon limitations. [Heavy
-Assault](Heavy_Assault.md "wikilink") weaponry can not be purchased or used
-on any of the islands. [BFRs](BFR.md "wikilink") and most [Technology
-Plant](Technology_Plant.md "wikilink") vehicles can not be purchased or
-used. The exceptions are the [Wasp](Wasp.md "wikilink"),
-[Phantasm](Phantasm.md "wikilink"), and [Skyguard](Skyguard.md "wikilink"),
-which can be purchased on [Desolation](Desolation.md "wikilink") and used
-on any Battle Island. The [Thunderer](Thunderer.md "wikilink"),
-[Aurora](Aurora.md "wikilink"), [Raider](Raider.md "wikilink"), [Galaxy
-Gunship](Galaxy_Gunship.md "wikilink"), and [Flail](Flail.md "wikilink") are
+Assault](Heavy_Assault.md) weaponry can not be purchased or used
+on any of the islands. [BFRs](BFR.md) and most [Technology
+Plant](Technology_Plant.md) vehicles can not be purchased or
+used. The exceptions are the [Wasp](Wasp.md),
+[Phantasm](Phantasm.md), and [Skyguard](Skyguard.md),
+which can be purchased on [Desolation](Desolation.md) and used
+on any Battle Island. The [Thunderer](Thunderer.md),
+[Aurora](Aurora.md), [Raider](Raider.md), [Galaxy
+Gunship](Galaxy_Gunship.md), and [Flail](Flail.md) are
 also prohibited.
 
 This collection of Battle Islands is sometimes refered to as
-[BI](Acronyms_and_Slang.md "wikilink").
+[BI](Acronyms_and_Slang.md).
 
-### [Nexus](Nexus.md "wikilink")
+### [Nexus](Nexus.md)
 
-### [Ascension](Ascension.md "wikilink")
+### [Ascension](Ascension.md)
 
-### [Desolation](Desolation.md "wikilink")
+### [Desolation](Desolation.md)
 
-### [Extinction](Extinction.md "wikilink")
+### [Extinction](Extinction.md)
 
-## [Facilities](Facilities.md "wikilink")
+## [Facilities](Facilities.md)
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](Amp_Station.md)
 
-- [Mithra](Mithra.md "wikilink"), [Extinction](Extinction.md "wikilink")
-- [Sraosha](Sraosha.md "wikilink"), [Ascension](Ascension.md "wikilink")
+- [Mithra](Mithra.md), [Extinction](Extinction.md)
+- [Sraosha](Sraosha.md), [Ascension](Ascension.md)
 
-### [Bio Laboratories](Bio_Laboratory.md "wikilink")
+### [Bio Laboratories](Bio_Laboratory.md)
 
-- [Rashnu](Rashnu.md "wikilink"), [Ascension](Ascension.md "wikilink")
-- [Yazata](Yazata.md "wikilink"), [Extinction](Extinction.md "wikilink")
+- [Rashnu](Rashnu.md), [Ascension](Ascension.md)
+- [Yazata](Yazata.md), [Extinction](Extinction.md)
 
-### [Dropship Centers](Dropship_Center.md "wikilink")
+### [Dropship Centers](Dropship_Center.md)
 
-- [Atar](Atar.md "wikilink"), [Nexus](Nexus.md "wikilink")
+- [Atar](Atar.md), [Nexus](Nexus.md)
 
-### [Interlink Facilities](Interlink_Facility.md "wikilink")
+### [Interlink Facilities](Interlink_Facility.md)
 
-- [Hvar](Hvar.md "wikilink"), [Extinction](Extinction.md "wikilink")
-- [Zal](Zal.md "wikilink"), [Ascension](Ascension.md "wikilink")
+- [Hvar](Hvar.md), [Extinction](Extinction.md)
+- [Zal](Zal.md), [Ascension](Ascension.md)
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](Technology_Plant.md)
 
-- [Dahaka](Dahaka.md "wikilink"), [Desolation](Desolation.md "wikilink")
-- [Izha](Izha.md "wikilink"), [Desolation](Desolation.md "wikilink")
-- [Jamshid](Jamshid.md "wikilink"), [Desolation](Desolation.md "wikilink")
+- [Dahaka](Dahaka.md), [Desolation](Desolation.md)
+- [Izha](Izha.md), [Desolation](Desolation.md)
+- [Jamshid](Jamshid.md), [Desolation](Desolation.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

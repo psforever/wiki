@@ -1,13 +1,13 @@
 ![](images/Barracksdownstairs.jpg "fig:Barracksdownstairs.jpg") barracks\]\]
 This room is typically located one level beneath the
-[lounge](lounge.md "wikilink") in all [facilities](facilities.md "wikilink")
-(excluding [Bio Labs](Bio_Laboratory.md "wikilink"), which have a [Research
-Room](Research_Room.md "wikilink")).
+[lounge](lounge.md) in all [facilities](facilities.md)
+(excluding [Bio Labs](Bio_Laboratory.md), which have a [Research
+Room](Research_Room.md)).
 
-The barracks contain two rows of [lockers](lockers.md "wikilink"), a
-[Medical Terminal](Medical_Terminal.md "wikilink"), and a row of cryo beds
+The barracks contain two rows of [lockers](lockers.md), a
+[Medical Terminal](Medical_Terminal.md), and a row of cryo beds
 for soldiers feeling under the weather.
 
 A door at the bottom leads into the facility basement.
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

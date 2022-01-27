@@ -1,5 +1,5 @@
-To aid navigation, each [Continental](Continent.md "wikilink") and
-[Cavern](Cavern.md "wikilink") [map](Continental_Map.md "wikilink") is divided
+To aid navigation, each [Continental](Continent.md) and
+[Cavern](Cavern.md) [map](Continental_Map.md) is divided
 into a **grid** of squares.
 
 Each grid location is referenced by "letter-number", with letters
@@ -9,8 +9,8 @@ _1_ going from top to bottom. Therefore, the top left corner is _A1_.
 The actual area of each square varies by map.
 
 Additionally, the grid coordinates for the square you are currently in
-is displayed in your [Proximity Map](Proximity_Map.md "wikilink"), and the
-locations of [squad](squad.md "wikilink") and [platoon](platoon.md "wikilink")
-members is displayed under their name on the [HUD](HUD.md "wikilink").
+is displayed in your [Proximity Map](Proximity_Map.md), and the
+locations of [squad](squad.md) and [platoon](platoon.md)
+members is displayed under their name on the [HUD](HUD.md).
 
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](category:Terminology.md)

@@ -1,34 +1,34 @@
 Weather on Auraxian Planets has three distinct flavors, and are
 predictable based upon the climate of the host body.
 
-### [Snowstorms](Snowstorms.md "wikilink")
+### [Snowstorms](Snowstorms.md)
 
 occur on:
 
-- [Ceryshen](Ceryshen.md "wikilink")
-- [Esamir](Esamir.md "wikilink")
-- [Nexus](Nexus.md "wikilink")
+- [Ceryshen](Ceryshen.md)
+- [Esamir](Esamir.md)
+- [Nexus](Nexus.md)
 
-### [Sandstorms](Sandstorms.md "wikilink")
-
-occur on:
-
-- [Desolation](Desolation.md "wikilink")
-- [Ishundar](Ishundar.md "wikilink")
-- [Oshur Prime](Oshur_Prime.md "wikilink")
-- [Solsar](Solsar.md "wikilink")
-
-### [Rainstorms](Rainstorms.md "wikilink")
+### [Sandstorms](Sandstorms.md)
 
 occur on:
 
-- [Amerish](Amerish.md "wikilink")
-- [Ascension](Ascension.md "wikilink")
-- [Cyssor](Cyssor.md "wikilink")
-- [Extinction](Extinction.md "wikilink")
-- [Forseral](Forseral.md "wikilink")
-- [Hossin](Hossin.md "wikilink")
-- [Sanctuaries](Sanctuary.md "wikilink")
-- [Searhus](Searhus.md "wikilink")
+- [Desolation](Desolation.md)
+- [Ishundar](Ishundar.md)
+- [Oshur Prime](Oshur_Prime.md)
+- [Solsar](Solsar.md)
 
-[Category:Weather](Category:Weather.md "wikilink")
+### [Rainstorms](Rainstorms.md)
+
+occur on:
+
+- [Amerish](Amerish.md)
+- [Ascension](Ascension.md)
+- [Cyssor](Cyssor.md)
+- [Extinction](Extinction.md)
+- [Forseral](Forseral.md)
+- [Hossin](Hossin.md)
+- [Sanctuaries](Sanctuary.md)
+- [Searhus](Searhus.md)
+
+[Category:Weather](Category:Weather.md)

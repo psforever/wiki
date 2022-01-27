@@ -4,11 +4,11 @@
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Assault Buggy                                                                                                                 |
 | **Role**                   | Anti-Aircraft                                                                                                                       |
-| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)> "wikilink") or [Light Scout](Light_Scout.md "wikilink")                             |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")                                                                                            |
-| **Primary Weapon**         | [Flak](Flak.md "wikilink") Cannon                                                                                                   |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](Light_Scout.md)                             |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                            |
+| **Primary Weapon**         | [Flak](Flak.md) Cannon                                                                                                   |
 | **Secondary Weapon**       | 12mm machine gun                                                                                                                    |
-| **Ammunition Used**        | [Flak Cannon Ammunition](Flak_Cannon_Ammunition.md "wikilink") and [Rotary Chaingun Bullets](Rotary_Chaingun_Bullets.md "wikilink") |
+| **Ammunition Used**        | [Flak Cannon Ammunition](Flak_Cannon_Ammunition.md) and [Rotary Chaingun Bullets](Rotary_Chaingun_Bullets.md) |
 | **Occupants**              | 2 (Driver and Gunner)                                                                                                               |
 | **Handling**               | Good                                                                                                                                |
 | **Top speed**              | 80 kph                                                                                                                              |
@@ -23,12 +23,12 @@ any single piloted aircraft. The **Skyguard** is a very fast and agile
 vehicle, but has very light armor.
 
 The open cockpit of this vehicle will allow the driver to wear up to
-[Reinforced Exo-Suit](Reinforced_Exo-Suit.md "wikilink").
+[Reinforced Exo-Suit](Reinforced_Exo-Suit.md).
 
-The **Skyguard** was introduced in release [1.5](1.md.5 "wikilink") in
-June, 2003. [category:Vehicles](category:Vehicles.md "wikilink")
-[category:Ground Vehicles](category:Ground_Vehicles.md "wikilink")
+The **Skyguard** was introduced in release [1.5](1.md.5) in
+June, 2003. [category:Vehicles](category:Vehicles.md)
+[category:Ground Vehicles](category:Ground_Vehicles.md)
 [category:Common Pool
-Vehicles](category:Common_Pool_Vehicles.md "wikilink")
+Vehicles](category:Common_Pool_Vehicles.md)
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)

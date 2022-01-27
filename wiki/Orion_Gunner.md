@@ -217,11 +217,11 @@
 </table>
 
 This merit, available only to [Vanu
-Sovereignty](Vanu_Sovereignty.md "wikilink") players, is awarded for kills
-made by using the [VS](VS.md "wikilink") version of the [One-Manned Field
-Turret](One-Manned_Field_Turret.md "wikilink"): The
-[Orion](Orion.md "wikilink"). These kills also count towards the general
-[Turret Gunner](Turret_Gunner.md "wikilink") [Merit
-Commendation](Merit_Commendation.md "wikilink").
+Sovereignty](Vanu_Sovereignty.md) players, is awarded for kills
+made by using the [VS](VS.md) version of the [One-Manned Field
+Turret](One-Manned_Field_Turret.md): The
+[Orion](Orion.md). These kills also count towards the general
+[Turret Gunner](Turret_Gunner.md) [Merit
+Commendation](Merit_Commendation.md).
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

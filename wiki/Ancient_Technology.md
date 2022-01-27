@@ -1,8 +1,8 @@
-See also: [Core Combat](Core_Combat.md "wikilink")
+See also: [Core Combat](Core_Combat.md)
 
 Ancient Technology is used to descibe anything connected with the relics
-left behind by the [Ancients](Ancients.md "wikilink") in the various
-Asteroid [Caverns](Caverns.md "wikilink"), including their buildings and
+left behind by the [Ancients](Ancients.md) in the various
+Asteroid [Caverns](Caverns.md), including their buildings and
 sentry turrets, crystal formations, module technology, equipment and
 vehicles.
 
@@ -11,20 +11,20 @@ Technology:
 
 Equipment:
 
-- [Spiker](Spiker.md "wikilink")
-- [Maelstrom](Maelstrom.md "wikilink")
-- [Radiator](Radiator.md "wikilink")
-- [Laze Pointer](Laze_Pointer.md "wikilink")
-- [Telepad](Telepad.md "wikilink")
+- [Spiker](Spiker.md)
+- [Maelstrom](Maelstrom.md)
+- [Radiator](Radiator.md)
+- [Laze Pointer](Laze_Pointer.md)
+- [Telepad](Telepad.md)
 
 Vehicles:
 
-- [Flail](Flail.md "wikilink")
-- [Router](Router.md "wikilink")
-- [Switchblade](Switchblade.md "wikilink")
+- [Flail](Flail.md)
+- [Router](Router.md)
+- [Switchblade](Switchblade.md)
 
 Although heavily derived from the cave artifacts, the [BattleFrame
-Robotics](BattleFrame_Robotics.md "wikilink") are not generally considered
+Robotics](BattleFrame_Robotics.md) are not generally considered
 to be Ancient Technology in the technical sense.
 
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](category:Terminology.md)

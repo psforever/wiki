@@ -1,14 +1,14 @@
 ![](images/Orisha_Map.jpg "Orisha_Map.jpg")
 
-[Cyssor](Cyssor.md "wikilink")'s Southeast-most [Technology
-Plant](Technology_Plant.md "wikilink")
+[Cyssor](Cyssor.md)'s Southeast-most [Technology
+Plant](Technology_Plant.md)
 
-[Lattice](Lattice.md "wikilink") links:
+[Lattice](Lattice.md) links:
 
-- [Warpgate](Warpgate.md "wikilink")
-- [Shango](Shango.md "wikilink")
+- [Warpgate](Warpgate.md)
+- [Shango](Shango.md)
 
-One [Tower](Tower.md "wikilink") to the west, just outside the
-[SOI](SOI.md "wikilink")
+One [Tower](Tower.md) to the west, just outside the
+[SOI](SOI.md)
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)

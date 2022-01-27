@@ -3,12 +3,12 @@ ATVs.\]\]
 
 ## All-Terrain Vehicles
 
-- [Basilisk](Basilisk.md "wikilink")
-- [Fury](Fury.md "wikilink")
-- [Wraith](Wraith.md "wikilink")
+- [Basilisk](Basilisk.md)
+- [Fury](Fury.md)
+- [Wraith](Wraith.md)
 
 These light, fast, and maneuverable one-crew vehicles are available with
-the [ATV Certification.](<ATV_(Certification)> "wikilink")
+the [ATV Certification.](<ATV_(Certification)>)
 
-[Category:Game Items](Category:Game_Items.md "wikilink") [Category:Ground
-Vehicles](Category:Ground_Vehicles.md "wikilink")
+[Category:Game Items](Category:Game_Items.md) [Category:Ground
+Vehicles](Category:Ground_Vehicles.md)

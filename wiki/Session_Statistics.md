@@ -4,16 +4,16 @@ The Session Statistics display:
 
 - Session Time
 - Your Kill/Death Ratio
-- [Battle Experience Points](Battle_Experience_Points.md "wikilink")
-- [Command Experience Points](Command_Experience_Points.md "wikilink")
+- [Battle Experience Points](Battle_Experience_Points.md)
+- [Command Experience Points](Command_Experience_Points.md)
 
 These Statistics only appear if they apply:
 
-- [Assists](Assist.md "wikilink")
-- [Support Experience Points](Support_Experience_Points.md "wikilink")
+- [Assists](Assist.md)
+- [Support Experience Points](Support_Experience_Points.md)
 
 The default keyboard combination to toggle the Session Statistics is
 Ctrl+S.
 
-[Category:Game Guides](Category:Game_Guides.md "wikilink")
-[Category:Terminology](Category:Terminology.md "wikilink")
+[Category:Game Guides](Category:Game_Guides.md)
+[Category:Terminology](Category:Terminology.md)

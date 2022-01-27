@@ -1,13 +1,13 @@
-Each [vehicle](vehicle.md "wikilink") in
-[Planetside](Planetside.md "wikilink") has a different armor value.
-[Weapons](Weapon.md "wikilink") do different amounts of damage to each
+Each [vehicle](vehicle.md) in
+[Planetside](Planetside.md) has a different armor value.
+[Weapons](Weapon.md) do different amounts of damage to each
 vehicle, depending on the type of vehicle targeted. For example, the
-[Lancer](Lancer.md "wikilink") does 175 damage to ground vehicles but only
-125 damage to aircraft. Similarly, anti-aircraft [MAX](MAX.md "wikilink")
+[Lancer](Lancer.md) does 175 damage to ground vehicles but only
+125 damage to aircraft. Similarly, anti-aircraft [MAX](MAX.md)
 units do more damage to aircraft than ground vehicles. If your
-[empire](empire.md "wikilink") owns the [Cyssor](Cyssor.md "wikilink")
-[benefit](Empire_Benefit.md "wikilink"), the base armor of your vehicle is
-increased by 10%. [Amp Station](Amp_Station.md "wikilink") shields, when at
+[empire](empire.md) owns the [Cyssor](Cyssor.md)
+[benefit](Empire_Benefit.md), the base armor of your vehicle is
+increased by 10%. [Amp Station](Amp_Station.md) shields, when at
 full strength, add an additional 20% of armor. The Cyssor benefit does
 not increase the amount of shields on the vehicle, only the base armor.
 
@@ -47,7 +47,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[AMS](AMS.md "wikilink")
+[AMS](AMS.md)
 
 </td>
 <td align="center">
@@ -79,7 +79,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[ANT](ANT.md "wikilink")
+[ANT](ANT.md)
 
 </td>
 <td align="center">
@@ -111,7 +111,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Aurora](Aurora.md "wikilink")
+[Aurora](Aurora.md)
 
 </td>
 <td align="center">
@@ -143,7 +143,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Basilisk](Basilisk.md "wikilink")
+[Basilisk](Basilisk.md)
 
 </td>
 <td align="center">
@@ -175,7 +175,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Deliverer](Deliverer.md "wikilink")
+[Deliverer](Deliverer.md)
 
 </td>
 <td align="center">
@@ -207,7 +207,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Enforcer](Enforcer.md "wikilink")
+[Enforcer](Enforcer.md)
 
 </td>
 <td align="center">
@@ -239,7 +239,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Flail](Flail.md "wikilink")
+[Flail](Flail.md)
 
 </td>
 <td align="center">
@@ -271,7 +271,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Fury](Fury.md "wikilink")
+[Fury](Fury.md)
 
 </td>
 <td align="center">
@@ -303,7 +303,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Galaxy](Galaxy.md "wikilink")
+[Galaxy](Galaxy.md)
 
 </td>
 <td align="center">
@@ -335,7 +335,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Galaxy Gunship](Galaxy_Gunship.md "wikilink")<sup><b>\*</b></sup>
+[Galaxy Gunship](Galaxy_Gunship.md)<sup><b>\*</b></sup>
 
 </td>
 <td align="center">
@@ -367,7 +367,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Harasser](Harasser.md "wikilink")
+[Harasser](Harasser.md)
 
 </td>
 <td align="center">
@@ -399,7 +399,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Juggernaut](Juggernaut.md "wikilink")
+[Juggernaut](Juggernaut.md)
 
 </td>
 <td align="center">
@@ -431,7 +431,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Leviathan](Leviathan.md "wikilink")
+[Leviathan](Leviathan.md)
 
 </td>
 <td align="center">
@@ -463,7 +463,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Liberator](Liberator.md "wikilink")
+[Liberator](Liberator.md)
 
 </td>
 <td align="center">
@@ -495,7 +495,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Lightning](Lightning.md "wikilink")
+[Lightning](Lightning.md)
 
 </td>
 <td align="center">
@@ -527,7 +527,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Lodestar](Lodestar.md "wikilink")
+[Lodestar](Lodestar.md)
 
 </td>
 <td align="center">
@@ -559,7 +559,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Magrider](Magrider.md "wikilink")
+[Magrider](Magrider.md)
 
 </td>
 <td align="center">
@@ -591,7 +591,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Marauder](Marauder.md "wikilink")
+[Marauder](Marauder.md)
 
 </td>
 <td align="center">
@@ -623,7 +623,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Mosquito](Mosquito.md "wikilink")
+[Mosquito](Mosquito.md)
 
 </td>
 <td align="center">
@@ -655,7 +655,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Phantasm](Phantasm.md "wikilink")
+[Phantasm](Phantasm.md)
 
 </td>
 <td align="center">
@@ -687,7 +687,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Prowler](Prowler.md "wikilink")
+[Prowler](Prowler.md)
 
 </td>
 <td align="center">
@@ -719,7 +719,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Raider](Raider.md "wikilink")
+[Raider](Raider.md)
 
 </td>
 <td align="center">
@@ -751,7 +751,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Reaver](Reaver.md "wikilink")
+[Reaver](Reaver.md)
 
 </td>
 <td align="center">
@@ -783,7 +783,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Router](Router.md "wikilink")
+[Router](Router.md)
 
 </td>
 <td align="center">
@@ -815,7 +815,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Skyguard](Skyguard.md "wikilink")
+[Skyguard](Skyguard.md)
 
 </td>
 <td align="center">
@@ -847,7 +847,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Switchblade](Switchblade.md "wikilink")
+[Switchblade](Switchblade.md)
 
 </td>
 <td align="center">
@@ -879,7 +879,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Thresher](Thresher.md "wikilink")
+[Thresher](Thresher.md)
 
 </td>
 <td align="center">
@@ -911,7 +911,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Thunderer](Thunderer.md "wikilink")
+[Thunderer](Thunderer.md)
 
 </td>
 <td align="center">
@@ -943,7 +943,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Vanguard](Vanguard.md "wikilink")
+[Vanguard](Vanguard.md)
 
 </td>
 <td align="center">
@@ -975,7 +975,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Vindicator](Vindicator.md "wikilink")
+[Vindicator](Vindicator.md)
 
 </td>
 <td align="center">
@@ -1007,7 +1007,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Vulture](Vulture.md "wikilink")
+[Vulture](Vulture.md)
 
 </td>
 <td align="center">
@@ -1039,7 +1039,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Wasp](Wasp.md "wikilink")
+[Wasp](Wasp.md)
 
 </td>
 <td align="center">
@@ -1071,7 +1071,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Wraith](Wraith.md "wikilink")
+[Wraith](Wraith.md)
 
 </td>
 <td align="center">
@@ -1112,7 +1112,7 @@ effective armor is 10500. All values given are the effective armor.
 <tr>
 <td align="center">
 
-<b>[BFR](BFR.md "wikilink") Variant</b>
+<b>[BFR](BFR.md) Variant</b>
 
 </td>
 <td align="center">
@@ -1211,5 +1211,5 @@ BFR shields take twice as long to regenerate while standing vs. while
 crouched. Once depleted, the shields do not start regenerating for \~2
 seconds.
 
-[Category:Terminology](Category:Terminology.md "wikilink") [Category:Game
-Guides](Category:Game_Guides.md "wikilink")
+[Category:Terminology](Category:Terminology.md) [Category:Game
+Guides](Category:Game_Guides.md)

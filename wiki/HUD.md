@@ -1,1 +1,1 @@
-1.  REDIRECT [Heads-up Display](Heads-up_Display.md "wikilink")
+1.  REDIRECT [Heads-up Display](Heads-up_Display.md)

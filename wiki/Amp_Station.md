@@ -2,82 +2,82 @@
 
 |                                                                   |                                         |
 | ----------------------------------------------------------------- | --------------------------------------- |
-| [Control Console](Control_Console.md "wikilink"):                 | Roof                                    |
-| [Generator](Generator.md "wikilink"):                             | Basement                                |
-| [Spawn room](Respawn_room.md "wikilink"):                         | Level 1                                 |
-| [Vehicle Terminal](Vehicle_Terminal.md "wikilink") (Air/Ground):  | Courtyard                               |
-| [BFR Shed](BFR_Shed.md "wikilink"):                               | Courtyard                               |
-| [Lattice Logic Unit Socket](LLU.md "wikilink"):                   | Level 2                                 |
-| [Facility Linked Benefit](Facility_Linked_Benefit.md "wikilink"): | Vehicle Shields (Benefit Icon: Vehicle) |
-| [Wall Turrets](Phalanx.md "wikilink"):                            | 6                                       |
+| [Control Console](Control_Console.md):                 | Roof                                    |
+| [Generator](Generator.md):                             | Basement                                |
+| [Spawn room](Respawn_room.md):                         | Level 1                                 |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):  | Courtyard                               |
+| [BFR Shed](BFR_Shed.md):                               | Courtyard                               |
+| [Lattice Logic Unit Socket](LLU.md):                   | Level 2                                 |
+| [Facility Linked Benefit](Facility_Linked_Benefit.md): | Vehicle Shields (Benefit Icon: Vehicle) |
+| [Wall Turrets](Phalanx.md):                            | 6                                       |
 |                                                                   |                                         |
 
 ## Description
 
 ![](images/Ampstation.jpg "Ampstation.jpg")
 
-[Amp Station](Amp_Station.md "wikilink")
-[facilities](facilities.md "wikilink") are one of the most valuable
-[facilities](facilities.md "wikilink"), and one of the easiest to take as
-their [Control Console](Control_Console.md "wikilink") is located on the
+[Amp Station](Amp_Station.md)
+[facilities](facilities.md) are one of the most valuable
+[facilities](facilities.md), and one of the easiest to take as
+their [Control Console](Control_Console.md) is located on the
 roof of the facility and requires exterior travel for the defenders to
 reach it.
 
-Unique feature - [Control Console](Control_Console.md "wikilink") is on
+Unique feature - [Control Console](Control_Console.md) is on
 roof
 
 ## Amp Station Locations
 
-### [Amerish](Amerish.md "wikilink")
+### [Amerish](Amerish.md)
 
-- [Verica](Verica.md "wikilink") (Capitol)
-- [Sungrey](Sungrey.md "wikilink")
+- [Verica](Verica.md) (Capitol)
+- [Sungrey](Sungrey.md)
 
-### [Ceryshen](Ceryshen.md "wikilink")
+### [Ceryshen](Ceryshen.md)
 
-- [Akna](Akna.md "wikilink") (Sub-Capitol)
+- [Akna](Akna.md) (Sub-Capitol)
 
-### [Cyssor](Cyssor.md "wikilink")
+### [Cyssor](Cyssor.md)
 
-- [Aja](Aja.md "wikilink")
-- [Ekera](Ekera.md "wikilink")
-- [Kaang](Kaang.md "wikilink")
-- [Nzame](Nzame.md "wikilink")
-- [Pamba](Pamba.md "wikilink")
+- [Aja](Aja.md)
+- [Ekera](Ekera.md)
+- [Kaang](Kaang.md)
+- [Nzame](Nzame.md)
+- [Pamba](Pamba.md)
 
-### [Esamir](Esamir.md "wikilink")
+### [Esamir](Esamir.md)
 
-- [Freyr](Freyr.md "wikilink") (Sub-Capitol)
-- [Kvasir](Kvasir.md "wikilink")
-- [Nott](Nott.md "wikilink")
+- [Freyr](Freyr.md) (Sub-Capitol)
+- [Kvasir](Kvasir.md)
+- [Nott](Nott.md)
 
-### [Forseral](Forseral.md "wikilink")
+### [Forseral](Forseral.md)
 
-- [Eadon](Eadon.md "wikilink")
-- [Pwyll](Pwyll.md "wikilink")
+- [Eadon](Eadon.md)
+- [Pwyll](Pwyll.md)
 
-### [Hossin](Hossin.md "wikilink")
+### [Hossin](Hossin.md)
 
-- [Ixtab](Ixtab.md "wikilink") (Sub-Capitol)
+- [Ixtab](Ixtab.md) (Sub-Capitol)
 
-### [Ishundar](Ishundar.md "wikilink")
+### [Ishundar](Ishundar.md)
 
-- [Enkidu](Enkidu.md "wikilink")
+- [Enkidu](Enkidu.md)
 
-### [Oshur Battle Islands](Oshur.md "wikilink")
+### [Oshur Battle Islands](Oshur.md)
 
-- [Mithra](Mithra.md "wikilink") (Extinction)
-- [Sraosha](Sraosha.md "wikilink") (Ascension)
+- [Mithra](Mithra.md) (Extinction)
+- [Sraosha](Sraosha.md) (Ascension)
 
-### [Searhus](Searhus.md "wikilink")
+### [Searhus](Searhus.md)
 
-- [Matagi](Matagi.md "wikilink")
-- [Pele](Pele.md "wikilink")
-- [Rehua](Rehua.md "wikilink")
+- [Matagi](Matagi.md)
+- [Pele](Pele.md)
+- [Rehua](Rehua.md)
 
-### [Solsar](Solsar.md "wikilink")
+### [Solsar](Solsar.md)
 
-- [Mont](Mont.md "wikilink") (Sub-Capitol)
-- [Bastet](Bastet.md "wikilink")
+- [Mont](Mont.md) (Sub-Capitol)
+- [Bastet](Bastet.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

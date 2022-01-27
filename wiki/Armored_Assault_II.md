@@ -28,28 +28,28 @@
 
 **Armored Assault II**
 
-The **Armored Assault II** [Certification](Certification.md "wikilink")
-grants access to the [Empire](Empire.md "wikilink")-specific [Medium Battle
-Tank](Medium_Battle_Tank.md "wikilink"):
+The **Armored Assault II** [Certification](Certification.md)
+grants access to the [Empire](Empire.md)-specific [Medium Battle
+Tank](Medium_Battle_Tank.md):
 
-- [Magrider](Magrider.md "wikilink") - [Vanu
-  Sovereignty](Vanu_Sovereignty.md "wikilink")
-- [Prowler](Prowler.md "wikilink") - [Terran
-  Republic](Terran_Republic.md "wikilink")
-- [Vanguard](Vanguard.md "wikilink") - [New
-  Conglomerate](New_Conglomerate.md "wikilink")
+- [Magrider](Magrider.md) - [Vanu
+  Sovereignty](Vanu_Sovereignty.md)
+- [Prowler](Prowler.md) - [Terran
+  Republic](Terran_Republic.md)
+- [Vanguard](Vanguard.md) - [New
+  Conglomerate](New_Conglomerate.md)
 
 If a soldier can manage to acquire an enemy tank in this class, either
-by [Hacking](Hack.md "wikilink") or through [Empire
-Benefits](Empire_Benefit.md "wikilink"), this
-[Certification](Certification.md "wikilink") will also allow driving of the
+by [Hacking](Hack.md) or through [Empire
+Benefits](Empire_Benefit.md), this
+[Certification](Certification.md) will also allow driving of the
 enemy tank.
 
 This Certification is a pre-requisite to the
-[Flail](</Flail_(Certification)> "wikilink") and [BattleFrame
-Robotics](</BFR_(Certification)> "wikilink") Certifications.
+[Flail](</Flail_(Certification)>) and [BattleFrame
+Robotics](</BFR_(Certification)>) Certifications.
 
 This Certification requires [Armored Assault
-I](Armored_Assault_I.md "wikilink") in order to be obtainable.
+I](Armored_Assault_I.md) in order to be obtainable.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](Category:Certification.md)

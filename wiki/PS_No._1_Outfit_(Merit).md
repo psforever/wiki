@@ -34,12 +34,12 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md "wikilink") was awarded to
-the winners of an Inter-[Outfit](Outfit.md "wikilink") Tournament held on
-the Chinese [PlanetSide](PlanetSide.md "wikilink") Servers
-("[ChinaSide](ChinaSide.md "wikilink")"). This Tournament involved 30
+This [Merit Commendation](Merit_Commendation.md) was awarded to
+the winners of an Inter-[Outfit](Outfit.md) Tournament held on
+the Chinese [PlanetSide](PlanetSide.md) Servers
+("[ChinaSide](ChinaSide.md)"). This Tournament involved 30
 players from 14 different Outfits competing for dominance.
 
 The Outfit "CHINA TRIBES LEAGUE" won the Tournament and it's Members
 received the Merit as reward.
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

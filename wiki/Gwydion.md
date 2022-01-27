@@ -1,4 +1,4 @@
-Gwydion is one of [Neit](Neit.md "wikilink")'s
-[Sub-Capitols](Sub-Capitol.md "wikilink").
+Gwydion is one of [Neit](Neit.md)'s
+[Sub-Capitols](Sub-Capitol.md).
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)

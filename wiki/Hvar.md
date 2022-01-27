@@ -1,13 +1,13 @@
-Hvar is [Extinction](Oshur.md#Extinction "wikilink")'s only [Interlink
-Facility](Interlink_Facility.md "wikilink") and is in the North East inside
+Hvar is [Extinction](Oshur.md#Extinction)'s only [Interlink
+Facility](Interlink_Facility.md) and is in the North East inside
 grids F8, F9, G8 and G9.
 
-It is [Lattice](Lattice.md "wikilink") Linked to:
+It is [Lattice](Lattice.md) Linked to:
 
-- [Bio Laboratory](Bio_Laboratory.md "wikilink")
-  [Yazata](Yazata.md "wikilink")
-- [Amp Station](Amp_Station.md "wikilink") [Mithra](Mithra.md "wikilink")
+- [Bio Laboratory](Bio_Laboratory.md)
+  [Yazata](Yazata.md)
+- [Amp Station](Amp_Station.md) [Mithra](Mithra.md)
 
 Hvar is a Hack-and-Hold Facility, and has no Towers close to it.
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)

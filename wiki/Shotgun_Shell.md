@@ -2,8 +2,8 @@
 
 |                          |                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
-| **Used by**              | [Mag-Scatter](Mag-Scatter.md "wikilink"), [Sweeper](Sweeper.md "wikilink"), [Jackhammer](Jackhammer.md "wikilink") |
-| **Empire**               | [Common Pool](Common_Pool.md "wikilink")                                                                           |
+| **Used by**              | [Mag-Scatter](Mag-Scatter.md), [Sweeper](Sweeper.md), [Jackhammer](Jackhammer.md) |
+| **Empire**               | [Common Pool](Common_Pool.md)                                                                           |
 | **Inventory dimensions** | 3x3                                                                                                                |
 | **Quantity per pack**    | 16 shells                                                                                                          |
 
@@ -19,12 +19,12 @@ they are very ineffective at anything beyond close proximity.
 
 The Standard Shotgun Shells are best against non-armored targets, and
 will do minimum damage to anything that has more armor than a
-[Reinforced Exo-Suit](Reinforced_Exo-Suit.md "wikilink"). In those
+[Reinforced Exo-Suit](Reinforced_Exo-Suit.md). In those
 circumstances, [Armor Piercing Shotgun
-Shells](Armor_Piercing_Shotgun_Shell.md "wikilink") are suggested.
+Shells](Armor_Piercing_Shotgun_Shell.md) are suggested.
 
 Because Shotgun Shells are only used in small arms, they can penetrate
-the shields of a [BattleFrame Robotic](BattleFrame_Robotics.md "wikilink").
+the shields of a [BattleFrame Robotic](BattleFrame_Robotics.md).
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Ammunition](Category:Ammunition.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Ammunition](Category:Ammunition.md)

@@ -34,17 +34,17 @@
 </tbody>
 </table>
 
-This [Exclusive](Exclusive_Merit_Commendations.md "wikilink") [Merit
-Commendation](Merit_Commendation.md "wikilink") is awarded to players at
-the discretion of [SOE](SOE.md "wikilink") Quality Assurance team members,
+This [Exclusive](Exclusive_Merit_Commendations.md) [Merit
+Commendation](Merit_Commendation.md) is awarded to players at
+the discretion of [SOE](SOE.md) Quality Assurance team members,
 based on continuous voluntary assistance to the
-[PlanetSide](PlanetSide.md "wikilink") [QA](QA.md "wikilink") team.
+[PlanetSide](PlanetSide.md) [QA](QA.md) team.
 
 Only four people have been awarded this merit.
 
-- JamQ ([Emerald](Emerald.md "wikilink"))
+- JamQ ([Emerald](Emerald.md))
 - Cyborgmatt (Emerald)
 - ItZMuRdA (Emerald)
-- xxBigpappaNCxx ([Markov](Markov.md "wikilink"))
+- xxBigpappaNCxx ([Markov](Markov.md))
 
-[Category:Merits](Category:Merits.md "wikilink")
+[Category:Merits](Category:Merits.md)

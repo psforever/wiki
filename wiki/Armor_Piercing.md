@@ -1,14 +1,14 @@
 "Armor Piercing" or "AP" refers to weapons, configurations, or
 ammunition that is designed to be effective against
-[Vehicles](Vehicle_Index.md "wikilink") or [MAX](MAX.md "wikilink") armor
+[Vehicles](Vehicle_Index.md) or [MAX](MAX.md) armor
 only, usually having little effect on infantry.
 
-For example, white 9mm are [Anti-Infantry](Anti-Infantry.md "wikilink"),
-while gold 9mm rounds are [Armor Piercing](Armor_Piercing.md "wikilink").
+For example, white 9mm are [Anti-Infantry](Anti-Infantry.md),
+while gold 9mm rounds are [Armor Piercing](Armor_Piercing.md).
 While the latter is effective against enemy MAXes and small vehicles, it
 will do very little damage to enemy troops.
 
 While AP is more effective than AI against vehicles, the specific
-[Anti-Vehicular](Anti-Vehicular.md "wikilink") weapons class is a better
+[Anti-Vehicular](Anti-Vehicular.md) weapons class is a better
 choice for combatting heavy armor.
-[category:Terminology](category:Terminology.md "wikilink")
+[category:Terminology](category:Terminology.md)

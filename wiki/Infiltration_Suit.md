@@ -1,13 +1,13 @@
 ![](images/Cloaker_firing.jpg "fig:Cloaker_firing.jpg")
 ![](images/TRInfilPicture.jpg "fig:TRInfilPicture.jpg") Infiltrator coming out
-of the [Implant Terminal](Implant_Terminal.md "wikilink")\]\]
+of the [Implant Terminal](Implant_Terminal.md)\]\]
 ![](images/NCInfiltrationSuit.jpg "fig:NCInfiltrationSuit.jpg") Infiltrator\]\]
 ![](images/VS_InfilSuit.jpg "fig:VS_InfilSuit.jpg") Infiltrator\]\]
 
 |                            |                                                                     |
 | -------------------------- | ------------------------------------------------------------------- |
-| **Certification Required** | [Infiltration Suit](<Infiltration_Suit_(Certification)> "wikilink") |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink")                            |
+| **Certification Required** | [Infiltration Suit](<Infiltration_Suit_(Certification)>) |
+| **Empire**                 | [Common Pool](Common_Pool.md)                            |
 | **Armor**                  | 0                                                                   |
 | **Pistol Holsters**        | 1                                                                   |
 | **Rifle Holsters**         | None                                                                |
@@ -24,7 +24,7 @@ and stealth.
 
 Wearers of the **Infiltration Suit** are commonly known as "Cloakers."
 They are visible when moving or shooting (see image) or with the use of
-the [Darklight](Darklight.md "wikilink") implant.
+the [Darklight](Darklight.md) implant.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Armor](Category:Armor.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Armor](Category:Armor.md)

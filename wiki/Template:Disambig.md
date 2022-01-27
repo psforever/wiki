@@ -7,4 +7,4 @@ destination._
 
 ---
 
-[Category:Disambiguation](Category:Disambiguation.md "wikilink")
+[Category:Disambiguation](Category:Disambiguation.md)

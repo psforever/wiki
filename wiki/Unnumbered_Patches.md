@@ -3,21 +3,21 @@
 We are releasing a patch to the client and server on August 14, 2003
 that contains the following items:
 
-- [Facility](Facility.md "wikilink") capture takes on a whole new level
+- [Facility](Facility.md) capture takes on a whole new level
   of action now that the Lattice Logic Unit is live! Details on the
   LLU are in the online manual.
 
 <!-- -->
 
-- The [Lasher](Lasher.md "wikilink") now has [Damage
-  Degradation](Damage_Degradation.md "wikilink"). While the projectile
+- The [Lasher](Lasher.md) now has [Damage
+  Degradation](Damage_Degradation.md). While the projectile
   still goes the same maximum distance, it now degrades in its
   strength, as does the lash itself. Lasher damage against armor
-  ([MAXes](MAX.md "wikilink"), vehicles) has been reduced by 30%.
+  ([MAXes](MAX.md), vehicles) has been reduced by 30%.
 
 <!-- -->
 
-- The [Starfire](Starfire.md "wikilink") AA MAX has had its damage
+- The [Starfire](Starfire.md) AA MAX has had its damage
   degradation removed and its damage has been decreased about 20%.
   This reduction is only different from the live version at ranges of
   less than 50 meters. The removal of damage degradation, however,
@@ -25,9 +25,9 @@ that contains the following items:
 
 <!-- -->
 
-- The [Basilisk](Basilisk.md "wikilink") and the
-  [Wraith](Wraith.md "wikilink") have been combined into the new 3 point
-  [ATV cert](</ATV_(Certification)> "wikilink"). Players who already have
+- The [Basilisk](Basilisk.md) and the
+  [Wraith](Wraith.md) have been combined into the new 3 point
+  [ATV cert](</ATV_(Certification)>). Players who already have
   Wraith or Basilisk certs will keep the ATV cert for now, but will be
   "in debt" to the certification system by one point. If those players
   choose to forget the ATV cert, they will have to have 3 available
@@ -36,22 +36,22 @@ that contains the following items:
 <!-- -->
 
 - Dynamically calculated [Certification
-  Point](Certification_Point.md "wikilink") system: This is to resolve
+  Point](Certification_Point.md) system: This is to resolve
   certain bugs where a player would forget a
-  [Certification](Certification.md "wikilink"), but those certification
+  [Certification](Certification.md), but those certification
   points would not be available to them.
 
 <!-- -->
 
 - An exploit that would force a base to deplete its [NTU
-  Silo](NTU_Silo.md "wikilink") by destroying the [Matrix
-  Panels](Matrix_Panel.md "wikilink") has been fixed.
+  Silo](NTU_Silo.md) by destroying the [Matrix
+  Panels](Matrix_Panel.md) has been fixed.
 
 <!-- -->
 
-- The Find [Waypoint](Waypoint.md "wikilink") button will no longer be
+- The Find [Waypoint](Waypoint.md) button will no longer be
   available when selecting a drop location from the
-  [HART](HART.md "wikilink") shuttle.
+  [HART](HART.md) shuttle.
 
 <!-- -->
 
@@ -64,13 +64,13 @@ Pacific. The patch contains the following item:
 
 - Enemies will no longer appear as moving and invulnerable corpses to
   the client.
-- [Marauder](Marauder.md "wikilink") and [Enforcer](Enforcer.md "wikilink")
+- [Marauder](Marauder.md) and [Enforcer](Enforcer.md)
   physics and handling have been fixed.
 - A zone crash associated with backpacks has been fixed.
 - Newly created vehicles should no longer deconstruct on the creation
   pad.
-- Dropped [ACEs](ACE.md "wikilink") deconstruct properly.
-- [Lightning](Lightning.md "wikilink") drivers will no longer lose their
+- Dropped [ACEs](ACE.md) deconstruct properly.
+- [Lightning](Lightning.md) drivers will no longer lose their
   reticule while on steep slopes.
 - Improved Availability of Login Servers. In other words, if the
   Launchpad says a server is up, players will be able to connect to it
@@ -175,7 +175,7 @@ apologize for the inconvenience these issues may have caused you.
 Client and Server-side patch (July 3, 2003 2:45PM Pacific on All
 Servers)
 
-- The 3-Person bomber known as the [Liberator](Liberator.md "wikilink")
+- The 3-Person bomber known as the [Liberator](Liberator.md)
   is now available. The cost is 3 Certification points.
 
 <!-- -->
@@ -188,7 +188,7 @@ Introducing the PlanetSide Test Server
 
 Today, we are introducing the much anticipated Test Server for
 PlanetSide. Stop in and preview the new features, content and fixes
-before they hit the live server. The [Liberator](Liberator.md "wikilink")
+before they hit the live server. The [Liberator](Liberator.md)
 will be making its debut on the Test Server today as well.
 
 Here's how to get to the PlanetSide Test Server preview:
@@ -207,11 +207,11 @@ This is a client and server-side fix that will take approximately 1.5
 hours to update all the servers.
 
 - Fixed a crash related to the [Orbital
-  Strike](Orbital_Strike.md "wikilink").
+  Strike](Orbital_Strike.md).
 
 <!-- -->
 
-- The ability to purchase a [Liberator](Liberator.md "wikilink")
+- The ability to purchase a [Liberator](Liberator.md)
   certification has been removed until the Liberator is available
   in-game (very soon). Note that you can still sell back the Liberator
   certification (regular cert sell-back rules apply).
@@ -306,7 +306,7 @@ More Holiday Fun:
 Watch out for the new objects appearing all over Auraxis during the
 holiday. In certain locations you might run across a snowman,
 gingerbread man, sled, or xmas tree. Exploring the world to find these
-objects might just earn you a few [Merits](Merits.md "wikilink"):
+objects might just earn you a few [Merits](Merits.md):
 
 - Holiday: Snowman - Earned by finding all 9 snowmen.
 - Holiday: Gingerbread Man - Earned by finding all 10 gingerbread men.
@@ -317,11 +317,11 @@ objects might just earn you a few [Merits](Merits.md "wikilink"):
 
 **Miscellaneous Changes:**
 
-- [Engineering](</Engineering_(Merit)> "wikilink") merits should all list
+- [Engineering](</Engineering_(Merit)>) merits should all list
   requirements
 - News Ticker has been updated with news about new merits and the xmas
   event
-- [Equipment Support](Equipment_Support.md "wikilink") merits should all
+- [Equipment Support](Equipment_Support.md) merits should all
   list requirements
 - Players that use /humbug to hide the santa hat should now be able to
   keep their usual hat flair (i.e. beret, etc)
@@ -345,9 +345,9 @@ Undocumented update
 
 Undocumented bug fix
 
-- Fixed [Darklight](Darklight.md "wikilink") icon not displaying above
+- Fixed [Darklight](Darklight.md) icon not displaying above
   both friendly and enemies names. The bug was introduced with patch
-  [3.12.12](3.md.12.12 "wikilink").
+  [3.12.12](3.md.12.12).
 
 ## Anniversary 2007 Update (5/18/2007)
 
@@ -365,9 +365,9 @@ players from 5/18/07 to 5/25/07 regardless of the limitations. We wanted
 everyone to have the chance to try out the new weapons and participate
 in the mayhem of the Four Year Anniversary! Enjoy!
 
-PISTOLS - The [Spear](Spear.md "wikilink") ([NC](NC.md "wikilink")) / The
-[Stinger](Stinger.md "wikilink") ([TR](TR.md "wikilink")) / The
-[Eraser](Eraser.md "wikilink") ([VS](VS.md "wikilink"))
+PISTOLS - The [Spear](Spear.md) ([NC](NC.md)) / The
+[Stinger](Stinger.md) ([TR](TR.md)) / The
+[Eraser](Eraser.md) ([VS](VS.md))
 
 These Empire specific pistols are designed to be very lethal towards
 Infantry units but lack a punch in the armor piercing department
@@ -380,17 +380,17 @@ Infantry units but lack a punch in the armor piercing department
 - Secondary firing mode will unload all remaining rounds in the clip
   to produce a high amount of damage
 - Secondary firing mode has a side effect: your
-  [stamina](stamina.md "wikilink") will be completely drained, so use it
+  [stamina](stamina.md) will be completely drained, so use it
   with caution
 - Secondary firing also has a large cone of fire so be close to your
   enemy units if you want to do massive damage
 - Pistols deliver very low damage towards
-  [vehicles](vehicle.md "wikilink") and equipment
+  [vehicles](vehicle.md) and equipment
 
 MISSILE LAUNCHER with PROPELLED EXPLOSIVE - The
-[Scorpion](Scorpion.md "wikilink")
+[Scorpion](Scorpion.md)
 
-The [Scorpion](Scorpion.md "wikilink") uses a range-finder technology to
+The [Scorpion](Scorpion.md) uses a range-finder technology to
 fire 'smart' missiles from long distances
 
 - Built in Range Finder to lock in distances where your enemies are
@@ -405,12 +405,12 @@ fire 'smart' missiles from long distances
 - Available without any certification cost to 2 year veterans (based
   on your character's creation date)
 - If not a 2 year veteran, it may be purchased for 1 certification
-  point if [Special Assault](Special_Assault.md "wikilink") has already
+  point if [Special Assault](Special_Assault.md) has already
   been learned
 
-FLAMETHROWER - The [Dragon](Dragon.md "wikilink")
+FLAMETHROWER - The [Dragon](Dragon.md)
 
-The [Dragon](Dragon.md "wikilink") is a powerful flamethrower that works
+The [Dragon](Dragon.md) is a powerful flamethrower that works
 best at close ranges. The Dragon is an experimental weapon and may not
 be accessible at all times in PlanetSide. Due to the special effects of
 the flames, the Dragon may be removed from many playing conditions that
@@ -438,46 +438,46 @@ believed to be minor.
   character's creation date) and includes a three minute purchase
   timer
 
-## [6th Anniversary Update](6th_Anniversary_Update.md "wikilink") (6/18/2009)
+## [6th Anniversary Update](6th_Anniversary_Update.md) (6/18/2009)
 
-- Free [certification](certification.md "wikilink") reset
-- Increased maximum [Battle Rank](Battle_Rank.md "wikilink") from 25 to
+- Free [certification](certification.md) reset
+- Increased maximum [Battle Rank](Battle_Rank.md) from 25 to
   40
-- Added 6 year [Term of Service](Term_of_Service.md "wikilink")
-  [merit](merit.md "wikilink")
+- Added 6 year [Term of Service](Term_of_Service.md)
+  [merit](merit.md)
 
 ## BR32 Fix (6/17/2009)
 
-- Patch fixes issues with [Battle Rank](Battle_Rank.md "wikilink") 32+
+- Patch fixes issues with [Battle Rank](Battle_Rank.md) 32+
   players causing others to crash and other weird anomalies.
 
 ## Server Merge and Lasher nerf (08/25/2009)
 
-- Players moving from [Werner](Werner.md "wikilink") to
-  [Gemini](Gemini.md "wikilink") will receive a [Werner Distinguished
-  Veteran](Distinguished_Veteran.md "wikilink") [Merit](Merit.md "wikilink")
+- Players moving from [Werner](Werner.md) to
+  [Gemini](Gemini.md) will receive a [Werner Distinguished
+  Veteran](Distinguished_Veteran.md) [Merit](Merit.md)
 - Players who receive a -W or -G appended to their names will be
   allowed a one-time use of the /rename command
-- [Outfits](Outfit.md "wikilink") that receive a -W or -G appended to
+- [Outfits](Outfit.md) that receive a -W or -G appended to
   their names will be allowed a one-time use of the /outfitrename
   command (leader only)
 - We have increased the minimum number of characters allowed from 8 to
   24
-- The [Lasher](Lasher.md "wikilink")'s LASH damage has been significantly
+- The [Lasher](Lasher.md)'s LASH damage has been significantly
   reduced
-- The Lasher's [AP](Armor_Piercing.md "wikilink") Damage has been reduced
+- The Lasher's [AP](Armor_Piercing.md) Damage has been reduced
   (while in AP mode) **(Not actually implemented in-game for unknown
   reasons)**
 
 ## Game Update (10/15/2009)
 
 - Fixed a bug where players with the five year [Term of
-  Service](Term_of_Service.md "wikilink") award were unable to purchase
-  [Reinforced Exo-Suit](Reinforced_Exo-Suit.md "wikilink") armor in the
-  [Sanctuary](Sanctuary.md "wikilink") and [Amerish](Amerish.md "wikilink")
-  without the [certification](certification.md "wikilink")
-- Dramatically increased [BEP](BEP.md "wikilink") and
-  [CEP](CEP.md "wikilink") awarded for [facility](facility.md "wikilink")
+  Service](Term_of_Service.md) award were unable to purchase
+  [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) armor in the
+  [Sanctuary](Sanctuary.md) and [Amerish](Amerish.md)
+  without the [certification](certification.md)
+- Dramatically increased [BEP](BEP.md) and
+  [CEP](CEP.md) awarded for [facility](facility.md)
   captures (later rolled back in a patch shortly afterward)
 
 ## Game Update (10/22/2009)
@@ -487,29 +487,29 @@ play however this year they've decided to change things up a bit, gone
 are the flying skulls and red glowing skies which have been replaced
 with the Spooktacular Bonus Experience Days. This years event will run
 from October 22nd through November 2nd, and feature some really howling
-experience gains. [Base](Facility.md "wikilink") captures like you've never
+experience gains. [Base](Facility.md) captures like you've never
 seen before, cavern captures that will make you want you want get that
-next [BFR](BFR.md "wikilink") [imprint](imprint.md "wikilink"), and much more!
+next [BFR](BFR.md) [imprint](imprint.md), and much more!
 So go ahead and spend some time with us and let’s get that much needed
-[Battle Experience](Battle_Experience_Points.md "wikilink") and see if we
-can reach [Battle Rank](Battle_Rank.md "wikilink") 40... If you dare!!!
+[Battle Experience](Battle_Experience_Points.md) and see if we
+can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
 
-[The Chainblade Massacre](The_Chainblade_Massacre.md "wikilink") will also
+[The Chainblade Massacre](The_Chainblade_Massacre.md) will also
 pop up from time to time throughout the [Spooktacular
-Days](Spooktacular_Days.md "wikilink") so be prepared! All players will be
-able to use [Cloaking infiltration suits](Infiltration_Suit.md "wikilink")
-without need of the [certification](certification.md "wikilink") on
-[Extinction](Extinction.md "wikilink") (this is our version of ghosts).
+Days](Spooktacular_Days.md) so be prepared! All players will be
+able to use [Cloaking infiltration suits](Infiltration_Suit.md)
+without need of the [certification](certification.md) on
+[Extinction](Extinction.md) (this is our version of ghosts).
 
 - In true Halloween tradition, players will only be allowed to use a
   Knife to kill other players.
-- Players are urged to get proper [Implants](Implant.md "wikilink")
-  before entering the zone such as [Darklight](Darklight.md "wikilink")
+- Players are urged to get proper [Implants](Implant.md)
+  before entering the zone such as [Darklight](Darklight.md)
   in order to see all apparitions.
-- The zone has limited [vehicles](vehicle.md "wikilink").
+- The zone has limited [vehicles](vehicle.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This
   damage should slightly increase with [Melee
-  Booster](Melee_Booster.md "wikilink") implants.
+  Booster](Melee_Booster.md) implants.
 - Oh, and don’t worry about damage from vehicles trying to mow you
   over. That has been changed. Nor should you worry about damage from
   an exploding vehicle. Consider yourself in a zombie state under
@@ -524,7 +524,7 @@ haunting good time!
 
 Greetings Auraxians!
 
-The [Spooktacular Days](Spooktacular_Days.md "wikilink") are now over and
+The [Spooktacular Days](Spooktacular_Days.md) are now over and
 all systems have been restored back to normal.
 
 Thank you and we'll see you on the Battle Field!
@@ -540,4 +540,4 @@ use compatibility mode and/or other tricks.
 We appreciate your patience with this change and please make sure that
 you spread the word to all your fallen Vista and Windows 7 comrades!
 
-[category:Patches](category:Patches.md "wikilink")
+[category:Patches](category:Patches.md)

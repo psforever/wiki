@@ -1,13 +1,13 @@
 ![](images/PSScreenShot0317.jpg "fig:PSScreenShot0317.jpg") Standard Armor\]\]
 ![](images/NCStandardExoSuit.jpg "fig:NCStandardExoSuit.jpg") Standard
 Armor\]\] ![](images/VS_Standards.jpg "fig:VS_Standards.jpg") [Standard
-Exo-Suit](Standard_Exo-Suit.md "wikilink") at, from left to right, [Battle
-Rank](Battle_Rank.md "wikilink") 1, 7 and 14.\]\]
+Exo-Suit](Standard_Exo-Suit.md) at, from left to right, [Battle
+Rank](Battle_Rank.md) 1, 7 and 14.\]\]
 
 |                            |                                          |
 | -------------------------- | ---------------------------------------- |
 | **Certification Required** | None                                     |
-| **Empire**                 | [Common Pool](Common_Pool.md "wikilink") |
+| **Empire**                 | [Common Pool](Common_Pool.md) |
 | **Armor**                  | 50                                       |
 | **Pistol Holsters**        | 1                                        |
 | **Rifle Holsters**         | 1                                        |
@@ -17,12 +17,12 @@ Rank](Battle_Rank.md "wikilink") 1, 7 and 14.\]\]
 
 The **Standard Exo-Suit** is issued to every soldier at spawn time.
 While it does allow the wearer to run a little faster than the [Agile
-Exo-Suit](Agile_Exo-Suit.md "wikilink"), its smaller
-[inventory](inventory.md "wikilink"), single [pistol
-slot](holster.md "wikilink"), and the fact that Agile is also available
-without other [Certifications](Certifications.md "wikilink") means this
+Exo-Suit](Agile_Exo-Suit.md), its smaller
+[inventory](inventory.md), single [pistol
+slot](holster.md), and the fact that Agile is also available
+without other [Certifications](Certifications.md) means this
 armor has no practical use, other than quick defense of a base without
 power.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Armor](Category:Armor.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Armor](Category:Armor.md)

@@ -9,10 +9,10 @@
 | Climate:                                    | Temperate                                                                 |
 | Landmass:                                   | Continent                                                                 |
 | Terrain:                                    | Grassy plains, woodlands, lakes, rocky peaks, wide beaches                |
-| [Facilities](Facilities.md "wikilink"):     | 10                                                                        |
-| [Towers](Tower.md "wikilink"):              |                                                                           |
-| Active [Warpgates](Warpgate.md "wikilink"): | 4                                                                         |
-| [Capitol](Capitol.md "wikilink"):           | [Bio Laboratory](Bio_Laboratory.md "wikilink") [Neit](Neit.md "wikilink") |
+| [Facilities](Facilities.md):     | 10                                                                        |
+| [Towers](Tower.md):              |                                                                           |
+| Active [Warpgates](Warpgate.md): | 4                                                                         |
+| [Capitol](Capitol.md):           | [Bio Laboratory](Bio_Laboratory.md) [Neit](Neit.md) |
 
 ## Description
 
@@ -25,44 +25,44 @@ peaks jut up into the sky. Pockets of trees provide visual screening for
 ground troops, while ridges of mountains prevent straight-line travel
 from area-to-area.
 
-This is a home continent with a [Sanctuary](Sanctuary.md "wikilink") link
-to the technology plant of [Eadon](Eadon.md "wikilink"). See [Home
-Continent](Home_Continent.md "wikilink") for the current empire sanctuary
+This is a home continent with a [Sanctuary](Sanctuary.md) link
+to the technology plant of [Eadon](Eadon.md). See [Home
+Continent](Home_Continent.md) for the current empire sanctuary
 links.
 
 This continent is also refered to as
-[Fors](Acronyms_and_Slang.md "wikilink").
+[Fors](Acronyms_and_Slang.md).
 
 ---
 
 --source: Planetside In-game descriptions, pre- and
-post-[Bending](Bending.md "wikilink").
+post-[Bending](Bending.md).
 
-## Base [Facilities](Facilities.md "wikilink")
+## Base [Facilities](Facilities.md)
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](Amp_Station.md)
 
-- [Eadon](Eadon.md "wikilink")
-- [Pwyll](Pwyll.md "wikilink") ([Sub-Capitol](Sub-Capitol.md "wikilink"))
+- [Eadon](Eadon.md)
+- [Pwyll](Pwyll.md) ([Sub-Capitol](Sub-Capitol.md))
 
-### [Bio Laboratories](Bio_Laboratory.md "wikilink")
+### [Bio Laboratories](Bio_Laboratory.md)
 
-- [Lugh](Lugh.md "wikilink")
-- [Neit](Neit.md "wikilink") ([Capitol](Capitol.md "wikilink"))
-- [Ogma](Ogma.md "wikilink") (Sub-Capitol)
+- [Lugh](Lugh.md)
+- [Neit](Neit.md) ([Capitol](Capitol.md))
+- [Ogma](Ogma.md) (Sub-Capitol)
 
-### [Dropship Centers](Dropship_Center.md "wikilink")
+### [Dropship Centers](Dropship_Center.md)
 
-- [Bel](Bel.md "wikilink")
+- [Bel](Bel.md)
 
-### [Interlink Facilities](Interlink_Facilities.md "wikilink")
+### [Interlink Facilities](Interlink_Facilities.md)
 
-- [Caer](Caer.md "wikilink") (Sub-Capitol)
-- [Dagda](Dagda.md "wikilink")
+- [Caer](Caer.md) (Sub-Capitol)
+- [Dagda](Dagda.md)
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](Technology_Plant.md)
 
-- [Anu](Anu.md "wikilink")
-- [Gwydion](Gwydion.md "wikilink") (Sub-Capitol)
+- [Anu](Anu.md)
+- [Gwydion](Gwydion.md) (Sub-Capitol)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

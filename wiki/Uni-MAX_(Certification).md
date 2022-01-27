@@ -1,7 +1,7 @@
 |                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**               | [MAX](MAX.md "wikilink") Unit                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Provides Access To** | [Sparrow](Sparrow.md "wikilink"), [Falcon](Falcon.md "wikilink"), [Scattercannon](Scattercannon.md "wikilink") ([NC](New_Conglomerate.md "wikilink")), [Burster](Burster.md "wikilink"), [Dual Cycler](Dual_Cycler.md "wikilink"), [Pounder](Pounder.md "wikilink") ([TR](Terran_Republic.md "wikilink")), [Starfire](Starfire.md "wikilink"), [Comet](Comet.md "wikilink"), [Quasar](Quasar.md "wikilink") ([VS](Vanu_Sovereignty.md "wikilink")) |
+| **Type**               | [MAX](MAX.md) Unit                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Provides Access To** | [Sparrow](Sparrow.md), [Falcon](Falcon.md), [Scattercannon](Scattercannon.md) ([NC](New_Conglomerate.md)), [Burster](Burster.md), [Dual Cycler](Dual_Cycler.md), [Pounder](Pounder.md) ([TR](Terran_Republic.md)), [Starfire](Starfire.md), [Comet](Comet.md), [Quasar](Quasar.md) ([VS](Vanu_Sovereignty.md)) |
 | **Pre-requisite**      | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Required For**       | \-                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Cert Point Cost**    | 6                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -9,9 +9,9 @@
 **Anti-Aircraft MAX**
 
 With this you gain access to [AI
-MAX](</Anti-Infantry_MAX_(Certification)> "wikilink"), [AV
-MAX](</Anti-Vehicle_MAX_(Certification)> "wikilink"), and [AA
-MAX](</Anti-Aircraft_MAX_(Certification)> "wikilink") with a 2 point
+MAX](</Anti-Infantry_MAX_(Certification)>), [AV
+MAX](</Anti-Vehicle_MAX_(Certification)>), and [AA
+MAX](</Anti-Aircraft_MAX_(Certification)>) with a 2 point
 discount.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](Category:Certification.md)

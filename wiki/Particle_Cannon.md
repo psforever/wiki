@@ -1,12 +1,12 @@
 |                            |                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------ |
-| **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md "wikilink")                                 |
-| **Empire**                 | [New Conglomerate](New_Conglomerate.md "wikilink")                                         |
+| **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                                 |
+| **Empire**                 | [New Conglomerate](New_Conglomerate.md)                                         |
 | **Primary Mode**           | Particle Cannon                                                                            |
 | **Secondary Mode**         | \-                                                                                         |
-| **Ammunition**             | [Peregrine Particle Cannon Ammunition](Peregrine_Particle_Cannon_Ammunition.md "wikilink") |
+| **Ammunition**             | [Peregrine Particle Cannon Ammunition](Peregrine_Particle_Cannon_Ammunition.md) |
 | **Range**                  | 300m                                                                                       |
-| **Inventory Dimensions**   | [BFR](BFR.md "wikilink") Gunner Weapon                                                     |
+| **Inventory Dimensions**   | [BFR](BFR.md) Gunner Weapon                                                     |
 | **Magazine Capacity**      | 10                                                                                         |
 | **Zoom**                   | 4x                                                                                         |
 |                            |                                                                                            |
@@ -20,6 +20,6 @@ featuring a straight-line trajectory, yet relatively large cone of fire.
 The weapon leaves behind a minor irradiation field that lingers for a
 few seconds, eating away at the armor of anything inside.
 
-[Category:Game Items](Category:Game_Items.md "wikilink")
-[Category:Weapons](Category:Weapons.md "wikilink") [Category:New
-Conglomerate Weapons](Category:New_Conglomerate_Weapons.md "wikilink")
+[Category:Game Items](Category:Game_Items.md)
+[Category:Weapons](Category:Weapons.md) [Category:New
+Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

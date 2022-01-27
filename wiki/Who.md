@@ -11,7 +11,7 @@ The following "names" can be used with the "/who <name>" command:
   given.
 - **\<first 4 letter of a continent>** - Returns a list with players
   of your empire on the selected continent.
-- **CSR** - Lists all [CSR](CSR.md "wikilink")'s that are currently
+- **CSR** - Lists all [CSR](CSR.md)'s that are currently
   online (CSR has to be logged-in as a CSR for his name to show up)
 - **text** - Uses text provided to search for a player name that
   contains your text. Returns the first 25 matches.
@@ -22,11 +22,11 @@ The following "names" can be used with the "/who <name>" command:
   Leaders for your current Continent, it also shows the Squad Leaders
   Outfit
 - **teams** - Shows percentage of online players for each Empire
-- **NC** - Lists the first 25 [NC](NC.md "wikilink") on your Continent
+- **NC** - Lists the first 25 [NC](NC.md) on your Continent
   (you must be NC)
-- **TR** - Lists the first 25 [TR](TR.md "wikilink") on your Continent
+- **TR** - Lists the first 25 [TR](TR.md) on your Continent
   (you must be TR)
-- **VS** - Lists the first 25 [VS](VS.md "wikilink") on your Continent
+- **VS** - Lists the first 25 [VS](VS.md) on your Continent
   (you must be VS)
 
-[Category:Commands](Category:Commands.md "wikilink")
+[Category:Commands](Category:Commands.md)

@@ -1,4 +1,4 @@
-Implemented April 8, 2005 with version [3.5.4](3.md.5.4 "wikilink").
+Implemented April 8, 2005 with version [3.5.4](3.md.5.4).
 
 ## Squad Home Base
 
@@ -11,13 +11,13 @@ and Platoon levels. The primary functions of the system includes:
 - Request that Squad/Platoon members matrix to their self-bind points.
 - Request that Squad/Platoon members recall to Sanctuary.
 
-A Commander may use a facility's [Main Console](Main_Console.md "wikilink")
+A Commander may use a facility's [Main Console](Main_Console.md)
 to designate it as the Squad's Home Base. The home base will be
 designated on the planetary and overhead proximity maps by a
-recognizable [waypoint](waypoint.md "wikilink") marker (This waypoint is
+recognizable [waypoint](waypoint.md) marker (This waypoint is
 toggleable, just like other waypoints). When a Squad/Platoon Member
 enters the facility's SOI, they will be asked if they would like to bind
-to it. This bind will replace the soldier's [bind](bind.md "wikilink")
+to it. This bind will replace the soldier's [bind](bind.md)
 point with a new bind point to the Home Base.
 
 When a Commander wants to recall his troops to the home facility, he
@@ -32,7 +32,7 @@ but will be notified that their leader has issued the command.
 Followers will have 60 seconds to accept the recall order and must exit
 any vehicles before they can. If they accept, all implants will be
 deactivated and weapons holstered and soldiers will begin the countdown
-to rematrix to the [spawn tubes](spawn_tube.md "wikilink") of that
+to rematrix to the [spawn tubes](spawn_tube.md) of that
 location.
 
 Similar to a recall to Sanctuary, if a follower takes damage or takes
@@ -44,8 +44,8 @@ the Commander who issued the command will receive a message that the
 soldier did not respond to the command.
 
 If the respawn ability at the Soldier's Bind location becomes
-unavailable (tubes blown, [generator](generator.md "wikilink") down, base
-[hack](hack.md "wikilink") goes through and becomes enemy base, etc.) the
+unavailable (tubes blown, [generator](generator.md) down, base
+[hack](hack.md) goes through and becomes enemy base, etc.) the
 order will cancel and both the soldier and the leader will receive
 notification.
 
@@ -60,20 +60,20 @@ to be resolved before new orders are passed down.
 
 There are two different means by which a Leader can activate these
 features. Major functionality will be accessed through a facility's
-[Main Console](Main_Console.md "wikilink"). To use the Main Console, a
+[Main Console](Main_Console.md). To use the Main Console, a
 facility has to be secure (unhacked) and fully powered (generator
 online), have at least one functioning spawn tube and be in the control
 of the command leader's Empire. In order to interact with the Main
 Console, it must be repaired beyond 50% just like any other Console in
 the game. Also, the main Console cannot be hacked by enemies to gain
 access to its functionality. An [Advanced
-Hacker](Advanced_Hacking.md "wikilink") can hack the main Console of a
+Hacker](Advanced_Hacking.md) can hack the main Console of a
 friendly facility that has been hacked by an enemy
-[Empire](Empire.md "wikilink"), as long as it is powered and has at least
+[Empire](Empire.md), as long as it is powered and has at least
 one functional spawn tube.
 
-Soldiers over [Command Rank](Command_Rank.md "wikilink") 2 have access to
-the [Command Uplink Device](Command_Uplink_Device.md "wikilink") (CUD) to
+Soldiers over [Command Rank](Command_Rank.md) 2 have access to
+the [Command Uplink Device](Command_Uplink_Device.md) (CUD) to
 upload orders and receive information from Empire systems. The Uplink
 Device does not have the necessary connection to set a base as a "Home
 Base" or to issue a squad rematrix order. However, they can be used to
@@ -81,11 +81,11 @@ recall the squad or Platoon to Sanctuary and Commanders will be able to
 receive information on the timers for these abilities. The CUD is able
 to issue a Recall to Sanctuary order while in the Sanctuary, but other
 functionality of the CUD is not available (such as firing an [Orbital
-Strike](Orbital_Strike.md "wikilink") on a Sanctuary).
+Strike](Orbital_Strike.md) on a Sanctuary).
 
 The Squad List has two columns: One displays which facility each Squad
 member is bound to, and the other is a checkbox that indicates if that
 Squad member is bound to their Home Base.
 
-[Category:Game Guides](Category:Game_Guides.md "wikilink")
-[Category:Terminology](Category:Terminology.md "wikilink")
+[Category:Game Guides](Category:Game_Guides.md)
+[Category:Terminology](Category:Terminology.md)

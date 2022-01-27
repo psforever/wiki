@@ -12,7 +12,7 @@
 | Facilities:       | 10                                                                              |
 | Towers:           | 27                                                                              |
 | Active Warpgates: | 4                                                                               |
-| Capitol:          | [Dropship Center](Dropship_Center.md "wikilink") [Anguta](Anguta.md "wikilink") |
+| Capitol:          | [Dropship Center](Dropship_Center.md) [Anguta](Anguta.md) |
 
 ## Description
 
@@ -26,15 +26,15 @@ between point A and point B due to successive switchbacks and roundabout
 roads crawling up the vertical cliffsides.
 
 The central plateau that houses the capitol,
-[Anguta](Anguta.md "wikilink"), and two of its sub-capitols rises high
+[Anguta](Anguta.md), and two of its sub-capitols rises high
 above the rest of the continent.
 
-Ceryshen is a [Home Continent](Home_Continent.md "wikilink"). See [Home
-Continent](Home_Continent.md "wikilink") for the current empire
-[Sanctuary](Sanctuary.md "wikilink") links.
+Ceryshen is a [Home Continent](Home_Continent.md). See [Home
+Continent](Home_Continent.md) for the current empire
+[Sanctuary](Sanctuary.md) links.
 
 This continent is also refered to as
-[Cery](Acronyms_and_Slang.md "wikilink").
+[Cery](Acronyms_and_Slang.md).
 
 ---
 
@@ -44,26 +44,26 @@ This continent is also refered to as
 
 ### Amp Stations
 
-- [Akna](Akna.md "wikilink") ([Sub-Capitol](Sub-Capitol.md "wikilink"))
+- [Akna](Akna.md) ([Sub-Capitol](Sub-Capitol.md))
 
 ### Bio Laboratories
 
-- [Sedna](Sedna.md "wikilink") (Sub-Capitol)
-- [Tootega](Tootega.md "wikilink") (Sub-Capitol)
-- [Tarqaq](Tarqaq.md "wikilink")
+- [Sedna](Sedna.md) (Sub-Capitol)
+- [Tootega](Tootega.md) (Sub-Capitol)
+- [Tarqaq](Tarqaq.md)
 
 ### Dropship Centers
 
-- [Anguta](Anguta.md "wikilink") ([Capitol](Capitol.md "wikilink"))
+- [Anguta](Anguta.md) ([Capitol](Capitol.md))
 
 ### Interlink Facilities
 
-- [Keelut](Keelut.md "wikilink")
+- [Keelut](Keelut.md)
 
 ### Technology Plants
 
-- [Igaluk](Igaluk.md "wikilink")
-- [Nerrivik](Nerrivik.md "wikilink") (Sub-Capitol)
-- [Pinga](Pinga.md "wikilink")
+- [Igaluk](Igaluk.md)
+- [Nerrivik](Nerrivik.md) (Sub-Capitol)
+- [Pinga](Pinga.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

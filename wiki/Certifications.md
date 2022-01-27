@@ -62,15 +62,15 @@ Advanced Engineering 5 Combat Engineering
 
 Hacking 3
 
-Advanced Hacking 2 [Hacking](Hacking.md "wikilink")
+Advanced Hacking 2 [Hacking](Hacking.md)
 
-[Expert Hacking](Expert_Hacking.md "wikilink") 2 Advanced Hacking
+[Expert Hacking](Expert_Hacking.md) 2 Advanced Hacking
 
-[Data Corruption](Data_Corruption.md "wikilink") 3 [Advanced
-Hacking](Advanced_Hacking.md "wikilink")
+[Data Corruption](Data_Corruption.md) 3 [Advanced
+Hacking](Advanced_Hacking.md)
 
-[Electronics Expert](Electronics_Expert.md "wikilink") 4 [Advanced
-Hacking](Advanced_Hacking.md "wikilink")
+[Electronics Expert](Electronics_Expert.md) 4 [Advanced
+Hacking](Advanced_Hacking.md)
 
 Vehicles
 
@@ -78,52 +78,52 @@ Certification Cert
 
 Cost Pre-Requisite
 
-## [Advanced Nanite Transport](Advanced_Nanite_Transport.md "wikilink") (ANT)
+## [Advanced Nanite Transport](Advanced_Nanite_Transport.md) (ANT)
 
-[Air Cavalry Assault](Air_Cavalry_Assault.md "wikilink") 2 Air Cavalry
+[Air Cavalry Assault](Air_Cavalry_Assault.md) 2 Air Cavalry
 Scout or Light Scout
 
-[Air Cavalry Interceptor](Air_Cavalry_Interceptor.md "wikilink") 2 [Air
-Cavalry Scout](Air_Cavalry_Scout.md "wikilink") or [Light
-Scout](Light_Scout.md "wikilink")
+[Air Cavalry Interceptor](Air_Cavalry_Interceptor.md) 2 [Air
+Cavalry Scout](Air_Cavalry_Scout.md) or [Light
+Scout](Light_Scout.md)
 
-[Air Cavalry Scout](Air_Cavalry_Scout.md "wikilink") 3
+[Air Cavalry Scout](Air_Cavalry_Scout.md) 3
 
-[Air Support](Air_Support.md "wikilink") 3
+[Air Support](Air_Support.md) 3
 
-[ATV](ATV.md "wikilink") 1
+[ATV](ATV.md) 1
 
-[Assault Buggy](Assault_Buggy.md "wikilink") 3
+[Assault Buggy](Assault_Buggy.md) 3
 
-[Armored Assault I](Armored_Assault_I.md "wikilink") 2
+[Armored Assault I](Armored_Assault_I.md) 2
 
-[Armored Assault II](Armored_Assault_II.md "wikilink") 1 [Armored Assault
-I](Armored_Assault_I.md "wikilink")
+[Armored Assault II](Armored_Assault_II.md) 1 [Armored Assault
+I](Armored_Assault_I.md)
 
-[Battleframe Robotics](Battleframe_Robotics.md "wikilink") (BFR) 4 [Armored
-Assault II](Armored_Assault_II.md "wikilink")
+[Battleframe Robotics](Battleframe_Robotics.md) (BFR) 4 [Armored
+Assault II](Armored_Assault_II.md)
 
-[BFR Anti-Aircraft](BFR_Anti-Aircraft.md "wikilink") 1
-[BFR](BFR.md "wikilink")
+[BFR Anti-Aircraft](BFR_Anti-Aircraft.md) 1
+[BFR](BFR.md)
 
-[BFR Anti-Infantry](BFR_Anti-Infantry.md "wikilink") 1
-[BFR](BFR.md "wikilink")
+[BFR Anti-Infantry](BFR_Anti-Infantry.md) 1
+[BFR](BFR.md)
 
-[Flail](Flail.md "wikilink") 1 [Armored Assault
-II](Armored_Assault_II.md "wikilink")
+[Flail](Flail.md) 1 [Armored Assault
+II](Armored_Assault_II.md)
 
-[Galaxy Gunship](Galaxy_Gunship.md "wikilink") 2 [Air
-Support](Air_Support.md "wikilink")
+[Galaxy Gunship](Galaxy_Gunship.md) 2 [Air
+Support](Air_Support.md)
 
-[Ground Support](Ground_Support.md "wikilink") 2
+[Ground Support](Ground_Support.md) 2
 
-[Ground Transport](Ground_Transport.md "wikilink") 2
+[Ground Transport](Ground_Transport.md) 2
 
-[Harasser](Harasser.md "wikilink") 1
+[Harasser](Harasser.md) 1
 
-[Light Scout](Light_Scout.md "wikilink") 5
+[Light Scout](Light_Scout.md) 5
 
-[Phantasm](Phantasm.md "wikilink") 3 [Infiltration
-Suit](Infiltration_Suit.md "wikilink")
+[Phantasm](Phantasm.md) 3 [Infiltration
+Suit](Infiltration_Suit.md)
 
-[Switchblade](Switchblade.md "wikilink") 1 [ATV](ATV.md "wikilink")
+[Switchblade](Switchblade.md) 1 [ATV](ATV.md)

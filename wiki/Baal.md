@@ -1,18 +1,18 @@
 **Baal** is one of the four [Technology
-Plants](Technology_Plant.md "wikilink") on [Ishundar](Ishundar.md "wikilink")
+Plants](Technology_Plant.md) on [Ishundar](Ishundar.md)
 and is in the very northwest at grid C7.
 
-It has [Lattice](Lattice.md "wikilink") Links to:
+It has [Lattice](Lattice.md) Links to:
 
-- [Bio Laboratory](Bio_Laboratory.md "wikilink")
-  [Dagon](Dagon.md "wikilink")
-- [Dropship Center](Dropship_Center.md "wikilink")
-  [Akkan](Akkan.md "wikilink")
-- A [Broadcast](Broadcast.md "wikilink") [Warpgate](Warpgate.md "wikilink")
+- [Bio Laboratory](Bio_Laboratory.md)
+  [Dagon](Dagon.md)
+- [Dropship Center](Dropship_Center.md)
+  [Akkan](Akkan.md)
+- A [Broadcast](Broadcast.md) [Warpgate](Warpgate.md)
 
-It is a [Hack-and-Hold](Hack-and-Hold.md "wikilink")
-[Facility](Facility.md "wikilink") with a [Gun tower](Gun_tower.md "wikilink")
-to its southeast, just outside of its [SOI](SOI.md "wikilink").
+It is a [Hack-and-Hold](Hack-and-Hold.md)
+[Facility](Facility.md) with a [Gun tower](Gun_tower.md)
+to its southeast, just outside of its [SOI](SOI.md).
 
 ## Trivia
 
@@ -22,4 +22,4 @@ Canaanite religions, and later became a name for a demon in
 Judeo-Christian beliefs. See the
 [Wikipedia](http://en.wikipedia.org/wiki/Baal) article.
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)

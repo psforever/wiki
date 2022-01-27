@@ -220,10 +220,10 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md "wikilink") is awarded for
+This [Merit Commendation](Merit_Commendation.md) is awarded for
 kills made by friendly soldiers after they have been killed by enemy
-fire and [Revived](Revive.md "wikilink") by you, using a [Medical
-Applicator](Medical_Applicator.md "wikilink"). The tracker starts after the
+fire and [Revived](Revive.md) by you, using a [Medical
+Applicator](Medical_Applicator.md). The tracker starts after the
 first kill after the revive. The tracker stops several minutes later. If
 the soldier dies, the tracker stops, unless he is revived again.
 
@@ -313,4 +313,4 @@ the universal symbol for humanitarian aid:
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

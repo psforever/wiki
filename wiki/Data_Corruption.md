@@ -1,28 +1,28 @@
 |                        |                                                        |
 | ---------------------- | ------------------------------------------------------ |
 | **Type**               | Equipment                                              |
-| **Provides Access To** | [T-REK](T-REK.md "wikilink") and abilities (see below) |
-| **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md "wikilink")     |
+| **Provides Access To** | [T-REK](T-REK.md) and abilities (see below) |
+| **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md)     |
 | **Required For**       | \-                                                     |
 | **Cert Point Cost**    | 3                                                      |
 
 **Data Corruption**
 
 The Data Corruption certification enables the soldier to turn to the
-dark side of hacking. With access to the [T-REK](T-REK.md "wikilink"), the
+dark side of hacking. With access to the [T-REK](T-REK.md), the
 soldier has the following abilities:
 
-- Infect [vehicles](vehicle.md "wikilink")' control systems, resulting in
+- Infect [vehicles](vehicle.md)' control systems, resulting in
   decreased speed and turn rate
-- Install a [virus](virus.md "wikilink") into a facility's [Main
-  Terminal](Main_Terminal.md "wikilink") for a variety of effects (<i>see
-  [Virus](Virus.md "wikilink") for more information</i>)
-- Infect [Wall Turrets](Wall_Turret.md "wikilink") and Spitfires so they
+- Install a [virus](virus.md) into a facility's [Main
+  Terminal](Main_Terminal.md) for a variety of effects (<i>see
+  [Virus](Virus.md) for more information</i>)
+- Infect [Wall Turrets](Wall_Turret.md) and Spitfires so they
   will attack their own empire
-- Infect [Motion Sensors](ACE.md#Motion_Sensor "wikilink") so they will
+- Infect [Motion Sensors](ACE.md#Motion_Sensor) so they will
   display friendly units as enemies on radar
 - Infect an enemy [Aegis Shield
-  Generator](Aegis_Shield_Generator.md "wikilink") to emit a [Pain
-  Field](Pain_Field.md "wikilink") that damages friendly units.
+  Generator](Aegis_Shield_Generator.md) to emit a [Pain
+  Field](Pain_Field.md) that damages friendly units.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](Category:Certification.md)

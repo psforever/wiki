@@ -54,4 +54,4 @@ shooting down aircraft and the AV maxes for vehicles and AI maxs for
 Infantry. Don't try to be Rambo in this, even though it feels like a
 walking tank, it is easy to take these down.
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](Category:Strategy.md)

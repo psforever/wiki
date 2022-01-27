@@ -9,10 +9,10 @@
 | Climate:                                    | Tropical                                                                    |
 | Landmass:                                   | Continent                                                                   |
 | Terrain:                                    | Volcanic pools, dusty craters, sheer cliffs, desolate plains, sunny beaches |
-| [Facilities](Facilities.md "wikilink"):     | 14                                                                          |
-| [Towers](Tower.md "wikilink"):              | 22                                                                          |
-| Active [Warpgates](Warpgate.md "wikilink"): | 3                                                                           |
-| Active [Geowarps](Geowarp.md "wikilink"):   | 1 (2 total, active gate cycles)                                             |
+| [Facilities](Facilities.md):     | 14                                                                          |
+| [Towers](Tower.md):              | 22                                                                          |
+| Active [Warpgates](Warpgate.md): | 3                                                                           |
+| Active [Geowarps](Geowarp.md):   | 1 (2 total, active gate cycles)                                             |
 |                                             |                                                                             |
 
 ## Description
@@ -20,7 +20,7 @@
 This world rages with storms. The moments when the weather is clear are
 momentous as the volcanism that erupts around the world feeds belt after
 belt of the fiercest storms imaginable. The
-[continent](continent.md "wikilink") of **Searhus** seems sheltered in the
+[continent](continent.md) of **Searhus** seems sheltered in the
 center of a stable "eye" in the storms, but even the peripheral storms
 felt here are severe by comparison elsewhere.
 
@@ -33,37 +33,37 @@ unforgiving.
 ---
 
 --source: Planetside In-game descriptions, pre- and
-post-[Bending](Bending.md "wikilink").
+post-[Bending](Bending.md).
 
-## Base [Facilities](Facilities.md "wikilink")
+## Base [Facilities](Facilities.md)
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](Amp_Station.md)
 
-- [Matagi](Matagi.md "wikilink")
-- [Pele](Pele.md "wikilink")
-- [Rehua](Rehua.md "wikilink")
+- [Matagi](Matagi.md)
+- [Pele](Pele.md)
+- [Rehua](Rehua.md)
 
-### [Bio Laboratories](Bio_Laboratories.md "wikilink")
+### [Bio Laboratories](Bio_Laboratories.md)
 
-- [Akua](Akua.md "wikilink")
-- [Drakulu](Drakulu.md "wikilink")
-- [Hiro](Hiro.md "wikilink")
-- [Iva](Iva.md "wikilink")
+- [Akua](Akua.md)
+- [Drakulu](Drakulu.md)
+- [Hiro](Hiro.md)
+- [Iva](Iva.md)
 
-### [Dropship Centers](Dropship_Center.md "wikilink")
+### [Dropship Centers](Dropship_Center.md)
 
-- [Sina](Sina.md "wikilink")
+- [Sina](Sina.md)
 
-### [Interlink Facilities](Interlink_Facilities.md "wikilink")
+### [Interlink Facilities](Interlink_Facilities.md)
 
-- [Laka](Laka.md "wikilink")
-- [Oro](Oro.md "wikilink")
-- [Wakea](Wakea.md "wikilink")
+- [Laka](Laka.md)
+- [Oro](Oro.md)
+- [Wakea](Wakea.md)
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](Technology_Plant.md)
 
-- [Karihi](Karihi.md "wikilink")
-- [Ngaru](Ngaru.md "wikilink")
-- [Tara](Tara.md "wikilink")
+- [Karihi](Karihi.md)
+- [Ngaru](Ngaru.md)
+- [Tara](Tara.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

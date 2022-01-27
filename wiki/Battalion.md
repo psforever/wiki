@@ -1,10 +1,10 @@
 ## Bios
 
-Battalion is an epic [New Conglomerate](New_Conglomerate.md "wikilink")
-[outfit](outfit.md "wikilink"), on the [Emerald](Emerald.md "wikilink")
+Battalion is an epic [New Conglomerate](New_Conglomerate.md)
+[outfit](outfit.md), on the [Emerald](Emerald.md)
 server, which boasts countless victories through systematic raids on
 bases of enemy empires. Battalion was founded by
-[Pedromdrp](user:Pedromdrp.md "wikilink") in 2003.
+[Pedromdrp](user:Pedromdrp.md) in 2003.
 
 Over time, members of Battalion have migrated to fulfil other ambitions,
 mostly involving the Real World.

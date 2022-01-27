@@ -35,12 +35,12 @@
 </table>
 
 For consistent and demonstrated dedication to
-[PlanetSide](PlanetSide.md "wikilink"), it's community, and it's
+[PlanetSide](PlanetSide.md), it's community, and it's
 Developers, the [666th Spec. Ops "Devil
-Dogs"](666th_Spec.md._Ops_"Devil_Dogs" "wikilink") Outfit of the [New
-Conglomerate](New_Conglomerate.md "wikilink") on
-[Markov](Markov.md "wikilink") were awarded a special [Merit
-Commendation](Merit_Commendation.md "wikilink") from [SOE](SOE.md "wikilink")
-handed out by the great [Sporkfire](SporkFire.md "wikilink") himself.
+Dogs"](666th_Spec.md._Ops_"Devil_Dogs") Outfit of the [New
+Conglomerate](New_Conglomerate.md) on
+[Markov](Markov.md) were awarded a special [Merit
+Commendation](Merit_Commendation.md) from [SOE](SOE.md)
+handed out by the great [Sporkfire](SporkFire.md) himself.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

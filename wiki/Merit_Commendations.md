@@ -5,14 +5,14 @@
 Merit Commendations are awards for certain activities done within the
 game. This includes:
 
-- Kills using certain [weapons](weapon.md "wikilink") or
-  [vehicles](vehicle.md "wikilink")
+- Kills using certain [weapons](weapon.md) or
+  [vehicles](vehicle.md)
 - Destroying a specific kind of unit
 - Kills under certain circumstances
 - Supporting/Assisting other players
 - Visiting certain locations
 - Attending events
-- [Jacking](Jack.md "wikilink") vehicles
+- [Jacking](Jack.md) vehicles
 
 Merits are displayed in the player pane under the "Achievements" tab.
 This window shows both the Merits you are displaying, and the Merits you
@@ -26,7 +26,7 @@ At the top of the window is your "display case" which house three
 Merits. This is where you can drop certain merits from the list to be
 displayed to other soldiers on your avatar's shoulder pad, making for
 easy bragging. Note that the [Annual Terms of
-Service](Term_of_Service.md "wikilink") Merits are different from all other
+Service](Term_of_Service.md) Merits are different from all other
 Merits. These are automatically added on your Shoulder Pad the moment
 you get them, and you cannot remove it, change its position or drag it
 into the Display Case. It will always display your highest Term of
@@ -78,7 +78,7 @@ At present, there are six categories of Merit Commendations:
 ## Unique Kills
 
 In order for a kill to count towards a certain Merit Commendation it
-must be a [Unique Kill](Unique_Kill.md "wikilink").
+must be a [Unique Kill](Unique_Kill.md).
 
 ## Merit Commendation Streaks
 
@@ -90,11 +90,11 @@ dying.
 
 - Example:
 
-The [Heavy Assault](<Heavy_Assault_(Merit)> "wikilink") Platinum Merit
+The [Heavy Assault](<Heavy_Assault_(Merit)>) Platinum Merit
 Commendation requires 8,000 kills to Qualify for it. After you have
 achieved those 8,000 kills the game will flag you as Qualified and you
 will have to kill 12 Enemy Soldiers ([Unique
-Kills](Unique_Kill.md "wikilink")) to obtain the Heavy Assault Platinum
+Kills](Unique_Kill.md)) to obtain the Heavy Assault Platinum
 Merit. You don't have to complete the streak in the same session,
 however, you can work on it until you complete it. Streak kills are also
 saved if you logout, meaning that if you have 8 kills for the Heavy
@@ -109,7 +109,7 @@ the next level of the Merit that you are working on.
 
 - Example:
 
-You are working on [Basic Weapons](<Basic_Weapons_(Merit)> "wikilink")
+You are working on [Basic Weapons](<Basic_Weapons_(Merit)>)
 Silver streak, which requires 4 kills and it takes you 50 kills until
 you finally get 4 in one life, then you will only have to get 50 kills
 to qualify for Basic Weapons Gold, instead of 100.
@@ -121,25 +121,25 @@ him. You can Support someone and gain Kill Assists and Support
 Experience Points through one of the following activities:
 
 - Healing another Soldier
-- Repairing another Soldier or [Vehicle](Vehicle.md "wikilink") with
-  either a [Nano Dispenser](Nano_Dispenser.md "wikilink"),
-  [BANK](BANK.md "wikilink") or [Lodestar](Lodestar.md "wikilink")
-- [Reviving](revive.md "wikilink") another Soldier
-- Hacking a Terminal or [Locker](Locker.md "wikilink") or providing an
-  [AMS](AMS.md "wikilink") Terminal or Lodestar for others to obtain
+- Repairing another Soldier or [Vehicle](Vehicle.md) with
+  either a [Nano Dispenser](Nano_Dispenser.md),
+  [BANK](BANK.md) or [Lodestar](Lodestar.md)
+- [Reviving](revive.md) another Soldier
+- Hacking a Terminal or [Locker](Locker.md) or providing an
+  [AMS](AMS.md) Terminal or Lodestar for others to obtain
   Equipment and/or Ammunition from.
 - Providing an [Advanced Mobile
-  Station](Advanced_Mobile_Station.md "wikilink") for others to Spawn
+  Station](Advanced_Mobile_Station.md) for others to Spawn
   from.
-- Having Soldiers bail from your [Galaxy](Galaxy.md "wikilink")
-- Placing or owning a [Router](Router.md "wikilink")
+- Having Soldiers bail from your [Galaxy](Galaxy.md)
+- Placing or owning a [Router](Router.md)
 
 Also see:
 
-- [Assist](Assist.md "wikilink") (For more Details about Kill Assists)
+- [Assist](Assist.md) (For more Details about Kill Assists)
 - [Support Merit
-  Commendations](Support_Merit_Commendations.md "wikilink") (For more
+  Commendations](Support_Merit_Commendations.md) (For more
   Details about how to obtain the Support Merits and their
   requirments)
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

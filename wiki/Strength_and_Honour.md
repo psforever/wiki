@@ -4,11 +4,11 @@
 
 The greatest collection of gamers since the battle of Gettysburg.
 
-Also home to SRN Commissar, [Mag](user:Mag.md "wikilink"), Anchor of The
-/Report; [BizSar](user:BizSAR.md "wikilink"),
-[SRN](Syndicate_Radio_Network.md "wikilink") DJ Extraordinare;
-[Fragmatic](user:Fragmatic.md "wikilink"), who lives in England; and random
-drunk, [MattxMosh](user:MattxMosh.md "wikilink").
+Also home to SRN Commissar, [Mag](user:Mag.md), Anchor of The
+/Report; [BizSar](user:BizSAR.md),
+[SRN](Syndicate_Radio_Network.md) DJ Extraordinare;
+[Fragmatic](user:Fragmatic.md), who lives in England; and random
+drunk, [MattxMosh](user:MattxMosh.md).
 
 Their horrible website can be viewed here:
 [StrengthAndHonour.net](http://forums.strengthandhonour.net)

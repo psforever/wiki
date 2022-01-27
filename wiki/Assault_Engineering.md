@@ -35,73 +35,73 @@
 
 **Assault Engineering**
 
-The new [Assault Engineering](Assault_Engineering.md "wikilink") is
+The new [Assault Engineering](Assault_Engineering.md) is
 designed for offense, opposed to it's defensive counterpart
-[Fortification Engineering](Fortification_Engineering.md "wikilink"). It
+[Fortification Engineering](Fortification_Engineering.md). It
 has Deployables and Abilities that give Friendly troops protection in
 the field, as well as more fire power.
 
 ## Field Deployment Unit (FDU)
 
 This larger version of the Adaptive Construction Engine (ACE) is used to
-create the [Aegis Shield Generator](Aegis_Shield_Generator.md "wikilink")
+create the [Aegis Shield Generator](Aegis_Shield_Generator.md)
 as well as the [One-Manned Field
-Turrets](One-Manned_Field_Turret.md "wikilink"). It takes up the same size
+Turrets](One-Manned_Field_Turret.md). It takes up the same size
 as the biggest Rifles do in your inventory. See [Field Deployment
-Unit](Field_Deployment_Unit.md "wikilink") for more information.
+Unit](Field_Deployment_Unit.md) for more information.
 
 ## Aegis Shield Generator
 
 The Aegis Shield Generator provides an area for Friendly troops to
 safely Repair/heal.md themselves, take cover or refill their ammunition, if
 upgraded. For more information see [Aegis Shield
-Generator](Aegis_Shield_Generator.md "wikilink").
+Generator](Aegis_Shield_Generator.md).
 
 ## One-Manned Field Turret (OMFT)
 
 The One-Manned Field Turret, or OMFT for short, has it's own variant for
-all three [Empires](Empire.md "wikilink"). The [New
-Conglomerate](New_Conglomerate.md "wikilink") gets the
-[Osprey](Osprey.md "wikilink"), the [Terran
-Republic](Terran_Republic.md "wikilink") has the
-[Avenger](Avenger.md "wikilink") and the [Vanu
-Sovereignty](Vanu_Sovereignty.md "wikilink") has the
-[Orion](Orion.md "wikilink"). These Turrets are designed to supress the
-Enemy in the Field, and have [weaponry](weapon.md "wikilink") similar to
-their Anti-Infantry [MAX](MAX.md "wikilink") Units. For more information
-see [One-Manned Field Turret](One-Manned_Field_Turret.md "wikilink"),
-[Osprey](Osprey.md "wikilink"), [Avenger](Avenger.md "wikilink") or
-[Orion](Orion.md "wikilink").
+all three [Empires](Empire.md). The [New
+Conglomerate](New_Conglomerate.md) gets the
+[Osprey](Osprey.md), the [Terran
+Republic](Terran_Republic.md) has the
+[Avenger](Avenger.md) and the [Vanu
+Sovereignty](Vanu_Sovereignty.md) has the
+[Orion](Orion.md). These Turrets are designed to supress the
+Enemy in the Field, and have [weaponry](weapon.md) similar to
+their Anti-Infantry [MAX](MAX.md) Units. For more information
+see [One-Manned Field Turret](One-Manned_Field_Turret.md),
+[Osprey](Osprey.md), [Avenger](Avenger.md) or
+[Orion](Orion.md).
 
 ## Disruptor Mine
 
-Similar to the [High Explosive Mine](ACE.md#High_Explosive_Mine "wikilink")
+Similar to the [High Explosive Mine](ACE.md#High_Explosive_Mine)
 it detonates when Enemies in range. However, instead of exploding, they
 emit a small EMP burst, with affects similar to that of a [Jammer
-Grenade](Jammer_Grenade.md "wikilink") or a Commanders EMP. For more
-information see [Disruptor Mine](Disruptor_Mine.md "wikilink").
+Grenade](Jammer_Grenade.md) or a Commanders EMP. For more
+information see [Disruptor Mine](Disruptor_Mine.md).
 
 ## Ability to place Spitfire Turrets inside Enemy SOIs
 
 Assault Engineers have the special ability to place Spitfire Turrets
 inside the SOI of Enemy Facilities and Towers. If used smart, it can
 keep Enemies locked inside, and allowing Friendliess to push into the
-[courtyard](courtyard.md "wikilink") or even the Facility or Tower itself.
+[courtyard](courtyard.md) or even the Facility or Tower itself.
 
 ## Ammunition Upgrade for the Aegis Shield Generator
 
 Assault Engineers can Upgrade Aegis Shield Generators with an Ammunition
-Supply, allowing friendly Infantry and [MAX](MAX.md "wikilink") Units to
+Supply, allowing friendly Infantry and [MAX](MAX.md) Units to
 get ammo. Note that vehicle ammunition and support equipment cannot be
 obtained. Upgrading works by use of the [Nano
-Dispenser](Nano_Dispenser.md "wikilink") with regular canisters.
+Dispenser](Nano_Dispenser.md) with regular canisters.
 
 ## Increased Repair Efficiency
 
-Assault Engineers use [Armor Canisters](Armor_Canister.md "wikilink") more
+Assault Engineers use [Armor Canisters](Armor_Canister.md) more
 efficiently, resulting in increased repair efficiency for
-[MAXes](MAX.md "wikilink") (1.5x, from 12 to 18), equipment, and
-[vehicles](vehicles.md "wikilink") (2x, from 32 to 64) over that of a
+[MAXes](MAX.md) (1.5x, from 12 to 18), equipment, and
+[vehicles](vehicles.md) (2x, from 32 to 64) over that of a
 standard engineer.
 
-[Category:Certification](Category:Certification.md "wikilink")
+[Category:Certification](Category:Certification.md)

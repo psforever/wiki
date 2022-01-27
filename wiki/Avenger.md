@@ -3,8 +3,8 @@
 
 |                            |                                                                                                                        |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Assault Engineering](Assault_Engineering.md "wikilink") or [Advanced Engineering](Advanced_Engineering.md "wikilink") |
-| **Empire**                 | [Terran Republic](Terran_Republic.md "wikilink")                                                                       |
+| **Certification Required** | [Assault Engineering](Assault_Engineering.md) or [Advanced Engineering](Advanced_Engineering.md) |
+| **Empire**                 | [Terran Republic](Terran_Republic.md)                                                                       |
 | **Primary Mode**           | Upgraded Cycler                                                                                                        |
 | **Secondary Mode**         | \-                                                                                                                     |
 | **Ammunition**             | Unlimited                                                                                                              |
@@ -15,13 +15,13 @@
 
 **Avenger**
 
-The [Terran Republic](Terran_Republic.md "wikilink") Variant of the
-[One-Manned Field Turrets](One-Manned_Field_Turret.md "wikilink"), and is
+The [Terran Republic](Terran_Republic.md) Variant of the
+[One-Manned Field Turrets](One-Manned_Field_Turret.md), and is
 deployed by use of the [Field Deployment
-Unit](Field_Deployment_Unit.md "wikilink"). It is an adaptation of the
-[Dual Cycler](Dual_Cycler.md "wikilink") [MAX](MAX.md "wikilink") weapon. The
+Unit](Field_Deployment_Unit.md). It is an adaptation of the
+[Dual Cycler](Dual_Cycler.md) [MAX](MAX.md) weapon. The
 rate of fire is similar to a locked-down Dual Cycler MAX. It has
 unlimited ammunition, though it does have to reload after its clip has
 been depleted.
 
-[Category:Weapons](Category:Weapons.md "wikilink")
+[Category:Weapons](Category:Weapons.md)

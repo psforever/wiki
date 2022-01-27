@@ -213,7 +213,7 @@
 </table>
 
 The BFR Buster merit is earned by destroying Enemy [BattleFrame
-Robotics](BFR.md "wikilink") (BFR).
+Robotics](BFR.md) (BFR).
 Each individual BFR only counts once, no matter the number of occupants.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

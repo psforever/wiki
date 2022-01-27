@@ -9,11 +9,11 @@
 | Climate:                                    | Desert                                                                            |
 | Landmass:                                   | Continent                                                                         |
 | Terrain:                                    | Plains, cliffs, mountains, plateaus, oasis, rocky shores                          |
-| [Facilities](Facilities.md "wikilink"):     | 9                                                                                 |
-| [Towers](Tower.md "wikilink"):              | 18                                                                                |
-| Active [Warpgates](Warpgate.md "wikilink"): | 4                                                                                 |
-| Active [Geowarps](Geowarp.md "wikilink"):   | 1                                                                                 |
-| [Capitol](Capitol.md "wikilink"):           | [Interlink Facility](Interlink_Facility.md "wikilink") [Hapi](Hapi.md "wikilink") |
+| [Facilities](Facilities.md):     | 9                                                                                 |
+| [Towers](Tower.md):              | 18                                                                                |
+| Active [Warpgates](Warpgate.md): | 4                                                                                 |
+| Active [Geowarps](Geowarp.md):   | 1                                                                                 |
+| [Capitol](Capitol.md):           | [Interlink Facility](Interlink_Facility.md) [Hapi](Hapi.md) |
 
 ## Description
 
@@ -27,39 +27,39 @@ making the bases more defensible to standard massed armor attacks.
 ---
 
 Source: Planetside In-game descriptions, pre- and
-post-[Bending](Bending.md "wikilink").
+post-[Bending](Bending.md).
 
 This continent is also refered to as
-[Sol](Acronyms_and_Slang.md "wikilink"). Solsar is a [Home
-Continent](Home_Continent.md "wikilink") with a
-[Sanctuary](Sanctuary.md "wikilink") link to [Horus](Horus.md "wikilink"). See
-[Home Continent](Home_Continent.md "wikilink") for the current empire
+[Sol](Acronyms_and_Slang.md). Solsar is a [Home
+Continent](Home_Continent.md) with a
+[Sanctuary](Sanctuary.md) link to [Horus](Horus.md). See
+[Home Continent](Home_Continent.md) for the current empire
 sanctuary links.
 
-## Base [Facilities](Facilities.md "wikilink")
+## Base [Facilities](Facilities.md)
 
-### [Amp Stations](Amp_Station.md "wikilink")
+### [Amp Stations](Amp_Station.md)
 
-- [Mont](Mont.md "wikilink") ([Sub-Capitol](Sub-Capitol.md "wikilink"))
-- [Bastet](Bastet.md "wikilink")
+- [Mont](Mont.md) ([Sub-Capitol](Sub-Capitol.md))
+- [Bastet](Bastet.md)
 
-### [Bio Laboratories](Bio_Laboratories.md "wikilink")
+### [Bio Laboratories](Bio_Laboratories.md)
 
-- [Aton](Aton.md "wikilink")
-- [Horus](Horus.md "wikilink")
-- [Thoth](Thoth.md "wikilink") ([Capitol](Capitol.md "wikilink"))
+- [Aton](Aton.md)
+- [Horus](Horus.md)
+- [Thoth](Thoth.md) ([Capitol](Capitol.md))
 
-### [Dropship Centers](Dropship_Center.md "wikilink")
+### [Dropship Centers](Dropship_Center.md)
 
-- [Sobek](Sobek.md "wikilink") (Sub-Capitol)
+- [Sobek](Sobek.md) (Sub-Capitol)
 
-### [Interlink Facilities](Interlink_Facilities.md "wikilink")
+### [Interlink Facilities](Interlink_Facilities.md)
 
-- [Hapi](Hapi.md "wikilink") (Sub-Capitol)
+- [Hapi](Hapi.md) (Sub-Capitol)
 
-### [Technology Plants](Technology_Plant.md "wikilink")
+### [Technology Plants](Technology_Plant.md)
 
-- [Amun](Amun.md "wikilink") (Sub-Capitol)
-- [Seth](Seth.md "wikilink")
+- [Amun](Amun.md) (Sub-Capitol)
+- [Seth](Seth.md)
 
-[Category:Locations](Category:Locations.md "wikilink")
+[Category:Locations](Category:Locations.md)

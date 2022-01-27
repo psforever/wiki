@@ -1,4 +1,4 @@
-Snowstorms are found on [Ceryshen](Ceryshen.md "wikilink"),
-[Esamir](Esamir.md "wikilink"), and [Nexus](Nexus.md "wikilink").
+Snowstorms are found on [Ceryshen](Ceryshen.md),
+[Esamir](Esamir.md), and [Nexus](Nexus.md).
 
-[Category:Weather](Category:Weather.md "wikilink")
+[Category:Weather](Category:Weather.md)

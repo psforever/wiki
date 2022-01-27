@@ -116,18 +116,18 @@
 </table>
 
 - **Generalist:** Qualify for the Qualification level of the [Basic
-  Weapons](</Standard_Assault_(Merit)> "wikilink") and
-  [Rifleman](</Medium_Assault_(Merit)> "wikilink") Merits.
+  Weapons](</Standard_Assault_(Merit)>) and
+  [Rifleman](</Medium_Assault_(Merit)>) Merits.
 - **Expert:** Qualify for the Bronze level of the [Basic
-  Weapons](</Standard_Assault_(Merit)> "wikilink") and
-  [Rifleman](</Medium_Assault_(Merit)> "wikilink") Merits.
+  Weapons](</Standard_Assault_(Merit)>) and
+  [Rifleman](</Medium_Assault_(Merit)>) Merits.
 - **Elite:** Qualify for the Silver level of the [Basic
-  Weapons](</Standard_Assault_(Merit)> "wikilink") and
-  [Rifleman](</Medium_Assault_(Merit)> "wikilink") Merits.
+  Weapons](</Standard_Assault_(Merit)>) and
+  [Rifleman](</Medium_Assault_(Merit)>) Merits.
 - **Master:** Qualify for the Gold level of the [Basic
-  Weapons](</Standard_Assault_(Merit)> "wikilink") and
-  [Rifleman](</Medium_Assault_(Merit)> "wikilink") Merits.
+  Weapons](</Standard_Assault_(Merit)>) and
+  [Rifleman](</Medium_Assault_(Merit)>) Merits.
 
 **\*\*\*Note: Only the "Generalist" level is on the live server\*\*\***
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

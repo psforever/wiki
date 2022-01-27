@@ -1,4 +1,4 @@
-**[martyr](User:Martyr.md "wikilink")'s Stragies and Tactics**
+**[martyr](User:Martyr.md)'s Stragies and Tactics**
 
 note: I lead the now-disbanded Strategic Air Command of my outfit, Sons
 of Vanu. As we're now primarily a surface group, this is being made
@@ -188,4 +188,4 @@ SG Flak: armor 12mm rounds: armor SAMs: 11 decimators shield SG Flak:
 - Zone 5 == Afterburners fueled, ignited
 - Zulu == UTC. 1000EST = 1100EDT = 1500Z
 
-[Category:Strategy](Category:Strategy.md "wikilink")
+[Category:Strategy](Category:Strategy.md)

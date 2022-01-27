@@ -93,10 +93,10 @@
 </table>
 
 The third stage of the "[Empire Defense
-series](Defense_Merit_Commendations.md#Empire_Defense_Merits "wikilink")"
+series](Defense_Merit_Commendations.md#Empire_Defense_Merits)"
 merits.
 
 This Merit is awarded for killing Enemies while using any means
 necessary.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

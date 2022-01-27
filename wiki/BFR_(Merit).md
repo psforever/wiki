@@ -154,13 +154,13 @@
 </tbody>
 </table>
 
-Requisite: [BFR (Certification)](</BFR_(Certification)> "wikilink")
+Requisite: [BFR (Certification)](</BFR_(Certification)>)
 
 This merit is a five-stage award, and is awarded by killing the required
 amount of Enemies using the pilot's weapons in a [BattleFrame
-Robotic](BFR.md "wikilink").
+Robotic](BFR.md).
 
 Upon completion of the Basic level, the pilot will be able to acquire
 the Flight Variant BattleFrame Robotic.
 
-[category:Merits](category:Merits.md "wikilink")
+[category:Merits](category:Merits.md)

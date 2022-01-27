@@ -3,12 +3,12 @@ AGO.**
 
 The Planetside Launchpad has a built in chat system with 7 chat rooms.
 
-- [Emerald](Emerald.md "wikilink")
-- [Werner](Werner.md "wikilink")
-- [Markov](Markov.md "wikilink")
-- [New Conglomerate](New_Conglomerate.md "wikilink")
-- [Vanu Sovereignty](Vanu_Sovereignty.md "wikilink")
-- [Terran Republic](Terran_Republic.md "wikilink")
+- [Emerald](Emerald.md)
+- [Werner](Werner.md)
+- [Markov](Markov.md)
+- [New Conglomerate](New_Conglomerate.md)
+- [Vanu Sovereignty](Vanu_Sovereignty.md)
+- [Terran Republic](Terran_Republic.md)
 - General
 
 Clearly General chat is the one that most people go to upon opening
@@ -16,7 +16,7 @@ Chat. People often frequent the Emerald chat room as well.
 
 The customer service staff are all moderators and thats who you usualy
 find in the chat room. Usualy around the time of a playtest the producer
-([Zatozia](Zatozia.md "wikilink")) and sometimes a quality assurance team
+([Zatozia](Zatozia.md)) and sometimes a quality assurance team
 member will arrive to talk to the players before the play test. Also
 when major events happen on the servers members of the team can
 sometimes be found here.
@@ -84,4 +84,4 @@ Commands
   user to your friends
 - /me <text> shows your text as an emote.
 
-[category:Communication](category:Communication.md "wikilink")
+[category:Communication](category:Communication.md)

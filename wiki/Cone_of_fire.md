@@ -15,8 +15,8 @@ The following things affect your **Cone of Fire**:
 - Jumping (expands)
 
 Some weapons always have a very narrow Cone of Fire (for example, the
-[Mosquito](Mosquito.md "wikilink")'s 12mm gun) while others expand quite a
-bit. The [Bolt Driver](Bolt_Driver.md "wikilink"), for instance, when
+[Mosquito](Mosquito.md)'s 12mm gun) while others expand quite a
+bit. The [Bolt Driver](Bolt_Driver.md), for instance, when
 crouched and stationary has a very tight Cone of Fire, but immediately
 after firing or even moving just slightly it expands to a very large
 area.
@@ -26,4 +26,4 @@ Managing your **Cone of Fire** is one of the basic skills in PlanetSide.
 - Fire in bursts, not continuously
 - When possible, crouch
 
-[Category:Game Guides](Category:Game_Guides.md "wikilink")
+[Category:Game Guides](Category:Game_Guides.md)

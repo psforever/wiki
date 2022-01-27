@@ -1,12 +1,12 @@
 ![](images/Leza_Mukuru_Map.jpg "Leza_Mukuru_Map.jpg")
 
-[Bio Lab](Bio_Lab.md "wikilink") Mukuru is situated alone on a small island
-in Southwest [Cyssor](Cyssor.md "wikilink"), which it shares only with its
-single [Tower](Tower.md "wikilink").
+[Bio Lab](Bio_Lab.md) Mukuru is situated alone on a small island
+in Southwest [Cyssor](Cyssor.md), which it shares only with its
+single [Tower](Tower.md).
 
-Lattice links are to [Nzame](Nzame.md "wikilink") and
-[Leza](Leza.md "wikilink").
+Lattice links are to [Nzame](Nzame.md) and
+[Leza](Leza.md).
 
 Elevation: 54.1m
 
-[Category:Facilities](Category:Facilities.md "wikilink")
+[Category:Facilities](Category:Facilities.md)
