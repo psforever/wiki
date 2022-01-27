@@ -24,7 +24,7 @@ can free up an army of [Engineers](Engineering.md). The
 [facilities](facilities.md) the ability to repair any
 non-[Ancient Tech](Ancient_Tech.md) ground or air
 [vehicle](Vehicle_Index.md) through the use of the ground
-vehicle [Repair/Rearm.md Silo](Repair/Rearm_Silo.md) and air
+vehicle [Repair/Rearm Silo](Repair/Rearm_Silo.md) and air
 vehicle [Repair/Rearm.md Landing Pad](Landing_Pad.md) (ancient tech
 vehicles require a [Vehicle Module](Vehicle_Module.md) for this
 function). The **Dropship Center** is also the largest of all

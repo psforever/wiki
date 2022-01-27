@@ -2,7 +2,7 @@ The **courtyard** is the area enclosed within a
 [facility's](facilities.md) walls. Stairwells at various points
 along the walls allow access to the ramparts. Within the walls are
 various support features such as the [NTU Silo](NTU_Silo.md),
-[Repair/Rearm.md Silos](Repair/Rearm_Silo.md), and typically the
+[Repair/Rearm Silos](Repair/Rearm_Silo.md), and typically the
 [BFR Shed](BFR_Shed.md) and [Vehicle
 Terminal](Vehicle_Terminal.md). However, [Technology
 Plants](Technology_Plant.md) have both Air and Ground [Vehicle

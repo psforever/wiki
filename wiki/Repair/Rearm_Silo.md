@@ -1,6 +1,6 @@
 ![](Repair-silo.md.jpg "fig:Repair-silo.jpg") base\]\]
 
-The **Repair/Rearm.md Silo** is a large cylindrical structure attached to
+The **Repair/Rearm Silo** is a large cylindrical structure attached to
 two walls in each continent's [surface
 bases](Facilities.md#Surface_Bases), and to the [HART
 buildings](HART_building.md) in each

@@ -67,7 +67,7 @@ each type of benefit associated or linked to that base.
 
   Replenishment of vehicle ammunition has since become a free feature
   for all bases, regardless of a link to a Dropship Center. See
-  [Repair/Rearm.md Silo](Repair/Rearm_Silo.md).
+  [Repair/Rearm Silo](Repair/Rearm_Silo.md).
   Note: [Ancient Tech](Ancient_Tech.md) Vehicles
   ([Flail](Flail.md) and
   [Switchblade](Switchblade.md)) require the [Vehicle

@@ -14,7 +14,7 @@ anti-aircraft weapon. The rounds lock-on similar to the
 name. The boxes can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
 BFR's [trunk](trunk.md) or acquired while in the vehicle from a
-[Repair/Rearm.md Silo](Repair/Rearm_Silo.md).
+[Repair/Rearm Silo](Repair/Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Ammunition](Category:Ammunition.md)

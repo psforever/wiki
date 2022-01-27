@@ -13,7 +13,7 @@ function.
 
 Vehicles with weapon systems have a default loadout of ammuntion for
 their guns loaded into the trunk on creation, but these contents may be
-changed quickly at a [Repair/Rearm.md Silo](Repair/Rearm_Silo.md),
+changed quickly at a [Repair/Rearm Silo](Repair/Rearm_Silo.md),
 [Landing Pad](Landing_Pad.md), or
 [Lodestar](Lodestar.md). These terminals also allow depleted
 ammunition to be instantly restocked in the trunk, via the vehicle
