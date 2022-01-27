@@ -31,9 +31,9 @@ Known Issues
     Turret](Ancient_Sentry_Turret.md) will have their name
     in enemy colors as seen with the [Enhanced
     Targeting](Enhanced_Targeting.md)
-    [implant](implant.md). You get [grief](grief.md)
+    [implant](Implants.md). You get [grief](Grief_points.md)
     for shooting the seemingly enemy-held turret even if the
-    friendly is in your own [platoon](platoon.md).
+    friendly is in your own [platoon](Platoon.md).
   - Workaround: None. You can ask the occupant to get out and back
     in which will likely fix the problem. If you find friendlies
     shooting at you constantly, get out and back in yourself!
@@ -65,8 +65,8 @@ Known Issues
 
 - [Enhanced Targeting](Enhanced_Targeting.md) Bug
   - Description: The Enhanced Targeting
-    [implant](implant.md) will sometimes show an enemy
-    [vehicle](vehicle.md) or [Wall
+    [implant](Implants.md) will sometimes show an enemy
+    [vehicle](Vehicle.md) or [Wall
     Turret](Phalanx_Turret.md) as having almost no health
     left, while in fact they are at full health. This sometimes
     happens when the vehicle is damaged, goes out of draw distance

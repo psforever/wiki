@@ -1,15 +1,15 @@
-Each type of [base facility](facilities.md) carries with it a
+Each type of [base facility](Facilities.md) carries with it a
 unique benefit for the Empire holding that base. These benefits can be
 linked to other facilities via the [Continental
-Lattice](lattice.md). A facility can enjoy many benefits from
+Lattice](Lattice.md). A facility can enjoy many benefits from
 mulitiple bases through direct and indirect chains of links.
 
 Facility Linked Benefits, or FLB, can be interupted if the base is
 [hacked](Capturing_Bases.md) by the enemy, if the
-[generator](generator.md) is destroyed, a
+[generator](Generator.md) is destroyed, a
 [Virus](Virus.md) is uploaded into the [Main
 Terminal](Main_Terminal.md), or the base runs out of
-[NTU](NTU.md) and goes [neutral](neutral.md). Any
+[NTU](NTU.md) and goes [neutral](Neutral.md). Any
 facility linked to this incapacitated base, directly or via a chain of
 bases, will lose that base's benefit (except viruses, which affect only
 the infected base).

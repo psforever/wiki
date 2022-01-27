@@ -5,7 +5,7 @@ The **Lattice Logic Unit Socket** is the Socket in which the
 hacked.
 
 The LLU will last 15 minutes, starting from the moment the
-[facility](facility.md) is hacked until the LLU is successfully
+[facility](Facility.md) is hacked until the LLU is successfully
 brought to its destination or the defending [Empire](Empire.md)
 [re-hacks](Hack.md) the facility.
 

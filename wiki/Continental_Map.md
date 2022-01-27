@@ -1,6 +1,6 @@
 Sometimes called the Overhead Map, this is a top-down view of a
-[continent](continent.md) and its
-[facilities](facilities.md). Accessed by pressing the "M" key
+[continent](Continent.md) and its
+[facilities](Facilities.md). Accessed by pressing the "M" key
 (default).
 
 To zoom the map, use the Mouse Wheel, and to move it, left-click-hold,
@@ -23,7 +23,7 @@ features of the basic view are as follows:
   icon (indicating [Hack-and-Hold](Hack-and-Hold.md) base
   type) or flag icons (indicating an [LLU](Lattice_Logic_Unit.md) base type).
 - **Hack Status** --If the facility is under hack, crossed flags of
-  the [empire](empire.md) initiating the hack will appear to
+  the [empire](Empire.md) initiating the hack will appear to
   the left of the facility name.
 - **[Facility Linked Benefit](Facility_Linked_Benefit.md)**
   --Above the base name will be various icons indicating the linked
@@ -81,7 +81,7 @@ features of the basic view are as follows:
   associated with it, and many deployables have SOI restrictions.
 - **[Tower](Towers.md) SOIs** --Towers also have an
   [SOI](Sphere_of_Influence.md), although it is a lot smaller. Where a Tower
-  and Base SOI overlap, your [empire](empire.md)'s SOI takes
+  and Base SOI overlap, your [empire](Empire.md)'s SOI takes
   priority.
 
 ### Warpgate Information

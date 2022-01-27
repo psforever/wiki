@@ -1,7 +1,7 @@
 The **Melee Booster** implant greatly increases damage output from all
-melee weapons, which includes the [empire](empire.md)-specific
+melee weapons, which includes the [empire](Empire.md)-specific
 combat knife (key '5') standard to all infantry (Non-MAX)
-[armor](armor.md), as well as the [Fusion
+[armor](Armor.md), as well as the [Fusion
 Blade](Fusion_Blade.md).
 
 Damage to enemy health points is increased by 25 over that of an

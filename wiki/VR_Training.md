@@ -11,7 +11,7 @@ terminals](Equipment_Terminal.md) and a large area populated
 with holographic enemy infantry, MAX Units and light vehicles.
 
 While in the Shooting Range, all
-[certification](certification.md) restrictions are lifted,
+[certification](Certification.md) restrictions are lifted,
 allowing any soldier to use any of their own Empire's available
 equipment. (The exception to this is the [Command Uplink
 Device](Command_Uplink_Device.md), which still requires [Command
@@ -31,7 +31,7 @@ Teleport column in the centre of the room.
 ## Driving Range
 
 The Driving Area consists of a small holographic
-[continent](continent.md) with similar features to one of the
+[continent](Continent.md) with similar features to one of the
 real temperate planets, such as [Cyssor](Cyssor.md) or
 [Amerish](Amerish.md). It is dotted with [Vehicle
 Terminals](Vehicle_Terminal.md), a [BFR
@@ -52,7 +52,7 @@ and rocks.
 While not normally available, enemy empire-specific vehicles can be
 acquired here if your empire has [locked](Continental_lock.md)
 both [Home Continents](Home_Continent.md) of an enemy empire, or
-has gained enemy vehicles through an [event](event.md).
+has gained enemy vehicles through an [event](Events.md).
 
 There is a [Repair Silo](Repair_Silo.md) located next to the
 starting vehicle terminal, allowing Favorites to be saved, and BFR

@@ -15,7 +15,7 @@ In the gunner variant, the shields will be activated whenever a soldier
 enters either the pilot or gunner's seat, and will remain active as long
 as someone occupies one of these positions. Emptying both positions will
 deactivate the shields, leaving the BFR directly vulnerable to attack or
-[jacking](jack.md).
+[jacking](Jack.md).
 
 The Flight Variant of the Peregrine is the [Eagle](Eagle.md).
 
@@ -35,7 +35,7 @@ Additionally, it is possible to manually deactivate one of the weapons,
 using them one at a time (one weapon must always remain active,
 however).
 
-![](images/Peregrine_VS.jpg "fig:Peregrine_VS.jpg")-[jacked](jack.md)
+![](images/Peregrine_VS.jpg "fig:Peregrine_VS.jpg")-[jacked](Jack.md)
 Peregrine, operating with a full crew of pilot and gunner. Equipped with
 two [Hammers](Hammer.md) and a [Particle
 Cannon](Particle_Cannon.md)\]\]

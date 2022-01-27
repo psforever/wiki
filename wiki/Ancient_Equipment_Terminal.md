@@ -13,7 +13,7 @@ Unless they are located in an enemy [Redoubt
 Building](Redoubt_Building.md), [AT Plant](AT_Plant.md),
 or [Module Building](Module_Building.md), the Ancient Equipment
 Terminals are neutral, and thus everyone can use it without
-[hacking](hack.md) it.
+[hacking](Hack.md) it.
 
 Note: Some Ancient Equipment Terminals are misplaced inside walls. These
 can still be used if you point your cursor at the top of the structure.

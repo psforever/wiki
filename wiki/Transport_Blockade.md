@@ -219,7 +219,7 @@ vehicles:
 - [Aurora](Aurora.md)
 - [Thunderer](Thunderer.md)
 - [Raider](Raider.md)
-- [Galaxy](vehicles/Galaxy.md)
+- [Galaxy](Galaxy.md)
 - [Galaxy Gunship](Galaxy_Gunship.md)
 - [Juggernaut](Juggernaut.md)
 - [Leviathan](Leviathan.md)

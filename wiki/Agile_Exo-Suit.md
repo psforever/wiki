@@ -27,8 +27,8 @@ Applicator](Medical_Applicator.md), [BANK](Body_Armor_Nano_Kit.md),
 
 With about twice the protection of the [Standard
 Exo-Suit](Standard_Exo-Suit.md) and the flexibility of a second
-[pistol slot](holster.md) and larger
-[inventory](inventory.md), the **Agile Exo-Suit** is a vast
+[pistol slot](Holster.md) and larger
+[inventory](Inventory.md), the **Agile Exo-Suit** is a vast
 improvement. You still maintain good foot speed and this is the heaviest
 armor you can wear and still pilot/drive all vehicles.
 

@@ -7,7 +7,7 @@ Buildings](Module_Building.md) in the
 [Caverns](Caverns.md) introduced by the expansion [Core
 Combat](Core_Combat.md).
 
-When installed inside a surface base [facility](facilities.md),
+When installed inside a surface base [facility](Facilities.md),
 modules grant the facility and the controlling empire a [module
 benefit](module_benefit.md) (apart from [Facility Linked
 Benefits](Facility_Linked_Benefit.md)), depending on the type of
@@ -70,16 +70,16 @@ rules, in the same vein as [LLUs](Lattice_Logic_Unit.md).
     under normal circumstances. This is to prevent
     [griefing](Grief_points.md). However, friendlies can remove
     modules from their own base if the enemy has the facility under
-    [hack](hack.md).
+    [hack](Hack.md).
 2.  Once installed at a facility, modules can only be stolen by enemies
     if one of two things happen.
-    1.  If the [facility](facility.md)'s [Control
+    1.  If the [facility](Facility.md)'s [Control
         Console](Control_Console.md) is
         [hacked](Hack.md).
-    2.  If the facility's [generator](generator.md) is
+    2.  If the facility's [generator](Generator.md) is
         destroyed.
 3.  If the facility where the module is installed reverts to a
-    [neutral](neutral.md) state, the module is destroyed, as it
+    [neutral](Neutral.md) state, the module is destroyed, as it
     has no power.
 4.  Once installed at a facility, the module has a complete lifetime of
     roughly 28 hours, which is also the cavern rotation cycle's time

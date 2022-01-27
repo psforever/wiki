@@ -9,7 +9,7 @@ Generators](Aegis_Shield_Generator.md) can also have pain fields
 if infected by an enemy [Virus](Virus.md).
 
 The [Pain Field](Pain_Field.md) at a surface
-[facility](facility.md) can be enhanced in two ways. The first
+[facility](Facility.md) can be enhanced in two ways. The first
 is by the addition of a [Pain Module](Pain_Module.md)
 [benefit](Module_benefit.md) to the facility. The second is by
 upgrades made by [Expert Hackers](Expert_Hacking.md) using their

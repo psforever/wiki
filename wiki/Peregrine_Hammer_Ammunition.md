@@ -13,7 +13,7 @@ anti-infantry pilot weapon of the [Peregrine](Peregrine.md) and
 medium range provided you manage the spread setting of the Hammer
 weapon. The boxes can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
-[BFR](BattleFrame_Robotics.md)'s [trunk](trunk.md) or acquired while in
+[BFR](BattleFrame_Robotics.md)'s [trunk](Trunk.md) or acquired while in
 the BFR from a [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

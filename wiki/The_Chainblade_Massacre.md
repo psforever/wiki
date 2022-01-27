@@ -34,7 +34,7 @@ following:
 - [Empire](Empire.md) specific Jack-o-lanterns will replace
   the backpack corpses.
 - Before joining the massacre, we advise careful planning of your
-  [implants](implant.md). With so many spooky ghosts and
+  [implants](Implants.md). With so many spooky ghosts and
   ghouls around, you'll probably want to have
   [Darklight](Darklight.md) handy.
 - Each empire will have a predetermined base. Hacking of the bases

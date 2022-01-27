@@ -19,7 +19,7 @@ there is no change-over timer. The only limitation is access to an
 Upon installation, Implants require a brief enabling time, known as the
 [Initialization timer](Initialization_timer.md). Once enabled
 you may switch the implant on and off as needed. When activated,
-implants can quickly use up your [stamina](stamina.md), leaving
+implants can quickly use up your [stamina](Stamina.md), leaving
 you drained and unable to run, so caution is advised. Running out of
 stamina will also cause all implants to turn off, although they can be
 immediately reactivated once stamina returns to 20 or more points.

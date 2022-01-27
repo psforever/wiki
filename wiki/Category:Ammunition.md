@@ -1,5 +1,5 @@
 This page lists all the different types of
-[ammunition](ammunition.md) in
+[ammunition](Ammunition.md) in
 [PlanetSide](PlanetSide.md), from both hand held
-[weaponry](weapon.md) and [vehicle](vehicle.md) mounted
+[weaponry](Weapon.md) and [vehicle](Vehicle.md) mounted
 weaponry.

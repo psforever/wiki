@@ -1,7 +1,7 @@
 Empire Incentives are awarded and adjusted based upon
 continental/planetary population. They activate only when the
-[empire](empire.md) with the highest population on the
-[zone](zone.md) has at least 50 players.
+[empire](Empire.md) with the highest population on the
+[zone](Zone.md) has at least 50 players.
 
 For each zone, you have experience, spawn timer, and purchase timer
 bonuses. These only affect the current zone and are based on that zone's

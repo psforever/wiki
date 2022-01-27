@@ -19,7 +19,7 @@ the first kill the person you supported makes. Any additional kills
 during this time will also count as assists. This timer is a minimum of
 5 minutes and a maximum of 10 minutes, depending how much you supported
 the player. If the player dies, the tracker stops, unless he is
-[revived](revive.md). [Locker Hack](Locker_Hack.md) and
+[revived](Revive.md). [Locker Hack](Locker_Hack.md) and
 [hot drop](Galaxy_Support_Pilot.md) assist timers start at the
 time of the assist, rather than after the first kill.
 

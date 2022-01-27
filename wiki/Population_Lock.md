@@ -1,10 +1,10 @@
-A population lock is when a [continent](continent.md) is full,
+A population lock is when a [continent](Continent.md) is full,
 and cannot hold any more players.
 
 They come in two varieties:
 
 - Empire Population Lock - The maximum numbers of troops for your
-  specific [empire](empire.md) has been reached for this
+  specific [empire](Empire.md) has been reached for this
   continent. However, the same may not be true for the other empire at
   the time.
 

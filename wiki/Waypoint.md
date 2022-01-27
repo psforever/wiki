@@ -9,8 +9,8 @@ There are many different waypoints in
 - **Squad/Platoon Waypoints**: These waypoints are placed by Squad
   leaders that are [Command Rank](Command_Rank.md) 1 or
   higher. These are visible to all members of the
-  [squad](squad.md) the CR1 is leading, and are shared between
-  squads in a [platoon](platoon.md). These waypoints are
+  [squad](Squad.md) the CR1 is leading, and are shared between
+  squads in a [platoon](Platoon.md). These waypoints are
   colored according to the position of the [Squad
   Leader](Squad_Leader.md) setting them within a platoon,
   i.e., waypoints set by a particular squad leader will match the
@@ -46,7 +46,7 @@ There are many different waypoints in
 - **Personal Waypoint**: Players can set a single [Personal
   Waypoint](Personal_Waypoint.md), colored white and visible
   only to themselves, to aid navigation within a
-  [zone](zone.md).
+  [zone](Zone.md).
 
 <!-- -->
 
@@ -74,14 +74,14 @@ ones listed above:
 <!-- -->
 
 - **Rabbit Waypoint**: If there is a [Rabbit](Rabbit.md)
-  [event](event.md) on the zone you are on, an orange circular
+  [event](Events.md) on the zone you are on, an orange circular
   waypoint will appear on your proximity and continental maps. This
   waypoint is not visible in the gameworld as the other waypoints are.
   The waypoint will point in the direction of the rabbit ball.
 
 <!-- -->
 
-- **Vehicle Waypoint**: If you own a [vehicle](vehicle.md),
+- **Vehicle Waypoint**: If you own a [vehicle](Vehicle.md),
   but are not currently operating it, a yellow rectangle will appear
   on the proximity map pointing in the direction of your vehicle if it
   is not within the range of the proximity map's current zoom setting.

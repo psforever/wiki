@@ -27,9 +27,9 @@ larger cone of fire than the Bolt Driver making it a little less
 accurate at longer ranges.
 
 The HSR is free for characters with the [Two Year Term of
-Service](Term_of_Service.md) [merit](merit.md). Others
+Service](Term_of_Service.md) [merit](Merit_Commendations.md). Others
 may obtain it by purchasing the [Sniping](Sniping.md)
-[certification](certification.md).
+[certification](Certification.md).
 
 Shots to kill:
 

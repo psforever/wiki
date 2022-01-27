@@ -23,7 +23,7 @@ for leaving the irradiated area. However, the damage from the weapon is
 cut in half if you are in a vehicle or in a [MAX](Mechanized_Assault_Exo-Suit.md) suit.
 
 In addition to the [Special Assault](Special_Assault.md)
-[Certification](certifications.md), unless the user is in the
+[Certification](Certifications.md), unless the user is in the
 core, the base must have an [Equipment
 Module](Equipment_Module.md) installed for the weapon to be
 purchased.
@@ -42,7 +42,7 @@ as well as reduce the health of the driver/gunner. Combined with a
 [Jammer grenade](Jammer_Grenade.md) or [EMP](EMP.md)
 blast, the radiator can be used to either kill the ocupants of a
 [BFR](BattleFrame_Robotics.md) or make them eject, leaving you with an otherwise
-undamaged [BFR](BattleFrame_Robotics.md) that can be [hacked](hack.md).
+undamaged [BFR](BattleFrame_Robotics.md) that can be [hacked](Hack.md).
 
 Note: [Radiator](Radiator.md) effects do not "stack."
 Overlapping irradiated areas always deal the same amount of damage over

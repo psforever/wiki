@@ -1,15 +1,15 @@
 ![](images/PSScreenShot0257.jpg "PSScreenShot0257.jpg")
 
-|                            |                                                  |
-| -------------------------- | ------------------------------------------------ |
+|                            |                                       |
+| -------------------------- | ------------------------------------- |
 | **Certification Required** | [Medical](Medical.md)                 |
 | **Empire**                 | [Common Pool](Common_Pool.md)         |
-| **Primary Mode**           | Heal Friendlies                                  |
-| **Secondary Mode**         | Heal Self                                        |
+| **Primary Mode**           | Heal Friendlies                       |
+| **Secondary Mode**         | Heal Self                             |
 | **Ammunition**             | [Health Canister](Health_Canister.md) |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                           |
-| **Magazine Capacity**      | 100                                              |
-| **Zoom**                   | None                                             |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                |
+| **Magazine Capacity**      | 100                                   |
+| **Zoom**                   | None                                  |
 
 **Medical Applicator**
 
@@ -42,7 +42,7 @@ Secondary function will allow the user to heal himself.
 5.  Advanced Medics can see "fallen" friendly soldiers on the [Proximity
     Map](Proximity_Map.md) when their Medical Applicator is
     drawn. They are represented as glowing triangles.
-6.  It's a good idea to create a [macro](macro.md) in local chat
+6.  It's a good idea to create a [macro](Macro.md) in local chat
     announcing "I am an advanced medic. Do not release!" This will let
     people know that there is an advanced medic in the area willing to
     revive them, and encourage them to wait for a revive.

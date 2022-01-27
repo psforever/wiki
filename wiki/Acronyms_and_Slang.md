@@ -49,15 +49,15 @@ Aircav : [Air Cavalry](Air_Cavalry.md)
 ammo : Short for ammunition.
 AMS : [Advanced Mobile Station](Advanced_Mobile_Station.md). Name for the mobile spawn point vehicle.
 ANT : [Advanced Nanite Transport](Advanced_Nanite_Transport.md). The vehicle that carries [NTUs](NTU.md) to distribute to [NTU Silos](NTU_Silo.md).
-ANT drop : The action of ejecting an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) from a [Galaxy](vehicles/Galaxy.md) or [Lodestar](Lodestar.md) near an [NTU Silo](NTU_Silo.md). Also another name for ANT run.
-ANT run : A mission to refill depleted or critical [NTU Silos](NTU_Silo.md), often utilizing a [Galaxy](vehicles/Galaxy.md) or [Lodestar](Lodestar.md) to speed up the travel to and from [Warpgates](Warpgate.md).
+ANT drop : The action of ejecting an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) from a [Galaxy](Galaxy.md) or [Lodestar](Lodestar.md) near an [NTU Silo](NTU_Silo.md). Also another name for ANT run.
+ANT run : A mission to refill depleted or critical [NTU Silos](NTU_Silo.md), often utilizing a [Galaxy](Galaxy.md) or [Lodestar](Lodestar.md) to speed up the travel to and from [Warpgates](Warpgate.md).
 Assfire : Refers to the [Starfire MAX](Starfire.md)
 AT : [Ancient-Tech](Ancient_Technology.md). Having to do with [Core Combat](Core_Combat.md) assets.
-AV : [Anti-Vehicular](Anti-Vehicular.md) certification, MAXes, or [weapons](weapon.md).
+AV : [Anti-Vehicular](Anti-Vehicular.md) certification, MAXes, or [weapons](Weapon.md).
 
 ## B
 
-BD : short for [Back Door](Back_Door.md), referring to the back door of a [base](facilities.md).
+BD : short for [Back Door](Back_Door.md), referring to the back door of a [base](Facilities.md).
 Badge : Refers to [Merit Commendations](Merit_Commendations.md), because one can wear shoulder patches denoting one's merits.
 Bailure : The act of fighting in a Mosquito and then dropping onto the target after your vehicle is destroyed. Then repeating this single tactic until you log.
 _or_
@@ -75,13 +75,13 @@ Big Bird : A slang term for a New Conglomerate player at BR14 to BR24. Refers to
 Bluebie : Slang term for a (often new) New Conglomerate player, BR1 to BR6. It is a reference to the predominately blue armor suit.
 [Boomer](Boomer.md) : Remotely detonated charge created from an [ACE](Adaptive_Construction_Engine.md) and planted by [Combat Engineers](Combat_Engineering.md).
 BR : [Battle Rank](Battle_Rank.md). See CR.
-Brick : Slang for the [Galaxy](vehicles/Galaxy.md) dropship.
+Brick : Slang for the [Galaxy](Galaxy.md) dropship.
 BEP : [Battle Experience Points](Battle_Experience_Points.md) The experience points you collect from killing enemies, capturing bases and exploring the world of Planetside.
 
 ## C
 
 Caver, Ferret : Soldiers who battle in the [Caverns](Caverns.md).
-CC : [Control Console](Control_Console.md), the capture point for [bases](facilities.md) and [towers](towers.md). Also refers to [Core Combat](Core_Combat.md). Click-Click: a historical way radio operators would acknowledge receipt of a transmission by sending 2 short "clicks" of static ("Everyone understand?" reply: "cc").
+CC : [Control Console](Control_Console.md), the capture point for [bases](Facilities.md) and [towers](Towers.md). Also refers to [Core Combat](Core_Combat.md). Click-Click: a historical way radio operators would acknowledge receipt of a transmission by sending 2 short "clicks" of static ("Everyone understand?" reply: "cc").
 CEP : [Command Experience Points](Command_Experience_Points.md) The experience points you collect from being a [squad](Squad.md) leader.
 CE : [Combat Engineering](Combat_Engineering.md), common referrence in the field for Mines, Spitfire turrrets. ("Get some CE down at this base please!")
 Cloaker : Player who uses the [Infiltration Suit](Infiltration_Suit.md)
@@ -95,7 +95,7 @@ CR/BR : [Command Rank](Command_Rank.md) and [Battle Rank](Battle_Rank.md).
 Crackhammer : A common TR term for the NC [Jackhammer](Jackhammer.md).
 Crash : An assault from a large group of the exact same unit all in one large wave. Most common variety being a [MAX](Mechanized_Assault_Exo-Suit.md) Crash
 CTD : Crash to Desktop ("Sorry, I'm back after a CTD")
-CY : short for [courtyard](courtyard.md), referring to the area between the facility's structure and the surrounding base walls.
+CY : short for [courtyard](Courtyard.md), referring to the area between the facility's structure and the surrounding base walls.
 
 <div id="CyssorSide">
 </div>
@@ -107,11 +107,11 @@ Chiggers : Group of defenders that have dug-in and proven difficult to remove.
 
 DC, DCMAX : [Dual-Cycler](Dual-Cycler.md), TR Anti Infantry MAX.
 DC'ed : disconnected due to connection problems.
-deci : [Decimator](Decimator.md) Anti-vehicle [weapon](weapon.md).
+deci : [Decimator](Decimator.md) Anti-vehicle [weapon](Weapon.md).
 deli : [Deliverer](Deliverer.md) troop transport.
 Deployables : Name for items created with the [ACE](Adaptive_Construction_Engine.md), such as Mines, Spitfires, Boomers, and Motion Sensors. Often interchanged with "CE."
 Drain : The process of damaging an enemy base causing the base to deplete all of it's [NTUs](NTU.md) for auto-repairing its structures. ([JamQ](JamQ.md) Guide on how to drain a [Base](Facilities.md).)
-Duck Walk : A celebratory "dance" players sometimes do after a base capture (or if there are no enemies to kill while waiting for the timer). Usually done by forming a line with other players and crouch walking while doing an [emote](emote.md), usually the cabbagepatch or dunno emotes. Also called a Conga Line.
+Duck Walk : A celebratory "dance" players sometimes do after a base capture (or if there are no enemies to kill while waiting for the timer). Usually done by forming a line with other players and crouch walking while doing an [emote](Emote.md), usually the cabbagepatch or dunno emotes. Also called a Conga Line.
 
 ## E
 
@@ -126,24 +126,24 @@ ENG/Engy : [Engineers](Engineering.md), collectively.
 
 Fagrider : Another name for the [Vanu Sovereignty](Vanu_Sovereignty.md) [Magrider](Magrider.md).
 Fagrocket : Another name for the [Phoenix](Phoenix.md) rockets.
-FD : Front Door, refering to the entrance to the main lobby in the base's [courtyard](courtyard.md). ("Pick me up at FD")
+FD : Front Door, refering to the entrance to the main lobby in the base's [courtyard](Courtyard.md). ("Pick me up at FD")
 FLB : [Facility Linked Benefits](Facility_Linked_Benefit.md). Refers to base benefits that link through the lattice to other facilities.
 FodderSide : [PlanetSide Reserves](PlanetSide_Reserves.md)
 Fodderling : Sometimes derogatory term for a Reservist player.
 ForumSide : Refers to the "game" of posting alot on the [PlanetSide Forums](Planetside_Official_Forums.md).
-Fraggle : Referring to a player who loves to play in the [caverns](caverns.md). ("We need some Fraggles to protect that cavern lock in Byblos!")
+Fraggle : Referring to a player who loves to play in the [caverns](Caverns.md). ("We need some Fraggles to protect that cavern lock in Byblos!")
 Fragstab : The act of throwing a [Fragmentation grenade](Fragmentation_grenade.md) quickly followed by a [Melee-Boosted](Melee_Booster.md) knife attack to kill an enemy almost instantly.
 
 ## G
 
-Gal : Abbreviation for the [Galaxy](vehicles/Galaxy.md)
+Gal : Abbreviation for the [Galaxy](Galaxy.md)
 Gal Gunship / GG : Abbreviation for the [Galaxy Gunship](Galaxy_Gunship.md)
-Gal Bomb : Charging a (typically unloaded) [Galaxy](vehicles/Galaxy.md) into a target
-Gal drop : A hotdrop of soldiers from a [Galaxy](vehicles/Galaxy.md) class transport. MAXes and Rexos expected.
-Gal Spam : Multiple [Galaxies](vehicles/Galaxy.md) being used a "Gal Bombs"
+Gal Bomb : Charging a (typically unloaded) [Galaxy](Galaxy.md) into a target
+Gal drop : A hotdrop of soldiers from a [Galaxy](Galaxy.md) class transport. MAXes and Rexos expected.
+Gal Spam : Multiple [Galaxies](Galaxy.md) being used a "Gal Bombs"
 Gaybot : Another name for BFRs ([BattleFrame Robotics](BattleFrame_Robotics.md)), used by people who are against BFR's
 Gen : [Generator](Generator.md)
-Gen Drop / "Drop The Gens!" : Common referrence to the tactic of destroying (Dropping) the [Generator](Generator.md) ("Drop their generator so we can break their defense!"). In context of defense, an enemy [Galaxy](vehicles/Galaxy.md) dropping troops near the generator, especially at Bio Labs ("Gen drop incoming! Defend the generator!").
+Gen Drop / "Drop The Gens!" : Common referrence to the tactic of destroying (Dropping) the [Generator](Generator.md) ("Drop their generator so we can break their defense!"). In context of defense, an enemy [Galaxy](Galaxy.md) dropping troops near the generator, especially at Bio Labs ("Gen drop incoming! Defend the generator!").
 Gen Hold: Furthering the Gen Drop tactic of destroying the base's [Generator](Generator.md) (usually a [Technology Plant](Technology_Plant.md)) and holding the [Generator](Generator.md) Room to prevent the enemy from repairing it.
 Ghostbuster : A player with the expertise of hunting and killing cloakers.
 Ghost Hack : Hacking a continent with little to no resistance from the enemy.
@@ -154,10 +154,10 @@ Grunt : See: [Infantry](Infantry.md)
 
 ## H
 
-HA : [Heavy Assault](Heavy_Assault.md) certification or [weapon](weapon.md).
+HA : [Heavy Assault](Heavy_Assault.md) certification or [weapon](Weapon.md).
 Hax0r , Haxxor , Haxx0r : An Advanced Hacker or someone that uses illegal hacks.
 HART : Refers to the [HART shuttle](HART.md), its drop pods, its [launch building](HART_building.md), or that mode of transportation in general. "I'm going to HART in rather than use the warpgates."
-Hotdrop : The act of flying over a base, tower, or any other location where the "LZ" (landing zone, dropzone) is otherwise "hot" (under fire) and unavailable for landing and dropping the contents of a [Galaxy](vehicles/Galaxy.md) or [Lodestar](Lodestar.md)
+Hotdrop : The act of flying over a base, tower, or any other location where the "LZ" (landing zone, dropzone) is otherwise "hot" (under fire) and unavailable for landing and dropping the contents of a [Galaxy](Galaxy.md) or [Lodestar](Lodestar.md)
 Har/Harry : [Harrasser](Harrasser.md) vehicle.
 HUD : [Heads-up Display](Heads-up_Display.md)
 Hunter : Short form of [BFR Hunter](Acronyms_and_Slang.md#BFRHunter)
@@ -177,9 +177,9 @@ Juice : "Armor Juice" refers to the [Armor Canisters](Armor_Canister.md) used by
 
 ## K
 
-KAAOS Drop : Named after the [Emerald](Emerald.md) [TR](Terran_Republic.md) outfit [KAAOS](KAAOS.md). Using [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective, similar to a [Galaxy](vehicles/Galaxy.md) drop, but twice the air speed of a vehicles/Galaxy.mdGalaxy.md). This drop would then be followed by a [surge](surge.md) run to a specific objective in the base.
+KAAOS Drop : Named after the [Emerald](Emerald.md) [TR](Terran_Republic.md) outfit [KAAOS](KAAOS.md). Using [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective, similar to a [Galaxy](Galaxy.md) drop, but twice the air speed of a vehicles/Galaxy.mdGalaxy.md). This drop would then be followed by a [surge](Surge.md) run to a specific objective in the base.
 Killwhore : Player whose only purpose of the game is (or appears to be) the rapid increase of their kill count, whether highly skilled at it or not.
-Kitchen (aka Barracks) : Refers to the [lounge](lounge.md) that is behind the [spawn room](spawn_room.md)
+Kitchen (aka Barracks) : Refers to the [lounge](Lounge.md) that is behind the [spawn room](spawn_room.md)
 KS : Kill Steal, someone taking the kill after you did most of the work for it.
 KSer : Kill Stealer, someone who takes the last hit and is awarded the kill after you did all the damage to the target.
 KK : Ok.
@@ -197,7 +197,7 @@ LoS : Line of Sight. "I almost had the kill until a friendly stepped in my LoS, 
 
 ## M
 
-MA : [Medium Assault](Medium_Assault.md) certification or [weapons](weapon.md).
+MA : [Medium Assault](Medium_Assault.md) certification or [weapons](Weapon.md).
 Mag : [Magrider](Magrider.md). Also called "Magmower"
 Meat Shield : Any player that likes to run directly into the hail of enemy bullets, there by providng you with instant cover, intentionally or not.
 Mods: Short for the [Core Combat](Core_Combat.md) [Modules](Modules.md)
@@ -237,7 +237,7 @@ PS : [Personal Shield](Personal_Shield.md), [PlanetSide](PlanetSide.md)
 raid : A sudden attack on enemy territory, usually preceded by a buildup of forces in Sanctuary.
 RCL : Short for "recall," the act of sending a force back to the friendly sanctuary.
 rdy : Ready.
-REK : [Remote Electronics Kit](Remote_Electronics_Kit.md). Used to disable IFF locks, hack [Control Consoles](Control_Console.md), hack terminals, and [jack](jack.md) vehicles
+REK : [Remote Electronics Kit](Remote_Electronics_Kit.md). Used to disable IFF locks, hack [Control Consoles](Control_Console.md), hack terminals, and [jack](Jack.md) vehicles
 Rexo (or ReXo) : [Reinforced Exo-Suit](Reinforced_Exo-Suit.md).
 rez : The act of being reconstructed (resurrected, revived) by an [Advanced Medic](Advanced_Medical.md).
 rgr, Rog : Roger, ok.
@@ -245,7 +245,7 @@ rolling coffin : [Sunderer](Sunderer.md).
 
 ## S
 
-SA : [Special Assault](Special_Assault.md) certification or [weapons](weapon.md).
+SA : [Special Assault](Special_Assault.md) certification or [weapons](Weapon.md).
 Sanc : Refers to an empire's [Sanctuary](Sanctuary.md)
 ScatMax : Refers to the [New Conglomerate](New_Conglomerate.md) [Scattercannon](Scattercannon.md) Anti-Infantry [MAX](Mechanized_Assault_Exo-Suit.md)
 Scrub : Refers to a player whose objectives are unclear, or you just don't know the guy, a stranger to you.
@@ -262,11 +262,11 @@ slider : [Magrider](Magrider.md).
 SOI : Sphere of Influence([SOI](Sphere_of_Influence.md)) around towers and bases.
 SOL : [Solsar](Solsar.md). Also a crude way of denoting bad luck.
 Spam : The act of firing constantly at a target, often to the point of emptying the clip, regardless of whether or not there are actual enemies in that area ("spamming a back door with [Maelstroms](Maelstrom.md)", "rocket-spamming infantry")- Also used to describe chat flooding ("quit spamming global chat!")
-spec ops : Special Operations. Refers to surgical strike missions such as destroying [generators](generator.md), [Galaxy](vehicles/Galaxy.md) drop operations on bases and towers, or intense small squad missions apart from the main force.
+spec ops : Special Operations. Refers to surgical strike missions such as destroying [generators](Generator.md), [Galaxy](Galaxy.md) drop operations on bases and towers, or intense small squad missions apart from the main force.
 SplatMAX, SplatterMAX : Common referrence to the [NC](New_Conglomerate.md) Anti Infantry [MAX](Mechanized_Assault_Exo-Suit.md), the [Scattercannon](Scattercannon.md) .
 Spit/Spitter : [Spitfire Turrets](Spitfire_Turret.md)
 Sqd : [Squad](Squad.md)
-Squids/ Squidies : Pilot term for [infantry](infantry.md) on the ground. "Enemy squid with AA".
+Squids/ Squidies : Pilot term for [infantry](Infantry.md) on the ground. "Enemy squid with AA".
 Squishy : Common reference to a non-MAX soldier. Usage "One squishy spot left in Gal!"
 Stone : Another name for [Monolith](Monolith.md)
 Strafemonkey : An insult often uttered by players frusturated by the excessive use of strafe tactics by a [Heavy Assault](Heavy_Assault.md) weilding opponent.
@@ -280,7 +280,7 @@ TKer : Someone who makes a habit of killing teammates, or trying to. They may be
 TS : [TeamSpeak](http://www.goteamspeak.com), (Teamspeak RC2) free 3rd-party voice-over-ip communication software. Can also refer to (although rare) [TeamSound](http://www.teamsound.com), a similar voice communication software product.
 TSO : TeamSpeak Overlay, a tool that shows a semi-transparent overlay whilst playing a game. The overlay lights up whenever someone talks, showing their name so you know who's talking.
 TOH : Time on Hack, how much time is remaining for the facility's hack to complete.
-TTK : Time to Kill, time it takes for a given [weapon](weapon.md) to kill an opponent
+TTK : Time to Kill, time it takes for a given [weapon](Weapon.md) to kill an opponent
 tubes : [Respawn tubes](Respawn_Tube.md).
 
 ## U
@@ -304,7 +304,7 @@ Walking Coffin : [MAX](Mechanized_Assault_Exo-Suit.md) units.
 woot/w00t : Positive exclamation. ("Woot [CR5](Command_Rank.md)!")
 wootrasser : [Harasser](Harasser.md)
 WTG : Way to go!
-Whale : Slang term for the [Galaxy](vehicles/Galaxy.md) dropship.
+Whale : Slang term for the [Galaxy](Galaxy.md) dropship.
 
 ## X
 
@@ -314,7 +314,7 @@ XP/BEP/CEP/SEP : [Experience Points](Experience_Points.md), Command/Battle/Suppo
 
 ## Z
 
-zerg : Adopted from [StarCraft](http://www.blizzard.com/starcraft), referring to mass movements of troops with little or no tactical movement whatsoever, or an [empire](empire.md)'s primary assault. Once used to describe the [Terran Republic](Terran_Republic.md) towards the start of PlanetSide.
+zerg : Adopted from [StarCraft](http://www.blizzard.com/starcraft), referring to mass movements of troops with little or no tactical movement whatsoever, or an [empire](Empire.md)'s primary assault. Once used to describe the [Terran Republic](Terran_Republic.md) towards the start of PlanetSide.
 _"Look at that foot zerg..it's like a sea of red.." "Send the zerg to Forseral, and have them beat on the VS at Ogma for a bit."_
 
 ## Outfit Acronyms

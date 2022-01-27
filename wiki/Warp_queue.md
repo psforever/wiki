@@ -1,7 +1,7 @@
-Any [characters](character.md) trying to enter a
-[zone](zone.md) currently under [population
-lock](population_lock.md) via a [warpgate](warpgate.md),
-[geowarp](geowarp.md), or the [HART](HART.md) shuttle,
+Any [characters](Character.md) trying to enter a
+[zone](Zone.md) currently under [population
+lock](population_lock.md) via a [warpgate](Warpgate.md),
+[geowarp](Geowarp.md), or the [HART](HART.md) shuttle,
 rather than immediately being transported to the target continent will
 be placed in the **Warp Queue**.
 
@@ -10,7 +10,7 @@ The character's position in the queue is displayed in a small box on the
 Map](Continental_Map.md). A 'cancel' button is also provided to
 allow players a chance to travel to a different zone. If the player
 chooses to cancel from the queue, he will lose his place in line. If the
-driver leaves a [vehicle](vehicle.md) while in the queue, he
+driver leaves a [vehicle](Vehicle.md) while in the queue, he
 will also lose his place. Any character entering a vehicle where the
 driver is already in the queue will share the driver's space in the
 queue. This latter also creates the need for enough slots to fill up to

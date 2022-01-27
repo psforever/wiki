@@ -1,11 +1,11 @@
 ![](Thoth-solsar.md.jpg "fig:Thoth-solsar.jpg") on
 [Solsar](Solsar.md) with [Force Dome](Force_Dome.md)
-activated\]\] One [facilty](facilities.md) on each
-[Empire](Empire.md)'s Home [continent](continent.md) is
+activated\]\] One [facilty](Facilities.md) on each
+[Empire](Empire.md)'s Home [continent](Continent.md) is
 designated as the **Capitol**. During the
 [Post-Bending](The_Bending.md) era, control of this facility
 gave the dominating empire use of the continental
-[warpgates](warpgate.md) as [broadcast
+[warpgates](Warpgate.md) as [broadcast
 warpgates](broadcast_warpgate.md).
 
 Each Capitol is linked to 4 [Sub-Capitol](Sub-Capitol.md)
@@ -13,7 +13,7 @@ facilities. Control over at least two of these Sub-Capitols activates an
 impenetrable (for opposing Empires) [Force Dome](Force_Dome.md)
 over the Capitol.
 
-The Capitol's [generator](generator.md) and hack status do not
+The Capitol's [generator](Generator.md) and hack status do not
 affect the operation of the Force Dome. Only the ownership status of the
 Sub-Capitols will deactivate it. (Capitol generators affect facility
 equipment, as normal. The Capitols' control console affects only the

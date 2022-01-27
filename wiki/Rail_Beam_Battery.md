@@ -1,19 +1,19 @@
-|                                             |                                                    |
-| ------------------------------------------- | -------------------------------------------------- |
-| **Used by**                                 | [Magrider](Magrider.md)                 |
-| **Empire**                                  | [Vanu Sovereignty](Vanu_Sovereignty.md) |
-| **[Trunk](Trunk.md) dimensions** | 4x4                                                |
-| **Quantity per box**                        | 100 Rounds                                         |
+|                                  |                                         |
+| -------------------------------- | --------------------------------------- |
+| **Used by**                      | [Magrider](Magrider.md)                 |
+| **Empire**                       | [Vanu Sovereignty](Vanu_Sovereignty.md) |
+| **[Trunk](Trunk.md) dimensions** | 4x4                                     |
+| **Quantity per box**             | 100 Rounds                              |
 
 **Rail Beam Battery**
 
-This [ammunition](ammunition.md) is used by the
+This [ammunition](Ammunition.md) is used by the
 [Magrider](Magrider.md)'s gunner's weapon. It does a rather
 small amount of damage, but the rate of fire, straight trajectory of the
 weapon, and the splash damage make up for it. The boxes can be obtained
 from any [Equipment Terminal](Equipment_Terminal.md) to be
-hand-loaded into the [vehicle](vehicle.md)'s
-[trunk](trunk.md) or acquired while in the vehicle from a
+hand-loaded into the [vehicle](Vehicle.md)'s
+[trunk](Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

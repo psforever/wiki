@@ -11,7 +11,7 @@
 Assault](Medium_Assault.md) pistols. These bullets have greater
 stopping power than their 9mm counterparts. They do high damage to
 infantry and [MAX](Mechanized_Assault_Exo-Suit.md) units, but low damage against
-[vehicles](vehicle.md) and equipment.
+[vehicles](Vehicle.md) and equipment.
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Ammunition](Category:Ammunition.md)

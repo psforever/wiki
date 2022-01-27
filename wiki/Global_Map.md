@@ -3,8 +3,8 @@ Map](Global_Map.md) was the way
 [PlanetSide](PlanetSide.md) originally showed the ten continents
 and three sanctuaries. Before [The Bending](The_Bending.md)
 occurred, all of [Auraxis](Auraxis.md) was still one planet.
-Therefore, the ten [continents](continent.md) and three
-[sanctuaries](sanctuary.md) were all displayed on one map
+Therefore, the ten [continents](Continent.md) and three
+[sanctuaries](Sanctuary.md) were all displayed on one map
 displaying Auraxis as one world of ten continents. However, after The
 Bending, Auraxis was split up into many different planets, and the
 Global Map was replaced by the [Interstellar
@@ -32,7 +32,7 @@ Global Map has certain advantages over the Interstellar Map.
 With the Global Map, some users contend that the
 [Lattice](Lattice.md) was more obvious. By clicking on a
 continent, a player could see which continent linked to what other
-continents and which [warpgates](warpgate.md) are used. With the
+continents and which [warpgates](Warpgate.md) are used. With the
 Interstellar Map, a player can only tell which continents link to each
 other, but must investigate the continent to find out which warpgates
 are used to link two continents together.
@@ -50,7 +50,7 @@ left on that particular planet.
 ### Traveling Weather
 
 With the Global Map, it was obvious to a player when
-[weather](weather.md) patterns are going to move from continent
+[weather](Weather.md) patterns are going to move from continent
 to continent. However, this is completely impossible to tell with the
 Interstellar Map, and storms seem to be entirely random.
 

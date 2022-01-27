@@ -6,7 +6,7 @@ be the case.)
 
 Located at the top middle, this strip shows the names, numbers,
 conditions and grid references of the members of your current
-[squad](squad.md). Red sections indicate a squad member's
+[squad](Squad.md). Red sections indicate a squad member's
 current Health, blue shows Armor. Each squad member is given an
 arbitrarty number, which is used to show them on the [Continental
 Map](Continental_Map.md). Thier current Map
@@ -80,7 +80,7 @@ spam' can be a powerful tool to work our enemy positions and makeup, as
 it cannot be masked.
 
 Also shown in this section in white text are
-[experience](experience.md) awards, as they happen, and world
+[experience](Experience.md) awards, as they happen, and world
 messages, such as the capture of facilities, and the movement of
 [LLUs](Lattice_Logic_Unit.md), implant activations and any other system
 messages.
@@ -244,7 +244,7 @@ totals are show in bar and numerical form.
 
 Positioned in the centre of the status pane, the Hotkey bar contains
 eight numbered fields corresponding to the F1-F8 function keys. Each can
-be used to trigger [implants](implants.md) (such as the
+be used to trigger [implants](Implants.md) (such as the
 [Surge](Surge.md) implant), items (such as
 [MedKits](MedKit.md)), or text chat macros, by dragging the
 corresponding icon from the [Inventory](Inventory.md) or the
@@ -252,14 +252,14 @@ appropriate in-game panel to the hotkey you wish to assign.
 
 ### Holster Icons
 
-Located lower right, the contents of any [holsters](holster.md)
+Located lower right, the contents of any [holsters](Holster.md)
 are shown in icon form. A faded icon indicates that a weapon is curently
 holstered.
 
 Beneath the weapon is shown the number of shots left in the weapon, an
 icon showing which type of ammunition is currently loaded, and the
 number of extra rounds being carried in the
-[backpack](backpack.md), available for reload.
+[backpack](Backpack.md), available for reload.
 
 The current fire-mode of the weapon is shown as a yellow pip to the left
 of the gun, and is also shown as a status message in the Status Window

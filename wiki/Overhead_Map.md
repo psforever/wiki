@@ -1,6 +1,6 @@
 Overhead Map can refer to one of two things:
 
-1.) The [Game Map](map.md), where soldiers can view the war on
+1.) The [Game Map](Map.md), where soldiers can view the war on
 an [Interstellar](Interstellar_Map.md) or
 [Continental](Continental_Map.md) scale as a top-down display.
 

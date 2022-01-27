@@ -217,7 +217,7 @@ him using a [Medical Applicator](Medical_Applicator.md). The
 tracker starts after the first kill after the heal assist. The tracker
 stops 5 to 10 minutes later, depending how much healing was needed. If
 the soldier dies, the tracker stops, unless he is
-[revived](revive.md).
+[revived](Revive.md).
 
 The Advanced and Expert awards for this merit can be arranged to form
 the universal symbol for humanitarian aid:

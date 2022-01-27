@@ -24,7 +24,7 @@ biggest advantages, however, is that it allows access to
 
 ## Defending
 
-First and foremost, CE is key. Place [boomers](boomer.md) on the
+First and foremost, CE is key. Place [boomers](Boomer.md) on the
 inside door, one each, and an alarm near the
 [CC](Control_Console.md). Heavily mine the outside.
 [Spits](Spitfire.md) and alarms aren’t too useful outside, as

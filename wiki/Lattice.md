@@ -1,6 +1,6 @@
 The Continental Lattice is a network of links between all
-[facilities](facilities.md) and [warpgates](warpgate.md)
-on a [continent](continent.md). This network determines which
+[facilities](Facilities.md) and [warpgates](Warpgate.md)
+on a [continent](Continent.md). This network determines which
 base is next available for capture by each Empire. The network can be
 viewed on each continent's [Continental Map](Continental_Map.md)
 view.
@@ -9,12 +9,12 @@ In addition, [Facility Linked
 Benefits](Facility_Linked_Benefit.md) and [module
 benefits](module_benefit.md) are shared along unbroken chains in
 the lattice. Any disruption in this chain, be it a destroyed
-[generator](generator.md), enemy hack, or a base turning
+[generator](Generator.md), enemy hack, or a base turning
 neutral, will break this link and sever the benefit.
 
 Lattice can also refer to the [Galactic
 Lattice](Galactic_Lattice.md), the interstellar network tying
-all the [planets](planet.md) and continents together. This can
+all the [planets](Planet.md) and continents together. This can
 be viewed from the [Interstellar Map](Interstellar_Map.md)
 screen.
 

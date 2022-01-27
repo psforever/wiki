@@ -1,11 +1,11 @@
-Refers to the links between [continents](continent.md) and
-[planets](planet.md) in the
+Refers to the links between [continents](Continent.md) and
+[planets](Planet.md) in the
 [Post-Bending](The_Bending.md) [Auraxis](Auraxis.md).
 Similar to the [Continental Lattice](Lattice.md), the **Galactic
 Lattice** allows [Empires](Empire.md) to teleport from planet to
-planet, or to the caverns, via [warpgates](warpgate.md),
+planet, or to the caverns, via [warpgates](Warpgate.md),
 [broadcast warpgates](broadcast_warpgate.md), and
-[geowarps](geowarp.md).
+[geowarps](Geowarp.md).
 
 The Galactic Lattice is viewable from the [Interstellar
 Map](Interstellar_Map.md).

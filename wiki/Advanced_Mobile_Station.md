@@ -31,7 +31,7 @@ either side, but more recent designs allow soldiers to spawn anywhere
 within the cloaking bubble. As of [2.7.6](2.md.7.6), the **AMS**
 also features two [equipment terminals](equipment_terminal.md)
 (on either side of the vehicle), a [matrix
-terminal](Matrix_Panel.md) to [bind](bind.md) soldier's
+terminal](Matrix_Panel.md) to [bind](Bind.md) soldier's
 DNA (at the front) and a [respawn panel](respawn_panel.md) (at
 the rear).
 

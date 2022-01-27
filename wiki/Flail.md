@@ -16,7 +16,7 @@ Cannon\]\]
 
 The **Flail** is an [Ancient-Tech](Ancient_Technology.md) (AT)
 artillery platform. It has fairly high armor but travels at a low speed.
-The Flail must be [deployed](deploy.md), immobilizing it, to
+The Flail must be [deployed](Deploy.md), immobilizing it, to
 fire its devastating long-range energy projectiles. When not deployed it
 cannot fire its weapon and is therefore defenseless. The vehicle can
 only deploy on land, though its ability to hover allows it to travel

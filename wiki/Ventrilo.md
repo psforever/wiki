@@ -9,13 +9,13 @@ be changed by switching to a different codec.
 Ventrilo is often used for online gaming when reflexes are an issue and
 time cannot be wasted typing out responses. Rather, gamers use Ventrilo
 to communicate with members on the same team as them for tactical
-reasons. Some [outfits](outfit.md) in
+reasons. Some [outfits](Outfit.md) in
 [PlanetSide](PlanetSide.md) use Ventrilo, and some go as far as
-to mandate Ventrilo to be a member of the [outfit](outfit.md).
+to mandate Ventrilo to be a member of the [outfit](Outfit.md).
 
 ## See Also
 
-- [Teamspeak](Teamspeak.md)
+- [Teamspeak](TeamSpeak.md)
 
 ## External Links
 

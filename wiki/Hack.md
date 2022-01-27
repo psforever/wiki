@@ -1,6 +1,6 @@
 **_v._ to hack, hacked:** To use the
 [REK](Remote_Electronics_Kit.md) to gain access to terminals,
-doors, or to capture a [facility](facilities.md) not under your
+doors, or to capture a [facility](Facilities.md) not under your
 [Empire](Empire.md)'s control. _"Hack the control console!"_
 
 A facility's [Control Console](Control_Console.md) must be
@@ -13,7 +13,7 @@ more quickly.
 
 Advanced enemy terminals such as [Equipment
 terminals](Equipment_Terminal.md), and
-[lockers](lockers.md) must be **hacked** by an [Advanced
+[lockers](Lockers.md) must be **hacked** by an [Advanced
 Hacker](Advanced_Hacking.md) for friendlies to use them.
 
 **_n._ a hack:** In reference to _a)_ the status of a base when a hacker

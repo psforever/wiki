@@ -19,10 +19,10 @@
 
 The Remote Electronics Kit ([REK](Remote_Electronics_Kit.md)) is used to hack enemy
 terminals and equipment to allow friendly use, upgrade
-[facilities](facility.md) and equipment with enhanced protection
+[facilities](Facility.md) and equipment with enhanced protection
 and to remove viruses. The tool may be equipped and used by anyone, but
 its usefulness increases with each level of the Hacking
-[certification](certification.md) tree.
+[certification](Certification.md) tree.
 
 You can identify what level of Hacking a player has, by the color of the
 beam that their REK emits, and the color of the REK symbol that appears

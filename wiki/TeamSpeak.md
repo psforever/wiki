@@ -10,10 +10,10 @@ connect to a TeamSpeak server. Usually, a player will log into a
 TeamSpeak server before running the game that they wish to play.
 TeamSpeak has become very popular with
 [PlanetSide](PlanetSide.md), and many
-[outfits](outfit.md) use Teamspeak as their main method of
+[outfits](Outfit.md) use Teamspeak as their main method of
 communication in game, going as far as to mandate Teamspeak to be a part
-of the [outfit](outfit.md). However, not all
-[outfits](outfit.md) require a microphone or a headset, as it is
+of the [outfit](Outfit.md). However, not all
+[outfits](Outfit.md) require a microphone or a headset, as it is
 often useful for players to simply listen to the other players on their
 team.
 

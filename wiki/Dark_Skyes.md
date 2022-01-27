@@ -3,7 +3,7 @@ Are you up to the challenge? DARK SKYES WANTS YOU
 DARK SKYES is looking for some hard core, aggressive recruits.
 
 DARK SKYES is a high speed mobile infantry unit, specializing in
-[MAX](Mechanized_Assault_Exo-Suit.md) Crashes and [Galaxy](vehicles/Galaxy.md) Drops.
+[MAX](Mechanized_Assault_Exo-Suit.md) Crashes and [Galaxy](Galaxy.md) Drops.
 
 DARK SKYES has been in action since the beginning of
 [Planetside](PlanetSide.md).

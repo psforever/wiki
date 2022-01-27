@@ -6,7 +6,7 @@ Commendations](Merit_Commendations.md) and
 There are two basic criteria that determine if a kill is counted as a
 unique kill:
 
-- The character killed must have [spawned](spawn.md) at least
+- The character killed must have [spawned](Spawn.md) at least
   30 seconds prior to the kill
 - The character killed must not have been killed by the same character
   in the last 20 minutes

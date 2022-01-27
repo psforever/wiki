@@ -187,7 +187,7 @@ straight into the battle, and never repair.
   about staying far away. If you come on one them by surprise another
   tactic you can use is to stay as close as possible to them. You will
   stay below their gun arc (unless they have a
-  [ballgunner](ballgun.md), but it doesn't do much damage) and
+  [ballgunner](Ballgun.md), but it doesn't do much damage) and
   will be relatively safe. However, you are prone to EMP blasts and
   the splash from your own railbeam weapon, so only use this tactic if
   you are isolated from heavy fighting or know that they already used
@@ -393,7 +393,7 @@ Engineering](Combat_Engineering.md), several new tactics can be
 introduced. The main change for tank drivers is the use of the [Aegis
 Shield Generator](Aegis_Shield_Generator.md). By having an
 [FDU](FDU.md) either in you or your gunner's inventory, or in
-your mag's [trunk](trunk.md), you can make a cloaked repair
+your mag's [trunk](Trunk.md), you can make a cloaked repair
 station. When you get out to repair, place an Aegis down beside you.
 This will cloak you while you repair. If you plan on coming back to the
 same spot for a while, you might consider charging the shield up to

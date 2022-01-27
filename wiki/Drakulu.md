@@ -4,7 +4,7 @@ The front door faces east, towards the Gun Tower. The nearby Southeast
 
 The terrain around Drakulu features dramatic elevations; to the North is
 a steep cliff which provides a strategic vantage on the
-[courtyard](courtyard.md) for attackers. Significant hills
+[courtyard](Courtyard.md) for attackers. Significant hills
 extend both West and East from the [SOI](Sphere_of_Influence.md). To the South
 is a moderately steep but not impassable descent to
 [Rehua](Rehua.md). This sloping area is heavily featured with

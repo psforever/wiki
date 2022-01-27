@@ -23,14 +23,14 @@ The maximum number of Shadow Turrets that can be deployed is 5, and they
 count toward the total number of Spitfires you can deploy. They also
 share the same interference range with the spitfire and [Cerberus
 Turrets](Cerberus_Turret.md). They can only be deployed in
-friendly or [neutral](neutral.md) [SOIs](Sphere_of_Influence.md).
+friendly or [neutral](Neutral.md) [SOIs](Sphere_of_Influence.md).
 
 The Shadow Turret is deployed by the Tertiary Mode of the
 [ACE](Adaptive_Construction_Engine.md), and can be selected with the "Change Ammunition"
 function (default is "X").
 
 Shadow Turrets can be detected by use of the
-[Darklight](Darklight.md) [implant](implant.md), and
+[Darklight](Darklight.md) [implant](Implants.md), and
 will appear in a similar way as players wearing an [Infiltration
 Suit](Infiltration_Suit.md).
 

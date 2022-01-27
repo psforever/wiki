@@ -12,10 +12,10 @@ Pounder](Ground_Pounder.md) weapon found on the [Galaxy
 Gunship](Galaxy_Gunship.md) and the [Terran
 Republic](Terran_Republic.md)'s [Marauder](Marauder.md)
 [assault buggy](<Assault_Buggy_(Certification).md>). The rounds inflict decent
-damage to both [infantry](infantry.md) and
-[vehicles](vehicles.md). The boxes can be obtained from any
+damage to both [infantry](Infantry.md) and
+[vehicles](Vehicle.md). The boxes can be obtained from any
 [Equipment Terminal](Equipment_Terminal.md) to be hand-loaded
-into the vehicle's [trunk](trunk.md) or acquired while in the
+into the vehicle's [trunk](Trunk.md) or acquired while in the
 vehicle from a [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

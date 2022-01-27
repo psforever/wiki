@@ -17,7 +17,7 @@ As with [Recall](Recall.md), location affects timer:
 - Enemy SOI: 30 seconds
 
 Activating Instant Action will turn off (but not uninitialize)
-[implants](implant.md) and deactivate cloak (if any). Moving,
+[implants](Implants.md) and deactivate cloak (if any). Moving,
 jumping, cloaking or activating implants will all cancel the Instant
 Action countdown.
 

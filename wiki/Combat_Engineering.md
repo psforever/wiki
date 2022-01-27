@@ -14,7 +14,7 @@ Allows the deployment of
 [Spitfires](Adaptive_Construction_Engine.md), and [Motion
 Sensors](Adaptive_Construction_Engine.md). The efficiency of
 repairing [MAXes](Mechanized_Assault_Exo-Suit.md), equipment, and
-[vehicles](vehicles.md) is increased over that of standard
+[vehicles](Vehicle.md) is increased over that of standard
 engineers (repairing 14 instead of 12 for MAXs, 48 instead of 32 for
 vehicles).
 

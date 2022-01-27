@@ -4,7 +4,7 @@
 ![](images/AVPhalanx.jpg "fig:AVPhalanx.jpg") **Phalanx wall turrets** are the
 only fixed weapons and non-passive defensive installations of [surface
 bases](Facilities.md#Surface_Bases) and gun and air
-[towers](towers.md).
+[towers](Towers.md).
 
 When unmanned, the **Phalanx** can track and fire upon larger
 [vehicles](Vehicle.md) and aircraft, as well as
@@ -36,15 +36,15 @@ The **Phalanx** can be upgraded by soldiers having the [Fortification
 Engineering](Fortification_Engineering.md) certification to fire
 either Anti-Aircraft or Anti-Armor rounds in addition to the standard
 rounds. The Anti-Aircraft Flak Cannon rounds are similar to the
-[flak](flak.md) rounds of the [skyguard](skyguard.md),
+[flak](Flak.md) rounds of the [skyguard](Skyguard.md),
 but fires at a slightly slower rate. The Anti-Armor Twin-Cannons rounds
 are similar to the rate of fire and trajectory of the
-[prowler](prowler.md) main gun, but the damage is not as great.
+[prowler](Prowler.md) main gun, but the damage is not as great.
 Kills made with the flak cannon also count towards the [Air
-Defender](Air_Defender.md) [merit](merit.md). Upgrades
+Defender](Air_Defender.md) [merit](Merit_Commendations.md). Upgrades
 are done with the [Nano Dispenser](Nano_Dispenser.md) and last
 for 30 minutes unless destroyed or the base changes
-[empire](empire.md) control. The type of upgrade can be changed
+[empire](Empire.md) control. The type of upgrade can be changed
 at any time by starting the process over again. When firing in auto-fire
 mode, upgraded turrets only fire standard rounds.
 
@@ -52,7 +52,7 @@ Soldiers certed in [Data Corruption](Data_Corruption.md) can
 infect enemy Wall Turrets causing them to fire at their own Empire,
 instead of their enemies. However, they will act as regular Wall Turrets
 when infected, meaning they will only shoot
-[vehicles](vehicle.md) and auto-running [MAX](Mechanized_Assault_Exo-Suit.md)
+[vehicles](Vehicle.md) and auto-running [MAX](Mechanized_Assault_Exo-Suit.md)
 Units.
 
 [Category:Game Items](Category:Game_Items.md)

@@ -21,7 +21,7 @@ Republic](Terran_Republic.md)'s
 [MAX](Mechanized_Assault_Exo-Suit.md) unit, [Phalanx wall
 turret](Phalanx.md), or [Spitfire
 Turret](Spitfire_Turret.md) which will guide the missle to its
-target. (The [reticle](reticle.md) must be kept on the target to
+target. (The [reticle](Reticle.md) must be kept on the target to
 maintain the "lock.")
 
 In secondary mode, the [Striker](Striker.md) fires an unguided

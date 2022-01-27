@@ -14,14 +14,14 @@ me.
 
 The [Liberator](Liberator.md) is the most used bomber and is
 available to anyone with the [Air Support](Air_Support.md)
-[certification](certification.md). The nose gun is a powerful
+[certification](Certification.md). The nose gun is a powerful
 35mm Chaingun that shreds every type of target from infantry to armor to
 aircraft. The bomber seat can drop two types of bombs: Anti-Infantry
 cluster bombs and Anti-Armor tank buster bombs. The tailgun fires
 powerful 25mm rounds that are good on a variety of targets, though best
 used for fending off enemy aircraft. The Liberator lacks an afterburner,
-but can hold one more box of [ammunition](ammunition.md) than
-the [Vulture](Vulture.md) in its [trunk](trunk.md).
+but can hold one more box of [ammunition](Ammunition.md) than
+the [Vulture](Vulture.md) in its [trunk](Trunk.md).
 
 ### Vulture
 
@@ -84,7 +84,7 @@ they have nowhere to run except to drown. I also use it if the enemy
 base is at a low altitude and I'm fighting flak weapons ([Wall
 Turrets](Phalanx.md) and [TR](Terran_Republic.md)
 [Burster](Burster.md) [MAXes](Mechanized_Assault_Exo-Suit.md). You're fairly
-safe from [flak](flak.md) at high altitude unless you fly very
+safe from [flak](Flak.md) at high altitude unless you fly very
 predictably and the enemy has great skill.
 
 Again you will want to approach from the side or rear so that the enemy
@@ -133,7 +133,7 @@ area to saturate in bombs and making it less likely that someone can
 dodge your pass.
 
 Generally, you want to avoid trying to bomb moving
-[vehicles](vehicle.md). But you can always try. Make sure to
+[vehicles](Vehicle.md). But you can always try. Make sure to
 lead them enough. You will have to lead them much more than you think,
 and your bombardier needs to understand how to do this too for a
 successful kill.

@@ -1,11 +1,11 @@
 The **Ancients** are alien beings, originally referred to as the Vanu,
 believed to be the creators of the [Auraxis](Auraxis.md)
 construct, the [Auraxian Core](Auraxian_Core.md), the
-[warpgates](warpgate.md) and [lattice](lattice.md), the
-[rebirth](respawn.md) and [nanite](NTU.md) technology,
+[warpgates](Warpgate.md) and [lattice](Lattice.md), the
+[rebirth](Respawn.md) and [nanite](NTU.md) technology,
 and the _Wormhole_ that brought us here.
 
-Upon discovering the [caverns](caverns.md) of Auraxis, we got a
+Upon discovering the [caverns](Caverns.md) of Auraxis, we got a
 glimpse of where the Ancients must have lived or worked. They left
 behind artifacts and residual energy signatures for [Ancient
 Technology](Ancient_Technology.md) that we have been able to
@@ -18,7 +18,7 @@ to move or alter different dimensions and realities through complex
 technology. It is this technology that has allowed us to cheat death in
 our wars. Sadly, this immortality is not without a price. We have become
 slaves to the Ancients' creations, bound to each
-[planet](planet.md) and cavern by the fear of final death.
+[planet](Planet.md) and cavern by the fear of final death.
 
 The Ancients are the most powerful beings in the known universe. We must
 harness their power if we are return to Earth and defend all humanity

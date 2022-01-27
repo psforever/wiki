@@ -6,7 +6,7 @@ A list of all the In-Game Commands
 
 <!-- -->
 
-- **/[tell](tell.md) <name> <message>** - **/t** - Sends a
+- **/[tell](Tell.md) <name> <message>** - **/t** - Sends a
   Private Message to a Player.
 - **/reply <message>** - **BACKSPACE** - **/r** - Sends a reply to the
   last person that send a tell to you.
@@ -173,7 +173,7 @@ _[Command Rank](Command_Rank.md) 5 ONLY:_
 - **/appeal** - Brings up a menu that allows you to report things to
   Customer Service. Often used to file complaints about other players.
 - **/bug** - Brings up a window that allows you to report bugs
-- **/[emote](emote.md) <action>** - Makes your avatar perform
+- **/[emote](Emote.md) <action>** - Makes your avatar perform
   an action.
 - **/filter** - Turns the profanity filter off and on
 - **/[friends](Friends_List.md) \[add/remove\]
@@ -181,14 +181,14 @@ _[Command Rank](Command_Rank.md) 5 ONLY:_
 - **/help** - Opens the Help menu
 - **/ia - /instantaction** - Activates countdown timer for Instant
   Action
-- **/[ignore](ignore.md) \[add/remove\] <playername>** -
+- **/[ignore](Ignore.md) \[add/remove\] <playername>** -
   Ignore a player.
 - **/incentives** - Returns the empire
-  [incentives](incentives.md) for the current zone.
+  [incentives](Incentives.md) for the current zone.
 - **/loc** - Returns your current location in X,Y,Z coordinates.
 - **/log** - Set chat logging state. If logging is turned on, all chat
   messages are appended to 'chat.log'
-- **/[macro](macro.md) \[tag\] \[\\#<channel>\]
+- **/[macro](Macro.md) \[tag\] \[\\#<channel>\]
   \[macrocommand\]** - The tag is a 3 letter symbol to represent the
   macro. (Example: /macro LFS \\#l LFS! would produce: <YourName>
   says: 'LFS!')
@@ -200,7 +200,7 @@ _[Command Rank](Command_Rank.md) 5 ONLY:_
   Service
 - **/time** - Returns the current local Earth time and the current
   Auraxis time.
-- **/[who](who.md) \[CR/Teams/<name>/CSR/SL/PL/Cont\]** -
+- **/[who](Who.md) \[CR/Teams/<name>/CSR/SL/PL/Cont\]** -
   Lists matching players
 - **/rename <new name>** -Renames your character to a new name (only
   available if your character has a -E or -M appended after the
@@ -216,12 +216,12 @@ _[Command Rank](Command_Rank.md) 5 ONLY:_
 _Only [CSRs](CSR.md) and other authorized [SOE](Sony_Online_Entertainment.md)
 employees can use these commands_
 
-- **/create <name>** - Create specified [vehicle](vehicle.md).
-- **/sethealth <amount>** - Sets your [health](health.md).
+- **/create <name>** - Create specified [vehicle](Vehicle.md).
+- **/sethealth <amount>** - Sets your [health](Health.md).
 - **/setarmor <amount>** - Sets your armor.
-- **/setstamina <amount>** - Sets your [stamina](stamina.md).
+- **/setstamina <amount>** - Sets your [stamina](Stamina.md).
 - **/setammo <amount>** - Sets your ammo.
-- **/[award](award.md)** - Control [Merit
+- **/[award](Award.md)** - Control [Merit
   Commendation](Merit_Commendations.md) status.
 - **/suicide** - Kills your character.
 

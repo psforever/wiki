@@ -13,7 +13,7 @@ in the top left corner of cell J-14 in a hole by a ramp. Note that
 unless you are a [VS](Vanu_Sovereignty.md) [MAX](Mechanized_Assault_Exo-Suit.md) you will die
 since there is no way out of the hole. Another one, located in
 [Adlivun](Adlivun.md) cavern, is located at the upper, center of
-grid H-15. Just before you get on the UP [zipline](zipline.md),
+grid H-15. Just before you get on the UP [zipline](Zipline.md),
 look down to your left, into the crevice for it.
 
 [Category:Game Items](Category:Game_Items.md)

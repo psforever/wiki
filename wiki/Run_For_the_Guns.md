@@ -1,5 +1,5 @@
 The [New Conglomerate](New_Conglomerate.md) is continuing their
-attempts at manipulating the Auraxian [lattice](lattice.md)
+attempts at manipulating the Auraxian [lattice](Lattice.md)
 network, this time targeting construction and acquisition pathways in an
 attempt to level the playing field of [Auraxis](Auraxis.md),
 supplementing their arsenal with the situational strengths of their
@@ -12,8 +12,8 @@ Starting On Saturday, November 27 at 4 PM Local Server Time, a
 [Monolith](Monolith.md) will emerge on a different continent
 every 60 minutes. When the Monolith spawns, that continent will go
 completely neutral. Players must deliver the Monolith Unit to that
-[continent](continent.md)'s [Capitol](Capitol.md)
-[facility](facility.md). In order to successfully deliver the
+[continent](Continent.md)'s [Capitol](Capitol.md)
+[facility](Facility.md). In order to successfully deliver the
 MU, the capitol must be controlled by the same
 [Empire](Empire.md) as the player attempting to deliver it.
 

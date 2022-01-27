@@ -475,8 +475,8 @@ other three. The highest **Term of Service** merit earned is always
 displayed and cannot be removed. The merit series stops at year 6.
 
 Upon earning certain **Term of Service** merits, some hand-held weaponry
-and [armor](armor.md) can be obtained for free, without the need
-for the normally associated [certification](certification.md):
+and [armor](Armor.md) can be obtained for free, without the need
+for the normally associated [certification](Certification.md):
 
 - **Two Year Term of Service Award**: [Heavy Scout
   Rifle](Heavy_Scout_Rifle.md) and

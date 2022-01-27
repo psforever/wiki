@@ -25,7 +25,7 @@ planetside.com includes close to 100 members who have been inactive for
 a long time, but who retain their membership because I hope they will
 return.
 
-We use [Teamspeak](Teamspeak.md) heavily. At first I didn't want
+We use [Teamspeak](TeamSpeak.md) heavily. At first I didn't want
 to use voice comm... but now I wouldn't play without it. Mags with
 gunner/driver voice comm are frikkin beautiful. The ability to warn your
 teammates that there are 4 Vanguards over the hill he is about to cross

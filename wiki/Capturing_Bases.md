@@ -9,7 +9,7 @@ The Goal: Hack the CC
 </h3>
 
 When you are attacking a base the ultimate goal will be to
-[hack](hack.md) the [Control
+[hack](Hack.md) the [Control
 Console](Control_Console.md) of the facility and secure the
 control console. You must keep control of the CC until either the 15
 minute capture timer runs, or in the case of an [LLU](Lattice_Logic_Unit.md)
@@ -30,7 +30,7 @@ Securing the hack
 </h3>
 
 Ultimately, control of a base comes down to controlling [spawn
-points](spawn_point.md). If you can [spawn](spawn.md) at
+points](spawn_point.md). If you can [spawn](Spawn.md) at
 a base and the enemy cannot, you will win most of the time. It is
 possible for well coordinated forces to retake a CC without having a
 nearby spawn point but it is far more difficult to do so.
@@ -52,7 +52,7 @@ it is going to be for you. The base spawns, being inside the base, are
 obviously the greatest threat to a successful base capture.
 
 To shut down the base spawns you can either destroy the individual tubes
-or destroy the [generator](generator.md). A tube can be
+or destroy the [generator](Generator.md). A tube can be
 destroyed with one boomer, three decimators, or a number of other
 combinations of weapons. Armor piercing and AV weapons are going to be
 best suited to destroying tubes.

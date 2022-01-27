@@ -3,10 +3,10 @@ The [Test Server](Test_Server.md) is a special server run by the
 same as the other three PlanetSide servers,
 [Emerald](Emerald.md), [Markov](Markov.md), and
 [Werner](Werner.md), except that the Test Server is used to test
-future [patches](patch.md). Therefore, the Test Server receives
+future [patches](Patch.md). Therefore, the Test Server receives
 new patches earlier than other servers so that the players of PlanetSide
 can test them and work out the bugs before the patches go to the live
-[servers](server.md). The Test Server is generally less
+servers. The Test Server is generally less
 populated than the Live Servers, so to make it easier on the players,
 characters on the test server are automatically made at [Battle
 Rank](Battle_Rank.md) 20 so the player does not have to worry

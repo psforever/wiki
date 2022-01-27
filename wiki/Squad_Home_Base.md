@@ -14,10 +14,10 @@ and Platoon levels. The primary functions of the system includes:
 A Commander may use a facility's [Main Console](Main_Terminal.md)
 to designate it as the Squad's Home Base. The home base will be
 designated on the planetary and overhead proximity maps by a
-recognizable [waypoint](waypoint.md) marker (This waypoint is
+recognizable [waypoint](Waypoint.md) marker (This waypoint is
 toggleable, just like other waypoints). When a Squad/Platoon Member
 enters the facility's SOI, they will be asked if they would like to bind
-to it. This bind will replace the soldier's [bind](bind.md)
+to it. This bind will replace the soldier's [bind](Bind.md)
 point with a new bind point to the Home Base.
 
 When a Commander wants to recall his troops to the home facility, he
@@ -44,8 +44,8 @@ the Commander who issued the command will receive a message that the
 soldier did not respond to the command.
 
 If the respawn ability at the Soldier's Bind location becomes
-unavailable (tubes blown, [generator](generator.md) down, base
-[hack](hack.md) goes through and becomes enemy base, etc.) the
+unavailable (tubes blown, [generator](Generator.md) down, base
+[hack](Hack.md) goes through and becomes enemy base, etc.) the
 order will cancel and both the soldier and the leader will receive
 notification.
 

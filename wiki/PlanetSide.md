@@ -98,7 +98,7 @@ physics and high-energy arrays to defend themselves.
 
 Within the game, there has been much discussion over which factions are
 inherently _good_ or _evil_. Some claim the Republic to be the
-[empire](empire.md) that was intended to be the villains of the
+[empire](Empire.md) that was intended to be the villains of the
 game, due to the theoretical similarity to _Fascism_, although it can be
 argued that neither the Republic nor Fascism are inherently bad, as they
 are only doing what they feel is right on the whole, which is protecting
@@ -138,8 +138,8 @@ Although PlanetSide is a first person shooter at heart, it does have a
 levelling system. Players can gain [Battle Experience
 Points](Battle_Experience_Points.md) to gain [Battle
 Ranks](Battle_Rank.md) which can be used to get
-[certifications](certification.md),
-[implants](implant.md), and [uniform
+[certifications](Certification.md),
+[implants](Implants.md), and [uniform
 upgrades](uniform_upgrade.md). Also, through leading, a player
 can gain [Command Experience
 Points](Command_Experience_Points.md) to gain [Command
@@ -150,7 +150,7 @@ command related abilities.
 
 The game is still being actively supported by [Sony Online
 Entertainment](Sony_Online_Entertainment.md), with a patch being
-released about once a month. These [patches](patch.md) usually
+released about once a month. These [patches](Patch.md) usually
 focus on fixing in-game bugs and adding new content. PlanetSide also has
 a [Test Server](Test_Server.md) like other online games to test
 changes before they go onto live servers.
@@ -164,8 +164,8 @@ new areas and new weapons for players.
 
 #### Story
 
-A new area underneath several [continents](continent.md) was
-discovered. These [caverns](cavern.md) appear to be the remnants
+A new area underneath several [continents](Continent.md) was
+discovered. These [caverns](Caverns.md) appear to be the remnants
 of the ancient Vanu civilization. [Geowarps](Geowarp.md) on six
 continents, [Hossin](Hossin.md), [Amerish](Amerish.md),
 [Ceryshen](Ceryshen.md), [Oshur](Oshur.md),
@@ -191,7 +191,7 @@ new technologies could change the face of the battlefield.
 
 #### Changes to Caverns
 
-With more recent [patches](patches.md), the way the caverns work
+With more recent [patches](Patches.md), the way the caverns work
 has changed. Rather than having the six caverns being linked to the same
 six continents all the time, two caverns are open at any time and are
 linked to random continents on the surface, and the other four caverns
@@ -199,9 +199,9 @@ have a countdown timer to when they will be opened.
 
 #### Ancient Modules
 
-With these caverns came the addition of [modules](modules.md).
+With these caverns came the addition of [modules](Modules.md).
 These are powerful tools, which, when installed in a surface
-[facility](facility.md), grant that facility and all other
+[facility](Facility.md), grant that facility and all other
 friendly facilities in the lattice certain benefits. The six types of
 modules are [equipment](Equipment_Module.md),
 [health](Health_Module.md), [pain](Pain_Module.md),
@@ -222,7 +222,7 @@ purchase of Core Combat.
 
 On August 14, 2004, the planet Auraxis underwent a change. For a few
 days before this happened, the planet had been undergoing constant
-[meteor](meteor.md) showers. No one knew what these meant, but
+[meteor](Meteor.md) showers. No one knew what these meant, but
 people kept fighting on. Right before it happened, the meteor showers
 became heavier, and then, right before it happened, you could hear the
 words "Bending Sequence Initiated".
@@ -231,7 +231,7 @@ Everyone was forced to respawn back at their sanctuary. Everything
 looked the same, but soldiers noted the different stars. Each of the
 continents was pushed off of Auraxis and became a smaller planet on
 their own. The warpgates still funcioned under the normal
-[lattice](lattice.md), but the skies were different. Also,
+[lattice](Lattice.md), but the skies were different. Also,
 [Oshur](Oshur.md) was removed completely, and in its place were
 the [Battle Islands](Battle_Islands.md).
 ![](images/Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]

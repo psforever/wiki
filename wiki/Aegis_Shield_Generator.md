@@ -25,7 +25,7 @@ upgraded shield provides roughly the equivalent of a
 [Phalanx](Phalanx.md) Wall Turret worth of armor protection.
 Aegis Shield work rather similar to the one gained by a [Shield
 Module](Shield_Module.md). They block all fire, both enemy and
-friendly, as well as enemy [vehicles](vehicle.md). Note that
+friendly, as well as enemy [vehicles](Vehicle.md). Note that
 friendly fire at the shield will reduce the Shield's power.
 
 The Aegis Shield Generator can also be upgraded by [Assault

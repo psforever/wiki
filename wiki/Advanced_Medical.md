@@ -10,7 +10,7 @@
 
 If one of your allies has been killed and has not yet clicked the
 "respawn" button, their body will remain on ground (once they respawn
-their body becomes a [backpack](backpack.md).) Simply point the
+their body becomes a [backpack](Backpack.md).) Simply point the
 [Medical Applicator](Medical_Applicator.md) at them and use it.
 You will see a progress bar until they are revived. If the progress bar
 dissapears during the process, **don't** let go, it is still reviving,

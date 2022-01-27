@@ -1,9 +1,9 @@
-|                                             |                                                                                                             |
-| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Used by**                                 | [Prowler](Prowler.md),[Juggernaut](Juggernaut.md), and [Raider](Raider.md) |
-| **Empire**                                  | [Terran Republic](Terran_Republic.md)                                                            |
-| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                                         |
-| **Quantity per box**                        | 360 Rounds                                                                                                  |
+|                                  |                                                                            |
+| -------------------------------- | -------------------------------------------------------------------------- |
+| **Used by**                      | [Prowler](Prowler.md),[Juggernaut](Juggernaut.md), and [Raider](Raider.md) |
+| **Empire**                       | [Terran Republic](Terran_Republic.md)                                      |
+| **[Trunk](Trunk.md) dimensions** | 4x4                                                                        |
+| **Quantity per box**             | 360 Rounds                                                                 |
 
 **15mm Chaingun Bullets**
 
@@ -13,7 +13,7 @@ These 15mm rounds are used by the
 suffer from somewhat severe damage reduction at longer distances. The
 boxes can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
-[vehicle](vehicle.md)'s [trunk](trunk.md) or acquired
+[vehicle](Vehicle.md)'s [trunk](Trunk.md) or acquired
 while in the vehicle from a [Repair/Rearm.md
 Silo](Repair_Rearm_Silo.md).
 

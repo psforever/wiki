@@ -16,7 +16,7 @@
 
 **Galaxy Gunship**
 
-The Galaxy Gunship is a modified [Galaxy](vehicles/Galaxy.md) airframe
+The Galaxy Gunship is a modified [Galaxy](Galaxy.md) airframe
 with heavy guns, and more armor. The gunship takes only 75% of all
 damage incident on it, making its effective armor much stronger than the
 regular Galaxy without increasing repair time much.

@@ -1,23 +1,23 @@
 ![](images/LLU.jpg "fig:LLU.jpg")\]\] The **LLU** (Lattice Logic Unit) is a
 small, spherical shaped object which spawns within special bases (called
-LLU [bases](facility.md)) in a space called the [Lattice Logic
+LLU [bases](Facility.md)) in a space called the [Lattice Logic
 Unit Socket](Lattice_Logic_Unit_Socket.md) when that base is
 hacked.
 
 The [LLU](Lattice_Logic_Unit.md) must be delivered to the specified friendly
-[facility](facility.md) (indicated by the
+[facility](Facility.md) (indicated by the
 [Lattice](Lattice.md) link flashing on the [Continental
 Map](Continental_Map.md) screen) within 15 minutes for the hack
 to succeed. If the LLU contacts water, the hack is canceled. If you are
 the LLU runner, the destination base will have a reddish
-[waypoint](waypoint.md) marker over it and an indicator on your
+[waypoint](Waypoint.md) marker over it and an indicator on your
 radar of the destination base.
 
 It is always good strategy to give the LLU carrier (who retrieves it
 from the Socket or ground (if dropped) by simply touching it) a ride in
 a vehicle with a passenger space so as to finish the hack as soon as
 possible (the LLU cannot enter the following vehicles:
-[Galaxies](vehicles/Galaxy.md), [Liberators](Liberator.md),
+[Galaxies](Galaxy.md), [Liberators](Liberator.md),
 [Vultures](Vulture.md), [Lodestars](Lodestar.md) or
 [BattleFrame Robotics](BattleFrame_Robotics.md)). Vehicles that
 are transporting an LLU will have speed penalties, which reduces their

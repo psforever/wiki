@@ -5,10 +5,10 @@ from your normal gameplay. When the event starts, a unique anomaly (the
 "Rabbit ball") appears at a random location on a designated continent. A
 message will be displayed in the chat area announcing where, and the
 location of the Rabbit ball will be displayed on your map by an orange
-[waypoint](waypoint.md). Kills made in close proximity to the
+[waypoint](Waypoint.md). Kills made in close proximity to the
 rabbit ball will be rewarded with an extra 25% [experience
 point](BEP.md) bonus to the killer and those in his/her
-[squad](squad.md), which is added to any [empire
+[squad](Squad.md), which is added to any [empire
 incentive](Empire_Incentives.md) already in place.
 
 The objective of the Rabbit event is for an empire to keep possession of
@@ -18,7 +18,7 @@ the Rabbit ball and accumulate points towards a certain point goal
 ## The Rabbit Carrier
 
 Any player of any empire can pick up the Rabbit ball. That player can
-also get into a friendly ground [vehicle](vehicle.md), subject
+also get into a friendly ground [vehicle](Vehicle.md), subject
 to the same vehicle restrictions as an [LLU](Lattice_Logic_Unit.md) or
 [Module](Module.md) carrier. However, there are additional
 restrictions for the Rabbit ball carrier.
@@ -32,7 +32,7 @@ The Rabbit ball carrier cannot enter the following areas:
 
 If the Rabbit ball carrier enters any of the above areas, the Rabbit
 ball resets to another spawn point on the
-[continent](continent.md). This has sometimes been used by
+[continent](Continent.md). This has sometimes been used by
 players to try to make the Rabbit ball spawn inside friendlier territory
 on the continent (although it's often a gamble). Players trying to force
 a reset will either run into an SOI, "dunk" the Rabbit (run into water),
@@ -57,7 +57,7 @@ will also get health, armor, and stamina regeneration while carrying it.
 ![](images/RabbitWindow.png "fig:RabbitWindow.png") window showing the score
 and other information.\]\] The Rabbit Status Window will appear on the
 screen for all players while they are on the zone that is hosting the
-Rabbit event. Score points for your [empire](empire.md) by
+Rabbit event. Score points for your [empire](Empire.md) by
 carrying the Rabbit ball or gain bonus experience for participating in
 battle. A point is scored every five seconds the ball is held. The
 empire that reaches the point goal (shown on the Rabbit status window)

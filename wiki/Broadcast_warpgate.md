@@ -1,4 +1,4 @@
-Considered an upgrade from a normal [warpgate](warpgate.md),
+Considered an upgrade from a normal [warpgate](Warpgate.md),
 broadcast warpgates help Empires shorten the length of travel to the
 battlefront by allowing forces to teleport from one warpgate to another
 along the [Galactic Lattice](Galactic_Lattice.md) and

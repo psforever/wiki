@@ -2,7 +2,7 @@
 [Esamir](Esamir.md). It is located at
 [grid](Map_grid.md) G/H11.
 
-The [facility](facility.md) shares the central island with
+The [facility](Facility.md) shares the central island with
 [Eisa](Eisa.md). It is in the southwestern corner of the island.
 
 Freyr is linked to Eisa [Technology Plant](Technology_Plant.md),

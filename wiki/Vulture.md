@@ -42,9 +42,9 @@ Vulture's tailgun holds only 100 rounds per clip instead of 150, but it
 is more powerful than that of the liberator, and can be used against
 ground targets with much success.
 
-The [trunk](trunk.md) of the Vulture is slightly smaller than
+The [trunk](Trunk.md) of the Vulture is slightly smaller than
 the Liberator, able to carry 8 4x4 boxes instead of 9 like the
-Liberator. Because of this, Liberator [favorites](favorites.md)
+Liberator. Because of this, Liberator [favorites](Favorites.md)
 cannot be seamlessly loaded into the Vulture, requiring a seperate
 favorite slot for dedicated Vulture users.
 

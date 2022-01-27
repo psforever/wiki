@@ -4,7 +4,7 @@
 Empire's Sanctuary island is secure from all enemy attacks. This island
 is a hub of ways to move about the Auraxian Planetary Web, as well as a
 safe place to meet and train. As of Version 3.4, each Sanctuary has a
-fixed link to two [continents](continent.md), called [Home
+fixed link to two [continents](Continent.md), called [Home
 Continents](Home_Continent.md).
 
 ### Sanctuary Layout and Resources
@@ -33,7 +33,7 @@ Building](Respawn_Building.md) doors.
 And finally, there are three [Villas](Villa.md) around your
 Sanctuary island. Sometimes it's convenient to meet a friend at one of
 those Villas. To get there easily, step into one of the
-[teleporters](teleporter.md) near the [HART Shuttle
+[teleporters](Teleporter.md) near the [HART Shuttle
 building](HART_building.md).
 
 ### Sanctuary Features

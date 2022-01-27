@@ -5,10 +5,10 @@ technology differentiate between enemies and friendlies, allowing
 friendlies to activate and use its benefits but disallowing enemies.
 Objects which use IFF are:
 
-- Exterior [tower](tower.md) and
-  [facility](facility.md) doors, as well as [Control
+- Exterior [tower](Tower.md) and
+  [facility](Facility.md) doors, as well as [Control
   Console](Control_Console.md),
-  [generator](generator.md), and [spawn
+  [generator](Generator.md), and [spawn
   room](spawn_room.md) doors.
 - [Equipment terminals](Equipment_Terminal.md)
 - [Medical terminals](Medical_terminal.md)
@@ -17,7 +17,7 @@ Objects which use IFF are:
 - [Spawn tubes](Spawn_tube.md)
 - Facility [Main terminals](Main_Terminal.md)
 
-Most IFF objects can be [hacked](hack.md), temporarily disabling
+Most IFF objects can be [hacked](Hack.md), temporarily disabling
 the IFF lock on them and allowing all units, Friend or Foe, to access
 them. Notable exceptions include vehicles, which change ownership to
 that of the hacking soldier, and spawn tubes and main terminals, which

@@ -16,6 +16,6 @@ Commendation](Merit_Commendations.md)
 
 There are no monoliths on the [Oshur](Oshur.md) [Battle
 Islands](Battle_Islands.md) or in the
-[caverns](caverns.md).
+[caverns](Caverns.md).
 
 [Category:Locations](Category:Locations.md)

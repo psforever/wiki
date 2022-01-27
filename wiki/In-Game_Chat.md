@@ -54,7 +54,7 @@ following manner:
 
 At times, the names will appear in brackets ( \[name\] ) to indicate
 that the specific player was inside a vehicle or
-[turret](turret.md) at the time of the kill/death.
+[turret](Turret.md) at the time of the kill/death.
 
 These messages can be used to determine the current status of the battle
 at hand, from warning nearby players that an enemy is near to informing
@@ -75,10 +75,10 @@ These messages are color-coded per empire.
   Strikes](Orbital_Strike.md) when the player that fired them
   logs off before the projectile hits. Being killed by a flail weapon
   directly (before it hits the ground) will also result in white
-  killspam. Special CSR abilities like [meteor](meteor.md)
+  killspam. Special CSR abilities like [meteor](Meteor.md)
   showers or CSR Orbital Strikes also appear as white in the killspam.
   In these cases the name of the
-  [weapon](weapon.md)/[vehicle](vehicle.md) that
+  [weapon](Weapon.md)/[vehicle](Vehicle.md) that
   killed the player is listed under <killing player name> (ie.
   orbital_strike_big, orbital_strike_small, Mosquito) and a white
   skull as <weapon icon>.
@@ -162,13 +162,13 @@ colors, and information about each.
     Channel used by squad leaders to communicate with eachother
     across an entire continent.
 - Platoon - <font color="#FF8A00">Orange</font> - Similar to squad
-  chat, it allows members of the same [platoon](platoon.md) to
+  chat, it allows members of the same [platoon](Platoon.md) to
   communicate with eachother at an unlimited range.
   - Platoon Leader - <font color="#CC967A">Brown</font> - Channel
     used solely by leaders of each squad in the same platoon to
     coordinate platoon movement.
 - Outfit - <font color="#40FF40">Green</font> - Channel used by
-  members of the same [outfit](outfit.md) to communicate with
+  members of the same [outfit](Outfit.md) to communicate with
   eachother at an unlimited range.
 - Command - <font color="#80FFD4">Teal</font> - Channel used by
   soldiers of the same [Command Rank](Command_Rank.md)

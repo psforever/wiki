@@ -23,7 +23,7 @@ EMP burst.
 
 The Disruptor Mine EMP burst has the same effect as [Jammer
 Grenades](Jammer_Grenade.md) and the EMP used by Commanders
-except that it will not detonate [boomers](boomer.md) or [High
+except that it will not detonate [boomers](Boomer.md) or [High
 Explosive
 Mines](Adaptive_Construction_Engine.md#High_Explosive_Mine)
 (neither Friendly nor Enemy).

@@ -15,14 +15,14 @@
     - Auto-deconstruction of a vehicle too close to an exterior
       doorway, restricted ground, [vehicle
       pad](Vehicle_Terminal.md), or
-      [zipline](zipline.md).
+      [zipline](Zipline.md).
     - Auto-deconstruction of a vehicle that has lost ownership. This
       occurs five minutes after ownership is lost
       ([AMSes](Advanced_Mobile_Station.md) have a 15 minute timer)
     - Dematerializing of objects, such as
-      [backpacks](backpack.md), in areas of heavy population
+      [backpacks](Backpack.md), in areas of heavy population
       or activity to reduce lag.
     - Manual deconstruction of a vehicle by the player from their
-      [vehicle](vehicle.md) management window.
+      [vehicle](Vehicle.md) management window.
 
 [category:Terminology](category:Terminology.md)

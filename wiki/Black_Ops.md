@@ -8,8 +8,8 @@ Black Ops (BO) are the Super Soldiers of
 [PlanetSide](PlanetSide.md). Having 1000
 [Health](Health.md) and 500 [Stamina](Stamina.md) (which
 has a much higher regeneration rate than normal) and having access to
-all [certifications](certification.md), and therefor all
-[vehicles](vehicle.md) and [weaponry](weaponry.md) they
+all [certifications](Certification.md), and therefor all
+[vehicles](Vehicle.md) and [weaponry](Weapon.md) they
 are a force to be reckoned with. Black Ops soldiers can only chose
 between [Agile Exo-Suit](Agile_Exo-Suit.md) and [Reinforced
 Exo-Suit](Reinforced_Exo-Suit.md) and cannot choose
@@ -27,14 +27,14 @@ do not count towards [Merit](Merit_Commendations.md) progress or track on the
 
 Black Ops can only
 [Squad](Squad.md)/[Platoon](Platoon.md) together with
-other Black Ops, and cannot use any [chat](chat.md) except for
+other Black Ops, and cannot use any [chat](In-Game_Chat.md) except for
 the special Black Ops chat (b.md <message> or /c <message> when playing as
 a Black Ops) and Squad/Platoon Chat.
 
 Black Ops can only be on the continent(s) enabled by the GM (usually
 only one), as all others will be locked to them. By using the Black Ops
 HQ they can instantly [HART](HART.md) drop anywhere on the
-[continent](continent.md), as well as spawn at any neutral
+[continent](Continent.md), as well as spawn at any neutral
 [Facility](Facilities.md) or [Tower](Towers.md) on that
 continent. In addition, they can spawn at
 [AMSes](Advanced_Mobile_Station.md) that are placed by other
@@ -47,7 +47,7 @@ number of towers they can own.
 
 Note that even though all cosmetic [Command
 Rank](Command_Rank.md) attributes like the CR5
-[backpack](backpack.md) disappear when being turned into a Black
+[backpack](Backpack.md) disappear when being turned into a Black
 Ops, they will still keep the Command abilities ([Orbital
 Strike](Orbital_Strike.md), [EMP](EMP.md), Reveal
 Enemies and Reveal Friendliess) they have as a normal soldier.

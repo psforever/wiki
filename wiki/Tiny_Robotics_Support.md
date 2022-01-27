@@ -227,13 +227,13 @@
 </tbody>
 </table>
 
-This [merit](merit.md) is rewarded for kills scored by [Spitfire
+This [merit](Merit_Commendations.md) is rewarded for kills scored by [Spitfire
 Turrets](Adaptive_Construction_Engine.md#Spitfire_Turret),
 [Cerberus Turrets](Cerberus_Turret.md), or [Shadow
 Turrets](Shadow_Turret.md) after you have repaired them by using
 the [Nano Dispenser](Nano_Dispenser.md). The turret must have
 been damaged by enemy fire and the owner of the turret must be on the
-same [continent](continent.md) for it to count. The tracker
+same [continent](Continent.md) for it to count. The tracker
 stops when the turret is destroyed.
 
 The Advanced and Expert awards for this merit can be arranged to form

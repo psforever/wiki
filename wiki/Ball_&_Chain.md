@@ -60,8 +60,8 @@
 </tbody>
 </table>
 
-This [merit](merit.md) is awarded to any character that logged
-in around Valentine's Day, 2008 and 2009 ([patch](patch.md)
+This [merit](Merit_Commendations.md) is awarded to any character that logged
+in around Valentine's Day, 2008 and 2009 ([patch](Patch.md)
 [3.13.11](3.md.13.11) and [3.15.44](3.md.15.44)). If you
 received the merit in both years, the 2009 merit will replace the 2008
 merit in your merit list panel.

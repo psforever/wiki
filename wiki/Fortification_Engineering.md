@@ -36,7 +36,7 @@
 
 **Fortification Engineering**
 
-The Fortification Engineering [certification](certification.md)
+The Fortification Engineering [certification](Certification.md)
 is one of the two latest additions to the Engineering tree, along with
 it's offensive counterpart [Assault
 Engineering](Assault_Engineering.md).
@@ -53,7 +53,7 @@ This larger version of the [Adaptive Construction
 Engine](Adaptive_Construction_Engine.md) (ACE) is used to create
 the [TRAPs](Tactical_Resonance_Area_Protection.md). It takes up
 the same size as the biggest Rifles do in your
-[inventory](inventory.md). See [Field Deployment
+[inventory](Inventory.md). See [Field Deployment
 Unit](Field_Deployment_Unit.md) for more information.
 
 ## Shadow Turret
@@ -74,7 +74,7 @@ Turret](Cerberus_Turret.md).
 ## Tactical Resonance Area Protection (TRAP)
 
 The TRAP is designed as a roadblock, to prevent
-[vehicles](vehicle.md) from accessing a certain road. The can
+[vehicles](Vehicle.md) from accessing a certain road. The can
 take quite some damage before being destroyed, and do serious damage to
 anything that tries to ram them. For more information see [Tactical
 Resonance Area
@@ -141,7 +141,7 @@ The Deployable numbers will be upgraded to:
 Fortification Engineers use [Armor Canisters](Armor_Canister.md)
 more efficiently, resulting in increased repair efficiency for
 [MAXes](Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18), equipment, and
-[vehicles](vehicles.md) (2x, from 32 to 64) over that of a
+[vehicles](Vehicle.md) (2x, from 32 to 64) over that of a
 standard engineer.
 
 [Category:Certification](Category:Certification.md)

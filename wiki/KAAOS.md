@@ -8,7 +8,7 @@ patented "KAAOS Drops". This drop was marked by the large group of
 AirCav ([Reavers](Reaver.md) and/or
 [Mosquitos](Mosquito.md)) that flew over a target, and dropped
 all at once. Once landed, and the door is breached, they
-[surged](surge.md) to their target, emphasizing KAAOS'
+[surged](Surge.md) to their target, emphasizing KAAOS'
 underlying principle of speed.
 
 In more recent history, KAAOS had also made its mark in the hearts of
@@ -23,7 +23,7 @@ first run and any second runs promised the BFRs demise.
 On October 8th, 2005, KAAOS publically announced it's retirement from
 the game. A few members of the outfit are still around, but none of them
 really having the same effect as KAAOS had before. A few of the members
-have moved on to other [outfits](outfits.md), while others have
+have moved on to other [outfits](List_of_Outfit.md), while others have
 decided to stay loyal to the KAAOS name and wear the tag until the very
 end of PlanetSide.
 

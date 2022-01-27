@@ -12,7 +12,7 @@ weapon, which is the anti-aircraft weapon on the
 [Aphelion](Aphelion.md) and [Eclipse](Eclipse.md). The
 boxes can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
-[BFR](BattleFrame_Robotics.md)'s [trunk](trunk.md) or acquired while in
+[BFR](BattleFrame_Robotics.md)'s [trunk](Trunk.md) or acquired while in
 the BFR from a [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

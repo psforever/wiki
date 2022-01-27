@@ -20,7 +20,7 @@
 This world rages with storms. The moments when the weather is clear are
 momentous as the volcanism that erupts around the world feeds belt after
 belt of the fiercest storms imaginable. The
-[continent](continent.md) of **Searhus** seems sheltered in the
+[continent](Continent.md) of **Searhus** seems sheltered in the
 center of a stable "eye" in the storms, but even the peripheral storms
 felt here are severe by comparison elsewhere.
 

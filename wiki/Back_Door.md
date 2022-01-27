@@ -4,9 +4,9 @@
 against a [Vanu Sovereignty](Vanu_Sovereignty.md) assault\]\]
 
 The Back Door is the entry point to the inside of a
-[Facility](facilities.md) which is located outside of the
+[Facility](Facilities.md) which is located outside of the
 facilities [Courtyard](Courtyard.md). It is an Infantry-only
-area, with a door too small for any [Vehicles](Vehicles.md).
+area, with a door too small for any [Vehicles](Vehicle.md).
 
 The only built-in defense for a Back Door is a simple
 [IFF](IFF.md) lock.

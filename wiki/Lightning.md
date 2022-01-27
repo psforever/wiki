@@ -19,7 +19,7 @@ The Lightning light tank is used by all three Empires. It has the least
 armor, smallest profile and highest speed. It lacks the firepower and
 armor to engage a medium tank. Instead it can be used for drive-by
 shooting or as light artillery. A Lightning can be transported by the
-[Galaxy dropship](vehicles/Galaxy.md).
+[Galaxy dropship](Galaxy.md).
 
 Shots to kill (with 75mm Cannon only):
 

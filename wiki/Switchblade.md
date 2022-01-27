@@ -35,7 +35,7 @@ The main drawback is the switchblade goes through ammo quickly. Unlike
 other vehicles, you can only get more ammo by going to a [Repair/Rearm.md
 Silo](Repair_Rearm_Silo.md) at a facility with a [Vehicle
 Module](Vehicle_Module.md) benefit, or if you are in the
-[caverns](caverns.md), at a [Vehicle Energy
+[caverns](Caverns.md), at a [Vehicle Energy
 Crystal](Vehicle_Energy_Crystal.md).
 
 [category:Vehicles](category:Vehicles.md) [category:Ground

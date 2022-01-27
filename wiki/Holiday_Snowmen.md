@@ -39,7 +39,7 @@
 </table>
 
 Awarded for finding a snowmen on each of the 9 surface
-[continents](continent.md) (excluding the [Oshur Battle
+[continents](Continent.md) (excluding the [Oshur Battle
 Islands](Battle_Islands.md)) during the Christmas holidays of
 2006 and 2007.
 

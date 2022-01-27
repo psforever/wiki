@@ -1,17 +1,17 @@
-A Sub-Capitol is any one of four [facilities](facilities.md)
+A Sub-Capitol is any one of four [facilities](Facilities.md)
 located on each [Empire](Empire.md)'s home
-[continents](continent.md) which is connected via a green
-lattice link to the [capitol](capitol.md) facility.
+[continents](Continent.md) which is connected via a green
+lattice link to the [capitol](Capitol.md) facility.
 [Sub-Capitols](Sub-Capitol.md) play an important role in the
-capture of capitol [bases](facilities.md) as they are the only
+capture of capitol [bases](Facilities.md) as they are the only
 way to disable the facility's impeneatrable shield barrier, called a
 [Force Dome](Force_Dome.md). If two or more Sub-Capitols are
-held by the same [empire](empire.md) who owns the capitol
-facility, the [capitol](capitol.md) will activate it's Force
+held by the same [empire](Empire.md) who owns the capitol
+facility, the [capitol](Capitol.md) will activate it's Force
 Dome barrier. Only by taking three sub-capitals (or taking two and
-allowing another invading [empire](empire.md) to take the third)
+allowing another invading [empire](Empire.md) to take the third)
 can you disable this shield. The only way to successfully hack the
-[capitol](capitol.md) facility is by owning two or more
+[capitol](Capitol.md) facility is by owning two or more
 Sub-Capitols.
 
 ## Capitol and Sub-Capitol Index

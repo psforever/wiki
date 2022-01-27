@@ -1,7 +1,7 @@
 ![](images/NTUSiloPicture.jpg "fig:NTUSiloPicture.jpg") The **NTU Silo** is an
-object in all [facility](facilities.md) courtyards which stores
+object in all [facility](Facilities.md) courtyards which stores
 [NTUs](NTU.md) for use by the facility's
-[generator](generator.md).
+[generator](Generator.md).
 
 [Advanced Nanite Transports](Advanced_Nanite_Transport.md) use
 the **NTU Silo** as a drop-off point for their load of NTUs. An **NTU

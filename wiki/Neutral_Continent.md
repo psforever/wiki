@@ -1,6 +1,6 @@
 A **Neutral Continent** (or Neutral Planet in the
 [Post-Bending](The_Bending.md) era) is simply a
-[planet](planet.md) which does not possesses a direct link to an
+[planet](Planet.md) which does not possesses a direct link to an
 [Empire](Empire.md)'s [Sanctuary](Sanctuary.md).
 Empire's must link to these planets from other continents to gain
 access.

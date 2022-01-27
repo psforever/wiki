@@ -1,5 +1,5 @@
 "**Hack-and-Hold**" refers to [facilities](Facilities.md) that, in
-order to be captured, must be [hacked](hack.md) and the owning
+order to be captured, must be [hacked](Hack.md) and the owning
 [Empire](Empire.md) prevented from re-hacking (resecuring) the
 facility for 15 minutes. [Cavern](Caverns.md) facilities are also
 "hack-and-hold", but they need only be protected for 10 minutes.

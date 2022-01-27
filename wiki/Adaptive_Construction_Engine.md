@@ -33,7 +33,7 @@ on the continental map and selecting to deconstruct it.
 Turret](Cerberus_Turret.md), [Sensor
 Disruptor](Sensor_Disruptor.md), and [Disruptor
 Mine](Disruptor_Mine.md) require additional
-[certifications](certification.md), and cannot be used with
+[certifications](Certification.md), and cannot be used with
 merely the [Combat Engineering](Combat_Engineering.md)
 certification.
 
@@ -46,7 +46,7 @@ allows for the construction of this deadly remote detonated charge.
 Originally intended to be used as a perimeter control device,
 [Cloakers](Infiltration_Suit.md) and other enterprising
 induviduals have adapted them to be used as offensive weapons,
-particularly useful for destroying [generators](generator.md)
+particularly useful for destroying [generators](Generator.md)
 and [Respawn tubes](Respawn_Tube.md). Boomers can be attached to
 almost any static surface, indoors or out, and as long as the trigger
 remains intact, will remain in position, ready to be detonated. Boomers
@@ -61,7 +61,7 @@ Engineer at any one time.
 ![](images/HE_Mine.jpg "fig:HE_Mine.jpg") The enemy of many a soldier, this
 proximity mine fortunately can tell friend from foe, but that's about
 it. Lay and pray is the motto to follow after deploying this devestating
-weapon. Harmful to both infantry and [vehicle](vehicle.md)
+weapon. Harmful to both infantry and [vehicle](Vehicle.md)
 alike, the weapons litter the battlefields. While not as versatile as
 [Boomers](Adaptive_Construction_Engine.md#Boomer) (they cannot be deployed indoors and
 cannot be remotely detonated), they make up for it in sheer force.
@@ -77,7 +77,7 @@ deployed by a single Combat Engineer at any one time.
 ![](images/Spitfire.jpg "fig:Spitfire.jpg")\]\] The bane of many a soldier,
 this deployable turret is a common sight on the battlefield. Set to
 automatically fire at any adversary (soldier or
-[vehicle](vehicle.md)), the "Spit" is a dangerous battlefield
+[vehicle](Vehicle.md)), the "Spit" is a dangerous battlefield
 obstacle. [EMPs](EMP.md) and [Jammer
 grenades](Jammer_Grenade.md) will disable them for a short
 period of time. Other methods of bypassing them include walking (default

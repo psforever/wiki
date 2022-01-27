@@ -8,7 +8,7 @@
 
 **Galaxy Gunship**
 
-The Galaxy Gunship is similar to the [Galaxy](vehicles/Galaxy.md) in most
+The Galaxy Gunship is similar to the [Galaxy](Galaxy.md) in most
 ways, except that it has less passenger seats, but more firepower.
 
 [Category:Certification](Category:Certification.md)

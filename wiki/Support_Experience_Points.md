@@ -4,27 +4,27 @@ Soldier makes after you have Supported him. It is [Battle
 Experience](BEP.md) awarded for Support activities. "Support"
 includes:
 
-- Repairing [armor](armor.md) (infantry or vehicles) that then
+- Repairing [armor](Armor.md) (infantry or vehicles) that then
   scores kills
-- Repairing any kind of [turret](turret.md) that then score
+- Repairing any kind of [turret](Turret.md) that then score
   kills
 - Healing damage to a soldier that then scores kills
 - Reviving a dead soldier that then scores kills
 - Hacking an [Equipment Terminal](Equipment_Terminal.md),
-  [locker](locker.md), [Vehicle
+  [locker](Lockers.md), [Vehicle
   Terminal](Vehicle_Terminal.md) or [Medical
   Terminal](Medical_Terminal.md) that soldiers use and then
   score kills
 - Owning an [AMS](Advanced_Mobile_Station.md) that soldiers spawn or equip at and
   then score kills
-- Piloting a [Galaxy](vehicles/Galaxy.md), [Galaxy
+- Piloting a [Galaxy](Galaxy.md), [Galaxy
   Gunship](Galaxy_Gunship.md), or
   [Phantasm](Phantasm.md) and dropping troops that then score
   kills
-- Owning a deployed [router](router.md) or placing a
-  [telepad](telepad.md) that soldiers use and then score kills
-- Owning a [lodestar](lodestar.md) that
-  [vehicles](vehicle.md) either repair or rearm at and then
+- Owning a deployed [router](Router.md) or placing a
+  [telepad](Telepad.md) that soldiers use and then score kills
+- Owning a [lodestar](Lodestar.md) that
+  [vehicles](Vehicle.md) either repair or rearm at and then
   score kills
 
 Unlike base capture or kill [BEP](BEP.md), you will not be

@@ -13,7 +13,7 @@ runs on its own power supply. It also disables any [Facility Linked
 Benefits](Facility_Linked_Benefit.md) the base may be providing.
 As well, the facility becomes a dead link in the Lattice system,
 blocking benefits from bases behind it on the lattice. Additonally, it
-releases the [modules](modules.md) that may be installed in that
+releases the [modules](Modules.md) that may be installed in that
 facility. This means they can be removed or stolen from their
 [cradles](Module_Cradle.md). A destroyed generator will repair
 itself, albeit very slowly, as long as the base has a supply of NTUs

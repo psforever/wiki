@@ -6,7 +6,7 @@
 ordnance. [Ancient-Tech](Ancient_Technology.md) weaponry can also be
 acquired if an [Equipment Module](Equipment_Module.md) is
 installed or a [Cavern Lock](Cavern_Lock.md) is linked through
-the [lattice](lattice.md).
+the [lattice](Lattice.md).
 
 These terminals are crucial to any war effort and can be found in
 numerous places. Each [Advanced Mobile
@@ -14,18 +14,18 @@ Station](Advanced_Mobile_Station.md), or AMS, supplies two on
 either side of the vehicle. The [Respawn
 Building](Respawn_Building.md), [VR
 Training](VR_Training.md) Rooms, [HART
-building](HART_building.md), and [towers](towers.md) in
+building](HART_building.md), and [towers](Towers.md) in
 each Empire's [Sanctuary](Sanctuary.md) contain two or more
 equipment terminals.
 
-All base [facilities](facilities.md) provide equipment terminals
+All base [facilities](Facilities.md) provide equipment terminals
 in the [Respawn rooms](Spawn_Room.md) and the [main
 lobby](main_lobby.md). [Interlink
 Facilities](Interlink.md) and [Dropship
 Centers](Dropship_Center.md) contain extra teriminals on the top
 level in the alcove beneath the radar dish.
 
-Every [tower](towers.md) also contains equipment terminals in
+Every [tower](Towers.md) also contains equipment terminals in
 their Respawn rooms.
 
 To access an Equipment terminal, approach and press the use (default
@@ -34,7 +34,7 @@ well as your [Inventory](Inventory.md) window. You may
 double-click on an item or click and drag that item into your inventory.
 
 From the acquisition window you can also save up to 10 unique
-[loadouts](loadout.md) of arms and equipment under the
+[loadouts](Loadout.md) of arms and equipment under the
 [Favorites](Favorites.md) tab. This allows you to quickly arm
 and supply yourself for various situations after respawning.
 

@@ -3,11 +3,11 @@ Spiker\]\]
 
 |                            |                                                                    |
 | -------------------------- | ------------------------------------------------------------------ |
-| **Certification Required** | [Medium Assault](Medium_Assault.md)                     |
-| **Empire**                 | [Common Pool](Common_Pool.md)                           |
+| **Certification Required** | [Medium Assault](Medium_Assault.md)                                |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                      |
 | **Primary Mode**           | Energy Orb                                                         |
 | **Secondary Mode**         | \-                                                                 |
-| **Ammunition**             | [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md)     |
+| **Ammunition**             | [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md)                |
 | **Range**                  | 200 m                                                              |
 | **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                             |
 | **Magazine Capacity**      | 25                                                                 |
@@ -34,7 +34,7 @@ into the pistol inventory slot, allowing its use by cloakers. In
 addition, unless the user is in the core, the base must have an
 [Equipment Module](Equipment_Module.md) installed for the weapon
 to be purchased. Many players circumvent this by placing large caches of
-the weapon into their [lockers](lockers.md), making them
+the weapon into their [lockers](Lockers.md), making them
 available anywhere on the battlefield.
 
 <H3>

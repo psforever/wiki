@@ -1,13 +1,13 @@
-Installed [modules](modules.md) provide base benefits that can
-be linked to other [facilities](facilities.md) via the
+Installed [modules](Modules.md) provide base benefits that can
+be linked to other [facilities](Facilities.md) via the
 Continental [Lattice](Lattice.md). A facility can enjoy many
 module benefits from mulitiple bases through direct and indirect chains
 of links.
 
 Module benefits can be interupted if the base is
 [hacked](Capturing_Bases.md) by the enemy, if the
-[generator](generator.md) is destroyed, or the base runs out of
-[NTU](NTU.md) and goes [neutral](neutral.md). Any
+[generator](Generator.md) is destroyed, or the base runs out of
+[NTU](NTU.md) and goes [neutral](Neutral.md). Any
 facility linked to this incapacitated base, directly or via a chain of
 bases, will lose that base's module benefit.
 

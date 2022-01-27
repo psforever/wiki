@@ -1,16 +1,16 @@
-A [revive](revive.md) allows a soldier whose
-[health](health.md) has hit 0 to be brought back into combat
-without the need of being [respawned](respawn.md). This allows
+A [revive](Revive.md) allows a soldier whose
+[health](Health.md) has hit 0 to be brought back into combat
+without the need of being [respawned](Respawn.md). This allows
 for a soldier to get back into the combat more quickly, and it also
 allows a soldier to avoid having his respawn time lengethening due to
 frequent deaths. However, a soldier who is revived has the same
-[stamina](stamina.md) and armor as when they died, so often, a
+[stamina](Stamina.md) and armor as when they died, so often, a
 soldier's armor needs to be repaired and the soldier needs to rest for
 awhile to regain their stamina.
 
 To revive a fallen comrade, a player needs the [Advanced
 Medical](Advanced_Medical.md)
-[certification](certification.md) along with a [Medical
+[certification](Certification.md) along with a [Medical
 Applicator](Medical_Applicator.md). Reviving someone takes 25
 units of ammo from a [Health Canister](Health_Canister.md) and
 takes several seconds. During this period, the Medic is vulnerable to

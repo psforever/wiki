@@ -1,21 +1,21 @@
 ![](images/Ant.jpg "fig:Ant.jpg") ![](images/ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Type**                   | Utility                                  |
-| **Role**                   | Resource Gathering                       |
-| **Certification Required** | None                                     |
+|                            |                               |
+| -------------------------- | ----------------------------- |
+| **Type**                   | Utility                       |
+| **Role**                   | Resource Gathering            |
+| **Certification Required** | None                          |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Primary Weapon**         | \-                                       |
-| **Secondary Weapon**       | \-                                       |
-| **Occupants**              | 1 (Driver)                               |
-| **Handling**               | Very Poor                                |
-| **Top speed**              | 61 kph                                   |
+| **Primary Weapon**         | \-                            |
+| **Secondary Weapon**       | \-                            |
+| **Occupants**              | 1 (Driver)                    |
+| **Handling**               | Very Poor                     |
+| **Top speed**              | 61 kph                        |
 
 **Advanced Nanite Transport (ANT)**
 
 The **Advanced Nanite Transport (ANT)** is used to resupply
-[facilities](facilities.md) with [NTUs](NTU.md).
+[facilities](Facilities.md) with [NTUs](NTU.md).
 
 To do so, the driver must first drive into a
 [Warpgate](Warpgate.md) or [Geowarp](Geowarp.md) bubble
@@ -30,7 +30,7 @@ when the [NTU Silo](NTU_Silo.md) is full or the **ANT's**
 capacitors are empty.
 
 One fully-filled **ANT** carries approximately 150% of one
-[facility](facilities.md)'s total [NTU](NTU.md)
+[facility](Facilities.md)'s total [NTU](NTU.md)
 capacity.
 
 Caution: Fully-charged **ANTs** have a significant secondary blast

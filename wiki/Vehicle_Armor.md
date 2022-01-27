@@ -1,11 +1,11 @@
-Each [vehicle](vehicle.md) in
+Each [vehicle](Vehicle.md) in
 [Planetside](PlanetSide.md) has a different armor value.
 [Weapons](Weapon.md) do different amounts of damage to each
 vehicle, depending on the type of vehicle targeted. For example, the
 [Lancer](Lancer.md) does 175 damage to ground vehicles but only
 125 damage to aircraft. Similarly, anti-aircraft [MAX](Mechanized_Assault_Exo-Suit.md)
 units do more damage to aircraft than ground vehicles. If your
-[empire](empire.md) owns the [Cyssor](Cyssor.md)
+[empire](Empire.md) owns the [Cyssor](Cyssor.md)
 [benefit](Empire_Benefit.md), the base armor of your vehicle is
 increased by 10%. [Amp Station](Amp_Station.md) shields, when at
 full strength, add an additional 20% of armor. The Cyssor benefit does
@@ -303,7 +303,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Galaxy](vehicles/Galaxy.md)
+[Galaxy](Galaxy.md)
 
 </td>
 <td align="center">

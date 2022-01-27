@@ -30,7 +30,7 @@ and hold the trigger. A progress bar indicates the time to completion.
 Once completed, a temporary targeting waypoint will be visible in the
 [HUD](Heads-up_Display.md) and on the [Proximity
 Map](Proximity_Map.md) for members of the Platoon. Unlike normal
-[waypoints](waypoint.md), targeting waypoints are circular on
+[waypoints](Waypoint.md), targeting waypoints are circular on
 the proximity map, use the color and number of the user, and go away
 after about 15 seconds.
 

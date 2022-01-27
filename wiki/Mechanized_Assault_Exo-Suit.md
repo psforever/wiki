@@ -11,7 +11,7 @@ Each Empire's MAX units also have a special ability which improves their
 effectiveness in the field.
 
 Each type of armor has its own
-[certification](certifications.md), although the
+[certification](Certifications.md), although the
 [Uni-MAX](<Uni-MAX_(Certification)>) certification gives access
 to all three types of MAX armor at a reduced cost.
 

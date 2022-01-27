@@ -1,5 +1,5 @@
 [Certification points](Certification_points.md) are what players
-use to acquire [certifications](certifications.md).
+use to acquire [certifications](Certifications.md).
 [Certifications](Certifications.md) are what gives players
 access to different weapons, armor, vehicles and abilities.
 
@@ -12,10 +12,10 @@ Battle Rank 40, all certifications will automatically become available
 to a player, removing the use certification points.
 
 If you choose to "forget" one of your
-[certifications](certifications.md), the [certification
+[certifications](Certifications.md), the [certification
 points](certification_points.md) spent on it become immediately
 available to be spend on other
-[certifications](certifications.md). If you "forget" a
+[certifications](Certifications.md). If you "forget" a
 certification that is a prerequisite for another certification you have,
 both will be forgotten automatically.
 
@@ -32,7 +32,7 @@ Characters newer than 7 days, can unlearn certifications without
 penalty. After those 7 days however, the 6 hour timer will apply.
 Occasionally, your character may be granted a "Forget All" option,
 normally coinciding with the release of a major
-[patch](patch.md), enabling a one-time reset of all
+[patch](Patch.md), enabling a one-time reset of all
 certification points.
 
 [\*](category:Certification.md)

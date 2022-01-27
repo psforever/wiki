@@ -45,7 +45,7 @@ the Fortification Engineering certification.
 With the [Assault Engineering](Assault_Engineering.md)
 certification, the Nano Dispenser can be used upgrade Aegis Shield
 Generators to supply ammunition and hand-held
-[grenades](grenade.md) using Armor Canister ammunition. If you
+[grenades](Grenade.md) using Armor Canister ammunition. If you
 also have Fortificantion Engineering, the Aegis must have been
 previously upgraded to have a static shield and the shield must be at
 full health to begin the ammunition upgrade.

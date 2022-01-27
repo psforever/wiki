@@ -13,7 +13,7 @@ anti-aircraft weapon. The rounds lock-on similar to the
 [Sparrow](Sparrow.md) [MAX](Mechanized_Assault_Exo-Suit.md) unit of the same
 name. The boxes can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
-BFR's [trunk](trunk.md) or acquired while in the vehicle from a
+BFR's [trunk](Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

@@ -4,7 +4,7 @@ Continents](Neutral_Continent.md). Capturing these continents
 are the main object of the war. [Pre-Bending](The_Bending.md)
 these continents were located on a single planet called Auraxis, but
 ever since the event the continents have been pushed out to exist on ten
-seperate [planets](planet.md).
+seperate [planets](Planet.md).
 
 Capturing, or [locking](Continental_lock.md), a type of
 continent can provide certain benefits for each Empire depending on its
@@ -12,7 +12,7 @@ continent can provide certain benefits for each Empire depending on its
 [Neutral](Neutral_Continent.md) status.
 
 A continent can be reached by traveling through the
-[warpgates](warpgate.md) or [broadcast
+[warpgates](Warpgate.md) or [broadcast
 warpgates](broadcast_warpgate.md), and via the [HART
 Shuttle](HART.md) system located in each Empire's
 [Sanctuary](Sanctuary.md). It can also be reached by selecting

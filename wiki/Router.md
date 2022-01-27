@@ -14,7 +14,7 @@
 
 **Router**
 
-The **Router** is a [deployable](deploy.md) teleporter system
+The **Router** is a [deployable](Deploy.md) teleporter system
 similar to the [Teleporters](Teleporter.md) of the caverns. The
 Router will allow friends (and foes) to utilize its teleporter beam to
 instantly move between where the [Telepad](Telepad.md) is
@@ -26,7 +26,7 @@ its holster and click where you wish to deploy it. The Telepad can only
 be deployed within a limited range of the Router (300 meters). One
 minute after you click, the Telepad will become operational allowing
 non-[IFF](IFF.md) transport. To let others take telepads from
-your Router, set the [trunk](trunk.md) to empire or group.
+your Router, set the [trunk](Trunk.md) to empire or group.
 Placing a telepad renders any active telepads from the same Router
 inactive, so be careful who you let have access.
 

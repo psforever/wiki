@@ -5,7 +5,7 @@ two walls in each continent's [surface
 bases](Facilities.md#Surface_Bases), and to the [HART
 buildings](HART_building.md) in each
 [Sanctuary](Sanctuary.md). They can be used to rearm ground
-[vehicles](vehicle.md) and [BFRs](BattleFrame_Robotics.md), as long as
+[vehicles](Vehicle.md) and [BFRs](BattleFrame_Robotics.md), as long as
 the base is powered and in friendly hands. Also, when the facility is
 linked to a friendly [Dropship Center](Dropship_Center.md) or
 your empire has the [Oshur](Oshur.md) [Continental

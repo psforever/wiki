@@ -18,7 +18,7 @@ to this, Shotguns are used primarily indoors and in other close combat
 fights, as they are very ineffective at anything beyond close proximity.
 
 The Armor Piercing Shotgun Shells do good damage to armored targets like
-[MAX Units](Mechanized_Assault_Exo-Suit.md), [vehicles](vehicle.md) and
+[MAX Units](Mechanized_Assault_Exo-Suit.md), [vehicles](Vehicle.md) and
 [Deployables](Adaptive_Construction_Engine.md), but are rather
 ineffective against smaller, less armored targets. When encountering
 such targets, it is best to use the standard [Shotgun

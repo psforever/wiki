@@ -11,12 +11,12 @@ These 12mm bullets are the most common vehicle ammo. The
 [Sunderer](Sunderer.md) variants of each empire use this weapon
 in their [Ballguns](Ballgun.md). It's also used on many other
 vehicles. The rounds are best used only against
-[infantry](infantry.md) as the damage is low. However, the
+[infantry](Infantry.md) as the damage is low. However, the
 bullets pass through the shields of [BFRs](BattleFrame_Robotics.md), giving you
 the possibility of damaging some of its systems. The boxes can be
 obtained from any [Equipment Terminal](Equipment_Terminal.md) to
-be hand-loaded into the [vehicle](vehicle.md)'s
-[trunk](trunk.md) or acquired while in the vehicle from a
+be hand-loaded into the [vehicle](Vehicle.md)'s
+[trunk](Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm Silo](Repair_Rearm_Silo.md) or [Landing
 Pad](Landing_Pad.md).
 

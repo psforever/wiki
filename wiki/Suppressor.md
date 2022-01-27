@@ -17,7 +17,7 @@ Suppressor\]\]
 
 The [Suppressor](Suppressor.md) is the standard-issue
 Sub-Machine Gun for all PlanetSide soldiers (all soldiers respawn with
-this [weapon](weapon.md) after they have died) and the only
+this [weapon](Weapon.md) after they have died) and the only
 rifle in the [Standard Assault](Standard_Assault.md) category.
 Although it lacks the damage outputs of its [Medium
 Assault](Medium_Assault.md) relatives, it is very accurate,

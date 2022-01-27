@@ -5,8 +5,8 @@
 Merit Commendations are awards for certain activities done within the
 game. This includes:
 
-- Kills using certain [weapons](weapon.md) or
-  [vehicles](vehicle.md)
+- Kills using certain [weapons](Weapon.md) or
+  [vehicles](Vehicle.md)
 - Destroying a specific kind of unit
 - Kills under certain circumstances
 - Supporting/Assisting other players
@@ -124,14 +124,14 @@ Experience Points through one of the following activities:
 - Repairing another Soldier or [Vehicle](Vehicle.md) with
   either a [Nano Dispenser](Nano_Dispenser.md),
   [BANK](Body_Armor_Nano_Kit.md) or [Lodestar](Lodestar.md)
-- [Reviving](revive.md) another Soldier
+- [Reviving](Revive.md) another Soldier
 - Hacking a Terminal or [Locker](Lockers.md) or providing an
   [AMS](Advanced_Mobile_Station.md) Terminal or Lodestar for others to obtain
   Equipment and/or Ammunition from.
 - Providing an [Advanced Mobile
   Station](Advanced_Mobile_Station.md) for others to Spawn
   from.
-- Having Soldiers bail from your [Galaxy](vehicles/Galaxy.md)
+- Having Soldiers bail from your [Galaxy](Galaxy.md)
 - Placing or owning a [Router](Router.md)
 
 Also see:

@@ -1,4 +1,4 @@
-Installing this [module](modules.md) provides three distinct
+Installing this [module](Modules.md) provides three distinct
 beneficial [Module benefits](Module_benefit.md):
 
 1.  Enables purchase of [Ancient-Tech](Ancient_Technology.md) (AT)

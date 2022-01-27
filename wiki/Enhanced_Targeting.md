@@ -1,9 +1,9 @@
 **Enhanced Targeting** provides enhanced targeting information to its
 user. For targets that are in range, Enhanced Targetting displays the
 relative health and armor values of enemy soldiers,
-[vehicles](vehicle.md), [BFRs](BattleFrame_Robotics.md), and [One-Manned
+[vehicles](Vehicle.md), [BFRs](BattleFrame_Robotics.md), and [One-Manned
 Field Turrets](One-Manned_Field_Turret.md). The
-[implant](implant.md) also lets the user see the shield strength
+[implant](Implants.md) also lets the user see the shield strength
 of BFRs and One-Manned Field Turrets. Additionally, the "[identify
 friend or foe](IFF.md)" recognition of targets kicks in at
 greater range, and enemy [deployables](Adaptive_Construction_Engine.md), such as mines,

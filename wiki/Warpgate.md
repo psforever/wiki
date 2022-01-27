@@ -1,20 +1,20 @@
 ![](images/Warp.jpg "fig:Warp.jpg") ![](images/Biwarp.jpg "fig:Biwarp.jpg")\]\] A
 Warpgate is a gigantic, hemispherically-shaped ancient artifact used to
 teleport individuals and vehicles from one
-[continent](continent.md) to another. There are 3 to 4 warpgates
-located on each continent and [sanctuary](sanctuary.md), each
-linked to a [planet](planet.md) light years away.
+[continent](Continent.md) to another. There are 3 to 4 warpgates
+located on each continent and [sanctuary](Sanctuary.md), each
+linked to a [planet](Planet.md) light years away.
 
 If the warpgate's host continent is
 [locked](continental_lock.md), or it is linked to a locked
-continent via a [continental lattice](lattice.md) chain, it
+continent via a [continental lattice](Lattice.md) chain, it
 becomes a [Broadcast Warpgate (BWG)](Broadcast_warpgate.md) and
 can transport an individual across the [Galactic
 Lattice](Galactic_Lattice.md) to any planet in the lattice
 chain.
 
 You cannot enter warpgates that link to an enemy
-[sanctuary](sanctuary.md) (found on enemy [Home
+[sanctuary](Sanctuary.md) (found on enemy [Home
 Continents](Home_Continent.md)). These warpgates are shaded the
 color of the controling empire on the [Continental
 Map](Continental_Map.md). The bubble will act as a solid
@@ -36,21 +36,21 @@ Transit Shuttle (HART)](HART.md).
 The warpgates were the first Ancient artifacts discovered and inspected
 by the Terran Republic expeditionary teams. It was the warp energy
 signatures passing through the gates and along the
-[lattice](lattice.md) network that the scientists were able to
+[lattice](Lattice.md) network that the scientists were able to
 harness to create the weaponry, vehicles, and equipment.
 
 The warpgates were also the first source of human Re-birthing, later
-known as [respawning](respawn.md). After a human passed through
+known as [respawning](Respawn.md). After a human passed through
 the warpgate energy beam, he could no longer stay dead. Instead he would
-[respawn](respawn.md) within one of the warpgates scattered
+[respawn](Respawn.md) within one of the warpgates scattered
 throughout the [Pre-Bending](The_Bending.md) planet of
 [Auraxis](Auraxis.md).
 
 The Terran scientists utilized this amazing property of the warpgates to
 create the [Matrix Panels](Matrix_Panel.md) and [Respawn
 tubes](Respawn_Tube.md) used in the various
-[facilities](facilities.md) on each
-[continent](continent.md).
+[facilities](Facilities.md) on each
+[continent](Continent.md).
 
 It is said that the scientists discovered how to create approximations
 of the [Ancients](Ancients.md)' vehicles and weaponry by

@@ -27,7 +27,7 @@
 
 **Light Scout**
 
-This "package deal" [certification](certification.md) equates to
+This "package deal" [certification](Certification.md) equates to
 [Assault Buggy](</Assault_Buggy_(Certification)>) certification
 with the addition of the [Mosquito](Mosquito.md) for a 1-point
 discount.

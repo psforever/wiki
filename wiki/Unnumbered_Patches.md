@@ -380,12 +380,12 @@ Infantry units but lack a punch in the armor piercing department
 - Secondary firing mode will unload all remaining rounds in the clip
   to produce a high amount of damage
 - Secondary firing mode has a side effect: your
-  [stamina](stamina.md) will be completely drained, so use it
+  [stamina](Stamina.md) will be completely drained, so use it
   with caution
 - Secondary firing also has a large cone of fire so be close to your
   enemy units if you want to do massive damage
 - Pistols deliver very low damage towards
-  [vehicles](vehicle.md) and equipment
+  [vehicles](Vehicle.md) and equipment
 
 MISSILE LAUNCHER with PROPELLED EXPLOSIVE - The
 [Scorpion](Scorpion.md)
@@ -440,11 +440,11 @@ believed to be minor.
 
 ## [6th Anniversary Update](6th_Anniversary_Update.md) (6/18/2009)
 
-- Free [certification](certification.md) reset
+- Free [certification](Certification.md) reset
 - Increased maximum [Battle Rank](Battle_Rank.md) from 25 to
   40
 - Added 6 year [Term of Service](Term_of_Service.md)
-  [merit](merit.md)
+  [merit](Merit_Commendations.md)
 
 ## BR32 Fix (6/17/2009)
 
@@ -475,9 +475,9 @@ believed to be minor.
   Service](Term_of_Service.md) award were unable to purchase
   [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) armor in the
   [Sanctuary](Sanctuary.md) and [Amerish](Amerish.md)
-  without the [certification](certification.md)
+  without the [certification](Certification.md)
 - Dramatically increased [BEP](BEP.md) and
-  [CEP](CEP.md) awarded for [facility](facility.md)
+  [CEP](CEP.md) awarded for [facility](Facility.md)
   captures (later rolled back in a patch shortly afterward)
 
 ## Game Update (10/22/2009)
@@ -489,7 +489,7 @@ with the Spooktacular Bonus Experience Days. This years event will run
 from October 22nd through November 2nd, and feature some really howling
 experience gains. [Base](Facilities.md) captures like you've never
 seen before, cavern captures that will make you want you want get that
-next [BFR](BattleFrame_Robotics.md) [imprint](imprint.md), and much more!
+next [BFR](BattleFrame_Robotics.md) [imprint](Imprint.md), and much more!
 So go ahead and spend some time with us and let’s get that much needed
 [Battle Experience](Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
@@ -498,7 +498,7 @@ can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
 pop up from time to time throughout the [Spooktacular
 Days](Spooktacular_Days.md) so be prepared! All players will be
 able to use [Cloaking infiltration suits](Infiltration_Suit.md)
-without need of the [certification](certification.md) on
+without need of the [certification](Certification.md) on
 [Extinction](Extinction.md) (this is our version of ghosts).
 
 - In true Halloween tradition, players will only be allowed to use a
@@ -506,7 +506,7 @@ without need of the [certification](certification.md) on
 - Players are urged to get proper [Implants](Implants.md)
   before entering the zone such as [Darklight](Darklight.md)
   in order to see all apparitions.
-- The zone has limited [vehicles](vehicle.md).
+- The zone has limited [vehicles](Vehicle.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This
   damage should slightly increase with [Melee
   Booster](Melee_Booster.md) implants.

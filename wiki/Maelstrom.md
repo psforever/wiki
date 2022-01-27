@@ -51,7 +51,7 @@ grenade.
 
 On the surface, in addition to the [Heavy
 Assault](Heavy_Assault.md)
-[certification](certifications.md), the base must have
+[certification](Certifications.md), the base must have
 [Equipment Module](Equipment_Module.md) installed (or the
 equipment [Module benefit](Module_benefit.md) via
 [Lattice](Lattice.md)) for the weapon to be available at

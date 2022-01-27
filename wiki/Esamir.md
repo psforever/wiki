@@ -16,7 +16,7 @@
 
 ## Description
 
-One of two 'white' [continents](continent.md), **Esamir** is
+One of two 'white' [continents](Continent.md), **Esamir** is
 currently the largest planet/continent being fought over in the Auraxian
 Civil War.
 

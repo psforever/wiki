@@ -22,7 +22,7 @@ The six cavern areas are:
 
 Each cavern is linked to four continental
 [Geowarps](Geowarp.md), adding new [Lattice](Lattice.md)
-links to each [continent](continent.md). However, only two
+links to each [continent](Continent.md). However, only two
 caverns are active at any given time, making time a critical factor in
 cavern attacks and usage of the cavern links.
 
@@ -31,7 +31,7 @@ cavern attacks and usage of the cavern links.
 Down in the caverns, the base facilities are quite different from those
 that are on the surface. While they are captured just the same, they do
 not provide the same functions that surface bases to. The cavern
-[facilities](facilities.md) were created to facilitate the
+[facilities](Facilities.md) were created to facilitate the
 creation and movement of modules to the surface. Four cavern facility
 types inhabit the caverns:
 
@@ -44,7 +44,7 @@ types inhabit the caverns:
 ## Modules
 
 Added to spice up gameplay, one of the new features introduced was the
-[modules](modules.md). When installed inside a surface base
+[modules](Modules.md). When installed inside a surface base
 facility, modules grant the facility and the controlling empire certain
 benefits, depending on the type of module installed. Currently, six
 types of modules are available to be installed:
@@ -73,7 +73,7 @@ from enemy bases that have them.
 ## Crystals
 
 Scattered throughout the caverns are multi-colored
-[crystals](crystal.md) that provide different benefits depending
+[crystals](Crystal.md) that provide different benefits depending
 on the color. All a unit need do is stand next to the crystal to
 activate it. Several crystal structures exist:
 

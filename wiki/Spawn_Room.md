@@ -3,14 +3,14 @@
 ![](images/CaveSpawnRoom.jpg "fig:CaveSpawnRoom.jpg") in a
 [Cavern](Caverns.md) [Redoubt
 Building](Redoubt_Building.md)\]\] Room in
-[facilities](facilities.md), [towers](towers.md), or the
+[facilities](Facilities.md), [towers](Towers.md), or the
 Sanctuary [Respawn Buildings](Respawn_Building.md) where the
 [Respawn tubes](Respawn_Tube.md) are located.
 
 ## Surface Spawn Rooms
 
 In addition to the spawn tubes, these rooms come equipped with
-several[lockers](lockers.md) and 3 [Equipment
+several[lockers](Lockers.md) and 3 [Equipment
 terminals](Equipment_Terminal.md).
 
 Respawn rooms are protected by low-energy [Pain
@@ -18,8 +18,8 @@ Fields](Pain_Field.md). If a [Pain
 Module](Pain_Module.md) is installed, this pain field is even
 more lethal.
 
-The Respawn room is adjacent to the [lounge](lounge.md) and
-above the [barracks](barracks.md). These three areas together
+The Respawn room is adjacent to the [lounge](Lounge.md) and
+above the [barracks](Barracks.md). These three areas together
 are sometimes refered to as the Barracks as well.
 
 ## Cavern Spawn Rooms

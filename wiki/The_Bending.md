@@ -5,8 +5,8 @@ _"Just before the end, everything....**bent**"_
 The Bending refers to an event, as well as one hell of a plot twist,
 that changed the face of [Auraxis](Auraxis.md) forever.
 
-During this bending, the [continents](continent.md) of Auraxis
-had fallen under siege by [meteor](meteor.md) storms. Many did
+During this bending, the [continents](Continent.md) of Auraxis
+had fallen under siege by [meteor](Meteor.md) storms. Many did
 not know what it meant, and many were fearful, feeling as if something
 was about to go terribly wrong.
 
@@ -25,7 +25,7 @@ Right after this voice, every soldier on Auraxis had fallen unconcious.
 Upon awakening back in their own sanctuaries, the soldiers of every
 empire saw that Auraxis' sun and moons were gone. The sky was different,
 yet the land was the same. The stars had changed, and each
-[continent](continent.md) had somehow shifted to different parts
+[continent](Continent.md) had somehow shifted to different parts
 of the universe.
 
 However, Oshur was gone. It had been replaced within the new [Galactic
@@ -35,7 +35,7 @@ had 4 islands, the [Battle Islands](Battle_Islands.md).
 ## The Bending - The Day Everything Changed - An account from a soldier on the field
 
 I was there that day. For three days meteors pounded the surface of
-Auraxis. The [caverns](caverns.md) shook and yet we battled on.
+Auraxis. The [caverns](Caverns.md) shook and yet we battled on.
 It became obvious that whatever was gonna happen would happen on Oshur
 Prime (the name for pre-bending Oshur).
 

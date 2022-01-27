@@ -5,7 +5,7 @@ same [Empire](Empire.md). Often times Outfits are specialized in
 one area. (i.e. Aerial Combat, Sabotage, etc.) Outfits have the ability
 to earn [Outfit Points](Outfit_Points.md). Once an Outfit has
 attained 10.000 Outfit Points it may attain an Outfit Decal for use on
-[vehicles](vehicle.md) and armor owned by it's members. Outfit
+[vehicles](Vehicle.md) and armor owned by it's members. Outfit
 chat is accessed by typing "/o" in front of your message. Other
 Communication Commands can be found under the
 [Commands](Commands.md) Section.

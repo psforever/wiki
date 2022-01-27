@@ -17,7 +17,7 @@ Training : Experimenting with new things earns experience. Usually only relevant
 
 <!-- -->
 
-ANT Runs : A soldier successfully refueling a facility using an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) (or [BFR](BattleFrame_Robotics.md) [NTU Siphon](NTU_Siphon.md)) earns experience. The experience gained varies depending how much [NTU](NTU.md) the base requires to reach 100% capacity, and is rationed out to the ANT owner in 20 BEP ticks during refueling. Squad mates within the same zone also receive 20 BEP for each tick. Note: You will only receive BEP for filling up a [neutral](neutral.md) base if it has a friendly hack on it.
+ANT Runs : A soldier successfully refueling a facility using an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) (or [BFR](BattleFrame_Robotics.md) [NTU Siphon](NTU_Siphon.md)) earns experience. The experience gained varies depending how much [NTU](NTU.md) the base requires to reach 100% capacity, and is rationed out to the ANT owner in 20 BEP ticks during refueling. Squad mates within the same zone also receive 20 BEP for each tick. Note: You will only receive BEP for filling up a [neutral](Neutral.md) base if it has a friendly hack on it.
 
 ## See also
 

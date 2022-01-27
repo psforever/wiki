@@ -1,11 +1,11 @@
 A Continental lock is when you own ALL the
-[facilities](facilities.md) on the
-[continent](continent.md). When you first get a lock, all
-[towers](towers.md) will revert to that Empire's control.
+[facilities](Facilities.md) on the
+[continent](Continent.md). When you first get a lock, all
+[towers](Towers.md) will revert to that Empire's control.
 
 A continental lock prevents enemy troops from using the
 [HART](HART.md) drop pods to reach that planet, forcing them to
-use [warpgates](warpgate.md). In addition, friendly troops may
+use [warpgates](Warpgate.md). In addition, friendly troops may
 use the [/broadcast channel](In-Game_Commands.md) to talk to any
 friendly on the continent.
 

@@ -4,22 +4,22 @@ Armor\]\] ![](images/VS_Standards.jpg "fig:VS_Standards.jpg") [Standard
 Exo-Suit](Standard_Exo-Suit.md) at, from left to right, [Battle
 Rank](Battle_Rank.md) 1, 7 and 14.\]\]
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Certification Required** | None                                     |
+|                            |                               |
+| -------------------------- | ----------------------------- |
+| **Certification Required** | None                          |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Armor**                  | 50                                       |
-| **Pistol Holsters**        | 1                                        |
-| **Rifle Holsters**         | 1                                        |
-| **Inventory Dimensions**   | 9 x 6                                    |
+| **Armor**                  | 50                            |
+| **Pistol Holsters**        | 1                             |
+| **Rifle Holsters**         | 1                             |
+| **Inventory Dimensions**   | 9 x 6                         |
 
 **Standard Exo-Suit**
 
 The **Standard Exo-Suit** is issued to every soldier at spawn time.
 While it does allow the wearer to run a little faster than the [Agile
 Exo-Suit](Agile_Exo-Suit.md), its smaller
-[inventory](inventory.md), single [pistol
-slot](holster.md), and the fact that Agile is also available
+[inventory](Inventory.md), single [pistol
+slot](Holster.md), and the fact that Agile is also available
 without other [Certifications](Certifications.md) means this
 armor has no practical use, other than quick defense of a base without
 power.

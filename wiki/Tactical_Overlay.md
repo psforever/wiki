@@ -49,7 +49,7 @@ include:
   and [Phantasms](Phantasm.md))
 - Support Vehicles ([AMS](Advanced_Mobile_Station.md),
   [Router](Router.md), and [Lodestar](Lodestar.md))
-- Special Operation Vehicles ([Galaxy](vehicles/Galaxy.md),
+- Special Operation Vehicles ([Galaxy](Galaxy.md),
   [Leviathan](Leviathan.md),
   [Juggernaut](Juggernaut.md), and
   [Vindicator](Vindicator.md))

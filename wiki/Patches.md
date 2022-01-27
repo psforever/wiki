@@ -165,7 +165,7 @@ category, linked at bottom.
 - [2.9.8](2.md.9.8) - [MA](Medium_Assault.md) damage
   degredation extended. [Starfire](Starfire.md) and
   [Sparrow](Sparrow.md) range increased.
-  [Zoning](Zone.md) [client](client.md) crash fix.
+  [Zoning](Zone.md) client crash fix.
 - [2.10.7](2.md.10.7) - [The Bending](The_Bending.md).
   [Battle Islands](Battle_Islands.md) go live!
 
@@ -185,12 +185,12 @@ category, linked at bottom.
   [MAX](Mechanized_Assault_Exo-Suit.md) armor, avatar invisibility, and zone crash
   fix.
 - [3.0.19](3.md.0.19) - Autodrive grief removed.
-  [Galaxy](vehicles/Galaxy.md) side-gun and
+  [Galaxy](Galaxy.md) side-gun and
   [Liberator](Liberator.md) cluster-bomb, AP shotgun shell,
   [Lasher](Lasher.md) BFR damage, and
   [Mosquito](Mosquito.md) [MAX](Mechanized_Assault_Exo-Suit.md) damage fixes.
 - [3.0.25](3.md.0.25) - [BFR](BattleFrame_Robotics.md)
-  acquisition fully operational! [Galaxy](vehicles/Galaxy.md) gun COF
+  acquisition fully operational! [Galaxy](Galaxy.md) gun COF
   and rate of fire decreased.
 - [3.0.26](3.md.0.26) - Halloween decor added. Heavy vehicles
   disallowed from purchase inside caverns (_not banished_).
@@ -354,7 +354,7 @@ category, linked at bottom.
   Engineering](Combat_Engineering.md) Window added, as well as
   [Rabbit](Rabbit.md) Gameplay adjustments.
 - [3.9.7](3.md.9.7) - 2 bug fixes and the annual Halloween
-  Jack-O-Lantern '[backpacks](backpack.md)'!
+  Jack-O-Lantern '[backpacks](Backpack.md)'!
 
 ### November
 
@@ -447,7 +447,7 @@ category, linked at bottom.
   Patch](Unnumbered_Patches.md#Game_Update_.2803.2F30.2F2007.29) -
   Undocumented addition of Cake, Pie, and Doughnut Box graphics to
   replace [NC](New_Conglomerate.md), [TR](Terran_Republic.md), and
-  [VS](Vanu_Sovereignty.md) [backpacks](backpack.md) respectively.
+  [VS](Vanu_Sovereignty.md) [backpacks](Backpack.md) respectively.
 
 ### April
 
@@ -478,7 +478,7 @@ category, linked at bottom.
 - [3.12.28](3.md.12.28) - Storyline for the upcoming
   [Phantasm](Phantasm.md) and [Galaxy
   Gunship](Galaxy_Gunship.md), respective
-  [certifications](certification.md) have been added, [Home
+  [certifications](Certification.md) have been added, [Home
   Continents](Home_Continent.md) have changed.
 
 ### August
@@ -508,21 +508,21 @@ category, linked at bottom.
 
 - [3.13.10](3.md.13.10) - Holiday Event settings removed,
   minor change to the [Light Scout](Light_Scout.md)
-  [certification](certification.md), change to mouse mappings.
+  [certification](Certification.md), change to mouse mappings.
 
 ### February
 
 - [3.13.11](3.md.13.11) -Valentine's day patch changing [VR
   training](VR_training.md) characters' names, awarding a
   special merit, and adding [Pain Module](Pain_Module.md)
-  damage to [cavern](cavern.md) spawn areas.
+  damage to [cavern](Caverns.md) spawn areas.
 
 <!-- -->
 
 - [3.15.2](3.md.15.2) -Added [Expert
   Hacking](Expert_Hacking.md) and [Data
   Corruption](Data_Corruption.md)
-  [certifications](certifications.md) and abilities, [Sensor
+  [certifications](Certifications.md) and abilities, [Sensor
   Disruptor](Sensor_Disruptor.md), [T-REK](T-REK.md),
   and new [Wasp](Wasp.md) lock-on warning.
 
@@ -530,8 +530,8 @@ category, linked at bottom.
 
 - [3.15.4](3.md.15.4) -Corrected a bug with the [Data
   Corruption](Data_Corruption.md)
-  [certification](certification.md),
-  [viruses](virus.md) in deployables can randomly wear off
+  [certification](Certification.md),
+  [viruses](Virus.md) in deployables can randomly wear off
   sooner, and minor tweaks to the [Sensor
   Disruptor](Sensor_Disruptor.md).
 
@@ -541,14 +541,14 @@ category, linked at bottom.
   [Emerald](Emerald.md) merged into
   [Gemini](Gemini.md). Five-year merit added with free
   [Reinforced Exo-Suit](Reinforced_Exo-Suit.md)
-  [certification](certification.md) as the reward.
+  [certification](Certification.md) as the reward.
 
 ### August
 
 - [3.15.18](3.md.15.18) -Added overdrive ability to
   [TR](Terran_Republic.md) [MAXes](Mechanized_Assault_Exo-Suit.md),
   [Burster](Burster.md) magazine size buff, and changed the
-  way [incentives](incentives.md) are calculated.
+  way [incentives](Incentives.md) are calculated.
 
 ### December
 
@@ -577,7 +577,7 @@ category, linked at bottom.
   [special merit](Ball_.md&_Chain).
 - [3.15.45](3.md.15.45) -Removed Valentine's day event
 - [3.15.46](3.md.15.46) -Every character received a free
-  [certification](certification.md) reset
+  [certification](Certification.md) reset
 
 ### March
 
@@ -595,7 +595,7 @@ category, linked at bottom.
   [ATVs](ATV.md). [Lasher](Lasher.md) clip reduced
   to 35.
 - [3.15.54](3.md.15.54) -Ends Coder Madness, restoring
-  everything to normal. Free [certification](certification.md)
+  everything to normal. Free [certification](Certification.md)
   reset.
 
 ### June
@@ -603,7 +603,7 @@ category, linked at bottom.
 - [6th Anniversary Update](6th_Anniversary_Update.md) -Added
   6th year [Term of Service](Term_of_Service.md) merit.
   Increased maximum [Battle Rank](Battle_Rank.md) from 25
-  to 40. Free [certification](certification.md) reset.
+  to 40. Free [certification](Certification.md) reset.
 
 ### August
 
@@ -625,7 +625,7 @@ category, linked at bottom.
 
 - [Unnumbered Patch](Unnumbered_Patches.md) (11/03/09) -
   Changes [Spooktacular Days](Spooktacular_Days.md)
-  [event](event.md) settings back to normal
+  [event](Events.md) settings back to normal
 
 ### December
 

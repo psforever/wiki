@@ -2,7 +2,7 @@ The **Range Magnifier** Implant provides a weapon-independent zoom
 capability of x4, x8 and x12 magnification. The zoom function becomes
 independent of any unholstered weapon, allowing a soldier to stay zoomed
 when normally the function would be turned off, such as during
-reloading, driving a [vehicle](vehicle.md), and gunning.
+reloading, driving a [vehicle](Vehicle.md), and gunning.
 
 The x12 zoom option is more powerful than the standard zoom attached to
 most weapons, including the [Bolt Driver](Bolt_Driver.md), which

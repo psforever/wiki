@@ -2,7 +2,7 @@
 [Vanguard](Vanguard.md) [Medium Battle
 Tank](Medium_Battle_Tank.md).\]\] [Vehicles](Vehicle.md)
 are an essential part to [PlanetSide](PlanetSide.md) as they are
-the main mode of transport between [facilities](facilities.md)
+the main mode of transport between [facilities](Facilities.md)
 and are the most powerful units on the battlefield. In PlanetSide, there
 are many different types of vehicles, from mobile spawn points to huge
 lumbering robots to ten person APC's.
@@ -17,7 +17,7 @@ the exceptions are the [AMS](Advanced_Mobile_Station.md), [ANT](Advanced_Nanite_
 have important capabilities). Some vehicles are only available to
 members of a particular [Empire](Empire.md), while others are
 available to all. Any unoccupied vehicle may be
-[jacked](jack.md) (stolen) by an enemy [advanced
+[jacked](Jack.md) (stolen) by an enemy [advanced
 hacker](Advanced_Hacking.md).
 
 ## Acquiring a Vehicle
@@ -30,7 +30,7 @@ being able to acquire and drive a vehicle.
 ### Certifications
 
 Before you can even get a vehicle, you must have the correct
-[certification](certification.md). Certain certifications yield
+[certification](Certification.md). Certain certifications yield
 different vehicles, and while some of the certifications yield what
 vehicle the certification name is, certain certifications come in
 "bundles". Certain vehicles are also granted under multiple
@@ -98,7 +98,7 @@ Assault](Air_Cavalry_Assault.md), the
 from [Air Support](Air_Support.md) and the
 [Phantasm](Phantasm.md) can be purchased at Air Vehicle
 Terminals. All of the above vehicles as well as the
-[Galaxy](vehicles/Galaxy.md), [Galaxy Gunship](Galaxy_Gunship.md)
+[Galaxy](Galaxy.md), [Galaxy Gunship](Galaxy_Gunship.md)
 and [Lodestar](Lodestar.md) from [Air
 Support](Air_Support.md) can be purchased at a Dropship Vehicle
 Terminal. [BFR](BattleFrame_Robotics.md)'s can only be purchased at [BFR
@@ -128,7 +128,7 @@ purchased at a base with a [Vehicle Module](Vehicle_Module.md)
 installed or at a base which has a link to a friendly base with a
 Vehicle Module installed. Alternately, these vehicles can always be
 purchased in any of the six [Core Combat](Core_Combat.md)
-[caverns](cavern.md). The vehicles under this restriction are:
+[caverns](Caverns.md). The vehicles under this restriction are:
 
 - [Switchblade](Switchblade.md)
 - [Flail](Flail.md)
@@ -285,13 +285,13 @@ toolbar to denote shield strength as well.
 
 After an [Advanced Nanite
 Transport](Advanced_Nanite_Transport.md) has gone to a
-[warpgate](warpgate.md) and gathered [NTU](NTU.md)'s, a
+[warpgate](Warpgate.md) and gathered [NTU](NTU.md)'s, a
 gray bar which reads "NTU Level" shows up on the bottom toolbar. This
 denotes how many NTU's are stored on the ANT that are ready to be
 transferred to an [NTU Silo](NTU_Silo.md) at a
-[facility](facility.md). Also, the
+[facility](Facility.md). Also, the
 [Mosquito](Mosquito.md), [Reaver](Reaver.md),
-[Vulture](Vulture.md), [Galaxy](vehicles/Galaxy.md),
+[Vulture](Vulture.md), [Galaxy](Galaxy.md),
 [Phantasm](Phantasm.md), and [Lodestar](Lodestar.md) all
 have [Afterburners](Afterburner.md), which is denoted on the HUD
 by a green bar which reads "Afterburners".
@@ -320,7 +320,7 @@ most important slot, generally a driver's weapons, if he has any at all,
 are weaker than a gunner's weapons. Thus, it is important for the gunner
 and the driver to coordinate to get the most kills. Also, many of the
 best driver/gunner combinations use a Voice Over IP program such as
-[Teamspeak](Teamspeak.md) or [Ventrilo](Ventrilo.md).
+[Teamspeak](TeamSpeak.md) or [Ventrilo](Ventrilo.md).
 
 #### Merits Through Gunning
 
@@ -341,14 +341,14 @@ These spots on a vehicle are denoted by a yellow circle with a chair
 inside it. Any armor besides [MAX](Mechanized_Assault_Exo-Suit.md) Armor can climb into
 passenger slots and go for a ride. For new characters, this is probably
 the easiest way to travel, as many new characters do not have the
-[certification](certification.md) points required to acquire a
+[certification](Certification.md) points required to acquire a
 vehicle yet.
 
 ### MAX Passenger Slots
 
 The [Leviathan](Leviathan.md),
 [Juggernaut](Juggernaut.md),[Vindicator](Vindicator.md),
-and [Galaxy](vehicles/Galaxy.md) have two positions which can be occupied
+and [Galaxy](Galaxy.md) have two positions which can be occupied
 by players wearing [MAX](Mechanized_Assault_Exo-Suit.md) Armor. Players wearing a
 [Infiltration Suit](Infiltration_Suit.md), [Standard
 Exo-Suit](Standard_Exo-Suit.md), [Agile
@@ -359,9 +359,9 @@ the middle.
 
 ### Vehicle Bay
 
-Both the [Galaxy](vehicles/Galaxy.md) and the
+Both the [Galaxy](Galaxy.md) and the
 [Lodestar](Lodestar.md) have a vehicle bay which can transport
-smaller ground vehicles in the air. The [Galaxy](vehicles/Galaxy.md) has
+smaller ground vehicles in the air. The [Galaxy](Galaxy.md) has
 a much smaller vehicle bay and can therefore only transport certain
 vehicles. These vehicles are:
 

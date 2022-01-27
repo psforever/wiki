@@ -1,21 +1,21 @@
 ![](images/InterstellarMap.jpg "fig:InterstellarMap.jpg") Overhead Map of the
-[planets](planet.md) and of Auraxian space, showing the
+[planets](Planet.md) and of Auraxian space, showing the
 [Galactic Lattice](Galactic_Lattice.md) network between the
-worlds and their [continents](continent.md). Accessed with the
+worlds and their [continents](Continent.md). Accessed with the
 "G" key after you have opened up the [Continental
 Map](Continental_Map.md) with the "M" key.
 
 When you select a single planet, it will reveal color-coded lines to
 other worlds that have fixed warpgate links to it. Blue rings will
-encircle a planet that you can [Broadcast Warp](broadcast.md)
+encircle a planet that you can [Broadcast Warp](Broadcast.md)
 to. When you enter a [broadcast
 warpgate](broadcast_warpgate.md), the Interstellar Map will
 automatically open and allow you to immediately choose your destination.
 
 Planetary data such as ownership status, capitol location, and number of
-[facilities](facilities.md) will scroll from the bottom of the
+[facilities](Facilities.md) will scroll from the bottom of the
 map. Mini-screens at the top of the map display
-[Cavern](caverns.md) and [Sanctuary](Sanctuary.md)
+[Cavern](Caverns.md) and [Sanctuary](Sanctuary.md)
 status.
 
 Selecting a planet or cavern will also highlight its hosted continent on
@@ -24,7 +24,7 @@ quick referance. Each mini-window will also show the [Continental
 lock](Continental_lock.md) and [Population
 lock](Population_lock.md) status of each continent, the empire
 [SOIs](Sphere_of_Influence.md) for each base, as well as any
-[hotspots](hotspot.md) on the surface.
+[hotspots](Hotspot.md) on the surface.
 
 [LLU](Lattice_Logic_Unit.md), [Module](Modules.md),
 [Squad](Squad.md), and [Platoon](Platoon.md)-member

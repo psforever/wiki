@@ -12,7 +12,7 @@ The core is blamed for [The Bending](The_Bending.md), as well as
 the appearance of the strange [Monoliths](Monolith.md).
 
 At times, the term **Auraxian Core** is also used as a collective term
-for the [caverns](caverns.md) when they resided in the center of
+for the [caverns](Caverns.md) when they resided in the center of
 the planet Auraxis.
 
 [Category:Game Items](Category:Game_Items.md)

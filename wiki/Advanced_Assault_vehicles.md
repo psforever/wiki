@@ -1,6 +1,6 @@
 Purchasable in an Empire's [Sanctuary](Sanctuary.md), at a
 [Technology Plant](Technology_Plant.md) or its [lattice
-linked](lattice.md) facility, **Advanced Assault vehicles**
+linked](Lattice.md) facility, **Advanced Assault vehicles**
 provide greater firepower, mobility, and/or armor over their lower-tech
 counterpart [vehicles](category:_Vehicles.md).
 

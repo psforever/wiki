@@ -1,6 +1,6 @@
-Certain [facility](facility.md) objects are destroyable,
+Certain [facility](Facility.md) objects are destroyable,
 draining [NTU](NTU.md) to repair. The following is a list of the
-armor values of non-[vehicle](vehicle.md) objects and their
+armor values of non-[vehicle](Vehicle.md) objects and their
 repair time if they are a repairable base object.
 
 <table border="2">

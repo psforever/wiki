@@ -24,7 +24,7 @@ passengers and can be cloaked by the pilot by pressing the "B" key by
 default.
 
 Traveling at speeds greater than 40 km/h (between 20% and 30% throttle)
-will make the [vehicle](vehicle.md) slightly visible (note that
+will make the [vehicle](Vehicle.md) slightly visible (note that
 at 30% throttle (42 km/h) you will appear cloaked on your screen but
 others will see a slight outline). Strafing, rising, or descending while
 traveling over 14 km/h will also expose the aircraft. Traveling at
@@ -53,13 +53,13 @@ Lock-on weapons are ineffective against the Phantasm while cloaked,
 though [Flak](Flak.md) will still explode in proximity to it.
 Automated defense systems will not fire on a cloaked phantasm. An enemy
 cloaked phantasm inside the [SOI](Sphere_of_Influence.md) of a base with
-[interlink](interlink.md)
+[interlink](Interlink.md)
 [benefits](Facility_Linked_Benefit.md) will show up on the
 [proximity map](Proximity_Map.md) of friendly players.
 
 The pilot can wear up to [Agile Exo-Suit](Agile_Exo-Suit.md)
 armor, and can earn the [Galaxy Support
-Pilot](Galaxy_Support_Pilot.md) [merit](merit.md) for
+Pilot](Galaxy_Support_Pilot.md) [merit](Merit_Commendations.md) for
 kills made by players after they bail from the aircraft.
 
 [Category:Game Items](Category:Game_Items.md)

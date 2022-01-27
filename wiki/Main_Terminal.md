@@ -17,8 +17,8 @@ For Squad/Platoon Leaders the Main terminal can be used to:
 - Recall Platoon to Home Base (Must be Platoon Leader)
 
 Players certed in the [Data Corruption](Data_Corruption.md)
-[certification](certification.md) can hack into the Main
-Terminal of an enemy facility and upload [viruses](virus.md)
+[certification](Certification.md) can hack into the Main
+Terminal of an enemy facility and upload [viruses](Virus.md)
 that will infect the facility, causing a variety of effects depending on
 the virus.
 

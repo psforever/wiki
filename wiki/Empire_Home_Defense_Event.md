@@ -1,7 +1,7 @@
 On Friday, July 29, 2005, we will be running the Empire Home Defense
 Event!
 
-In this event, one [Empire](empire.md) (chosen manually,
+In this event, one [Empire](Empire.md) (chosen manually,
 generally the empire with the highest population at the time) will
 defend both of their home continents simultaneously in two two-way
 battles against the other two empires.

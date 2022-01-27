@@ -1,23 +1,23 @@
 ![](images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
 Missile](Scorpion_Missile.md)\]\]
 
-|                            |                                                     |
-| -------------------------- | --------------------------------------------------- |
+|                            |                                          |
+| -------------------------- | ---------------------------------------- |
 | **Certification Required** | [Elite Assault](Elite_Assault.md)        |
 | **Empire**                 | [Common Pool](Common_Pool.md)            |
-| **Primary Mode**           | Fire                                                |
-| **Secondary Mode**         | Lock                                                |
+| **Primary Mode**           | Fire                                     |
+| **Secondary Mode**         | Lock                                     |
 | **Ammunition**             | [Scorpion Missiles](Scorpion_Missile.md) |
-| **Range**                  | Minimum: 50.5m Maximum: 301.7m                      |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                               |
-| **Magazine Capacity**      | 1                                                   |
-| **Zoom**                   | 12x                                                 |
+| **Range**                  | Minimum: 50.5m Maximum: 301.7m           |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                    |
+| **Magazine Capacity**      | 1                                        |
+| **Zoom**                   | 12x                                      |
 
 **Scorpion**
 
 The Scorpion is part of the new [Elite
 Assault](Elite_Assault.md)
-[certification](certification.md), along with the
+[certification](Certification.md), along with the
 [Dragon](Dragon.md). However if you have at least the [Two Year
 Term of Service Award](Term_of_Service.md), you can acquire the
 Scorpion without certing Elite Assault.

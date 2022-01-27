@@ -1,15 +1,15 @@
 **NTUs** (Nanite Technology Units) are collected from
-[warpgates](warpgate.md) and active
-[geowarps](geowarp.md) by
+[warpgates](Warpgate.md) and active
+[geowarps](Geowarp.md) by
 [ANTs](Advanced_Nanite_Transport.md) or [NTU
 Siphons](NTU_Siphon.md) and stored in facility [NTU
 Silos](NTU_Silo.md) to be converted by
-[generators](generator.md) into power for all base systems.
+[generators](Generator.md) into power for all base systems.
 
 NTUs are consumed by the base when repairing damaged systems such as the
 generator, [Respawn tubes](Respawn_Tube.md), terminals, and
 [Phalanx](Phalanx.md) wall turrets. If the NTU level of a base
-falls to 0%, the facility becomes [neutral](neutral.md). The
+falls to 0%, the facility becomes [neutral](Neutral.md). The
 level must be raised above 0% for a successful recapture.
 
 ## Game Lore

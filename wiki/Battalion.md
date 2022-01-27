@@ -1,7 +1,7 @@
 ## Bios
 
 Battalion is an epic [New Conglomerate](New_Conglomerate.md)
-[outfit](outfit.md), on the [Emerald](Emerald.md)
+[outfit](Outfit.md), on the [Emerald](Emerald.md)
 server, which boasts countless victories through systematic raids on
 bases of enemy empires. Battalion was founded by
 [Pedromdrp](user:Pedromdrp.md) in 2003.

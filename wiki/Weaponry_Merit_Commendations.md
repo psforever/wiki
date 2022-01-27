@@ -1,9 +1,9 @@
 This series of [Merit Commendations](Merit_Commendations.md) is
 awarded for:
 
-- Kills achieved by using a specific [weapon](weapon.md)
+- Kills achieved by using a specific [weapon](Weapon.md)
 - Kills achieved by using a specific class of
-  [weapon](weapon.md)
+  [weapon](Weapon.md)
 - Qualifying for multiple merits within the Weapons series
 
 <hr>

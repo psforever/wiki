@@ -20,7 +20,7 @@ terminal](Main_Terminal.md).
 In order to succeed, each Empire had to capture facilities in order to
 capture the Capitol. (This requires holding two
 [Sub-Capitols](Sub-Capitol.md).) The result was a race to
-[hack](hack.md) the [facilities](facilities.md), find
+[hack](Hack.md) the [facilities](Facilities.md), find
 the Monolith, capture the Capitol, and move the Monolith Unit to the
 Capitol.
 

@@ -22,7 +22,7 @@ building rotate every 15 minutes and can be predicted by noting the cave
 timer on the other caves on the [Interstellar
 Map](Interstellar_Map.md). Both module buildings in each cave
 have the same two modules available at any given time. In order to take
-a module from the cradle, your [empire](empire.md) must own the
+a module from the cradle, your [empire](Empire.md) must own the
 building. For the module to be installed on the surface, it must first
 be charged in the core beam in the [Core
 Complex](Core_Complex.md).

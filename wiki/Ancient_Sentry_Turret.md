@@ -21,7 +21,7 @@ means they never auto-fire, even if shot, and so must be manned to fire
 at all. The turret's name will appear red unless manned by a friendly
 trooper, even unoccupied. Unless it is occupied by an enemy soldier or
 destroyed, anyone may use any of these turrets at any time, and they do
-not need to be [hacked](hack.md). They can be manually repaired
+not need to be [hacked](Hack.md). They can be manually repaired
 (manned or unmanned), though the turrets will slowly repair themselves
 automatically at all times.
 

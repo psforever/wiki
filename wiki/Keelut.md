@@ -1,8 +1,8 @@
 <div style="float: left; border:solid #CCCCFF 1px; margin: 1px;">
 
-|                                                                                                           |
-| --------------------------------------------------------------------------------------------------------- |
-| **This page has been classified as a [stub](stub.md). You can help the wiki by expanding it.** |
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| **This page has been classified as a stub. You can help the wiki by expanding it.** |
 
 </div>
 

@@ -1,4 +1,4 @@
-![Image:psreserves.gif](psreserves.md.gif "Image:psreserves.gif")
+![Image:psreserves.gif](psreserves.gif "Image:psreserves.gif")
 
 **PlanetSide Reserves** was a program that ran from March 24, 2006 to
 March 27, 2007. It offered a limited version of
@@ -22,7 +22,7 @@ page](http://planetside.station.sony.com/reserves/)
   stopped accruing
 - Characters could enter the [Caverns](Caverns.md) and use
   [Ancient Tech](Ancient_Technology.md)
-  [vehicles](vehicles.md) and [weapons](weapons.md),
+  [vehicles](Vehicle.md) and [weapons](Weapons_Index.md),
   but could not [Imprint](Imprint.md) for
   [BFRs](BattleFrame_Robotics.md), although the pre-requisites for Imprinting
   could be earned
@@ -30,6 +30,6 @@ page](http://planetside.station.sony.com/reserves/)
   [Outfits](List_of_Outfits.md)
 - Characters on paying accounts moved ahead of PlanetSide Reserves
   characters in the [warp queue](warp_queue.md) for a
-  [poplocked](poplocked.md) [zone](zone.md)
+  [poplocked](Population_Lock.md) [zone](Zone.md)
 
 [Category:Terminology](Category:Terminology.md)

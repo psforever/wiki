@@ -36,7 +36,7 @@ as often as you like to keep your active magazine filled with
 ammunition.
 
 Be aware when operating one of these Turrets, for they can be
-[jacked](jack.md), while you're in it by only an [advanced
+[jacked](Jack.md), while you're in it by only an [advanced
 hacker](Advanced_Hacking.md). If jacked by an advanced hacker,
 the turret will deconstruct. However, if an [Expert
 Hacker](Expert_Hacking.md) jacks the turret, it will remain in
@@ -44,14 +44,14 @@ the game world and will be usable by the enemy.
 
 OMFT cannot be placed inside a friendly or enemy [Sphere of
 Influence](Sphere_of_Influence.md) or on bridges, but can be
-placed within the SOI of a [neutral](neutral.md) base. A maximum
+placed within the SOI of a [neutral](Neutral.md) base. A maximum
 of 5 can be placed by an engineer at a time and share interferece ranges
 with [AMSes](Advanced_Mobile_Station.md), [TRAPs](TRAP.md), and [Aegis
 Shield Generators](Aegis_Shield_Generator.md). If left unmanned,
 they will deconstruct automatically in about 5 minutes.
 
 Kills made with OMFTs count toward empire specific OMFT
-[merits](merit.md): [Avenger Gunner](Avenger_Gunner.md)
+[merits](Merit_Commendations.md): [Avenger Gunner](Avenger_Gunner.md)
 for the Avenger, [Orion Gunner](Orion_Gunner.md) for the Orion,
 and [Osprey Gunner](Osprey_Gunner.md) for the Osprey. These
 kills also count toward the general [Turret

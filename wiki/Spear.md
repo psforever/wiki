@@ -1,17 +1,17 @@
 ![](images/Spear.jpg "fig:Spear.jpg")
 ![](images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                         |
+| -------------------------- | --------------------------------------- |
 | **Certification Required** | [Medium Assault](Medium_Assault.md)     |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md) |
-| **Primary Mode**           | Single Shot                                        |
-| **Secondary Mode**         | All-Magazine Burst                                 |
+| **Primary Mode**           | Single Shot                             |
+| **Secondary Mode**         | All-Magazine Burst                      |
 | **Ammunition**             | [10mm Multi-Phase](10mm_Multi-Phase.md) |
-| **Range**                  | 200m                                               |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                             |
-| **Magazine Capacity**      | 6                                                  |
-| **Zoom**                   | x2                                                 |
+| **Range**                  | 200m                                    |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                  |
+| **Magazine Capacity**      | 6                                       |
+| **Zoom**                   | x2                                      |
 
 **Spear**
 
@@ -27,7 +27,7 @@ tight cone of fire.
 The secondary mode fires all remaining rounds quickly with a very large
 cone of fire. You must have at least 75 stamina to fire the secondary
 mode. The drawback is that this mode drains all remaining
-[stamina](stamina.md), leaving you vulnerable to attack. Thus,
+[stamina](Stamina.md), leaving you vulnerable to attack. Thus,
 you might want to think twice before firing in this mode. There is a
 short delay before firing begins with the secondary fire mode (much like
 the [Rocklet Rifle](Rocklet_Rifle.md)), with a distinct sound.

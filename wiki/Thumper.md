@@ -29,12 +29,12 @@ Ideal uses for the thumper are in [Back Door](Back_Door.md) or
 the user to fire around corners, saturating a target or area without
 visual contact. In addition, when loaded with a supply of [Jammer
 grenades](Jammer_Grenade.md), they can be quite handy
-eliminating minefields on [Galaxy](vehicles/Galaxy.md) drops when a
+eliminating minefields on [Galaxy](Galaxy.md) drops when a
 Command [EMP](EMP.md) is not available.
 
 Aspiring Special Assault soldiers should start by loading [Fragmentation
 grenades](Fragmentation_grenade.md) into their Thumper. Many new
-players complain of a prompt [grief-lock](grief-lock.md) due to
+players complain of a prompt [grief-lock](Grief_points.md) due to
 accidental team damage while using the Thumper, often while launching
 [Plasma grenades](Plasma_grenade.md). [Fragmentation
 grenades](Fragmentation_grenade.md) have a smaller explosion

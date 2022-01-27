@@ -39,9 +39,9 @@
 </table>
 
 Awarded for finding Christmas trees and sleds on each of the 9 surface
-[continents](continent.md) (excluding the [Oshur Battle
+[continents](Continent.md) (excluding the [Oshur Battle
 Islands](Battle_Islands.md))
-and in each of the [caverns](cavern.md) during the Christmas
+and in each of the [caverns](Caverns.md) during the Christmas
 holidays of 2006 and 2007.
 
 This merit is required to gain access to the [Super Repair
@@ -49,7 +49,7 @@ Kit](Super_Repair_Kit.md) during the Christmas holiday season.
 
 **Christmas Tree and Sled Locations:**
 
-_Surface [continents](continent.md):_
+_Surface [continents](Continent.md):_
 
 - **[Amerish](Amerish.md)** - **Grid:** O-9 (Just South of
   exact center, In the trees)

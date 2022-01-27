@@ -11,7 +11,7 @@ This ammo is used by the [Plasma Mortar](Plasma_Mortar.md),
 which is the anti-infantry gunner weapon on the
 [Aphelion](Aphelion.md). The boxes can be obtained from any
 [Equipment Terminal](Equipment_Terminal.md) to be hand-loaded
-into the [BFR](BattleFrame_Robotics.md)'s [trunk](trunk.md) or acquired
+into the [BFR](BattleFrame_Robotics.md)'s [trunk](Trunk.md) or acquired
 while in the BFR from a [Repair/Rearm.md
 Silo](Repair_Rearm_Silo.md).
 

@@ -1,4 +1,4 @@
-A [base](facilities.md) will go **neutral** when the power level
+A [base](Facilities.md) will go **neutral** when the power level
 ([NTU](NTU.md)) is completely depleted. Any neutral base can be
 hacked by any empire (except for Capitol facilities, which still require
 two sub-capitols to capture). However, a base cannot be completely

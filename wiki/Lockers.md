@@ -2,7 +2,7 @@
 ![](Locker-Contents.md.jpg "fig:Locker-Contents.jpg")s\]\]
 
 Lockers are personal storage locations within every
-[Facility](facilities.md). It functions similar to a backpack
+[Facility](Facilities.md). It functions similar to a backpack
 inventory and is 26 x 16 units in size.
 
 ## Using Lockers
@@ -25,14 +25,14 @@ immediatly place it into your Inventory as well.
 
 Lockers can always be accessed in a Friendly Facility, no matter the
 Facility's condition, this means you can use Lockers even when the
-Facility is hacked, or when its [generator](generator.md) is
+Facility is hacked, or when its [generator](Generator.md) is
 down.
 
 #### Enemy and Neutral Facilities
 
 Lockers in Enemy or Neutral Facilities can be hacked if you have the
 basic [Hacking](<Hacking_(Certification)>)
-[certification](certification.md). Note however that the
+[certification](Certification.md). Note however that the
 Facility's generator must be online, if it is destroyed than you cannot
 use the Lockers.
 
@@ -45,7 +45,7 @@ bases and towers, the [Barracks](Barracks.md) in each facility
 (excluding [Bio Laboratories](Bio_Laboratory.md)), the [Medical
 Bay](Medical_Bay.md), [Research Room](Research_Room.md),
 and
-[certification](certification.md)/[Implant](Implants.md)
+[certification](Certification.md)/[Implant](Implants.md)
 room of Bio Labs, and the Observation Deck of the
 [HART](HART.md) building in each Empire's
 [Sanctuary](Sanctuary.md).
@@ -58,7 +58,7 @@ Despite equipment being readily available from any [Equipment
 terminal](Equipment_Terminal.md), Lockers are still useful for
 storing looted enemy equipment and ammo, equipping yourself when the
 Facility is hacked or when the Facility's
-[generator](generator.md) is destroyed, or for Infiltration
+[generator](Generator.md) is destroyed, or for Infiltration
 resupply (Enemy Lockers are less conspicious to hack than enemy
 Equipment Terminals).
 

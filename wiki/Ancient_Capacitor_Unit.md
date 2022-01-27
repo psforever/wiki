@@ -1,16 +1,16 @@
 ![](images/ATammo.jpg "ATammo.JPG")
 
-|                          |                                                                    |
-| ------------------------ | ------------------------------------------------------------------ |
+|                          |                                              |
+| ------------------------ | -------------------------------------------- |
 | **Used by**              | [Spiker](Spiker.md), [Radiator](Radiator.md) |
-| **Empire**               | [Common Pool](Common_Pool.md) (Ancient Tech)            |
-| **Inventory dimensions** | 3x3                                                                |
-| **Quantity per pack**    | 30 units                                                           |
+| **Empire**               | [Common Pool](Common_Pool.md) (Ancient Tech) |
+| **Inventory dimensions** | 3x3                                          |
+| **Quantity per pack**    | 30 units                                     |
 
 **Ancient Capacitor Unit**
 
-The Ancient Capacitor Unit is the [ammunition](ammunition.md)
-used by the Ancient Tech [weapons](weapon.md) the
+The Ancient Capacitor Unit is the [ammunition](Ammunition.md)
+used by the Ancient Tech [weapons](Weapon.md) the
 [Radiator](Radiator.md) and [Spiker](Spiker.md). The
 Ancient Capacitor Unit is available at any [Equipment
 Terminal](Equipment_Terminal.md).

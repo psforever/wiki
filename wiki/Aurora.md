@@ -1,16 +1,16 @@
 ![](images/VSAurora.jpg "fig:VSAurora.jpg") Aurora\]\]
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
-| **Type**                   | Medium Transport                                   |
-| **Role**                   | Medium Troop Transport                             |
+|                            |                                         |
+| -------------------------- | --------------------------------------- |
+| **Type**                   | Medium Transport                        |
+| **Role**                   | Medium Troop Transport                  |
 | **Certification Required** | [Ground Transport](Ground_Transport.md) |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md) |
 | **Primary Weapon**         | 2 [Flux Pods](Flux_Pod.md)              |
-| **Secondary Weapon**       | \-                                                 |
-| **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)             |
-| **Handling**               | Good                                               |
-| **Top speed**              | 63 kph (40 kph over water)                         |
+| **Secondary Weapon**       | \-                                      |
+| **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)  |
+| **Handling**               | Good                                    |
+| **Top speed**              | 63 kph (40 kph over water)              |
 
 **Aurora**
 
@@ -22,10 +22,10 @@ secondary fire mode launches a salvo of 6-pods in rapid succession with
 a large [cone of fire](cone_of_fire.md) that rains destruction
 on the enemy. Each clip holds 12 pods, thus one must reload often. Best
 used against infantry, but effective against other
-[vehicles](vehicle.md)/armor at close range. Due to the arc of
+[vehicles](Vehicle.md)/armor at close range. Due to the arc of
 fire, we suggest you avoid upclose encounters. Like the
 [Deliverer](Deliverer.md), the Aurora has adequate
-[trunk](trunk.md) space and can cross calm rivers and waterways
+[trunk](Trunk.md) space and can cross calm rivers and waterways
 by floating at the surface.
 
 **Introduced: May 27, 2004 with update version

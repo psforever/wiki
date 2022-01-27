@@ -18,7 +18,7 @@ Module](Pain_Module.md) though.
 For [infiltrators](</Infiltration_Suit_(Certification)>), the
 Sensor Shield will remain on indefinitely inside a pain field as long
 you stay in one position. The Sensor Shield will eventually run out of
-[Stamina](Stamina.md) for [infantry](infantry.md).
+[Stamina](Stamina.md) for [infantry](Infantry.md).
 
 The Sensor Shield will also eliminate the sound of your footsteps,
 making it impossible for an enemy to hear you.

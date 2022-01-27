@@ -17,7 +17,7 @@ hackers](Advanced_Hacking.md), which includes the following:
 - Boost [Pain Field](Pain_Field.md) damage in [Spawn
   Rooms](Spawn_Room.md) by hacking a [Matrix
   Panel](Matrix_Panel.md)
-- Boost [generator](generator.md) pain field damage by hacking
+- Boost [generator](Generator.md) pain field damage by hacking
   the [Generator Terminal](Generator_Terminal.md)
 - Jack and use enemy [field turrets](One-Manned_Field_Turret.md) instead of just
   deconstructing them
@@ -26,7 +26,7 @@ hackers](Advanced_Hacking.md), which includes the following:
   abilities
 - Have increased [Sensor Shield](Sensor_Shield.md) protection
   while hacking
-- Remove [viruses](virus.md) from infected equipment and
+- Remove [viruses](Virus.md) from infected equipment and
   deployables
 
 [Category:Certification](Category:Certification.md)

@@ -26,7 +26,7 @@ for survival, although the Lodestar does have an
 [Afterburner](Afterburner.md).
 
 Vehicles in transit may Hotdrop in a similar manner to infantry in a
-[Galaxy](vehicles/Galaxy.md), (Default 'Alt-G') but must take extra care
+[Galaxy](Galaxy.md), (Default 'Alt-G') but must take extra care
 to ensure the landing area is flat and driveable. Vehicles landing on
 rooftops, walls, walkways and railings face massive damage and
 desconstruction.
@@ -48,7 +48,7 @@ The [Lodestar](Lodestar.md) can only be purchased at a [Dropship
 Center](Dropship_Center.md) or in the
 [Sanctuary](Sanctuary.md) and requires the [Air
 Support](Air_Support.md)
-[certification](certifications.md).
+[certification](Certifications.md).
 
 The Lodestar's apparent namesake is the [Lockheed
 Lodestar](http://en.wikipedia.org/wiki/Lockheed_Lodestar)

@@ -9,9 +9,9 @@
 **Advanced Hacking**
 
 The **Advanced Hacking** certification further reduces the time needed
-to [hack](hack.md) objects with a
+to [hack](Hack.md) objects with a
 [REK](Remote_Electronics_Kit.md). It also gives the ability to
-[jack](jack.md) Enemy [Vehicles](Vehicle.md) (the
+[jack](Jack.md) Enemy [Vehicles](Vehicle.md) (the
 vehicle needs to be empty for it to work), [One-Manned Field
 Turrets](One-Manned_Field_Turret.md) (occupied or not, but will
 deconstruct instead of switching to the hacker's Empire), and hack
@@ -20,7 +20,7 @@ Terminals](Vehicle_Terminal.md), [BFR
 Terminals](BFR_Shed.md) and [Advanced Medical
 Terminals](Advanced_Medical_Terminal.md). [Main
 Consoles](Main_Terminal.md) can also be hacked provided it is in
-a friendly facility with the [generator](generator.md) online
+a friendly facility with the [generator](Generator.md) online
 and at least one active [spawn tube](spawn_tube.md).
 
 The [Jacking](</Jacking_(Merit)>) and [Hack Support

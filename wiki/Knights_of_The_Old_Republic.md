@@ -1,6 +1,6 @@
 ## Knights of the Old Republic
 
-Knights of the Old Republic is an [outfit](outfit.md) led by
+Knights of the Old Republic is an [outfit](Outfit.md) led by
 founders TRxTopDawg and TRxMadDawgx that fights for the [Terran
 Republic](Terran_Republic.md) on the
 [Emerald](Emerald.md) [Planetside](PlanetSide.md)

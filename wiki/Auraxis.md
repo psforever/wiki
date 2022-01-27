@@ -1,11 +1,11 @@
 [Auraxis](Auraxis.md) is the name of the "construct" in which
 [PlanetSide's story](Planetside_Backstory.md) play takes place.
 Initially, it was a planet-like body of ten
-[continents](continent.md) colonized by the [Terran
+[continents](Continent.md) colonized by the [Terran
 Republic](Terran_Republic.md). After [The
 Bending](The_Bending.md) however, it became a set of
-interconnected [planets](planet.md) and moons, with the [warp
-gates](warpgate.md) allowing PlanetSide soldiers to cross
+interconnected [planets](Planet.md) and moons, with the [warp
+gates](Warpgate.md) allowing PlanetSide soldiers to cross
 galactic distances.
 
 The creators of Auraxis are known as the Ancient Vanu or simply the

@@ -1,8 +1,8 @@
 **Friendly fire** is damage caused by members of the same
 [Empire](Empire.md) to each other. As its name implies, this is
-primarily damage caused by [weapons](weapon.md), but within the
+primarily damage caused by [weapons](Weapon.md), but within the
 context of [PlanetSide](PlanetSide.md) can also include damage
-from [vehicles](vehicle.md) as it relates to
+from [vehicles](Vehicle.md) as it relates to
 [Grief](Grief_points.md).
 
 Unlike many "traditional" team-based first-person shooters, PlanetSide

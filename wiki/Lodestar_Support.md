@@ -223,7 +223,7 @@ that was repaired by your [Lodestar](Lodestar.md). The tracker
 starts after the first kill after the repair assist. The tracker stops 5
 to 10 minutes later, depending how much repair was needed. If the
 soldier dies, the tracker stops, unless he is revived. While you will
-also receive [assists](assist.md) and [Support Experience
+also receive [assists](Assist.md) and [Support Experience
 Points](Support_Experience_Points.md) for vehicles rearming from
 your Lodestar, this merit only tracks repair assists.
 [category:merits](category:merits.md)

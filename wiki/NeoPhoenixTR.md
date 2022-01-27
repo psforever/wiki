@@ -200,7 +200,7 @@ harasser can be used to assist in [core module](Modules.md) and
 
 #### Required/Recommended Implants
 
-For hunting, the only [implant](implants.md) you need is
+For hunting, the only [implant](Implants.md) you need is
 [Surge](Surge.md). However, as a personal recommendation, here
 are the implants I employ in my personal hunting:
 
@@ -279,7 +279,7 @@ to utilize them correctly. A few tips:
   want, and then lay off
 - Fire in bursts to conserve your afterburner
 - You can afterburn all the way into a
-  [warpgate](warpgate.md). Your afterburner will be fully
+  [warpgate](Warpgate.md). Your afterburner will be fully
   replenished when you emerge on the other side.
 
 Weapon use is literally just practicing your aim with the chaingun and

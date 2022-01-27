@@ -1,13 +1,13 @@
 All [Equipment Terminals](Equipment_Terminal.md), [Landing
 Pads](Landing_Pad.md) and [Repair/Rearm.md
 Silos](Repair_Rearm_Silo.md) allow the current infantry or
-vehicle [loadout](loadout.md) to be stored in one of a number of
+vehicle [loadout](Loadout.md) to be stored in one of a number of
 presets.
 
 Held in the 'Favorites' tab of the terminal interface, these allow the
 soldier to instantly equip himself with a previously chosen setup, and
 get straight back to business. There are ten slots available for
-different infantry [loadouts](loadout.md) at the Equipment
+different infantry [loadouts](Loadout.md) at the Equipment
 terminal.
 
 Favorites cannot store looted enemy-specific equipment (Use a
@@ -15,7 +15,7 @@ Favorites cannot store looted enemy-specific equipment (Use a
 Technology](Ancient_Technology.md) weapons can be stored as a
 favorite, but the actual weapon will not be equipped unless the facility
 has an [Equipment Module](Equipment_Module.md) or you are in the
-[caverns](cavern.md). Note that AT Ammo will always be equipped.
+[caverns](Caverns.md). Note that AT Ammo will always be equipped.
 
 Likewise, a vehicle's [Trunk](Trunk.md) contents can be
 similarly saved and recalled as needed. The [Landing

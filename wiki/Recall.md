@@ -1,8 +1,8 @@
-This option allows a player to [deconstruct](deconstruct.md) and
-[respawn](respawn.md) back in the
+This option allows a player to [deconstruct](Deconstruct.md) and
+[respawn](Respawn.md) back in the
 [Sanctuary](Sanctuary.md). This method is usually used for
 regrouping, re-equipping, or to travel to another
-[continent](continent.md) when access from the previous location
+[continent](Continent.md) when access from the previous location
 is not possible.
 
 The location of the player affects the [Recall

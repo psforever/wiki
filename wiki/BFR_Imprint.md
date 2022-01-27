@@ -9,7 +9,7 @@ to control the systems of a BFR.
 The process includes achieving 5 [Cavern
 Captures](Cavern_Captures.md) and getting 75 [unique
 kills](Unique_kill.md) inside the caverns. Kills on enemies in
-[vehicles](vehicle.md) or [Ancient Sentry
+[vehicles](Vehicle.md) or [Ancient Sentry
 Turrets](Ancient_Sentry_Turret.md) do not count toward the kill
 requirement. After the capture and kill requirements, you must step into
 the core beam at the [Core Complex](Core_Complex.md) in one of

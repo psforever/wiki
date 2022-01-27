@@ -7,7 +7,7 @@ from an object by an [expert hacker](Expert_Hacking.md) using a
 [REK](Remote_Electronics_Kit.md).
 
 The [T-REK](T-REK.md) may be used to infect
-[facility](facility.md) systems by uploading a virus into the
+[facility](Facility.md) systems by uploading a virus into the
 [Main Terminal](Main_Terminal.md). The possible viruses for the
 Main Terminal and duration are listed below.
 
@@ -16,7 +16,7 @@ Main Terminal and duration are listed below.
   - Removes all radar abilities for friendlies that are in the
     [SOI](Sphere_of_Influence.md) of the infected facility
 - Disable linked benefits - **15 minutes**
-  - All [module](module.md) benefits are disabled
+  - All [module](Modules.md) benefits are disabled
   - [Continent](Continent.md)/[Cavern](Caverns.md)
     lock benefits will **not** be disabled
   - Will **not** effect other linked bases
@@ -33,7 +33,7 @@ clicking on the facility on the [Continental
 Map](Continental_Map.md), where it will show the type of virus
 installed if your empire installed it, or "infected" otherwise. Viruses
 cannot be installed into a base that is not powered. If the
-[generator](generator.md) is destroyed at a base with an active
+[generator](Generator.md) is destroyed at a base with an active
 virus, the virus is temporarily disabled. Viruses cannot be removed from
 neutral bases (except by [Black Ops](Black_Ops.md)).
 

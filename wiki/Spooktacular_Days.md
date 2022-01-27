@@ -1,5 +1,5 @@
 The Spooktacular Days is the name of the 2009 Halloween Event that is on
-the live [servers](server.md) from October 22nd till November
+the live servers from October 22nd till November
 2nd.
 
 ## Spooktacular Days
@@ -11,7 +11,7 @@ with the Spooktacular Bonus Experience Days. This years event will run
 from October 22nd through November 2nd, and feature some really howling
 experience gains. [Base](Facilities.md) captures like you've never
 seen before, cavern captures that will make you want you want get that
-next [BFR](BattleFrame_Robotics.md) [imprint](imprint.md), and much more!
+next [BFR](BattleFrame_Robotics.md) [imprint](Imprint.md), and much more!
 So go ahead and spend some time with us and let’s get that much needed
 [Battle Experience](Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
@@ -20,7 +20,7 @@ can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
 pop up from time to time throughout the [Spooktacular
 Days](Spooktacular_Days.md) so be prepared! All players will be
 able to use [Cloaking infiltration suits](Infiltration_Suit.md)
-without need of the [certification](certification.md) on
+without need of the [certification](Certification.md) on
 [Extinction](Extinction.md) (this is our version of ghosts).
 
 - In true Halloween tradition, players will only be allowed to use a
@@ -28,7 +28,7 @@ without need of the [certification](certification.md) on
 - Players are urged to get proper [Implants](Implants.md)
   before entering the zone such as [Darklight](Darklight.md)
   in order to see all apparitions.
-- The zone has limited [vehicles](vehicle.md).
+- The zone has limited [vehicles](Vehicle.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This
   damage should slightly increase with [Melee
   Booster](Melee_Booster.md) implants.

@@ -1,5 +1,5 @@
 ![](images/Meteor.jpg "fig:Meteor.jpg") shower during a special Oshur Prime
-[event](event.md)\]\]
+[event](Events.md)\]\]
 
 ## [Oshur Prime](Oshur_Prime.md)
 
@@ -28,7 +28,7 @@ accessible on the "live" servers. Occasionally Oshur will be opened up
 on the live server for fighting by a GM, made accessible via [Instant
 Action](Instant_Action.md). The battles last until every base
 runs out of [NTU](NTU.md) as there are no active
-[warpgates](warpgate.md) for resupply.
+[warpgates](Warpgate.md) for resupply.
 
 ## Future of Oshur Prime
 

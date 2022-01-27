@@ -25,14 +25,14 @@ longer ranges. Enemies closer than 5 meters from the shooter will not be
 lashed by near misses. Friendly units are immune to the lash effect at
 all ranges, though they will still take damage upon direct hits. The
 near miss lash does low damage on its own and is best used for
-discovering [cloakers](cloaker.md) and making the enemy's
+discovering [cloakers](Infiltration_Suit.md) and making the enemy's
 [COF](COF.md) bloom from the damage. However, it is still strong
 enough to make many enemies retreat if they are hiding behind a wall and
 is especially effective in groups of users.
 
 The secondary [Armor Piercing](Armor_Piercing.md) fire mode is
 best used against [MAXes](Mechanized_Assault_Exo-Suit.md) and light
-[vehicles](vehicle.md). This mode lacks the lash effect and the
+[vehicles](Vehicle.md). This mode lacks the lash effect and the
 orbs are colored purple.
 
 A non-native user will be unable to obtain the energy ammunition from

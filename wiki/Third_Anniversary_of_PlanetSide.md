@@ -2,9 +2,9 @@ To celebrate the Third Anniversary of
 [PlanetSide](PlanetSide.md), an [Event](Event.md) was
 held from May 19 to May 26, 2006.
 
-This event was preceded by a series of [meteor](meteor.md)
+This event was preceded by a series of [meteor](Meteor.md)
 showers and earthquakes that were experienced across the different
-[continents](continent.md). Finally, on the first day of the
+[continents](Continent.md). Finally, on the first day of the
 event, these messages began arriving.
 
 ## Messages from Military Command:
@@ -94,8 +94,8 @@ So far, the following vehicles can no longer be constructed:
 - [Lightning](Lightning.md)
 
 Eventually, players received messages informing them that to restore
-their lost [vehicles](vehicle.md), they needed to capture
-[cavern](cavern.md) facilities to gain nanites. Everytime a
+their lost [vehicles](Vehicle.md), they needed to capture
+[cavern](Caverns.md) facilities to gain nanites. Everytime a
 cavern locked, a status bar would reflect the change in recovery based
 on how much they controlled. The vehicles that were removed last, were
 restored first, and this process continued untill the vehicles first

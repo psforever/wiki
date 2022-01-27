@@ -1,6 +1,6 @@
 The **Dropship Terminal** is a special variant of the [Air
 Terminal](Air_Terminal.md) large enough to allow the
-construction of the [Galaxy](vehicles/Galaxy.md) troop transport, the
+construction of the [Galaxy](Galaxy.md) troop transport, the
 [Galaxy Gunship](Galaxy_Gunship.md), and
 [Lodestar](Lodestar.md) vehicle transport air vehicles.
 

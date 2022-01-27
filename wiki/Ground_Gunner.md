@@ -218,9 +218,9 @@
 </tbody>
 </table>
 
-This [merit](merit.md) is awarded for kills amassed while
+This [merit](Merit_Commendations.md) is awarded for kills amassed while
 operating a Ground [Vehicle](Vehicle.md)-mounted (non-pilot)
-weapon. The [skyguard](skyguard.md) is excluded, as it counts
+weapon. The [skyguard](Skyguard.md) is excluded, as it counts
 for the [Air Defender](Air_Defender.md) merit.
 
 [category:Merits](category:Merits.md)

@@ -12,8 +12,8 @@ These rounds are used by the anti-aircraft weapon on the
 fire similar to the [Burster](Burster.md) [MAX](Mechanized_Assault_Exo-Suit.md)
 weapon, though does less damage per shot. The boxes can be obtained from
 any [Equipment Terminal](Equipment_Terminal.md) to be
-hand-loaded into the [vehicle](vehicle.md)'s
-[trunk](trunk.md) or acquired while in the vehicle from a
+hand-loaded into the [vehicle](Vehicle.md)'s
+[trunk](Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

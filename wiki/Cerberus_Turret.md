@@ -29,7 +29,7 @@ not be destroyed, hovering or flying slow near one of these Turrets will
 make you "land" rather fast however.
 
 The Cerberus Turret doesn't do a lot of damage to
-[vehicles](vehicle.md) and Infantry, and will not fire upon
+[vehicles](Vehicle.md) and Infantry, and will not fire upon
 Infantry unless fired upon.
 
 These Turrets cannot be deployed inside an Enemy [SOI](Sphere_of_Influence.md).

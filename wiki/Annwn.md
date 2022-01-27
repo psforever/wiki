@@ -2,7 +2,7 @@
 
 Annwn is one of the six [Core Combat](Core_Combat.md)
 [Caverns](Caverns.md) and is characterized by teal soil, green
-marble crystals, and cyan [ziplines](zipline.md).
+marble crystals, and cyan [ziplines](Zipline.md).
 
 This cavern is drastically different from other caverns, as it's laid
 out vertically instead of horizontally. The

@@ -79,7 +79,7 @@ to go.
 
 If you know where you want to go, get on the [HART](HART.md)
 when it comes in (every 5 minutes). You'll hear it. If you don't, hit
-escape and use "instant action." That will [spawn](spawn.md) you
+escape and use "instant action." That will [spawn](Spawn.md) you
 at a facility near a hotspot, putting your personal (white) waypoint on
 where it thinks the fight is. This isn't 100% accurate, because humans
 are unpredictable, but it usually will get you some action.
@@ -89,7 +89,7 @@ are unpredictable, but it usually will get you some action.
 Your [Map](Continental_Map.md) will always save you. M key by
 default, it shows hot spots - where there's gunfire. Also, you can
 right-click anywhere on it to set a personal
-[waypoint](waypoint.md), making navigation easier.
+[waypoint](Waypoint.md), making navigation easier.
 
 Communication is the second thing you'll run into. There are a number of
 text commands you can use to talk on different channels. The backspace

@@ -1,12 +1,12 @@
 **Command Experience Points** (CEP) is gained by leading a
-[squad](Squad.md) in a successful [base](facilities.md)
+[squad](Squad.md) in a successful [base](Facilities.md)
 capture or resecure.
 
 Platoon Leaders will not gain any additional Command Experience Points
 from the other Squads in their [platoon](Platoon.md). The squad
 leader will receive more command experience points per capture with more
 players in his/her squad that are on the same
-[planet](planet.md).
+[planet](Planet.md).
 
 When enough Command Experience has been accumulated, the character will
 increase in [Command Rank](Command_Rank.md).
@@ -211,8 +211,8 @@ into account the number of enemies in the [SOI](Sphere_of_Influence.md) of the
 base 10 minutes prior to the hack and during the hack itself. The more
 enemies nearby, the more CEP awarded for a successful capture, up to a
 maximum. The maximum CEP awarded depends on the number of members in
-your [squad](squad.md) that are on the same
-[planet](planet.md), listed in the table below.
+your [squad](Squad.md) that are on the same
+[planet](Planet.md), listed in the table below.
 
 <table border="1">
 <tr>

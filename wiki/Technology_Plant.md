@@ -18,7 +18,7 @@
 ## Description
 
 ![](images/Techplant.jpg "fig:Techplant.jpg") Technology Plants are arguably
-the most important type of [facility](facilities.md) on a
+the most important type of [facility](Facilities.md) on a
 continent, as its [base benefit](Facility_Linked_Benefit.md)
 allows acquisition of [Advanced Assault vehicles and
 aircraft](Advanced_Assault_vehicles.md). Any facility linked to

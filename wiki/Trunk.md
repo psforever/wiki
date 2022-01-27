@@ -3,7 +3,7 @@ extra repair gear.\]\]
 
 Similar to a soldier's [Inventory](Inventory.md), trunks are the
 compartments in [vehicles](category:_Vehicles.md) for storing
-[ammunition](ammunition.md) and supplies. Most vehicle weapons
+[ammunition](Ammunition.md) and supplies. Most vehicle weapons
 are fed directly from the trunk, with the exceptions being the
 [Flail](Flail.md) and [Switchblade](Switchblade.md),
 which use on-board capacitors for their ammunition.
@@ -31,7 +31,7 @@ extra items down the sides: extra [Armor
 Canisters](Armor_Canister.md), [Adaptive Construction
 Engines](Adaptive_Construction_Engine.md), etc. These items will
 save into any vehicle Favorite preset along with the ammo, provided you
-have the appropriate [certification](certification.md).
+have the appropriate [certification](Certification.md).
 
 (Note: The trunk may be locked like the Driver, Gunner and Passenger
 seats; set to Driver only, Squad Only and Empire - remember to unlock it

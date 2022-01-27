@@ -22,7 +22,7 @@ The FDU is required to deploy the
 [Assault Engineers](Assault_Engineering.md).
 
 It is as big as the largest Rifle in your
-[inventory](inventory.md), and is consumed when used to deploy
+[inventory](Inventory.md), and is consumed when used to deploy
 something.
 
 Like [ACE](Adaptive_Construction_Engine.md) devices, the FDU devices owned by you show as

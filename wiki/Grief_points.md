@@ -131,7 +131,7 @@ while not logged into PlanetSide, the grief lock timer does not. Thus if
 you have a 30 minute grief lock, you must stay logged in for it to
 expire, or else the lock time will carry over until your next session.
 
-[Squad](Squad.md) and [outfit](outfit.md) members are
+[Squad](Squad.md) and [outfit](Outfit.md) members are
 exempt from grief for damaging fellow members, as it is assumed that the
 squad and outfit can manage itself.
 

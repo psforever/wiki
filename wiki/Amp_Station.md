@@ -17,8 +17,8 @@
 ![](images/Ampstation.jpg "Ampstation.jpg")
 
 [Amp Station](Amp_Station.md)
-[facilities](facilities.md) are one of the most valuable
-[facilities](facilities.md), and one of the easiest to take as
+[facilities](Facilities.md) are one of the most valuable
+[facilities](Facilities.md), and one of the easiest to take as
 their [Control Console](Control_Console.md) is located on the
 roof of the facility and requires exterior travel for the defenders to
 reach it.

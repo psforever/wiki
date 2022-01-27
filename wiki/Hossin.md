@@ -25,7 +25,7 @@ This lush, temperate continent has low-lying hills and boggy swamps
 dotting the terrain that lure the unwary into thinking straight-line of
 travel would be easiest, much to their later dismay.
 
-The [continent](continent.md) is divided by a river in the
+The [continent](Continent.md) is divided by a river in the
 center which splits and surrounds an island on its way through the
 continent. On this island is the [Capitol](Capitol.md) of
 Hossin, [Voltan](Voltan.md), an [Interlink
@@ -34,7 +34,7 @@ Facility](Interlink.md).
 Hossin is a [Home Continent](Home_Continent.md). A
 [Sanctuary](Sanctuary.md) warpgate links to the
 [Mulac](Mulac.md) Technology Plant in the south east. The
-continent's other [warpgates](warpgate.md) link from
+continent's other [warpgates](Warpgate.md) link from
 [Ghanon](Ghanon.md) to [Sungrey](Sungrey.md) on
 [Amerish](Amerish.md), [Hurakan](Hurakan.md) to
 [Wakea](Wakea.md) on [Searhus](Searhus.md), and

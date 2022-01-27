@@ -147,7 +147,7 @@ In the gunner variant, the shields will be activated whenever a soldier
 enters either the pilot or gunner's seat, and will remain active as long
 one or both of these positions is occupied. Emptying both positions will
 deactivate the shields, leaving the BFR directly vulnerable to attack or
-[jacking](jack.md).
+[jacking](Jack.md).
 
 There is a [known issue](Known_Issues.md) regarding the gunner
 no being able to aim left and right. However, this is a fairly rare bug.
@@ -196,7 +196,7 @@ attack. Each empire variant's maximum jump height is different, with the
 
 In order to certify to get a BFR, a pilot must first get a [BFR
 Imprint](BFR_Imprint.md) down in the
-[caverns](cavern.md) if the character was created after June 18, 2009. Also, [Armored Assault I](Armored_Assault_I.md) and
+[caverns](Caverns.md) if the character was created after June 18, 2009. Also, [Armored Assault I](Armored_Assault_I.md) and
 [Armored Assault II](Armored_Assault_II.md) are required to gain
 the BattleFrame Robotics certification.
 
@@ -206,7 +206,7 @@ Anti-Infantry (AI)). In order to get AI and Anti-Aircraft pilot weapons,
 1 cert point must be spent for each individually.
 
 To obtain a flight variant, one must earn the [BFR
-Basic](</BFR_(Merit)>) [merit](merit.md), which involves
+Basic](</BFR_(Merit)>) [merit](Merit_Commendations.md), which involves
 scoring 100 unique kills and then a kill streak of 15 with the BFR pilot
 weapons.
 

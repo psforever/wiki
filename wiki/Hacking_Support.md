@@ -230,7 +230,7 @@ more of the following that was hacked by you:
 These apply to all Ancient terminals as well.
 
 The [Hacking](</Hacking_(Certification)>)
-[certification](certification.md) is required to gain these
+[certification](Certification.md) is required to gain these
 [Merit Commendations](Merit_Commendations.md), but [Advanced
 Hacking](Advanced_Hacking.md) is strongly recommended.
 

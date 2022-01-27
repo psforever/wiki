@@ -67,7 +67,7 @@ Republic](Terran_Republic.md) has the
 [Avenger](Avenger.md) and the [Vanu
 Sovereignty](Vanu_Sovereignty.md) has the
 [Orion](Orion.md). These Turrets are designed to supress the
-Enemy in the Field, and have [weaponry](weapon.md) similar to
+Enemy in the Field, and have [weaponry](Weapon.md) similar to
 their Anti-Infantry [MAX](Mechanized_Assault_Exo-Suit.md) Units. For more information
 see [One-Manned Field Turret](One-Manned_Field_Turret.md),
 [Osprey](Osprey.md), [Avenger](Avenger.md) or
@@ -86,7 +86,7 @@ information see [Disruptor Mine](Disruptor_Mine.md).
 Assault Engineers have the special ability to place Spitfire Turrets
 inside the SOI of Enemy Facilities and Towers. If used smart, it can
 keep Enemies locked inside, and allowing Friendliess to push into the
-[courtyard](courtyard.md) or even the Facility or Tower itself.
+[courtyard](Courtyard.md) or even the Facility or Tower itself.
 
 ## Ammunition Upgrade for the Aegis Shield Generator
 
@@ -101,7 +101,7 @@ Dispenser](Nano_Dispenser.md) with regular canisters.
 Assault Engineers use [Armor Canisters](Armor_Canister.md) more
 efficiently, resulting in increased repair efficiency for
 [MAXes](Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18), equipment, and
-[vehicles](vehicles.md) (2x, from 32 to 64) over that of a
+[vehicles](Vehicle.md) (2x, from 32 to 64) over that of a
 standard engineer.
 
 [Category:Certification](Category:Certification.md)

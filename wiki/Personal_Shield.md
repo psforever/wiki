@@ -1,7 +1,7 @@
 **Personal Shield** is one of the most popular
-[implants](implants.md) for zerglings and skilled players alike.
+[implants](Implants.md) for zerglings and skilled players alike.
 Its effect is simple: It allows you to use your
-[stamina](stamina.md) to absorb damage taken at a 1 to 1 ratio.
+[stamina](Stamina.md) to absorb damage taken at a 1 to 1 ratio.
 This, essentially, gives you 100 more armor, enough to take an extra
 sniper bullet or survive that extra second you need to kill an enemy
 before he kills you. Unfortunately, Personal Shield (or P-Shield, or PS

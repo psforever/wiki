@@ -5,7 +5,7 @@ Combat](Core_Combat.md) Ancient Tech weapons:
 [Radiator](Radiator.md), [Spiker](Spiker.md), and
 [Maelstrom](Maelstrom.md). To recharge the weapon, simply stand
 close to the crystal. The weapon will recharge as long as it is in a
-[holster](holster.md) (you do not have to have the weapon
+[holster](Holster.md) (you do not have to have the weapon
 actually drawn to recharge...it will recharge even if you are dead!).
 Before the introduction of AT weapon clips, this was the only way to
 restore weapon energy in the caverns. However, even then their usage was

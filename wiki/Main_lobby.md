@@ -1,8 +1,8 @@
 ![](images/InterlinkMainLobby.jpg "fig:InterlinkMainLobby.jpg")\]\]
 
 Generally, the Lobby is the room immediately inside the main entrance
-from a [facility](facility.md)'s
-[courtyard](courtyard.md). The lobby can contain the base's
+from a [facility](Facility.md)'s
+[courtyard](Courtyard.md). The lobby can contain the base's
 [Module Cradles](Module_Cradle.md), [Equipment
 terminal](Equipment_Terminal.md), [Medical
 Terminal](Medical_Terminal.md), or [Main

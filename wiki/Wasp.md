@@ -1,18 +1,18 @@
 ![](images/Wasp.jpg "fig:Wasp.jpg") [Wasp](Wasp.md)\]\]
 
-|                            |                                                                                                                                    |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Anti-Aircraft Aircraft                                                                                                             |
-| **Role**                   | Anti-Aircraft                                                                                                                      |
-| **Certification Required** | [Air Cavalry Interceptor](Air_Cavalry_Interceptor.md)                                                                   |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                           |
-| **Primary Weapon**         | 12mm Rotary Chaingun                                                                                                               |
-| **Secondary Weapon**       | Anti-Aircraft Missile Pod                                                                                                          |
+|                            |                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Type**                   | Anti-Aircraft Aircraft                                                                                       |
+| **Role**                   | Anti-Aircraft                                                                                                |
+| **Certification Required** | [Air Cavalry Interceptor](Air_Cavalry_Interceptor.md)                                                        |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                |
+| **Primary Weapon**         | 12mm Rotary Chaingun                                                                                         |
+| **Secondary Weapon**       | Anti-Aircraft Missile Pod                                                                                    |
 | **Ammunition Used**        | [Wasp Chaingun Bullets](Wasp_Chaingun_Bullets.md) and [Wasp Air-to-Air Missiles](Wasp_Air-to-Air_Missile.md) |
-| **Range**                  | Missles: 350m Chaingun: 250m                                                                                                       |
-| **Occupants**              | 1 (Pilot)                                                                                                                          |
-| **Handling**               | Good                                                                                                                               |
-| **Top speed**              | 119 kph (287 kph with [Afterburner](Afterburner.md))                                                                    |
+| **Range**                  | Missles: 350m Chaingun: 250m                                                                                 |
+| **Occupants**              | 1 (Pilot)                                                                                                    |
+| **Handling**               | Good                                                                                                         |
+| **Top speed**              | 119 kph (287 kph with [Afterburner](Afterburner.md))                                                         |
 
 **Wasp**
 
@@ -32,7 +32,7 @@ similar ROF to the [Vulture](Vulture.md)'s nosegun, but carries
 only 30 shots at a time and a further 10 reloads. It's meant for
 finishing punches, not mowing down infantry.
 
-The Wasp's [afterburner](afterburner.md) lasts twice as long,
+The Wasp's [afterburner](Afterburner.md) lasts twice as long,
 but speed seems identical to that of the
 [Mosquito](Mosquito.md). The Wasp also lacks the
 [Mosquito](Mosquito.md)'s Overflight Radar system.

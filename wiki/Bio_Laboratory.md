@@ -1,8 +1,8 @@
 ![](images/Bio_Layout.jpg "fig:Bio_Layout.jpg") Bio Laboratory
-[facilities](facilities.md) are the weakest in terms of defense,
-as their [generators](generator.md) are located on the rooftop
+[facilities](Facilities.md) are the weakest in terms of defense,
+as their [generators](Generator.md) are located on the rooftop
 of the facility. The Bio Laboratory grants a faster
-[respawn](respawn.md) time to all units spawning at any friendly
+[respawn](Respawn.md) time to all units spawning at any friendly
 facilities connected to it on the [Lattice](Lattice.md).
 
 The [Control Console](Control_Console.md) for this base is in

@@ -25,7 +25,7 @@ Best used against [Mosquitos](Mosquito.md),
 [Reavers](Reaver.md) and [Wasps](Wasp.md), several Flak
 guns working in concert will generally be required to eliminate
 [Liberators](Liberator.md), [Lodestars](Lodestar.md) and
-the [Galaxy](vehicles/Galaxy.md), by virtue of their large armor,
+the [Galaxy](Galaxy.md), by virtue of their large armor,
 although steady bombardment will generally force a retreat of these
 craft.
 

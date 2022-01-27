@@ -1,4 +1,4 @@
-Holsters are [inventory](inventory.md) slots that allow stored
+Holsters are [inventory](Inventory.md) slots that allow stored
 weapons to be carried for immediate use. Holsters come in two sizes:
 Pistol and Rifle.
 

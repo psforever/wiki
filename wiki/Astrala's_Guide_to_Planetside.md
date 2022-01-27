@@ -20,7 +20,7 @@ makes you think the game is broken, when in fact only training
 functionality is broken.
 
 So if you press "Play", you will be required to pick a game server. Pick
-the one with a low [ping](ping.md). For Europeans this will be
+the one with a low [ping](Ping.md). For Europeans this will be
 [Werner](Werner.md), for East Coast users this is likely
 [Emerald](Emerald.md) and so on. Then create a character. Pick
 one of the three empires for your new character. You can create multiple
@@ -266,7 +266,7 @@ numbers with heavy machinery.
 
 <!-- -->
 
-- Defend your base's [generator](generator.md). Without it, no
+- Defend your base's [generator](Generator.md). Without it, no
   terminal or turret will work.
 
 <!-- -->
@@ -282,7 +282,7 @@ numbers with heavy machinery.
   drain energy from the silo! [Advanced Nanite
   Transport](Advanced_Nanite_Transport.md) vehicles (ANTs)
   must be used to collect Nanites from
-  [warpgates](warpgate.md) and transport them to the silos.
+  [warpgates](Warpgate.md) and transport them to the silos.
 
 <!-- -->
 
@@ -598,7 +598,7 @@ Advanced Knowledge
   dematerializes and vice versa. That means if you get killed while
   there were detonators in your inventory, the boomers also go away!
   To avoid this problem, put the detonators into your
-  [locker](locker.md) or a vehicle trunk (but make sure the
+  [locker](Lockers.md) or a vehicle trunk (but make sure the
   vehicle stays around long enough). You can also drop the detonators,
   at the risk of someone else (enemies) picking them up.
 

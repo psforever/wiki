@@ -8,7 +8,7 @@ waypoint to be set. A white triangular arrow icon will appear at that
 spot. On closing the map, a white column of light will now be visible on
 the horizon, its base located at the spot indicate on the map. If you
 use [Instant Action](Instant_Action.md), your personal waypoint
-will be set close to the [hotspot](hotspot.md) you are meant to
+will be set close to the [hotspot](Hotspot.md) you are meant to
 respond to.
 
 To clear it, right click again on the triangle on the Continental Map.

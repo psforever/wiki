@@ -1,9 +1,9 @@
 [Locking](Continental_lock.md) a continent can carry with it a
-unique benefit for the Empire holding that [planet](planet.md).
+unique benefit for the Empire holding that [planet](Planet.md).
 These benefits apply to all facilities regardless of a [Galactic
 Lattice](Galactic_Lattice.md) link.
 
-There are currently two types of [continents](continent.md),
+There are currently two types of [continents](Continent.md),
 [Home Continents](Home_Continent.md) and [Neutral
 Continents](Neutral_Continent.md).
 

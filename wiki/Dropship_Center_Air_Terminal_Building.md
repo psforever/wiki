@@ -6,7 +6,7 @@ Center](Dropship_Center.md).
 
 This Building features a Dropship Air Terminal, the only Terminal where
 you can acquire a [Lodestar](Lodestar.md),
-[Galaxy](vehicles/Galaxy.md), or [Galaxy
+[Galaxy](Galaxy.md), or [Galaxy
 Gunship](Galaxy_Gunship.md), and a [Matrix
 Panel](Matrix_Panel.md). The building has two doors, one leading
 to the Creation Pad and one leading to the Courtyard.

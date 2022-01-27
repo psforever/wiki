@@ -1,4 +1,4 @@
-Installing this [module](modules.md) provides the [module
+Installing this [module](Modules.md) provides the [module
 benefit](module_benefit.md) of allowing the purchase, repair,
 and capacitor recharging of [Ancient-Tech](Ancient_Technology.md)
 vehicles: [Flail](Flail.md) and

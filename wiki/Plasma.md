@@ -14,7 +14,7 @@ The first and most common occurance of the fourth state of matter.
 
 Ignited by [Plasma grenades](Plasma_grenade.md), this distinct
 green fire can be applied to a large group very quickly via hand
-[grenades](grenade.md), the [Thumper](Thumper.md), or
+[grenades](Grenade.md), the [Thumper](Thumper.md), or
 the [Punisher](Punisher.md).
 
 ## [VS](Vanu_Sovereignty.md) [MAX](Mechanized_Assault_Exo-Suit.md) Plasma
@@ -30,7 +30,7 @@ this type of plasma glow purple.
 ## [BFR](BattleFrame_Robotics.md) [Plasma Mortars](Plasma_Mortar.md)
 
 A Gunner weapon only, these are long-range ballistic mortars intended to
-injure [infantry](infantry.md). Soldiers taking damage from this
+injure [infantry](Infantry.md). Soldiers taking damage from this
 type of plasma flash white.
 
 ## Other

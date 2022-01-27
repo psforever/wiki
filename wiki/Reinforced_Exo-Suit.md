@@ -22,8 +22,8 @@ Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
 **Reinforced Exo-Suit**
 
 This is the heaviest infantry armor available. With two pistol
-[holsters](holster.md), two rifle holsters and a large
-[inventory](inventory.md) space, this armor is well suited for
+[holsters](Holster.md), two rifle holsters and a large
+[inventory](Inventory.md) space, this armor is well suited for
 battle. However, the bulk of the armor reduces your foot speed and is a
 significant tradeoff in terms of mobility. Also, only
 [buggies](category:_Vehicles.md#Buggies),

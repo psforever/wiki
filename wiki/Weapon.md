@@ -26,7 +26,7 @@ on the battlefield, the user has to go through a slight process.
 ### Certifications
 
 To be able to acquire certain weapons, a player needs certain
-[certifications](certification.md) from a [certification
+[certifications](Certification.md) from a [certification
 terminal](certification_terminal.md). There are only six weapon
 certifications, and all characters have one of them. The six weapon
 cerifications are as follows:
@@ -54,7 +54,7 @@ such a requirement.
 
 ### Equipment Terminal
 
-After a player has the correct [certification](certification.md)
+After a player has the correct [certification](Certification.md)
 or [Merit](Merit_Commendations.md), they must purchase the
 weapons from an [equipment terminal](equipment_terminal.md). In
 addition to this, when they purchase a weapon, to be able to use it,
@@ -111,7 +111,7 @@ There are exceptions to this rule, but this is generally speaking.
 Also, many weapons have two types of ammo: standard ammo and AP ammo.
 Standard ammo is white in color, and is designed to take out other
 infantry. AP ammo is gold in color, and is designed to take out enemy
-[MAX](Mechanized_Assault_Exo-Suit.md)'s and [vehicles](vehicle.md). The only
+[MAX](Mechanized_Assault_Exo-Suit.md)'s and [vehicles](Vehicle.md). The only
 weapons with these sorts of restrictions are [Standard
 Assault](Standard_Assault.md), [Medium
 Assault](Medium_Assault.md), and [Heavy
@@ -272,7 +272,7 @@ One of the most heavily contested and debated about certifications,
 [Heavy Assault](Heavy_Assault.md) is designed to be at the
 forefront of any attack. It is the most expensive of any hand-held
 weaponry certification, at four
-[certification](certification.md) points along with the [Medium
+[certification](Certification.md) points along with the [Medium
 Assault](Medium_Assault.md) certification, but you still see
 quite a few weapons from this certification out on the battlefield.
 These weapons are designed to be room clearers and have a very low time

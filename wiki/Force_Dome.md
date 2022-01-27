@@ -3,7 +3,7 @@ protects it from all enemy intrusion. The Force Dome can only be taken
 down by ensuring that current Capitol owners own less than two of the
 [Sub-Capitols](Sub-Capitol.md). Once that occurs, the Dome goes
 down and your attack can begin. (When the Dome goes down, all the
-Sub-Capitol to Capitol [lattice](lattice.md) links (on the
+Sub-Capitol to Capitol [lattice](Lattice.md) links (on the
 overhead map) will begin strobing to alert you to that fact.)
 
 If the Defenders recapture at least two Sub-Capitols than the Dome will
@@ -17,7 +17,7 @@ instantly killed, though the force dome itself acts as a wall. If the
 empire with the force dome is stupid enough to place a
 [Router](Router.md) that goes to the inside of the dome, enemies
 can enter and will not be killed. However, the
-[generator](generator.md) cannot be destroyed and any damage to
+[generator](Generator.md) cannot be destroyed and any damage to
 base objects will not take [NTUs](NTU.md) to repair.
 
 [Category:Game Items](Category:Game_Items.md)

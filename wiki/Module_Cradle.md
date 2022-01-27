@@ -5,7 +5,7 @@ Cradle](Module_Cradle.md) is where a person running a
 [module](Modules.md) from the [caverns](Core_Combat.md)
 to the surface deposits their [module](Modules.md). [Module
 Cradles](Module_Cradle.md) are located in different locations
-for all [facilities](facilities.md).
+for all [facilities](Facilities.md).
 
 - [Bio Laboratory](Bio_Laboratory.md):
 
