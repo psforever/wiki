@@ -123,15 +123,15 @@ Experience Points through one of the following activities:
 - Healing another Soldier
 - Repairing another Soldier or [Vehicle](Vehicle.md) with
   either a [Nano Dispenser](Nano_Dispenser.md),
-  [BANK](BANK.md) or [Lodestar](Lodestar.md)
+  [BANK](Body_Armor_Nano_Kit.md) or [Lodestar](Lodestar.md)
 - [Reviving](revive.md) another Soldier
-- Hacking a Terminal or [Locker](Locker.md) or providing an
-  [AMS](AMS.md) Terminal or Lodestar for others to obtain
+- Hacking a Terminal or [Locker](Lockers.md) or providing an
+  [AMS](Advanced_Mobile_Station.md) Terminal or Lodestar for others to obtain
   Equipment and/or Ammunition from.
 - Providing an [Advanced Mobile
   Station](Advanced_Mobile_Station.md) for others to Spawn
   from.
-- Having Soldiers bail from your [Galaxy](Galaxy.md)
+- Having Soldiers bail from your [Galaxy](vehicles/Galaxy.md)
 - Placing or owning a [Router](Router.md)
 
 Also see:

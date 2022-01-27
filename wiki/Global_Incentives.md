@@ -3,7 +3,7 @@ incentives adjust [experience point](BEP.md) bonuses based upon
 population disadvantages. The bonus percentage is the percent difference
 between the highest [empire](empire.md) population and yours.
 For example, if the global populations are 40%, 35%, and 25% for the
-[TR](TR.md), [NC](NC.md), and [VS](VS.md),
+[TR](Terran_Republic.md), [NC](New_Conglomerate.md), and [VS](Vanu_Sovereignty.md),
 respectively, the TR would receive no bonus, the NC would receive a +5%
 [BEP](BEP.md) bonus, and the VS would receive a +15% bonus.
 These apply to the entire empire across the server on any planet or

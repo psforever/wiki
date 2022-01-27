@@ -4,12 +4,12 @@ N7, N8 and O7.
 
 It has [Lattice](Lattice.md) Links to:
 
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Hvar](Hvar.md)
 - [Bio Laboratory](Bio_Laboratory.md)
   [Yazata](Yazata.md)
 
 It is a [Hack-and-Hold](Hack-and-Hold.md) Facility. There are no
-[Towers](Tower.md) close to the Facility.
+[Towers](Towers.md) close to the Facility.
 
 [Category:Facilities](Category:Facilities.md)

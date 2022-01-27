@@ -28,7 +28,7 @@ the [Vulture](Vulture.md) in its [trunk](trunk.md).
 The Vulture is a specialized bomber available to those who have the [Air
 Support](Air_Support.md) certification and also the [Bomber Ace
 Bronze](Bomber_Ace.md) [Merit
-Commendation](Merit_Commendation.md). The nosegun of the vulture
+Commendation](Merit_Commendations.md). The nosegun of the vulture
 used the same [35mm Chaingun Bullets](35mm_Chaingun_Bullets.md)
 as the Liberator, but fires them more rapidly. The trade-off is the
 damage per shot is much lower and takes a very long time (>5 sec) to
@@ -54,7 +54,7 @@ long as there is cover nearby.
 
 For low altitude bombing you want to fly as low as possible to the
 ground to avoid being seen by the enemy. You want to fly just high
-enough as to not set off any [mines](ACE.md#High_Explosive_Mine)
+enough as to not set off any [mines](Adaptive_Construction_Engine.md#High_Explosive_Mine)
 on the ground. Approach your target from the flanks or rear. You only
 want to take enemy fire on your exit and not your entrance. As you
 approach, gain enough height so that the bombing icon is illuminated and
@@ -82,8 +82,8 @@ they don't always see or notice you up there until you start dropping
 bombs. I use this tactic when the enemy is clumped up on a bridge as
 they have nowhere to run except to drown. I also use it if the enemy
 base is at a low altitude and I'm fighting flak weapons ([Wall
-Turrets](Wall_Turret.md) and [TR](TR.md)
-[Burster](Burster.md) [MAXes](MAX.md). You're fairly
+Turrets](Phalanx.md) and [TR](Terran_Republic.md)
+[Burster](Burster.md) [MAXes](Mechanized_Assault_Exo-Suit.md). You're fairly
 safe from [flak](flak.md) at high altitude unless you fly very
 predictably and the enemy has great skill.
 
@@ -156,7 +156,7 @@ facing the tower is the most populated if your empire owns the tower.
 Line up the wall running down its length and lets the bombs fly on
 unsuspecting snipers.
 
-[Wall Turrets](Wall_Turret.md) can be the most difficult of
+[Wall Turrets](Phalanx.md) can be the most difficult of
 targets to destroy. Many times your bombardier will overshoot the
 target, making the bombs land past the target on the ground. To minimize
 this risk, it's best to line up wall turrets so that you pass directly
@@ -237,7 +237,7 @@ over a relatively short distance away from the impact.
 Use cluster bombs on large groups of infantry. It will take two bombs to
 kill most infantry. Works best if you strafe as discussed before to
 spread out the damage. The main use of cluster bombs are on
-[BFRs](BFR.md). Yes it sounds strange, but cluster bombs
+[BFRs](BattleFrame_Robotics.md). Yes it sounds strange, but cluster bombs
 actually do more damage to a BFR if its shields are up than a tank
 buster bomb does. It also has a higher probability of damaging critical
 systems. However, if the BFR has no shields, it's best to use tank
@@ -254,7 +254,7 @@ doors as the splash damage will kill enemies inside the door while
 cluster bombs will not. Also use tank buster bombs in heavily forested
 areas as cluster bombs will sometimes explode at tree top level,
 rendering them useless. Of course, tank buster bombs should be used on
-all forms of vehicles, except [BFRs](BFR.md), as discussed
+all forms of vehicles, except [BFRs](BattleFrame_Robotics.md), as discussed
 earlier.
 
 ## Bombardier Information

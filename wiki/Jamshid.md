@@ -9,7 +9,7 @@ It has [Lattice](Lattice.md) Links to:
 - Technology Plant [Dahaka](Dahaka.md)
 - [Solsar](Solsar.md) [Warpgate](Warpgate.md)
 
-Jamshid is a [LLU](LLU.md) Facility, and has an Air Tower to
-North East, outside of its [SOI](SOI.md).
+Jamshid is a [LLU](Lattice_Logic_Unit.md) Facility, and has an Air Tower to
+North East, outside of its [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

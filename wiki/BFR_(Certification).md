@@ -40,6 +40,6 @@ Basic](</BFR_(Merit)>).
 
 This [Certification](Certification.md) is required to obtain the
 [BFR Basic](</BFR_(Merit)>) [Merit
-Commendation](Merit_Commendation.md).
+Commendation](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

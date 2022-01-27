@@ -225,7 +225,7 @@ vehicle.
 Applicable Vehicles: [Basilisk](Basilisk.md),
 [Fury](Fury.md), [Switchblade](Switchblade.md),
 [Lightning](Lightning.md), [Magrider](Magrider.md), and
-all [BFR](BFR.md) pilot weapons except the [Armor
+all [BFR](BattleFrame_Robotics.md) pilot weapons except the [Armor
 Siphon](Armor_Siphon.md).
 
 [category:Merits](category:Merits.md)

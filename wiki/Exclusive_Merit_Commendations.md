@@ -1,7 +1,7 @@
 # Exclusive Merits
 
 These extremely rare [Merit
-Commendations](Merit_Commendation.md) are only given out to
+Commendations](Merit_Commendations.md) are only given out to
 certain people or groups that have:
 
 - Attended special [PlanetSide](PlanetSide.md)

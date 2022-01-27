@@ -1,18 +1,18 @@
 ![](images/Maelstrom.jpg "fig:Maelstrom.jpg") soldier defends a [Control
 Console](Control_Console.md) with his Maelstrom\]\]
 
-|                            |                                                                    |
-| -------------------------- | ------------------------------------------------------------------ |
+|                            |                                                         |
+| -------------------------- | ------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](Heavy_Assault.md)                       |
 | **Empire**                 | [Common Pool](Common_Pool.md)                           |
-| **Primary Mode**           | Vortex Whip                                                        |
-| **Secondary Mode**         | Chain-Lash Grenade                                                 |
-| **Tertiary Mode**          | "Sticky" Chain-Lash Grenade                                        |
+| **Primary Mode**           | Vortex Whip                                             |
+| **Secondary Mode**         | Chain-Lash Grenade                                      |
+| **Tertiary Mode**          | "Sticky" Chain-Lash Grenade                             |
 | **Ammunition**             | [Maelstrom Capacitor Unit](Maelstrom_Capacitor_Unit.md) |
-| **Range**                  | Vortex Whip: 40m                                                   |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                              |
-| **Magazine Capacity**      | 150                                                                |
-| **Zoom**                   | 2x                                                                 |
+| **Range**                  | Vortex Whip: 40m                                        |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                   |
+| **Magazine Capacity**      | 150                                                     |
+| **Zoom**                   | 2x                                                      |
 
 **Maelstrom**
 
@@ -59,12 +59,12 @@ equipment [Module benefit](Module_benefit.md) via
 
 Shots to kill (Vortex Whip):
 
-|                                                          |           |
-| -------------------------------------------------------- | --------- |
+|                                               |           |
+| --------------------------------------------- | --------- |
 | [Standard Exo-Suit](Standard_Exo-Suit.md)     | 12 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit.md)           | 15 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 23 shots  |
-| [MAX](MAX.md)                                 | 130 shots |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 130 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](Implants.md) or [Empire

@@ -5,7 +5,7 @@ rewards the thankless job of supporting the empire, including:
 - Healing injured soldiers
 - Repairing damaged armor on soldiers, vehicles, and equipment
 - Hacking enemy equipment
-- Operating an [AMS](AMS.md), [Router](Router.md), or
+- Operating an [AMS](Advanced_Mobile_Station.md), [Router](Router.md), or
   [Lodestar](Lodestar.md)
 
 <hr>

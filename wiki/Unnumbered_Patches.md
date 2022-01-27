@@ -3,7 +3,7 @@
 We are releasing a patch to the client and server on August 14, 2003
 that contains the following items:
 
-- [Facility](Facility.md) capture takes on a whole new level
+- [Facility](Facilities.md) capture takes on a whole new level
   of action now that the Lattice Logic Unit is live! Details on the
   LLU are in the online manual.
 
@@ -13,7 +13,7 @@ that contains the following items:
   Degradation](Damage_Degradation.md). While the projectile
   still goes the same maximum distance, it now degrades in its
   strength, as does the lash itself. Lasher damage against armor
-  ([MAXes](MAX.md), vehicles) has been reduced by 30%.
+  ([MAXes](Mechanized_Assault_Exo-Suit.md), vehicles) has been reduced by 30%.
 
 <!-- -->
 
@@ -69,7 +69,7 @@ Pacific. The patch contains the following item:
 - A zone crash associated with backpacks has been fixed.
 - Newly created vehicles should no longer deconstruct on the creation
   pad.
-- Dropped [ACEs](ACE.md) deconstruct properly.
+- Dropped [ACEs](Adaptive_Construction_Engine.md) deconstruct properly.
 - [Lightning](Lightning.md) drivers will no longer lose their
   reticule while on steep slopes.
 - Improved Availability of Login Servers. In other words, if the
@@ -365,9 +365,9 @@ players from 5/18/07 to 5/25/07 regardless of the limitations. We wanted
 everyone to have the chance to try out the new weapons and participate
 in the mayhem of the Four Year Anniversary! Enjoy!
 
-PISTOLS - The [Spear](Spear.md) ([NC](NC.md)) / The
-[Stinger](Stinger.md) ([TR](TR.md)) / The
-[Eraser](Eraser.md) ([VS](VS.md))
+PISTOLS - The [Spear](Spear.md) ([NC](New_Conglomerate.md)) / The
+[Stinger](Stinger.md) ([TR](Terran_Republic.md)) / The
+[Eraser](Eraser.md) ([VS](Vanu_Sovereignty.md))
 
 These Empire specific pistols are designed to be very lethal towards
 Infantry units but lack a punch in the armor piercing department
@@ -455,7 +455,7 @@ believed to be minor.
 
 - Players moving from [Werner](Werner.md) to
   [Gemini](Gemini.md) will receive a [Werner Distinguished
-  Veteran](Distinguished_Veteran.md) [Merit](Merit.md)
+  Veteran](Distinguished_Veteran.md) [Merit](Merit_Commendations.md)
 - Players who receive a -W or -G appended to their names will be
   allowed a one-time use of the /rename command
 - [Outfits](Outfit.md) that receive a -W or -G appended to
@@ -487,9 +487,9 @@ play however this year they've decided to change things up a bit, gone
 are the flying skulls and red glowing skies which have been replaced
 with the Spooktacular Bonus Experience Days. This years event will run
 from October 22nd through November 2nd, and feature some really howling
-experience gains. [Base](Facility.md) captures like you've never
+experience gains. [Base](Facilities.md) captures like you've never
 seen before, cavern captures that will make you want you want get that
-next [BFR](BFR.md) [imprint](imprint.md), and much more!
+next [BFR](BattleFrame_Robotics.md) [imprint](imprint.md), and much more!
 So go ahead and spend some time with us and let’s get that much needed
 [Battle Experience](Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
@@ -503,7 +503,7 @@ without need of the [certification](certification.md) on
 
 - In true Halloween tradition, players will only be allowed to use a
   Knife to kill other players.
-- Players are urged to get proper [Implants](Implant.md)
+- Players are urged to get proper [Implants](Implants.md)
   before entering the zone such as [Darklight](Darklight.md)
   in order to see all apparitions.
 - The zone has limited [vehicles](vehicle.md).

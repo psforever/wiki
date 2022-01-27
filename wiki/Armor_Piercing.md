@@ -1,6 +1,6 @@
 "Armor Piercing" or "AP" refers to weapons, configurations, or
 ammunition that is designed to be effective against
-[Vehicles](Vehicle_Index.md) or [MAX](MAX.md) armor
+[Vehicles](category:_Vehicles.md) or [MAX](Mechanized_Assault_Exo-Suit.md) armor
 only, usually having little effect on infantry.
 
 For example, white 9mm are [Anti-Infantry](Anti-Infantry.md),

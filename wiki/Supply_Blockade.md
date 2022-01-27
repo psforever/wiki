@@ -216,9 +216,9 @@ This seven-level Merit is earned by destroying the following
 [Vehicles](Vehicle.md):
 
 - [Advanced Mobile Station](Advanced_Mobile_Station.md)
-  ([AMS](AMS.md))
+  ([AMS](Advanced_Mobile_Station.md))
 - [Lodestar](Lodestar.md)
 - [Advanced Nanite Transport](Advanced_Nanite_Transport.md)
-  ([ANT](ANT.md))
+  ([ANT](Advanced_Nanite_Transport.md))
 
 [category:Merits](category:Merits.md)

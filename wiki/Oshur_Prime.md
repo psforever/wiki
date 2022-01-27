@@ -61,7 +61,7 @@ with Oshur Prime as their theatre of operations.
 
 - Atar
 
-### [Interlink Facilities](Interlink_Facility.md)
+### [Interlink Facilities](Interlink.md)
 
 - Hvar
 

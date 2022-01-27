@@ -219,7 +219,7 @@ vehicles:
 - [Aurora](Aurora.md)
 - [Thunderer](Thunderer.md)
 - [Raider](Raider.md)
-- [Galaxy](Galaxy.md)
+- [Galaxy](vehicles/Galaxy.md)
 - [Galaxy Gunship](Galaxy_Gunship.md)
 - [Juggernaut](Juggernaut.md)
 - [Leviathan](Leviathan.md)
@@ -233,6 +233,6 @@ merits at the same time after completing 150 kills.
 Commendation are exactly the same as the Qualification to Platinum
 levels of the [Cavalry Driver](</Cavalry_Driver_(Merit)>) Merit
 Commendation.
-This is a mistake made by [SOE](SOE.md).**
+This is a mistake made by [SOE](Sony_Online_Entertainment.md).**
 
 [category:Merits](category:Merits.md)

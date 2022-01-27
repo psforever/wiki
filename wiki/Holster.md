@@ -23,7 +23,7 @@ To equip a holster, simply click and drag the item into the slot. You
 can also Right-click on an item already in a holster to quickly swap it
 out with a similar-sized item in your backpack space, such as swapping
 out an [REK](Remote_Electronics_Kit.md) for a
-[BANK](BANK.md) in the pistol holster.
+[BANK](Body_Armor_Nano_Kit.md) in the pistol holster.
 
 Switching between holstered items requires that the first item being
 held be put away first, followed by the unholstering of the second item.

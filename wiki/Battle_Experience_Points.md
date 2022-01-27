@@ -9,7 +9,7 @@ Kills : Killing enemies earns experience, based on how long they have been alive
 
 <!-- -->
 
-Facility Captures : The formula used to calculate this amount is complex, and is based on how many unique enemies and squadmates were within the [SOI](SOI.md) during the ten minutes prior to and during the hack itself and for how long. This figure caps at 2250 BEP per capture. See [this link](http://forums.station.sony.com/ps/posts/list.m?topic_id=22100000022) for a more detailed explaination.
+Facility Captures : The formula used to calculate this amount is complex, and is based on how many unique enemies and squadmates were within the [SOI](Sphere_of_Influence.md) during the ten minutes prior to and during the hack itself and for how long. This figure caps at 2250 BEP per capture. See [this link](http://forums.station.sony.com/ps/posts/list.m?topic_id=22100000022) for a more detailed explaination.
 
 <!-- -->
 
@@ -17,7 +17,7 @@ Training : Experimenting with new things earns experience. Usually only relevant
 
 <!-- -->
 
-ANT Runs : A soldier successfully refueling a facility using an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) (or [BFR](BFR.md) [NTU Siphon](NTU_Siphon.md)) earns experience. The experience gained varies depending how much [NTU](NTU.md) the base requires to reach 100% capacity, and is rationed out to the ANT owner in 20 BEP ticks during refueling. Squad mates within the same zone also receive 20 BEP for each tick. Note: You will only receive BEP for filling up a [neutral](neutral.md) base if it has a friendly hack on it.
+ANT Runs : A soldier successfully refueling a facility using an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) (or [BFR](BattleFrame_Robotics.md) [NTU Siphon](NTU_Siphon.md)) earns experience. The experience gained varies depending how much [NTU](NTU.md) the base requires to reach 100% capacity, and is rationed out to the ANT owner in 20 BEP ticks during refueling. Squad mates within the same zone also receive 20 BEP for each tick. Note: You will only receive BEP for filling up a [neutral](neutral.md) base if it has a friendly hack on it.
 
 ## See also
 

@@ -32,6 +32,6 @@ This [Certification](Certification.md) is required to obtain the
 Support](Lodestar_Support.md), [Vehicle Support
 Specialist](Vehicle_Support_Specialist.md) and [Universal
 Soldier](Universal_Soldier.md) [Merit
-Commendations](Merit_Commendation.md).
+Commendations](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

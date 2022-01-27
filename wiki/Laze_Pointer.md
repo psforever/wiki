@@ -1,16 +1,16 @@
 ![](images/Laze_Pointer.jpg "fig:Laze_Pointer.jpg")
 ![](images/Laze_powered.jpg "fig:Laze_powered.jpg")
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Certification Required** | None                                     |
+|                            |                               |
+| -------------------------- | ----------------------------- |
+| **Certification Required** | None                          |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Primary Mode**           | Paint Target                             |
-| **Secondary Mode**         | \-                                       |
-| **Ammunition**             | \-                                       |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                   |
-| **Magazine Capacity**      | \-                                       |
-| **Zoom**                   | None                                     |
+| **Primary Mode**           | Paint Target                  |
+| **Secondary Mode**         | \-                            |
+| **Ammunition**             | \-                            |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)        |
+| **Magazine Capacity**      | \-                            |
+| **Zoom**                   | None                          |
 
 **Laze Pointer**
 
@@ -28,7 +28,7 @@ Terminal](Equipment_Terminal.md) or directly from a deployed
 Simply point the [Laze Pointer](Laze_Pointer.md) at the target
 and hold the trigger. A progress bar indicates the time to completion.
 Once completed, a temporary targeting waypoint will be visible in the
-[HUD](HUD.md) and on the [Proximity
+[HUD](Heads-up_Display.md) and on the [Proximity
 Map](Proximity_Map.md) for members of the Platoon. Unlike normal
 [waypoints](waypoint.md), targeting waypoints are circular on
 the proximity map, use the color and number of the user, and go away

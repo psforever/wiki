@@ -4,7 +4,7 @@ all [Towers](Towers.md), the Gun Tower is equipped with two
 increasing their tactical value, and providing reasonably robust defence
 against Infantry or Vehicular assault.
 
-(Note: While a [Facility](Facility.md) expends
+(Note: While a [Facility](Facilities.md) expends
 [NTU](NTU.md) to auto-repair Wall Turrets, a Gun Tower is
 considered to have infinite NTU for this purpose, although the rate is
 still very slow.)

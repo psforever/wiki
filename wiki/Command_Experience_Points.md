@@ -207,7 +207,7 @@ N/A
 </table>
 
 The amount of CEP awarded is based on a complicated algorithm that takes
-into account the number of enemies in the [SOI](SOI.md) of the
+into account the number of enemies in the [SOI](Sphere_of_Influence.md) of the
 base 10 minutes prior to the hack and during the hack itself. The more
 enemies nearby, the more CEP awarded for a successful capture, up to a
 maximum. The maximum CEP awarded depends on the number of members in

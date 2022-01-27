@@ -1,17 +1,17 @@
 ![](images/Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
 ![](images/Dragon.jpg "fig:Dragon.jpg")
 
-|                            |                                                |
-| -------------------------- | ---------------------------------------------- |
+|                            |                                     |
+| -------------------------- | ----------------------------------- |
 | **Certification Required** | [Elite Assault](Elite_Assault.md)   |
 | **Empire**                 | [Common Pool](Common_Pool.md)       |
-| **Primary Mode**           | Stream                                         |
-| **Secondary Mode**         | Sunburst explosion                             |
+| **Primary Mode**           | Stream                              |
+| **Secondary Mode**         | Sunburst explosion                  |
 | **Ammunition**             | [Incendiary Gel](Incendiary_Gel.md) |
-| **Range**                  | 12 meters                                      |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                          |
-| **Magazine Capacity**      | 100                                            |
-| **Zoom**                   | 2x                                             |
+| **Range**                  | 12 meters                           |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)               |
+| **Magazine Capacity**      | 100                                 |
+| **Zoom**                   | 2x                                  |
 
 **Dragon**
 
@@ -19,7 +19,7 @@ The Dragon is a flamethrower that can either fire a continuous stream of
 flames in primary mode, or shoot a "bomb" of fire, which will explode
 and ignite anyone nearby. The range of the Dragon is limited, but its
 damage output is very high, and can quickly kill Infantry and
-[MAXs](MAX.md) alike.
+[MAXs](Mechanized_Assault_Exo-Suit.md) alike.
 
 The primary mode fires a short burst of flames, consuming 5 ammunition.
 Once started, the burst must finish firing, but holding down the fire

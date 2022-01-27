@@ -1,16 +1,16 @@
 ![](images/Router.jpg "fig:Router.jpg") Router\]\]
 
-|                            |                                                                                       |
-| -------------------------- | ------------------------------------------------------------------------------------- |
-| **Type**                   | Deployable Point-to-Point Teleporter                                                  |
-| **Role**                   | Tactical                                                                              |
-| **Certification Required** | [Ground Support](Ground_Support.md)                                        |
-| **Empire**                 | [Common Pool](Common_Pool.md) ([Ancient-Tech](Ancient-Tech.md)) |
-| **Primary Weapon**         | \-                                                                                    |
-| **Secondary Weapon**       | \-                                                                                    |
-| **Occupants**              | 1 (Driver)                                                                            |
-| **Handling**               | Very Poor                                                                             |
-| **Top speed**              | 60 kph (41 kph over water)                                                            |
+|                            |                                                                       |
+| -------------------------- | --------------------------------------------------------------------- |
+| **Type**                   | Deployable Point-to-Point Teleporter                                  |
+| **Role**                   | Tactical                                                              |
+| **Certification Required** | [Ground Support](Ground_Support.md)                                   |
+| **Empire**                 | [Common Pool](Common_Pool.md) ([Ancient-Tech](Ancient_Technology.md)) |
+| **Primary Weapon**         | \-                                                                    |
+| **Secondary Weapon**       | \-                                                                    |
+| **Occupants**              | 1 (Driver)                                                            |
+| **Handling**               | Very Poor                                                             |
+| **Top speed**              | 60 kph (41 kph over water)                                            |
 
 **Router**
 
@@ -33,10 +33,10 @@ inactive, so be careful who you let have access.
 Like most other vehicles, the Router will automatically deconstruct
 after five minutes if it loses ownership.
 
-Despite being an [Ancient Tech](Ancient_Tech.md) vehicle, the
-Router can be spawned anywhere an [AMS](AMS.md) can (does not
+Despite being an [Ancient Tech](Ancient_Technology.md) vehicle, the
+Router can be spawned anywhere an [AMS](Advanced_Mobile_Station.md) can (does not
 require a [Vehicle Module](Vehicle_Module.md) or [Cavern
-Lock](Cavern_Lock.md)). Similar to an [AMS](AMS.md), you
+Lock](Cavern_Lock.md)). Similar to an [AMS](Advanced_Mobile_Station.md), you
 can gain [Support Experience
 Points](Support_Experience_Points.md) by owning a deployed
 Router (or deploying a [Telepad](Telepad.md) for one) that
@@ -45,7 +45,7 @@ friendlies use and then go on to score kills.
 The Router can be loaded in a [Lodestar](Lodestar.md), but you
 must drive it in sideways (after you lower the gate, turn and strafe
 your way in) to work. The router, like all [Ancient
-Tech](Ancient_Tech.md) vehicles, can travel over water (but
+Tech](Ancient_Technology.md) vehicles, can travel over water (but
 cannot deploy on water). Due to its small saucer-like cross section and
 relatively heavy armor, the router can be difficult to destroy.
 

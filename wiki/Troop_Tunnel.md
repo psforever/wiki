@@ -1,7 +1,7 @@
 ![](images/TroopTunnel.jpg "fig:TroopTunnel.jpg") in
 [Supai](Supai.md)\]\]
 
-Troop Tunnels are narrow passageways in [Caverns](Cavern.md)
+Troop Tunnels are narrow passageways in [Caverns](Caverns.md)
 connecting the larger access tunnels to the main chamber. They normally
 have [ziplines](zipline.md) at various points and can serve as a
 flanking route in combat.

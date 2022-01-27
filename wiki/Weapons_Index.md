@@ -69,7 +69,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 ### Grenades
 
 - [Fragmentation grenade](Fragmentation_grenade.md)
-- [Jammer grenade](Jammer_grenade.md)
+- [Jammer grenade](Jammer_Grenade.md)
 - [Plasma grenade](Plasma_grenade.md)
 
 ## Support Devices
@@ -141,7 +141,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 
 - [Striker Missile](Striker_Missile.md)
 
-### [Ancient Tech](Ancient_Tech.md)
+### [Ancient Tech](Ancient_Technology.md)
 
 - [Ancient Capacitor Unit](Ancient_Capacitor_Unit.md)
 - [Maelstrom Capacitor Unit](Maelstrom_Capacitor_Unit.md)

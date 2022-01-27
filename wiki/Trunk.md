@@ -2,7 +2,7 @@
 extra repair gear.\]\]
 
 Similar to a soldier's [Inventory](Inventory.md), trunks are the
-compartments in [vehicles](Vehicle_Index.md) for storing
+compartments in [vehicles](category:_Vehicles.md) for storing
 [ammunition](ammunition.md) and supplies. Most vehicle weapons
 are fed directly from the trunk, with the exceptions being the
 [Flail](Flail.md) and [Switchblade](Switchblade.md),
@@ -19,10 +19,10 @@ changed quickly at a [Repair/Rearm Silo](Repair_Rearm_Silo.md),
 ammunition to be instantly restocked in the trunk, via the vehicle
 [Favorites](Favorites.md) menu.
 
-In emergencies, i.e only [Towers](Tower.md) and [Advanced Mobile
+In emergencies, i.e only [Towers](Towers.md) and [Advanced Mobile
 Stations](Advanced_Mobile_Station.md) available, the trunk may
 be manually restocked by the driver using the 'Vehicles' tab at any
-standard [Equipment terminal](Equipment_terminal.md), and
+standard [Equipment terminal](Equipment_Terminal.md), and
 carrying the appropriate boxes back to the vehicle's trunk.
 
 The trunk may be used to carry any items at all, not just vehicle

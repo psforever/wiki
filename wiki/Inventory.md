@@ -1,7 +1,7 @@
 [thumb](image:Inventory.md.jpg) [Agile
 Exo-Suit](Agile_Exo-Suit.md) with [Jammer
-grenades](Jammer_grenade.md), a [Telepad](Telepad.md), a
-[Pulsar](Pulsar.md), a [REK](REK.md), and
+grenades](Jammer_Grenade.md), a [Telepad](Telepad.md), a
+[Pulsar](Pulsar.md), a [REK](Remote_Electronics_Kit.md), and
 [MedKits](MedKit.md)\]\]
 
 **Inventory** represents a soldier's personal available storage space.
@@ -12,12 +12,12 @@ other items of interest may be kept.
 
 Each type of [armor](Armor_Index.md) has a different size of
 inventory. [Infiltration Suits](Infiltration_Suit.md) have the
-smallest and [MAXes](MAX.md) have the largest. Each inventory
+smallest and [MAXes](Mechanized_Assault_Exo-Suit.md) have the largest. Each inventory
 type displays a holster and backpack space. Items placed in the holsters
 appear on your avatar.
 
 To open your Inventory, press the "I" key or approach an [Equipment
-terminal](Equipment_terminal.md), [locker](lockers.md),
+terminal](Equipment_Terminal.md), [locker](lockers.md),
 or vehicle [trunk](trunk.md) and press the "G" key. This will
 open up your Inventory window and allow you to customize your
 [loadout](loadout.md).

@@ -6,7 +6,7 @@
 - [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) ("Rexo")
 - [Infiltration Suit](Infiltration_Suit.md) ("Cloaker")
 
-## [Mechanized Assault Exo-Suits](MAX.md) ([MAX](MAX.md))
+## [Mechanized Assault Exo-Suits](Mechanized_Assault_Exo-Suit.md) ([MAX](Mechanized_Assault_Exo-Suit.md))
 
 ### New Conglomerate
 

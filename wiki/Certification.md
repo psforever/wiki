@@ -17,7 +17,7 @@ You may only forget one certification at a time. However, if you forget
 a cert that serves as a prerequisite for others, any dependant
 certifications will be forgotten as well.
 
-For example, if you have a [BFR](BFR.md) certification and you
+For example, if you have a [BFR](BattleFrame_Robotics.md) certification and you
 forget [Armored Assault I](Armored_Assault_I.md), you will lose
 three certs: [Armored Assault I](Armored_Assault_I.md), [Armored
 Assault II](Armored_Assault_II.md), and BFR. If you also had

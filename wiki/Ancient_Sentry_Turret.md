@@ -1,5 +1,5 @@
 ![](images/AT_Turret.jpg "fig:AT_Turret.jpg")\]\] The
-[Ancient-Tech](Ancient-Tech.md) Turret is found in the
+[Ancient-Tech](Ancient_Technology.md) Turret is found in the
 [Caverns](Caverns.md) of [Auraxis](Auraxis.md). They
 fire energy projectiles at a fairly rapid rate, with sufficient reserves
 of energy to fire 100 projectiles. Its reserves automatically recharge
@@ -16,7 +16,7 @@ temporarily disabled by [EMP](EMP.md) blasts or grenades, and
 destroyed fairly quickly by [AV](Anti-Vehicular.md) weaponry.
 
 Unlike the Phalanx, these turrets are not 'owned' by any particular
-[Facility](Facility.md) or [Empire](Empire.md). This
+[Facility](Facilities.md) or [Empire](Empire.md). This
 means they never auto-fire, even if shot, and so must be manned to fire
 at all. The turret's name will appear red unless manned by a friendly
 trooper, even unoccupied. Unless it is occupied by an enemy soldier or

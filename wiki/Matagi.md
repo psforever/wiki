@@ -5,12 +5,12 @@ It's elevation is 239.1 meters.
 
 It has [Lattice](Lattice.md) Links to:
 
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Oro](Oro.md)
 - [Bio Laboratory](Bio_Laboratory.md) [Hiro](Hiro.md)
 - Bio Laboratory [Akua](Akua.md)
 
 It is a Hack and Hold Facility and has an Air Tower to the North East,
-inside it's [SOI](SOI.md).
+inside it's [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

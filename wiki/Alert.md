@@ -1,5 +1,5 @@
 Alerts are indications of enemy density within a friendly
-[SOI](SOI.md). There are three degrees of Alert Status:
+[SOI](Sphere_of_Influence.md). There are three degrees of Alert Status:
 
 - Yellow Alert - Triggered when there are 25 to 30 enemy soldiers
   within an SOI at any time

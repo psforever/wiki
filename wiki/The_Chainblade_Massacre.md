@@ -30,7 +30,7 @@ following:
 - Empire specific knives will be your only protection against that
   which lurks in the shadows
 - The only vehicles available are [Wraiths](Wraith.md),
-  [AMS](AMS.md), and [ANTs](ANT.md).
+  [AMS](Advanced_Mobile_Station.md), and [ANTs](Advanced_Nanite_Transport.md).
 - [Empire](Empire.md) specific Jack-o-lanterns will replace
   the backpack corpses.
 - Before joining the massacre, we advise careful planning of your
@@ -40,7 +40,7 @@ following:
 - Each empire will have a predetermined base. Hacking of the bases
   will be permitted and you will receive experience. However, if the
   death toll has risen to a certain level within the
-  [SOI](SOI.md), the base will be recaptured to the previous
+  [SOI](Sphere_of_Influence.md), the base will be recaptured to the previous
   empire for corpse retrieval.
 - Assassination attempts and more…
 
@@ -71,7 +71,7 @@ Sovereignty](Vanu_Sovereignty.md) empires. They continue to
 remain in contact with each other. In order to remain out of sight, they
 changed their tactics and decided to cloak their way to victory quietly.
 
-Each empire has offered a [merit](Merit_Commendation.md) reward
+Each empire has offered a [merit](Merit_Commendations.md) reward
 to anyone who "infiltrates" the organization and assassinates the
 assassinators. However, assassinating someone hidden within your own
 empire will not be rewarded and will result only in grief. The

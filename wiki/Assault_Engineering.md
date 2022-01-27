@@ -68,14 +68,14 @@ Republic](Terran_Republic.md) has the
 Sovereignty](Vanu_Sovereignty.md) has the
 [Orion](Orion.md). These Turrets are designed to supress the
 Enemy in the Field, and have [weaponry](weapon.md) similar to
-their Anti-Infantry [MAX](MAX.md) Units. For more information
+their Anti-Infantry [MAX](Mechanized_Assault_Exo-Suit.md) Units. For more information
 see [One-Manned Field Turret](One-Manned_Field_Turret.md),
 [Osprey](Osprey.md), [Avenger](Avenger.md) or
 [Orion](Orion.md).
 
 ## Disruptor Mine
 
-Similar to the [High Explosive Mine](ACE.md#High_Explosive_Mine)
+Similar to the [High Explosive Mine](Adaptive_Construction_Engine.md#High_Explosive_Mine)
 it detonates when Enemies in range. However, instead of exploding, they
 emit a small EMP burst, with affects similar to that of a [Jammer
 Grenade](Jammer_Grenade.md) or a Commanders EMP. For more
@@ -91,7 +91,7 @@ keep Enemies locked inside, and allowing Friendliess to push into the
 ## Ammunition Upgrade for the Aegis Shield Generator
 
 Assault Engineers can Upgrade Aegis Shield Generators with an Ammunition
-Supply, allowing friendly Infantry and [MAX](MAX.md) Units to
+Supply, allowing friendly Infantry and [MAX](Mechanized_Assault_Exo-Suit.md) Units to
 get ammo. Note that vehicle ammunition and support equipment cannot be
 obtained. Upgrading works by use of the [Nano
 Dispenser](Nano_Dispenser.md) with regular canisters.
@@ -100,7 +100,7 @@ Dispenser](Nano_Dispenser.md) with regular canisters.
 
 Assault Engineers use [Armor Canisters](Armor_Canister.md) more
 efficiently, resulting in increased repair efficiency for
-[MAXes](MAX.md) (1.5x, from 12 to 18), equipment, and
+[MAXes](Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18), equipment, and
 [vehicles](vehicles.md) (2x, from 32 to 64) over that of a
 standard engineer.
 

@@ -19,7 +19,7 @@ Soldiers that have the [Expert Hacking](Expert_Hacking.md)
 [certification](certification.md) can use the Matrix Panel to
 upgrade the [Spawn Room](Spawn_Room.md) [Pain
 Field](Pain_Field.md) so that it will do increased damage. This
-is done by equipping the [REK](REK.md), aiming it at the Matrix
+is done by equipping the [REK](Remote_Electronics_Kit.md), aiming it at the Matrix
 Panel, and pressing the "Primary Fire" button. A progress bar will
 appear similar to the one received when hacking a [Control
 Console](Control_Console.md). The [Pain

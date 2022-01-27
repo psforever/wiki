@@ -21,7 +21,7 @@ remaining.
 
 Because the generator is such an important part of facility defense, and
 even continental defense, a warning is issued throughout the entire
-Sphere of Influence ([SOI](SOI.md)) if it comes under attack.
+Sphere of Influence ([SOI](Sphere_of_Influence.md)) if it comes under attack.
 
 The generator room is also one of the areas protected by a [Pain
 Field](Pain_Field.md) when a [Pain

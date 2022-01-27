@@ -1,15 +1,15 @@
-|                            |                                                                          |
-| -------------------------- | ------------------------------------------------------------------------ |
+|                            |                                                               |
+| -------------------------- | ------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Infantry](BFR_Anti-Infantry.md)                     |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md)                       |
-| **Primary Mode**           | Wide Spread                                                              |
-| **Secondary Mode**         | Tight Spread                                                             |
+| **Primary Mode**           | Wide Spread                                                   |
+| **Secondary Mode**         | Tight Spread                                                  |
 | **Ammunition**             | [Peregrine Hammer Ammunition](Peregrine_Hammer_Ammunition.md) |
-| **Range**                  | 200m                                                                     |
-| **Inventory Dimensions**   | [BFR](BFR.md) Pilot Weapon                                    |
-| **Magazine Capacity**      | 30                                                                       |
-| **Zoom**                   | 2x                                                                       |
-|                            |                                                                          |
+| **Range**                  | 200m                                                          |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Pilot Weapon                   |
+| **Magazine Capacity**      | 30                                                            |
+| **Zoom**                   | 2x                                                            |
+|                            |                                                               |
 
 **Hammer**
 
@@ -19,7 +19,7 @@ concentrates the pellets for medium range work, but at the cost of
 firing fewer pellets per shot. While the weapon is lethal to infantry
 targets, it lacks punch to beat quickly through heavy armored vehicles.
 
-This is the only [BFR](BFR.md) pilot weapon that has 2 modes,
+This is the only [BFR](BattleFrame_Robotics.md) pilot weapon that has 2 modes,
 and in the secondary mode, crouching makes the biggest difference as for
 the Cone of Fire tightening of all pilot weapons.
 

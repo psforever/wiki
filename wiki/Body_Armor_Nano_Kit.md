@@ -1,15 +1,15 @@
 ![](images/PSScreenShot0256.jpg "PSScreenShot0256.jpg")
 
-|                            |                                                |
-| -------------------------- | ---------------------------------------------- |
+|                            |                                     |
+| -------------------------- | ----------------------------------- |
 | **Certification Required** | [Engineering](Engineering.md)       |
 | **Empire**                 | [Common Pool](Common_Pool.md)       |
-| **Primary Mode**           | Repair Friendliess                             |
-| **Secondary Mode**         | Repair Self                                    |
+| **Primary Mode**           | Repair Friendliess                  |
+| **Secondary Mode**         | Repair Self                         |
 | **Ammunition**             | [Armor Canister](Armor_Canister.md) |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                         |
-| **Magazine Capacity**      | 100                                            |
-| **Zoom**                   | None                                           |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)              |
+| **Magazine Capacity**      | 100                                 |
+| **Zoom**                   | None                                |
 
 **Body Armor Nano Kit (BANK)**
 
@@ -30,10 +30,10 @@ the self-repair of the user.
 
 - Additionally, crouching further reduces your chances of being hit,
   especially when behind a
-  [MAX](Mechanized_Armored_Exo-Suit.md).
+  [MAX](Mechanized_Assault_Exo-Suit.md).
 
 1.  Whenever possible, repair any
-    [MAX](Mechanized_Armored_Exo-Suit.md) unit you see.
+    [MAX](Mechanized_Assault_Exo-Suit.md) unit you see.
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Weapons](Category:Weapons.md) [Category:Common Pool

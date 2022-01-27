@@ -12,7 +12,7 @@ Participants: [Zatozia](Zatozia.md),
 Topics:
 
 - Old [Oshur](Oshur.md)
-- [Facility](Facility.md) Redesign
+- [Facility](Facilities.md) Redesign
 - Ideas for new abilities via [Merits](Merit_Commendations.md)
 - Return to PlanetSide promotion
 

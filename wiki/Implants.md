@@ -25,7 +25,7 @@ stamina will also cause all implants to turn off, although they can be
 immediately reactivated once stamina returns to 20 or more points.
 
 Enemy [Electro-magnetic Pulse (EMP)](EMP.md) blasts and [Jammer
-grenades](Jammer_grenade.md) will deactive all implants, forcing
+grenades](Jammer_Grenade.md) will deactive all implants, forcing
 them to reset their timers before they can enable and be activated
 again.
 

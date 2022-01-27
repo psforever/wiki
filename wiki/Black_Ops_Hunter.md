@@ -148,7 +148,7 @@
 </tbody>
 </table>
 
-This [Merit](Merit.md) is awarded for killing players that are
+This [Merit](Merit_Commendations.md) is awarded for killing players that are
 [Black Ops](Black_Ops.md), and does not have a [unique
 kill](unique_kill.md) requirement.
 

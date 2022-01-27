@@ -41,7 +41,7 @@ you can hot swap with the glue gun directly and it saves space. The
 lasher cannot provide if you come under attack while repairing. Have the
 pulsar in the rifle slot just in case you come across an enemy going to
 the vehicle pad. If you are CR3 or higher, take a CUD along for clearing
-minefields or OSing that noob stationary [BFR](BFR.md) you come
+minefields or OSing that noob stationary [BFR](BattleFrame_Robotics.md) you come
 across.
 
 The implants I recommend are [Enhanced
@@ -138,7 +138,7 @@ gunner should help you repair. You should almost require your gunner
 have a glue gun, or else you will spend a lot of time repairing
 yourself, which is a waste of time. If you have [Amp
 Station](Amp_Station.md) benefit, try to repair inside a
-friendly [SOI](SOI.md) to build shields while you repair. If you
+friendly [SOI](Sphere_of_Influence.md) to build shields while you repair. If you
 have [Dropship Center](Dropship_Center.md) benefit, get ammo and
 let your gunner repair you at the repair silo if it's clear.
 
@@ -169,7 +169,7 @@ straight into the battle, and never repair.
   the reaver, you should kill these first. The rockets from the
   [Fury](Fury.md) do massive damage. Lure them to open ground
   where you can kill them easily.
-- Flight Variant [BFRs](BFR.md): These BFRs have the same top
+- Flight Variant [BFRs](BattleFrame_Robotics.md): These BFRs have the same top
   speed as a Mag while in run mode. Get out on water and run in
   circles. Disengage if you get badly hurt. You can win 1 on 1 with a
   flight variant if you drive well, but engage cautiously. If anything
@@ -240,7 +240,7 @@ straight into the battle, and never repair.
     costs. The particle cannon can kill you very quickly and is very
     accurate. Don't fire upon it to let them know you are there, and
     only fire on it if it's hurting or others are helping you. The
-    shield regeneration rate of a crouched [BFR](BFR.md) is
+    shield regeneration rate of a crouched [BFR](BattleFrame_Robotics.md) is
     only slightly less than the damage the rail beam can deliver.
     You will be shooting at it a very long time if you think you
     will kill it alone.
@@ -332,7 +332,7 @@ the defense:
   should always be priority if you know they see you.
 - [Fury](Fury.md): Very damaging weapon, but relatively easy
   to kill. Kill first.
-- AV [MAX](MAX.md) units: [Falcon](Falcon.md) is not
+- AV [MAX](Mechanized_Assault_Exo-Suit.md) units: [Falcon](Falcon.md) is not
   much a threat, but if a [Pounder](Pounder.md) if firing at
   you, it should be second only to the reaver, as they can kill you
   very quickly.
@@ -352,12 +352,12 @@ the defense:
   deadlier enemies out there.
 - [Mosquito](Mosquito.md) Usually not much of a threat, but
   likely a quick take-down.
-- [BFRs](BFR.md): Lowest of all, since you almost ask for
+- [BFRs](BattleFrame_Robotics.md): Lowest of all, since you almost ask for
   death if you start shooting them. If they are hurt or others are
   engaging with you, take them out.
 
-On the attack, you should be targeting [AMSes](AMS.md), tanks,
-and [MAX](MAX.md) units in that order as priority, though it's
+On the attack, you should be targeting [AMSes](Advanced_Mobile_Station.md), tanks,
+and [MAX](Mechanized_Assault_Exo-Suit.md) units in that order as priority, though it's
 never bad to work in a quick infantry kill when possible.
 
 When your driver stops to repair, do a quick darklight sweep of the area
@@ -409,7 +409,7 @@ away enemy air cav. You can also set up many more in a single area and
 use it as a retreating point to scare off that
 [Reaver](Reaver.md) that is chasing you.
 
-The new Anti-Vehicular [Wall Turret](Wall_Turret.md) can make
+The new Anti-Vehicular [Wall Turret](Phalanx.md) can make
 quick work of a mag. The damage per second is roughly equivalent to the
 [Prowler](Prowler.md)! These upgraded turrets should be taken
 out whenever possible. Treat like a [Colossus](Colossus.md):

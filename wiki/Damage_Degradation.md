@@ -40,10 +40,10 @@ The following suffer from Damage Degradation:
 - [Anti-Tank Machine Gun](Anti-Tank_Machine_Gun.md)
 - [Rotary Chaingun](Rotary_Chaingun.md)
 - [Quasar](Quasar.md)
-- [Dual Cycler](Dual_Cycler.md)
+- [Dual Cycler](Dual-Cycler.md)
 - [Flail](Flail.md) (inverse Damage Degradation, see above)
-- [Wall Turret](Wall_Turret.md) (standard fire mode)
-- [Spitfire](ACE.md#Spitfire) and [Shadow
+- [Wall Turret](Phalanx.md) (standard fire mode)
+- [Spitfire](Adaptive_Construction_Engine.md#Spitfire) and [Shadow
   Turrets](Shadow_Turret.md)
 
 [Category: Terminology](Category:_Terminology.md) [Category:

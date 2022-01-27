@@ -1,14 +1,14 @@
-|                            |                                                                  |
-| -------------------------- | ---------------------------------------------------------------- |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)       |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)               |
-| **Primary Mode**           | Particle Pulse Accelerator                                       |
-| **Secondary Mode**         | \-                                                               |
+| **Primary Mode**           | Particle Pulse Accelerator                            |
+| **Secondary Mode**         | \-                                                    |
 | **Ammunition**             | [Aphelion PPA Ammunition](Aphelion_PPA_Ammunition.md) |
-| **Range**                  | 250m                                                             |
-| **Inventory Dimensions**   | [BFR](BFR.md) Pilot Weapon                            |
-| **Magazine Capacity**      | 25                                                               |
-| **Zoom**                   | 2x                                                               |
+| **Range**                  | 250m                                                  |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Pilot Weapon           |
+| **Magazine Capacity**      | 25                                                    |
+| **Zoom**                   | 2x                                                    |
 | **Note**                   | No [Damage Degradation](Damage_Degradation.md)        |
 
 **Pulsed Particle Accelerator**

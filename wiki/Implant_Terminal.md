@@ -21,7 +21,7 @@ is so small.
 Note: To hack an Implant Terminal using the
 [Hacking](<Hacking_(Certification)>)
 [Certification](Certification.md), stand at the front of the
-terminal and point your [REK](REK.md) near the top of the device
+terminal and point your [REK](Remote_Electronics_Kit.md) near the top of the device
 to start hacking.
 
 ### Interface: Add/Remove Implants

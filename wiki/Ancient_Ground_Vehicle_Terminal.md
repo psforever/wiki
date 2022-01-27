@@ -2,7 +2,7 @@
 [Adlivun](Adlivun.md)\]\]
 
 The Ground Vehicle Terminals can be found in the [Core
-Combat](Core_Combat.md) [Caverns](Cavern.md). They work
+Combat](Core_Combat.md) [Caverns](Caverns.md). They work
 the same as the Ground Vehicle Terminals on the surface of
 [Auraxis](Auraxis.md).
 

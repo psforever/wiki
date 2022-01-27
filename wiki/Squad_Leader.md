@@ -23,6 +23,6 @@ The Squad Leader also has access to list the squad in the players menu
 with a custom title, set requirements for each squad position, and view
 the [certifications](certifications.md) of each member of the
 squad. They are also the only member of the squad allowed to access the
-[Main Console](Main_Console.md) at bases.
+[Main Console](Main_Terminal.md) at bases.
 
 [Category:Terminology](Category:Terminology.md)

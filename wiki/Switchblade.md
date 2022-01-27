@@ -1,17 +1,17 @@
 ![](images/SwitchbladePicture.jpg "fig:SwitchbladePicture.jpg") Switchblade\]\]
 
-|                            |                                                                                       |
-| -------------------------- | ------------------------------------------------------------------------------------- |
-| **Type**                   | Rapid Assault                                                                         |
-| **Role**                   | Rapid Response/Escort                                                                 |
-| **Certification Required** | [Switchblade](<Switchblade_(Certification)>)                               |
-| **Empire**                 | [Common Pool](Common_Pool.md) ([Ancient-Tech](Ancient-Tech.md)) |
-| **Primary Weapon**         | Forward firing Scythe Energy Cannon                                                   |
-| **Deployed**               | 360 degrees firing Scythe Energy Cannon with increased Rate of Fire                   |
-| **Range**                  | 180m                                                                                  |
-| **Occupants**              | 1 (Driver)                                                                            |
-| **Handling**               | Ultra nimble                                                                          |
-| **Top speed**              | 80 kph (55 kph over water)                                                            |
+|                            |                                                                       |
+| -------------------------- | --------------------------------------------------------------------- |
+| **Type**                   | Rapid Assault                                                         |
+| **Role**                   | Rapid Response/Escort                                                 |
+| **Certification Required** | [Switchblade](<Switchblade_(Certification)>)                          |
+| **Empire**                 | [Common Pool](Common_Pool.md) ([Ancient-Tech](Ancient_Technology.md)) |
+| **Primary Weapon**         | Forward firing Scythe Energy Cannon                                   |
+| **Deployed**               | 360 degrees firing Scythe Energy Cannon with increased Rate of Fire   |
+| **Range**                  | 180m                                                                  |
+| **Occupants**              | 1 (Driver)                                                            |
+| **Handling**               | Ultra nimble                                                          |
+| **Top speed**              | 80 kph (55 kph over water)                                            |
 
 **Switchblade**
 

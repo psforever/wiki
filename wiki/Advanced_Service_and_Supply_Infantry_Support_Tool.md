@@ -3,19 +3,19 @@ not in the game [PlanetSide](PlanetSide.md)._
 
 Concept by [ChewyLSB](User:ChewyLSB.md)
 
-|                                                         |                                                                                                                              |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| [Certifications](Certification.md) Required: | [Medical](Medical.md)                                                                                             |
-|                                                         | [Engineering](Engineering.md)                                                                                     |
-| [Merits](Merit_Commendation.md) Required:    | [Combat Medic (Platinum)](Combat_Medic.md)                                                                        |
-|                                                         | [Infantry Armor Support (Platinum)](Infantry_Armor_Support.md)                                                    |
-| Empire:                                                 | [Common Pool](Common_Pool.md)                                                                                     |
-| Ammunition:                                             | A combination of the [Health Canister](Health_Canister.md) and the [Armor Canister](Armor_Canister.md) |
-| [Inventory](Inventory.md) Dimensions:        | 3x3                                                                                                                          |
-| Magazine Capacity:                                      | 100                                                                                                                          |
-| Primary Mode:                                           | Heal/Repair/Revive.md                                                                                                        |
-| Secondary Mode:                                         | Heal/Repair Self                                                                                                             |
-|                                                         |                                                                                                                              |
+|                                              |                                                                                                        |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [Certifications](Certification.md) Required: | [Medical](Medical.md)                                                                                  |
+|                                              | [Engineering](Engineering.md)                                                                          |
+| [Merits](Merit_Commendations.md) Required:   | [Combat Medic (Platinum)](Combat_Medic.md)                                                             |
+|                                              | [Infantry Armor Support (Platinum)](Infantry_Armor_Support.md)                                         |
+| Empire:                                      | [Common Pool](Common_Pool.md)                                                                          |
+| Ammunition:                                  | A combination of the [Health Canister](Health_Canister.md) and the [Armor Canister](Armor_Canister.md) |
+| [Inventory](Inventory.md) Dimensions:        | 3x3                                                                                                    |
+| Magazine Capacity:                           | 100                                                                                                    |
+| Primary Mode:                                | Heal/Repair/Revive.md                                                                                  |
+| Secondary Mode:                              | Heal/Repair Self                                                                                       |
+|                                              |                                                                                                        |
 
 The [Advanced Service and Supply Infantry Support
 Tool](Advanced_Service_and_Supply_Infantry_Support_Tool.md)

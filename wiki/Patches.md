@@ -22,9 +22,9 @@ category, linked at bottom.
 
 - [1.0.0](1.md.0.0) - [PlanetSide](PlanetSide.md)
   Launches on May 20th!
-- [1.1](1.md.1) - [Jamming](Jammer_grenade.md) of
+- [1.1](1.md.1) - [Jamming](Jammer_Grenade.md) of
   friendly [Combat Engineering](Combat_Engineering.md)
-  disabled. [Implant](Implant.md) confirmation removed.
+  disabled. [Implant](Implants.md) confirmation removed.
   [Tells](Tell.md) no longer case sensitive.
 - [1.2](1.md.2) - [Zone](Zone.md) crash fixes, weather
   tweaks, and [Server](Server.md) listing tweaks added. Base
@@ -131,8 +131,8 @@ category, linked at bottom.
 
 - [2.7.6](2.md.7.6) - [Fury](Fury.md),
   [Deliverer](Deliverer.md) Variants, and new
-  [AMS](AMS.md) design go live! [Tower](Tower.md)
-  [SOIs](SOI.md) visible at all map zoom levels, and session
+  [AMS](Advanced_Mobile_Station.md) design go live! [Tower](Towers.md)
+  [SOIs](Sphere_of_Influence.md) visible at all map zoom levels, and session
   stats (K/D, [BEP](BEP.md)/[CEP](CEP.md), time)
   available
 
@@ -154,10 +154,10 @@ category, linked at bottom.
 
 - [2.9.5](2.md.9.5) - [Empire
   Incentives](Empire_Incentives.md) modifications,
-  [merit](Merit_Commendation.md) shoulderpad, Adaptive LOD
+  [merit](Merit_Commendations.md) shoulderpad, Adaptive LOD
   added, and different [animation
   culling](Animation_Culling.md) levels added.
-  [LLU](LLU.md) [sub-capitols](Sub-Capitol.md) linked
+  [LLU](Lattice_Logic_Unit.md) [sub-capitols](Sub-Capitol.md) linked
   only by [Capitol](Capitol.md) spawn LLUs again.
   [Striker](Striker.md), [Radar](Radar.md),
   [Outfit](Outfit.md) invitation and "turn left" keymapping
@@ -182,15 +182,15 @@ category, linked at bottom.
   Buggy and tank speeds increased. Tech plant requirement removed for
   [Router](Router.md) and [Sunderer](Sunderer.md)
 - [3.0.18](3.md.0.18) - [Beamer](Beamer.md),
-  [MAX](MAX.md) armor, avatar invisibility, and zone crash
+  [MAX](Mechanized_Assault_Exo-Suit.md) armor, avatar invisibility, and zone crash
   fix.
 - [3.0.19](3.md.0.19) - Autodrive grief removed.
-  [Galaxy](Galaxy.md) side-gun and
+  [Galaxy](vehicles/Galaxy.md) side-gun and
   [Liberator](Liberator.md) cluster-bomb, AP shotgun shell,
   [Lasher](Lasher.md) BFR damage, and
-  [Mosquito](Mosquito.md) [MAX](MAX.md) damage fixes.
+  [Mosquito](Mosquito.md) [MAX](Mechanized_Assault_Exo-Suit.md) damage fixes.
 - [3.0.25](3.md.0.25) - [BFR](BattleFrame_Robotics.md)
-  acquisition fully operational! [Galaxy](Galaxy.md) gun COF
+  acquisition fully operational! [Galaxy](vehicles/Galaxy.md) gun COF
   and rate of fire decreased.
 - [3.0.26](3.md.0.26) - Halloween decor added. Heavy vehicles
   disallowed from purchase inside caverns (_not banished_).
@@ -243,7 +243,7 @@ category, linked at bottom.
   [Uni-MAX](</Uni-MAX_(Certification)>) upped to 6, and [Air
   Cavalry](Air_Cavalry.md) upped to 6 cert points.
   [Switchblade](Switchblade.md) buffs.
-- [3.3.7](3.md.3.7) - [ANT](ANT.md) tweaks, including
+- [3.3.7](3.md.3.7) - [ANT](Advanced_Nanite_Transport.md) tweaks, including
   deploying from inside. Round 5 of
   [BFR](BattleFrame_Robotics.md) nerfs. Multitude of bug
   fixes.
@@ -267,7 +267,7 @@ category, linked at bottom.
   Tech](Ancient_Technology.md) acquisition fix. Corpses no
   longer block weapons.
 - [3.4.7](3.md.4.7) - Warp Queue broadcast gate,
-  [Quasar](Quasar.md) [MAX](MAX.md), and [Command
+  [Quasar](Quasar.md) [MAX](Mechanized_Assault_Exo-Suit.md), and [Command
   Rank](Command_Rank.md) armor display fix.
 - [3.4.8](3.md.4.8) - Round 6 of
   [BFR](BattleFrame_Robotics.md) nerfs, including water
@@ -287,7 +287,7 @@ category, linked at bottom.
   Base](Squad_Home_Base.md) goes live! Low resolution sounds
   made available. Multitude of fixes.
 - [3.5.7](3.md.5.7) - Merit and [Squad Home
-  Base](Squad_Home_Base.md), and TR [MAX](MAX.md)
+  Base](Squad_Home_Base.md), and TR [MAX](Mechanized_Assault_Exo-Suit.md)
   fixes.
 - [3.5.9](3.md.5.9) - Crash to desktop after extensive play
   and vehicles+force domes framerate fixes.
@@ -318,7 +318,7 @@ category, linked at bottom.
 
 - [3.6.9](3.md.6.9) - [Aircav](Air_Cavalry.md) armor
   adjustments, "Flaklet" added, [Reaver](Reaver.md) damage
-  against infantry nerfed, [MAX](MAX.md) adjustments.
+  against infantry nerfed, [MAX](Mechanized_Assault_Exo-Suit.md) adjustments.
 - [3.7.3](3.md.7.3) - Support Experience implemented - Support
   Merits tracking - New Player Mission System -
   [Vulture](Vulture.md) - New Population Indicators - Infantry
@@ -344,10 +344,10 @@ category, linked at bottom.
 ### October
 
 - [3.9.5](3.md.9.5) - [Rabbit](Rabbit.md) Gameplay and
-  [LFS](LFS.md) revisions go live! [TR](TR.md)
-  [MAX](MAX.md) allowed to shoot while (un)anchoring, minor
-  [Vehicle](Vehicle.md)/[BFR](BFR.md) tweaks,
-  Help-Star/[HUD](HUD.md) fixes, the end of looting knives.
+  [LFS](LFS.md) revisions go live! [TR](Terran_Republic.md)
+  [MAX](Mechanized_Assault_Exo-Suit.md) allowed to shoot while (un)anchoring, minor
+  [Vehicle](Vehicle.md)/[BFR](BattleFrame_Robotics.md) tweaks,
+  Help-Star/[HUD](Heads-up_Display.md) fixes, the end of looting knives.
 - [3.9.5 Brief Update](3.md.9.5_Brief_Update) -
   [Rabbit](Rabbit.md) Gameplay adjustments
 - [3.9.6](3.md.9.6) [Combat
@@ -371,7 +371,7 @@ category, linked at bottom.
   [ATV](ATV.md) improvements, holiday decorations.
 - [3.10.2](3.md.10.2) - [Enhanced
   Targeting](Enhanced_Targeting.md) can now see BFR shield
-  health; multiple changes to Flight [BFRs](BFR.md).
+  health; multiple changes to Flight [BFRs](BattleFrame_Robotics.md).
 
 ## 2006
 
@@ -398,11 +398,11 @@ category, linked at bottom.
   Law](Martial_Law.md) event on
   [Desolation](Desolation.md).
 - [3.11.5](3.md.11.5) - [Merit
-  Commendation](Merit_Commendation.md) bug fix.
+  Commendation](Merit_Commendations.md) bug fix.
 - [3.11.6](3.md.11.6) - Major Anti Vehicular damage increases
   for the [Phoenix](Phoenix.md), [Lancer](Lancer.md),
   [Striker](Striker.md) and all
-  [Anti-Vehicular](Anti-Vehicular.md) [MAX](MAX.md)
+  [Anti-Vehicular](Anti-Vehicular.md) [MAX](Mechanized_Assault_Exo-Suit.md)
   Units.
 
 [\*](category:Patches.md)
@@ -419,14 +419,14 @@ category, linked at bottom.
   drops / login issues.
 - [3.11.20](3.md.11.20) - [Wasp](Wasp.md) Interceptor
   goes live, damage value reversal for the [Rocklet
-  Rifle](Rocklet_Rifle.md) against [MAX](MAX.md)
+  Rifle](Rocklet_Rifle.md) against [MAX](Mechanized_Assault_Exo-Suit.md)
   Units.
 
 ### July
 
 - [3.11.24](3.md.11.24) - [Wasp](Wasp.md) acquisition
   bug fixed, hack detection added and changes to the
-  [Pounder](Pounder.md) [MAX](MAX.md).
+  [Pounder](Pounder.md) [MAX](Mechanized_Assault_Exo-Suit.md).
 - [3.11.28](3.md.11.28) - Setting changes for the Special
   Event "[Blast Into Battle, Double
   Time](Blast_Into_Battle.md,_Double_Time)".
@@ -446,8 +446,8 @@ category, linked at bottom.
 - [April Fool's
   Patch](Unnumbered_Patches.md#Game_Update_.2803.2F30.2F2007.29) -
   Undocumented addition of Cake, Pie, and Doughnut Box graphics to
-  replace [NC](NC.md), [TR](TR.md), and
-  [VS](VS.md) [backpacks](backpack.md) respectively.
+  replace [NC](New_Conglomerate.md), [TR](Terran_Republic.md), and
+  [VS](Vanu_Sovereignty.md) [backpacks](backpack.md) respectively.
 
 ### April
 
@@ -546,7 +546,7 @@ category, linked at bottom.
 ### August
 
 - [3.15.18](3.md.15.18) -Added overdrive ability to
-  [TR](TR.md) [MAXes](MAX.md),
+  [TR](Terran_Republic.md) [MAXes](Mechanized_Assault_Exo-Suit.md),
   [Burster](Burster.md) magazine size buff, and changed the
   way [incentives](incentives.md) are calculated.
 
@@ -563,7 +563,7 @@ category, linked at bottom.
 
 - [3.15.34](3.md.15.34) -Fixed a bug where the
   [Jackhammer](Jackhammer.md) did no damage to
-  [MAXes](MAX.md) when firing standard (white ammo) in
+  [MAXes](Mechanized_Assault_Exo-Suit.md) when firing standard (white ammo) in
   triple-shot mode.
 - [3.15.36](3.md.15.36) -[Lasher](Lasher.md) tweaks:
   Fixed hit detection issues, decreased

@@ -1,7 +1,7 @@
 [Dropship Center](Dropship_Center.md) on southeast
 [Searhus](Searhus.md) in O-15, one [Air
 tower](Air_tower.md) to northeast (outside of
-[SOI](SOI.md)), elevation 91.0 meters.
+[SOI](Sphere_of_Influence.md)), elevation 91.0 meters.
 
 [Lattice](Lattice.md) links: [Iva](Iva.md),
 [Akua](Akua.md), [Drakulu](Drakulu.md),

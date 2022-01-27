@@ -1,15 +1,15 @@
 ![](images/DisruptorMine.jpg "DisruptorMine.jpg")
 
-|                            |                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------- |
+|                            |                                                                       |
+| -------------------------- | --------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](Assault_Engineering.md)                         |
 | **Empire**                 | [Common Pool](Common_Pool.md)                                         |
-| **Primary Mode**           | Disruptor Mine                                                                   |
-| **Secondary Mode**         | \-                                                                               |
+| **Primary Mode**           | Disruptor Mine                                                        |
+| **Secondary Mode**         | \-                                                                    |
 | **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE) |
-| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                           |
-| **Magazine Capacity**      | 1 mine per ACE Unit                                                              |
-| **Zoom**                   | None                                                                             |
+| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                |
+| **Magazine Capacity**      | 1 mine per ACE Unit                                                   |
+| **Zoom**                   | None                                                                  |
 
 **Disruptor Mine**
 
@@ -29,7 +29,7 @@ Mines](Adaptive_Construction_Engine.md#High_Explosive_Mine)
 (neither Friendly nor Enemy).
 
 The Disruptor Mine shares the secondary firing mode of the
-[ACE](ACE.md) with the High Explosive Mine, and can be selected
+[ACE](Adaptive_Construction_Engine.md) with the High Explosive Mine, and can be selected
 by use of the "Change Ammunition" function.
 
 The Disruptor Mines count for the maximum number of mines that you can

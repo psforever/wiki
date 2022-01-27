@@ -5,7 +5,7 @@ awarded for:
 - Visiting specific locations
 - Character Age
 - Mowing enemies
-- Killing [MAX](MAX.md) Units
+- Killing [MAX](Mechanized_Assault_Exo-Suit.md) Units
 - Jacking Enemy [Vehicles](Vehicle.md)
 
 **Note that [Vehicles](Vehicle.md) that you have destroyed only

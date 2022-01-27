@@ -1,9 +1,9 @@
-|                                             |                                                                                                                                      |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Used by**                                 | [Aphelion](Aphelion.md) and [Eclipse](Eclipse.md) using the [Continuous Laser](Continuous_Laser.md) |
-| **Empire**                                  | [Vanu Sovereignty](Vanu_Sovereignty.md)                                                                                   |
-| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                                                                  |
-| **Quantity per pack**                       | 165 Units                                                                                                                            |
+|                                  |                                                                                                     |
+| -------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Used by**                      | [Aphelion](Aphelion.md) and [Eclipse](Eclipse.md) using the [Continuous Laser](Continuous_Laser.md) |
+| **Empire**                       | [Vanu Sovereignty](Vanu_Sovereignty.md)                                                             |
+| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                                 |
+| **Quantity per pack**            | 165 Units                                                                                           |
 
 **Aphelion Continuous Laser Battery**
 
@@ -12,7 +12,7 @@ Laser](Continuous_Laser.md), which is the anti-infantry weapon
 on the [Aphelion](Aphelion.md) and
 [Eclipse](Eclipse.md). The boxes can be obtained from any
 [Equipment Terminal](Equipment_Terminal.md) to be hand-loaded
-into the [BFR](BFR.md)'s [trunk](trunk.md) or acquired
+into the [BFR](BattleFrame_Robotics.md)'s [trunk](trunk.md) or acquired
 while in the BFR from a [Repair/Rearm.md
 Silo](Repair_Rearm_Silo.md).
 

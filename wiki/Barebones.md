@@ -37,7 +37,7 @@ between 50 and 200. So equip every [weapon](Weapons_Index.md)
 and support item you can, fire them if you want to. Putting on
 [Rexo](Rexo.md) armor makes this process faster.
 
-- Don't forget, each [MAX Armor](MAX.md) has its own weapon
+- Don't forget, each [MAX Armor](Mechanized_Assault_Exo-Suit.md) has its own weapon
   systems, and they award you [Experience
   Points](Experience_Points.md) also.
 
@@ -47,7 +47,7 @@ Same goes for vehicles; you'll spawn next to the ground vehicle pad.
 Drive everything. If it has a gunner spot, park and hop in the gunner
 slot too.
 
-When you're done, visit the [BFR](BFR.md) shack (just a touch
+When you're done, visit the [BFR](BattleFrame_Robotics.md) shack (just a touch
 northeast of the vehicle pad) and use both battle frames. if you want to
 switch out weapons, walk it over to the rearm silo behind the ground
 vehicle pad you were just using, it's on the hill to the east of the
@@ -70,7 +70,7 @@ building, known as the [HART Building](HART.md). Inside, find a
 permanent (as a new character, you can switch them as often as you want
 during your first week).
 
-Then find an [Equipment terminal](Equipment_terminal.md), just
+Then find an [Equipment terminal](Equipment_Terminal.md), just
 like in the VR shooting range. Get [agile](Agile_Exo-Suit.md)
 armor (at least), and load up on gear. When you have a suitable loadout,
 switch to the favorites tab and save the configuration. Next time, you

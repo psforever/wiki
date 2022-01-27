@@ -4,16 +4,16 @@ and is in the South inside grid H15.
 
 It has [Lattice](Lattice.md) Links to:
 
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Neti](Neti.md)
 - [Amp Station](Amp_Station.md) [Enkidu](Enkidu.md)
 - A [Broadcast](Broadcast.md) [Warpgate](Warpgate.md)
 - A [Geowarp](Geowarp.md)
 
 It is a [Hack-and-Hold](Hack-and-Hold.md)
-[Facility](Facility.md) with an [Air
+[Facility](Facilities.md) with an [Air
 tower](Air_tower.md) to its north, inside its
-[SOI](SOI.md).
+[SOI](Sphere_of_Influence.md).
 
 Elevation: 70.5m
 

@@ -13,7 +13,7 @@ It currently has [Lattice](Lattice.md) Links to:
 Strategically important hold against invasions starting in
 [Wele](Wele.md) by restricting bridge passage.
 
-Aja is a [LLU](LLU.md) [facility](facility.md).
+Aja is a [LLU](Lattice_Logic_Unit.md) [facility](facility.md).
 
 - If Wele or Bomazi are unable to recieve an LLU, the LLU target of
   Chuku may be one of the longest in the game.

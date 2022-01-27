@@ -3,8 +3,8 @@ Rashnu is the only [Bio Laboratory](Bio_Laboratory.md) on
 is in grid I12.
 
 Rashnu is a [Hack-and-Hold](Hack-and-Hold.md)
-[Facility](Facility.md), and has an [Air
+[Facility](Facilities.md), and has an [Air
 Tower](Air_tower.md) to it's North, which is outside it's
-[SOI](SOI.md).
+[SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

@@ -4,12 +4,12 @@ with ASSIST as an acronym, see [Advanced Service and Supply Infantry
 Support
 Tool](Advanced_Service_and_Supply_Infantry_Support_Tool.md)._
 
-[Assists](Assist.md) are [Planetside](Planetside.md)'s
+[Assists](Assist.md) are [Planetside](PlanetSide.md)'s
 method for tracking [Support Experience
 Points](Support_Experience_Points.md) and how support character
-gain [Merits](Merit_Commendation.md). An assist is awarded after
+gain [Merits](Merit_Commendations.md). An assist is awarded after
 a player that you supported scores a kill. This is denoted on the
-[HUD](HUD.md) on the Session Stats Bar with an "A: ". Assists
+[HUD](Heads-up_Display.md) on the Session Stats Bar with an "A: ". Assists
 are also gained by operating a vehicle that has gunners or bombardiers
 that are making kills using your vehicles weaponry.
 
@@ -30,7 +30,7 @@ in what is called [Support Experience
 Points](Support_Experience_Points.md). The amount of BEP
 returned to the supporter is dependent on how much you supported them,
 the more you supported them, the more SEP you receive. Note that "kills"
-on deployables and [Wall Turrets](Wall_Turret.md) will count as
+on deployables and [Wall Turrets](Phalanx.md) will count as
 an assist on the HUD, but only player kills will count toward merits and
 give SEP.
 

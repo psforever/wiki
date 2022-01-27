@@ -15,8 +15,8 @@
 ## Terrain
 
 Although bridge battles are common on this island, water-based attacks
-are possible via hover ([AT](Ancient_Tech.md) or
-[VS](VS.md) vehicles and [Deliverer](Deliverer.md)
+are possible via hover ([AT](Ancient_Technology.md) or
+[VS](Vanu_Sovereignty.md) vehicles and [Deliverer](Deliverer.md)
 variants. Shoreline access is possible at many strategic points on this
 map if bridge battles are blocking progress elsewhere.
 
@@ -26,7 +26,7 @@ As is the case with all [Battle Islands](Battle_Islands.md),
 heavy weapons and vehicles do not operate here. Not permitted are [Heavy
 Assault](Heavy_Assault.md) weapons,
 [Reavers](Reaver.md), [Artillery](Artillery.md),
-[BFRs](BFR.md), [Medium Battle
+[BFRs](BattleFrame_Robotics.md), [Medium Battle
 Tanks](Medium_Battle_Tank.md), and Empire Specific
 [Deliverer](Deliverer.md) variants.
 

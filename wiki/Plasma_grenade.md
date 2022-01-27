@@ -1,16 +1,16 @@
 ![](Plasma-Hand-grenade.md.jpg "fig:Plasma-Hand-grenade.jpg") [Hand
 grenade](Hand_grenade.md)\]\]
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                         |
+| -------------------------- | --------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault.md) |
 | **Empire**                 | [Common Pool](Common_Pool.md)           |
-| **Primary Mode**           | Explode on Contact                                 |
-| **Secondary Mode**         | Three Second Fuse                                  |
-| **Ammunition**             | \-                                                 |
-| **Inventory Dimensions**   | 2 x 2 (Pistol Holster)                             |
-| **Magazine Capacity**      | 3                                                  |
-| **Zoom**                   | None                                               |
+| **Primary Mode**           | Explode on Contact                      |
+| **Secondary Mode**         | Three Second Fuse                       |
+| **Ammunition**             | \-                                      |
+| **Inventory Dimensions**   | 2 x 2 (Pistol Holster)                  |
+| **Magazine Capacity**      | 3                                       |
+| **Zoom**                   | None                                    |
 
 **Plasma Grenade**
 
@@ -29,12 +29,12 @@ grenades are better against infantry than [Fragmentation
 grenades](Fragmentation_grenade.md). However, when using the box
 ammunition, the plasma grenades do significantly less damage. In this
 case the fragmentation grenades do more damage to all objects, including
-[MAXes](MAX.md) and infantry.
+[MAXes](Mechanized_Assault_Exo-Suit.md) and infantry.
 
 The [Plasma](Plasma.md) will also reveal cloakers in the area as
 one can see the plasma burning on them even while cloaked, and thus can
 be a useful way of revealing cloakers without using the
-[Darklight](Darklight.md) [Implant](Implant.md).
+[Darklight](Darklight.md) [Implant](Implants.md).
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Weapons](Category:Weapons.md) [Category:Common Pool

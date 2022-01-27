@@ -25,7 +25,7 @@ Located beneath the staircases in the Main lobby.
 
 Located along the far wall of the lobby, at ground level.
 
-- [Interlink Facility](Interlink_Facility.md):
+- [Interlink Facility](Interlink.md):
 
 Similar to the Dropship Center above.
 

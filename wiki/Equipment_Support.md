@@ -323,6 +323,6 @@ the universal symbol for humanitarian aid:
 </table>
 
 **Note: The Titanium graphic has a slight color error. This is a mistake
-by [SOE](SOE.md)**
+by [SOE](Sony_Online_Entertainment.md)**
 
 [category:Merits](category:Merits.md)

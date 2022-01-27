@@ -11,7 +11,7 @@ and are usually controlled via the traditional means utilized in other
 First Person Shooters: the keyboard and mouse.
 
 Each character has a customizable appearance, name, and affiliation.
-Each [PlanetSide](PlanetSide.md)/Station ([SOE](SOE.md))
+Each [PlanetSide](PlanetSide.md)/Station ([SOE](Sony_Online_Entertainment.md))
 account may create as many as twenty-four characters on the PlanetSide
 [Server](Server.md).
 

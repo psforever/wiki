@@ -29,6 +29,6 @@
 
 This [Certification](Certification.md) is required to obtain the
 [Heavy Weapons](</Heavy_Assault_(Merit)>) [Merit
-Commendation](Merit_Commendation.md).
+Commendation](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

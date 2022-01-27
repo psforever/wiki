@@ -1,7 +1,7 @@
 ![](images/LLU.jpg "fig:LLU.jpg") in a Lattice Logic Unit Socket\]\]
 
 The **Lattice Logic Unit Socket** is the Socket in which the
-[LLU](LLU.md) (Lattice Logic Unit) will spawn after the base is
+[LLU](Lattice_Logic_Unit.md) (Lattice Logic Unit) will spawn after the base is
 hacked.
 
 The LLU will last 15 minutes, starting from the moment the

@@ -6,7 +6,7 @@ Tower description
 - [Equipment Terminals](Equipment_Terminal.md)
 - [IFF Door Locks](IFF.md)
 - [Lockers](Lockers.md)
-- [Spawn Tubes](Spawn_Tube.md)
+- [Spawn Tubes](Respawn_Tube.md)
 
 ## Specific Tower Features
 

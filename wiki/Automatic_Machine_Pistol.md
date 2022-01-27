@@ -1,17 +1,17 @@
 ![](images/PSScreenShot0292.jpg "fig:PSScreenShot0292.jpg") Soldier equipped
 with an AMP\]\]
 
-|                            |                                                                                                     |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Standard Assault](Standard_Assault.md)                                                  |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                            |
-| **Primary Mode**           | Machine Pistol                                                                                      |
-| **Secondary Mode**         | \-                                                                                                  |
-| **Ammunition**             | 9mm Bullets ([Standard](9mm_Bullet.md) or [Armor Piercing](AP_9mm_Bullet.md)) |
-| **Range**                  | 200m                                                                                                |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                              |
-| **Magazine Capacity**      | 30                                                                                                  |
-| **Zoom**                   | x2                                                                                                  |
+|                            |                                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------------------ |
+| **Certification Required** | [Standard Assault](Standard_Assault.md)                                                    |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                              |
+| **Primary Mode**           | Machine Pistol                                                                             |
+| **Secondary Mode**         | \-                                                                                         |
+| **Ammunition**             | 9mm Bullets ([Standard](9mm_Bullet.md) or [Armor Piercing](Armour_Piercing_9mm_Bullet.md)) |
+| **Range**                  | 200m                                                                                       |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                     |
+| **Magazine Capacity**      | 30                                                                                         |
+| **Zoom**                   | x2                                                                                         |
 
 **Automatic Machine Pistol (AMP)**
 
@@ -30,12 +30,12 @@ off very wounded troops from a medium, safe distance.
 
 Shots to kill:
 
-|                                                          |                                             |
-| -------------------------------------------------------- | ------------------------------------------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                                     |
-| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                                     |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                                    |
-| [MAX](MAX.md)                                 | 58 [AP](Armor_Piercing.md) shots |
+|                                               |                                  |
+| --------------------------------------------- | -------------------------------- |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                          |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                          |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                         |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 58 [AP](Armor_Piercing.md) shots |
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Weapons](Category:Weapons.md) [Category:Common Pool

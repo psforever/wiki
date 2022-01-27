@@ -1,29 +1,29 @@
 **The Sunderer now comes in three variants: The
-[Leviathan](Leviathan.md) ([VS](VS.md)),
-[Vindicator](Vindicator.md) ([NC](NC.md)), and
-[Juggernaut](Juggernaut.md) ([TR](TR.md)). The Sunderer
+[Leviathan](Leviathan.md) ([VS](Vanu_Sovereignty.md)),
+[Vindicator](Vindicator.md) ([NC](New_Conglomerate.md)), and
+[Juggernaut](Juggernaut.md) ([TR](Terran_Republic.md)). The Sunderer
 on this page no longer exists in game (as of Version
 [3.12.12](3.md.12.12), April 20 2007)**
 
 ![](images/Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
 
-|                            |                                                                                         |
-| -------------------------- | --------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Transport                                                                         |
-| **Role**                   | Heavy Troop Transport                                                                   |
-| **Certification Required** | [Ground Transport](Ground_Transport.md)                                      |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                |
-| **Primary Weapon**         | 2 75mm Tank Cannons                                                                     |
-| **Secondary Weapon**       | \-                                                                                      |
-| **Occupants**              | 11 (Driver, 2 Gunners, 6 Infantry Passengers and 2 [MAX](MAX.md) Passengers) |
-| **Handling**               | Poor                                                                                    |
-| **Top speed**              | 58 kph                                                                                  |
+|                            |                                                                                                      |
+| -------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Transport                                                                                      |
+| **Role**                   | Heavy Troop Transport                                                                                |
+| **Certification Required** | [Ground Transport](Ground_Transport.md)                                                              |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                        |
+| **Primary Weapon**         | 2 75mm Tank Cannons                                                                                  |
+| **Secondary Weapon**       | \-                                                                                                   |
+| **Occupants**              | 11 (Driver, 2 Gunners, 6 Infantry Passengers and 2 [MAX](Mechanized_Assault_Exo-Suit.md) Passengers) |
+| **Handling**               | Poor                                                                                                 |
+| **Top speed**              | 58 kph                                                                                               |
 
 **Sunderer**
 
 The **Sunderer** is a large, lumbering heavy ground transport capable of
 carrying a driver, 2 gunners, 6 passengers, and 2
-[MAXs](Mechanized_Armored_Exo-Suit.md). The gunners man two
+[MAXs](Mechanized_Assault_Exo-Suit.md). The gunners man two
 large 75mm Tank Cannons to be used in defense against vehicles, but
 depend on squad members disembarking to protect against up close
 infantry attack.

@@ -3,8 +3,8 @@ attempts at manipulating the Auraxian [lattice](lattice.md)
 network, this time targeting construction and acquisition pathways in an
 attempt to level the playing field of [Auraxis](Auraxis.md),
 supplementing their arsenal with the situational strengths of their
-enemies. Now that the [NC](NC.md) have initiated this process,
-the [TR](TR.md) and the [VS](VS.md) have no other choice
+enemies. Now that the [NC](New_Conglomerate.md) have initiated this process,
+the [TR](Terran_Republic.md) and the [VS](Vanu_Sovereignty.md) have no other choice
 but to see this through, fighting to be the Empire with a robust global
 arsenal, consisting of familiar and enemy weapons alike.
 
@@ -24,7 +24,7 @@ be considered the winner of the event.
 
 - The Winner will be able to purchase enemy weaponry from the
   equipment terminals. Enemy [Vehicles](Vehicle.md) and
-  [MAXes](MAX.md) will not be available (though their standard
+  [MAXes](Mechanized_Assault_Exo-Suit.md) will not be available (though their standard
   arsenal will be).
 - The Second Place Empire will be able to access weaponry from the
   Third Place Empire, but not the winner.

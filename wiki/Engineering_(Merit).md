@@ -206,6 +206,6 @@ This Merit is awarded for amassing kills with one of the following:
 - [Shadow Turret](Shadow_Turret.md)
 
 **Note: The Gold and Platinum awards have the same graphic. This is a
-mistake by [SOE](SOE.md).**
+mistake by [SOE](Sony_Online_Entertainment.md).**
 
 [category:Merits](category:Merits.md)

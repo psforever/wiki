@@ -1,6 +1,6 @@
 # Empire Defense Merits
 
-This series of [Merit Commendations](Merit_Commendation.md)
+This series of [Merit Commendations](Merit_Commendations.md)
 counts total overall kills by any means necessary.
 
 <hr>

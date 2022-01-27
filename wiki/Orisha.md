@@ -8,7 +8,7 @@ Plant](Technology_Plant.md)
 - [Warpgate](Warpgate.md)
 - [Shango](Shango.md)
 
-One [Tower](Tower.md) to the west, just outside the
-[SOI](SOI.md)
+One [Tower](Towers.md) to the west, just outside the
+[SOI](Sphere_of_Influence.md)
 
 [Category:Facilities](Category:Facilities.md)

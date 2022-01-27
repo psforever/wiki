@@ -1,21 +1,21 @@
 ![](images/Lodestar.jpg "Lodestar.jpg")
 
-|                            |                                                                |
-| -------------------------- | -------------------------------------------------------------- |
-| **Type**                   | Vehicle Transport                                              |
-| **Role**                   | Vehicle Transport/Mobile Repair                                |
+|                            |                                                     |
+| -------------------------- | --------------------------------------------------- |
+| **Type**                   | Vehicle Transport                                   |
+| **Role**                   | Vehicle Transport/Mobile Repair                     |
 | **Certification Required** | [Air Support](Air_Support.md)                       |
 | **Empire**                 | [Common Pool](Common_Pool.md)                       |
-| **Primary Weapon**         | \-                                                             |
-| **Secondary Weapon**       | \-                                                             |
-| **Occupants**              | 1 (Pilot)                                                      |
-| **Handling**               | Very Poor                                                      |
+| **Primary Weapon**         | \-                                                  |
+| **Secondary Weapon**       | \-                                                  |
+| **Occupants**              | 1 (Pilot)                                           |
+| **Handling**               | Very Poor                                           |
 | **Top speed**              | 79 kph (150 kph with [Afterburner](Afterburner.md)) |
 
 **Lodestar**
 
 ![](images/Lodestar_NC.jpg "fig:Lodestar_NC.jpg") Lodestar carries an
-[AMS](AMS.md)\]\] The **Lodestar** is a massive, shoebox shaped
+[AMS](Advanced_Mobile_Station.md)\]\] The **Lodestar** is a massive, shoebox shaped
 aircraft designed to carry any vehicle and also act as a remote
 Repair/rearm.md station. Infantry may not be directly transported by the
 Lodestar, but must be inside a vehicle.
@@ -26,7 +26,7 @@ for survival, although the Lodestar does have an
 [Afterburner](Afterburner.md).
 
 Vehicles in transit may Hotdrop in a similar manner to infantry in a
-[Galaxy](Galaxy.md), (Default 'Alt-G') but must take extra care
+[Galaxy](vehicles/Galaxy.md), (Default 'Alt-G') but must take extra care
 to ensure the landing area is flat and driveable. Vehicles landing on
 rooftops, walls, walkways and railings face massive damage and
 desconstruction.

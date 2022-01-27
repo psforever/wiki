@@ -9,9 +9,9 @@ play however this year they've decided to change things up a bit, gone
 are the flying skulls and red glowing skies which have been replaced
 with the Spooktacular Bonus Experience Days. This years event will run
 from October 22nd through November 2nd, and feature some really howling
-experience gains. [Base](Facility.md) captures like you've never
+experience gains. [Base](Facilities.md) captures like you've never
 seen before, cavern captures that will make you want you want get that
-next [BFR](BFR.md) [imprint](imprint.md), and much more!
+next [BFR](BattleFrame_Robotics.md) [imprint](imprint.md), and much more!
 So go ahead and spend some time with us and let’s get that much needed
 [Battle Experience](Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](Battle_Rank.md) 40... If you dare!!!
@@ -25,7 +25,7 @@ without need of the [certification](certification.md) on
 
 - In true Halloween tradition, players will only be allowed to use a
   Knife to kill other players.
-- Players are urged to get proper [Implants](Implant.md)
+- Players are urged to get proper [Implants](Implants.md)
   before entering the zone such as [Darklight](Darklight.md)
   in order to see all apparitions.
 - The zone has limited [vehicles](vehicle.md).

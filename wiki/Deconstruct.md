@@ -2,7 +2,7 @@
 
 1.  When a player [Recalls](Recall.md), calls [Instant
     Action](Instant_Action.md), enters a [Respawn
-    tube](Respawn_tube.md), or accesses an
+    tube](Respawn_Tube.md), or accesses an
     [AMS's](Advanced_Mobile_Station.md) [Respawn
     panel](Respawn_panel.md) and dematerializes in a cloud of
     green nanite dust.
@@ -18,7 +18,7 @@
       [zipline](zipline.md).
     - Auto-deconstruction of a vehicle that has lost ownership. This
       occurs five minutes after ownership is lost
-      ([AMSes](AMS.md) have a 15 minute timer)
+      ([AMSes](Advanced_Mobile_Station.md) have a 15 minute timer)
     - Dematerializing of objects, such as
       [backpacks](backpack.md), in areas of heavy population
       or activity to reduce lag.

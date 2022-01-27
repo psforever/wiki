@@ -3,7 +3,7 @@
 Knights of the Old Republic is an [outfit](outfit.md) led by
 founders TRxTopDawg and TRxMadDawgx that fights for the [Terran
 Republic](Terran_Republic.md) on the
-[Emerald](Emerald.md) [Planetside](Planetside.md)
+[Emerald](Emerald.md) [Planetside](PlanetSide.md)
 server.
 
 They specialize in Heavy Infantry and Fast Response. Also known as KOTOR

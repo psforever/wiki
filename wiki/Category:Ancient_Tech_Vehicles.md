@@ -1,5 +1,5 @@
 This category is for article about [Ancient
-Tech](Ancient_Tech.md) vehicles, in other words, those requiring
+Tech](Ancient_Technology.md) vehicles, in other words, those requiring
 the [Core Combat](Core_Combat.md) expansion.
 
 All Ancient Tech vehicles are [Common Pool](Common_Pool.md).

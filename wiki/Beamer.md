@@ -1,17 +1,17 @@
 ![](images/PSScreenShot0293.jpg "fig:PSScreenShot0293.jpg") Soldier holding a
 Beamer\]\]
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                         |
+| -------------------------- | --------------------------------------- |
 | **Certification Required** | [Standard Assault](Standard_Assault.md) |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md) |
-| **Primary Mode**           | Standard Bolt                                      |
-| **Secondary Mode**         | Armor Piercing Bolt                                |
+| **Primary Mode**           | Standard Bolt                           |
+| **Secondary Mode**         | Armor Piercing Bolt                     |
 | **Ammunition**             | [Energy Cells](Energy_Cell.md)          |
-| **Range**                  | 200m                                               |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                             |
-| **Magazine Capacity**      | 16                                                 |
-| **Zoom**                   | x2                                                 |
+| **Range**                  | 200m                                    |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                  |
+| **Magazine Capacity**      | 16                                      |
+| **Zoom**                   | x2                                      |
 
 **Beamer**
 
@@ -32,12 +32,12 @@ Fire](Cone_of_Fire.md) than the standard mode.
 
 Shots to kill (Average on a close to medium range):
 
-|                                                          |                                             |
-| -------------------------------------------------------- | ------------------------------------------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 6 shots                                     |
-| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 7 shots                                     |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 9 shots                                     |
-| [MAX](MAX.md)                                 | 76 [AP](Armor_Piercing.md) shots |
+|                                               |                                  |
+| --------------------------------------------- | -------------------------------- |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 6 shots                          |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 7 shots                          |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 9 shots                          |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 76 [AP](Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](Implants.md) or [Empire

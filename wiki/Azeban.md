@@ -6,7 +6,7 @@
 
 **Capture Style -** [Hack-and-Hold](Hack-and-Hold.md)
 
-**Towers -** North Gun [Tower](Tower.md)
+**Towers -** North Gun [Tower](Towers.md)
 
 Azeban has [Lattice](Lattice.md) Links to:
 

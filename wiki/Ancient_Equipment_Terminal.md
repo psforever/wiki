@@ -1,7 +1,7 @@
 ![](images/AncientEquipmentTerminal.jpg "fig:AncientEquipmentTerminal.jpg") in
-the [Caverns](Cavern.md)\]\]
+the [Caverns](Caverns.md)\]\]
 
-Similar to a normal [Equipment terminal](Equipment_terminal.md),
+Similar to a normal [Equipment terminal](Equipment_Terminal.md),
 but looking vastly different, [Ancient Equipment
 Terminals](Ancient_Equipment_Terminal.md) are large, oddly
 shaped objects within the [Caverns](Core_Combat.md) which allows

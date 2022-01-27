@@ -1,11 +1,11 @@
 ![](images/9mmbullet.jpg "9mmbullet.jpg")
 
-|                          |                                                                                                                                                                                                                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                          |                                                                                                                                                                                                                         |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**              | [Automatic Machine Pistol](Automatic_Machine_Pistol.md) (AMP), [Repeater](Repeater.md), [Suppressor](Suppressor.md), [Cycler](Cycler.md), [Gauss](Gauss.md), [Punisher](Punisher.md), [Mini-Chaingun](Mini-Chaingun.md) |
-| **Empire**               | [Common Pool](Common_Pool.md)                                                                                                                                                                                                                                                             |
-| **Inventory dimensions** | 3x3                                                                                                                                                                                                                                                                                                  |
-| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                                                                                                           |
+| **Empire**               | [Common Pool](Common_Pool.md)                                                                                                                                                                                           |
+| **Inventory dimensions** | 3x3                                                                                                                                                                                                                     |
+| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                              |
 
 **9mm Bullet**
 
@@ -19,7 +19,7 @@ Suits](Infiltration_Suit.md) as well as
 [Agile](Agile_Exo-Suit.md), and [Reinforced
 Exo-suits](Reinforced_Exo-Suit.md). Standard 9mm Ammo is
 ineffective at damaging armored targets. While engaging such targets,
-[Armor Piercing 9mm Bullets](AP_9mm_Bullet.md) should be
+[Armor Piercing 9mm Bullets](Armour_Piercing_9mm_Bullet.md) should be
 employed.
 
 Since 9mm Bullets are for use in small arms, they can pass through the

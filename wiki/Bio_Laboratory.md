@@ -6,9 +6,9 @@ of the facility. The Bio Laboratory grants a faster
 facilities connected to it on the [Lattice](Lattice.md).
 
 The [Control Console](Control_Console.md) for this base is in
-the basement, level 1. The [LLU](LLU.md) Socket is located on
+the basement, level 1. The [LLU](Lattice_Logic_Unit.md) Socket is located on
 Basement Level 2 (below the research lab next to the [Respawn
-room](Respawn_room.md)}
+room](Spawn_Room.md)}
 
 Unique feature - medical room with an [Advanced Medical
 Terminal](Advanced_Medical_Terminal.md) and
@@ -20,18 +20,18 @@ of [Sanctuary](Sanctuary.md) with
 
 ## Base Facility Specs
 
-|                                                                                                                      |                                                 |
-| -------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [Control Console](Control_Console.md):                                                                    | Level 1                                         |
-| [Generator](Generator.md):                                                                                | Roof                                            |
-| [Spawn room](Respawn_room.md):                                                                            | Level 1                                         |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):                                                     | Courtyard                                       |
-| [BFR Shed](BFR_Shed.md):                                                                                  | Courtyard                                       |
+|                                                                                                |                                                 |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Control Console](Control_Console.md):                                                         | Level 1                                         |
+| [Generator](Generator.md):                                                                     | Roof                                            |
+| [Spawn room](Spawn_Room.md):                                                                   | Level 1                                         |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):                                          | Courtyard                                       |
+| [BFR Shed](BFR_Shed.md):                                                                       | Courtyard                                       |
 | [Certification Terminals](Certification_Terminal.md)/[Implant Terminals](Implant_Terminal.md): | Level 1                                         |
-| [Lattice Logic Unit](LLU.md) Socket:                                                                      | Basement                                        |
-| [Facility Linked Benefit](Facility_Linked_Benefit.md):                                                    | Reduce Respawn timer (benefit icon: spawn tube) |
-| [Wall Turrets](Phalanx.md):                                                                               | 6                                               |
-|                                                                                                                      |                                                 |
+| [Lattice Logic Unit](Lattice_Logic_Unit.md) Socket:                                            | Basement                                        |
+| [Facility Linked Benefit](Facility_Linked_Benefit.md):                                         | Reduce Respawn timer (benefit icon: spawn tube) |
+| [Wall Turrets](Phalanx.md):                                                                    | 6                                               |
+|                                                                                                |                                                 |
 
 ## Bio Laboratory Locations
 

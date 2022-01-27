@@ -7,8 +7,8 @@ For each zone, you have experience, spawn timer, and purchase timer
 bonuses. These only affect the current zone and are based on that zone's
 population levels. If the dominating empire does not have at least 50
 players on the zone, no zone bonuses are given. So for example, if
-[VS](VS.md) have 95% of the zone with 46 players and
-[NC](NC.md) has 5% with 4 players, that single player doesn't
+[VS](Vanu_Sovereignty.md) have 95% of the zone with 46 players and
+[NC](New_Conglomerate.md) has 5% with 4 players, that single player doesn't
 get a bonus because VS only have 46 players, which is 4 short of 50!
 
 If the dominating empire has over 50 players, then the bonus is
@@ -124,7 +124,7 @@ empire and your empire. The percentage levels and bonuses are:
 </table>
 
 The "Fractional Imbalance" = your empire / high empire. So if NC has 150
-players, your [TR](TR.md) empire has 90 players, and VS has
+players, your [TR](Terran_Republic.md) empire has 90 players, and VS has
 anywhere under 150, you are 90/150 = 60%. You are in the region between
 51% and 85%. That means you get 15% experience bonus, 20% faster
 respawn, and 20% faster purchase timers. This is only on your current

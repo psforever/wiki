@@ -2,24 +2,24 @@
 ![](images/Thresher_profile.jpg "fig:Thresher_profile.jpg") like the
 [Magrider](Magrider.md)\]\]
 
-|                            |                                                                                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Assault Buggy                                                                                     |
-| **Role**                   | Attack                                                                                                  |
+|                            |                                                                                   |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                               |
+| **Role**                   | Attack                                                                            |
 | **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](Light_Scout.md) |
-| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)                                                      |
-| **Primary Weapon**         | [Flux Cannon](Flux_Cannon.md)                                                                |
-| **Secondary Weapon**       | \-                                                                                                      |
-| **Ammunition Used**        | [Flux Battery](Flux_Battery.md)                                                              |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                   |
-| **Handling**               | Good                                                                                                    |
-| **Top speed**              | 85 kph (59 kph over water)                                                                              |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)                                           |
+| **Primary Weapon**         | [Flux Cannon](Flux_Cannon.md)                                                     |
+| **Secondary Weapon**       | \-                                                                                |
+| **Ammunition Used**        | [Flux Battery](Flux_Battery.md)                                                   |
+| **Occupants**              | 2 (Driver and Gunner)                                                             |
+| **Handling**               | Good                                                                              |
+| **Top speed**              | 85 kph (59 kph over water)                                                        |
 
 **Thresher**
 
 The **Thresher** and its capibility to hover makes it the fastest and
 most agile of all the empire specific [Assault
-buggies](Vehicle_Index.md#Buggies).
+buggies](category:_Vehicles.md#Buggies).
 
 Designed for a two-person crew, a driver and a gunner position are
 oriented side-by-side.

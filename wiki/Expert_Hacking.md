@@ -1,10 +1,10 @@
-|                        |                                                    |
-| ---------------------- | -------------------------------------------------- |
-| **Type**               | Equipment                                          |
-| **Provides Access To** | See below                                          |
+|                        |                                         |
+| ---------------------- | --------------------------------------- |
+| **Type**               | Equipment                               |
+| **Provides Access To** | See below                               |
 | **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md) |
-| **Required For**       | \-                                                 |
-| **Cert Point Cost**    | 2                                                  |
+| **Required For**       | \-                                      |
+| **Cert Point Cost**    | 2                                       |
 
 **Expert Hacking**
 
@@ -19,7 +19,7 @@ hackers](Advanced_Hacking.md), which includes the following:
   Panel](Matrix_Panel.md)
 - Boost [generator](generator.md) pain field damage by hacking
   the [Generator Terminal](Generator_Terminal.md)
-- Jack and use enemy [field turrets](OMFT.md) instead of just
+- Jack and use enemy [field turrets](One-Manned_Field_Turret.md) instead of just
   deconstructing them
 - Upgrade the [Aegis Shield
   Generator](Aegis_Shield_Generator.md) with enhanced radar

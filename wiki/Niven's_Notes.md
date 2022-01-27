@@ -129,14 +129,14 @@ Some notes to help use it:
   Category is ideal for this, in particular the
   [Punisher](Punisher.md) (EMP), and the
   [Sweeper](Sweeper.md). [Engineering](Engineering.md)
-  ([BANK](BANK.md)) will be useful to patch up splash damage
+  ([BANK](Body_Armor_Nano_Kit.md)) will be useful to patch up splash damage
   and rocket spam, as the Striker tends to attract a lot of this.
   [Combat Engineering](Combat_Engineering.md) compliments AV
   well, creating a well-rounded Anti Vehicle Specialist. [Special
   Assault](Special_Assault.md) provides access to the EMP
   loaded [Thumper](Thumper.md), which can disrupt vehicle
   guns, prior to oppening fire with the Striker. At a pinch, handheld
-  [Jammer grenades](Jammer_grenade.md) can help, but require
+  [Jammer grenades](Jammer_Grenade.md) can help, but require
   far more practice to land well. [Enhanced
   Targeting](Enhanced_Targeting.md) is the single most useful
   implant for a dedicated Striker user, allowing progress to be

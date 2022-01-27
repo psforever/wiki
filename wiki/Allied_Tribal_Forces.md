@@ -1,5 +1,5 @@
 ![](Oi_decal23_VS.md.gif "fig:Oi_decal23_VS.gif")\]\] **Allied Tribal
-Forces** is one of the oldest [VS](VS.md)
+Forces** is one of the oldest [VS](Vanu_Sovereignty.md)
 [Outfits](Outfit.md) forming August of 2002 in early preparation
 for the release of [PlanetSide](PlanetSide.md).
 

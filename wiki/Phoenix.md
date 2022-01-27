@@ -1,17 +1,17 @@
 ![](images/PSScreenShot0249.jpg "fig:PSScreenShot0249.jpg") Soldier with a
 Phoenix Missile Launcher\]\]
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                         |
+| -------------------------- | --------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular.md)     |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md) |
-| **Primary Mode**           | Camera Guided                                      |
-| **Secondary Mode**         | Dumb Fire                                          |
+| **Primary Mode**           | Camera Guided                           |
+| **Secondary Mode**         | Dumb Fire                               |
 | **Ammunition**             | [Phoenix Missile](Phoenix_Missile.md)   |
-| **Range**                  | 250 m or 6 sec flight time                         |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                              |
-| **Magazine Capacity**      | 1                                                  |
-| **Zoom**                   | 4x                                                 |
+| **Range**                  | 250 m or 6 sec flight time              |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                   |
+| **Magazine Capacity**      | 1                                       |
+| **Zoom**                   | 4x                                      |
 
 **Phoenix**
 
@@ -35,13 +35,13 @@ when the target is visible and stationary or in close proximity to the
 
 Shots to kill:
 
-|                                      |          |
-| ------------------------------------ | -------- |
-| [MAX](MAX.md)             | 3 shots  |
-| [Lightning](Lightning.md) | 6 shots  |
-| [Prowler](Prowler.md)     | 18 shots |
-| [Magrider](Magrider.md)   | 14 shots |
-| [Vanguard](Vanguard.md)   | 18 shots |
+|                                       |          |
+| ------------------------------------- | -------- |
+| [MAX](Mechanized_Assault_Exo-Suit.md) | 3 shots  |
+| [Lightning](Lightning.md)             | 6 shots  |
+| [Prowler](Prowler.md)                 | 18 shots |
+| [Magrider](Magrider.md)               | 14 shots |
+| [Vanguard](Vanguard.md)               | 18 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

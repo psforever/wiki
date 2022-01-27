@@ -1,10 +1,10 @@
-|                        |                                                                                                             |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Type**               | Equipment                                                                                                   |
+|                        |                                                                                                  |
+| ---------------------- | ------------------------------------------------------------------------------------------------ |
+| **Type**               | Equipment                                                                                        |
 | **Provides Access To** | Allows for revival of fallen teammates by use of the [Medical Applicator](Medical_Applicator.md) |
 | **Pre-requisite**      | [Medical](Medical.md)                                                                            |
-| **Required For**       | \-                                                                                                          |
-| **Cert Point Cost**    | 2                                                                                                           |
+| **Required For**       | \-                                                                                               |
+| **Cert Point Cost**    | 2                                                                                                |
 
 **Advanced Medical**
 
@@ -18,12 +18,12 @@ this is merely a bug.
 
 Revived characters have full health, but zero
 [Stamina](Stamina.md) and deactivated
-[Implants](Implant.md).
+[Implants](Implants.md).
 
 This [Certification](Certification.md) is required to obtain the
 [Combat Resuscitation](Combat_Resuscitation.md), [Resuscitation
 Medic](Resuscitation_Medic.md), and [Universal
 Soldier](Universal_Soldier.md) [Merit
-Commendations](Merit_Commendation.md).
+Commendations](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

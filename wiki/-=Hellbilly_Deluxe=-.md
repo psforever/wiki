@@ -1,4 +1,4 @@
-A cool [TR](TR.md) [Outfit](Outfit.md) on
+A cool [TR](Terran_Republic.md) [Outfit](Outfit.md) on
 [Markov](Markov.md)
 
 We use [Teamspeak](Teamspeak.md)

@@ -6,7 +6,7 @@ rather than immediately being transported to the target continent will
 be placed in the **Warp Queue**.
 
 The character's position in the queue is displayed in a small box on the
-[HUD](HUD.md) and overlaid on the [Continental
+[HUD](Heads-up_Display.md) and overlaid on the [Continental
 Map](Continental_Map.md). A 'cancel' button is also provided to
 allow players a chance to travel to a different zone. If the player
 chooses to cancel from the queue, he will lose his place in line. If the

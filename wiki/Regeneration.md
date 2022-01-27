@@ -7,7 +7,7 @@ hacking sequence if used while hacking (unlike
 [MedKits](MedKit.md) or someone healing you using the [Medical
 Applicator](Medical_Applicator.md)).
 
-Regeneration is represented on the [HUD](HUD.md) as a
+Regeneration is represented on the [HUD](Heads-up_Display.md) as a
 heart-shaped icon.
 
 [category:Implants](category:Implants.md)

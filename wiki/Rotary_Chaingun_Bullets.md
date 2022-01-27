@@ -1,9 +1,9 @@
-|                                             |                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Used by**                                 | [Harasser](Harasser.md), [Basilisk](Basilisk.md), [Leviathan](Leviathan.md), [Vindicator](Vindicator.md), [Juggernaut](Juggernaut.md), [Lightning](Lightning.md), [Mosquito](Mosquito.md), and [Marauder](Marauder.md). |
-| **Empire**                                  | [Common Pool](Common_Pool.md)                                                                                                                                                                                                                                                                        |
-| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                                                                                                                                                                                                                                             |
-| **Quantity per box**                        | 300 Rounds                                                                                                                                                                                                                                                                                                      |
+|                                  |                                                                                                                                                                                                                         |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                      | [Harasser](Harasser.md), [Basilisk](Basilisk.md), [Leviathan](Leviathan.md), [Vindicator](Vindicator.md), [Juggernaut](Juggernaut.md), [Lightning](Lightning.md), [Mosquito](Mosquito.md), and [Marauder](Marauder.md). |
+| **Empire**                       | [Common Pool](Common_Pool.md)                                                                                                                                                                                           |
+| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                                                                                                                                                     |
+| **Quantity per box**             | 300 Rounds                                                                                                                                                                                                              |
 
 **Rotary Chaingun Bullets**
 
@@ -12,7 +12,7 @@ These 12mm bullets are the most common vehicle ammo. The
 in their [Ballguns](Ballgun.md). It's also used on many other
 vehicles. The rounds are best used only against
 [infantry](infantry.md) as the damage is low. However, the
-bullets pass through the shields of [BFRs](BFR.md), giving you
+bullets pass through the shields of [BFRs](BattleFrame_Robotics.md), giving you
 the possibility of damaging some of its systems. The boxes can be
 obtained from any [Equipment Terminal](Equipment_Terminal.md) to
 be hand-loaded into the [vehicle](vehicle.md)'s

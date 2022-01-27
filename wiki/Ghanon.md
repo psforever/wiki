@@ -6,12 +6,12 @@ It has [Lattice](Lattice.md) Links to:
 
 - [Amp Station](Amp_Station.md) [Ixtab](Ixtab.md)
   ([Sub-Capitol](Sub-Capitol.md))
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Hurakan](Hurakan.md)
 - Interlink Facility [Kisin](Kisin.md)
 - [Amerish](Amerish.md) [Warpgate](Warpgate.md)
 
 Ghanon has an Air Tower to it's South East, which is outside it's
-[SOI](SOI.md). Ghanon is a Hack-and-Hold Facility.
+[SOI](Sphere_of_Influence.md). Ghanon is a Hack-and-Hold Facility.
 
 [Category:Facilities](Category:Facilities.md)

@@ -1,16 +1,16 @@
 ![](images/Nano_dispenser.jpg "fig:Nano_dispenser.jpg")\]\]
 
-|                            |                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Engineering](Engineering.md)                                                             |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                             |
-| **Primary Mode**           | Repair                                                                                               |
-| **Secondary Mode**         | \-                                                                                                   |
+|                            |                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| **Certification Required** | [Engineering](Engineering.md)                                                  |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                  |
+| **Primary Mode**           | Repair                                                                         |
+| **Secondary Mode**         | \-                                                                             |
 | **Ammunition**             | [Armor Canister](Armor_Canister.md) or [Upgrade Canister](Upgrade_Canister.md) |
-| **Range**                  | 5m                                                                                                   |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                |
-| **Magazine Capacity**      | 100                                                                                                  |
-| **Zoom**                   | None                                                                                                 |
+| **Range**                  | 5m                                                                             |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                          |
+| **Magazine Capacity**      | 100                                                                            |
+| **Zoom**                   | None                                                                           |
 
 **Nano Dispenser**
 
@@ -24,7 +24,7 @@ terminals](Certification_Terminal.md), [vehicle
 terminals](Vehicle_Terminal.md), [respawn
 tubes](Respawn_Tube.md), [TRAPs](TRAP.md), [Aegis Shield
 Generators](Aegis_Shield_Generator.md), [Motion
-Sensors](ACE.md#Motion_Sensor_Alarm), [Sensor
+Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm), [Sensor
 Disruptors](Sensor_Disruptor.md), [implant
 terminals](Implant_Terminal.md), and
 [generators](Generator.md). Just be sure to carry an extra ammo

@@ -30,6 +30,6 @@
 
 This [Certification](Certification.md) is required to obtain the
 [Rifleman](Rifleman.md) [Merit
-Commendation](Merit_Commendation.md).
+Commendation](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

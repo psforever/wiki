@@ -1,15 +1,15 @@
 ![](images/Rocklet_Rifle.jpg "Rocklet_Rifle.jpg")
 
-|                            |                                                                                                                  |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Special Assault](Special_Assault.md)                                                                 |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                         |
-| **Primary Mode**           | Single Fire                                                                                                      |
-| **Secondary Mode**         | Rapid Succession Fire                                                                                            |
+|                            |                                                                                            |
+| -------------------------- | ------------------------------------------------------------------------------------------ |
+| **Certification Required** | [Special Assault](Special_Assault.md)                                                      |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                              |
+| **Primary Mode**           | Single Fire                                                                                |
+| **Secondary Mode**         | Rapid Succession Fire                                                                      |
 | **Ammunition**             | [Rocket Pod](Rocket_Pod.md) or [Fragmentation Grenade Pack](Fragmentation_Grenade_Pack.md) |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                            |
-| **Magazine Capacity**      | 6                                                                                                                |
-| **Zoom**                   | 2x                                                                                                               |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                      |
+| **Magazine Capacity**      | 6                                                                                          |
+| **Zoom**                   | 2x                                                                                         |
 
 **Rocklet Rifle**
 
@@ -22,10 +22,10 @@ rapid succession. However, this mode is considerably less accurate than
 the primary setting and as such is best relegated for use in short to
 medium-short range.
 
-One of the best uses for this weapon is to clear [ACE](ACE.md)
+One of the best uses for this weapon is to clear [ACE](Adaptive_Construction_Engine.md)
 devices. It can take out a spitfire easily while being outside of its
 firing radius. It can also detonate mines with one direct rocklet hit.
-When in secondary fire mode, you can deprive a [MAX](MAX.md)
+When in secondary fire mode, you can deprive a [MAX](Mechanized_Assault_Exo-Suit.md)
 unit of all armor in mere seconds, leaving it vulnerable to other
 friendlies to finish it off. It's best to turn auto-reload off when
 using this weapon, so you can switch to a secondary weapon to finish
@@ -47,12 +47,12 @@ Pack](Fragmentation_Grenade_Pack.md)
 
 Shots to kill (Direct hit with rocklet):
 
-|                                                          |          |
-| -------------------------------------------------------- | -------- |
+|                                               |          |
+| --------------------------------------------- | -------- |
 | [Standard Exo-Suit](Standard_Exo-Suit.md)     | 3 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit.md)           | 4 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 6 shots  |
-| [MAX](MAX.md)                                 | 10 shots |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 10 shots |
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Weapons](Category:Weapons.md) [Category:Common Pool

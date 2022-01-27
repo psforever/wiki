@@ -1,4 +1,4 @@
-The [Planetside](Planetside.md) Italian
+The [Planetside](PlanetSide.md) Italian
 [Outfit](Outfit.md).
 
 Se siete Italiani questa è l'outfit che che fa per voi, composta solo da

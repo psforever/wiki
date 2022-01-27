@@ -1,17 +1,17 @@
 ![](images/ACEPicture.jpg "fig:ACEPicture.jpg") Soldier holding an ACE\]\]
 
-|                            |                                                                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Combat Engineering](Combat_Engineering.md)                                                                                                       |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                                                     |
-| **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](<#Remote-Detonated_Charge_(Boomer)>)                                                                     |
+|                            |                                                                                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Combat Engineering](Combat_Engineering.md)                                                                                            |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                                          |
+| **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](<#Remote-Detonated_Charge_(Boomer)>)                                                          |
 | **Secondary Mode**         | Deploy [High Explosive Mine](#High_Explosive_Mine) or [Disruptor Mine](Disruptor_Mine.md) (Selectable with the "Change Ammo" function) |
-| **Tertiary Mode**          | Deploy [Spitfire Turret](#Spitfire_Turret), [Cerberus Turret](Cerberus_Turret.md) or [Shadow Turret](Shadow_Turret.md)      |
+| **Tertiary Mode**          | Deploy [Spitfire Turret](#Spitfire_Turret), [Cerberus Turret](Cerberus_Turret.md) or [Shadow Turret](Shadow_Turret.md)                 |
 | **Quaternary Mode**        | Deploy [Motion Sensor](#Motion_Sensor_Alarm) or [Sensor Disruptor](Sensor_Disruptor.md)                                                |
-| **Ammunition**             | 1 Unit                                                                                                                                                       |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                                                                       |
-| **Magazine Capacity**      | 1 use per unit                                                                                                                                               |
-| **Zoom**                   | None                                                                                                                                                         |
+| **Ammunition**             | 1 Unit                                                                                                                                 |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                                                 |
+| **Magazine Capacity**      | 1 use per unit                                                                                                                         |
+| **Zoom**                   | None                                                                                                                                   |
 
 **Adaptive Construction Engine (ACE)**
 
@@ -47,10 +47,10 @@ Originally intended to be used as a perimeter control device,
 [Cloakers](Infiltration_Suit.md) and other enterprising
 induviduals have adapted them to be used as offensive weapons,
 particularly useful for destroying [generators](generator.md)
-and [Respawn tubes](Respawn_tube.md). Boomers can be attached to
+and [Respawn tubes](Respawn_Tube.md). Boomers can be attached to
 almost any static surface, indoors or out, and as long as the trigger
 remains intact, will remain in position, ready to be detonated. Boomers
-can be detonated by [Jammer grenades](Jammer_grenade.md) and
+can be detonated by [Jammer grenades](Jammer_Grenade.md) and
 [EMPs](EMP.md). Friendly Boomers are indicated by a green ring
 surrounding the deployed Boomer, and will not detonate to friendly
 jammers/EMPs. Up to 20 Boomers may be deployed by a single Combat
@@ -63,7 +63,7 @@ proximity mine fortunately can tell friend from foe, but that's about
 it. Lay and pray is the motto to follow after deploying this devestating
 weapon. Harmful to both infantry and [vehicle](vehicle.md)
 alike, the weapons litter the battlefields. While not as versatile as
-[Boomers](ACE.md#Boomer) (they cannot be deployed indoors and
+[Boomers](Adaptive_Construction_Engine.md#Boomer) (they cannot be deployed indoors and
 cannot be remotely detonated), they make up for it in sheer force.
 Susceptible to standard fire, Jammers and [EMP](EMP.md) blasts,
 the weapons are easily enough destroyed. Like
@@ -79,12 +79,12 @@ this deployable turret is a common sight on the battlefield. Set to
 automatically fire at any adversary (soldier or
 [vehicle](vehicle.md)), the "Spit" is a dangerous battlefield
 obstacle. [EMPs](EMP.md) and [Jammer
-grenades](Jammer_grenade.md) will disable them for a short
+grenades](Jammer_Grenade.md) will disable them for a short
 period of time. Other methods of bypassing them include walking (default
 by holding left shift) and crouch walking (This DOES NOT work when the
-Spitfire Turret is inside a [Facility](Facility.md)
-[SOI](SOI.md) that has the
-[Interlink](Interlink_Facility.md) Benefit), or using [Sensor
+Spitfire Turret is inside a [Facility](Facilities.md)
+[SOI](Sphere_of_Influence.md) that has the
+[Interlink](Interlink.md) Benefit), or using [Sensor
 Shield](Sensor_Shield.md). Be aware however, using a weapon or
 taking damage (ie from falling) will reveal your presence to the
 spitfire regardless of sensor shield or crouch walking, and it will fire
@@ -114,7 +114,7 @@ the sensor net can be extended. In addition, motion sensors can detect
 cloaked and radar-supressive units. This can be counteracted by the
 [Sensor Shield](Sensor_Shield.md)
 [Implant](Implants.md). Motion sensors can be disrupted using
-[Jammer grenades](Jammer_grenade.md) and Command
+[Jammer grenades](Jammer_Grenade.md) and Command
 [EMPs](EMP.md), however these will not destroy them. Up to 20
 Motion Sensors can be deployed by a single Combat Engineer at any one
 time.

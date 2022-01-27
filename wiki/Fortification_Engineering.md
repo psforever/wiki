@@ -43,7 +43,7 @@ Engineering](Assault_Engineering.md).
 
 This certification is designed for defensive Engineering, and therefor
 comes with Deployables that make it harder for Enemies to get inside
-[Facilities](Facility.md) and [Towers](Tower.md), as
+[Facilities](Facilities.md) and [Towers](Towers.md), as
 well as Upgrading abilities for defensive structures like
 [Phalanx](Phalanx.md) Wall Turrets.
 
@@ -140,7 +140,7 @@ The Deployable numbers will be upgraded to:
 
 Fortification Engineers use [Armor Canisters](Armor_Canister.md)
 more efficiently, resulting in increased repair efficiency for
-[MAXes](MAX.md) (1.5x, from 12 to 18), equipment, and
+[MAXes](Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18), equipment, and
 [vehicles](vehicles.md) (2x, from 32 to 64) over that of a
 standard engineer.
 

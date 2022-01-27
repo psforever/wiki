@@ -7,7 +7,7 @@ Driving Area.
 ## Shooting Range
 
 The Shooting Range contains a set of [Equipment
-terminals](Equipment_terminal.md) and a large area populated
+terminals](Equipment_Terminal.md) and a large area populated
 with holographic enemy infantry, MAX Units and light vehicles.
 
 While in the Shooting Range, all

@@ -4,6 +4,6 @@ Terminals](Implant_Terminal.md), [Medical
 Terminals](Medical_Terminal.md), [Certification
 Terminals](Certification_Terminal.md),
 [Lockers](Lockers.md), and [Equipment
-terminals](Equipment_terminal.md) inside.
+terminals](Equipment_Terminal.md) inside.
 
 [Category:Locations](Category:Locations.md)

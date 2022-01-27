@@ -5,9 +5,9 @@ Republic](Terran_Republic.md).
 
 Flight variants are single-pilot BFRs with a flight pack on their backs
 to allow the BFR to fly vertically for a short amount of time (in a
-similar manner to the [VS](VS.md) [MAX](MAX.md) units'
+similar manner to the [VS](Vanu_Sovereignty.md) [MAX](Mechanized_Assault_Exo-Suit.md) units'
 jump-jets). The flight systems are powered by the "BFR capacitor", which
-is measured with a small bar on the player's [HUD](HUD.md). The
+is measured with a small bar on the player's [HUD](Heads-up_Display.md). The
 capacitor recharges over time when the flight systems are not in use.
 When a flight variant uses its flight systems, the shields are
 deactivated for the entire time the BFR is in the air, reactivating once

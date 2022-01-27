@@ -13,9 +13,9 @@ It has [Lattice](Lattice.md) Links to:
 - [Bio Laboratory](Bio_Laboratory.md)
   [Zaqar](Zaqar.md)
 
-It is a [LLU](LLU.md) [Facility](Facility.md) with a
+It is a [LLU](Lattice_Logic_Unit.md) [Facility](Facilities.md) with a
 [Gun tower](Gun_tower.md) to its north, just outside of its
-[Sphere of Influence](SOI.md).
+[Sphere of Influence](Sphere_of_Influence.md).
 
 ## Trivia
 

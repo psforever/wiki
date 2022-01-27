@@ -13,14 +13,14 @@ guns, but are five stories and feature a middle “balcony”.
 
 Any veteran will tell you that holding a facilties tower is a key point
 to taking the facility. They provide a spawn location near an enemy
-facility, much like an [AMS](AMS.md). A tower, though in a fixed
-location at the edge of a facilites [SOI](SOI.md), has several
+facility, much like an [AMS](Advanced_Mobile_Station.md). A tower, though in a fixed
+location at the edge of a facilites [SOI](Sphere_of_Influence.md), has several
 advantages over an AMS. First off, it has it's own SOI, meaning enemy's
-can't drop certain [CE](ACE.md) devices just outside the door.
+can't drop certain [CE](Adaptive_Construction_Engine.md) devices just outside the door.
 Also, since it's a structure, it can't be destroyed, and protects
 infantry from [OSs](Orbital_Strike.md) and vehicles. One of it's
 biggest advantages, however, is that it allows access to
-[MAX](MAX.md) suits, a feature that the AMS is lacking.
+[MAX](Mechanized_Assault_Exo-Suit.md) suits, a feature that the AMS is lacking.
 
 ## Defending
 

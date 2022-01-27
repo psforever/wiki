@@ -60,6 +60,6 @@ to Outfit._
 - **7. Non-Officer Rank 2**
 - **8. Non-Officer Rank 1**
 
-For information on specific Outfits, see [Outfits](Outfits.md)
+For information on specific Outfits, see [Outfits](List_of_Outfits.md)
 
 [\*](Category:Outfits.md)

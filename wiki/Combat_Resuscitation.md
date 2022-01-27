@@ -220,7 +220,7 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md) is awarded for
+This [Merit Commendation](Merit_Commendations.md) is awarded for
 kills made by friendly soldiers after they have been killed by enemy
 fire and [Revived](Revive.md) by you, using a [Medical
 Applicator](Medical_Applicator.md). The tracker starts after the

@@ -13,6 +13,6 @@ See [Home Continent](Home_Continent.md) for the current empire
 sanctuary links.
 
 Mulac is a Hack-and-Hold Facility with an Air Tower to its North West,
-outside of its [SOI](SOI.md).
+outside of its [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

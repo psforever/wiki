@@ -1,1 +1,0 @@
-1.  REDIRECT [Battle Islands](Battle_Islands.md)

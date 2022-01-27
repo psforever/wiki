@@ -13,7 +13,7 @@ is running low, and Red is critical need for more NTUs).
 A Status Bar type display is also located on the front of the Silo,
 informing all units of the facilities current NTU status at a glance.
 
-The [BFR](BFR.md) [NTU Siphon](NTU_Siphon.md) weapon
+The [BFR](BattleFrame_Robotics.md) [NTU Siphon](NTU_Siphon.md) weapon
 system can be used in front of this silo to charge itself, and drain the
 base in the process. It can also deposit NTUs back into friendly bases.
 

@@ -1,9 +1,9 @@
-|                                             |                                                                                                                |
-| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Used by**                                 | [Peregrine](Peregrine.md) and [Eagle](Eagle.md) using the [Hammer](Hammer.md) |
-| **Empire**                                  | [New Conglomerate](New_Conglomerate.md)                                                             |
-| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                                            |
-| **Quantity per box**                        | 165 Rounds                                                                                                     |
+|                                  |                                                                               |
+| -------------------------------- | ----------------------------------------------------------------------------- |
+| **Used by**                      | [Peregrine](Peregrine.md) and [Eagle](Eagle.md) using the [Hammer](Hammer.md) |
+| **Empire**                       | [New Conglomerate](New_Conglomerate.md)                                       |
+| **[Trunk](Trunk.md) dimensions** | 4x4                                                                           |
+| **Quantity per box**             | 165 Rounds                                                                    |
 
 **Peregrine Hammer Ammunition**
 
@@ -13,7 +13,7 @@ anti-infantry pilot weapon of the [Peregrine](Peregrine.md) and
 medium range provided you manage the spread setting of the Hammer
 weapon. The boxes can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
-[BFR](BFR.md)'s [trunk](trunk.md) or acquired while in
+[BFR](BattleFrame_Robotics.md)'s [trunk](trunk.md) or acquired while in
 the BFR from a [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)

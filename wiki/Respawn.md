@@ -1,7 +1,7 @@
 Respawning occurs after one has voluntarily
 [deconstructed](deconstruct.md), or died and "released" their
 corpse. A player will then reappear in a [Respawn
-tube](Respawn_tube.md) or
+tube](Respawn_Tube.md) or
 [AMS](Advanced_Mobile_Station.md) cloak bubble, wearing a
 [Standard Exo-Suit](Standard_Exo-Suit.md) and minimal weapons
 and ammo.
@@ -15,8 +15,8 @@ Module](Speed_Module.md) benefits.
 Respawning is sometimes refered to simply as Spawning.
 
 A player typically has 4 spawn points: the closest friendly-controlled
-[base](base.md), [tower](tower.md), and
-[AMS](AMS.md), if they exist, in addition to the
+[base](Facilities.md), [tower](tower.md), and
+[AMS](Advanced_Mobile_Station.md), if they exist, in addition to the
 [Sanctuary](Sanctuary.md), which is always available. If the
 player has [bound](bind.md) to an AMS and/or base, or has an
 active [Squad Home Base](Squad_Home_Base.md), he/she may respawn

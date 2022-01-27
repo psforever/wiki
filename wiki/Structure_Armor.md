@@ -97,7 +97,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[BFR Terminal](BFR_Terminal.md)
+[BFR Terminal](BFR_Shed.md)
 
 </td>
 <td align="center">
@@ -216,7 +216,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Motion Sensor](ACE.md#Motion_Sensor_Alarm)
+[Motion Sensor](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm)
 
 </td>
 <td align="center">
@@ -284,7 +284,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Spitfire Turret](ACE.md#Spitfire_Turret)
+[Spitfire Turret](Adaptive_Construction_Engine.md#Spitfire_Turret)
 
 </td>
 <td align="center">
@@ -335,7 +335,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Wall Turret](Wall_Turret.md)
+[Wall Turret](Phalanx.md)
 
 </td>
 <td align="center">

@@ -4,7 +4,7 @@ and is to the East inside grids P9, Q9, P10 and Q10.
 
 It has [Lattice](Lattice.md) Links to:
 
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Irkalla](Irkalla.md)
 - [Bio Laboratory](Bio_Laboratory.md)
   [Lahar](Lahar.md)
@@ -12,8 +12,8 @@ It has [Lattice](Lattice.md) Links to:
 - A Broadcast [Warpgate](Warpgate.md)
 
 It is a [Hack-and-Hold](Hack-and-Hold.md)
-[Facility](Facility.md) with a [Watch
+[Facility](Facilities.md) with a [Watch
 tower](Watch_tower.md) to it's northwest, just outside of its
-[SOI](SOI.md).
+[SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

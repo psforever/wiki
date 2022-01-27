@@ -35,8 +35,8 @@
 </table>
 
 This [Exclusive](Exclusive_Merit_Commendations.md) [Merit
-Commendation](Merit_Commendation.md) is awarded to players at
-the discretion of [SOE](SOE.md) Quality Assurance team members,
+Commendation](Merit_Commendations.md) is awarded to players at
+the discretion of [SOE](Sony_Online_Entertainment.md) Quality Assurance team members,
 based on continuous voluntary assistance to the
 [PlanetSide](PlanetSide.md) [QA](QA.md) team.
 

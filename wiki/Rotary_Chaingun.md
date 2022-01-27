@@ -1,15 +1,15 @@
-|                            |                                                                                    |
-| -------------------------- | ---------------------------------------------------------------------------------- |
+|                            |                                                                         |
+| -------------------------- | ----------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Infantry](BFR_Anti-Infantry.md)                               |
 | **Empire**                 | [Terran Republic](Terran_Republic.md)                                   |
-| **Primary Mode**           | Rotary Chaingun                                                                    |
-| **Secondary Mode**         | \-                                                                                 |
+| **Primary Mode**           | Rotary Chaingun                                                         |
+| **Secondary Mode**         | \-                                                                      |
 | **Ammunition**             | [Colossus Rotary Chaingun Bullets](Colossus_Rotary_Chaingun_Bullets.md) |
-| **Range**                  | 250m                                                                               |
-| **Inventory Dimensions**   | [BFR](BFR.md) Pilot Weapon                                              |
-| **Magazine Capacity**      | 125                                                                                |
-| **Zoom**                   | 2x                                                                                 |
-|                            |                                                                                    |
+| **Range**                  | 250m                                                                    |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Pilot Weapon                             |
+| **Magazine Capacity**      | 125                                                                     |
+| **Zoom**                   | 2x                                                                      |
+|                            |                                                                         |
 
 **Rotary Chaingun**
 

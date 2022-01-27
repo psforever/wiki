@@ -7,7 +7,7 @@ other, as well as receive information regarding the current battle.
 The main interface of the in-game chat system. This is where all
 communication is sent and received.
 
-(See Also: [HUD Chat Pane](HUD.md#Status_&_Chat_Pane))
+(See Also: [HUD Chat Pane](Heads-up_Display.md#Status_&_Chat_Pane))
 
 ## Sections
 
@@ -94,8 +94,8 @@ information and status. They are white in color by default. Typical
 messages include:
 
 - Character has been saved
-- [Cavern](Cavern.md) closure warnings and/or notices
-- [Implant](Implant.md) Status
+- [Cavern](Caverns.md) closure warnings and/or notices
+- [Implant](Implants.md) Status
 - System errors
 
 ## Tactical Information
@@ -103,7 +103,7 @@ messages include:
 These messages are the same color as System Messages, but provide
 tactical information pertinent to the empire. Messages include:
 
-- [LLU](LLU.md) Messages
+- [LLU](Lattice_Logic_Unit.md) Messages
 - Facility Capture Messages
 - [Continental Capture](Continental_lock.md) Messages
 - [Empire Benefit](Empire_Benefit.md) Messages (typically in
@@ -150,7 +150,7 @@ colors, and information about each.
     channel to you
 - Broadcast - <font color="#C0C0FF">Purple</font> - Channel used for
   communicating to all friendly soldiers within the same friendly
-  [SOI](SOI.md) or continental wide if continent is
+  [SOI](Sphere_of_Influence.md) or continental wide if continent is
   [locked](Continental_lock.md) by the player's own empire.
 - [Private](Tell.md) - <font color="#66CCFF">Blue</font> -
   Used for private communication between players. Can be used to
@@ -178,9 +178,9 @@ colors, and information about each.
   send to Commanders that are one level above him, also use this
   color.
   - Command Rank 2 - Small range, close to the range of an
-    [SOI](SOI.md)
+    [SOI](Sphere_of_Influence.md)
   - Command Rank 3 - Medium range, close to about 3
-    [SOIs](SOI.md)
+    [SOIs](Sphere_of_Influence.md)
   - Command Rank 4 - Continental range, seen by all CR4 soldiers on
     the same continent
   - Command Rank 5 - Global range, seen by all CR5 soldiers on the

@@ -1,16 +1,16 @@
 ![](images/HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
+|                            |                               |
+| -------------------------- | ----------------------------- |
 | **Certification Required** | [Sniping](Sniping.md)         |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Primary Mode**           | Semi-Automatic                           |
-| **Secondary Mode**         | \-                                       |
+| **Primary Mode**           | Semi-Automatic                |
+| **Secondary Mode**         | \-                            |
 | **Ammunition**             | [Bolt](Bolt.md)               |
-| **Range**                  | Visual rendering distance                |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                    |
-| **Magazine Capacity**      | 10                                       |
-| **Zoom**                   | 2, 4 and 8x                              |
+| **Range**                  | Visual rendering distance     |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)         |
+| **Magazine Capacity**      | 10                            |
+| **Zoom**                   | 2, 4 and 8x                   |
 
 **Heavy Scout Rifle (HSR)**
 
@@ -33,12 +33,12 @@ may obtain it by purchasing the [Sniping](Sniping.md)
 
 Shots to kill:
 
-|                                                          |          |
-| -------------------------------------------------------- | -------- |
+|                                               |          |
+| --------------------------------------------- | -------- |
 | [Standard Exo-Suit](Standard_Exo-Suit.md)     | 3 shots  |
 | [Agile Exo-Suit](Agile_Exo-Suit.md)           | 4 shots  |
 | [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 5 shots  |
-| [MAX](MAX.md)                                 | 27 shots |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 27 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](Implants.md) or [Empire

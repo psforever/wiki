@@ -1,6 +1,6 @@
 A **unique kill** is the in-game term used to tally kills that count
 towards things such as [Merit
-Commendations](Merit_Commendation.md) and
+Commendations](Merit_Commendations.md) and
 [Assists](Assist.md).
 
 There are two basic criteria that determine if a kill is counted as a

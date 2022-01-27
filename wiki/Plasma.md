@@ -17,17 +17,17 @@ green fire can be applied to a large group very quickly via hand
 [grenades](grenade.md), the [Thumper](Thumper.md), or
 the [Punisher](Punisher.md).
 
-## [VS](VS.md) [MAX](MAX.md) Plasma
+## [VS](Vanu_Sovereignty.md) [MAX](Mechanized_Assault_Exo-Suit.md) Plasma
 
 These aggravated-damage plasma fields are
 [Anti-Vehicular](Anti-Vehicular.md) in nature, being distributed
 by the orbs of the [Starfire](Starfire.md) and
-[Comet](Comet.md) [MAXes](MAX.md), as well as the
+[Comet](Comet.md) [MAXes](Mechanized_Assault_Exo-Suit.md), as well as the
 [Starfire BFR Weapon](<Starfire_(BFR)>) of the [Vanu
 Sovereignty](Vanu_Sovereignty.md). Soldiers taking damage from
 this type of plasma glow purple.
 
-## [BFR](BFR.md) [Plasma Mortars](Plasma_Mortar.md)
+## [BFR](BattleFrame_Robotics.md) [Plasma Mortars](Plasma_Mortar.md)
 
 A Gunner weapon only, these are long-range ballistic mortars intended to
 injure [infantry](infantry.md). Soldiers taking damage from this

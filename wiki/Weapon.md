@@ -55,7 +55,7 @@ such a requirement.
 ### Equipment Terminal
 
 After a player has the correct [certification](certification.md)
-or [Merit](Merit_Commendation.md), they must purchase the
+or [Merit](Merit_Commendations.md), they must purchase the
 weapons from an [equipment terminal](equipment_terminal.md). In
 addition to this, when they purchase a weapon, to be able to use it,
 they must have the correct type of holster in their armor.
@@ -111,7 +111,7 @@ There are exceptions to this rule, but this is generally speaking.
 Also, many weapons have two types of ammo: standard ammo and AP ammo.
 Standard ammo is white in color, and is designed to take out other
 infantry. AP ammo is gold in color, and is designed to take out enemy
-[MAX](MAX.md)'s and [vehicles](vehicle.md). The only
+[MAX](Mechanized_Assault_Exo-Suit.md)'s and [vehicles](vehicle.md). The only
 weapons with these sorts of restrictions are [Standard
 Assault](Standard_Assault.md), [Medium
 Assault](Medium_Assault.md), and [Heavy
@@ -201,7 +201,7 @@ incredibly accurate, and can be used for some long range work. However,
 generally, if a player has a certification above Standard Assault, they
 don't want to be using the Suppressor. A player spawns with the
 Suppressor when they first spawn out of a [Spawn
-Tube](Spawn_Tube.md) or [AMS](AMS.md).
+Tube](Respawn_Tube.md) or [AMS](Advanced_Mobile_Station.md).
 
 ### Medium Assault
 
@@ -411,7 +411,7 @@ fire mode.
 
 Because the Phoenix does do quite a bit of damage, comparable to the
 Decimator, the Phoenix can be utilized quite effectively indoors against
-[MAX](MAX.md)'s. It operates pretty much as a reloadable
+[MAX](Mechanized_Assault_Exo-Suit.md)'s. It operates pretty much as a reloadable
 Decimator indoors, which means it has a slightly higher time to kill,
 but can still be effective in a pinch. It is probably the most effective
 of the three empire-specific anti-vehicular weapons indoors.
@@ -433,7 +433,7 @@ which launches dumbfire missiles.
 
 The [Decimator](Decimator.md) is more of a short range
 anti-vehicular weapon, and is more designed to be used against
-[MAX](MAX.md) units. The Decimator is a 3 shot non-reloadable
+[MAX](Mechanized_Assault_Exo-Suit.md) units. The Decimator is a 3 shot non-reloadable
 rocket launcher which fires only dumbfire missiles which do a
 considerable amount of damage. The Decimator kills full-health MAX Units
 in three shots, and, while it is difficult to hit moving vehicles,
@@ -501,7 +501,7 @@ explode on contact and time-fuse grenades.
 ### Hand Held Grenades
 
 These are hand held versions of the [Jammer
-grenade](Jammer_grenade.md), [Fragmentation
+grenade](Jammer_Grenade.md), [Fragmentation
 grenade](Fragmentation_grenade.md), and [Plasma
 grenade](Plasma_grenade.md) grenades which are also used in the
 [Thumper](Thumper.md) and the [Punisher](Punisher.md).

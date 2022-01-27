@@ -24,7 +24,7 @@ Note that this [Event](Event.md) is only going to run on the
 [Emerald](Emerald.md) [Server](Server.md) due to the
 time constraints."
 
-Information about the Event released by [SOE](SOE.md) so far.
+Information about the Event released by [SOE](Sony_Online_Entertainment.md) so far.
 
 - [Syndicate
   Thread](http://comms.planetsidesyndicate.com/showthread.php?t=1688/)

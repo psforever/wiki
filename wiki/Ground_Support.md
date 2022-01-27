@@ -40,6 +40,6 @@ This [Certification](Certification.md) is required to obtain the
 Support](Router_Support.md), [Universal
 Soldier](Universal_Soldier.md) and [Vehicle Support
 Specialist](Vehicle_Support_Specialist.md) [Merit
-Commendations](Merit_Commendation.md).
+Commendations](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

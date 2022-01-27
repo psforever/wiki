@@ -69,7 +69,7 @@ _Surface [continents](continent.md):_
 - **[Solsar](Solsar.md)** - **Grid:** I-5 (Just East of the
   big hill)
 
-_[Caverns](Cavern.md):_
+_[Caverns](Caverns.md):_
 
 - **[Adlivun](Adlivun.md)** - **Grid:** I-11 (In the middle)
 - **[Annwn](Annwn.md)** - **Grid:** L-14 (In the tunnel)

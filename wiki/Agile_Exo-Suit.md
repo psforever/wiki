@@ -11,17 +11,17 @@ Exo-Suit](Agile_Exo-Suit.md) at, from left the right, [Battle
 Rank](Battle_Rank.md) 1, 7, 14 and 25\]\]
 
 ![](images/Agile_Inventory.jpg "fig:Agile_Inventory.jpg"), [Medical
-Applicator](Medical_Applicator.md), [BANK](BANK.md),
-[REK](REK.md), and [CUD](CUD.md)\]\]
+Applicator](Medical_Applicator.md), [BANK](Body_Armor_Nano_Kit.md),
+[REK](Remote_Electronics_Kit.md), and [CUD](CUD.md)\]\]
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Certification Required** | None                                     |
+|                            |                               |
+| -------------------------- | ----------------------------- |
+| **Certification Required** | None                          |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Armor**                  | 100                                      |
-| **Pistol Holsters**        | 2                                        |
-| **Rifle Holsters**         | 1                                        |
-| **Inventory Dimensions**   | 9 x 9                                    |
+| **Armor**                  | 100                           |
+| **Pistol Holsters**        | 2                             |
+| **Rifle Holsters**         | 1                             |
+| **Inventory Dimensions**   | 9 x 9                         |
 
 **Agile Exo-Suit**
 

@@ -12,7 +12,7 @@ threats, although most air-based foes are similarly equipped.
 
 Afterburners are equipped in:
 
-- [Galaxy](Galaxy.md)
+- [Galaxy](vehicles/Galaxy.md)
 - [Lodestar](Lodestar.md)
 - [Mosquito](Mosquito.md)
 - [Phantasm](Phantasm.md)

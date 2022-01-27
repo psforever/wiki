@@ -1,17 +1,17 @@
 ![](images/Bolt_driver.jpg "fig:Bolt_driver.jpg") [Rexo](Rexo.md)
 wields a Bolt Driver in [Byblos](Byblos.md)\]\]
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
+|                            |                               |
+| -------------------------- | ----------------------------- |
 | **Certification Required** | [Sniping](Sniping.md)         |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Primary Mode**           | Single Shot                              |
-| **Secondary Mode**         | \-                                       |
+| **Primary Mode**           | Single Shot                   |
+| **Secondary Mode**         | \-                            |
 | **Ammunition**             | [Bolt](Bolt.md)               |
-| **Range**                  | Visual rendering distance                |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                    |
-| **Magazine Capacity**      | 1                                        |
-| **Zoom**                   | 8x                                       |
+| **Range**                  | Visual rendering distance     |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)         |
+| **Magazine Capacity**      | 1                             |
+| **Zoom**                   | 8x                            |
 
 **Bolt Driver**
 
@@ -31,10 +31,10 @@ health per shot vs [Agile Exo-Suit](Agile_Exo-Suit.md), and 65
 points vs [Reinforced Exo-Suit](Reinforced_Exo-Suit.md))
 
 It is little more than a nuisance to
-[MAX's](Mechanized_Armored_Exo-Suit.md), causing 50 points of
+[MAX's](Mechanized_Assault_Exo-Suit.md), causing 50 points of
 damage to their armor (or health when the
-[MAX](Mechanized_Armored_Exo-Suit.md)'s armor has been drained),
-and likely not even noticed by [vehicles](Vehicle_Index.md) and
+[MAX](Mechanized_Assault_Exo-Suit.md)'s armor has been drained),
+and likely not even noticed by [vehicles](category:_Vehicles.md) and
 [Phalanx](Phalanx.md) turrets (unless extremely damaged). The
 large caliber bolt can, however, pass through [BattleFrame
 Robotics](BattleFrame_Robotics.md)' shields and can do

@@ -3,17 +3,17 @@
 
 ## Continental Data
 
-|                                             |                                                                             |
-| ------------------------------------------- | --------------------------------------------------------------------------- |
-| Category:                                   | Heavy Vulcanism                                                             |
-| Climate:                                    | Tropical                                                                    |
-| Landmass:                                   | Continent                                                                   |
-| Terrain:                                    | Volcanic pools, dusty craters, sheer cliffs, desolate plains, sunny beaches |
+|                                  |                                                                             |
+| -------------------------------- | --------------------------------------------------------------------------- |
+| Category:                        | Heavy Vulcanism                                                             |
+| Climate:                         | Tropical                                                                    |
+| Landmass:                        | Continent                                                                   |
+| Terrain:                         | Volcanic pools, dusty craters, sheer cliffs, desolate plains, sunny beaches |
 | [Facilities](Facilities.md):     | 14                                                                          |
-| [Towers](Tower.md):              | 22                                                                          |
+| [Towers](Towers.md):             | 22                                                                          |
 | Active [Warpgates](Warpgate.md): | 3                                                                           |
 | Active [Geowarps](Geowarp.md):   | 1 (2 total, active gate cycles)                                             |
-|                                             |                                                                             |
+|                                  |                                                                             |
 
 ## Description
 

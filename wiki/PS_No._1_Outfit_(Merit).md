@@ -34,7 +34,7 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md) was awarded to
+This [Merit Commendation](Merit_Commendations.md) was awarded to
 the winners of an Inter-[Outfit](Outfit.md) Tournament held on
 the Chinese [PlanetSide](PlanetSide.md) Servers
 ("[ChinaSide](ChinaSide.md)"). This Tournament involved 30

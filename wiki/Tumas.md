@@ -10,6 +10,6 @@ It has [Lattice](Lattice.md) Links to:
 - A [Geowarp](Geowarp.md)
 
 Tumas is a Hack-and-Hold Facility, and has a Watch Tower to it's East,
-outside Tumas' [SOI](SOI.md).
+outside Tumas' [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

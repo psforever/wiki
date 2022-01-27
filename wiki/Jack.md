@@ -35,11 +35,11 @@ to see, so getting the vehicle away before it is destroyed takes some
 planning.
 
 At present there is no way to store jacked vehicles in any sort of
-[Lockers](Locker.md). Also, most empire specific vehicles use
+[Lockers](Lockers.md). Also, most empire specific vehicles use
 empire specific ammuntion, which can only then be replaced by stealing
 another vehicle with a full [Trunk](Trunk.md).
 
-[MAX](MAX.md) Suits may not be jacked, and you'd be amazed how
+[MAX](Mechanized_Assault_Exo-Suit.md) Suits may not be jacked, and you'd be amazed how
 badly they react when they get a REK in the faceplate...
 
 (Note: Many strange screenshots and board signatures feature Red and

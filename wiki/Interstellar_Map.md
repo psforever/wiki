@@ -23,10 +23,10 @@ the side of the screen, with thin lines leading to the target world for
 quick referance. Each mini-window will also show the [Continental
 lock](Continental_lock.md) and [Population
 lock](Population_lock.md) status of each continent, the empire
-[SOIs](SOI.md) for each base, as well as any
+[SOIs](Sphere_of_Influence.md) for each base, as well as any
 [hotspots](hotspot.md) on the surface.
 
-[LLU](LLU.md), [Module](Modules.md),
+[LLU](Lattice_Logic_Unit.md), [Module](Modules.md),
 [Squad](Squad.md), and [Platoon](Platoon.md)-member
 locations will also display on these continent windows. Your current
 location will appear as a white arrow.

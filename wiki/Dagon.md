@@ -10,8 +10,8 @@ It has [Lattice](Lattice.md) Links to:
 - Bio Laboratory [Hanish](Hanish.md)
 
 It is a [Hack-and-Hold](Hack-and-Hold.md)
-[Facility](Facility.md) with a [Gun tower](Gun_tower.md)
-to its north, just outside of its [SOI](SOI.md).
+[Facility](Facilities.md) with a [Gun tower](Gun_tower.md)
+to its north, just outside of its [SOI](Sphere_of_Influence.md).
 
 ## Trivia
 

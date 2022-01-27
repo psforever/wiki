@@ -9,7 +9,7 @@ range depends on the users Command Rank however.
 - Command Rank 4: 15 meter radius
 - Command Rank 5: 20 meter radius
 
-An EMP can also be triggered by a charged [BFR](BFR.md) [NTU
+An EMP can also be triggered by a charged [BFR](BattleFrame_Robotics.md) [NTU
 Siphon](NTU_Siphon.md) and by the drivers of a
 [Leviathan](Leviathan.md), [Juggernaut](Juggernaut.md),
 or [Vindicator](Vindicator.md).
@@ -17,15 +17,15 @@ or [Vindicator](Vindicator.md).
 Once triggered, this ability detonates a blast that doesn't harm
 soldiers, but detonates [Mines](#High_Explosive_Mine),
 [Boomers](<#Remote-Detonated_Charge_(Boomer)>), and disables
-[Spitfire Turrets](ACE.md#Spitfire_Turret), [Shadow
+[Spitfire Turrets](Adaptive_Construction_Engine.md#Spitfire_Turret), [Shadow
 Turrets](Shadow_Turret.md), [Cerberus
 Turrets](Cerberus_Turret.md), [Wall
-Turrets](Wall_Turret.md) and [Motion
-Sensors](ACE.md#Motion_Sensor_Alarm). It also disables all
+Turrets](Phalanx.md) and [Motion
+Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm). It also disables all
 [Implants](Implants.md) and [Proximity
 Maps](Proximity_Map.md) of any enemy soldiers in the area, as
 well as the weapons of all vehicles nearby, excluding
-[BFRs](BFR.md), the Blast does damage the BFR systems however.
+[BFRs](BattleFrame_Robotics.md), the Blast does damage the BFR systems however.
 
 It is often utilized when clearing large fields of [Combat Engineering
 (or CE)](Combat_Engineering.md) whenever a force is attacking a

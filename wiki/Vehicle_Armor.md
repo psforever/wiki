@@ -1,9 +1,9 @@
 Each [vehicle](vehicle.md) in
-[Planetside](Planetside.md) has a different armor value.
+[Planetside](PlanetSide.md) has a different armor value.
 [Weapons](Weapon.md) do different amounts of damage to each
 vehicle, depending on the type of vehicle targeted. For example, the
 [Lancer](Lancer.md) does 175 damage to ground vehicles but only
-125 damage to aircraft. Similarly, anti-aircraft [MAX](MAX.md)
+125 damage to aircraft. Similarly, anti-aircraft [MAX](Mechanized_Assault_Exo-Suit.md)
 units do more damage to aircraft than ground vehicles. If your
 [empire](empire.md) owns the [Cyssor](Cyssor.md)
 [benefit](Empire_Benefit.md), the base armor of your vehicle is
@@ -47,7 +47,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[AMS](AMS.md)
+[AMS](Advanced_Mobile_Station.md)
 
 </td>
 <td align="center">
@@ -79,7 +79,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[ANT](ANT.md)
+[ANT](Advanced_Nanite_Transport.md)
 
 </td>
 <td align="center">
@@ -303,7 +303,7 @@ not increase the amount of shields on the vehicle, only the base armor.
 <tr>
 <td align="center">
 
-[Galaxy](Galaxy.md)
+[Galaxy](vehicles/Galaxy.md)
 
 </td>
 <td align="center">
@@ -1112,7 +1112,7 @@ effective armor is 10500. All values given are the effective armor.
 <tr>
 <td align="center">
 
-<b>[BFR](BFR.md) Variant</b>
+<b>[BFR](BattleFrame_Robotics.md) Variant</b>
 
 </td>
 <td align="center">

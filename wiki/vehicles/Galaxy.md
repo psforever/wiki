@@ -4,21 +4,21 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Dropship                                                                                                                         |
 | **Role**                   | Heavy Troop Transport                                                                                                            |
-| **Certification Required** | [Air Support](Air_Support.md)                                                                                         |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                         |
+| **Certification Required** | [Air Support](../Air_Support.md)                                                                                         |
+| **Empire**                 | [Common Pool](../Common_Pool.md)                                                                                         |
 | **Primary Weapon**         | 2 20mm Recoilless Cannons, 1 20mm Rotary Chaingun                                                                                |
 | **Secondary Weapon**       | \-                                                                                                                               |
-| **Ammunition Used**        | [Recoilless Cannon Bullets](Recoilless_Cannon_Bullets.md)                                                             |
-| **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](MAX.md) Units, plus a [vehicle](vehicle.md) and passengers) |
+| **Ammunition Used**        | [Recoilless Cannon Bullets](../Recoilless_Cannon_Bullets.md)                                                             |
+| **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](../MAX.md) Units, plus a [vehicle](vehicle.md) and passengers) |
 | **Handling**               | Very poor                                                                                                                        |
-| **Top speed**              | 84 kph (152 with [Afterburners](Afterburner.md))                                                                      |
+| **Top speed**              | 84 kph (152 with [Afterburners](../Afterburner.md))                                                                      |
 
 **Galaxy**
 
 ![](images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg")
 
 The **Galaxy** is a huge aircraft capable of carrying 9 infantry and 2
-[MAX](MAX.md) units, as well as the pilot and any passengers of
+[MAX](../MAX.md) units, as well as the pilot and any passengers of
 vehicles in its cargo hold. A full squad can be transported easily,
 leaving the driver and gunners to return for other passengers.
 
@@ -31,29 +31,29 @@ appropriate sides of the tailgunner, accessible via doors in the
 fuselage.
 
 The [Galaxy](Galaxy.md) can only be purchased at a [Dropship
-Center](Dropship_Center.md) or in the
-[Sanctuary](Sanctuary.md) and requires the [Air
-Support](Air_Support.md)
+Center](../Dropship_Center.md) or in the
+[Sanctuary](../Sanctuary.md) and requires the [Air
+Support](../Air_Support.md)
 [certification](certifications.md).
 
 Vehicles that can fit in the [Galaxy](Galaxy.md) cargo hold are:
 
-- [ANT](Advanced_Nanite_Transport.md)
-- [Basilisk](Basilisk.md)
-- [Enforcer](Enforcer.md)
-- [Fury](Fury.md)
-- [Harasser](Harasser.md)
-- [Lightning](Lightning.md)
-- [Marauder](Marauder.md)
-- [Skyguard](Skyguard.md)
-- [Switchblade](Switchblade.md)
-- [Thresher](Thresher.md)
-- [Wraith](Wraith.md)
+- [ANT](../Advanced_Nanite_Transport.md)
+- [Basilisk](../Basilisk.md)
+- [Enforcer](../Enforcer.md)
+- [Fury](../Fury.md)
+- [Harasser](../Harasser.md)
+- [Lightning](../Lightning.md)
+- [Marauder](../Marauder.md)
+- [Skyguard](../Skyguard.md)
+- [Switchblade](../Switchblade.md)
+- [Thresher](../Thresher.md)
+- [Wraith](../Wraith.md)
 
 The Galaxy's apparent namesake is the [Lockheed
 Galaxy](http://en.wikipedia.org/wiki/C-5_Galaxy)
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Vehicles](Category:Vehicles.md) [Category:Common Pool
-Vehicles](Category:Common_Pool_Vehicles.md) [Category:Air
-Vehicles](Category:Air_Vehicles.md)
+[Category:Game Items](../Category:Game_Items.md)
+[Category:Vehicles](../Category:Vehicles.md) [Category:Common Pool
+Vehicles](../Category:Common_Pool_Vehicles.md) [Category:Air
+Vehicles](../Category:Air_Vehicles.md)

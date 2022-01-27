@@ -4,13 +4,13 @@ L7.
 
 It has [Lattice](Lattice.md) Links to:
 
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Laka](Laka.md)
 - [Amp Station](Amp_Station.md) [Matagi](Matagi.md)
 - [Technology Plant](Technology_Plant.md)
   [Karihi](Karihi.md)
 
 It is a Hack and Hold Facility and has a Gun Tower to its East, which is
-partially inside the [SOI](SOI.md).
+partially inside the [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

@@ -1,7 +1,7 @@
 ![](images/PSScreenShot0281.jpg "PSScreenShot0281.jpg")
 
 Medical Terminals can be found in all
-[Facilities](Facilities.md) (except [Towers](Tower.md))
+[Facilities](Facilities.md) (except [Towers](Towers.md))
 and in the [HART building](HART_building.md) in
 [Sanctuary](Sanctuary.md). There are usually 2 Medical Terminals
 in each base. One is located behind the [spawn

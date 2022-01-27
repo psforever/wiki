@@ -1,5 +1,5 @@
 There are two main types of ammunition in
-[Planetside](Planetside.md): Hand-held and
+[Planetside](PlanetSide.md): Hand-held and
 [Vehicle](Vehicle.md).
 
 Hand-held ammunition is stored in your character's

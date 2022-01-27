@@ -7,7 +7,7 @@ The timer increases with each death, but can be reduced by staying alive
 longer, with the [Bio Laboratory](Bio_Laboratory.md) or [Speed
 Module](Speed_Module.md) benefit, or with an [Empire
 Incentive](Empire_Incentives.md) bonus due to low population.
-Selecting to spawn at an [AMS](AMS.md) always has a shorter
+Selecting to spawn at an [AMS](Advanced_Mobile_Station.md) always has a shorter
 respawn timer than the longest option.
 
 [Category:Terminology](Category:Terminology.md) [Category:Game

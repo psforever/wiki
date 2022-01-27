@@ -1,19 +1,19 @@
-|                            |                                                                                                            |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------- |
+|                            |                                                                                      |
+| -------------------------- | ------------------------------------------------------------------------------------ |
 | **Certification Required** | [Data Corruption](Data_Corruption.md) or [Electronics Expert](Electronics_Expert.md) |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                   |
-| **Primary Mode**           | Vehicle Disruptor                                                                                          |
-| **Secondary Mode**         | Virus Upload                                                                                               |
-| **Ammunition**             | \-                                                                                                         |
-| **Range**                  | 5m                                                                                                         |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                     |
-| **Magazine Capacity**      | 4 (Primary fire) / Unlimited (Secondary fire)                                                              |
-| **Zoom**                   | None                                                                                                       |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                        |
+| **Primary Mode**           | Vehicle Disruptor                                                                    |
+| **Secondary Mode**         | Virus Upload                                                                         |
+| **Ammunition**             | \-                                                                                   |
+| **Range**                  | 5m                                                                                   |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                               |
+| **Magazine Capacity**      | 4 (Primary fire) / Unlimited (Secondary fire)                                        |
+| **Zoom**                   | None                                                                                 |
 
 **T-REK**
 
 The [T-REK](T-REK.md) is a modified Remote Electronics Kit
-([REK](REK.md)), only usable by those with the [Data
+([REK](Remote_Electronics_Kit.md)), only usable by those with the [Data
 Corruption](Data_Corruption.md) or [Electronics
 Expert](Electronics_Expert.md)
 [certifications](certification.md).
@@ -22,7 +22,7 @@ The T-REK is, opposed to the normal REK, a far more offensive type of
 equipment. The T-REK's abilities are aimed at crippling the enemy forces
 in a variety of ways. It can upload viruses into the [Main
 Terminal](Main_Terminal.md) of an enemy
-[Facility](Facility.md) causing certain benefits of that
+[Facility](Facilities.md) causing certain benefits of that
 Facility to be temporarily lost, it can disrupt enemy
 [vehicles](vehicle.md) causing certain problems like reduced
 speed and handling or inverted controls (left becomes right, and vice
@@ -46,7 +46,7 @@ turning it against their former owners. The following equipment can be
 infected so that it will hinder the enemy instead of helping them:
 
 - Enemy [Spitfire Turrets](Spitfire_Turret.md) and [Wall
-  Turrets](Wall_Turret.md) can be infected, causing them to
+  Turrets](Phalanx.md) can be infected, causing them to
   attack their own Empire
 - Enemy [Aegis Shield Generators](Aegis_Shield_Generator.md)
   can be infected so that they emit a [Pain

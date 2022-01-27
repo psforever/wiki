@@ -25,7 +25,7 @@ Best used against [Mosquitos](Mosquito.md),
 [Reavers](Reaver.md) and [Wasps](Wasp.md), several Flak
 guns working in concert will generally be required to eliminate
 [Liberators](Liberator.md), [Lodestars](Lodestar.md) and
-the [Galaxy](Galaxy.md), by virtue of their large armor,
+the [Galaxy](vehicles/Galaxy.md), by virtue of their large armor,
 although steady bombardment will generally force a retreat of these
 craft.
 
@@ -36,14 +36,14 @@ Used by:
 - [Skyguard](Skyguard.md) Medium Buggy ([Common
   Pool](Common_Pool.md))
 - [Invader](Invader.md), [Colossus](Colossus.md)
-  [Burster](</Burster_(BFR)>) [BFR](BFR.md) Weapon
+  [Burster](</Burster_(BFR)>) [BFR](BattleFrame_Robotics.md) Weapon
   ([Terran Republic](Terran_Republic.md))
 - [Rocklet Rifle](Rocklet_Rifle.md) loaded with [Fragmentation
   Grenade Pack](Fragmentation_Grenade_Pack.md) ammunition,
   refered to as "Flaklet" ([Common Pool](Common_Pool.md))
 - [Cerberus Turret](Cerberus_Turret.md) automated air defense
   system ([Common Pool](Common_Pool.md))
-- [Wall Turret](Wall_Turret.md) with the Anti-Aircraft flak
+- [Wall Turret](Phalanx.md) with the Anti-Aircraft flak
   cannon upgrade ([Common Pool](Common_Pool.md))
 
 [Category:Game Guides](Category:Game_Guides.md)

@@ -4,7 +4,7 @@ L14.
 
 It has [Lattice](Lattice.md) Links to:
 
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Voltan](Voltan.md) ([Capitol](Capitol.md))
 - [Amp Station](Amp_Station.md) [Ixtab](Ixtab.md)
   ([Sub-Capitol](Sub-Capitol.md))
@@ -16,6 +16,6 @@ It has [Lattice](Lattice.md) Links to:
 Bitol is also one of Voltan's Sub-Capitols.
 
 Bitol is a Hack-and-Hold Facility with an Air Tower to it's East, inside
-it's [SOI](SOI.md).
+it's [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

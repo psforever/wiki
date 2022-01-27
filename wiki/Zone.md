@@ -11,6 +11,6 @@ needed to display that area.
 
 Zones in [PlanetSide](PlanetSide.md) are referred to as
 [Planets](Planet.md), [Continents](Continent.md), and
-[Caverns](Cavern.md).
+[Caverns](Caverns.md).
 
 [category:Terminology](category:Terminology.md)

@@ -1,15 +1,15 @@
-|                            |                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------ |
+|                            |                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                                 |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)                                         |
-| **Primary Mode**           | Plasma Mortar                                                                              |
-| **Secondary Mode**         | \-                                                                                         |
+| **Primary Mode**           | Plasma Mortar                                                                   |
+| **Secondary Mode**         | \-                                                                              |
 | **Ammunition**             | [Aphelion Plasma Projector Ammunition](Aphelion_Plasma_Projector_Ammunition.md) |
-| **Range**                  | 450m (?)                                                                                   |
-| **Inventory Dimensions**   | [BFR](BFR.md) Gunner Weapon                                                     |
-| **Magazine Capacity**      | 40                                                                                         |
-| **Zoom**                   | 4x                                                                                         |
-|                            |                                                                                            |
+| **Range**                  | 450m (?)                                                                        |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Gunner Weapon                                    |
+| **Magazine Capacity**      | 40                                                                              |
+| **Zoom**                   | 4x                                                                              |
+|                            |                                                                                 |
 
 **Plasma Mortar**
 
@@ -23,7 +23,7 @@ initial explosive impact is not as great as the other [BFR
 Anti-Infantry](BFR_Anti-Infantry.md) gunner weapons, the
 lingering plasma field can be used as an area control weapon. The weapon
 is also great at causing multiple system damages to enemy
-[BFRs](BFR.md) with no shields.
+[BFRs](BattleFrame_Robotics.md) with no shields.
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Weapons](Category:Weapons.md) [Category:Vanu

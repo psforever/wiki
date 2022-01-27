@@ -18,7 +18,7 @@ You cannot enter warpgates that link to an enemy
 Continents](Home_Continent.md)). These warpgates are shaded the
 color of the controling empire on the [Continental
 Map](Continental_Map.md). The bubble will act as a solid
-structure for enemies (thus you cannot fill up an [ANT](ANT.md)
+structure for enemies (thus you cannot fill up an [ANT](Advanced_Nanite_Transport.md)
 in these enemy warpgates).
 
 Structurally, a warpgate consists of a large central platform, from
@@ -48,7 +48,7 @@ throughout the [Pre-Bending](The_Bending.md) planet of
 
 The Terran scientists utilized this amazing property of the warpgates to
 create the [Matrix Panels](Matrix_Panel.md) and [Respawn
-tubes](Respawn_tube.md) used in the various
+tubes](Respawn_Tube.md) used in the various
 [facilities](facilities.md) on each
 [continent](continent.md).
 

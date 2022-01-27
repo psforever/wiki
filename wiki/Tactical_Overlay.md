@@ -16,8 +16,8 @@ Each square is 1/4 by area of the map's [Grid](Grid.md) squares.
 Aqua squares represent areas under surveillance, where no significant
 troop activity is detected.
 
-Purple, Red, and Blue squares indicate [VS](VS.md),
-[TR](TR.md), and [NC](NC.md) movements, respectively.
+Purple, Red, and Blue squares indicate [VS](Vanu_Sovereignty.md),
+[TR](Terran_Republic.md), and [NC](New_Conglomerate.md) movements, respectively.
 
 Yellow areas indicate contested regions (i.e. nearly equal number of
 enemy and friendly units, or nearly equal number of two different
@@ -47,9 +47,9 @@ include:
 
 - Cloaked Units (Cloaked Infiltrators, [Wraiths](Wraith.md),
   and [Phantasms](Phantasm.md))
-- Support Vehicles ([AMS](AMS.md),
+- Support Vehicles ([AMS](Advanced_Mobile_Station.md),
   [Router](Router.md), and [Lodestar](Lodestar.md))
-- Special Operation Vehicles ([Galaxy](Galaxy.md),
+- Special Operation Vehicles ([Galaxy](vehicles/Galaxy.md),
   [Leviathan](Leviathan.md),
   [Juggernaut](Juggernaut.md), and
   [Vindicator](Vindicator.md))

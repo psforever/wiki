@@ -17,7 +17,7 @@ Once hacked, a tower immediately converts to the ownership of the
 hacker's [empire](empire.md). For bases, there is a 15 minute
 timer activated the moment the hack is activated. When the timer
 expires, the hacker's empire gets control of the base except in the case
-of an [LLU](LLU.md) base. In those cases a 15 minute timer
+of an [LLU](Lattice_Logic_Unit.md) base. In those cases a 15 minute timer
 limits how long the LLU is available to be run to the appropriate base.
 If the LLU is not run in time than the hack will be cancelled. The CC
 can be immediatly re-hacked however, to start the LLU timer over again.

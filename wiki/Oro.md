@@ -1,5 +1,5 @@
 Oro is one of the three [Interlink
-Facilities](Interlink_Facility.md) on
+Facilities](Interlink.md) on
 [Searhus](Searhus.md). It is to the West of the Crater in grids
 L9, L10, M9 and M10.
 
@@ -11,6 +11,6 @@ It has [Lattice](Lattice.md) Links to:
   [Ngaru](Ngaru.md)
 
 Oro is a Hack and Hold Facility with a Gun Tower to its North West,
-inside its [SOI](SOI.md).
+inside its [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

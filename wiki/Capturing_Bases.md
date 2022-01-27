@@ -12,7 +12,7 @@ When you are attacking a base the ultimate goal will be to
 [hack](hack.md) the [Control
 Console](Control_Console.md) of the facility and secure the
 control console. You must keep control of the CC until either the 15
-minute capture timer runs, or in the case of an [LLU](LLU.md)
+minute capture timer runs, or in the case of an [LLU](Lattice_Logic_Unit.md)
 base, the LLU is delivered.
 
 It takes 20 seconds for an [advanced
@@ -39,7 +39,7 @@ There are three types of spawn points to consider in this situation:
 
 1.  [AMS](Advanced_Mobile_Station.md)
 2.  [Towers](Towers.md)
-3.  Base [spawn tubes](Respawn_tube.md)
+3.  Base [spawn tubes](Respawn_Tube.md)
 
 <h3>
 

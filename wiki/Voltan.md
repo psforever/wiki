@@ -1,6 +1,6 @@
 **Voltan** is one of the [Capitol](Capitol.md) of
 [Hossin](Hossin.md), one of three [Interlink
-Facilities](Interlink_Facility.md).
+Facilities](Interlink.md).
 
 Located in grids K13 and L13
 
@@ -16,6 +16,6 @@ Located in grids K13 and L13
 
 Voltan is a [Hack-and-Hold](Hack-and-Hold.md) Facility with a
 [Watch tower](Watch_tower.md) to the east, just outside its
-[SOI](SOI.md).
+[SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

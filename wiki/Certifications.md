@@ -93,7 +93,7 @@ Scout](Light_Scout.md)
 
 [ATV](ATV.md) 1
 
-[Assault Buggy](Assault_Buggy.md) 3
+[Assault Buggy](<Assault_Buggy_(Certification).md>) 3
 
 [Armored Assault I](Armored_Assault_I.md) 2
 
@@ -104,10 +104,10 @@ I](Armored_Assault_I.md)
 Assault II](Armored_Assault_II.md)
 
 [BFR Anti-Aircraft](BFR_Anti-Aircraft.md) 1
-[BFR](BFR.md)
+[BFR](BattleFrame_Robotics.md)
 
 [BFR Anti-Infantry](BFR_Anti-Infantry.md) 1
-[BFR](BFR.md)
+[BFR](BattleFrame_Robotics.md)
 
 [Flail](Flail.md) 1 [Armored Assault
 II](Armored_Assault_II.md)

@@ -1,16 +1,16 @@
 ## Base Facility Specs
 
-|                                                                   |                                         |
-| ----------------------------------------------------------------- | --------------------------------------- |
+|                                                        |                                         |
+| ------------------------------------------------------ | --------------------------------------- |
 | [Control Console](Control_Console.md):                 | Roof                                    |
 | [Generator](Generator.md):                             | Basement                                |
-| [Spawn room](Respawn_room.md):                         | Level 1                                 |
+| [Spawn room](Spawn_Room.md):                           | Level 1                                 |
 | [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):  | Courtyard                               |
 | [BFR Shed](BFR_Shed.md):                               | Courtyard                               |
-| [Lattice Logic Unit Socket](LLU.md):                   | Level 2                                 |
+| [Lattice Logic Unit Socket](Lattice_Logic_Unit.md):    | Level 2                                 |
 | [Facility Linked Benefit](Facility_Linked_Benefit.md): | Vehicle Shields (Benefit Icon: Vehicle) |
 | [Wall Turrets](Phalanx.md):                            | 6                                       |
-|                                                                   |                                         |
+|                                                        |                                         |
 
 ## Description
 

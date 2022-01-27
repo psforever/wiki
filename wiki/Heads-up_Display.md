@@ -82,7 +82,7 @@ it cannot be masked.
 Also shown in this section in white text are
 [experience](experience.md) awards, as they happen, and world
 messages, such as the capture of facilities, and the movement of
-[LLUs](LLU.md), implant activations and any other system
+[LLUs](Lattice_Logic_Unit.md), implant activations and any other system
 messages.
 
 The lower half shows the chat section. Typed text and voice macros show
@@ -92,7 +92,7 @@ here. Default colors are:
 - Yellow: [Squad](Squad.md) Channel
 - Orange: [Platoon](Platoon.md) Channel
 - Bright Green: [Outfit](Outfit.md) Channel
-- Indigo/Blue: [SOI](SOI.md) Broadcast
+- Indigo/Blue: [SOI](Sphere_of_Influence.md) Broadcast
 - Blue: Private Messages
 - Teal/Green: Command Broadcasts
 
@@ -121,7 +121,7 @@ separate gauge.
 The vehicle outline may be changed for a more simple armor bar in the
 lower status bar by clicking the appropriate down arrow.
 
-For [ANT](ANT.md)'s, there is an [NTU](NTU.md) bar at
+For [ANT](Advanced_Nanite_Transport.md)'s, there is an [NTU](NTU.md) bar at
 the bottom which displays how many [NTU](NTU.md)'s have been
 stored from a warpgate to be transferred to an [NTU
 Silo](NTU_Silo.md).

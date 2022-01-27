@@ -1,17 +1,17 @@
-|                            |                                                                                                                                                                                                                                          |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Close Support Bomber                                                                                                                                                                                                                     |
-| **Role**                   | Close Air Support                                                                                                                                                                                                                        |
-| **Certification Required** | [Air Support](Air_Support.md)                                                                                                                                                                                                 |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                                                                                                                                 |
-| **Primary Weapon**         | Anti Vehicle Bombs                                                                                                                                                                                                                       |
-| **Secondary Weapon**       | 35mm Cannon                                                                                                                                                                                                                              |
-| **Tertiary Weapon**        | 25mm Chaingun                                                                                                                                                                                                                            |
+|                            |                                                                                                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Close Support Bomber                                                                                                                                                                                    |
+| **Role**                   | Close Air Support                                                                                                                                                                                       |
+| **Certification Required** | [Air Support](Air_Support.md)                                                                                                                                                                           |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                                                                                                           |
+| **Primary Weapon**         | Anti Vehicle Bombs                                                                                                                                                                                      |
+| **Secondary Weapon**       | 35mm Cannon                                                                                                                                                                                             |
+| **Tertiary Weapon**        | 25mm Chaingun                                                                                                                                                                                           |
 | **Ammunition Used**        | [Liberator and Vulture Bombs](Liberator_and_Vulture_Bombs.md), [35mm Chaingun Bullets](35mm_Chaingun_Bullets.md), and [Liberator and Vulture Tailgun Bullets](Liberator_and_Vulture_Tailgun_Bullets.md) |
-| **Occupants**              | 3 (Pilot, Bomber and Tailgunner)                                                                                                                                                                                                         |
-| **Handling**               | Good                                                                                                                                                                                                                                     |
-| **Top speed**              | 96 kph (184 kph with [Afterburner](Afterburner.md))                                                                                                                                                                           |
-| **Note**                   | Requires [Bomber Ace Bronze](Bomber_Ace.md) to operate                                                                                                                                                                        |
+| **Occupants**              | 3 (Pilot, Bomber and Tailgunner)                                                                                                                                                                        |
+| **Handling**               | Good                                                                                                                                                                                                    |
+| **Top speed**              | 96 kph (184 kph with [Afterburner](Afterburner.md))                                                                                                                                                     |
+| **Note**                   | Requires [Bomber Ace Bronze](Bomber_Ace.md) to operate                                                                                                                                                  |
 
 **Vulture**
 
@@ -52,7 +52,7 @@ Only experienced Liberator pilots are cleared to operate Vulture.
 Obtaining one from a flight vehicle terminal will require not only the
 [Air Support](Air_Support.md) certification, but also a [Bomber
 Ace](Bomber_Ace.md) Bronze [Merit
-Commendation](Merit_Commendation.md). Like the Liberator, the
+Commendation](Merit_Commendations.md). Like the Liberator, the
 Vulture requires a [Technology Plant](Technology_Plant.md)
 lattice link or [Sanctuary](Sanctuary.md) vehicle pad in order
 to be purchasable.

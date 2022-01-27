@@ -1,16 +1,16 @@
 ![`Starfire_MAX.jpg`](images/Starfire_MAX.jpg "Starfire_MAX.jpg")
 
-|                            |                                                                                                                        |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+|                            |                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)                                                                     |
-| **Armor**                  | 650                                                                                                                    |
-| **Primary Mode**           | Normal fire                                                                                                            |
-| **Secondary Mode**         | \-                                                                                                                     |
-| **Magazine Capacity**      | 8                                                                                                                      |
-| **Ammunition**             | Plasma Spheres                                                                                                         |
-| **Range**                  | Lockon: 350 m Dumbfire: 500m                                                                                           |
-| **Special Ability**        | Jumpjets                                                                                                               |
+| **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)                                                          |
+| **Armor**                  | 650                                                                                              |
+| **Primary Mode**           | Normal fire                                                                                      |
+| **Secondary Mode**         | \-                                                                                               |
+| **Magazine Capacity**      | 8                                                                                                |
+| **Ammunition**             | Plasma Spheres                                                                                   |
+| **Range**                  | Lockon: 350 m Dumbfire: 500m                                                                     |
+| **Special Ability**        | Jumpjets                                                                                         |
 
 **Starfire**
 
@@ -19,12 +19,12 @@ weapon to home in on enemy aircraft. Unlike the
 [Sparrow](Sparrow.md) however, the **Starfire** must maintain
 the "lock" for the projectiles to find their target.
 
-This [MAX](Mechanized_Armored_Exo-Suit.md)'s jump jets allow it
+This [MAX](Mechanized_Assault_Exo-Suit.md)'s jump jets allow it
 to sail over ground obstacles, making this the most mobile of
-[MAXes](MAX.md).
+[MAXes](Mechanized_Assault_Exo-Suit.md).
 
 The Starfire has the Fastest Time to Kill of all three
-[Empires](Empire.md) Anti Aircraft [MAXs](MAX.md) on
+[Empires](Empire.md) Anti Aircraft [MAXs](Mechanized_Assault_Exo-Suit.md) on
 most targets.
 
 [Category:Game Items](Category:Game_Items.md)

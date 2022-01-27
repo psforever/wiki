@@ -1,15 +1,15 @@
-|                            |                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------- |
+|                            |                                                                       |
+| -------------------------- | --------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                       |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md)                               |
-| **Primary Mode**           | Single shot                                                                      |
-| **Secondary Mode**         | 6-shot Salvo                                                                     |
+| **Primary Mode**           | Single shot                                                           |
+| **Secondary Mode**         | 6-shot Salvo                                                          |
 | **Ammunition**             | [Peregrine Rocket Pod Ammunition](Peregrine_Rocket_Pod_Ammunition.md) |
-| **Range**                  | Unknown                                                                          |
-| **Inventory Dimensions**   | [BFR](BFR.md) Gunner Weapon                                           |
-| **Magazine Capacity**      | 24                                                                               |
-| **Zoom**                   | 2x (?)                                                                           |
-|                            |                                                                                  |
+| **Range**                  | Unknown                                                               |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Gunner Weapon                          |
+| **Magazine Capacity**      | 24                                                                    |
+| **Zoom**                   | 2x (?)                                                                |
+|                            |                                                                       |
 
 **Rocket Pod (BFR)**
 

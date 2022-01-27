@@ -11,7 +11,7 @@ different infantry [loadouts](loadout.md) at the Equipment
 terminal.
 
 Favorites cannot store looted enemy-specific equipment (Use a
-[Locker](Locker.md) for these). [Ancient
+[Locker](Lockers.md) for these). [Ancient
 Technology](Ancient_Technology.md) weapons can be stored as a
 favorite, but the actual weapon will not be equipped unless the facility
 has an [Equipment Module](Equipment_Module.md) or you are in the

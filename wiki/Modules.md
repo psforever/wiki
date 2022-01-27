@@ -1,7 +1,7 @@
 ![](images/Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
 [Speed](Speed_Module.md), and [Equipment
 Modules](Equipment_Module.md) in their cradles in an
-[Interlink](Interlink.md) [Facility](Facility.md)\]\]
+[Interlink](Interlink.md) [Facility](Facilities.md)\]\]
 Modules are devices that can be obtained from the [Module
 Buildings](Module_Building.md) in the
 [Caverns](Caverns.md) introduced by the expansion [Core
@@ -35,7 +35,7 @@ enemy empire captures the Module Building it was taken from, the module
 will explode instantly, regardless of the timer.
 
 Note: when carrying a module, your character will "flash" the color of
-the module you picked up. Also, similar to the [LLU](LLU.md), an
+the module you picked up. Also, similar to the [LLU](Lattice_Logic_Unit.md), an
 icon will appear on the map giving the location of you and the module
 for both friendlies and enemies to see, thus it's best to have an escort
 to avoid an enemy from stealing the module. A module icon flashing green
@@ -64,7 +64,7 @@ facility as if they had a module installed.
 ## Special Rules
 
 The modules are unique constructs, and are subject to several special
-rules, in the same vein as [LLUs](LLU.md).
+rules, in the same vein as [LLUs](Lattice_Logic_Unit.md).
 
 1.  Once installed in a facility, they cannot be removed by friendlies
     under normal circumstances. This is to prevent

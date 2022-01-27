@@ -3,7 +3,7 @@ marking the introduction of [BattleFrame
 Robotics](BattleFrame_Robotics.md) into the game.
 
 This event started with a week in which every character was permitted to
-pilot a [BFR](BFR.md). However, the BFR was unstable, and many
+pilot a [BFR](BattleFrame_Robotics.md). However, the BFR was unstable, and many
 of its systems would break down, or worse, exploded at random instances,
 killing the pilot.
 
@@ -15,7 +15,7 @@ All over the planets of the [Auraxian System](Auraxis.md),
 would turn every facility and tower on the planet
 [Neutral](Neutral.md). The goal was to move the Monolith Unit
 from the Monolith to the [Capitol](Capitol.md)'s [Main
-terminal](Main_terminal.md).
+terminal](Main_Terminal.md).
 
 In order to succeed, each Empire had to capture facilities in order to
 capture the Capitol. (This requires holding two

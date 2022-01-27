@@ -1,15 +1,15 @@
-|                            |                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------ |
+|                            |                                                                                 |
+| -------------------------- | ------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                                 |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md)                                         |
-| **Primary Mode**           | Particle Cannon                                                                            |
-| **Secondary Mode**         | \-                                                                                         |
+| **Primary Mode**           | Particle Cannon                                                                 |
+| **Secondary Mode**         | \-                                                                              |
 | **Ammunition**             | [Peregrine Particle Cannon Ammunition](Peregrine_Particle_Cannon_Ammunition.md) |
-| **Range**                  | 300m                                                                                       |
-| **Inventory Dimensions**   | [BFR](BFR.md) Gunner Weapon                                                     |
-| **Magazine Capacity**      | 10                                                                                         |
-| **Zoom**                   | 4x                                                                                         |
-|                            |                                                                                            |
+| **Range**                  | 300m                                                                            |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Gunner Weapon                                    |
+| **Magazine Capacity**      | 10                                                                              |
+| **Zoom**                   | 4x                                                                              |
+|                            |                                                                                 |
 
 **Particle Cannon**
 

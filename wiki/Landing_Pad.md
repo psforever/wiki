@@ -5,7 +5,7 @@ is a flat platform structure attached to the causewalks of every
 towers](Air_tower.md). The base versions have the capability to
 (when it is linked to a friendly [Dropship
 Center](Dropship_Center.md)) repair any air
-[vehicle](Vehicle_Index.md) in the game. Landing Pads can rearm
+[vehicle](category:_Vehicles.md) in the game. Landing Pads can rearm
 air vehicles without the Dropship Center benefit.
 
 Landing pads are the only structures that aircraft can land on and not

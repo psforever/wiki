@@ -1,16 +1,16 @@
 ![](images/Lasher.jpg "fig:Lasher.jpg") soldier firing a Lasher\]\]
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                         |
+| -------------------------- | --------------------------------------- |
 | **Certification Required** | [Heavy Assault](Heavy_Assault.md)       |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md) |
-| **Primary Mode**           | Energy Orb                                         |
+| **Primary Mode**           | Energy Orb                              |
 | **Secondary Mode**         | [Armor Piercing](Armor_Piercing.md) Orb |
 | **Ammunition**             | [Energy Cells](Energy_Cell.md)          |
-| **Range**                  | 90m                                                |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                              |
-| **Magazine Capacity**      | 35                                                 |
-| **Zoom**                   | 2x                                                 |
+| **Range**                  | 90m                                     |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                   |
+| **Magazine Capacity**      | 35                                      |
+| **Zoom**                   | 2x                                      |
 
 **Lasher**
 
@@ -31,7 +31,7 @@ enough to make many enemies retreat if they are hiding behind a wall and
 is especially effective in groups of users.
 
 The secondary [Armor Piercing](Armor_Piercing.md) fire mode is
-best used against [MAXes](MAX.md) and light
+best used against [MAXes](Mechanized_Assault_Exo-Suit.md) and light
 [vehicles](vehicle.md). This mode lacks the lash effect and the
 orbs are colored purple.
 
@@ -40,12 +40,12 @@ equipment terminals.
 
 Shots to kill (With direct orb contact within 20m.):
 
-|                                                          |                                             |
-| -------------------------------------------------------- | ------------------------------------------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 4 shots                                     |
-| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 5 shots                                     |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 6 shots                                     |
-| [MAX](MAX.md)                                 | 28 [AP](Armor_Piercing.md) shots |
+|                                               |                                  |
+| --------------------------------------------- | -------------------------------- |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 4 shots                          |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 5 shots                          |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 6 shots                          |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 28 [AP](Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](Implants.md) or [Empire

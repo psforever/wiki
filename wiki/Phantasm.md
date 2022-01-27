@@ -2,16 +2,16 @@
 ![](images/PhantasmSide.jpg "fig:PhantasmSide.jpg")
 ![](images/Phantasm.jpg "fig:Phantasm.jpg"), signed by Fisa\]\]
 
-|                            |                                                         |
-| -------------------------- | ------------------------------------------------------- |
-| **Type**                   | Cloaked Aircraft                                        |
-| **Role**                   | Stealth                                                 |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Type**                   | Cloaked Aircraft                             |
+| **Role**                   | Stealth                                      |
 | **Certification Required** | [Phantasm](<Phantasm_(Certification)>)       |
 | **Empire**                 | [Common Pool](Common_Pool.md)                |
-| **Primary Weapon**         | \-                                                      |
-| **Secondary Weapon**       | \-                                                      |
-| **Occupants**              | 5 (1 Pilot, 4 Passengers)                               |
-| **Handling**               | Poor                                                    |
+| **Primary Weapon**         | \-                                           |
+| **Secondary Weapon**       | \-                                           |
+| **Occupants**              | 5 (1 Pilot, 4 Passengers)                    |
+| **Handling**               | Poor                                         |
 | **Top speed**              | 140 (249 with [Afterburner](Afterburner.md)) |
 
 **Phantasm**
@@ -52,7 +52,7 @@ deceleration, thus changes in speed must be planned well in advance
 Lock-on weapons are ineffective against the Phantasm while cloaked,
 though [Flak](Flak.md) will still explode in proximity to it.
 Automated defense systems will not fire on a cloaked phantasm. An enemy
-cloaked phantasm inside the [SOI](SOI.md) of a base with
+cloaked phantasm inside the [SOI](Sphere_of_Influence.md) of a base with
 [interlink](interlink.md)
 [benefits](Facility_Linked_Benefit.md) will show up on the
 [proximity map](Proximity_Map.md) of friendly players.

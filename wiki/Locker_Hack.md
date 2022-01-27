@@ -218,10 +218,10 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md) is awarded for
+This [Merit Commendation](Merit_Commendations.md) is awarded for
 kills scored by friendly soldier after they have used a
-[Locker](Locker.md) that was hacked by you, using a
-[REK](REK.md). The tracker stops after 5 minutes or when the
+[Locker](Lockers.md) that was hacked by you, using a
+[REK](Remote_Electronics_Kit.md). The tracker stops after 5 minutes or when the
 soldier dies, unless he is revived by an [Advanced
 Medic](Advanced_Medical.md). Kills accumulated for this Merit
 also track for the [Hacking Support](Hacking_Support.md) Merit.

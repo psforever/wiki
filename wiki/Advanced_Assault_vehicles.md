@@ -2,7 +2,7 @@ Purchasable in an Empire's [Sanctuary](Sanctuary.md), at a
 [Technology Plant](Technology_Plant.md) or its [lattice
 linked](lattice.md) facility, **Advanced Assault vehicles**
 provide greater firepower, mobility, and/or armor over their lower-tech
-counterpart [vehicles](Vehicle_Index.md).
+counterpart [vehicles](category:_Vehicles.md).
 
 Advanced Assault Vehicles include:
 

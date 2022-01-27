@@ -1,17 +1,17 @@
 ![](images/PSScreenShot0246.jpg "fig:PSScreenShot0246.jpg") Soldier carrying a
 Decimator\]\]
 
-|                            |                                                |
-| -------------------------- | ---------------------------------------------- |
+|                            |                                     |
+| -------------------------- | ----------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular.md) |
 | **Empire**                 | [Common Pool](Common_Pool.md)       |
-| **Primary Mode**           | Dumb Fire                                      |
-| **Secondary Mode**         | Nose Camera Fire                               |
-| **Ammunition**             | Rockets                                        |
-| **Range**                  | 270 m                                          |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                          |
-| **Magazine Capacity**      | 3 Self Depleting Rockets                       |
-| **Zoom**                   | 4x                                             |
+| **Primary Mode**           | Dumb Fire                           |
+| **Secondary Mode**         | Nose Camera Fire                    |
+| **Ammunition**             | Rockets                             |
+| **Range**                  | 270 m                               |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)               |
+| **Magazine Capacity**      | 3 Self Depleting Rockets            |
+| **Zoom**                   | 4x                                  |
 
 **Decimator**
 
@@ -28,7 +28,7 @@ targets or turning what would otherwise be a missed shot into a splash
 damage hit.
 
 It is especially effective against
-[MAX](Mechanized_Armored_Exo-Suit.md) units and does significant
+[MAX](Mechanized_Assault_Exo-Suit.md) units and does significant
 damage to vehicles, although the relatively slow rockets make the latter
 difficult to get a hit.
 
@@ -37,13 +37,13 @@ Assault](Special_Assault.md) certification.
 
 Shots to kill:
 
-|                                      |          |
-| ------------------------------------ | -------- |
-| [MAX](MAX.md)             | 3 shots  |
-| [Lightning](Lightning.md) | 4 shots  |
-| [Prowler](Prowler.md)     | 11 shots |
-| [Magrider](Magrider.md)   | 9 shots  |
-| [Vanguard](Vanguard.md)   | 12 shots |
+|                                       |          |
+| ------------------------------------- | -------- |
+| [MAX](Mechanized_Assault_Exo-Suit.md) | 3 shots  |
+| [Lightning](Lightning.md)             | 4 shots  |
+| [Prowler](Prowler.md)                 | 11 shots |
+| [Magrider](Magrider.md)               | 9 shots  |
+| [Vanguard](Vanguard.md)               | 12 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

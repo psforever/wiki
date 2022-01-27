@@ -1,4 +1,4 @@
-To deal with player harassment in-game, [SOE](SOE.md) has set up
+To deal with player harassment in-game, [SOE](Sony_Online_Entertainment.md) has set up
 mutliple ways to deal with it. In game you can type:
 
 - **/report <playername>** - Sends the chat log of that player that

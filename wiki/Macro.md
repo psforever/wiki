@@ -1,5 +1,5 @@
 A macro is a prerecorded chat command accessed via a key on your [hotkey
-bar](HUD.md#Hotkey_Bar).
+bar](Heads-up_Display.md#Hotkey_Bar).
 
 A macro is created using the following command:
 
@@ -17,7 +17,7 @@ used for a broadcast macro used in advertising for a squad invite.
 Example: /macro LFS /b BR17 CR2 with adv hack and air cav LFS
 
 Hitting the key linked to the macro "LFS" in your [Hotkey
-Bar](HUD.md#Hotkey_Bar) will then put "BR17 CR2 with adv hack
+Bar](Heads-up_Display.md#Hotkey_Bar) will then put "BR17 CR2 with adv hack
 and air cav LFS" into your local broadcast channel.
 
 You can also add [Color Codes](Color_Codes.md) to your macro to

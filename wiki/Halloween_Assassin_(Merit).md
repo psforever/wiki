@@ -84,7 +84,7 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md) was awarded to
+This [Merit Commendation](Merit_Commendations.md) was awarded to
 players that killed an assassinator during [The Chainblade
 Massacre](The_Chainblade_Massacre.md) [Event](Event.md)
 in 2006 or participated in enemy [Sanctuary](Sanctuary.md) raids

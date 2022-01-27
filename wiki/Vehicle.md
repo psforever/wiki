@@ -11,7 +11,7 @@ Planetside currently has 38 different ground and air vehicles (not
 including [HART](HART.md) shuttles and [Drop
 Pods](Drop_Pod.md)), each with radically different attributes.
 Almost every vehicle has at least one type of onboard weapons system -
-the exceptions are the [AMS](AMS.md), [ANT](ANT.md),
+the exceptions are the [AMS](Advanced_Mobile_Station.md), [ANT](Advanced_Nanite_Transport.md),
 [Lodestar](Lodestar.md), [Phantasm](Phantasm.md),
 [Router](Router.md), and [Wraith](Wraith.md) (though all
 have important capabilities). Some vehicles are only available to
@@ -70,7 +70,7 @@ Transport](Advanced_Nanite_Transport.md).
 ### Merits
 
 In addition to certifications, certain vehicles require the player to
-have a certain [Merit Commendation](Merit_Commendation.md)
+have a certain [Merit Commendation](Merit_Commendations.md)
 before they can be purchased or driven.
 
 The vehicles and their requirements are listed below:
@@ -98,10 +98,10 @@ Assault](Air_Cavalry_Assault.md), the
 from [Air Support](Air_Support.md) and the
 [Phantasm](Phantasm.md) can be purchased at Air Vehicle
 Terminals. All of the above vehicles as well as the
-[Galaxy](Galaxy.md), [Galaxy Gunship](Galaxy_Gunship.md)
+[Galaxy](vehicles/Galaxy.md), [Galaxy Gunship](Galaxy_Gunship.md)
 and [Lodestar](Lodestar.md) from [Air
 Support](Air_Support.md) can be purchased at a Dropship Vehicle
-Terminal. [BFR](BFR.md)'s can only be purchased at [BFR
+Terminal. [BFR](BattleFrame_Robotics.md)'s can only be purchased at [BFR
 Terminals](BFR_Terminals.md). Any other vehicle can be purchased
 from a Ground Vehicle Terminal.
 
@@ -123,7 +123,7 @@ are restricted by this are:
 - [Wasp](Wasp.md)
 - [Phantasm](Phantasm.md)
 
-Similarily, [Ancient Tech](Ancient_Tech.md) vehicles can only be
+Similarily, [Ancient Tech](Ancient_Technology.md) vehicles can only be
 purchased at a base with a [Vehicle Module](Vehicle_Module.md)
 installed or at a base which has a link to a friendly base with a
 Vehicle Module installed. Alternately, these vehicles can always be
@@ -176,7 +176,7 @@ with your key bindings.
 
 Vehicle controls are the keys that are used for all vehicles, regardless
 of whether they are air or ground vehicles. The exception to this rule
-is [BFR](BFR.md)'s, as they have their own key mapping and does
+is [BFR](BattleFrame_Robotics.md)'s, as they have their own key mapping and does
 not use any of these key mappings.
 
 These are the default Vehicle Controls.
@@ -246,7 +246,7 @@ Control set and instead rely only on this control set to control the
 BFR's.
 
 These are the default BFR Controls. ![](images/Eagle2.jpg "fig:Eagle2.jpg"), a
-[BFR](BFR.md) which uses the BFR Keymapping.\]\]
+[BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.\]\]
 
 |                         |                      |                      |
 | ----------------------- | -------------------- | -------------------- |
@@ -268,16 +268,16 @@ These are the default BFR Controls. ![](images/Eagle2.jpg "fig:Eagle2.jpg"), a
 
 ## Vehicle HUD Elements
 
-When a player is inside of a vehicle, some new [HUD](HUD.md)
+When a player is inside of a vehicle, some new [HUD](Heads-up_Display.md)
 Elements show up. The Vehicle Armor Status icon defaults in the lower
 left hand corner and shows up as an icon which represents your vehicle.
 This slowly turns from green to red as your vehicle sustains damage.
 Alternately, this can be turned into a simpler bar which becomes part of
-the bottom toolbar on the HUD. With [BFR](BFR.md)'s, the icon
+the bottom toolbar on the HUD. With [BFR](BattleFrame_Robotics.md)'s, the icon
 also gives the player a status on certain BFR subsystems, denoting their
 damage through colors, either green, yellow, or red.
 
-[BFR](BFR.md)'s and vehicles who had their shield generators
+[BFR](BattleFrame_Robotics.md)'s and vehicles who had their shield generators
 charged from an [Amp Station](Amp_Station.md)'s benefits have a
 blue ring around their vehicle icon to show shield strength. Also, at
 the same time, there is a blue bar at the bottom of the HUD on the
@@ -291,7 +291,7 @@ denotes how many NTU's are stored on the ANT that are ready to be
 transferred to an [NTU Silo](NTU_Silo.md) at a
 [facility](facility.md). Also, the
 [Mosquito](Mosquito.md), [Reaver](Reaver.md),
-[Vulture](Vulture.md), [Galaxy](Galaxy.md),
+[Vulture](Vulture.md), [Galaxy](vehicles/Galaxy.md),
 [Phantasm](Phantasm.md), and [Lodestar](Lodestar.md) all
 have [Afterburners](Afterburner.md), which is denoted on the HUD
 by a green bar which reads "Afterburners".
@@ -312,7 +312,7 @@ Gunner slots on a vehicle are denoted by a yellow circle around a Pistol
 symbol. The owner of the vehicle can set who can get into a gunner
 position using the Vehicle Management Pane. He can set the privacy to a
 number of levels, including Empire, Squad, and Locked. All types of
-Armor, besides [MAX](MAX.md) armor can get into a gunner slot,
+Armor, besides [MAX](Mechanized_Assault_Exo-Suit.md) armor can get into a gunner slot,
 regardless of the vehicle.
 
 Gunners are the main way a vehicle gets kills. While the Driver is the
@@ -338,7 +338,7 @@ are as follows:
 
 Other vehicles operate as transport vehicles, and have passenger slots.
 These spots on a vehicle are denoted by a yellow circle with a chair
-inside it. Any armor besides [MAX](MAX.md) Armor can climb into
+inside it. Any armor besides [MAX](Mechanized_Assault_Exo-Suit.md) Armor can climb into
 passenger slots and go for a ride. For new characters, this is probably
 the easiest way to travel, as many new characters do not have the
 [certification](certification.md) points required to acquire a
@@ -348,8 +348,8 @@ vehicle yet.
 
 The [Leviathan](Leviathan.md),
 [Juggernaut](Juggernaut.md),[Vindicator](Vindicator.md),
-and [Galaxy](Galaxy.md) have two positions which can be occupied
-by players wearing [MAX](MAX.md) Armor. Players wearing a
+and [Galaxy](vehicles/Galaxy.md) have two positions which can be occupied
+by players wearing [MAX](Mechanized_Assault_Exo-Suit.md) Armor. Players wearing a
 [Infiltration Suit](Infiltration_Suit.md), [Standard
 Exo-Suit](Standard_Exo-Suit.md), [Agile
 Exo-Suit](Agile_Exo-Suit.md), or a [Reinforced
@@ -359,9 +359,9 @@ the middle.
 
 ### Vehicle Bay
 
-Both the [Galaxy](Galaxy.md) and the
+Both the [Galaxy](vehicles/Galaxy.md) and the
 [Lodestar](Lodestar.md) have a vehicle bay which can transport
-smaller ground vehicles in the air. The [Galaxy](Galaxy.md) has
+smaller ground vehicles in the air. The [Galaxy](vehicles/Galaxy.md) has
 a much smaller vehicle bay and can therefore only transport certain
 vehicles. These vehicles are:
 
@@ -378,7 +378,7 @@ vehicles. These vehicles are:
 - [Lightning](Lightning.md)
 
 A [Lodestar](Lodestar.md) can carry any ground vehicle,
-including [BFRs](BFR.md).
+including [BFRs](BattleFrame_Robotics.md).
 
 _Note: For a [Router](Router.md) to enter a
 [Lodestar](Lodestar.md), it must strafe into the Lodestar
@@ -386,7 +386,7 @@ sideways._
 
 ## See Also
 
-- [Vehicle Index](Vehicle_Index.md)
+- [Vehicle Index](category:_Vehicles.md)
 - [Vehicular Merit
   Commendations](Vehicular_Merit_Commendations.md)
 

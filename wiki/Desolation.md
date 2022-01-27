@@ -1,15 +1,15 @@
 ![](images/DesolationMap.jpg "fig:DesolationMap.jpg")![](images/Desolation_Terrain.jpg "fig:Desolation_Terrain.jpg")
 
-|                                         |                                                     |
-| --------------------------------------- | --------------------------------------------------- |
-| Category:                               | Island Cluster                                      |
-| Climate:                                | Arid                                                |
-| Landmass:                               | [Battle Island](Battle_Island.md)        |
-| Terrain:                                | Desert. Sandy dunes, scattered oases, dry lake beds |
+|                              |                                                     |
+| ---------------------------- | --------------------------------------------------- |
+| Category:                    | Island Cluster                                      |
+| Climate:                     | Arid                                                |
+| Landmass:                    | [Battle Island](Battle_Islands.md)                  |
+| Terrain:                     | Desert. Sandy dunes, scattered oases, dry lake beds |
 | [Facilities](Facilities.md): | 3                                                   |
 | [Towers](Towers.md):         | 7                                                   |
 | [Warpgates](Warpgate.md):    | 3                                                   |
-|                                         |                                                     |
+|                              |                                                     |
 
 ## Topography
 
@@ -25,13 +25,13 @@ As is the case with all [Battle Islands](Battle_Islands.md),
 heavy weapons and vehicles do not operate here. Not permitted are [Heavy
 Assault](Heavy_Assault.md) weapons,
 [Reavers](Reaver.md), [Artillery](Artillery.md),
-[BFRs](BFR.md), [Medium Battle
+[BFRs](BattleFrame_Robotics.md), [Medium Battle
 Tanks](Medium_Battle_Tank.md), and Empire Specific
 [Deliverer](Deliverer.md) variants.
 
 ## [Facilities](Facilities.md)
 
-All three bases on this island are [LLU](LLU.md)-capture
+All three bases on this island are [LLU](Lattice_Logic_Unit.md)-capture
 [Technology Plants](Technology_Plant.md). The lack of a [Bio
 Laboratory](Bio_Laboratory.md) here means that spawn times are
 not modified by anything but [Modules](Modules.md).

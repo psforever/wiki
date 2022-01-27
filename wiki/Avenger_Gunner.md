@@ -218,10 +218,10 @@
 
 This merit, available only to [Terran
 Republic](Terran_Republic.md) players, is awarded for kills made
-by using the [TR](TR.md) version of the [One-Manned Field
+by using the [TR](Terran_Republic.md) version of the [One-Manned Field
 Turret](One-Manned_Field_Turret.md): The
 [Avenger](Avenger.md). These kills also count towards the
 general [Turret Gunner](Turret_Gunner.md) [Merit
-Commendation](Merit_Commendation.md).
+Commendation](Merit_Commendations.md).
 
 [category:Merits](category:Merits.md)

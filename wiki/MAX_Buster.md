@@ -184,7 +184,7 @@
 </table>
 
 The MAX Buster Merit is earned by destroying Enemies that are operating
-[MAX](MAX.md) Armor.
+[MAX](Mechanized_Assault_Exo-Suit.md) Armor.
 This Merit is a good complement to the
 [Anti-Armor](Anti-Armor.md) Merit.
 

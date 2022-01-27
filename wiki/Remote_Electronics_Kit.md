@@ -3,21 +3,21 @@
 ![](images/AdvancedHacker.jpg "fig:AdvancedHacker.jpg")
 ![](images/ExpertHacker.jpg "fig:ExpertHacker.jpg")
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Certification Required** | None                                     |
+|                            |                               |
+| -------------------------- | ----------------------------- |
+| **Certification Required** | None                          |
 | **Empire**                 | [Common Pool](Common_Pool.md) |
-| **Primary Mode**           | Hack                                     |
-| **Secondary Mode**         | \-                                       |
-| **Ammunition**             | \-                                       |
-| **Range**                  | 5m                                       |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                   |
-| **Magazine Capacity**      | \-                                       |
-| **Zoom**                   | None                                     |
+| **Primary Mode**           | Hack                          |
+| **Secondary Mode**         | \-                            |
+| **Ammunition**             | \-                            |
+| **Range**                  | 5m                            |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)        |
+| **Magazine Capacity**      | \-                            |
+| **Zoom**                   | None                          |
 
 **Remote Electronics Kit (REK)**
 
-The Remote Electronics Kit ([REK](REK.md)) is used to hack enemy
+The Remote Electronics Kit ([REK](Remote_Electronics_Kit.md)) is used to hack enemy
 terminals and equipment to allow friendly use, upgrade
 [facilities](facility.md) and equipment with enhanced protection
 and to remove viruses. The tool may be equipped and used by anyone, but
@@ -31,11 +31,11 @@ listed below under their respective Hacking level.
 
 No Hacking Certification:
 
-- Hack [Facility](Facility.md) and [Tower](Tower.md)
+- Hack [Facility](Facilities.md) and [Tower](Towers.md)
   [IFF](IFF.md) Door Lock (unlock and re-lock)
-- Hack [Tower](Tower.md) [Control
+- Hack [Tower](Towers.md) [Control
   Console](Control_Console.md) (60 seconds)
-- Hack [Facility](Facility.md) Control Console (60 seconds)
+- Hack [Facility](Facilities.md) Control Console (60 seconds)
 
 The REK of a non-certified hacker (or "Granny" Hacker) emits a
 **yellow** beam.
@@ -55,7 +55,7 @@ Advanced Hacking Certification:
 
 - Faster hacking of the following;
   - Tower/Facility Control Console: 20 seconds
-- Hack [Equipment terminals](Equipment_terminal.md)
+- Hack [Equipment terminals](Equipment_Terminal.md)
 - Hack [Vehicle Terminals](Vehicle_Terminal.md)
 - Hack [Advanced Medical
   Terminals](Advanced_Medical_Terminal.md)
@@ -63,7 +63,7 @@ Advanced Hacking Certification:
   [Vehicles](Vehicle.md)
 - Deconstruct Enemy [One-Manned Field
   Turrets](One-Manned_Field_Turret.md)
-- Hack [Main Consoles](Main_Console.md) (in special
+- Hack [Main Consoles](Main_Terminal.md) (in special
   circumstances)
 
 The REK of an Advanced Hacker emits a **purple** beam.

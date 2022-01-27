@@ -1,9 +1,9 @@
-|                                             |                                                                                       |
-| ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Used by**                                 | [Marauder](Marauder.md) and [Galaxy Gunship](Galaxy_Gunship.md) |
-| **Empire**                                  | [Common Pool](Common_Pool.md)                                              |
-| **[Trunk](Trunk.md) dimensions** | 4x4                                                                                   |
-| **Quantity per box**                        | 100 Rounds                                                                            |
+|                                  |                                                                 |
+| -------------------------------- | --------------------------------------------------------------- |
+| **Used by**                      | [Marauder](Marauder.md) and [Galaxy Gunship](Galaxy_Gunship.md) |
+| **Empire**                       | [Common Pool](Common_Pool.md)                                   |
+| **[Trunk](Trunk.md) dimensions** | 4x4                                                             |
+| **Quantity per box**             | 100 Rounds                                                      |
 
 **Mortar Cartridge**
 
@@ -11,7 +11,7 @@ These cartridges are used by the [Ground
 Pounder](Ground_Pounder.md) weapon found on the [Galaxy
 Gunship](Galaxy_Gunship.md) and the [Terran
 Republic](Terran_Republic.md)'s [Marauder](Marauder.md)
-[assault buggy](Assault_Buggy.md). The rounds inflict decent
+[assault buggy](<Assault_Buggy_(Certification).md>). The rounds inflict decent
 damage to both [infantry](infantry.md) and
 [vehicles](vehicles.md). The boxes can be obtained from any
 [Equipment Terminal](Equipment_Terminal.md) to be hand-loaded

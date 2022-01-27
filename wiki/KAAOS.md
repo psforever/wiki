@@ -12,7 +12,7 @@ all at once. Once landed, and the door is breached, they
 underlying principle of speed.
 
 In more recent history, KAAOS had also made its mark in the hearts of
-all [BFR](BFR.md) pilots. Numbers permitting, the sargeants of
+all [BFR](BattleFrame_Robotics.md) pilots. Numbers permitting, the sargeants of
 KAAOS would often lead the aircav fleet on Reaver runs to attack BFRs
 attacking a base. A leader was called, and that leader went ahead with
 the reaver mob behind them. The leader would then call a target BFR, and

@@ -4,7 +4,7 @@ been infected with a virus\]\]
 A Virus is a corrupted data stream injected into base objects and
 deployables by the [T-REK](T-REK.md). A Virus can be removed
 from an object by an [expert hacker](Expert_Hacking.md) using a
-[REK](REK.md).
+[REK](Remote_Electronics_Kit.md).
 
 The [T-REK](T-REK.md) may be used to infect
 [facility](facility.md) systems by uploading a virus into the
@@ -14,10 +14,10 @@ Main Terminal and duration are listed below.
 - Unlock all base doors - **60 minutes**
 - Disable enemy radar - **15 minutes**
   - Removes all radar abilities for friendlies that are in the
-    [SOI](SOI.md) of the infected facility
+    [SOI](Sphere_of_Influence.md) of the infected facility
 - Disable linked benefits - **15 minutes**
   - All [module](module.md) benefits are disabled
-  - [Continent](Continent.md)/[Cavern](Cavern.md)
+  - [Continent](Continent.md)/[Cavern](Caverns.md)
     lock benefits will **not** be disabled
   - Will **not** effect other linked bases
 - Access all enemy [equipment
@@ -42,7 +42,7 @@ their former owners for up to 15 minutes. The following equipment can be
 infected so that it will hinder the enemy instead of helping them:
 
 - Enemy [Spitfire Turrets](Spitfire_Turret.md) and [Wall
-  Turrets](Wall_Turret.md) can be infected, causing them to
+  Turrets](Phalanx.md) can be infected, causing them to
   attack their own Empire
 - Enemy [Aegis Shield Generators](Aegis_Shield_Generator.md)
   can be infected so that they emit a [Pain

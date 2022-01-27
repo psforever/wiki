@@ -2,7 +2,7 @@
 
 [Bio Lab](Bio_Lab.md) Mukuru is situated alone on a small island
 in Southwest [Cyssor](Cyssor.md), which it shares only with its
-single [Tower](Tower.md).
+single [Tower](Towers.md).
 
 Lattice links are to [Nzame](Nzame.md) and
 [Leza](Leza.md).

@@ -16,7 +16,7 @@ standing near a [Health Crystal](Health_Crystal.md) or in a
 [Medical Terminal](Medical_Terminal.md).
 
 The [Health Module](Health_Module.md) can also recover your
-health. When you are within the [SOI](SOI.md) of a base with
+health. When you are within the [SOI](Sphere_of_Influence.md) of a base with
 this benefit, you health will slowly regenerate. The [Health
 Module](Health_Module.md) also raises your maximum health to
 120/120.

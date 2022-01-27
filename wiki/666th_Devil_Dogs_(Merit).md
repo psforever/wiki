@@ -40,7 +40,7 @@ Developers, the [666th Spec. Ops "Devil
 Dogs"](666th_Spec.md._Ops_"Devil_Dogs") Outfit of the [New
 Conglomerate](New_Conglomerate.md) on
 [Markov](Markov.md) were awarded a special [Merit
-Commendation](Merit_Commendation.md) from [SOE](SOE.md)
+Commendation](Merit_Commendations.md) from [SOE](Sony_Online_Entertainment.md)
 handed out by the great [Sporkfire](SporkFire.md) himself.
 
 [category:Merits](category:Merits.md)

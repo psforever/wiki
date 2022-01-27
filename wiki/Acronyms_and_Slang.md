@@ -34,7 +34,7 @@ or [Wikipedia:Leet](Wikipedia:Leet.md).
 [Hossin](Hossin.md) : Hos
 [Ishundar](Ishundar.md) : Ish
 [Oshur](Oshur.md) : Osh
-[TR](TR.md)/[VS](VS.md)/[NC](NC.md) [Sanctuary](Sanctuary.md) : Sanc
+[TR](Terran_Republic.md)/[VS](Vanu_Sovereignty.md)/[NC](New_Conglomerate.md) [Sanctuary](Sanctuary.md) : Sanc
 [Searhus](Searhus.md) : Sear
 [Solsar](Solsar.md) : Sol
 
@@ -44,15 +44,15 @@ or [Wikipedia:Leet](Wikipedia:Leet.md).
 
 ## A
 
-AA : Anti Aircraft ([MAXes](MAX.md), [BFRs](BattleFrame_Robotics.md), [Wall Turrets](Wall_Turret.md), [Cerberus Turrets](Cerberus_Turret.md), and [Skyguards](Skyguard.md).)
+AA : Anti Aircraft ([MAXes](Mechanized_Assault_Exo-Suit.md), [BFRs](BattleFrame_Robotics.md), [Wall Turrets](Phalanx.md), [Cerberus Turrets](Cerberus_Turret.md), and [Skyguards](Skyguard.md).)
 Aircav : [Air Cavalry](Air_Cavalry.md)
 ammo : Short for ammunition.
 AMS : [Advanced Mobile Station](Advanced_Mobile_Station.md). Name for the mobile spawn point vehicle.
 ANT : [Advanced Nanite Transport](Advanced_Nanite_Transport.md). The vehicle that carries [NTUs](NTU.md) to distribute to [NTU Silos](NTU_Silo.md).
-ANT drop : The action of ejecting an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) from a [Galaxy](Galaxy.md) or [Lodestar](Lodestar.md) near an [NTU Silo](NTU_Silo.md). Also another name for ANT run.
-ANT run : A mission to refill depleted or critical [NTU Silos](NTU_Silo.md), often utilizing a [Galaxy](Galaxy.md) or [Lodestar](Lodestar.md) to speed up the travel to and from [Warpgates](Warpgate.md).
+ANT drop : The action of ejecting an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) from a [Galaxy](vehicles/Galaxy.md) or [Lodestar](Lodestar.md) near an [NTU Silo](NTU_Silo.md). Also another name for ANT run.
+ANT run : A mission to refill depleted or critical [NTU Silos](NTU_Silo.md), often utilizing a [Galaxy](vehicles/Galaxy.md) or [Lodestar](Lodestar.md) to speed up the travel to and from [Warpgates](Warpgate.md).
 Assfire : Refers to the [Starfire MAX](Starfire.md)
-AT : [Ancient-Tech](Ancient-Tech.md). Having to do with [Core Combat](Core_Combat.md) assets.
+AT : [Ancient-Tech](Ancient_Technology.md). Having to do with [Core Combat](Core_Combat.md) assets.
 AV : [Anti-Vehicular](Anti-Vehicular.md) certification, MAXes, or [weapons](weapon.md).
 
 ## B
@@ -69,13 +69,13 @@ Bang Bus : Common term used when referring to a [Sunderer](Sunderer.md) variant 
 <div id="BFRHunter">
 
 BEP : Abbreviation for [Battle Experience Points](Battle_Experience_Points.md)
-BFR Hunter (Biffer Hunter) : A solo [Infantry](Infantry.md) whose sole intent is to hunt enemy [BFRs](BFR.md) and destroy them, either by dropping on them from above, or rushing them from a base. Sometimes work in pairs, but rarely in groups of 3 or more.
+BFR Hunter (Biffer Hunter) : A solo [Infantry](Infantry.md) whose sole intent is to hunt enemy [BFRs](BattleFrame_Robotics.md) and destroy them, either by dropping on them from above, or rushing them from a base. Sometimes work in pairs, but rarely in groups of 3 or more.
 Biffer : BFR ([BattleFrame Robotics](BattleFrame_Robotics.md))
 Big Bird : A slang term for a New Conglomerate player at BR14 to BR24. Refers to the predominately yellow armor suit.
 Bluebie : Slang term for a (often new) New Conglomerate player, BR1 to BR6. It is a reference to the predominately blue armor suit.
 [Boomer](Boomer.md) : Remotely detonated charge created from an [ACE](Adaptive_Construction_Engine.md) and planted by [Combat Engineers](Combat_Engineering.md).
 BR : [Battle Rank](Battle_Rank.md). See CR.
-Brick : Slang for the [Galaxy](Galaxy.md) dropship.
+Brick : Slang for the [Galaxy](vehicles/Galaxy.md) dropship.
 BEP : [Battle Experience Points](Battle_Experience_Points.md) The experience points you collect from killing enemies, capturing bases and exploring the world of Planetside.
 
 ## C
@@ -93,7 +93,7 @@ CN : Chinese player
 cont lock, contlock : [Continental lock](Continental_lock.md) or Continent lock.
 CR/BR : [Command Rank](Command_Rank.md) and [Battle Rank](Battle_Rank.md).
 Crackhammer : A common TR term for the NC [Jackhammer](Jackhammer.md).
-Crash : An assault from a large group of the exact same unit all in one large wave. Most common variety being a [MAX](MAX.md) Crash
+Crash : An assault from a large group of the exact same unit all in one large wave. Most common variety being a [MAX](Mechanized_Assault_Exo-Suit.md) Crash
 CTD : Crash to Desktop ("Sorry, I'm back after a CTD")
 CY : short for [courtyard](courtyard.md), referring to the area between the facility's structure and the surrounding base walls.
 
@@ -110,7 +110,7 @@ DC'ed : disconnected due to connection problems.
 deci : [Decimator](Decimator.md) Anti-vehicle [weapon](weapon.md).
 deli : [Deliverer](Deliverer.md) troop transport.
 Deployables : Name for items created with the [ACE](Adaptive_Construction_Engine.md), such as Mines, Spitfires, Boomers, and Motion Sensors. Often interchanged with "CE."
-Drain : The process of damaging an enemy base causing the base to deplete all of it's [NTUs](NTU.md) for auto-repairing its structures. ([JamQ](JamQ.md) Guide on how to drain a [Base](Base.md).)
+Drain : The process of damaging an enemy base causing the base to deplete all of it's [NTUs](NTU.md) for auto-repairing its structures. ([JamQ](JamQ.md) Guide on how to drain a [Base](Facilities.md).)
 Duck Walk : A celebratory "dance" players sometimes do after a base capture (or if there are no enemies to kill while waiting for the timer). Usually done by forming a line with other players and crouch walking while doing an [emote](emote.md), usually the cabbagepatch or dunno emotes. Also called a Conga Line.
 
 ## E
@@ -136,14 +136,14 @@ Fragstab : The act of throwing a [Fragmentation grenade](Fragmentation_grenade.m
 
 ## G
 
-Gal : Abbreviation for the [Galaxy](Galaxy.md)
+Gal : Abbreviation for the [Galaxy](vehicles/Galaxy.md)
 Gal Gunship / GG : Abbreviation for the [Galaxy Gunship](Galaxy_Gunship.md)
-Gal Bomb : Charging a (typically unloaded) [Galaxy](Galaxy.md) into a target
-Gal drop : A hotdrop of soldiers from a [Galaxy](Galaxy.md) class transport. MAXes and Rexos expected.
-Gal Spam : Multiple [Galaxies](Galaxy.md) being used a "Gal Bombs"
+Gal Bomb : Charging a (typically unloaded) [Galaxy](vehicles/Galaxy.md) into a target
+Gal drop : A hotdrop of soldiers from a [Galaxy](vehicles/Galaxy.md) class transport. MAXes and Rexos expected.
+Gal Spam : Multiple [Galaxies](vehicles/Galaxy.md) being used a "Gal Bombs"
 Gaybot : Another name for BFRs ([BattleFrame Robotics](BattleFrame_Robotics.md)), used by people who are against BFR's
 Gen : [Generator](Generator.md)
-Gen Drop / "Drop The Gens!" : Common referrence to the tactic of destroying (Dropping) the [Generator](Generator.md) ("Drop their generator so we can break their defense!"). In context of defense, an enemy [Galaxy](Galaxy.md) dropping troops near the generator, especially at Bio Labs ("Gen drop incoming! Defend the generator!").
+Gen Drop / "Drop The Gens!" : Common referrence to the tactic of destroying (Dropping) the [Generator](Generator.md) ("Drop their generator so we can break their defense!"). In context of defense, an enemy [Galaxy](vehicles/Galaxy.md) dropping troops near the generator, especially at Bio Labs ("Gen drop incoming! Defend the generator!").
 Gen Hold: Furthering the Gen Drop tactic of destroying the base's [Generator](Generator.md) (usually a [Technology Plant](Technology_Plant.md)) and holding the [Generator](Generator.md) Room to prevent the enemy from repairing it.
 Ghostbuster : A player with the expertise of hunting and killing cloakers.
 Ghost Hack : Hacking a continent with little to no resistance from the enemy.
@@ -157,7 +157,7 @@ Grunt : See: [Infantry](Infantry.md)
 HA : [Heavy Assault](Heavy_Assault.md) certification or [weapon](weapon.md).
 Hax0r , Haxxor , Haxx0r : An Advanced Hacker or someone that uses illegal hacks.
 HART : Refers to the [HART shuttle](HART.md), its drop pods, its [launch building](HART_building.md), or that mode of transportation in general. "I'm going to HART in rather than use the warpgates."
-Hotdrop : The act of flying over a base, tower, or any other location where the "LZ" (landing zone, dropzone) is otherwise "hot" (under fire) and unavailable for landing and dropping the contents of a [Galaxy](Galaxy.md) or [Lodestar](Lodestar.md)
+Hotdrop : The act of flying over a base, tower, or any other location where the "LZ" (landing zone, dropzone) is otherwise "hot" (under fire) and unavailable for landing and dropping the contents of a [Galaxy](vehicles/Galaxy.md) or [Lodestar](Lodestar.md)
 Har/Harry : [Harrasser](Harrasser.md) vehicle.
 HUD : [Heads-up Display](Heads-up_Display.md)
 Hunter : Short form of [BFR Hunter](Acronyms_and_Slang.md#BFRHunter)
@@ -171,13 +171,13 @@ Instagib : The process of being killing or being killed instantly. Most commonly
 
 ## J
 
-Jihad : The act of attacking a [BFR](BFR.md) as a solo [Infantry](Infantry.md). This assault promises the death of the [Infantry](Infantry.md), but it may also result in the target [BFR](BFR.md) being destroyed. Also used in reference to attacking a superior target, groups of targets, or an unattackable target (ie tree or wall) using means that guarantee the death of the attacker almost instantly.
+Jihad : The act of attacking a [BFR](BattleFrame_Robotics.md) as a solo [Infantry](Infantry.md). This assault promises the death of the [Infantry](Infantry.md), but it may also result in the target [BFR](BattleFrame_Robotics.md) being destroyed. Also used in reference to attacking a superior target, groups of targets, or an unattackable target (ie tree or wall) using means that guarantee the death of the attacker almost instantly.
 JJ : "Jump Jets". Term from BattleTech that can be applied to VS MAXes with their JumpJet systems, and the Flight-Variant BFRs with their JumpJets.
 Juice : "Armor Juice" refers to the [Armor Canisters](Armor_Canister.md) used by the [Nano Dispenser](Nano_Dispenser.md), and "Medic Juice" refers to [Health Canisters](Health_Canister.md) used by the [Medical Applicator](Medical_Applicator.md).
 
 ## K
 
-KAAOS Drop : Named after the [Emerald](Emerald.md) [TR](TR.md) outfit [KAAOS](KAAOS.md). Using [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective, similar to a [Galaxy](Galaxy.md) drop, but twice the air speed of a [Galaxy](Galaxy.md). This drop would then be followed by a [surge](surge.md) run to a specific objective in the base.
+KAAOS Drop : Named after the [Emerald](Emerald.md) [TR](Terran_Republic.md) outfit [KAAOS](KAAOS.md). Using [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective, similar to a [Galaxy](vehicles/Galaxy.md) drop, but twice the air speed of a vehicles/Galaxy.mdGalaxy.md). This drop would then be followed by a [surge](surge.md) run to a specific objective in the base.
 Killwhore : Player whose only purpose of the game is (or appears to be) the rapid increase of their kill count, whether highly skilled at it or not.
 Kitchen (aka Barracks) : Refers to the [lounge](lounge.md) that is behind the [spawn room](spawn_room.md)
 KS : Kill Steal, someone taking the kill after you did most of the work for it.
@@ -192,7 +192,7 @@ LFS, LFSM, LFO, LFP : Looking For [Squad](Squad.md), Looking for Squad Members, 
 Lib/Libby : [Liberator](Liberator.md)
 Lith : [Monolith](Monolith.md).
 Litterbox/Sandbox : [Lodestar](Lodestar.md).
-LLU : [Lattice Logic Unit](LLU.md). Capture the flag element of Planetside.
+LLU : [Lattice Logic Unit](Lattice_Logic_Unit.md). Capture the flag element of Planetside.
 LoS : Line of Sight. "I almost had the kill until a friendly stepped in my LoS, getting me grief."
 
 ## M
@@ -210,7 +210,7 @@ NME : Enemy
 noob (insult) : Someone, potentially a new player, that is unskilled and refuses to improve, or refuses help to improve (ie; training, advice). ex; "Wow, look at that total noob. He'll never get better if he keeps playing like that."
 N00b Conglomerate : A derogatory term for the [New Conglomerate](New_Conglomerate.md) empire, or a Reservist playing on the [New Conglomerate](New_Conglomerate.md) empire.
 noobfire : Refers to the [Starfire MAX](Starfire.md)
-noobhammer : Insult form of the [NC](NC.md) [Jackhammer](Jackhammer.md), commonly used by both players killed by it, and sometimes used by players using the weapon referring to how overpowered they think this weapon is.
+noobhammer : Insult form of the [NC](New_Conglomerate.md) [Jackhammer](Jackhammer.md), commonly used by both players killed by it, and sometimes used by players using the weapon referring to how overpowered they think this weapon is.
 
 ## O
 
@@ -247,7 +247,7 @@ rolling coffin : [Sunderer](Sunderer.md).
 
 SA : [Special Assault](Special_Assault.md) certification or [weapons](weapon.md).
 Sanc : Refers to an empire's [Sanctuary](Sanctuary.md)
-ScatMax : Refers to the [New Conglomerate](New_Conglomerate.md) [Scattercannon](Scattercannon.md) Anti-Infantry [MAX](MAX.md)
+ScatMax : Refers to the [New Conglomerate](New_Conglomerate.md) [Scattercannon](Scattercannon.md) Anti-Infantry [MAX](Mechanized_Assault_Exo-Suit.md)
 Scrub : Refers to a player whose objectives are unclear, or you just don't know the guy, a stranger to you.
 _"What's this so-n-so scrub doing?"_
 SEP : [Support Experience Points](Support_Experience_Points.md), Experience points you gain from Support activities
@@ -256,14 +256,14 @@ Skeets, Skeeter, Mossies : Common referrences to the [Mosquito](Mosquito.md) air
 Skillfire : Refers to the [Starfire MAX](Starfire.md)
 Skillguard : Refers to the [Skyguard anti-air vehicle](Skyguard.md)
 Skycoffin : A derogatory term for the [Skyguard](Skyguard.md) Anti-aircraft buggy
-softy/softies/soft target : [Infantry](Infantry.md) players not currently manning a vehicle or using a [MAX](MAX.md).
+softy/softies/soft target : [Infantry](Infantry.md) players not currently manning a vehicle or using a [MAX](Mechanized_Assault_Exo-Suit.md).
 sl : [Squad Leader](Squad_Leader.md)
 slider : [Magrider](Magrider.md).
-SOI : Sphere of Influence([SOI](SOI.md)) around towers and bases.
+SOI : Sphere of Influence([SOI](Sphere_of_Influence.md)) around towers and bases.
 SOL : [Solsar](Solsar.md). Also a crude way of denoting bad luck.
 Spam : The act of firing constantly at a target, often to the point of emptying the clip, regardless of whether or not there are actual enemies in that area ("spamming a back door with [Maelstroms](Maelstrom.md)", "rocket-spamming infantry")- Also used to describe chat flooding ("quit spamming global chat!")
-spec ops : Special Operations. Refers to surgical strike missions such as destroying [generators](generator.md), [Galaxy](Galaxy.md) drop operations on bases and towers, or intense small squad missions apart from the main force.
-SplatMAX, SplatterMAX : Common referrence to the [NC](NC.md) Anti Infantry [MAX](MAX.md), the [Scattercannon](Scattercannon.md) .
+spec ops : Special Operations. Refers to surgical strike missions such as destroying [generators](generator.md), [Galaxy](vehicles/Galaxy.md) drop operations on bases and towers, or intense small squad missions apart from the main force.
+SplatMAX, SplatterMAX : Common referrence to the [NC](New_Conglomerate.md) Anti Infantry [MAX](Mechanized_Assault_Exo-Suit.md), the [Scattercannon](Scattercannon.md) .
 Spit/Spitter : [Spitfire Turrets](Spitfire_Turret.md)
 Sqd : [Squad](Squad.md)
 Squids/ Squidies : Pilot term for [infantry](infantry.md) on the ground. "Enemy squid with AA".
@@ -281,7 +281,7 @@ TS : [TeamSpeak](http://www.goteamspeak.com), (Teamspeak RC2) free 3rd-party voi
 TSO : TeamSpeak Overlay, a tool that shows a semi-transparent overlay whilst playing a game. The overlay lights up whenever someone talks, showing their name so you know who's talking.
 TOH : Time on Hack, how much time is remaining for the facility's hack to complete.
 TTK : Time to Kill, time it takes for a given [weapon](weapon.md) to kill an opponent
-tubes : [Respawn tubes](Respawn_tube.md).
+tubes : [Respawn tubes](Respawn_Tube.md).
 
 ## U
 
@@ -300,11 +300,11 @@ V-V-H : Sometimes typed as a way of greeting. It is a reference to the ingame [v
 
 WG : [Warpgate](Warpgate.md)
 WP : [Waypoint](Waypoint.md). "Head to purple wp 1."
-Walking Coffin : [MAX](MAX.md) units.
+Walking Coffin : [MAX](Mechanized_Assault_Exo-Suit.md) units.
 woot/w00t : Positive exclamation. ("Woot [CR5](Command_Rank.md)!")
 wootrasser : [Harasser](Harasser.md)
 WTG : Way to go!
-Whale : Slang term for the [Galaxy](Galaxy.md) dropship.
+Whale : Slang term for the [Galaxy](vehicles/Galaxy.md) dropship.
 
 ## X
 

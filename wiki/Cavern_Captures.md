@@ -2,7 +2,7 @@ A cavern capture is part of the [BFR Imprint](BFR_Imprint.md)
 process.
 
 In order to get a cavern capture, one must be inside the
-[SOI](SOI.md) of a [cavern](caverns.md) facility at the
+[SOI](Sphere_of_Influence.md) of a [cavern](caverns.md) facility at the
 time of capture if the base is worth (at the time of this writing) 450
 [BEP](Battle_Experience_Points.md) or
 [CEP](Command_Experience_Points.md). Resecures also count if

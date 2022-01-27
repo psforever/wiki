@@ -5,7 +5,7 @@ Canister\]\]
 
 [Upgrade Canisters](Upgrade_Canister.md) are used in [Nano
 Dispensers](Nano_Dispenser.md) to upgrade [Wall
-Turrets](Wall_Turrets.md) to be able to fire either
+Turrets](Phalanx.md) to be able to fire either
 Anti-Aircraft or Anti-Armor rounds in addition to the standard
 ammunition. One canister is used per upgrade and can be loaded into the
 Nano Dispenser by using the "change ammo type" key (default: "X").

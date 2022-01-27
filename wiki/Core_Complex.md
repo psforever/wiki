@@ -8,7 +8,7 @@ this beam of light is fatal, with two exceptions:
 
 - Soldier is carrying an uncharged [Module](Modules.md). The
   beam will charge the module, ready for installation in a surface
-  [Facility](Facility.md) [Module
+  [Facility](Facilities.md) [Module
   Cradle](Module_Cradle.md).
 
 <!-- -->

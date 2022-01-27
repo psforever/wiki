@@ -1,20 +1,20 @@
 ![](images/FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its Dispersion
 Cannon\]\]
 
-|                            |                                                                                       |
-| -------------------------- | ------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Artillery                                                                       |
-| **Role**                   | Attack/Defense                                                                        |
-| **Certification Required** | [Flail](<Flail_(Certification)>)                                           |
-| **Empire**                 | [Common Pool](Common_Pool.md) ([Ancient Tech](Ancient_Tech.md)) |
-| **Primary Weapon**         | Dispersion Cannon                                                                     |
-| **Occupants**              | 1 (Driver)                                                                            |
-| **Handling**               | Poor                                                                                  |
-| **Top speed**              | 55 kph (38 kph over water)                                                            |
+|                            |                                                                       |
+| -------------------------- | --------------------------------------------------------------------- |
+| **Type**                   | Heavy Artillery                                                       |
+| **Role**                   | Attack/Defense                                                        |
+| **Certification Required** | [Flail](<Flail_(Certification)>)                                      |
+| **Empire**                 | [Common Pool](Common_Pool.md) ([Ancient Tech](Ancient_Technology.md)) |
+| **Primary Weapon**         | Dispersion Cannon                                                     |
+| **Occupants**              | 1 (Driver)                                                            |
+| **Handling**               | Poor                                                                  |
+| **Top speed**              | 55 kph (38 kph over water)                                            |
 
 **Flail**
 
-The **Flail** is an [Ancient-Tech](Ancient-Tech.md) (AT)
+The **Flail** is an [Ancient-Tech](Ancient_Technology.md) (AT)
 artillery platform. It has fairly high armor but travels at a low speed.
 The Flail must be [deployed](deploy.md), immobilizing it, to
 fire its devastating long-range energy projectiles. When not deployed it
@@ -40,7 +40,7 @@ pointer](laze_pointer.md). Note however, that you will be
 targeting the feet of your own squad member!
 
 Laze Pointers may be obtained from the Flail itself, as well as all
-[Equipment terminals](Equipment_terminal.md), and do not require
+[Equipment terminals](Equipment_Terminal.md), and do not require
 any special [Certifications](Certifications.md) to use.
 
 The Flail requires a [Vehicle Module](Vehicle_Module.md) lattice

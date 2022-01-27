@@ -7,6 +7,6 @@ and when it opens the green circle is under the door, also if you wont
 be there for the ensuing destruction, you can plant a mine in the crook
 of the door also so whenever someone steps through the door the boomers
 will go off and have the potential to take out a whole
-[squad](squad.md) (even a few [MAXes](MAX.md)!).
+[squad](squad.md) (even a few [MAXes](Mechanized_Assault_Exo-Suit.md)!).
 
 [category:Strategy](category:Strategy.md)

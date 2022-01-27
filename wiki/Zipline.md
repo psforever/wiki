@@ -1,9 +1,9 @@
 ![](images/AdlivunZiplines.jpg "fig:AdlivunZiplines.jpg")s in
-[Adlivun](Adlivun.md) [Cavern](Cavern.md)\]\]
+[Adlivun](Adlivun.md) [Cavern](Caverns.md)\]\]
 ![](images/TRonZipline.jpg "fig:TRonZipline.jpg") Commander traveling on a
 [Zipline](Zipline.md)\]\] [Ziplines](Zipline.md) are
 objects located solely within the [caverns](Core_Combat.md)
-which allow Infantry (and [MAX](MAX.md) Units) to quickly move
+which allow Infantry (and [MAX](Mechanized_Assault_Exo-Suit.md) Units) to quickly move
 between different platforms.
 
 The entry and exit points of a zipline are spheres of energy, and

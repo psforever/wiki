@@ -8,7 +8,7 @@ at a [Searhus](Searhus.md) [Back Door](Back_Door.md)\]\]
 What is it? Well after watching all my
 [CE](Combat_Engineering.md) get [EMP](EMP.md)'ed over
 and over again. I though, what if an ant was blocking the door and they
-emp'ed all my mines and it blew the [ANT](ANT.md) and killed
+emp'ed all my mines and it blew the [ANT](Advanced_Nanite_Transport.md) and killed
 them all? So I tested it out and guess what? It works!
 
 Every squad has at least one [CR3](Command_Rank.md) or greater,
@@ -59,7 +59,7 @@ your ANT, grab your lasher or thumper and have fun!
 
 ## UPDATE: The ArmorDeth AMS Trap
 
-What if you changed the ANT to a deployed cloaked [AMS](AMS.md)?
+What if you changed the ANT to a deployed cloaked [AMS](Advanced_Mobile_Station.md)?
 Let me tell you what happens when you do that. Fun! When an enemy drops
 they will not see the CE due to the cloaked bubble. Once they land and
 fire off an EMP, boom baby! The mines and boomers will go off and

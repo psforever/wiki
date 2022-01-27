@@ -227,7 +227,7 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendation.md) is awarded for
+This [Merit Commendation](Merit_Commendations.md) is awarded for
 [reviving](Revive.md) friendly soldiers after they have been
 killed by enemy fire, using the [Medical
 Applicator](Medical_Applicator.md)

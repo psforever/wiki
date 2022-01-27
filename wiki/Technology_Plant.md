@@ -3,17 +3,17 @@
 
 ## Base Facility Specs
 
-|                                                                   |                                           |
-| ----------------------------------------------------------------- | ----------------------------------------- |
+|                                                        |                                           |
+| ------------------------------------------------------ | ----------------------------------------- |
 | [Control Console](Control_Console.md):                 | Level 3                                   |
 | [Generator](Generator.md):                             | Level 1                                   |
-| [Spawn room](Respawn_room.md):                         | Level 2                                   |
+| [Spawn room](Spawn_Room.md):                           | Level 2                                   |
 | [Vehicle Terminal](Vehicle_Terminal.md) (Air):         | Level 3                                   |
 | [Vehicle Terminal](Vehicle_Terminal.md) (Ground):      | Level 2                                   |
-| [Lattice Logic Unit](LLU.md) Socket:                   | Level 2                                   |
+| [Lattice Logic Unit](Lattice_Logic_Unit.md) Socket:    | Level 2                                   |
 | [Facility Linked Benefit](Facility_Linked_Benefit.md): | Advanced vehicles (benefit icon: vehicle) |
 | [Wall Turrets](Phalanx.md):                            | 6                                         |
-|                                                                   |                                           |
+|                                                        |                                           |
 
 ## Description
 
@@ -27,7 +27,7 @@ it, Empires must purchase advanced vehicles from their
 [Sanctuary](Sanctuary.md).
 
 The [Control Console](Control_Console.md) for this base is on
-the top floor, while the [LLU](LLU.md) Socket is located on
+the top floor, while the [LLU](Lattice_Logic_Unit.md) Socket is located on
 Level 1 in the basement.
 
 Another unique feature of Tech Plants, as they are called, is the

@@ -1,5 +1,5 @@
 ![](images/VSShieldModFacility.jpg "fig:VSShieldModFacility.jpg")
-[Facility](Facility.md) with a Shield Module Benefit\]\]
+[Facility](Facilities.md) with a Shield Module Benefit\]\]
 ![](images/Shield_module.jpg "fig:Shield_module.jpg") Installing this
 [Module](modules.md) provides the [Module
 Benefit](module_benefit.md) of powering a Force Field across the

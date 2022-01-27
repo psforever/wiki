@@ -1,11 +1,11 @@
 ![](images/ap9mmbullet.jpg "ap9mmbullet.jpg")
 
-|                          |                                                                                                                                                                                                                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                          |                                                                                                                                                                                                                         |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**              | [Automatic Machine Pistol](Automatic_Machine_Pistol.md) (AMP), [Repeater](Repeater.md), [Suppressor](Suppressor.md), [Cycler](Cycler.md), [Gauss](Gauss.md), [Punisher](Punisher.md), [Mini-Chaingun](Mini-Chaingun.md) |
-| **Empire**               | [Common Pool](Common_Pool.md)                                                                                                                                                                                                                                                             |
-| **Inventory dimensions** | 3x3                                                                                                                                                                                                                                                                                                  |
-| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                                                                                                           |
+| **Empire**               | [Common Pool](Common_Pool.md)                                                                                                                                                                                           |
+| **Inventory dimensions** | 3x3                                                                                                                                                                                                                     |
+| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                              |
 
 **Armor Piercing 9mm Bullet**
 
@@ -17,7 +17,7 @@ terminal](equipment_terminal.md) by any
 damaging armored targets such as [Mechanized Armor
 Exo-Suits](Armor_Index.md),
 [Deployables](Adaptive_Construction_Engine.md), and
-[Vehicles](Vehicle_Index.md). However, AP 9mm Ammo is
+[Vehicles](category:_Vehicles.md). However, AP 9mm Ammo is
 ineffective at damaging infantry. In such cases, [Standard 9mm
 Ammunition](9mm_Bullet.md) should be employed.
 

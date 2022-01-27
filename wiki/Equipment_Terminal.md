@@ -3,7 +3,7 @@
 **Equipment terminals** provide troops with
 [weapons](Weapons_Index.md), ammunition,
 [armor](Armor_Index.md), support equipment, and vehicle
-ordnance. [Ancient-Tech](Ancient-Tech.md) weaponry can also be
+ordnance. [Ancient-Tech](Ancient_Technology.md) weaponry can also be
 acquired if an [Equipment Module](Equipment_Module.md) is
 installed or a [Cavern Lock](Cavern_Lock.md) is linked through
 the [lattice](lattice.md).
@@ -19,9 +19,9 @@ each Empire's [Sanctuary](Sanctuary.md) contain two or more
 equipment terminals.
 
 All base [facilities](facilities.md) provide equipment terminals
-in the [Respawn rooms](Respawn_room.md) and the [main
+in the [Respawn rooms](Spawn_Room.md) and the [main
 lobby](main_lobby.md). [Interlink
-Facilities](Interlink_Facility.md) and [Dropship
+Facilities](Interlink.md) and [Dropship
 Centers](Dropship_Center.md) contain extra teriminals on the top
 level in the alcove beneath the radar dish.
 
@@ -43,7 +43,7 @@ their health before they can be used again with a [Nano
 Dispenser](Nano_Dispenser.md).
 
 The Cavern [Facilities](Facilities.md) possess
-[Ancient-Tech](Ancient-Tech.md) versions called [Ancient
+[Ancient-Tech](Ancient_Technology.md) versions called [Ancient
 Equipment Terminals](Ancient_Equipment_Terminal.md). They
 provide the same equipment as their surface counterparts, including
 Ancient Tech weaponry. Ancient Equipment Terminals cannot be destroyed

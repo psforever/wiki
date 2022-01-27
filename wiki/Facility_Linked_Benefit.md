@@ -24,7 +24,7 @@ each type of benefit associated or linked to that base.
 
 - [Amp Station](Amp_Station.md) - (Benefit icon: Shielded
   vehicle) Charges the shield generators of vehicles while they are in
-  a friendly [Sphere of Influence (SOI)](SOI.md).
+  a friendly [Sphere of Influence (SOI)](Sphere_of_Influence.md).
 
   **Shield Generators:** Each vehicle has a shield generator installed
   in it. When they enter an Amp Station's SOI or the SOI of a facility
@@ -68,7 +68,7 @@ each type of benefit associated or linked to that base.
   Replenishment of vehicle ammunition has since become a free feature
   for all bases, regardless of a link to a Dropship Center. See
   [Repair/Rearm Silo](Repair_Rearm_Silo.md).
-  Note: [Ancient Tech](Ancient_Tech.md) Vehicles
+  Note: [Ancient Tech](Ancient_Technology.md) Vehicles
   ([Flail](Flail.md) and
   [Switchblade](Switchblade.md)) require the [Vehicle
   Module](Vehicle_Module.md) benefit to be repaired and/or
@@ -77,7 +77,7 @@ each type of benefit associated or linked to that base.
 
 <!-- -->
 
-- [Interlink Facility](Interlink_Facility.md) - (Benefit icon:
+- [Interlink Facility](Interlink.md) - (Benefit icon:
   Radar) Enhanced RADAR abilities at all linked facilities.
 
   Facilities linked to an Interlink Facility will gain certain

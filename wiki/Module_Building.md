@@ -14,7 +14,7 @@ The Module Building features:
 Module Buildings are the buildings were you can get
 [Modules](Modules.md) that give benefits for the surface
 facilities after the [Module](Module.md) has been installed in
-the [Facility](Facility.md)'s [Module
+the [Facility](Facilities.md)'s [Module
 Cradle](Module_Cradle.md). Each module building spawns 2 modules
 at a time, located in the module cradles near the two
 [Teleporters](Teleporter.md). The modules availible at the

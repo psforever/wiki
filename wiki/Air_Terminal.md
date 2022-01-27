@@ -2,10 +2,10 @@ An air terminal is a vehicular Terminal that only allows you to pull Air
 [vehicles](vehicle.md). Air Terminals can be found at
 [Technology Plants](Technology_Plant.md), [Dropship
 Centers](Dropship_Center.md), [Sanctuary](Sanctuary.md)
-and in the [Caverns](Cavern.md).
+and in the [Caverns](Caverns.md).
 
 **Note that [Lodestars](Lodestar.md),
-[Galaxies](Galaxy.md), and [Galaxy
+[Galaxies](vehicles/Galaxy.md), and [Galaxy
 Gunships](Galaxy_Gunship.md) can only be purchased at [Dropship
 Terminals](Dropship_Terminal.md) and at the
 [Sanctuary](Sanctuary.md).**

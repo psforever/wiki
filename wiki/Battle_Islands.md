@@ -17,7 +17,7 @@ we came to call [Battle Islands](Battle_Islands.md)
 
 The Battle Islands have unique vehicle and weapon limitations. [Heavy
 Assault](Heavy_Assault.md) weaponry can not be purchased or used
-on any of the islands. [BFRs](BFR.md) and most [Technology
+on any of the islands. [BFRs](BattleFrame_Robotics.md) and most [Technology
 Plant](Technology_Plant.md) vehicles can not be purchased or
 used. The exceptions are the [Wasp](Wasp.md),
 [Phantasm](Phantasm.md), and [Skyguard](Skyguard.md),
@@ -54,7 +54,7 @@ This collection of Battle Islands is sometimes refered to as
 
 - [Atar](Atar.md), [Nexus](Nexus.md)
 
-### [Interlink Facilities](Interlink_Facility.md)
+### [Interlink Facilities](Interlink.md)
 
 - [Hvar](Hvar.md), [Extinction](Extinction.md)
 - [Zal](Zal.md), [Ascension](Ascension.md)

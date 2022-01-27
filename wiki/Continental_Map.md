@@ -16,12 +16,12 @@ features of the basic view are as follows:
 
 ### Facility Information
 
-- **Base Name** --Every [Facility](Facility.md) in the game
+- **Base Name** --Every [Facility](Facilities.md) in the game
   has a unique name, typically based on mythological figures from
   history.
 - **Base Type** --On either side of the facility name will be a clock
   icon (indicating [Hack-and-Hold](Hack-and-Hold.md) base
-  type) or flag icons (indicating an [LLU](LLU.md) base type).
+  type) or flag icons (indicating an [LLU](Lattice_Logic_Unit.md) base type).
 - **Hack Status** --If the facility is under hack, crossed flags of
   the [empire](empire.md) initiating the hack will appear to
   the left of the facility name.
@@ -38,7 +38,7 @@ features of the basic view are as follows:
   [Generator](Generator.md) is destroyed a lightning bolt with
   a cross through it will appear as an icon next to the name.
 - **Spawn Tube Status** --If all of the facility's [Spawn
-  Tubes](Spawn_Tube.md) are destroyed, a crossed-out spawn
+  Tubes](Respawn_Tube.md) are destroyed, a crossed-out spawn
   tube icon will appear next to the name.
 - **Boosted Pain Field Status** --If the generator or [Spawn
   Room](Spawn_Room.md) has had its [Pain
@@ -52,7 +52,7 @@ features of the basic view are as follows:
 
 ### Tower Information
 
-- **Tower Names** --[Tower](Tower.md) names are unique to each
+- **Tower Names** --[Tower](Towers.md) names are unique to each
   [Planet](Planet.md), and generally reflect the tower type,
   and the nearest other features of note; e.g 'SE Lahar Watch Tower'
 - **Tower Spawn Tube Status** --If both of the tower's spawn tubes are
@@ -75,12 +75,12 @@ features of the basic view are as follows:
 
 ### SOI Locations
 
-- **[Base SOI](SOI.md)** --The Sphere of Influence of a base
+- **[Base SOI](Sphere_of_Influence.md)** --The Sphere of Influence of a base
   is indicated by a large circle on the map in the color of the owning
   empire. The area covered by this circle has many special rules
   associated with it, and many deployables have SOI restrictions.
-- **[Tower](Tower.md) SOIs** --Towers also have an
-  [SOI](SOI.md), although it is a lot smaller. Where a Tower
+- **[Tower](Towers.md) SOIs** --Towers also have an
+  [SOI](Sphere_of_Influence.md), although it is a lot smaller. Where a Tower
   and Base SOI overlap, your [empire](empire.md)'s SOI takes
   priority.
 
@@ -96,13 +96,13 @@ features of the basic view are as follows:
   be entered by enemy troops.
 - **[Geowarp](Geowarp.md)** --Geowarp gates are shown
   similarly, but smaller, and lead into the indicated
-  [Cavern](Cavern.md). Geowarps rotate in activity, thus an
+  [Cavern](Caverns.md). Geowarps rotate in activity, thus an
   inactive geoward will be denoted on the map as well.
 
 ## Detailed Facility Information
 
 By Double-clicking on a base on the map,a new window will pop up with
-more details about that base ([Cavern](Cavern.md) facilities do
+more details about that base ([Cavern](Caverns.md) facilities do
 not have this feature).
 
 - **Base Type** --Five base types exist, each having a different
@@ -110,11 +110,11 @@ not have this feature).
   Station](Amp_Station.md), [Tech
   Plant](Tech_Plant.md), [Bio
   Laboratory](Bio_Laboratory.md), [Interlink
-  Facility](Interlink_Facility.md), and [Dropship
+  Facility](Interlink.md), and [Dropship
   Center](Dropship_Center.md).
 - **Base Capture Type** --Bases can be captured in one of two ways;
   Standard (or 'Hack n Wait'), shown by a pair of clock symbols, or
-  [LLU](LLU.md), show by a pair of flag symbols.
+  [LLU](Lattice_Logic_Unit.md), show by a pair of flag symbols.
 - **NTU Level** --The ammount of [NTU](NTU.md) remaining
 - **Base Hack Status** --If the base is hacked, the hack status will
   be desplayed here. If it is a hack and hold base, the time remaining
@@ -137,7 +137,7 @@ not have this feature).
 
 ## Other Information
 
-- **LLU location** --An [LLU](LLU.md) that has been spawned as
+- **LLU location** --An [LLU](Lattice_Logic_Unit.md) that has been spawned as
   part of a capture attempt will be displayed cleary on the map for
   all to see. Its location updates dynamically, as the LLU is moved
   across the continent, making interception possible. The lactice link
@@ -172,7 +172,7 @@ not have this feature).
   grid](Map_grid.md) reference system, allowing features to be
   called out quickly with chat text. The letters along the top and
   numbers down the side make up a co-ordinate; C10, G6, and so on.
-- **Deployable Information** --Friendly [ACE](ACE.md) and
+- **Deployable Information** --Friendly [ACE](Adaptive_Construction_Engine.md) and
   [FDU](FDU.md) deployables will show on the map if zoomed in
   close enough. Each has their own special icon.
 
@@ -189,7 +189,7 @@ special situations.
   show to allow selection.
 - **[HART](HART.md)** --The Continental Map is used to allow a
   soldier dropping from low orbit to pick his desintation. This
-  destination may not be in ANY [SOI](SOI.md) or on a Enemy
+  destination may not be in ANY [SOI](Sphere_of_Influence.md) or on a Enemy
   Locked Continent, and uses a sort of snap grid system, making
   prescise dropping tricky.
 - **[Broadcast](Broadcast.md)** Warp --The Continental Map is

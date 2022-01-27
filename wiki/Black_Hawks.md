@@ -1,1 +1,1 @@
-[NC](NC.md) [Outfit](Outfit.md)
+[NC](New_Conglomerate.md) [Outfit](Outfit.md)

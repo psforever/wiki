@@ -19,13 +19,13 @@ the Rabbit ball and accumulate points towards a certain point goal
 
 Any player of any empire can pick up the Rabbit ball. That player can
 also get into a friendly ground [vehicle](vehicle.md), subject
-to the same vehicle restrictions as an [LLU](LLU.md) or
+to the same vehicle restrictions as an [LLU](Lattice_Logic_Unit.md) or
 [Module](Module.md) carrier. However, there are additional
 restrictions for the Rabbit ball carrier.
 
 The Rabbit ball carrier cannot enter the following areas:
 
-- The [SOI](SOI.md) of a tower or facility belonging to
+- The [SOI](Sphere_of_Influence.md) of a tower or facility belonging to
   <i>any</i> empire, including neutral facilities.
 - Water
 - [Warpgates](Warpgate.md)

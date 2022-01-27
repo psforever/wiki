@@ -1,15 +1,15 @@
 ![](images/PSScreenShot0255.jpg "PSScreenShot0255.jpg")
 
-|                            |                                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| **Certification Required** | None                                                                            |
+|                            |                                                                      |
+| -------------------------- | -------------------------------------------------------------------- |
+| **Certification Required** | None                                                                 |
 | **Empire**                 | [Common Pool](Common_Pool.md)                                        |
-| **Primary Mode**           | Activate selected Command Resource                                              |
-| **Secondary Mode**         | \-                                                                              |
-| **Ammunition**             | \-                                                                              |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                          |
-| **Magazine Capacity**      | \-                                                                              |
-| **Zoom**                   | None                                                                            |
+| **Primary Mode**           | Activate selected Command Resource                                   |
+| **Secondary Mode**         | \-                                                                   |
+| **Ammunition**             | \-                                                                   |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                               |
+| **Magazine Capacity**      | \-                                                                   |
+| **Zoom**                   | None                                                                 |
 | **Note**                   | Requires the player to be [Command Rank](Command_Rank.md) 2 or above |
 
 **Command Uplink Device (CUD)**
@@ -27,7 +27,7 @@ the field commander.
     [CR](Command_Rank.md) 4.
 3.  **[Electromagnetic Pulse (EMP)](EMP.md)**
     Sends an EMP similar to a [Jammer
-    grenade](Jammer_grenade.md) in a sphere away from user.
+    grenade](Jammer_Grenade.md) in a sphere away from user.
     Becomes available at [CR](Command_Rank.md) 3.
 4.  **[Orbital Strike](Orbital_Strike.md)**
     Allows the user to call a powerful energy beam from Orbital Stations

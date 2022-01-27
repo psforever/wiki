@@ -194,6 +194,6 @@ bgcolor="#E6B916">
 </table>
 
 A six-level Infantry Merit, obtained by amassing kills while operating
-an Anti-Vehicular or Anti-Infantry [MAX](MAX.md) Unit.
+an Anti-Vehicular or Anti-Infantry [MAX](Mechanized_Assault_Exo-Suit.md) Unit.
 
 [category:Merits](category:Merits.md)

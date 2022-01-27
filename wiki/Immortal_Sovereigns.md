@@ -16,6 +16,6 @@ large gaming group with guilds, outfits, or supergroups on games like
 EverQuest 2, World of Warcraft, and City of Heroes just to name a few.
 
 We enjoy working with other outfits and are absolutely at home in
-armored columns, [Galaxy](Galaxy.md) drops on
+armored columns, [Galaxy](vehicles/Galaxy.md) drops on
 [Towers](Towers.md), to plain old base defense. We like to do it
 all!

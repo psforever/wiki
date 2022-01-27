@@ -15,9 +15,9 @@ includes:
   Terminal](Vehicle_Terminal.md) or [Medical
   Terminal](Medical_Terminal.md) that soldiers use and then
   score kills
-- Owning an [AMS](AMS.md) that soldiers spawn or equip at and
+- Owning an [AMS](Advanced_Mobile_Station.md) that soldiers spawn or equip at and
   then score kills
-- Piloting a [Galaxy](Galaxy.md), [Galaxy
+- Piloting a [Galaxy](vehicles/Galaxy.md), [Galaxy
   Gunship](Galaxy_Gunship.md), or
   [Phantasm](Phantasm.md) and dropping troops that then score
   kills

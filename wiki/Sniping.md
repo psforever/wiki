@@ -1,10 +1,10 @@
-|                        |                                                                                                |
-| ---------------------- | ---------------------------------------------------------------------------------------------- |
-| **Type**               | Weaponry                                                                                       |
+|                        |                                                                          |
+| ---------------------- | ------------------------------------------------------------------------ |
+| **Type**               | Weaponry                                                                 |
 | **Provides Access To** | [Bolt Driver](Bolt_Driver.md), [Heavy Scout Rifle](Heavy_Scout_Rifle.md) |
-| **Pre-requisite**      | [Medium Assault](Medium_Assault.md)                                                 |
-| **Required For**       | \-                                                                                             |
-| **Cert Point Cost**    | 3                                                                                              |
+| **Pre-requisite**      | [Medium Assault](Medium_Assault.md)                                      |
+| **Required For**       | \-                                                                       |
+| **Cert Point Cost**    | 3                                                                        |
 
 **Sniping**
 
@@ -20,7 +20,7 @@ years.
 
 This [Certification](Certification.md) is required to obtain the
 [Sniper](</Sniper_(Merit)>) [Merit
-Commendation](Merit_Commendation.md) if your character is less
+Commendation](Merit_Commendations.md) if your character is less
 than two years old.
 
 [Category:Certification](Category:Certification.md)

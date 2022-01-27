@@ -32,5 +32,5 @@
 
 <!-- -->
 
-- Also check out our [Merit](Merit_Commendation.md): [666th
+- Also check out our [Merit](Merit_Commendations.md): [666th
   Spec. Ops "Devil Dogs" Merit](</666th_Devil_Dogs_(Merit)>)

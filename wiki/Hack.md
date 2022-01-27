@@ -12,7 +12,7 @@ to hack faster, and [Advanced Hacking](Advanced_Hacking.md) even
 more quickly.
 
 Advanced enemy terminals such as [Equipment
-terminals](Equipment_terminal.md), and
+terminals](Equipment_Terminal.md), and
 [lockers](lockers.md) must be **hacked** by an [Advanced
 Hacker](Advanced_Hacking.md) for friendlies to use them.
 

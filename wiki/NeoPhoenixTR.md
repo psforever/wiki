@@ -37,13 +37,13 @@ I go by the alias
 on the
 [forums](http://comms.planetsidesyndicate.com/member.php?userid=144),
 [Wiki](user:NeoPhoenixTE.md), and the rest of the net), and my
-main character is an [Emerald](Emerald.md) [TR](TR.md)
+main character is an [Emerald](Emerald.md) [TR](Terran_Republic.md)
 [CR5](Command_Rank.md). I have been playing PlanetSide for
 nearly two years now, but have always been mediocre at shooter games
 overall. My expertise comes in niche strategies and multitasking... just
 not aiming. \>\_\>
 
-Ever since [BFRs](BFR.md) were first brought into the game, I
+Ever since [BFRs](BattleFrame_Robotics.md) were first brought into the game, I
 have had a constant fascination with them. True, some of this has come
 from my personal love of the "mecha" genre of Anime, but it was also a
 new dimension to the game. Many hated them, and still hate them, and
@@ -194,7 +194,7 @@ a vehicle pad. Though these vehicles are not as effective as Air Cavalry
 for sneaking up on BFRs, experienced BFR Hunters can use these methods
 for a "balls out" approach. Both vehicles are also a ton of fun, and the
 harasser can be used to assist in [core module](Modules.md) and
-[LLU](LLU.md) runs when you're not hunting.
+[LLU](Lattice_Logic_Unit.md) runs when you're not hunting.
 
 ### [Implants](Implants.md)
 
@@ -218,7 +218,7 @@ killshot off.
 Implants to avoid using are:
 
 - [Personal Shield](Personal_Shield.md)
-- [Darklight](Darklight_Vision.md)
+- [Darklight](Darklight.md)
 
 The reasoning behing my recommendation against personal shield is that,
 during a takedown, _stamina is essential_. Darklight is also a stamina
@@ -355,7 +355,7 @@ There are rules that **must** be followed when building loadouts:
 
 - You must carry at least three (3) [Decimators](Decimator.md)
 - You must carry at least one (1) [Jammer
-  Grenade](Jammer_grenade.md)
+  Grenade](Jammer_Grenade.md)
 - You must be in [Agile Armor](Agile_Exo-Suit.md)
 
 Three Decimators give you a total of nine shots. Typical [Gunner Variant

@@ -1,16 +1,16 @@
 ![](images/OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
 [Osprey](Osprey.md)\]\]
 
-|                            |                                                                                                                                                          |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Assault Engineering](Assault_Engineering.md) or [Advanced Engineering](Advanced_Engineering.md)                                   |
+|                            |                                                                                                                         |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Assault Engineering](Assault_Engineering.md) or [Advanced Engineering](Advanced_Engineering.md)                        |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md), [Terran Republic](Terran_Republic.md), [Vanu Sovereignty](Vanu_Sovereignty.md) |
-| **Primary Mode**           | Deploy Field Turret                                                                                                                                      |
-| **Secondary Mode**         | \-                                                                                                                                                       |
-| **Ammunition**             | \-                                                                                                                                                       |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                                                    |
-| **Magazine Capacity**      | Varies                                                                                                                                                   |
-| **Zoom**                   | 4x                                                                                                                                                       |
+| **Primary Mode**           | Deploy Field Turret                                                                                                     |
+| **Secondary Mode**         | \-                                                                                                                      |
+| **Ammunition**             | \-                                                                                                                      |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                   |
+| **Magazine Capacity**      | Varies                                                                                                                  |
+| **Zoom**                   | 4x                                                                                                                      |
 
 **One-Manned Field Turret (OMFT)**
 
@@ -24,7 +24,7 @@ Republic](Terran_Republic.md) has the
 [Avenger](Avenger.md) and the [Vanu
 Sovereignty](Vanu_Sovereignty.md) has the
 [Orion](Orion.md). The OMFTs have weaponry similar to that of
-the Anti-Infantry [MAX](MAX.md) of each Empire.
+the Anti-Infantry [MAX](Mechanized_Assault_Exo-Suit.md) of each Empire.
 
 These Turrets have Shield Generation, that increases when deployed,
 which is similar to the Shields that vehicles have, though enemy players
@@ -46,7 +46,7 @@ OMFT cannot be placed inside a friendly or enemy [Sphere of
 Influence](Sphere_of_Influence.md) or on bridges, but can be
 placed within the SOI of a [neutral](neutral.md) base. A maximum
 of 5 can be placed by an engineer at a time and share interferece ranges
-with [AMSes](AMS.md), [TRAPs](TRAP.md), and [Aegis
+with [AMSes](Advanced_Mobile_Station.md), [TRAPs](TRAP.md), and [Aegis
 Shield Generators](Aegis_Shield_Generator.md). If left unmanned,
 they will deconstruct automatically in about 5 minutes.
 

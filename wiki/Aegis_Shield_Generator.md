@@ -2,16 +2,16 @@
 ![](images/AegisAmmo.jpg "fig:AegisAmmo.jpg")
 ![](images/AegisInfo.jpg "fig:AegisInfo.jpg")
 
-|                            |                                                                                                                        |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+|                            |                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Assault Engineering](Assault_Engineering.md) or [Advanced Engineering](Advanced_Engineering.md) |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                               |
-| **Primary Mode**           | Deploy Shield Generator                                                                                                |
-| **Secondary Mode**         | \-                                                                                                                     |
-| **Ammunition**             | 1 [Field Deployment Unit](Field_Deployment_Unit.md)                                                         |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                                                  |
-| **Magazine Capacity**      | 1 per unit                                                                                                             |
-| **Zoom**                   | \-                                                                                                                     |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                    |
+| **Primary Mode**           | Deploy Shield Generator                                                                          |
+| **Secondary Mode**         | \-                                                                                               |
+| **Ammunition**             | 1 [Field Deployment Unit](Field_Deployment_Unit.md)                                              |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                            |
+| **Magazine Capacity**      | 1 per unit                                                                                       |
+| **Zoom**                   | \-                                                                                               |
 
 **Aegis Shield Generator**
 
@@ -61,7 +61,7 @@ bubble.
 
 [Expert Hackers](Expert_Hacking.md) or [Electronics
 Experts](Electronics_Expert.md) can remove an enemy virus from
-the Aegis and also use their [REK](REK.md) to hack a friendly
+the Aegis and also use their [REK](Remote_Electronics_Kit.md) to hack a friendly
 Aegis to provide a short-ranged [Interlink](Interlink.md)
 benefit around it for friendly units. However, the radar is only active
 for friendly units that are inside the cloaking sphere of the Aegis.

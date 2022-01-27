@@ -32,6 +32,6 @@ necessary to obtain it.
 
 This [Certification](Certification.md) is required to obtain the
 [Basic Weapons](</Basic_Weapons_(Merit)>) [Merit
-Commendation](Merit_Commendation.md).
+Commendation](Merit_Commendations.md).
 
 [Category:Certification](Category:Certification.md)

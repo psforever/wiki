@@ -1,5 +1,5 @@
 **BFR Imprinting** is the process by which a soldier acquires
-[BFR](BFR.md) certification.
+[BFR](BattleFrame_Robotics.md) certification.
 
 The imprint is used to tune the [Resonance
 Crystals](Resonance_Crystals.md) implanted in all soldier to the

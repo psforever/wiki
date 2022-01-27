@@ -1,11 +1,11 @@
 ![](images/Apshotgunshell.jpg "Apshotgunshell.jpg")
 
-|                          |                                                                                                                    |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+|                          |                                                                                   |
+| ------------------------ | --------------------------------------------------------------------------------- |
 | **Used by**              | [Mag-Scatter](Mag-Scatter.md), [Sweeper](Sweeper.md), [Jackhammer](Jackhammer.md) |
-| **Empire**               | [Common Pool](Common_Pool.md)                                                                           |
-| **Inventory dimensions** | 3x3                                                                                                                |
-| **Quantity per pack**    | 16 shells                                                                                                          |
+| **Empire**               | [Common Pool](Common_Pool.md)                                                     |
+| **Inventory dimensions** | 3x3                                                                               |
+| **Quantity per pack**    | 16 shells                                                                         |
 
 **Armor Piercing (AP) Shotgun Shell**
 
@@ -18,7 +18,7 @@ to this, Shotguns are used primarily indoors and in other close combat
 fights, as they are very ineffective at anything beyond close proximity.
 
 The Armor Piercing Shotgun Shells do good damage to armored targets like
-[MAX Units](MAX.md), [vehicles](vehicle.md) and
+[MAX Units](Mechanized_Assault_Exo-Suit.md), [vehicles](vehicle.md) and
 [Deployables](Adaptive_Construction_Engine.md), but are rather
 ineffective against smaller, less armored targets. When encountering
 such targets, it is best to use the standard [Shotgun

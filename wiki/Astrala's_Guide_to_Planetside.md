@@ -36,7 +36,7 @@ taking over an enemy base. Your [Battle Rank](Battle_Rank.md)
 
 With each Battle Rank you gain one [certification
 point](certification_points.md) to invest into your abilities
-like piloting certain [vehicles](Vehicle_Index.md) or using
+like piloting certain [vehicles](category:_Vehicles.md) or using
 particular weapons. Also with Battle Rank 6, 12 and 18 you can add
 [Implants](Implants.md) to yourself that also provide new
 abilities. The highest BR to achieve is 23, but it will take a long time
@@ -147,7 +147,7 @@ which is frustrating.
 #### Like to wear a cyborg suit?
 
 If you want to become some sort of Cyborg, try the [Mechanized Armored
-Exo-Suit](Mechanized_Armored_Exo-Suit.md) certs (MAX). The AA
+Exo-Suit](Mechanized_Assault_Exo-Suit.md) certs (MAX). The AA
 MAX is the least expensive MAX cert, however it only works well against
 aircraft targets. When anchored (with the B key), its firing rate is
 doubled making it a huge threats to all aircraft (the [Terran
@@ -215,7 +215,7 @@ Bases can be confusing. After 3 weeks, I still havent memorized every
 single base layout. There are [Amp Stations](Amp_Station.md),
 [Bio Labs](Bio_Lab.md), [Tech Plants](Tech_Plant.md),
 [Dropship Centers](Dropship_Center.md), and [Interlink
-Facilities](Interlink_Facility.md), each having a different
+Facilities](Interlink.md), each having a different
 layouts and multiple stories. So I often finding myself wandering
 through the corridors, not ending up where I want to. The map only
 offers limited orientation because it only shows the level you are
@@ -288,7 +288,7 @@ numbers with heavy machinery.
 
 - Hack enemy [Facilities](Facilities.md). There are two types
   of facilities. Some must be hacked and held for 15 minutes to
-  conquer, others must be hacked and a [LLU](LLU.md) must be
+  conquer, others must be hacked and a [LLU](Lattice_Logic_Unit.md) must be
   taken to your own base (similar to a "capture the flag" game).
   Hacking is done with the [Remote Electronics
   Kit](Remote_Electronics_Kit.md) (REK). It disables door

@@ -1,6 +1,6 @@
 **Waypoints** are markers placed on the [Continental
 Map](Continental_Map.md), and show up in the
-[HUD](HUD.md) as pillars of light with animated arrowheads at
+[HUD](Heads-up_Display.md) as pillars of light with animated arrowheads at
 the base.
 
 There are many different waypoints in
@@ -37,7 +37,7 @@ There are many different waypoints in
 
 <!-- -->
 
-- **LLU Waypoint**: If a player has an [LLU](LLU.md) in their
+- **LLU Waypoint**: If a player has an [LLU](Lattice_Logic_Unit.md) in their
   inventory a purple triangular waypoint will appear indicating the
   destination the LLU must be taken to.
 
@@ -65,8 +65,8 @@ ones listed above:
   [CR4](Command_Rank.md) or [CR5](Command_Rank.md)
   player has placed an [Orbital Strike](Orbital_Strike.md)
   waypoint on the map, it is visible as a colored beam of light in the
-  gameworld: blue for [NC](NC.md), red for
-  [TR](TR.md), and purple for [VS](VS.md). The
+  gameworld: blue for [NC](New_Conglomerate.md), red for
+  [TR](Terran_Republic.md), and purple for [VS](Vanu_Sovereignty.md). The
   waypoint is not visible on the [Proximity
   Map](Proximity_Map.md) or the [Continental
   Map](Continental_Map.md).

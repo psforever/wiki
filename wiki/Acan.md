@@ -8,7 +8,7 @@ It has [Lattice](Lattice.md) Links to:
   ([Sub-Capitol](Sub-Capitol.md))
 - [Technology Plant](Technology_Plant.md)
   [Chac](Chac.md)
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
   [Kisin](Kisin.md)
 - Interlink Facility [Voltan](Voltan.md)
   ([Capitol](Capitol.md))
@@ -16,6 +16,6 @@ It has [Lattice](Lattice.md) Links to:
 Acan is one of Voltan's Sub-Capitols.
 
 Acan has a Gun Tower to it's East, which is outside it's
-[SOI](SOI.md). Acan is a Hack-and-Hold Facility.
+[SOI](Sphere_of_Influence.md). Acan is a Hack-and-Hold Facility.
 
 [Category:Facilities](Category:Facilities.md)

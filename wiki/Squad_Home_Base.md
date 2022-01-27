@@ -11,7 +11,7 @@ and Platoon levels. The primary functions of the system includes:
 - Request that Squad/Platoon members matrix to their self-bind points.
 - Request that Squad/Platoon members recall to Sanctuary.
 
-A Commander may use a facility's [Main Console](Main_Console.md)
+A Commander may use a facility's [Main Console](Main_Terminal.md)
 to designate it as the Squad's Home Base. The home base will be
 designated on the planetary and overhead proximity maps by a
 recognizable [waypoint](waypoint.md) marker (This waypoint is
@@ -60,7 +60,7 @@ to be resolved before new orders are passed down.
 
 There are two different means by which a Leader can activate these
 features. Major functionality will be accessed through a facility's
-[Main Console](Main_Console.md). To use the Main Console, a
+[Main Console](Main_Terminal.md). To use the Main Console, a
 facility has to be secure (unhacked) and fully powered (generator
 online), have at least one functioning spawn tube and be in the control
 of the command leader's Empire. In order to interact with the Main

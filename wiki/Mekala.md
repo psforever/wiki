@@ -8,7 +8,7 @@ It has [Lattice](Lattice.md) Links to:
   [Xelas](Xelas.md) (Sub-Capitol)
 - Bio Laboratory [Kyoi](Kyoi.md) (Sub-Capitol)
 
-Mekela is a [LLU](LLU.md) Facility, and has an Air Tower to it's
-North East, which falls inside the Facility's [SOI](SOI.md).
+Mekela is a [LLU](Lattice_Logic_Unit.md) Facility, and has an Air Tower to it's
+North East, which falls inside the Facility's [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

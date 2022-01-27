@@ -218,10 +218,10 @@
 
 This merit, available only to [Vanu
 Sovereignty](Vanu_Sovereignty.md) players, is awarded for kills
-made by using the [VS](VS.md) version of the [One-Manned Field
+made by using the [VS](Vanu_Sovereignty.md) version of the [One-Manned Field
 Turret](One-Manned_Field_Turret.md): The
 [Orion](Orion.md). These kills also count towards the general
 [Turret Gunner](Turret_Gunner.md) [Merit
-Commendation](Merit_Commendation.md).
+Commendation](Merit_Commendations.md).
 
 [category:Merits](category:Merits.md)

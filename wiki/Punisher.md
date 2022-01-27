@@ -66,12 +66,12 @@ standard rounds until you have reloaded your
 
 Shots to kill:
 
-|                                                          |                                             |
-| -------------------------------------------------------- | ------------------------------------------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                                     |
-| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                                     |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                                    |
-| [MAX](MAX.md)                                 | 58 [AP](Armor_Piercing.md) shots |
+|                                               |                                  |
+| --------------------------------------------- | -------------------------------- |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                          |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                          |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                         |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 58 [AP](Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](Implants.md) or [Empire

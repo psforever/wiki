@@ -1,15 +1,15 @@
 ![](images/ShadowTurret.jpg "ShadowTurret.jpg")
 
-|                            |                                                                                                                                    |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+|                            |                                                                                                              |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Fortification Engineering](Fortification_Engineering.md) or [Advanced Engineering](Advanced_Engineering.md) |
-| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                           |
-| **Primary Mode**           | Shadow Turret                                                                                                                      |
-| **Secondary Mode**         | \-                                                                                                                                 |
-| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                                   |
-| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                                             |
-| **Magazine Capacity**      | 1 use per ACE Unit                                                                                                                 |
-| **Zoom**                   | None                                                                                                                               |
+| **Empire**                 | [Common Pool](Common_Pool.md)                                                                                |
+| **Primary Mode**           | Shadow Turret                                                                                                |
+| **Secondary Mode**         | \-                                                                                                           |
+| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                        |
+| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                       |
+| **Magazine Capacity**      | 1 use per ACE Unit                                                                                           |
+| **Zoom**                   | None                                                                                                         |
 
 **Shadow Turret**
 
@@ -23,10 +23,10 @@ The maximum number of Shadow Turrets that can be deployed is 5, and they
 count toward the total number of Spitfires you can deploy. They also
 share the same interference range with the spitfire and [Cerberus
 Turrets](Cerberus_Turret.md). They can only be deployed in
-friendly or [neutral](neutral.md) [SOIs](SOI.md).
+friendly or [neutral](neutral.md) [SOIs](Sphere_of_Influence.md).
 
 The Shadow Turret is deployed by the Tertiary Mode of the
-[ACE](ACE.md), and can be selected with the "Change Ammunition"
+[ACE](Adaptive_Construction_Engine.md), and can be selected with the "Change Ammunition"
 function (default is "X").
 
 Shadow Turrets can be detected by use of the

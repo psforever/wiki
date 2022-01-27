@@ -10,7 +10,7 @@ Republic](Terran_Republic.md)-[Werner](Werner.md).
 ## Outfit History
 
 In the summer of 2004 a couple of Soldiers deployed in Korea joined
-[Planetside](Planetside.md). They quickly were snatched up by a
+[Planetside](PlanetSide.md). They quickly were snatched up by a
 Tactical Outfit, the Band of Bros. Both Soldiers excelled in the game,
 and in making leadership decisions, leading to their quick promotion to
 officer rank. One of those Soldiers excelled so much that the outfit
@@ -33,7 +33,7 @@ Outfit is just coming out of such a recession.
 
 Soul_Strike bills itself as a QRF (Quick Reaction Force). As such, it
 trains its leaders to look for time critical missions. Due to its highly
-mobile nature, the Outfit favors [Galaxy](Galaxy.md) drops, and
+mobile nature, the Outfit favors [Galaxy](vehicles/Galaxy.md) drops, and
 [MBT](Medium_Battle_Tank.md) columns, among other tactics.
 Soul_Strike also makes extensive use of voice chat as a force
 multiplier.

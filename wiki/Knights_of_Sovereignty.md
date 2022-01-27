@@ -1,10 +1,10 @@
 The [Knights of Sovereignty](http://www.knightsofsovereignty.org) are
 one of the largest and highest points scoring
-[Outfits](Outfit.md) on [VS](VS.md)
+[Outfits](Outfit.md) on [VS](Vanu_Sovereignty.md)
 [Emerald](Emerald.md).
 
 Our primary objective is to have FUN playing
-[Planetside](Planetside.md), whilst remembering that Real Life
+[Planetside](PlanetSide.md), whilst remembering that Real Life
 always comes first. The outfit atmosphere is friendly and mature.
 Problems of any sort are rare.
 

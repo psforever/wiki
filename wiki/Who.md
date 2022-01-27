@@ -22,11 +22,11 @@ The following "names" can be used with the "/who <name>" command:
   Leaders for your current Continent, it also shows the Squad Leaders
   Outfit
 - **teams** - Shows percentage of online players for each Empire
-- **NC** - Lists the first 25 [NC](NC.md) on your Continent
+- **NC** - Lists the first 25 [NC](New_Conglomerate.md) on your Continent
   (you must be NC)
-- **TR** - Lists the first 25 [TR](TR.md) on your Continent
+- **TR** - Lists the first 25 [TR](Terran_Republic.md) on your Continent
   (you must be TR)
-- **VS** - Lists the first 25 [VS](VS.md) on your Continent
+- **VS** - Lists the first 25 [VS](Vanu_Sovereignty.md) on your Continent
   (you must be VS)
 
 [Category:Commands](Category:Commands.md)

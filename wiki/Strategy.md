@@ -58,7 +58,7 @@ alphabetically.
 ### MAX armor suits
 
 - [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside):
-  AA [MAX](MAX.md) ([TR](TR.md)
+  AA [MAX](Mechanized_Assault_Exo-Suit.md) ([TR](Terran_Republic.md)
   [Burster](Burster.md) Config)
 - [Mudwink's TR MAX Highlights](Mudwink.md):
 

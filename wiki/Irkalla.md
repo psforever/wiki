@@ -1,5 +1,5 @@
 **Irkalla** is one of the two [Interlink
-Facilities](Interlink_Facility.md) on
+Facilities](Interlink.md) on
 [Ishundar](Ishundar.md) and is to the northeast inside grid L8.
 
 It has [Lattice](Lattice.md) Links to:
@@ -12,9 +12,9 @@ It has [Lattice](Lattice.md) Links to:
 - Bio Laboratory [Lahar](Lahar.md)
 
 It is a [Hack-and-Hold](Hack-and-Hold.md)
-[Facility](Facility.md) with an [Air
+[Facility](Facilities.md) with an [Air
 tower](Air_tower.md) to its south, just outside its
-[SOI](SOI.md).
+[SOI](Sphere_of_Influence.md).
 
 ## Trivia
 

@@ -3,7 +3,7 @@ A [base](facilities.md) will go **neutral** when the power level
 hacked by any empire (except for Capitol facilities, which still require
 two sub-capitols to capture). However, a base cannot be completely
 captured until power is restored. If a base is hacked, and the timer
-runs out (or [LLU](LLU.md) is delivered) before power is
+runs out (or [LLU](Lattice_Logic_Unit.md) is delivered) before power is
 rechaged, the hack will be lost, requiring rehacking and waiting another
 15 minutes (or delivering LLU again).
 

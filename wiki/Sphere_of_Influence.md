@@ -14,7 +14,7 @@ in a [squad](squad.md), the rest of the squad members on the
 same continent also share in the reward.
 
 [Spitfires](Spitfire.md#Spitfire_Turret), [Motion
-Detectors](ACE.md#Motion_Sensor_Alarm), [Aegis Shield
+Detectors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm), [Aegis Shield
 Generators](Aegis_Shield_Generator.md),
 [TRAPs](TRAP.md), and [Cerberus
 Turrets](Cerberus_Turret.md) cannot be deployed in an enemy SOI

@@ -3,17 +3,17 @@
 
 ## Continental Data
 
-|                                             |                                                                                       |
-| ------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Category:                                   | Caustic Atmosphere                                                                    |
-| Climate:                                    | Humid, Temperate                                                                      |
-| Landmass:                                   | Continent                                                                             |
-| Terrain:                                    | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains.    |
-| [Facilities](Facilities.md):     | 11                                                                                    |
-| [Towers](Tower.md):              | 18                                                                                    |
-| Active [Warpgates](Warpgate.md): | 4                                                                                     |
-| Active [Geowarps](Geowarp.md):   | 1                                                                                     |
-| [Capitol](Capitol.md):           | [Interlink Facility](Interlink_Facility.md) [Voltan](Voltan.md) |
+|                                  |                                                                                    |
+| -------------------------------- | ---------------------------------------------------------------------------------- |
+| Category:                        | Caustic Atmosphere                                                                 |
+| Climate:                         | Humid, Temperate                                                                   |
+| Landmass:                        | Continent                                                                          |
+| Terrain:                         | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains. |
+| [Facilities](Facilities.md):     | 11                                                                                 |
+| [Towers](Towers.md):             | 18                                                                                 |
+| Active [Warpgates](Warpgate.md): | 4                                                                                  |
+| Active [Geowarps](Geowarp.md):   | 1                                                                                  |
+| [Capitol](Capitol.md):           | [Interlink Facility](Interlink.md) [Voltan](Voltan.md)                             |
 
 ## Description
 
@@ -29,7 +29,7 @@ The [continent](continent.md) is divided by a river in the
 center which splits and surrounds an island on its way through the
 continent. On this island is the [Capitol](Capitol.md) of
 Hossin, [Voltan](Voltan.md), an [Interlink
-Facility](Interlink_Facility.md).
+Facility](Interlink.md).
 
 Hossin is a [Home Continent](Home_Continent.md). A
 [Sanctuary](Sanctuary.md) warpgate links to the

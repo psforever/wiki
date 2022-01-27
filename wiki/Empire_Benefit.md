@@ -19,15 +19,15 @@ vehicles](Advanced_Assault_vehicles.md).
 Home Continent Empire benefits persist until an opposing Empire
 recaptures and locks one of their home continents.
 
-[Ceryshen](Ceryshen.md) & [Forseral](Forseral.md) ([VS](VS.md)) : [Magriders](Magrider.md), [Auroras](Aurora.md), [Threshers](Thresher.md), [Aphelions](Aphelion.md) & [Eclipses](Eclipse.md)
+[Ceryshen](Ceryshen.md) & [Forseral](Forseral.md) ([VS](Vanu_Sovereignty.md)) : [Magriders](Magrider.md), [Auroras](Aurora.md), [Threshers](Thresher.md), [Aphelions](Aphelion.md) & [Eclipses](Eclipse.md)
 
 <!-- -->
 
-[Amerish](Amerish.md) & [Esamir](Esamir.md) ([NC](NC.md)) : [Vanguards](Vanguard.md), [Thunderers](Thunderer.md), [Enforcers](Enforcer.md), [Peregrines](Peregrine.md) & [Eagles](Eagle.md)
+[Amerish](Amerish.md) & [Esamir](Esamir.md) ([NC](New_Conglomerate.md)) : [Vanguards](Vanguard.md), [Thunderers](Thunderer.md), [Enforcers](Enforcer.md), [Peregrines](Peregrine.md) & [Eagles](Eagle.md)
 
 <!-- -->
 
-[Solsar](Solsar.md) & [Hossin](Hossin.md) ([TR](TR.md)) : [Prowlers](Prowler.md), [Raiders](Raider.md), [Marauders](Marauder.md), [Colossuses](Colossus.md) & [Invaders](Invader.md)
+[Solsar](Solsar.md) & [Hossin](Hossin.md) ([TR](Terran_Republic.md)) : [Prowlers](Prowler.md), [Raiders](Raider.md), [Marauders](Marauder.md), [Colossuses](Colossus.md) & [Invaders](Invader.md)
 
 ## Neutral continents
 

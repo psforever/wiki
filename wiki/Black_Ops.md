@@ -13,16 +13,16 @@ all [certifications](certification.md), and therefor all
 are a force to be reckoned with. Black Ops soldiers can only chose
 between [Agile Exo-Suit](Agile_Exo-Suit.md) and [Reinforced
 Exo-Suit](Reinforced_Exo-Suit.md) and cannot choose
-[MAX](MAX.md) armor. All vehicles are available with greenish
-textures to denote Black Ops, though [BFRs](BFR.md) are only
+[MAX](Mechanized_Assault_Exo-Suit.md) armor. All vehicles are available with greenish
+textures to denote Black Ops, though [BFRs](BattleFrame_Robotics.md) are only
 available if enabled by a GM. [One-Manned Field
 Turrets](One-Manned_Field_Turret.md) deployed by Black Ops will
 be the empire variant of the empire they left.
 
 Black Ops do have certain restrictions/penalties however, as they cannot
-use any [Implants](Implant.md) and are not awarded any form of
+use any [Implants](Implants.md) and are not awarded any form of
 Experience Points for their activities. Kills made as a Black Ops also
-do not count towards [Merit](Merit.md) progress or track on the
+do not count towards [Merit](Merit_Commendations.md) progress or track on the
 [PlanetSide](PlanetSide.md) statistic websites.
 
 Black Ops can only
@@ -35,7 +35,7 @@ Black Ops can only be on the continent(s) enabled by the GM (usually
 only one), as all others will be locked to them. By using the Black Ops
 HQ they can instantly [HART](HART.md) drop anywhere on the
 [continent](continent.md), as well as spawn at any neutral
-[Facility](Facility.md) or [Tower](Tower.md) on that
+[Facility](Facilities.md) or [Tower](Towers.md) on that
 continent. In addition, they can spawn at
 [AMSes](Advanced_Mobile_Station.md) that are placed by other
 Black Ops.

@@ -19,7 +19,7 @@ Grenades can be fired from a number of weapons:
 ## [Hand grenades](Hand_grenade.md)
 
 - [Fragmentation grenade](Fragmentation_grenade.md)
-- [Jammer grenade](Jammer_grenade.md)
+- [Jammer grenade](Jammer_Grenade.md)
 - [Plasma grenade](Plasma_grenade.md)
 
 [category:Game Items](category:Game_Items.md)

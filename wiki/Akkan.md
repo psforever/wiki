@@ -11,6 +11,6 @@ It has [Lattice](Lattice.md) Links to:
   [Hanish](Hanish.md)
 
 It is a Hack-and-Hold Facility with an Air Tower to it's North West,
-inside its [SOI](SOI.md).
+inside its [SOI](Sphere_of_Influence.md).
 
 [Category:Facilities](Category:Facilities.md)

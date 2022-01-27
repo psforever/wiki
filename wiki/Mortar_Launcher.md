@@ -1,15 +1,15 @@
-|                            |                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------- |
+|                            |                                                                       |
+| -------------------------- | --------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                       |
 | **Empire**                 | [Terran Republic](Terran_Republic.md)                                 |
-| **Primary Mode**           | Single Shot Mortar                                                               |
-| **Secondary Mode**         | 8-Shot Salvo                                                                     |
+| **Primary Mode**           | Single Shot Mortar                                                    |
+| **Secondary Mode**         | 8-Shot Salvo                                                          |
 | **Ammunition**             | [Colossus Mortar Launcher Shells](Colossus_Mortar_Launcher_Shells.md) |
-| **Range**                  | Unknown                                                                          |
-| **Inventory Dimensions**   | [BFR](BFR.md) Pilot Weapon                                            |
-| **Magazine Capacity**      | 24                                                                               |
-| **Zoom**                   | 2x (?)                                                                           |
-|                            |                                                                                  |
+| **Range**                  | Unknown                                                               |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Pilot Weapon                           |
+| **Magazine Capacity**      | 24                                                                    |
+| **Zoom**                   | 2x (?)                                                                |
+|                            |                                                                       |
 
 **Mortar Launcher**
 

@@ -1,15 +1,15 @@
-|                            |                                                                                                |
-| -------------------------- | ---------------------------------------------------------------------------------------------- |
+|                            |                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](BattleFrame_Robotics.md)                                     |
 | **Empire**                 | [New Conglomerate](New_Conglomerate.md)                                             |
-| **Primary Mode**           | Anti-Tank Machine Gun                                                                          |
-| **Secondary Mode**         | \-                                                                                             |
+| **Primary Mode**           | Anti-Tank Machine Gun                                                               |
+| **Secondary Mode**         | \-                                                                                  |
 | **Ammunition**             | [Peregrine Anti Tank Machinegun Bullets](Peregrine_Anti_Tank_Machinegun_Bullets.md) |
-| **Range**                  | 275m                                                                                           |
-| **Inventory Dimensions**   | [BFR](BFR.md) Pilot Weapon                                                          |
-| **Magazine Capacity**      | 55                                                                                             |
-| **Zoom**                   | 2x                                                                                             |
-|                            |                                                                                                |
+| **Range**                  | 275m                                                                                |
+| **Inventory Dimensions**   | [BFR](BattleFrame_Robotics.md) Pilot Weapon                                         |
+| **Magazine Capacity**      | 55                                                                                  |
+| **Zoom**                   | 2x                                                                                  |
+|                            |                                                                                     |
 
 **Anti-Tank Machine Gun**
 

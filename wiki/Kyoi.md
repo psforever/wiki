@@ -13,6 +13,6 @@ Kyoi has [Lattice](Lattice.md) Links to:
 Kyoi is also one of the 4 Sub-Capitol's.
 
 Kyoi has a Gun Tower in the South East, which is in Kyoi's
-[SOI](SOI.md). Kyoi is a Hack-and-Hold Facility.
+[SOI](Sphere_of_Influence.md). Kyoi is a Hack-and-Hold Facility.
 
 [Category:Facilities](Category:Facilities.md)

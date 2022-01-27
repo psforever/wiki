@@ -45,17 +45,17 @@ bases and towers, the [Barracks](Barracks.md) in each facility
 (excluding [Bio Laboratories](Bio_Laboratory.md)), the [Medical
 Bay](Medical_Bay.md), [Research Room](Research_Room.md),
 and
-[certification](certification.md)/[Implant](Implant.md)
+[certification](certification.md)/[Implant](Implants.md)
 room of Bio Labs, and the Observation Deck of the
 [HART](HART.md) building in each Empire's
 [Sanctuary](Sanctuary.md).
 
-There are no Lockers in the [Caverns](Cavern.md).
+There are no Lockers in the [Caverns](Caverns.md).
 
 ## Common uses
 
 Despite equipment being readily available from any [Equipment
-terminal](Equipment_terminal.md), Lockers are still useful for
+terminal](Equipment_Terminal.md), Lockers are still useful for
 storing looted enemy equipment and ammo, equipping yourself when the
 Facility is hacked or when the Facility's
 [generator](generator.md) is destroyed, or for Infiltration

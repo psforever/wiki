@@ -1,15 +1,15 @@
 ![](images/TRAP.jpg "fig:TRAP.jpg") entrace\]\]
 
-|                            |                                                                      |
-| -------------------------- | -------------------------------------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Fortification Engineering](Fortification_Engineering.md) |
 | **Empire**                 | [Common Pool](Common_Pool.md)                             |
-| **Primary Mode**           | TRAP                                                                 |
-| **Secondary Mode**         | \-                                                                   |
+| **Primary Mode**           | TRAP                                                      |
+| **Secondary Mode**         | \-                                                        |
 | **Ammunition**             | [Field Deployment Unit](Field_Deployment_Unit.md) (FDU)   |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                |
-| **Magazine Capacity**      | 1 TRAP per FDU                                                       |
-| **Zoom**                   | None                                                                 |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                     |
+| **Magazine Capacity**      | 1 TRAP per FDU                                            |
+| **Zoom**                   | None                                                      |
 
 **Tactical Resonance Area Protection (TRAP)**
 
@@ -34,9 +34,9 @@ it.
 
 The TRAPs share the same interference range as the [Aegis Shield
 Generator](Aegis_Shield_Generator.md), the
-[AMS](AMS.md), and the [One-Manned Field
+[AMS](Advanced_Mobile_Station.md), and the [One-Manned Field
 Turrets](One-Manned_Field_Turret.md), and cannot be placed
-inside Enemy [SOIs](SOI.md). TRAPs cannot be placed on catwalks,
+inside Enemy [SOIs](Sphere_of_Influence.md). TRAPs cannot be placed on catwalks,
 walls or on the white areas that surround Facilities, Towers and doors.
 
 If enemy vehicles are destroyed by a TRAP, it will appear in the kill

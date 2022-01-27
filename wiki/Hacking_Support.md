@@ -222,10 +222,10 @@ Awarded for kills scored by friendly troops after they have used one or
 more of the following that was hacked by you:
 
 - [Equipment Terminal](Equipment_Terminal.md)
-- [Locker](Locker.md)
+- [Locker](Lockers.md)
 - [Medical Terminal](Medical_Terminal.md)
 - [Vehicle Terminal](Vehicle_Terminal.md)
-- [BFR Terminal](BFR_Terminal.md)
+- [BFR Terminal](BFR_Shed.md)
 
 These apply to all Ancient terminals as well.
 

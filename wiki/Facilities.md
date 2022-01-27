@@ -1,6 +1,6 @@
 The goal of Planetside is to capture and hold the **Facilities**, often
 called **Bases**, on each [Planet](Planet.md) and in each
-[Cavern](Cavern.md). These bases provide gathering locations for
+[Cavern](Caverns.md). These bases provide gathering locations for
 troops, supply points for weapons and equipment, cover from air or
 ground attack, special functions such as vehicle repair or rapid
 respawning, and strategic chokepoints for defense and attack.
@@ -15,7 +15,7 @@ of buildings, terminals, and vital functions.
 - [Amp Station](Amp_Station.md)
 - [Bio Laboratory](Bio_Laboratory.md)
 - [Dropship Center](Dropship_Center.md)
-- [Interlink Facility](Interlink_Facility.md)
+- [Interlink Facility](Interlink.md)
 - [Technology Plant](Technology_Plant.md)
 
 ### Cavern Facilities
@@ -39,7 +39,7 @@ of buildings, terminals, and vital functions.
 - [BFR Shed](BFR_Shed.md)
 - [Control Console](Control_Console.md)
 - [Courtyard](Courtyard.md)
-- [Equipment terminal](Equipment_terminal.md)
+- [Equipment terminal](Equipment_Terminal.md)
 - [Generator](Generator.md)
 - [IFF Door Locks](IFF.md)
 - [Landing Pad](Landing_Pad.md)
@@ -51,7 +51,7 @@ of buildings, terminals, and vital functions.
 - [NTU Silo](NTU_Silo.md)
 - [Phalanx Wall Turrets](Phalanx.md)
 - [Repair/Rearm Silo](Repair_Rearm_Silo.md)
-- [Respawn tubes](Respawn_tube.md)
+- [Respawn tubes](Respawn_Tube.md)
 - [Vehicle Terminal](Vehicle_Terminal.md)
 
 ### Specific Base Features
@@ -63,7 +63,7 @@ of buildings, terminals, and vital functions.
 - [Implant Terminal](Implant_Terminal.md) (Bio Laboratory and
   [Sanctuary](Sanctuary.md) only)
 - [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md)
-  ([LLU](LLU.md) Facilities only)
+  ([LLU](Lattice_Logic_Unit.md) Facilities only)
 
 ### Cavern Facility Features
 
@@ -79,11 +79,11 @@ of buildings, terminals, and vital functions.
 # Facilities Directory
 
 Total Capturable Facilities: 153 **Does not include
-[Towers](Tower.md) or neutral cavern structures.**
+[Towers](Towers.md) or neutral cavern structures.**
 
 ## Surface Bases
 
-Capturable Facilities, not including [Towers](Tower.md): 117
+Capturable Facilities, not including [Towers](Towers.md): 117
 
 ### [Amerish](Amerish.md)
 

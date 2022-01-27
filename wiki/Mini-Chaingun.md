@@ -1,15 +1,15 @@
 ![](images/MCG.jpg "fig:MCG.jpg") Soldier equipped with a Mini-Chaingun\]\]
 
-|                            |                                                                                                   |
-| -------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Heavy Assault](Heavy_Assault.md)                                                      |
-| **Empire**                 | [Terran Republic](Terran_Republic.md)                                                  |
-| **Primary Mode**           | Rapid Fire                                                                                        |
-| **Secondary Mode**         | \-                                                                                                |
-| **Ammunition**             | 9mm Bullet ([Standard](9mm_Bullet.md) / [Armor Piercing](AP_9mm_Bullet.md)) |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                             |
-| **Magazine Capacity**      | 100                                                                                               |
-| **Zoom**                   | 2x                                                                                                |
+|                            |                                                                                          |
+| -------------------------- | ---------------------------------------------------------------------------------------- |
+| **Certification Required** | [Heavy Assault](Heavy_Assault.md)                                                        |
+| **Empire**                 | [Terran Republic](Terran_Republic.md)                                                    |
+| **Primary Mode**           | Rapid Fire                                                                               |
+| **Secondary Mode**         | \-                                                                                       |
+| **Ammunition**             | 9mm Bullet ([Standard](9mm_Bullet.md) / [Armor Piercing](Armour_Piercing_9mm_Bullet.md)) |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                    |
+| **Magazine Capacity**      | 100                                                                                      |
+| **Zoom**                   | 2x                                                                                       |
 
 **Mini-Chaingun (MCG)**
 
@@ -31,12 +31,12 @@ Assault](Heavy_Assault.md) weaponry outdoors.
 
 Shots to kill:
 
-|                                                          |                                             |
-| -------------------------------------------------------- | ------------------------------------------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                                     |
-| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                                     |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                                    |
-| [MAX](MAX.md)                                 | 58 [AP](Armor_Piercing.md) shots |
+|                                               |                                  |
+| --------------------------------------------- | -------------------------------- |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                          |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                          |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                         |
+| [MAX](Mechanized_Assault_Exo-Suit.md)         | 58 [AP](Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](Implants.md) or [Empire

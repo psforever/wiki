@@ -12,7 +12,7 @@ chat box, or press Esc and select from the menu.
 
 As with [Recall](Recall.md), location affects timer:
 
-- Friendly [SOI](SOI.md): 10 seconds
+- Friendly [SOI](Sphere_of_Influence.md): 10 seconds
 - Neutral SOI or open country: 20 seconds
 - Enemy SOI: 30 seconds
 

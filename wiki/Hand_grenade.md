@@ -1,5 +1,5 @@
 [thumb](image:Hand-grenades.md.jpg),
-[Jammer](Jammer_grenade.md), and
+[Jammer](Jammer_Grenade.md), and
 [Plasma](Plasma_grenade.md) Hand [Grenades](Grenade.md)
 (L to R)\]\] Hand grenades are single lightweight grenades designed to
 be thrown at thine enemy. They require only the [Standard
@@ -24,7 +24,7 @@ key. Holding fire longer increases the throw distance.
 - ![Image:Plasma-Hand-grenade-Icon.jpg](Plasma-Hand-grenade-Icon.md.jpg "fig:Image:Plasma-Hand-grenade-Icon.jpg")
   [Plasma grenade](Plasma_grenade.md)
 - ![Image:Jammer-Hand-grenade-Icon.jpg](Jammer-Hand-grenade-Icon.md.jpg "fig:Image:Jammer-Hand-grenade-Icon.jpg")
-  [Jammer grenade](Jammer_grenade.md)
+  [Jammer grenade](Jammer_Grenade.md)
 - ![Image:Frag-Hand-grenade-Icon.jpg](Frag-Hand-grenade-Icon.md.jpg "fig:Image:Frag-Hand-grenade-Icon.jpg")
   [Fragmentation grenade](Fragmentation_grenade.md)
 

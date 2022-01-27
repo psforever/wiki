@@ -12,7 +12,7 @@ A list of all the In-Game Commands
   last person that send a tell to you.
 - **/l <text> - /local <text>** - Sends message in Local Chat Mode.
 - **/b <text> - /broadcast <text>** - Sends message to all Friendlies
-  in your [SOI](SOI.md) (Only works in Friendly SOI's)
+  in your [SOI](Sphere_of_Influence.md) (Only works in Friendly SOI's)
 - **/s <text> - /squad <text>** - Sends message to your fellow Squad
   Members.
 - **/p <text> - /platoon <text>** - Sends message to your fellow
@@ -213,7 +213,7 @@ _[Command Rank](Command_Rank.md) 5 ONLY:_
 
 ## Restricted Commands
 
-_Only [CSRs](CSR.md) and other authorized [SOE](SOE.md)
+_Only [CSRs](CSR.md) and other authorized [SOE](Sony_Online_Entertainment.md)
 employees can use these commands_
 
 - **/create <name>** - Create specified [vehicle](vehicle.md).
@@ -222,7 +222,7 @@ employees can use these commands_
 - **/setstamina <amount>** - Sets your [stamina](stamina.md).
 - **/setammo <amount>** - Sets your ammo.
 - **/[award](award.md)** - Control [Merit
-  Commendation](Merit_Commendation.md) status.
+  Commendation](Merit_Commendations.md) status.
 - **/suicide** - Kills your character.
 
 [category:Commands](category:Commands.md)

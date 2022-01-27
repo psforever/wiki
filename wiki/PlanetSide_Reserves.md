@@ -21,13 +21,13 @@ page](http://planetside.station.sony.com/reserves/)
 - Characters limited to Command Rank 2 and [CEP](CEP.md)
   stopped accruing
 - Characters could enter the [Caverns](Caverns.md) and use
-  [Ancient Tech](Ancient_Tech.md)
+  [Ancient Tech](Ancient_Technology.md)
   [vehicles](vehicles.md) and [weapons](weapons.md),
   but could not [Imprint](Imprint.md) for
-  [BFRs](BFR.md), although the pre-requisites for Imprinting
+  [BFRs](BattleFrame_Robotics.md), although the pre-requisites for Imprinting
   could be earned
 - There was no limitation on joining [Squads](Squads.md) or
-  [Outfits](Outfits.md)
+  [Outfits](List_of_Outfits.md)
 - Characters on paying accounts moved ahead of PlanetSide Reserves
   characters in the [warp queue](warp_queue.md) for a
   [poplocked](poplocked.md) [zone](zone.md)

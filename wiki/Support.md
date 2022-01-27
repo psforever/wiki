@@ -1,7 +1,7 @@
 [Support](Support.md) roles involve helping other members of
 your team in any manner. This can include healing other players,
 repairing other players and [vehicles](vehicle.md), reviving
-fallen comrades, Hacking Terminals and [Lockers](Locker.md) for
+fallen comrades, Hacking Terminals and [Lockers](Lockers.md) for
 your teammates to use, and driving the support vehicles.
 
 ## Infantry Support
@@ -105,7 +105,7 @@ Available [Merit Commendations](Merit_Commendations.md):
 ### Galaxy Support
 
 When a ground invasion of a base fails, often the skies are the best way
-to get into a base. This is where the [Galaxy](Galaxy.md) comes
+to get into a base. This is where the [Galaxy](vehicles/Galaxy.md) comes
 in, it allows players to get onto a base in an unexpected way which will
 often throw base defenders off. However, one person who is often never
 creditted for this act is the actual Galaxy pilot. He sacrifices his
@@ -140,7 +140,7 @@ Speed is the key to any team, and the [Router](Router.md) helps
 get soldiers where they need to be. This allows soldiers cross huge
 distances in a split second, but the enemy can utilize enemy Routers, so
 careful Router and telepad placement is important. The
-[Merit](Merit_Commendation.md) for this encourages good router
+[Merit](Merit_Commendations.md) for this encourages good router
 and telepad placement.
 
 Available [Merit Commendations](Merit_Commendations.md):

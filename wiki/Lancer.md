@@ -1,16 +1,16 @@
 ![](images/Lancer.jpg "fig:Lancer.jpg") Soldier firing a Lancer\]\]
 
-|                            |                                                      |
-| -------------------------- | ---------------------------------------------------- |
+|                            |                                           |
+| -------------------------- | ----------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](Anti-Vehicular.md)       |
 | **Empire**                 | [Vanu Sovereignty](Vanu_Sovereignty.md)   |
-| **Primary Mode**           | Energy Beam                                          |
-| **Secondary Mode**         | \-                                                   |
+| **Primary Mode**           | Energy Beam                               |
+| **Secondary Mode**         | \-                                        |
 | **Ammunition**             | [Large Energy Cell](Large_Energy_Cell.md) |
-| **Range**                  | 300 m                                                |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                |
-| **Magazine Capacity**      | 6                                                    |
-| **Zoom**                   | 4x                                                   |
+| **Range**                  | 300 m                                     |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                     |
+| **Magazine Capacity**      | 6                                         |
+| **Zoom**                   | 4x                                        |
 
 **Lancer**
 
@@ -23,19 +23,19 @@ necessitating the soldier to lead moving targets. The Lancer has a
 greater range than the [Phoenix](Phoenix.md) and
 [Striker](Striker.md).
 
-As an interesting sidenote, this is the only non-[MAX](MAX.md)
-[Vanu](VS.md) beam weapon not to use the universal [Energy
+As an interesting sidenote, this is the only non-[MAX](Mechanized_Assault_Exo-Suit.md)
+[Vanu](Vanu_Sovereignty.md) beam weapon not to use the universal [Energy
 Cell](Energy_Cell.md) ammo.
 
 Shots to kill:
 
-|                                      |             |
-| ------------------------------------ | ----------- |
-| [MAX](MAX.md)             | 6 shots     |
-| [Lightning](Lightning.md) | 9 shots     |
-| [Prowler](Prowler.md)     | 22(?) shots |
-| [Magrider](Magrider.md)   | 17(?) shots |
-| [Vanguard](Vanguard.md)   | 23(?) shots |
+|                                       |             |
+| ------------------------------------- | ----------- |
+| [MAX](Mechanized_Assault_Exo-Suit.md) | 6 shots     |
+| [Lightning](Lightning.md)             | 9 shots     |
+| [Prowler](Prowler.md)                 | 22(?) shots |
+| [Magrider](Magrider.md)               | 17(?) shots |
+| [Vanguard](Vanguard.md)               | 23(?) shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

@@ -11,7 +11,7 @@ There are several kinds of maps available in Planetside:
 These maps are sometimes collectively refered to as the Game Map or
 Overhead Map.
 
-There is also another map that appears on your [HUD](HUD.md)
+There is also another map that appears on your [HUD](Heads-up_Display.md)
 screen, but has different features. This is the [Proximity
 Map](Proximity_Map.md), also called Proximity Radar or Radar
 Map.

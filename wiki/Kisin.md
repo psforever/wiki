@@ -1,5 +1,5 @@
 Kisin is one of the three [Interlink
-Facilities](Interlink_Facility.md) on
+Facilities](Interlink.md) on
 [Hossin](Hossin.md). It is located in the North of Hossin in
 grids H7 and I7.
 
@@ -12,6 +12,6 @@ It has [Lattice](Lattice.md) Links to:
 - Technology Plant [Ghanon](Ghanon.md)
 
 Kisin has an Air Tower to it's South East, which is inside it's
-[SOI](SOI.md). Kisin is a [LLU](LLU.md) Facility.
+[SOI](Sphere_of_Influence.md). Kisin is a [LLU](Lattice_Logic_Unit.md) Facility.
 
 [Category:Facilities](Category:Facilities.md)
