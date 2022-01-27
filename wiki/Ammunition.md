@@ -19,7 +19,7 @@ All ammunition native to your [empire](empire.md) can be
 obtained from any [Equipment Terminal](Equipment_Terminal.md).
 Vehicle ammunition is availible from the vehicle tab and can be manually
 loaded into a vehicle's trunk. [Repair/Rearm.md
-Silos](Repair/Rearm_Silo.md) and [Landing
+Silos](Repair_Rearm_Silo.md) and [Landing
 Pads](Landing_Pad.md) distribute vehicle ammunition while you
 are inside a vehicle.
 

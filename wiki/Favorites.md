@@ -1,6 +1,6 @@
 All [Equipment Terminals](Equipment_Terminal.md), [Landing
 Pads](Landing_Pad.md) and [Repair/Rearm.md
-Silos](Repair/Rearm_Silo.md) allow the current infantry or
+Silos](Repair_Rearm_Silo.md) allow the current infantry or
 vehicle [loadout](loadout.md) to be stored in one of a number of
 presets.
 
@@ -20,7 +20,7 @@ has an [Equipment Module](Equipment_Module.md) or you are in the
 Likewise, a vehicle's [Trunk](Trunk.md) contents can be
 similarly saved and recalled as needed. The [Landing
 Pad](Landing_Pad.md) and [Repair/Rearm.md
-Silo](Repair/Rearm_Silo.md) share a bank of five preset slots.
+Silo](Repair_Rearm_Silo.md) share a bank of five preset slots.
 
 It is a good idea to prepare at least one of these infantry slots in
 advance of major battles, as physical access to the Equipment terminal

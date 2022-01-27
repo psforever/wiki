@@ -47,7 +47,7 @@ The Flail requires a [Vehicle Module](Vehicle_Module.md) lattice
 benefit, or linked [Cavern Lock Benefit](Cavern_Lock.md) in
 order to be purchasable on the surface. To recharge the Flail's
 capacitor, you must go to a [Repair/Rearm.md
-Silo](Repair/Rearm_Silo.md) at a facility that has the [Vehicle
+Silo](Repair_Rearm_Silo.md) at a facility that has the [Vehicle
 Module](Vehicle_Module.md) benefit, or use a [Vehicle Energy
 Crystal](Vehicle_Energy_Crystal.md) in the
 [Caverns](Caverns.md).

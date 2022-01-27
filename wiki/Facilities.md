@@ -50,7 +50,7 @@ of buildings, terminals, and vital functions.
 - [Module Cradle](Module_Cradle.md)
 - [NTU Silo](NTU_Silo.md)
 - [Phalanx Wall Turrets](Phalanx.md)
-- [Repair/Rearm Silo](Repair/Rearm_Silo.md)
+- [Repair/Rearm Silo](Repair_Rearm_Silo.md)
 - [Respawn tubes](Respawn_tube.md)
 - [Vehicle Terminal](Vehicle_Terminal.md)
 

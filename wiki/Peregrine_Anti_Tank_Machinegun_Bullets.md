@@ -16,7 +16,7 @@ reductions](Damage_Degradation.md) at longer ranges. The boxes
 can be obtained from any [Equipment
 Terminal](Equipment_Terminal.md) to be hand-loaded into the
 [BFR](BFR.md)'s [trunk](trunk.md) or acquired while in
-the BFR from a [Repair/Rearm Silo](Repair/Rearm_Silo.md).
+the BFR from a [Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Ammunition](Category:Ammunition.md)

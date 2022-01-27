@@ -47,7 +47,7 @@ building](HART_building.md).
 - [Implant Terminals](Implant_Terminal.md)
 - [Lockers](Lockers.md)
 - [Medical Terminals](Medical_Terminal.md)
-- [Repair/Rearm Silos](Repair/Rearm_Silo.md)
+- [Repair/Rearm Silos](Repair_Rearm_Silo.md)
 - [Respawn tubes](Respawn_tube.md)
 - [Respawn Buildings](Respawn_Building.md)
 - [Teleporters](Teleporter.md)

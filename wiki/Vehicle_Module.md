@@ -3,7 +3,7 @@ benefit](module_benefit.md) of allowing the purchase, repair,
 and capacitor recharging of [Ancient-Tech](Ancient-Tech.md)
 vehicles: [Flail](Flail.md) and
 [Switchblade](Switchblade.md). The vehicles can repair at the
-[Repair/Rearm Silo](Repair/Rearm_Silo.md) and can recharge their
+[Repair/Rearm Silo](Repair_Rearm_Silo.md) and can recharge their
 capacitors at either [Landing Pads](Landing_Pad.md) or
 Repair/Rearm Silos. Additionally, the vehicle reacquire timer for all
 vehicles is reduced significantly.

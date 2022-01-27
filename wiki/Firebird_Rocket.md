@@ -14,7 +14,7 @@ armor as has a small splash damage area. The boxes can be obtained from
 any [Equipment Terminal](Equipment_Terminal.md) to be
 hand-loaded into the Enforcer's [trunk](trunk.md) or acquired
 while in the vehicle from a [Repair/Rearm.md
-Silo](Repair/Rearm_Silo.md).
+Silo](Repair_Rearm_Silo.md).
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Ammunition](Category:Ammunition.md)
