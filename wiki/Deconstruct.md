@@ -1,6 +1,6 @@
 **Deconstructing** refers to one of two things:
 
-1.  When a player [Recalls](Recall.md), calls [Instant
+1. When a player [Recalls](Recall.md), calls [Instant
     Action](Instant_Action.md), enters a [Respawn
     tube](Respawn_Tube.md), or accesses an
     [AMS's](Advanced_Mobile_Station.md) [Respawn
@@ -8,7 +8,7 @@
     green nanite dust.
     - To deconstruct, simply approach one of the above areas and press
       the "G" key when prompted to deconstruct.
-2.  When a game object dematerializes in a cloud of green nanite dust.
+2. When a game object dematerializes in a cloud of green nanite dust.
     The occasions for this to happen vary.
     - Destroyed vehicles dematerializing after a time to clear
       roadways and lines of fire.

@@ -1,1 +1,1 @@
-1.  redirect[cone of fire](cone_of_fire.md)
+1. redirect[cone of fire](cone_of_fire.md)

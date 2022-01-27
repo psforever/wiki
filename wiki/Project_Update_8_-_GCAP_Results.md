@@ -36,9 +36,9 @@ Code: Select all Packet statistics for 9,813,764 packets
 
 **Missing 113 packets:**
 
-` 3 ( UnknownMessage3) 6 ( UnknownMessage6)`
+`3 ( UnknownMessage3) 6 ( UnknownMessage6)`
 
-` 7 ( UnknownMessage7) 9 ( UnknownMessage9)`
+`7 ( UnknownMessage7) 9 ( UnknownMessage9)`
 `14 ( MountVehicleMsg) 15 ( DismountVehicleMsg)`
 `17 ( UnknownMessage17) 19 ( CharacterNoRecordMessage)`
 `21 ( UnknownMessage21) 26 ( UnknownMessage26)`

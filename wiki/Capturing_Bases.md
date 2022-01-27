@@ -37,9 +37,9 @@ nearby spawn point but it is far more difficult to do so.
 
 There are three types of spawn points to consider in this situation:
 
-1.  [AMS](Advanced_Mobile_Station.md)
-2.  [Towers](Towers.md)
-3.  Base [spawn tubes](Respawn_Tube.md)
+1. [AMS](Advanced_Mobile_Station.md)
+2. [Towers](Towers.md)
+3. Base [spawn tubes](Respawn_Tube.md)
 
 <h3>
 
@@ -81,8 +81,8 @@ Towers
 [Towers](Towers.md), though usually a good distance from the
 base, are dangerous because of two factors:
 
-1.  MAX units can be obtained at them
-2.  Towers are indestructible
+1. MAX units can be obtained at them
+2. Towers are indestructible
 
 <h3>
 

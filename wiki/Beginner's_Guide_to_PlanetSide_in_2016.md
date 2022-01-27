@@ -31,7 +31,7 @@ Infiltration Suit): Go to an Equipment Terminal Choose a loadout of a
 different armor type you are currently wearing Choose the loadout of the
 armor type you were wearing
 
-` (Hotkey process: G → # → G → #)`
+`(Hotkey process: G → # → G → #)`
 
 This will repair your armor to full. Be warned, if you change loadouts
 to the armor type you were wearing, the armor will not be healed.
@@ -42,7 +42,7 @@ convenient in the heat of battle to have a player repair you. You can
 inform nearby players that you need repairs by using a voice macro.
 (Keys: V-N-R).
 
-- - One very useful tip/trick, if you standing directly behind
+  - - One very useful tip/trick, if you standing directly behind
     someone at point blank range, they can repair you. This is
     extremely useful if that player is third person camping. It is
     important to note that not all players will know about this
@@ -82,7 +82,7 @@ certifications much less painful.
 
 Combat
 
-` There are a few important aspects to combat in PlanetSide that are important to learn about as a beginner.`
+`There are a few important aspects to combat in PlanetSide that are important to learn about as a beginner.`
 
 Movement/Strafing
 
@@ -154,7 +154,7 @@ into your loadout to help deal with MAX Units.
 Newer players with less certifications will probably be more interested
 in the alternative loadouts requiring less certifications.
 
-- - NOTE: These are the Terran Republic versions of loadouts. New
+  - - NOTE: These are the Terran Republic versions of loadouts. New
     Conglomerate and Vanu Sovereignty will have to use their
     equivalent empire specific weapons and respective ammo.
 
@@ -164,16 +164,16 @@ Loadout Notes Equipment Used: Remote Electronics Kit (REK) Medkit x2
 Mini-Chaingun -- Heavy Assault Decimator x2 -- Anti-Vehicular Medical
 Applicator -- Medical
 
-` **If you lack Medical, can use REK as a Sidearm instead`
+`**If you lack Medical, can use REK as a Sidearm instead`
 
 Body Armor Nano Kit (BANK) -- Engineering
 
-` **If you lack Engineering, can use REK as a Sidearm instead`
+`**If you lack Engineering, can use REK as a Sidearm instead`
 
 Adaptive Construction Engine (ACE) -- Combat Engineering Command Uplink
 Device (CUD) -- Command Rank 2
 
-` **If you lack these, can replace for additional ammo`
+`**If you lack these, can replace for additional ammo`
 
 Alternatives
 
@@ -188,20 +188,20 @@ Agile ExoSuit (Agile) -- Standard Loadout
 Loadout Notes Equipment Used: Remote Electronics Kit (REK) Medkit
 Mini-Chaingun -- Heavy Assault Decimator -- Anti-Vehicular
 
-` **If you lack Anti-Vehicular, can replace for more ammo/medkits/grenades.`
+`**If you lack Anti-Vehicular, can replace for more ammo/medkits/grenades.`
 
 Medical Applicator -- Medical
 
-- - If you lack Medical, can use REK as a Sidearm instead
+  - - If you lack Medical, can use REK as a Sidearm instead
 
 Body Armor Nano Kit (BANK) -- Engineering
 
-` **If you lack Engineering, can use REK as a Sidearm instead`
+`**If you lack Engineering, can use REK as a Sidearm instead`
 
 Adaptive Construction Engine (ACE) -- Combat Engineering Command Uplink
 Device (CUD) -- Command Rank 2
 
-` **If you lack this, can replace for additional ammo`
+`**If you lack this, can replace for additional ammo`
 
 Alternatives If you don’t have Anti-Vehicular (likely for newer
 players), then this loadout is preferred:
@@ -232,7 +232,7 @@ two Equipment Terminals on either side. If you wish to deconstruct
 yourself, you can do so by going to the rear end of the AMS. The AMS can
 be acquired from a Vehicle Terminal by certing Ground Support.
 
-- - NOTE: When populations are extremely low, it is sometimes
+  - - NOTE: When populations are extremely low, it is sometimes
     considered unethical to camp or destroy spawns, particularly an
     AMS. The reason for this is that it kills the fight for a while,
     leading to meaningless downtime. This isn’t a problem when the

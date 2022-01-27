@@ -4,4 +4,4 @@ focused on teamplay.
 
 Part of the gaming community 'The Corporation'.
 
--   [The Corporation Homepage](http://www.the-corporation.co.uk/)
+- [The Corporation Homepage](http://www.the-corporation.co.uk/)

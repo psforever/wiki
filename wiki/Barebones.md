@@ -24,7 +24,7 @@ voice, and head into sanctuary.
 </tr>
 </table>
 
-## VR training!
+## VR training
 
 When you spawn in your [Sanctuary](Sanctuary.md), walk out the
 door and take a sharp left or right, and walk around the corner of that

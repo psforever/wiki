@@ -27,13 +27,13 @@ thread](http://psforums.station.sony.com/ps/board/message?board.id=psstrategy&me
 
 `*1 boomer: ANY terminal, ATV, infantry, Spitfire turret`
 
-`*2 boomers: Lightning, MAX, any Buggy, Reaver, Mosquito, Unmanned FV, Spawn tube `
+`*2 boomers: Lightning, MAX, any Buggy, Reaver, Mosquito, Unmanned FV, Spawn tube`
 
 `*3 boomers: Deliverer and Variants, ANT, Liberator`
 
 `*4 boomers: Wall turret, MBT, Sunderer, AMS, Unmanned GV, Galaxy, Lodestar`
 
-`*6 boomers: The Generator `
+`*6 boomers: The Generator`
 
 - **Advanced hacking:** An easy if boring way to help your empire is
   take towers behind enemy lines. If you take a tower you are

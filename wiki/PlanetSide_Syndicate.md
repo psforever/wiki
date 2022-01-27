@@ -23,9 +23,9 @@ Founding Administrators: Rahl, Elana, Shamoox, rev, Hayoo, martyr
 
 Original Participating Organizations:
 
-` PlanetSide Idealab`
-` PlanetSideStats.net`
-` PlanetSide Comics`
+`PlanetSide Idealab`
+`PlanetSideStats.net`
+`PlanetSide Comics`
 `Syndicate Radio Network`
 
 The only website still operational, though no longer updated, is the

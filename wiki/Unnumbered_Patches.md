@@ -88,7 +88,7 @@ Pacific. The patch contains the following item:
 We will be releasing a client-side patch July 20, 2003 at 3 AM Pacific.
 The patch will contain the following:
 
-### Bug fixes:
+### Bug fixes
 
 - Spawn tube doors are fixed, this also fixes numerous issues where
   hacked doors would not open.
@@ -105,7 +105,7 @@ The patch will contain the following:
 - /who teams results are now formatted correctly.
 - /ignore player results are now formatted correctly.
 
-### Additions:
+### Additions
 
 - Medic/Engineer/Hacker icons will appear over friendly heads if they
   are holding the associated tool, i.e. Medical Applicator, BANK,
@@ -116,7 +116,7 @@ The patch will contain the following:
   their corpse can see the position of Advanced Medics who are holding
   the Medical Applicator.
 
-### Changes:
+### Changes
 
 - Faster clean up of objects based on object density. In other words,
   if there are many objects appearing, such as backpacks and destroyed

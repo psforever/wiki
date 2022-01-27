@@ -1,1 +1,1 @@
-1.  redirect[Weapons_Index](Weapons_Index.md)
+1. redirect[Weapons_Index](Weapons_Index.md)

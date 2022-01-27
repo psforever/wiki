@@ -491,7 +491,7 @@ The [Radiator](Radiator.md) is an [Ancient
 Technology](Ancient_Technology.md) grenade launcher which fires
 grenades that explode into a very large pain field. This field slowly
 damages enemies, completely ignoring their armor, and eats away at their
-health. This _includes_ enemies inside of a vehicle, which allows a
+health. This_includes_ enemies inside of a vehicle, which allows a
 coordinated radiator team to kill all drivers and passengers inside of a
 vehicle without touching the vehicle at all, which makes it ripe for
 hacking. However, the radiator generally does damage too slowly for this

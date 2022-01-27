@@ -7,7 +7,7 @@ showers and earthquakes that were experienced across the different
 [continents](Continent.md). Finally, on the first day of the
 event, these messages began arriving.
 
-## Messages from Military Command:
+## Messages from Military Command
 
 #### Message 1
 

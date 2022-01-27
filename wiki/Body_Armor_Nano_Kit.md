@@ -21,10 +21,10 @@ the self-repair of the user.
 
 ## New Player Advice
 
-1.  Carrying a BANK around will guarantee that you make friends in the
+1. Carrying a BANK around will guarantee that you make friends in the
     field. Everyone loves an armor touch up. Just remember to pack an
     extra [Armor Canister](Armor_Canister.md) or two.
-2.  When repairing, allow the person you're repairing to stand in front
+2. When repairing, allow the person you're repairing to stand in front
     of you. This will allow him to "protect" you from damage, meaning
     that you might both survive a sneak attack.
 
@@ -32,7 +32,7 @@ the self-repair of the user.
   especially when behind a
   [MAX](Mechanized_Assault_Exo-Suit.md).
 
-1.  Whenever possible, repair any
+1. Whenever possible, repair any
     [MAX](Mechanized_Assault_Exo-Suit.md) unit you see.
 
 [Category:Game Items](Category:Game_Items.md)

@@ -1,4 +1,4 @@
-## Description:
+## Description
 
 Sturmgrenadier is the most unique online gaming community to be found,
 with mature, professional, and friendly members who enjoy working

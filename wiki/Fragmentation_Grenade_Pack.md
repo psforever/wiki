@@ -27,7 +27,7 @@ _Fragmentation Grenade Packs_ can also be fired from the [Rocklet
 Rifle](Rocklet_Rifle.md). When fired in this manner, the
 explosive charge travels in a straight line. The charge explodes when it
 comes into range of an aircraft or reaches its maximum range. If the
-round comes into contact with _any_ object other than an aircraft, the
+round comes into contact with_any_ object other than an aircraft, the
 round will not explode causing very little damage. When used in this
 manner, the charges are refered to as **Flaklets**. Flaklets are
 effective at damaging aircraft. However, for any other circumstance,

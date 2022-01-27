@@ -1,1 +1,1 @@
-1.  redirect [Squad](Squad.md)
+1. redirect [Squad](Squad.md)

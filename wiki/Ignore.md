@@ -10,7 +10,7 @@ actually are.
 To modify your ignore list, the following command can be used in the
 chat pane:
 
-`/ignore [add|remove] `<charactername>` `
+`/ignore [add|remove]`<charactername>``
 
 The ignore list can also be managed from the [Player
 pane](Player_pane.md).

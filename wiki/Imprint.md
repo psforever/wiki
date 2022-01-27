@@ -1,1 +1,1 @@
-1.  redirect [BFR Imprint](BFR_Imprint.md)
+1. redirect [BFR Imprint](BFR_Imprint.md)

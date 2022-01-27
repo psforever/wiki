@@ -6,7 +6,7 @@ Known Issues
 
 </title>
 
-` `<text xml:space="preserve">`There are only so many hours in the day for the `[`SOE`](Sony_Online_Entertainment.md)` crew to fix bugs. To report a bug, please visit the official forums or use the /bug command in game. Below is a list of currently known bugs and ways to work around them.`
+``<text xml:space="preserve">`There are only so many hours in the day for the`[`SOE`](Sony_Online_Entertainment.md)`crew to fix bugs. To report a bug, please visit the official forums or use the /bug command in game. Below is a list of currently known bugs and ways to work around them.`
 
 - BFR Bug
   - Description: When gunning for a [BFR](BattleFrame_Robotics.md) you can

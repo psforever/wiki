@@ -1,1 +1,1 @@
-1.  redirect [Events](Events.md)
+1. redirect [Events](Events.md)

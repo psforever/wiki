@@ -30,7 +30,7 @@ Server times given in their local timezones:
 
 ## Results
 
-### Werner:
+### Werner
 
 #### Friday
 
@@ -64,7 +64,7 @@ The VS won against the TR on [Amerish](Amerish.md)
 1800 VS attacks TR: TR held off the VS attack on
 [Ceryshen](Ceryshen.md)
 
-### Emerald:
+### Emerald
 
 #### Friday
 
@@ -95,7 +95,7 @@ The NC won against the TR on [Forseral](Forseral.md)
 1800  TR attacks NC: NC held off the TR attack on
 [Hossin](Hossin.md)
 
-### Markov:
+### Markov
 
 #### Friday
 

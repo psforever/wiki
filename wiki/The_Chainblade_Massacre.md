@@ -6,7 +6,7 @@ though the general gameplay is the same for all years.
 
 ==Official <News:==>
 
-### [Extinction](Oshur.md#Extinction):
+### [Extinction](Oshur.md#Extinction)
 
 This isle is a barren wasteland in the middle of the salty sea. However,
 this Halloween, it's not going to be great tank country this season.
@@ -46,7 +46,7 @@ following:
 
 Come join the battle and the ghoulish fun.
 
-### Assassinations:
+### Assassinations
 
 Off in the distance, you hear a voice yelling, "Stop him! He's one of
 them!"

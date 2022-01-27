@@ -10,16 +10,16 @@ should be taken to help the user identify strange things.
 
 Locations:
 
--   VR Training
--   Character creation screen
--   Server selection
--   A battle on a continent
+- VR Training
+- Character creation screen
+- Server selection
+- A battle on a continent
 
 Notes:
 
--   Memory dump tool with periodic option -
+- Memory dump tool with periodic option -
     <https://technet.microsoft.com/en-us/sysinternals/dd996900.aspx>
--   IDA memory dump help -
+- IDA memory dump help -
     <https://stackoverflow.com/questions/29433415/analyzing-binary-taken-from-memory-dump-in-ida-pro>
--   TakeSnaphot IDA -
+- TakeSnaphot IDA -
     <https://www.hex-rays.com/products/ida/support/idadoc/1470.shtml>

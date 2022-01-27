@@ -1,4 +1,4 @@
-![`GalaxyNC.jpg`](images/GalaxyNC.jpg "fig:GalaxyNC.jpg")` Galaxy]]`
+![`GalaxyNC.jpg`](images/GalaxyNC.jpg "fig:GalaxyNC.jpg")`Galaxy]]`
 
 |                            |                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------- |

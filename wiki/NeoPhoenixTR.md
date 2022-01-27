@@ -341,7 +341,7 @@ skill that requires alot of practice to master. There are a few choice
 threads on the [Official Forums](Planetside_Official_Forums.md)
 talking about the morality of using the Deci-Swap technique, but this
 section isn't about how "legal" Deci-Swapping is. Let's move on to what
-this section _is_ about.
+this section_is_ about.
 
 ### [Inventory](Inventory.md) Loadout
 
@@ -728,7 +728,7 @@ Picking on the sick and wounded would mean finding a damaged BFR, and
 finishing it off. This would require use of the [Enhanced
 Targeting](Enhanced_Targeting.md) implant to spot low health
 bars, or just a keen sense of how hurt a BFR is simply by how it moves.
-If a BFR is running _away_ from a target, good chance that it's probably
+If a BFR is running_away_ from a target, good chance that it's probably
 hurt, or at least in no shape to attack. This also applies to enemy
 frames that are under attack by friendly forces. I myself tend to drop
 in on a BFR being targetting by my own empire, seeking both the kill and
@@ -911,7 +911,7 @@ Description here
 
 ### Unanswered Questions
 
-1.  <div id="Deciswap_Exploit">
+1. <div id="Deciswap_Exploit">
 
     Deci-Swapping: Is this a bannable exploit?
 
@@ -924,7 +924,7 @@ Description here
       that the Deci-Swap could be killed off in a later patch, but it
       is not a bannable offense.
 
-2.  Second question goes here
+2. Second question goes here
     - Second answer goes here.
 
 ### Graphic Index

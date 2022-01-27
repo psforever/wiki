@@ -14,12 +14,12 @@ about attaining battle ranks for certifications.
 
 ## Reaching the Test Server
 
-1.  Find the PlanetSide directory on your hard drive.
-2.  Copy the entire PlanetSide folder and create a copy somewhere else
+1. Find the PlanetSide directory on your hard drive.
+2. Copy the entire PlanetSide folder and create a copy somewhere else
     on your computer.
-3.  Open the new PlanetSide folder and find the PlanetSideTest icon.
-4.  Run this and wait for the game to patch.
-5.  Hit the Play button.
+3. Open the new PlanetSide folder and find the PlanetSideTest icon.
+4. Run this and wait for the game to patch.
+5. Hit the Play button.
 
 The reason a player has to completely copy the PlanetSide directory is
 so that the player has two distinct versions of PlanetSide - the current

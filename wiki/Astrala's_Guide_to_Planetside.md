@@ -175,7 +175,7 @@ and Spitfire turrets, I recommend also getting the "Sensor Shield"
 implant one your reach BR 6. It must be turned on explicitly and drains
 your stamina, but prevents you from being shot by an enemy turret.
 
-#### Recommended implants:
+#### Recommended implants
 
 One recommended implant to get (once you reach BR6) is the [Enhanced
 Targeting](Enhanced_Targeting.md) implant. It allows you to see

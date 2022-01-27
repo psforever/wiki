@@ -1,4 +1,4 @@
-## F.B.I.
+## F.B.I
 
 Welcome To The F.B.I. information Page
 
@@ -10,9 +10,9 @@ you need to hear wht we are saying.
 
 We Also Have Strict Guidelines for becoming a loyal F.B.I. member
 
-1.  Must be Age 18
-2.  Must Respect All Higher Ranking Officers
-3.  Must have a valid Subcription to Planetside (No Reserves Please)
+1. Must be Age 18
+2. Must Respect All Higher Ranking Officers
+3. Must have a valid Subcription to Planetside (No Reserves Please)
 
 If you are still interested please visit us online at
 [www.fbimarkov.com](http://www.fbimarkov.com)

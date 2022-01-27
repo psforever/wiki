@@ -64,7 +64,7 @@ previous person. The maelstrom benefits from certain mods which recharge
 it's ammo making it able to hold backdoors by consatntly spamming the
 area.
 
-### Medium Assault:
+### Medium Assault
 
 **Punisher:** Known to many as the "Swiss army knife" of PS weaponry,
 the Punisher is versatile but lacks focus. It's grenade launcher is
