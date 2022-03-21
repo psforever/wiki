@@ -18,7 +18,7 @@ can reach [Battle Rank](../terminology/Battle_Rank.md) 40... If you dare!!!
 [The Chainblade Massacre](The_Chainblade_Massacre.md) will also pop up from time
 to time throughout the [Spooktacular Days](Spooktacular_Days.md) so be prepared!
 All players will be able to use
-[Cloaking infiltration suits](../items/Infiltration_Suit.md) without need of the
+[Cloaking infiltration suits](../armor/Infiltration_Suit.md) without need of the
 [certification](../certifications/Certification.md) on
 [Extinction](../locations/Extinction.md) (this is our version of ghosts).
 

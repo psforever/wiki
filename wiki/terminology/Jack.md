@@ -38,7 +38,7 @@ At present there is no way to store jacked vehicles in any sort of
 specific ammuntion, which can only then be replaced by stealing another vehicle
 with a full [Trunk](Trunk.md).
 
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) Suits may not be jacked, and
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Suits may not be jacked, and
 you'd be amazed how badly they react when they get a REK in the faceplate...
 
 (Note: Many strange screenshots and board signatures feature Red and Black

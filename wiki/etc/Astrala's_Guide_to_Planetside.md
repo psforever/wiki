@@ -138,11 +138,11 @@ frustrating.
 #### Like to wear a cyborg suit?
 
 If you want to become some sort of Cyborg, try the
-[Mechanized Armored Exo-Suit](../items/Mechanized_Assault_Exo-Suit.md) certs
+[Mechanized Armored Exo-Suit](../armor/Mechanized_Assault_Exo-Suit.md) certs
 (MAX). The AA MAX is the least expensive MAX cert, however it only works well
 against aircraft targets. When anchored (with the B key), its firing rate is
 doubled making it a huge threats to all aircraft (the
-[Terran Republic](Terran_Republic.md)'s [Burster](../items/Burster.md) MAX that
+[Terran Republic](Terran_Republic.md)'s [Burster](../armor/Burster.md) MAX that
 is). It is guaranteed to get you some good kills however you are very vulnerable
 when faced with infantry and vehicles. The Anti-Vehicle MAX (AV MAX) and
 Anti-Infantry (AI MAX) are more expensive certs costing 3 CP. The disadvantage
@@ -154,7 +154,7 @@ possess great firepower.
 #### Like to cloak and sabotage?
 
 If you are the sneaky guy, get the
-[Infiltration Suit](../items/Infiltration_Suit.md) certificate (2 CP). Also get
+[Infiltration Suit](../armor/Infiltration_Suit.md) certificate (2 CP). Also get
 the [Engineering](../certifications/Engineering.md) (3 CP) and
 [Combat Engineering](../certifications/Combat_Engineering.md) (2 extra CP)
 skill. This will allow you to sneak up to an enemy and plant mines or boomers
@@ -565,7 +565,7 @@ Advanced Knowledge
   make sure the vehicle stays around long enough). You can also drop the
   detonators, at the risk of someone else (enemies) picking them up.
 
-### [Burster](../items/Burster.md) MAX Tactics
+### [Burster](../armor/Burster.md) MAX Tactics
 
 - <i>NOTE: This is a guide for using The TR Burster MAX, NOT the VS Starfire or
   NC Sparrow MAX

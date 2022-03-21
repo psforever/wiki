@@ -1,13 +1,13 @@
 |                                                 |                                                                                                                      |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Starfire](../items/Starfire.md) |
+| **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Starfire](../armor/Starfire.md) |
 | **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                       |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                  |
 | **Quantity per pack**                           | 132 Rounds                                                                                                           |
 
 **Aphelion Starfire Ammunition**
 
-This ammo is used by the [Starfire](../items/Starfire.md) BFR weapon, which is
+This ammo is used by the [Starfire](../armor/Starfire.md) BFR weapon, which is
 the anti-aircraft weapon on the [Aphelion](../vehicles/Aphelion.md) and
 [Eclipse](../vehicles/Eclipse.md). The boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the

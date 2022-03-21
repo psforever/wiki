@@ -133,7 +133,7 @@ Certain vehicles require the driver to be wearing a certain type of armor. These
 are considered "closed cockpit vehicles" and only accept a user wearing one of
 the following armor types as the driver:
 
-- [Infiltration Suit](../items/Infiltration_Suit.md)
+- [Infiltration Suit](../armor/Infiltration_Suit.md)
 - [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)
 - [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)
 
@@ -300,7 +300,7 @@ Gunner slots on a vehicle are denoted by a yellow circle around a Pistol symbol.
 The owner of the vehicle can set who can get into a gunner position using the
 Vehicle Management Pane. He can set the privacy to a number of levels, including
 Empire, Squad, and Locked. All types of Armor, besides
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) armor can get into a gunner slot,
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) armor can get into a gunner slot,
 regardless of the vehicle.
 
 Gunners are the main way a vehicle gets kills. While the Driver is the most
@@ -326,7 +326,7 @@ follows:
 
 Other vehicles operate as transport vehicles, and have passenger slots. These
 spots on a vehicle are denoted by a yellow circle with a chair inside it. Any
-armor besides [MAX](../items/Mechanized_Assault_Exo-Suit.md) Armor can climb
+armor besides [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Armor can climb
 into passenger slots and go for a ride. For new characters, this is probably the
 easiest way to travel, as many new characters do not have the
 [certification](../certifications/Certification.md) points required to acquire a
@@ -337,8 +337,8 @@ vehicle yet.
 The [Leviathan](Leviathan.md),
 [Juggernaut](Juggernaut.md),[Vindicator](Vindicator.md), and
 [Galaxy](Galaxy.md)  have two positions which can be occupied by players wearing
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) Armor. Players wearing a
-[Infiltration Suit](../items/Infiltration_Suit.md),
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Armor. Players wearing a
+[Infiltration Suit](../armor/Infiltration_Suit.md),
 [Standard Exo-Suit](../armor/Standard_Exo-Suit.md),
 [Agile Exo-Suit](../armor/Agile_Exo-Suit.md), or a
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) may not utilze these

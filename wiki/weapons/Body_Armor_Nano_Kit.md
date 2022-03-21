@@ -28,9 +28,9 @@ mode allows for the self-repair of the user.
    survive a sneak attack.
 
 - Additionally, crouching further reduces your chances of being hit, especially
-  when behind a [MAX](../items/Mechanized_Assault_Exo-Suit.md).
+  when behind a [MAX](../armor/Mechanized_Assault_Exo-Suit.md).
 
-1. Whenever possible, repair any [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+1. Whenever possible, repair any [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
    unit you see.
 
 

@@ -16,7 +16,7 @@
 The **Fragmentation grenade** creates an explosion and throws shrapnel which
 does significant damage to anything within the blast radius. These grenades are
 considered anti-vehicular grenades, and as such do more damage to
-[MAXes](../items/Mechanized_Assault_Exo-Suit.md) than to infantry. With the
+[MAXes](../armor/Mechanized_Assault_Exo-Suit.md) than to infantry. With the
 exception of hand-held [Plasma grenades](Plasma_grenade.md) versus infantry,
 fragmentation grenades do more damage to all targets than plasma.
 

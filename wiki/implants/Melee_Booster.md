@@ -9,7 +9,7 @@ swing, resulting in death in 2 swings (Full health, no
 [Personal Shield](Personal_Shield.md) implant) if combined with an
 empire-specific combat knife's secondary mode.
 
-Typically only used by [Infiltrators](../items/Infiltration_Suit.md), few other
+Typically only used by [Infiltrators](../armor/Infiltration_Suit.md), few other
 players can get close enough to an enemy for this to be very useful. This
 implant has no effect on any other weapon system.
 

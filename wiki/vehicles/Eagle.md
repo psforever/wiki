@@ -4,7 +4,7 @@ developed by the [New Conglomerate](../etc/New_Conglomerate.md).
 
 Flight variants are single-pilot BFRs with a flight pack on their backs to allow
 the BFR to fly vertically for a short amount of time (in a similar manner to the
-[VS](../etc/Vanu_Sovereignty.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+[VS](../etc/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 units' jump-jets). The flight systems are powered by the "BFR capacitor", which
 is measured with a small bar on the player's [HUD](../etc/Heads-up_Display.md).
 The capacitor recharges over time when the flight systems are not in use. When a

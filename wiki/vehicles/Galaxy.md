@@ -9,7 +9,7 @@
 | **Primary Weapon**         | 2 20mm Recoilless Cannons, 1 20mm Rotary Chaingun                                                                                           |
 | **Secondary Weapon**       | \-                                                                                                                                          |
 | **Ammunition Used**        | [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md)                                                                     |
-| **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Units, plus a [vehicle](Vehicle.md) and passengers) |
+| **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units, plus a [vehicle](Vehicle.md) and passengers) |
 | **Handling**               | Very poor                                                                                                                                   |
 | **Top speed**              | 84 kph (152 with [Afterburners](../terminology/Afterburner.md))                                                                             |
 
@@ -18,7 +18,7 @@
 ![](../images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg"){ align=right width="350" }
 
 The **Galaxy** is a huge aircraft capable of carrying 9 infantry and 2
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units, as well as the pilot and
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units, as well as the pilot and
 any passengers of vehicles in its cargo hold. A full squad can be transported
 easily, leaving the driver and gunners to return for other passengers.
 

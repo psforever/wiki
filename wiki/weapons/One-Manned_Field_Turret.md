@@ -22,7 +22,7 @@ OMFT, the [New Conglomerate](../etc/New_Conglomerate.md) has the
 [Osprey](Osprey.md), the [Terran Republic](../etc/Terran_Republic.md) has the
 [Avenger](Avenger.md) and the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) has
 the [Orion](Orion.md). The OMFTs have weaponry similar to that of the
-Anti-Infantry [MAX](../items/Mechanized_Assault_Exo-Suit.md) of each Empire.
+Anti-Infantry [MAX](../armor/Mechanized_Assault_Exo-Suit.md) of each Empire.
 
 These Turrets have Shield Generation, that increases when deployed, which is
 similar to the Shields that vehicles have, though enemy players with

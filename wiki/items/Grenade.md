@@ -12,7 +12,7 @@ Grenades can be fired from a number of weapons:
 
 ## Heavy launchers
 
-- [Pounder](Pounder.md)
+- [Pounder](../armor/Pounder.md)
 - [Ground Pounder](../terminology/Ground_Pounder.md)
 
 ## [Hand grenades](../weapons/Hand_grenade.md)

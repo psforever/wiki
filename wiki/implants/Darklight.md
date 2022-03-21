@@ -3,7 +3,7 @@
 
 The Darklight implant enables the
 user to detect cloaked enemies and equipment
-([Infiltration Suits](../items/Infiltration_Suit.md),
+([Infiltration Suits](../armor/Infiltration_Suit.md),
 [Phantasms](../vehicles/Phantasm.md),
 [Shadow Turrets](../weapons/Shadow_Turret.md) and
 [Wraiths](../vehicles/Wraith.md)) but reduces total sight distance to only a few

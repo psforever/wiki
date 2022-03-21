@@ -18,7 +18,7 @@ and in other close combat fights, as they are very ineffective at anything
 beyond close proximity.
 
 The Armor Piercing Shotgun Shells do good damage to armored targets like
-[MAX Units](../items/Mechanized_Assault_Exo-Suit.md),
+[MAX Units](../armor/Mechanized_Assault_Exo-Suit.md),
 [vehicles](../vehicles/Vehicle.md) and
 [Deployables](../weapons/Adaptive_Construction_Engine.md), but are rather
 ineffective against smaller, less armored targets. When encountering such

@@ -23,7 +23,7 @@ unique benefit of Enhanced RADAR and can provide this ability to any
 This facility possesses enhancements to its **RADAR systems**. All enemy
 vehicles will appear on RADAR, except for deployed
 [Advanced Mobile Stations](../vehicles/Advanced_Mobile_Station.md). All running
-enemy infantry, including cloaked [Infiltrators](../items/Infiltration_Suit.md),
+enemy infantry, including cloaked [Infiltrators](../armor/Infiltration_Suit.md),
 will appear on the RADAR. Enemy infantry, including cloaked Infiltrators, will
 appear on RADAR if they are within a
 [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md) or

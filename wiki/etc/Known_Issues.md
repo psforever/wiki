@@ -54,7 +54,7 @@ list of currently known bugs and ways to work around them.`
 
 - Missile Lock-on Bug
   - Description: Sometimes lock-on weapons ([Striker](../weapons/Striker.md),
-    [Starfire](../items/Starfire.md), [Sparrow](../items/Sparrow.md), and
+    [Starfire](../armor/Starfire.md), [Sparrow](../armor/Sparrow.md), and
     [Wasp](../vehicles/Wasp.md)) only lock or maintain lock when the crosshair
     is directly over the target, making it almost impossible to maintain a lock
     on your target.

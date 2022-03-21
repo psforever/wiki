@@ -20,7 +20,7 @@ be the [Chainblade](../items/Chainblade.md) Massacre.
 
 Upon entering the massacre lands, soldiers will be subject to the following:
 
-- [Infiltration Suits](../items/Infiltration_Suit.md) and
+- [Infiltration Suits](../armor/Infiltration_Suit.md) and
   [standard armor](../armor/Standard_Exo-Suit.md). Soldiers will zone in with
   standard armor but upon death, they will be given infiltration suits. It is a
   good idea to grab an infiltration suit upon entering the zone. If you choose

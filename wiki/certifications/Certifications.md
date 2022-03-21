@@ -119,6 +119,6 @@ Cost Pre-Requisite
 [Light Scout](Light_Scout.md) 5
 
 [Phantasm](../vehicles/Phantasm.md) 3
-[Infiltration Suit](../items/Infiltration_Suit.md)
+[Infiltration Suit](../armor/Infiltration_Suit.md)
 
 [Switchblade](../items/Switchblade.md) 1 [ATV](../vehicles/ATV.md)

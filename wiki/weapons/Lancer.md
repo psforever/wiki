@@ -23,7 +23,7 @@ moving targets. The Lancer has a greater range than the [Phoenix](Phoenix.md)
 and [Striker](Striker.md).
 
 As an interesting sidenote, this is the only
-non-[MAX](../items/Mechanized_Assault_Exo-Suit.md)
+non-[MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 [Vanu](../etc/Vanu_Sovereignty.md) beam weapon not to use the universal
 [Energy Cell](../ammunition/Energy_Cell.md) ammo.
 
@@ -31,7 +31,7 @@ Shots to kill:
 
 |                                                |             |
 | ---------------------------------------------- | ----------- |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md) | 6 shots     |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 6 shots     |
 | [Lightning](../vehicles/Lightning.md)          | 9 shots     |
 | [Prowler](../vehicles/Prowler.md)              | 22(?) shots |
 | [Magrider](../vehicles/Magrider.md)            | 17(?) shots |

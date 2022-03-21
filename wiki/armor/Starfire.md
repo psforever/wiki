@@ -15,15 +15,15 @@
 **Starfire**
 
 The **Starfire** features an aircraft tracking mechanism, allowing its weapon to
-home in on enemy aircraft. Unlike the [Sparrow](Sparrow.md) however, the
+home in on enemy aircraft. Unlike the [Sparrow](../armor/Sparrow.md) however, the
 **Starfire** must maintain the "lock" for the projectiles to find their target.
 
-This [MAX](Mechanized_Assault_Exo-Suit.md)'s jump jets allow it to sail over
+This [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s jump jets allow it to sail over
 ground obstacles, making this the most mobile of
-[MAXes](Mechanized_Assault_Exo-Suit.md).
+[MAXes](../armor/Mechanized_Assault_Exo-Suit.md).
 
 The Starfire has the Fastest Time to Kill of all three
 [Empires](../terminology/Empire.md) Anti Aircraft
-[MAXs](Mechanized_Assault_Exo-Suit.md) on most targets.
+[MAXs](../armor/Mechanized_Assault_Exo-Suit.md) on most targets.
 
 

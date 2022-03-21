@@ -20,7 +20,7 @@ themselves do no damage, but once they explode they irradiate the immediate area
 causing damage to all soldiers within the area. There is no protection from this
 damage, even in a vehicle, except for leaving the irradiated area. However, the
 damage from the weapon is cut in half if you are in a vehicle or in a
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) suit.
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) suit.
 
 In addition to the [Special Assault](../certifications/Special_Assault.md)
 [Certification](../certifications/Certifications.md), unless the user is in the

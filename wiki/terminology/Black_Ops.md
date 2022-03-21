@@ -12,7 +12,7 @@ higher regeneration rate than normal) and having access to all
 a force to be reckoned with. Black Ops soldiers can only chose between
 [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) and
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) and cannot choose
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) armor. All vehicles are available
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) armor. All vehicles are available
 with greenish textures to denote Black Ops, though
 [BFRs](../vehicles/BattleFrame_Robotics.md) are only available if enabled by a
 GM. [One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md) deployed

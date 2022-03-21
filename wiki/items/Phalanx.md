@@ -8,7 +8,7 @@ the only fixed weapons and non-passive defensive installations of
 
 When unmanned, the **Phalanx** can track and fire upon larger
 [vehicles](../vehicles/Vehicle.md) and aircraft, as well as
-[MAX](Mechanized_Assault_Exo-Suit.md) units (only if they are in run mode).
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units (only if they are in run mode).
 [ATVs](../certifications/ATV_(Certification).md),
 [Harassers](../vehicles/Harasser.md), and [Mosquitos](../vehicles/Mosquito.md)
 are invisible to **Phalanx** turrets. An active unmanned **Phalanx** will return
@@ -50,6 +50,6 @@ Soldiers certed in [Data Corruption](../certifications/Data_Corruption.md) can
 infect enemy Wall Turrets causing them to fire at their own Empire, instead of
 their enemies. However, they will act as regular Wall Turrets when infected,
 meaning they will only shoot [vehicles](../vehicles/Vehicle.md) and auto-running
-[MAX](Mechanized_Assault_Exo-Suit.md) Units.
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units.
 
 

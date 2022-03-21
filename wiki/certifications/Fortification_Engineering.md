@@ -133,7 +133,7 @@ The Deployable numbers will be upgraded to:
 
 Fortification Engineers use [Armor Canisters](../items/Armor_Canister.md) more
 efficiently, resulting in increased repair efficiency for
-[MAXes](../items/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
+[MAXes](../armor/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
 equipment, and [vehicles](../vehicles/Vehicle.md) (2x, from 32 to 64) over that
 of a standard engineer.
 

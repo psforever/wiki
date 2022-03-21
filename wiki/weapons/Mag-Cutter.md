@@ -13,7 +13,7 @@
 
 **Mag-Cutter**
 
-Standard issue in all [Infiltration Suits](../items/Infiltration_Suit.md),
+Standard issue in all [Infiltration Suits](../armor/Infiltration_Suit.md),
 [Standard Exo-Suit](../armor/Standard_Exo-Suit.md),
 [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) and
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md), the Mag-Cutter is a

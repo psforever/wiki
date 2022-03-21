@@ -106,7 +106,7 @@ this is generally speaking.
 Also, many weapons have two types of ammo: standard ammo and AP ammo. Standard
 ammo is white in color, and is designed to take out other infantry. AP ammo is
 gold in color, and is designed to take out enemy
-[MAX](../items/Mechanized_Assault_Exo-Suit.md)'s and
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s and
 [vehicles](../vehicles/Vehicle.md). The only weapons with these sorts of
 restrictions are [Standard Assault](../certifications/Standard_Assault.md),
 [Medium Assault](../certifications/Medium_Assault.md), and
@@ -132,7 +132,7 @@ weapon has a role on the battlefield.
 
 The combat knives of PlanetSide are the [Chainblade](../items/Chainblade.md),
 [Mag-Cutter](Mag-Cutter.md), and [Force-Blade](Force-Blade.md). Knives are
-generally a soldier's last resort, although many [Infiltrators](../items/Infiltration_Suit.md)
+generally a soldier's last resort, although many [Infiltrators](../armor/Infiltration_Suit.md)
 do use the combat knives as primary weapons, usually with the help of the
 [Melee Booster](../implants/Melee_Booster.md) implant. Also, all knives have a
 Force Attack funcion which allows them to become much more powerful, but it
@@ -151,7 +151,7 @@ the [Standard Assault](../certifications/Standard_Assault.md) certification.
 #### Pistols
 
 Pistols are generally used as back up weapons, although
-[Infiltrators](../items/Infiltration_Suit.md) are forced to use these as weapons if they do not
+[Infiltrators](../armor/Infiltration_Suit.md) are forced to use these as weapons if they do not
 use the Combat Knife or the
 [Adaptive Construction Engine](Adaptive_Construction_Engine.md). Also, many
 soldiers use pistols as a back up weapon, since many of them use the same ammo
@@ -388,7 +388,7 @@ dumbfire mode to avoid the vulnerability of using the primary fire mode.
 
 Because the Phoenix does do quite a bit of damage, comparable to the Decimator,
 the Phoenix can be utilized quite effectively indoors against
-[MAX](../items/Mechanized_Assault_Exo-Suit.md)'s. It operates pretty much as a
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s. It operates pretty much as a
 reloadable Decimator indoors, which means it has a slightly higher time to kill,
 but can still be effective in a pinch. It is probably the most effective of the
 three empire-specific anti-vehicular weapons indoors.
@@ -409,7 +409,7 @@ missiles.
 
 The [Decimator](Decimator.md) is more of a short range anti-vehicular weapon,
 and is more designed to be used against
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units. The Decimator is a 3 shot
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units. The Decimator is a 3 shot
 non-reloadable rocket launcher which fires only dumbfire missiles which do a
 considerable amount of damage. The Decimator kills full-health MAX Units in
 three shots, and, while it is difficult to hit moving vehicles, stationary

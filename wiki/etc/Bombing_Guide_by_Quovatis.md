@@ -80,7 +80,7 @@ until you start dropping bombs. I use this tactic when the enemy is clumped up
 on a bridge as they have nowhere to run except to drown. I also use it if the
 enemy base is at a low altitude and I'm fighting flak weapons
 ([Wall Turrets](../items/Phalanx.md) and [TR](Terran_Republic.md)
-[Burster](../items/Burster.md) [MAXes](../items/Mechanized_Assault_Exo-Suit.md).
+[Burster](../armor/Burster.md) [MAXes](../armor/Mechanized_Assault_Exo-Suit.md).
 You're fairly safe from [flak](../weapons/Flak.md) at high altitude unless you
 fly very predictably and the enemy has great skill.
 
@@ -160,14 +160,14 @@ information as well.
 I've already talked about how to avoid flak fire. Never fly in a straight line
 when taking flak fire and try to find some cover to break the line of sight.
 
-Against the [Sparrow](../items/Sparrow.md) MAX, you need to fly a little
+Against the [Sparrow](../armor/Sparrow.md) MAX, you need to fly a little
 differently. If you find Sparrow missiles following you, find terrain to hide
 behind immediately. Even a small hole will do sometimes. Dip down and STOP in
 the hole briefly. Wait until all the missiles have hit the ground around you,
 then continue. If you hadn't stopped, you might have avoided one or two
 missiles, but the rest would still have followed and hit you.
 
-Against a [Striker](../weapons/Striker.md) or [Starfire](../items/Starfire.md)
+Against a [Striker](../weapons/Striker.md) or [Starfire](../armor/Starfire.md)
 you can either find a tree or terrain to break the lock, or simply fly out of
 its effective range (250m for the striker, 350m for the Starfire). If you are
 flying directly away from them at the same altitude, be sure to turn slightly as

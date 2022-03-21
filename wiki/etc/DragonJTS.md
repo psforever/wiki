@@ -22,7 +22,7 @@ First off, it has it's own SOI, meaning enemy's can't drop certain
 Also, since it's a structure, it can't be destroyed, and protects infantry from
 [OSs](../commands/Orbital_Strike.md) and vehicles. One of it's biggest
 advantages, however, is that it allows access to
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) suits, a feature that the AMS is
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) suits, a feature that the AMS is
 lacking.
 
 ## Defending

@@ -40,7 +40,7 @@ with the current advantage.
 
 ## A
 
-AA : Anti Aircraft ([MAXes](../items/Mechanized_Assault_Exo-Suit.md),
+AA : Anti Aircraft ([MAXes](../armor/Mechanized_Assault_Exo-Suit.md),
 [BFRs](../vehicles/BattleFrame_Robotics.md),
 [Wall Turrets](../items/Phalanx.md),
 [Cerberus Turrets](../weapons/Cerberus_Turret.md), and
@@ -58,7 +58,7 @@ mission to refill depleted or critical [NTU Silos](../locations/NTU_Silo.md),
 often utilizing a [Galaxy](../vehicles/Galaxy.md) or
 [Lodestar](../vehicles/Lodestar.md) to speed up the travel to and from
 [Warpgates](../locations/Warpgate.md). Assfire : Refers to the
-[Starfire MAX](../items/Starfire.md) AT :
+[Starfire MAX](../armor/Starfire.md) AT :
 [Ancient-Tech](Ancient_Technology.md) . Having to do with
 [Core Combat](../items/Core_Combat.md) assets. AV :
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) certification, MAXes, or
@@ -114,7 +114,7 @@ you collect from being a [squad](Squad.md) leader. CE :
 [Combat Engineering](../certifications/Combat_Engineering.md), common referrence
 in the field for Mines, Spitfire turrrets. ("Get some CE down at this base
 please!") Cloaker : Player who uses the
-[Infiltration Suit](../items/Infiltration_Suit.md) CoF : System used to
+[Infiltration Suit](../armor/Infiltration_Suit.md) CoF : System used to
 determine where shots are fired. See [Cone of fire](Cone_of_fire.md) Cerb
 / Cerbs : [Cerberus Turrets](../weapons/Cerberus_Turret.md) Cert :
 [Certifications](../certifications/Certifications.md) Chair :
@@ -124,7 +124,7 @@ Chairs!") CN : Chinese player cont lock, contlock :
 [Command Rank](Command_Rank.md) and [Battle Rank](Battle_Rank.md). Crackhammer :
 A common TR term for the NC [Jackhammer](../weapons/Jackhammer.md). Crash : An
 assault from a large group of the exact same unit all in one large wave. Most
-common variety being a [MAX](../items/Mechanized_Assault_Exo-Suit.md) Crash CTD
+common variety being a [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Crash CTD
 : Crash to Desktop ("Sorry, I'm back after a CTD") CY : short for
 [courtyard](../locations/Courtyard.md), referring to the area between the
 facility's structure and the surrounding base walls.
@@ -139,7 +139,7 @@ defenders that have dug-in and proven difficult to remove.
 
 ## D
 
-DC, DCMAX : [Dual-Cycler](../items/Dual-Cycler.md), TR Anti Infantry MAX. DC'ed
+DC, DCMAX : [Dual-Cycler](../armor/Dual-Cycler.md), TR Anti Infantry MAX. DC'ed
 : disconnected due to connection problems. deci :
 [Decimator](../weapons/Decimator.md) Anti-vehicle
 [weapon](../weapons/Weapon.md). deli : [Deliverer](../vehicles/Deliverer.md)
@@ -231,8 +231,8 @@ form of [BFR Hunter](Acronyms_and_Slang.md#BFRHunter)
 ## I
 
 Imo : "In My Opinion" Infy, Infil : Cloaked enemy, also refers to the
-[Infiltration Suit](../items/Infiltration_Suit.md). Infil Suit : Abbreviation
-for the [Infiltration Suit](../items/Infiltration_Suit.md) Instagib : The
+[Infiltration Suit](../armor/Infiltration_Suit.md). Infil Suit : Abbreviation
+for the [Infiltration Suit](../armor/Infiltration_Suit.md) Instagib : The
 process of being killing or being killed instantly. Most commonly used when the
 target was at full health and was killed in a single attack. "That Jackhammer
 just instagibbed me!"
@@ -299,7 +299,7 @@ refuses help to improve (ie; training, advice). ex; "Wow, look at that total
 noob. He'll never get better if he keeps playing like that." N00b Conglomerate :
 A derogatory term for the [New Conglomerate](../etc/New_Conglomerate.md) empire,
 or a Reservist playing on the [New Conglomerate](../etc/New_Conglomerate.md)
-empire. noobfire : Refers to the [Starfire MAX](../items/Starfire.md) noobhammer
+empire. noobfire : Refers to the [Starfire MAX](../armor/Starfire.md) noobhammer
 : Insult form of the [NC](../etc/New_Conglomerate.md)
 [Jackhammer](../weapons/Jackhammer.md), commonly used by both players killed by
 it, and sometimes used by players using the weapon referring to how overpowered
@@ -344,8 +344,8 @@ SA : [Special Assault](../certifications/Special_Assault.md) certification or
 [weapons](../weapons/Weapon.md). Sanc : Refers to an empire's
 [Sanctuary](../locations/Sanctuary.md) ScatMax : Refers to the
 [New Conglomerate](../etc/New_Conglomerate.md)
-[Scattercannon](../items/Scattercannon.md) Anti-Infantry
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) Scrub : Refers to a player whose
+[Scattercannon](../armor/Scattercannon.md) Anti-Infantry
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Scrub : Refers to a player whose
 objectives are unclear, or you just don't know the guy, a stranger to you.
 _"What's this so-n-so scrub doing?"_ SEP :
 [Support Experience Points](Support_Experience_Points.md), Experience points you
@@ -353,11 +353,11 @@ gain from Support activities SG : Refers to either the Sturmgrenadier or Serious
 Gamers outfit, or the [Skyguard](../vehicles/Skyguard.md) Anti-Aircraft Buggy.
 Skeets, Skeeter, Mossies : Common referrences to the
 [Mosquito](../vehicles/Mosquito.md) aircraft. Skillfire : Refers to the
-[Starfire MAX](../items/Starfire.md) Skillguard : Refers to the
+[Starfire MAX](../armor/Starfire.md) Skillguard : Refers to the
 [Skyguard anti-air vehicle](../vehicles/Skyguard.md) Skycoffin : A derogatory
 term for the [Skyguard](../vehicles/Skyguard.md) Anti-aircraft buggy
 softy/softies/soft target : [Infantry](Infantry.md) players not currently
-manning a vehicle or using a [MAX](../items/Mechanized_Assault_Exo-Suit.md). sl
+manning a vehicle or using a [MAX](../armor/Mechanized_Assault_Exo-Suit.md). sl
 : [Squad Leader](Squad_Leader.md) slider : [Magrider](../vehicles/Magrider.md).
 SOI : Sphere of Influence([SOI](../locations/Sphere_of_Influence.md)) around
 towers and bases. SOL : [Solsar](../locations/Solsar.md). Also a crude way of
@@ -371,8 +371,8 @@ Operations. Refers to surgical strike missions such as destroying
 operations on bases and towers, or intense small squad missions apart from the
 main force. SplatMAX, SplatterMAX : Common referrence to the
 [NC](../etc/New_Conglomerate.md) Anti Infantry
-[MAX](../items/Mechanized_Assault_Exo-Suit.md), the
-[Scattercannon](../items/Scattercannon.md) . Spit/Spitter :
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md), the
+[Scattercannon](../armor/Scattercannon.md) . Spit/Spitter :
 [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) Sqd : [Squad](Squad.md) Squids/ Squidies
 : Pilot term for [infantry](Infantry.md) on the ground. "Enemy squid with AA".
 Squishy : Common reference to a non-MAX soldier. Usage "One squishy spot left in
@@ -419,7 +419,7 @@ system. Comonly seen on [Forumside](Forumside.md).
 ## W
 
 WG : [Warpgate](../locations/Warpgate.md) WP : [Waypoint](Waypoint.md). "Head to
-purple wp 1." Walking Coffin : [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+purple wp 1." Walking Coffin : [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 units. woot/w00t : Positive exclamation. ("Woot [CR5](Command_Rank.md)!")
 wootrasser : [Harasser](../vehicles/Harasser.md) WTG : Way to go! Whale : Slang
 term for the [Galaxy](../vehicles/Galaxy.md) dropship.

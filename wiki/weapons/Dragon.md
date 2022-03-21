@@ -19,7 +19,7 @@ The Dragon is a flamethrower that can either fire a continuous stream of flames
 in primary mode, or shoot a "bomb" of fire, which will explode and ignite anyone
 nearby. The range of the Dragon is limited, but its damage output is very high,
 and can quickly kill Infantry and
-[MAXs](../items/Mechanized_Assault_Exo-Suit.md) alike.
+[MAXs](../armor/Mechanized_Assault_Exo-Suit.md) alike.
 
 The primary mode fires a short burst of flames, consuming 5 ammunition. Once
 started, the burst must finish firing, but holding down the fire key can fire

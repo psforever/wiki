@@ -20,7 +20,7 @@ With the discovery of the Core Complex came the introduction of the
 [Spiker](Spiker.md) medium assault weapon. Now known as
 "[The Potato](../terminology/Acronyms_and_Slang.md#P)", the [Spiker](Spiker.md)
 is a slingshot-type weapon with amazing impact and splash damage, making it a
-[cloaker](../items/Infiltration_Suit.md) favorite. The longer the fire key is
+[cloaker](../armor/Infiltration_Suit.md) favorite. The longer the fire key is
 held before release, the more powerful the projectile. There is a maximum,
 however, and the weapon will make a distinctive sound when the maximum is
 reached. When at maximum power, the ammo will start counting down (to maintain

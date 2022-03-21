@@ -1,5 +1,5 @@
 ![s Anti-Vehicular
-[MAX](Mechanized_Assault_Exo-Suit.md)](../images/FalconMAX.jpg){ class="figure" }
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/FalconMAX.jpg){ class="figure" }
 
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -24,13 +24,13 @@ Shots to kill:
 
 |                                                        |          |
 | ------------------------------------------------------ | -------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 5 shots  |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 6 shots  |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 9 shots  |
-| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 10 shots |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 5 shots  |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 6 shots  |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 9 shots  |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)                  | 10 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](MedKit.md), [Implants](../implants/Implants.md) or
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 

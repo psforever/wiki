@@ -67,7 +67,7 @@ has the [Avenger](../weapons/Avenger.md) and the
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) has the
 [Orion](../weapons/Orion.md). These Turrets are designed to supress the Enemy in
 the Field, and have [weaponry](../weapons/Weapon.md) similar to their
-Anti-Infantry [MAX](../items/Mechanized_Assault_Exo-Suit.md) Units. For more
+Anti-Infantry [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units. For more
 information see
 [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md),
 [Osprey](../weapons/Osprey.md), [Avenger](../weapons/Avenger.md) or
@@ -92,7 +92,7 @@ inside, and allowing Friendliess to push into the
 ## Ammunition Upgrade for the Aegis Shield Generator
 
 Assault Engineers can Upgrade Aegis Shield Generators with an Ammunition Supply,
-allowing friendly Infantry and [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+allowing friendly Infantry and [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 Units to get ammo. Note that vehicle ammunition and support equipment cannot be
 obtained. Upgrading works by use of the
 [Nano Dispenser](../weapons/Nano_Dispenser.md) with regular canisters.
@@ -101,7 +101,7 @@ obtained. Upgrading works by use of the
 
 Assault Engineers use [Armor Canisters](../items/Armor_Canister.md) more
 efficiently, resulting in increased repair efficiency for
-[MAXes](../items/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
+[MAXes](../armor/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
 equipment, and [vehicles](../vehicles/Vehicle.md) (2x, from 32 to 64) over that
 of a standard engineer.
 

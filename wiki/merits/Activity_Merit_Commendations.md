@@ -4,7 +4,7 @@ This series of [Merit Commendations](Merit_Commendations.md) is awarded for:
 - Visiting specific locations
 - Character Age
 - Mowing enemies
-- Killing [MAX](../items/Mechanized_Assault_Exo-Suit.md) Units
+- Killing [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units
 - Jacking Enemy [Vehicles](../vehicles/Vehicle.md)
 
 **Note that [Vehicles](../vehicles/Vehicle.md) that you have destroyed only

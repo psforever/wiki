@@ -1,11 +1,11 @@
 ![ weaponry. Damage indicated is one shot
-fired on a [Cloaker](../items/Infiltration_Suit.md)](../images/SA_DD.jpg){ class="figure" } ![
+fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){ class="figure" } ![
 weaponry, including the medium assault pistols [Eraser](../items/Eraser.md),
 [Stinger](../weapons/Stinger.md), and [Spear](../weapons/Spear.md) in green.
-Damage indicated is one shot fired on a [Cloaker](../items/Infiltration_Suit.md)
+Damage indicated is one shot fired on a [Cloaker](../armor/Infiltration_Suit.md)
 ([Pulsar](../weapons/Pulsar.md) figures are not current)](../images/MA_DD.jpg){ class="figure" }
 ![ weaponry. Damage indicated is one shot
-fired on a [Cloaker](../items/Infiltration_Suit.md) ([Lasher](../weapons/Lasher.md) figures not
+fired on a [Cloaker](../armor/Infiltration_Suit.md) ([Lasher](../weapons/Lasher.md) figures not
 current)](../images/HA_DD.jpg){ class="figure" }
 
 [Damage Degradation](Damage_Degradation.md) refers to the loss of power of some
@@ -38,8 +38,8 @@ The following suffer from Damage Degradation:
 - [Continuous Laser](../weapons/Continuous_Laser.md)
 - [Anti-Tank Machine Gun](../weapons/Anti-Tank_Machine_Gun.md)
 - [Rotary Chaingun](../items/Rotary_Chaingun.md)
-- [Quasar](../items/Quasar.md)
-- [Dual Cycler](../items/Dual-Cycler.md)
+- [Quasar](../armor/Quasar.md)
+- [Dual Cycler](../armor/Dual-Cycler.md)
 - [Flail](../vehicles/Flail.md) (inverse Damage Degradation, see above)
 - [Wall Turret](../items/Phalanx.md) (standard fire mode)
 - [Spitfire](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and

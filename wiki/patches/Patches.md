@@ -51,7 +51,7 @@ at bottom.
 
 - [LLU Patch](Unnumbered_Patches.md#llu-goes-live---august-14-2003) -
   LLU capture system goes live! [Lasher](../weapons/Lasher.md) and
-  [Starfire](../items/Starfire.md) damage degredation tweaks,
+  [Starfire](../armor/Starfire.md) damage degredation tweaks,
   [Basilisk](../vehicles/Basilisk.md) and [Wraith](../vehicles/Wraith.md)
   combined into single [ATV](../vehicles/ATV.md) cert, and HART waypoint exploit
   fixes added.
@@ -156,8 +156,8 @@ at bottom.
   [Striker](../weapons/Striker.md), Radar,
   [Outfit](../terminology/Outfit.md) invitation and "turn left" keymapping fix.
 - [2.9.8](2.9.8.md) - [MA](../certifications/Medium_Assault.md) damage
-  degredation extended. [Starfire](../items/Starfire.md) and
-  [Sparrow](../items/Sparrow.md) range increased.
+  degredation extended. [Starfire](../armor/Starfire.md) and
+  [Sparrow](../armor/Sparrow.md) range increased.
   [Zoning](../terminology/Zone.md) client crash fix.
 - [2.10.7](2.10.7.md) - [The Bending](../etc/The_Bending.md).
   [Battle Islands](../locations/Battle_Islands.md) go live!
@@ -174,13 +174,13 @@ at bottom.
   increased. Tech plant requirement removed for [Router](../vehicles/Router.md)
   and [Sunderer](../vehicles/Sunderer.md)
 - [3.0.18](3.0.18.md) - [Beamer](../weapons/Beamer.md),
-  [MAX](../items/Mechanized_Assault_Exo-Suit.md) armor, avatar invisibility, and
+  [MAX](../armor/Mechanized_Assault_Exo-Suit.md) armor, avatar invisibility, and
   zone crash fix.
 - [3.0.19](3.0.19.md) - Autodrive grief removed. [Galaxy](../vehicles/Galaxy.md)
   side-gun and [Liberator](../vehicles/Liberator.md) cluster-bomb, AP shotgun
   shell, [Lasher](../weapons/Lasher.md) BFR damage, and
   [Mosquito](../vehicles/Mosquito.md)
-  [MAX](../items/Mechanized_Assault_Exo-Suit.md) damage fixes.
+  [MAX](../armor/Mechanized_Assault_Exo-Suit.md) damage fixes.
 - [3.0.25](3.0.25.md) - [BFR](../vehicles/BattleFrame_Robotics.md) acquisition
   fully operational! [Galaxy](../vehicles/Galaxy.md) gun COF and rate of fire
   decreased.
@@ -253,8 +253,8 @@ at bottom.
   fixes.
 - [3.4.6](3.4.6.md) - [Ancient Tech](../terminology/Ancient_Technology.md)
   acquisition fix. Corpses no longer block weapons.
-- [3.4.7](3.4.7.md) - Warp Queue broadcast gate, [Quasar](../items/Quasar.md)
-  [MAX](../items/Mechanized_Assault_Exo-Suit.md), and
+- [3.4.7](3.4.7.md) - Warp Queue broadcast gate, [Quasar](../armor/Quasar.md)
+  [MAX](../armor/Mechanized_Assault_Exo-Suit.md), and
   [Command Rank](../terminology/Command_Rank.md) armor display fix.
 - [3.4.8](3.4.8.md) - Round 6 of [BFR](../vehicles/BattleFrame_Robotics.md)
   nerfs, including water timers. Keymap, merit, respawn, and client crash fixes.
@@ -273,7 +273,7 @@ at bottom.
   live! Low resolution sounds made available. Multitude of fixes.
 - [3.5.7](3.5.7.md) - Merit and
   [Squad Home Base](../terminology/Squad_Home_Base.md), and TR
-  [MAX](../items/Mechanized_Assault_Exo-Suit.md) fixes.
+  [MAX](../armor/Mechanized_Assault_Exo-Suit.md) fixes.
 - [3.5.9](3.5.9.md) - Crash to desktop after extensive play and vehicles+force
   domes framerate fixes.
 
@@ -301,7 +301,7 @@ at bottom.
 
 - [3.6.9](3.6.9.md) - [Aircav](../terminology/Air_Cavalry.md) armor adjustments,
   "Flaklet" added, [Reaver](../vehicles/Reaver.md) damage against infantry
-  nerfed, [MAX](../items/Mechanized_Assault_Exo-Suit.md) adjustments.
+  nerfed, [MAX](../armor/Mechanized_Assault_Exo-Suit.md) adjustments.
 - [3.7.3](3.7.3.md) - Support Experience implemented - Support Merits tracking -
   New Player Mission System - [Vulture](../vehicles/Vulture.md) - New Population
   Indicators - Infantry Weapon Times.
@@ -327,7 +327,7 @@ at bottom.
 
 - [3.9.5](3.9.5.md) - [Rabbit](../terminology/Rabbit.md) Gameplay and
   [LFS](../terminology/LFS.md) revisions go live!
-  [TR](../etc/Terran_Republic.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+  [TR](../etc/Terran_Republic.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
   allowed to shoot while (un)anchoring, minor
   [Vehicle](../vehicles/Vehicle.md)/[BFR](../vehicles/BattleFrame_Robotics.md)
   tweaks, Help-Star/[HUD](../etc/Heads-up_Display.md) fixes, the end of looting
@@ -386,7 +386,7 @@ at bottom.
   [Phoenix](../weapons/Phoenix.md), [Lancer](../weapons/Lancer.md),
   [Striker](../weapons/Striker.md) and all
   [Anti-Vehicular](../certifications/Anti-Vehicular.md)
-  [MAX](../items/Mechanized_Assault_Exo-Suit.md) Units.
+  [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units.
 
 [\*](category:Patches.md)
 
@@ -402,13 +402,13 @@ at bottom.
   issues.
 - [3.11.20](3.11.20.md) - [Wasp](../vehicles/Wasp.md) Interceptor goes live,
   damage value reversal for the [Rocklet Rifle](../weapons/Rocklet_Rifle.md)
-  against [MAX](../items/Mechanized_Assault_Exo-Suit.md) Units.
+  against [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units.
 
 ### July
 
 - [3.11.24](3.11.24.md) - [Wasp](../vehicles/Wasp.md) acquisition bug fixed,
-  hack detection added and changes to the [Pounder](../items/Pounder.md)
-  [MAX](../items/Mechanized_Assault_Exo-Suit.md).
+  hack detection added and changes to the [Pounder](../armor/Pounder.md)
+  [MAX](../armor/Mechanized_Assault_Exo-Suit.md).
 - [3.11.28](3.11.28.md) - Setting changes for the Special Event
   "[Blast Into Battle, Double Time](../etc/Blast_Into_Battle,_Double_Time.md)".
 
@@ -525,8 +525,8 @@ at bottom.
 
 - [3.15.18](3.15.18.md) -Added overdrive ability to
   [TR](../etc/Terran_Republic.md)
-  [MAXes](../items/Mechanized_Assault_Exo-Suit.md),
-  [Burster](../items/Burster.md) magazine size buff, and changed the way
+  [MAXes](../armor/Mechanized_Assault_Exo-Suit.md),
+  [Burster](../armor/Burster.md) magazine size buff, and changed the way
   [incentives](../terminology/Incentives.md) are calculated.
 
 ### December
@@ -542,7 +542,7 @@ at bottom.
 
 - [3.15.34](3.15.34.md) -Fixed a bug where the
   [Jackhammer](../weapons/Jackhammer.md) did no damage to
-  [MAXes](../items/Mechanized_Assault_Exo-Suit.md) when firing standard (white
+  [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) when firing standard (white
   ammo) in triple-shot mode.
 - [3.15.36](3.15.36.md) -[Lasher](../weapons/Lasher.md) tweaks: Fixed hit
   detection issues, decreased [AP](../terminology/Armor_Piercing.md) damage, and

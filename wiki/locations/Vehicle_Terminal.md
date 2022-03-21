@@ -6,6 +6,6 @@
 [Technology Plants](../locations/Technology_Plant.md). The vehicle terminal can be destroyed
 by one [High Explosive Mine](../weapons/Adaptive_Construction_Engine.md) and is
 therefore a common site for booby traps set by enemy
-[Cloakers](../items/Infiltration_Suit.md).
+[Cloakers](../armor/Infiltration_Suit.md).
 
 

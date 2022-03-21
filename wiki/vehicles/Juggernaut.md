@@ -10,7 +10,7 @@
 | **Primary Weapons**        | 2 75mm Tank Cannons, 2 15mm Chainguns, 2 side [Ballguns](../items/Ballgun.md)                                                                                                                 |
 | **Secondary Weapon**       | \-                                                                                                                                                                                            |
 | **Ammunition Used**        | [Lightning Shell](../ammunition/Lightning_Shell.md), [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md), and [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |
-| **Occupants**              | 11 (Driver, 6 Gunners, 2 Infantry Passengers and 2 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Passengers)                                                                                 |
+| **Occupants**              | 11 (Driver, 6 Gunners, 2 Infantry Passengers and 2 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Passengers)                                                                                 |
 | **Handling**               | Poor                                                                                                                                                                                          |
 | **Top speed**              | 58 kph                                                                                                                                                                                        |
 | **Special Features**       | Driver [EMP](../commands/EMP.md) weapon, can pass through [Shield Module](../items/Shield_Module.md) defenses.                                                                                |
@@ -35,7 +35,7 @@ driver can also activate the vehicle horn (default key: "f").
 The side [Ballguns](../items/Ballgun.md) have a limited view, but if the user
 has the [Darklight](../implants/Darklight.md)
 [Implant](../implants/Implants.md), he/she can see
-[cloaked](../items/Infiltration_Suit.md) enemies at a longer range than normal,
+[cloaked](../armor/Infiltration_Suit.md) enemies at a longer range than normal,
 providing excellent side defense.
 
 Originally, the name "Juggernaut" was given to the Terran Republic's gunner

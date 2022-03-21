@@ -1,5 +1,5 @@
 ![ AI
-[MAX](Mechanized_Assault_Exo-Suit.md)](../images/PSScreenShot0320.jpg){ class="figure" }
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/PSScreenShot0320.jpg){ class="figure" }
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -18,7 +18,7 @@ The **Dual-Cycler** is the current
 [Anti-Infantry MAX](../certifications/Anti-Aircraft_MAX_(Certification).md) of
 the [Terran Republic](../etc/Terran_Republic.md). It boasts two large chainguns
 on both its arms that can literally shower an enemy with ordinance. The "Anchor"
-ability locks the [MAX](Mechanized_Assault_Exo-Suit.md) in place and reduces its
+ability locks the [MAX](../armor/Mechanized_Assault_Exo-Suit.md) in place and reduces its
 field of fire, but essentially doubles it rate of fire and reduces the size of
 the cone of fire bloom. The overdrive ability is also useful for doing heavy
 damage while on the move.
@@ -27,13 +27,13 @@ Shots to kill:
 
 |                                                        |          |
 | ------------------------------------------------------ | -------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 8 shots  |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 9 shots  |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots |
-| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 75 shots |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots  |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots  |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)                  | 75 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](MedKit.md), [Implants](../implants/Implants.md) or
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 

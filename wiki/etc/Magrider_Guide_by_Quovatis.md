@@ -303,9 +303,9 @@ A rough order of threats that you should engage when on the defense:
   always be priority if you know they see you.
 - [Fury](../vehicles/Fury.md): Very damaging weapon, but relatively easy to
   kill. Kill first.
-- AV [MAX](../items/Mechanized_Assault_Exo-Suit.md) units:
-  [Falcon](../items/Falcon.md) is not much a threat, but if a
-  [Pounder](../items/Pounder.md) if firing at you, it should be second only to
+- AV [MAX](../armor/Mechanized_Assault_Exo-Suit.md) units:
+  [Falcon](../armor/Falcon.md) is not much a threat, but if a
+  [Pounder](../armor/Pounder.md) if firing at you, it should be second only to
   the reaver, as they can kill you very quickly.
 - Nearby Anti-Vehicular Troops: If you have a good line of sight on them, target
   them before enemy tanks. But if they are hiding behind trees or cover, ignore.
@@ -325,7 +325,7 @@ A rough order of threats that you should engage when on the defense:
 
 On the attack, you should be targeting
 [AMSes](../vehicles/Advanced_Mobile_Station.md), tanks, and
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units in that order as priority,
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units in that order as priority,
 though it's never bad to work in a quick infantry kill when possible.
 
 When your driver stops to repair, do a quick darklight sweep of the area to

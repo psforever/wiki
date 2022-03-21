@@ -16,7 +16,7 @@ The [VS](../etc/Vanu_Sovereignty.md) have the
 beam, inflicting a steady stream of damage on its target. The laser loses
 effectiveness beyond 125 meters, but this is made up by its extreme precision
 and devastating effects on infantry and relatively light armor of
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units.
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units.
 
 The [TR](../etc/Terran_Republic.md) have the
 [Rotary Chaingun](../items/Rotary_Chaingun.md) which is set up to defend against

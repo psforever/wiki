@@ -3,7 +3,7 @@ different armor value. [Weapons](../weapons/Weapon.md) do different amounts of
 damage to each vehicle, depending on the type of vehicle targeted. For example,
 the [Lancer](../weapons/Lancer.md) does 175 damage to ground vehicles but only
 125 damage to aircraft. Similarly, anti-aircraft
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units do more damage to aircraft
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units do more damage to aircraft
 than ground vehicles. If your [empire](Empire.md) owns the
 [Cyssor](../locations/Cyssor.md) [benefit](Empire_Benefit.md), the base armor of
 your vehicle is increased by 10%. [Amp Station](../locations/Amp_Station.md)

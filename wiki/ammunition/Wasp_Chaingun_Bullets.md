@@ -10,7 +10,7 @@
 These 12mm bullets are used only by the [Wasp](../vehicles/Wasp.md). They are
 meant for anti-aircraft duty, but do decent damage to ground
 [vehicles](../vehicles/Vehicle.md) and
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units. The bullets do minimal
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units. The bullets do minimal
 damage to [infantry](../terminology/Infantry.md), requiring two clips to kill a
 soldier wearing [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor.
 The boxes can be obtained from any

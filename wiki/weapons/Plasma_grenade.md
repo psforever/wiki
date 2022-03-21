@@ -27,7 +27,7 @@ hand grenades, plasma grenades are better against infantry than
 [Fragmentation grenades](Fragmentation_grenade.md). However, when using the box
 ammunition, the plasma grenades do significantly less damage. In this case the
 fragmentation grenades do more damage to all objects, including
-[MAXes](../items/Mechanized_Assault_Exo-Suit.md) and infantry.
+[MAXes](../armor/Mechanized_Assault_Exo-Suit.md) and infantry.
 
 The [Plasma](Plasma.md) will also reveal cloakers in the area as one can see
 the plasma burning on them even while cloaked, and thus can be a useful way of

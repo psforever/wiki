@@ -9,7 +9,7 @@ If you want to find one, there are at least 2 in
 [Hunhau](../locations/Hunhau.md). One is located in the North-central area of
 grid F-10 by a ramp and can be walked away from. Another one is located in the
 top left corner of cell J-14 in a hole by a ramp. Note that unless you are a
-[VS](../etc/Vanu_Sovereignty.md) [MAX](Mechanized_Assault_Exo-Suit.md) you will
+[VS](../etc/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md) you will
 die since there is no way out of the hole. Another one, located in
 [Adlivun](../locations/Adlivun.md) cavern, is located at the upper, center of
 grid H-15. Just before you get on the UP [zipline](Zipline.md), look down to

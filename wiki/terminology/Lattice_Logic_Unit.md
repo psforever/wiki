@@ -23,7 +23,7 @@ transporting an LLU will have speed penalties, which reduces their top speed for
 as long as the LLU is in it. The LLU Carrier may not pilot any vehicles
 themselves, nor use a [Router](../vehicles/Router.md), deconstruct themselves,
 or enter a [Warpgate](../locations/Warpgate.md) bubble. In addition,
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) Units are not able to pick up
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units are not able to pick up
 and/or carry LLU's, and Cloakers will decloak while they are carrying the LLU.
 
 The LLU carrier must deliver the LLU to the

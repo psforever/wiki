@@ -16,7 +16,7 @@
 The Plasma Mortar is an indirect anti-infantry weapon. After the initial
 explosive impact, the weapon leaves behind a plasma field for a relatively long
 time. Anything stepping into the plasma field will take minor armor damage.
-Soldiers wearing an [Infiltration Suit](../items/Infiltration_Suit.md) when hit
+Soldiers wearing an [Infiltration Suit](../armor/Infiltration_Suit.md) when hit
 will be visible similar to being hit by
 [Plasma grenades](Plasma_grenade.md). While the initial explosive
 impact is not as great as the other

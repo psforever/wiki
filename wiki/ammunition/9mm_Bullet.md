@@ -14,7 +14,7 @@ by the [New Conglomerate](../etc/New_Conglomerate.md) and
 [Terran Republic](../etc/Terran_Republic.md). 9mm ammo can be removed from any
 equipment terminal by any empire. 9mm ammo is especially effective against soft
 or lightly armored targets such as
-[Infiltration Suits](../items/Infiltration_Suit.md) as well as
+[Infiltration Suits](../armor/Infiltration_Suit.md) as well as
 [Standard](../armor/Standard_Exo-Suit.md), [Agile](../armor/Agile_Exo-Suit.md),
 and [Reinforced Exo-suits](../armor/Reinforced_Exo-Suit.md). Standard 9mm Ammo
 is ineffective at damaging armored targets. While engaging such targets,

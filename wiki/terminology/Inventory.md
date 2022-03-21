@@ -11,8 +11,8 @@ retrieved, and general [backpack](Backpack.md) space, where other items of
 interest may be kept.
 
 Each type of [armor](../armor/Armor_Index.md) has a different size of inventory.
-[Infiltration Suits](../items/Infiltration_Suit.md) have the smallest and
-[MAXes](../items/Mechanized_Assault_Exo-Suit.md) have the largest. Each
+[Infiltration Suits](../armor/Infiltration_Suit.md) have the smallest and
+[MAXes](../armor/Mechanized_Assault_Exo-Suit.md) have the largest. Each
 inventory type displays a holster and backpack space. Items placed in the
 holsters appear on your avatar.
 

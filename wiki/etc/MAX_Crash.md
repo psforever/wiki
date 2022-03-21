@@ -2,7 +2,7 @@
 [Tower](../locations/Towers.md)](../images/Max_Crash.jpg){ class="figure" } The MAX Crash is an armored-infantry-based
 rapid-ingress assault tactic.
 
-A large group of soldiers wearing [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+A large group of soldiers wearing [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 suits charges a [Facility](../locations/Facilities.md), usually the
 [Back Door](../locations/Back_Door.md), and attempts to breach defenses in
 Auto-run mode.

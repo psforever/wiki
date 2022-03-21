@@ -4,7 +4,7 @@
 
 Ziplines are objects located solely
 within the [caverns](Core_Combat.md) which allow Infantry (and
-[MAX](Mechanized_Assault_Exo-Suit.md) Units) to quickly move between different
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units) to quickly move between different
 platforms.
 
 The entry and exit points of a zipline are spheres of energy, and walking into

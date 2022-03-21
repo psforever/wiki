@@ -23,7 +23,7 @@ repair time much.
 
 The gunship sports three 35mm chainguns and 2
 [Ground Pounders](../terminology/Ground_Pounder.md). It lacks the
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) passenger slots and cargo bay of
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) passenger slots and cargo bay of
 the original Galaxy. The Galaxy Gunship is a beast on the battlefield, able to
 take on almost any single target at close to medium range. A single
 anti-aircraft platform is no match for the gunship.

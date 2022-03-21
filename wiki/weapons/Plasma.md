@@ -16,12 +16,12 @@ Ignited by [Plasma grenades](Plasma_grenade.md), this distinct green fire can be
 applied to a large group very quickly via hand [grenades](../items/Grenade.md),
 the [Thumper](Thumper.md), or the [Punisher](Punisher.md).
 
-## [VS](../etc/Vanu_Sovereignty.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md) Plasma
+## [VS](../etc/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Plasma
 
 These aggravated-damage plasma fields are
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) in nature, being
-distributed by the orbs of the [Starfire](../items/Starfire.md) and
-[Comet](../items/Comet.md) [MAXes](../items/Mechanized_Assault_Exo-Suit.md), as
+distributed by the orbs of the [Starfire](../armor/Starfire.md) and
+[Comet](../armor/Comet.md) [MAXes](../armor/Mechanized_Assault_Exo-Suit.md), as
 well as the [Starfire BFR Weapon](../items/Starfire_(BFR).md) of the
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md). Soldiers taking damage from this
 type of plasma glow purple.

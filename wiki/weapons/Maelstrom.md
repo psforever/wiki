@@ -60,7 +60,7 @@ Shots to kill (Vortex Whip):
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 12 shots  |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 15 shots  |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 23 shots  |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 130 shots |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 130 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or

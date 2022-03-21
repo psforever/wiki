@@ -24,7 +24,7 @@ winner of the event.
 
 - The Winner will be able to purchase enemy weaponry from the equipment
   terminals. Enemy [Vehicles](../vehicles/Vehicle.md) and
-  [MAXes](../items/Mechanized_Assault_Exo-Suit.md) will not be available (though
+  [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) will not be available (though
   their standard arsenal will be).
 - The Second Place Empire will be able to access weaponry from the Third Place
   Empire, but not the winner.

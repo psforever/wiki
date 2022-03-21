@@ -42,7 +42,7 @@ The options are:
 
 Commonly referred to as a "Boomer", the 1st mode available on the ACE allows for
 the construction of this deadly remote detonated charge. Originally intended to
-be used as a perimeter control device, [Cloakers](../items/Infiltration_Suit.md)
+be used as a perimeter control device, [Cloakers](../armor/Infiltration_Suit.md)
 and other enterprising induviduals have adapted them to be used as offensive
 weapons, particularly useful for destroying [generators](../items/Generator.md)
 and [Respawn tubes](../items/Respawn_Tube.md). Boomers can be attached to almost

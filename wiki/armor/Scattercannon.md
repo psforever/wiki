@@ -29,13 +29,13 @@ Shots to kill (Average Spread in a Close to Medium Distance 5-15 m):
 
 |                                                        |             |
 | ------------------------------------------------------ | ----------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 3-4 shots   |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 4-5 shots   |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 6-7 shots   |
-| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 15-18 shots |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 3-4 shots   |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 4-5 shots   |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 6-7 shots   |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)                  | 15-18 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](MedKit.md), [Implants](../implants/Implants.md) or
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 

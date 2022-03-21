@@ -349,7 +349,7 @@ engaged, as well as disable a few systems, rendering it an easy target.
 
 Agile armor is required due to the fact that you cannot pilot an aircraft in
 [Rexo](../armor/Reinforced_Exo-Suit.md), and the inventory space of both the
-[Infiltrator](../items/Infiltration_Suit.md) and
+[Infiltrator](../armor/Infiltration_Suit.md) and
 [Standard Armor](../armor/Standard_Exo-Suit.md) is insufficient to carry your
 payload.
 

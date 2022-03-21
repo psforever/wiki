@@ -35,7 +35,7 @@ Shots to kill:
 
 |                                                |          |
 | ---------------------------------------------- | -------- |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md) | 3 shots  |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 3 shots  |
 | [Lightning](../vehicles/Lightning.md)          | 6 shots  |
 | [Prowler](../vehicles/Prowler.md)              | 18 shots |
 | [Magrider](../vehicles/Magrider.md)            | 14 shots |

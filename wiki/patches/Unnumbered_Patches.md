@@ -13,12 +13,12 @@ contains the following items:
   [Damage Degradation](../terminology/Damage_Degradation.md). While the
   projectile still goes the same maximum distance, it now degrades in its
   strength, as does the lash itself. Lasher damage against armor
-  ([MAXes](../items/Mechanized_Assault_Exo-Suit.md), vehicles) has been reduced
+  ([MAXes](../armor/Mechanized_Assault_Exo-Suit.md), vehicles) has been reduced
   by 30%.
 
 <!-- -->
 
-- The [Starfire](../items/Starfire.md) AA MAX has had its damage degradation
+- The [Starfire](../armor/Starfire.md) AA MAX has had its damage degradation
   removed and its damage has been decreased about 20%. This reduction is only
   different from the live version at ranges of less than 50 meters. The removal
   of damage degradation, however, will be very noticable against targets at
@@ -470,7 +470,7 @@ can reach [Battle Rank](../terminology/Battle_Rank.md) 40... If you dare!!!
 [The Chainblade Massacre](../etc/The_Chainblade_Massacre.md) will also pop up
 from time to time throughout the
 [Spooktacular Days](../etc/Spooktacular_Days.md) so be prepared! All players
-will be able to use [Cloaking infiltration suits](../items/Infiltration_Suit.md)
+will be able to use [Cloaking infiltration suits](../armor/Infiltration_Suit.md)
 without need of the [certification](../certifications/Certification.md) on
 [Extinction](../locations/Extinction.md) (this is our version of ghosts).
 

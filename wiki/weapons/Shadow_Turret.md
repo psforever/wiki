@@ -32,6 +32,6 @@ Ammunition" function (default is "X").
 Shadow Turrets can be detected by use of the
 [Darklight](../implants/Darklight.md) [implant](../implants/Implants.md), and
 will appear in a similar way as players wearing an
-[Infiltration Suit](../items/Infiltration_Suit.md).
+[Infiltration Suit](../armor/Infiltration_Suit.md).
 
 

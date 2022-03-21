@@ -12,14 +12,14 @@
 | **Occupants**              | 1 (Driver)                                                                                                |
 | **Handling**               | Ultra Nimble                                                                                              |
 | **Top speed**              | 88 kph                                                                                                    |
-| **Note**                   | Has the ability to cloak when the driver is wearing an [Infiltration Suit](../items/Infiltration_Suit.md) |
+| **Note**                   | Has the ability to cloak when the driver is wearing an [Infiltration Suit](../armor/Infiltration_Suit.md) |
 
 **Wraith**
 
 The **Wraith** is an all terrain vehicle (ATV). It is not mounted with any
 weapons systems at all, but is mounted with an infiltration-based cloaking
 ability. While the rider is wearing the
-[Infiltration Suit](../items/Infiltration_Suit.md), the whole vehicle can be
+[Infiltration Suit](../armor/Infiltration_Suit.md), the whole vehicle can be
 made invisible. This follows the same rules as the infiltration suit: the faster
 it moves the more visible it becomes. The ATV has a cruise speed over flat
 ground of 88kph and can reach uncontrollable speeds of 212kph.

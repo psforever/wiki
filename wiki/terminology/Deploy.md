@@ -30,7 +30,7 @@ To deploy and undeploy, the default key is 'B'.
 be created from an ACE are often called "deployables."
 
 The [Terran Republic](../etc/Terran_Republic.md)
-[MAX](../items/Mechanized_Assault_Exo-Suit.md)'s "[anchoring](Anchoring.md)"
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s "[anchoring](Anchoring.md)"
 ability is essentially the same as "deploying" it, but is never referred to in
 that way. Similarly, [BFRs](../vehicles/BattleFrame_Robotics.md) can crouch and
 improve fire rate, accuracy, and shield recharge, similar to TR MAXes.

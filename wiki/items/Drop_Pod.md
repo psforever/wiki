@@ -2,7 +2,7 @@
 capsules for individual troop deployment.
 
 Using atmospheric drag and retrorockets, one pod is capable of carrying any
-armor class up through [MAX](Mechanized_Assault_Exo-Suit.md), but not vehicles.
+armor class up through [MAX](../armor/Mechanized_Assault_Exo-Suit.md), but not vehicles.
 
 Accessible via the [HART](../terminology/HART.md), a soldier can land a drop pod
 on any relatively flat ground outside of an

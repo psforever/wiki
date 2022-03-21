@@ -36,7 +36,7 @@ Shots to kill (Average on a close to medium range):
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 6 shots                                         |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 7 shots                                         |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 9 shots                                         |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 76 [AP](../terminology/Armor_Piercing.md) shots |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 76 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or

@@ -20,20 +20,20 @@ The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
 Anti-Infantry role, its Secondary Fire does better against armored targets, like
 vehicles and other MAXes.
 
-This [MAX](Mechanized_Assault_Exo-Suit.md)'s jump jets allow it to sail over
+This [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s jump jets allow it to sail over
 ground obstacles, making this the most mobile of MAXes.
 
 Shots to kill:
 
 |                                                        |                                                      |
 | ------------------------------------------------------ | ---------------------------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 8 shots                                              |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 9 shots                                              |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots                                             |
-| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 63 [AP Mode](../terminology/Armor_Piercing.md) shots |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 8 shots                                              |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 9 shots                                              |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 13 shots                                             |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)                  | 63 [AP Mode](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](MedKit.md), [Implants](../implants/Implants.md) or
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 

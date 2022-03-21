@@ -13,7 +13,7 @@ use it:
   Striker is point and click. While the tracking system does mean the rocket
   will home in on the target, the target must be kept in the reticule to guide
   the rocket all the way in, to be sure of a hit. The nearest equivalent is the
-  [Starfire](../items/Starfire.md) MAX weapon system.
+  [Starfire](../armor/Starfire.md) MAX weapon system.
 
 <!-- -->
 

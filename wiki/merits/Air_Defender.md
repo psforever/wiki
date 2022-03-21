@@ -219,7 +219,7 @@
 </table>
 
 Air Defender levels are earned by eliminating Enemy Soldiers using Anti-Aircraft
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) Units,
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units,
 [Skyguards](../vehicles/Skyguard.md),
 [Cerberus Turrets](../weapons/Cerberus_Turret.md),
 [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Aircraft weapons, and the

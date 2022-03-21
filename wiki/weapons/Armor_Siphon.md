@@ -18,7 +18,7 @@ Like the [NTU Siphon](NTU_Siphon.md), each empire has their own unique model of
 the Armor Siphon, but they all function identically.
 
 The Armor Siphon is a close range weapon effective only against vehicles (not
-[MAXs](../items/Mechanized_Assault_Exo-Suit.md) or infantry). The weapon
+[MAXs](../armor/Mechanized_Assault_Exo-Suit.md) or infantry). The weapon
 bypasses any shields the vehicle has and damages the vehicle. If your BFR is
 damaged, the armor that you take off of the enemy is "siphoned" into your BFR
 and repairs you. Note that status damages, such as sensor arrays will NOT be

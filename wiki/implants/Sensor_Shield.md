@@ -8,7 +8,7 @@ the user from any sort of sensing devices, including:
 - [Interlink Facility](../locations/Interlink.md) benefits
 - [Audio Amplifier](Audio_Amplifier.md)
 
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units cannot use Sensor Shield.
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units cannot use Sensor Shield.
 
 Sensor Shield will also prevent damage from the low level
 [Pain Fields](../terminology/Pain_Field.md) that exist in all base spawn rooms.

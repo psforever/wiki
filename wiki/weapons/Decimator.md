@@ -27,7 +27,7 @@ is useful for scouting medium-range targets or turning what would otherwise be a
 missed shot into a splash damage hit.
 
 It is especially effective against
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units and does significant damage
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units and does significant damage
 to vehicles, although the relatively slow rockets make the latter difficult to
 get a hit.
 
@@ -38,7 +38,7 @@ Shots to kill:
 
 |                                                |          |
 | ---------------------------------------------- | -------- |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md) | 3 shots  |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 3 shots  |
 | [Lightning](../vehicles/Lightning.md)          | 4 shots  |
 | [Prowler](../vehicles/Prowler.md)              | 11 shots |
 | [Magrider](../vehicles/Magrider.md)            | 9 shots  |

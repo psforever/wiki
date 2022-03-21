@@ -26,7 +26,7 @@ it a little more range. It is fairly ineffective at anything beyond short range,
 so is only useful for indoor and close-combat encounters. Using Armor Piercing
 shells, the Sweeper has the fastest time to kill of any
 [Medium Assault](../certifications/Medium_Assault.md) weaponry against
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) units.
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md) units.
 
 Shots to kill (Close to Medium Range):
 
@@ -35,7 +35,7 @@ Shots to kill (Close to Medium Range):
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 2 shots                                         |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3 shots                                         |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 4 shots                                         |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 12 [AP](../terminology/Armor_Piercing.md) shots |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 12 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or

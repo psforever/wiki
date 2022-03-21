@@ -36,7 +36,7 @@ and 200. So equip every [weapon](../weapons/Weapons_Index.md) and support item
 you can, fire them if you want to. Putting on [Rexo](../armor/Reinforced_Exo-Suit.md) armor makes this
 process faster.
 
-- Don't forget, each [MAX Armor](../items/Mechanized_Assault_Exo-Suit.md) has
+- Don't forget, each [MAX Armor](../armor/Mechanized_Assault_Exo-Suit.md) has
   its own weapon systems, and they award you
   [Experience Points](../terminology/Experience_Points.md) also.
 

@@ -3,7 +3,7 @@ vehicle-related tasks, such as:
 
 - Getting kills while driving a certain vehicle
 - Kills made by crew in a vehicle you are operating
-- Kills made while operating [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+- Kills made while operating [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
   Armor
 - Kills made while gunning in a certain vehicle
 

@@ -8,7 +8,7 @@ Holstered items in the pistol slots appear on the thighs. Items in the rifle
 holsters appear on the player's back. Each armor type has a different
 configuration of holsters.
 
-- [Infiltration Suits](../items/Infiltration_Suit.md) have only one pistol
+- [Infiltration Suits](../armor/Infiltration_Suit.md) have only one pistol
   holster.
 - [Standard Exo-Suits](../armor/Standard_Exo-Suit.md) have one pistol holster
   and one rifle holster.

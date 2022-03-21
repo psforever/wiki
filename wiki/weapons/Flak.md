@@ -27,7 +27,7 @@ steady bombardment will generally force a retreat of these craft.
 
 Used by:
 
-- [Burster](../items/Burster.md) Anti Air MAX
+- [Burster](../armor/Burster.md) Anti Air MAX
   ([Terran Republic](../etc/Terran_Republic.md))
 - [Skyguard](../vehicles/Skyguard.md) Medium Buggy
   ([Common Pool](../terminology/Common_Pool.md))
