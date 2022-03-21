@@ -35,7 +35,9 @@
 	"extensions": [
 		"ms-python.python",
 		"ms-python.vscode-pylance",
-		"mathiassoeholm.markdown-link-updater"
+		"mathiassoeholm.markdown-link-updater",
+		"dlyz.md-link-checker",
+		"KlausJandl.markdownlinkcompletionprovider"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
