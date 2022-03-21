@@ -1,1 +1,0 @@
-Warrior Nation is home to many mature and skilled players.

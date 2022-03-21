@@ -1,1 +1,0 @@
-HUD is the abbreviation of Heads-up Display.</text>

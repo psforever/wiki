@@ -1,1 +1,0 @@
-All Facilities in PlanetSide are listed under this category.
