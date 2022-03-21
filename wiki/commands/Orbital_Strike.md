@@ -1,5 +1,6 @@
-![](../images/MassOS.jpg "fig:MassOS.jpg") at the same time \]\] The Orbital
-Strike is an Ion Beam of focused energy launched from the respective
+![at the same time ](../images/MassOS.jpg){ class="figure" }
+
+The Orbital Strike is an Ion Beam of focused energy launched from the respective
 [Empires](../terminology/Empires.md)
 [Orbital Platform](../locations/Orbital_Platform.md). Orbital Strikes are the
 most powerful weapon in the game and destroy anything caught in its radius. They

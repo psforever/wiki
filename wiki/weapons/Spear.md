@@ -1,5 +1,5 @@
-![](../images/Spear.jpg "fig:Spear.jpg")
-![](../images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
+![](../images/Spear.jpg){ class="figure" }
+![.](../images/Pistol_DD.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

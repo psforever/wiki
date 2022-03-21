@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0243.jpg "fig:PSScreenShot0243.jpg") Soldier carrying
-a Jackhammer\]\]
+![ Soldier carrying
+a Jackhammer](../images/PSScreenShot0243.jpg){ class="figure" }
 
 |                            |                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |

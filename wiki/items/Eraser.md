@@ -1,5 +1,5 @@
-![](../images/Eraser.jpg "fig:Eraser.jpg")
-![](../images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
+![](../images/Eraser.jpg){ class="figure" }
+![.](../images/Pistol_DD.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

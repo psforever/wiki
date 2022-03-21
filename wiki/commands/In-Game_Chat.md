@@ -1,6 +1,6 @@
 In-game chat is the system that players use to communicate with each other, as
 well as receive information regarding the current battle.
-![](../images/ChatHUD.gif "fig:ChatHUD.gif") **TOC**
+![](../images/ChatHUD.gif){ class="figure" } **TOC**
 
 # The Chat HUD
 

@@ -1,8 +1,8 @@
-![](../images/PSScreenShot0317.jpg "fig:PSScreenShot0317.jpg") Standard
-Armor\]\] ![](../images/NCStandardExoSuit.jpg "fig:NCStandardExoSuit.jpg")
-Standard Armor\]\] ![](../images/VS_Standards.jpg "fig:VS_Standards.jpg")
+![ Standard
+Armor](../images/PSScreenShot0317.jpg){ class="figure" } ![
+Standard Armor](../images/NCStandardExoSuit.jpg){ class="figure" } ![
 [Standard Exo-Suit](Standard_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7 and 14.\]\]
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7 and 14.](../images/VS_Standards.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |

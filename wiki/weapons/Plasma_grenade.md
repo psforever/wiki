@@ -1,5 +1,5 @@
-![](../images/Plasma-Hand-grenade.jpg "fig:Plasma-Hand-grenade.jpg")
-[Hand grenade](Hand_grenade.md)\]\]
+![
+[Hand grenade](Hand_grenade.md)](../images/Plasma-Hand-grenade.jpg){ class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
@@ -14,7 +14,7 @@
 
 **Plasma Grenade**
 
-![Image:Plasma-Hand-grenade-Icon.jpg](../images/Plasma-Hand-grenade-Icon.jpg "fig:Image:Plasma-Hand-grenade-Icon.jpg")
+![](../images/Plasma-Hand-grenade-Icon.jpg){ class="figure" }
 [image:Plasmagrenadepack.jpg](../images/Plasmagrenadepack.jpg) The damage caused by
 **Plasma grenades** depends on the method of delivery. Both methods inflict
 damage by splashing [Plasma](Plasma.md) in an area effect. Affected objects

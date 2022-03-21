@@ -1,5 +1,5 @@
-![](../images/SolsarMap.jpg "fig:SolsarMap.jpg")
-![](../images/Solsar_Terrain.jpg "fig:Solsar_Terrain.jpg")
+![](../images/SolsarMap.jpg){ class="figure" }
+![](../images/Solsar_Terrain.jpg){ class="figure" }
 
 ## Continental Data
 
@@ -17,7 +17,7 @@
 
 ## Description
 
-![](../images/Rockswarpgate.jpg "fig:Rockswarpgate.jpg")\]\] The large central
+![](../images/Rockswarpgate.jpg){ class="figure" } The large central
 oasis of Solsar is flanked by two warp gates on plateaus nearby, making it a
 unique tactical situation.
 

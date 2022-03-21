@@ -1,4 +1,4 @@
-![](../images/Marauder.jpg "fig:Marauder.jpg")-colored Marauder\]\]
+![-colored Marauder](../images/Marauder.jpg){ class="figure" }
 
 |                            |                                                                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |

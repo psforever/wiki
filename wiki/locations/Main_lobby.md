@@ -1,4 +1,4 @@
-![](../images/InterlinkMainLobby.jpg "fig:InterlinkMainLobby.jpg")\]\]
+![](../images/InterlinkMainLobby.jpg){ class="figure" }
 
 Generally, the Lobby is the room immediately inside the main entrance from a
 [facility](../locations/Facilities.md)'s [courtyard](Courtyard.md). The lobby can contain the

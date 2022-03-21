@@ -1,5 +1,5 @@
-![](../images/CeryshenMap.jpg "fig:CeryshenMap.jpg")
-![](../images/Ceryshen_Terrain.jpg "fig:Ceryshen_Terrain.jpg")
+![](../images/CeryshenMap.jpg){ class="figure" }
+![](../images/Ceryshen_Terrain.jpg){ class="figure" }
 
 ## Continental Data
 

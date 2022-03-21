@@ -1,5 +1,5 @@
-![](../images/FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its
-Dispersion Cannon\]\]
+![ Flail firing its
+Dispersion Cannon](../images/FlailPicture.jpg){ class="figure" }
 
 |                            |                                                                                                     |
 | -------------------------- | --------------------------------------------------------------------------------------------------- |

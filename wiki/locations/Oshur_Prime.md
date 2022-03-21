@@ -1,5 +1,5 @@
-![](../images/Meteor.jpg "fig:Meteor.jpg") shower during a special Oshur Prime
-[event](../etc/Events.md)\]\]
+![ shower during a special Oshur Prime
+[event](../etc/Events.md)](../images/Meteor.jpg){ class="figure" }
 
 ## [Oshur Prime](Oshur_Prime.md)
 

@@ -20,8 +20,8 @@ travel over water. This is a big advantage.
 
 ## Driver Setup
 
-![](../images/Magdriverloadout.jpg "fig:magdriverloadout.jpg") driver
-loadout\]\] When you acquire your [Magrider](../vehicles/Magrider.md) you should have a
+![ driver
+loadout](../images/Magdriverloadout.jpg){ class="figure" } When you acquire your [Magrider](../vehicles/Magrider.md) you should have a
 favorite with 4 boxes of PPA and 2 boxes of Rail Beam ammo. This should be your
 normal loadout, as the PPA goes through ammo quickly. However, if you plan on
 doing a lot of water driving or long range sniping, you should get 3 or 4 boxes
@@ -29,8 +29,8 @@ of Rail Beam, as you won't be using the PPA much. Your favorite should also have
 a spare glue gun, 5 boxes of glue, and perhaps a medpack. This allows you to
 carry less glue in your infantry loadout, saving space for other things...
 
-![](../images/MagTrunk.jpg "fig:MagTrunk.jpg") [Favorite](Favorites.md) for the
-[Magrider](../vehicles/Magrider.md)\]\] If you do a lot of tank driving, you should have
+![ [Favorite](Favorites.md) for the
+[Magrider](../vehicles/Magrider.md)](../images/MagTrunk.jpg){ class="figure" } If you do a lot of tank driving, you should have
 a favorite with a box of PPA ammo, a glue gun, a pulsar, glue, a REK (sometimes
 you might need to take a tower), and whatever else you can get in there. I
 prefer the [Pulsar](../weapons/Pulsar.md) to the [Lasher](../weapons/Lasher.md)
@@ -268,9 +268,9 @@ battle, and never repair.
 
 ## Gunner Guide
 
-![](../images/MagGunnerLoadout.jpg "fig:MagGunnerLoadout.jpg") gunner loadout.
+![ gunner loadout.
 Replace the [CUD](../weapons/Command_Uplink_Device.md) with two more boxes of glue if not CR3 or above. More
-glue should always be in the trunk.\]\] As stated before, ideally you need to be
+glue should always be in the trunk.](../images/MagGunnerLoadout.jpg){ class="figure" } As stated before, ideally you need to be
 on voice comms with your driver. You don't have time to type "I see a vanguard
 on the other hill, steady me for a second". If you know you will be gunning,
 your loadout should carry two boxes of rail beam ammo and one box of PPA. You

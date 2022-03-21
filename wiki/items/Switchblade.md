@@ -1,5 +1,5 @@
-![](../images/SwitchbladePicture.jpg "fig:SwitchbladePicture.jpg")
-Switchblade\]\]
+![
+Switchblade](../images/SwitchbladePicture.jpg){ class="figure" }
 
 |                            |                                                                                                     |
 | -------------------------- | --------------------------------------------------------------------------------------------------- |

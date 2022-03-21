@@ -1,5 +1,5 @@
-![](../images/Thoth-solsar.jpg "fig:Thoth-solsar.jpg") on [Solsar](Solsar.md) with
-[Force Dome](../items/Force_Dome.md) activated\]\] One [facilty](Facilities.md)
+![ on [Solsar](Solsar.md) with
+[Force Dome](../items/Force_Dome.md) activated](../images/Thoth-solsar.jpg){ class="figure" } One [facilty](Facilities.md)
 on each [Empire](../terminology/Empire.md)'s Home [continent](Continent.md) is
 designated as the **Capitol**. During the [Post-Bending](../etc/The_Bending.md)
 era, control of this facility gave the dominating empire use of the continental

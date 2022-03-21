@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0248.jpg "fig:PSScreenShot0248.jpg") Soldier holding a
-Gauss Rifle\]\]
+![ Soldier holding a
+Gauss Rifle](../images/PSScreenShot0248.jpg){ class="figure" }
 
 |                            |                                                                                                          |
 | -------------------------- | -------------------------------------------------------------------------------------------------------- |

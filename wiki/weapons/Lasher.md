@@ -1,4 +1,4 @@
-![](../images/Lasher.jpg "fig:Lasher.jpg") soldier firing a Lasher\]\]
+![soldier firing a Lasher](../images/Lasher.jpg){ class="figure" }
 
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |

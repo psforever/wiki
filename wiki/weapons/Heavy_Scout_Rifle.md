@@ -1,4 +1,4 @@
-![](../images/HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
+![soldier displays an HSR](../images/HSR.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |
@@ -14,7 +14,7 @@
 
 **Heavy Scout Rifle (HSR)**
 
-[image:HSR-Icon.jpg](image:HSR-Icon.jpg)
+![image:HSR-Icon.jpg](../images/HSR-Icon.jpg)
 
 The **Heavy Scout Rifle**, commonly called the **HSR** was introduced in May
 2005 in patch [3.6.8](../patches/3.6.8.md). The rifle fires the same

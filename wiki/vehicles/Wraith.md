@@ -1,5 +1,5 @@
-![](../images/Wraiths.jpg "fig:Wraiths.jpg")
-![](../images/Wraith.jpg "fig:Wraith.jpg") Wraith\]\]
+![](../images/Wraiths.jpg){ class="figure" }
+![Wraith](../images/Wraith.jpg){ class="figure" }
 
 |                            |                                                                                                           |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |

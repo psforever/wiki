@@ -1,6 +1,6 @@
-![](../images/VSThresher.jpg "fig:VSThresher.jpg") Thresher\]\]
-![](../images/Thresher_profile.jpg "fig:Thresher_profile.jpg") like the
-[Magrider](Magrider.md)\]\]
+![Thresher](../images/VSThresher.jpg){ class="figure" }
+![ like the
+[Magrider](Magrider.md)](../images/Thresher_profile.jpg){ class="figure" }
 
 |                            |                                                                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |

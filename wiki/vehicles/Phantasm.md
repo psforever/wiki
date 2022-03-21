@@ -1,6 +1,6 @@
-![](../images/PhantasmBottom.jpg "fig:PhantasmBottom.jpg")
-![](../images/PhantasmSide.jpg "fig:PhantasmSide.jpg")
-![](../images/Phantasm.jpg "fig:Phantasm.jpg"), signed by Fisa\]\]
+![](../images/PhantasmBottom.jpg){ class="figure" }
+![](../images/PhantasmSide.jpg){ class="figure" }
+![, signed by Fisa](../images/Phantasm.jpg){ class="figure" }
 
 |                            |                                                             |
 | -------------------------- | ----------------------------------------------------------- |

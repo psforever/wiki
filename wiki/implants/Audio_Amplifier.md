@@ -1,4 +1,4 @@
-![Image:Audio_amplifier.gif](../images/Audio_amplifier.gif "fig:Image:Audio_amplifier.gif")
+![](../images/Audio_amplifier.gif){ class="figure" }
 The **Audio Amplifier** [Implant](Implants.md) amplifies the footsteps of nearby
 enemy troops, causing them to appear on your
 [Proximity Map](../terminology/Proximity_Map.md). (Normally you need

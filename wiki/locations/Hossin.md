@@ -1,5 +1,5 @@
-![](../images/HossinMap.jpg "fig:HossinMap.jpg")
-![](../images/Hossin_Terrain.jpg "fig:Hossin_Terrain.jpg")
+![](../images/HossinMap.jpg){ class="figure" }
+![](../images/Hossin_Terrain.jpg){ class="figure" }
 
 ## Continental Data
 

@@ -1,4 +1,4 @@
-![](../images/Damagecrystal.jpg "fig:Damagecrystal.jpg")\]\]
+![](../images/Damagecrystal.jpg){ class="figure" }
 
 Damage Crystals, are very rare [Crystals](Crystal.md) and can be identified by
 its purple color and pointed tips. They're not useful though. When you are in

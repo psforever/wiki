@@ -1,7 +1,7 @@
-![](../images/GrannyHacker.jpg "fig:GrannyHacker.jpg")
-![](../images/PSScreenShot0329.jpg "fig:PSScreenShot0329.jpg")
-![](../images/AdvancedHacker.jpg "fig:AdvancedHacker.jpg")
-![](../images/ExpertHacker.jpg "fig:ExpertHacker.jpg")
+![](../images/GrannyHacker.jpg){ class="figure" }
+![](../images/PSScreenShot0329.jpg){ class="figure" }
+![](../images/AdvancedHacker.jpg){ class="figure" }
+![](../images/ExpertHacker.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |

@@ -1,5 +1,5 @@
-![](../images/SpikerPicture.jpg "fig:SpikerPicture.jpg") Soldier is loading his
-Spiker\]\]
+![ Soldier is loading his
+Spiker](../images/SpikerPicture.jpg){ class="figure" }
 
 |                            |                                                                    |
 | -------------------------- | ------------------------------------------------------------------ |

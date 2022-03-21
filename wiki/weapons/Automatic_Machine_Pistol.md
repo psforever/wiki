@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0292.jpg "fig:PSScreenShot0292.jpg") Soldier equipped
-with an AMP\]\]
+![ Soldier equipped
+with an AMP](../images/PSScreenShot0292.jpg){ class="figure" }
 
 |                            |                                                                                                          |
 | -------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@ with an AMP\]\]
 
 **Automatic Machine Pistol (AMP)**
 
-[image:AMP-Icon.jpgCapable](image:AMP-Icon.jpg) of utilizing either
+![image:AMP-Icon.jpg](../images/AMP-Icon.jpg) Capable of utilizing either
 Anti-Infantry or Armor-Piercing ammunition, the
 [AMP](Automatic_Machine_Pistol.md) is the only fully-automatic handgun
 available.

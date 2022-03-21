@@ -1,5 +1,5 @@
-![](../images/ProwlerPicture.jpg "fig:ProwlerPicture.jpg")'s
-[Medium Battle Tank](../items/Medium_Battle_Tank.md)\]\]
+!['s
+[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/ProwlerPicture.jpg){ class="figure" }
 
 |                            |                                                                                                                            |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |

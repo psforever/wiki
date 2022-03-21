@@ -1,4 +1,4 @@
-![](../images/TroopTunnel.jpg "fig:TroopTunnel.jpg") in [Supai](Supai.md)\]\]
+![in [Supai](Supai.md)](../images/TroopTunnel.jpg){ class="figure" }
 
 Troop Tunnels are narrow passageways in [Caverns](Caverns.md) connecting the
 larger access tunnels to the main chamber. They normally have

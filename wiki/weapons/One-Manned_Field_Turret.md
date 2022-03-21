@@ -1,5 +1,5 @@
-![](../images/OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
-[Osprey](Osprey.md)\]\]
+![ Field Turret, the
+[Osprey](Osprey.md)](../images/OspreyFront.jpg){ class="figure" }
 
 |                            |                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |

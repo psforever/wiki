@@ -1,5 +1,5 @@
-![](../images/Annwn.jpg "fig:Annwn.jpg")
-![](../images/AnnwnMap.jpg "fig:AnnwnMap.jpg")
+![](../images/Annwn.jpg){ class="figure" }
+![](../images/AnnwnMap.jpg){ class="figure" }
 
 Annwn is one of the six [Core Combat](../items/Core_Combat.md)
 [Caverns](Caverns.md) and is characterized by teal soil, green marble crystals,

@@ -1,6 +1,6 @@
-![](../images/FusionBladeNC.jpg "fig:FusionBladeNC.jpg") Soldier with the Fusion
-Blade\]\] ![](../images/FusionBladeVS.jpg "fig:FusionBladeVS.jpg") Soldier
-equipped with the Fusion Blade in Secondary Mode\]\]
+![ Soldier with the Fusion
+Blade](../images/FusionBladeNC.jpg){ class="figure" } ![ Soldier
+equipped with the Fusion Blade in Secondary Mode](../images/FusionBladeVS.jpg){ class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |

@@ -1,9 +1,11 @@
-![](../images/Cloaker_firing.jpg "fig:Cloaker_firing.jpg")
-![](../images/TRInfilPicture.jpg "fig:TRInfilPicture.jpg") Infiltrator coming
-out of the [Implant Terminal](Implant_Terminal.md)\]\]
-![](../images/NCInfiltrationSuit.jpg "fig:NCInfiltrationSuit.jpg")
-Infiltrator\]\] ![](../images/VS_InfilSuit.jpg "fig:VS_InfilSuit.jpg")
-Infiltrator\]\]
+![](../images/Cloaker_firing.jpg){ class="figure" }
+
+![Infiltrator coming
+out of the [Implant Terminal](Implant_Terminal.md)](../images/TRInfilPicture.jpg){ class="figure" }
+
+![Infiltrator](../images/NCInfiltrationSuit.jpg){ class="figure" }
+
+![](../images/VS_InfilSuit.jpg){ class="figure" }
 
 |                            |                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------- |

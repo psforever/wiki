@@ -1,8 +1,8 @@
-![](../images/Teleporter.jpg "fig:Teleporter.jpg")
-![](../images/TeleporterBoardingPoint.jpg "fig:TeleporterBoardingPoint.jpg") in
-the [Caverns](../locations/Caverns.md)\]\]
-![](../images/TeleporterExit.jpg "fig:TeleporterExit.jpg") Soldier exiting an
-Ancient Teleporter in the [Caverns](../locations/Caverns.md)\]\]
+![
+![](../images/TeleporterBoardingPoint.jpg){ class="figure" } in
+the [Caverns](../locations/Caverns.md)](../images/Teleporter.jpg){ class="figure" }
+![ Soldier exiting an
+Ancient Teleporter in the [Caverns](../locations/Caverns.md)](../images/TeleporterExit.jpg){ class="figure" }
 
 There are three types of Teleporter in Planetside.
 

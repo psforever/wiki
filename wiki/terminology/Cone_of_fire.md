@@ -1,7 +1,7 @@
 To better simulate the effects of environment on a soldier's aim, PlanetSide
 uses the **Cone of Fire** system.
 
-![](../images/Coneoffire.jpg "fig:Coneoffire.jpg")Imagine a cone with its point
+![](../images/Coneoffire.jpg){ class="figure" }Imagine a cone with its point
 at the muzzle of your weapon and ending at the maximum range of the weapon. The
 cicle of the "bottom" of the cone is represented by your reticule. Any round you
 fire will go randomly inside that cone.

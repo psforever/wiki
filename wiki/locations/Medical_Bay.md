@@ -1,6 +1,6 @@
-![](../images/MedBay.jpg "fig:MedBay.jpg")
-![](../images/MedBay3.jpg "fig:MedBay3.jpg")
-![](../images/MedBay2.jpg "fig:MedBay2.jpg")
+![](../images/MedBay.jpg){ class="figure" }
+![](../images/MedBay3.jpg){ class="figure" }
+![](../images/MedBay2.jpg){ class="figure" }
 
 Only [Bio Laboratories](Bio_Laboratory.md) have Medical Bays.
 

@@ -1,5 +1,5 @@
-![](../images/Watch-tower.jpg "fig:Watch-tower.jpg") Watch Tower on
-[Cyssor](Cyssor.md)\]\]
+![ Watch Tower on
+[Cyssor](Cyssor.md)](../images/Watch-tower.jpg){ class="figure" }
 
 ## Distinctive features
 

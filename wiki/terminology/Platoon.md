@@ -17,5 +17,5 @@ platoon:
 Here is a picture of the platoon list in the
 [Heads-up Display](../etc/Heads-up_Display.md) ([HUD](Acronyms_and_Slang.md))
 
-![Image:PlatoonList.jpg](../images/PlatoonList.jpg "Image:PlatoonList.jpg")
+![](../images/PlatoonList.jpg "Image:PlatoonList.jpg")
 

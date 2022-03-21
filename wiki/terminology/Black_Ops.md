@@ -1,8 +1,8 @@
-![](../images/BO_Soldiers.jpg "fig:BO_Soldiers.jpg")\]\]
-![](../images/BO_Phantasm.jpg "fig:BO_Phantasm.jpg")\]\]
-![](../images/BO_Hacked_Facility.jpg "fig:BO_Hacked_Facility.jpg") that is
+![](../images/BO_Soldiers.jpg){ class="figure" }
+![](../images/BO_Phantasm.jpg){ class="figure" }
+![ that is
 hacked by Black Ops, as seen on the
-[continental map](../etc/Continental_Map.md)\]\]
+[continental map](../etc/Continental_Map.md)](../images/BO_Hacked_Facility.jpg){ class="figure" }
 
 Black Ops (BO) are the Super Soldiers of [PlanetSide](../etc/PlanetSide.md).
 Having 1000 [Health](Health.md) and 500 [Stamina](Stamina.md) (which has a much

@@ -7,8 +7,8 @@ impact is unlimited.
 
 ## Grenade Plasma
 
-![](../images/Grenade_Plasma.jpg "fig:Grenade_Plasma.jpg") troops covered by
-green clouds of [Plasma](Plasma.md)\]\]
+![ troops covered by
+green clouds of [Plasma](Plasma.md)](../images/Grenade_Plasma.jpg){ class="figure" }
 
 The first and most common occurance of the fourth state of matter.
 

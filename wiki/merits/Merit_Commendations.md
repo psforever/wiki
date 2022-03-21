@@ -42,26 +42,26 @@ At present, there are six categories of Merit Commendations:
 <tr>
 <td width="190" align="center" valign="top">
 
-<b></b> ![](../images/SupportMeritThumb.png "fig:SupportMeritThumb.png")\]\]
+<b></b> ![](../images/SupportMeritThumb.png){ class="figure" }
 
 </td>
 <td width="170" align="center" valign="top">
 
-<b></b> ![](../images/VehMeritThumb.png "fig:VehMeritThumb.png")\]\] <b></b>
-![](../images/DefenseMeritThumb.png "fig:DefenseMeritThumb.png")\]\]
+<b></b> ![](../images/VehMeritThumb.png){ class="figure" } <b></b>
+![](../images/DefenseMeritThumb.png){ class="figure" }
 
 </td>
 <td width="190" align="center" valign="top">
 
-<b></b> ![](../images/WeaponryMeritThumb2.png "fig:WeaponryMeritThumb2.png")\]\]
+<b></b> ![](../images/WeaponryMeritThumb2.png){ class="figure" }
 
 </td>
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](../images/ActivityMeritThumbnail_copy.png "fig:ActivityMeritThumbnail_copy.png")\]\]
+![](../images/ActivityMeritThumbnail_copy.png){ class="figure" }
 <b></b>
-![](../images/Exclusive_Merit_Commendation.png "fig:Exclusive_Merit_Commendation.png")\]\]
+![](../images/Exclusive_Merit_Commendation.png){ class="figure" }
 
 </td>
 </tr>

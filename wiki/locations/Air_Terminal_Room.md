@@ -1,5 +1,5 @@
-![](../images/TechAirVehRoom.jpg "fig:TechAirVehRoom.jpg") at a
-[Technology Plant](../locations/Technology_Plant.md)\]\] Only
+![ at a
+[Technology Plant](../locations/Technology_Plant.md)](../images/TechAirVehRoom.jpg){ class="figure" } Only
 [Technology Plants](../locations/Technology_Plant.md) have an **Air Terminal Room**. The Air
 Terminal Room in on Floor 3, the same Floor where the
 [Control Console](../locations/Control_Console.md) is located.

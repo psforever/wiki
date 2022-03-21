@@ -1,5 +1,5 @@
-![](../images/Max_Crash.jpg "fig:Max_Crash.jpg") crash forms up in a
-[Tower](../locations/Towers.md)\]\] The MAX Crash is an armored-infantry-based
+![ crash forms up in a
+[Tower](../locations/Towers.md)](../images/Max_Crash.jpg){ class="figure" } The MAX Crash is an armored-infantry-based
 rapid-ingress assault tactic.
 
 A large group of soldiers wearing [MAX](../items/Mechanized_Assault_Exo-Suit.md)

@@ -359,7 +359,7 @@ payload.
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-MALoadout.gif](BFRHunter-MALoadout.gif "fig:Image:BFRHunter-MALoadout.gif")
+![](../images/BFRHunter-MALoadout.gif){ class="figure" }
 <small>Example of a "Poor Man's Loadout"</small>
 
 </td>
@@ -404,7 +404,7 @@ in there. That jammer, pistol, or ammo could cost you the kill later on.
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-HALoadout.gif](BFRHunter-HALoadout.gif "fig:Image:BFRHunter-HALoadout.gif")
+![](../images/BFRHunter-HALoadout.gif){ class="figure" }
 <small>Example of an Optimal BFR Hunter Loadout</small>
 
 </td>
@@ -451,7 +451,7 @@ Enough about how to setup your loadouts. Time to get on with the moves!
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-CursorPosition.gif](BFRHunter-CursorPosition.gif "fig:Image:BFRHunter-CursorPosition.gif")
+![](../images/BFRHunter-CursorPosition.gif){ class="figure" }
 <small>Mouse cursor position at the start of a Deci-Swap</small>
 
 </td>
@@ -491,7 +491,7 @@ itself!
 <tr>
 <td width=390 valign=center align=center>
 
-![Image:BFRHunter-CursorMovement.gif](BFRHunter-CursorMovement.gif "fig:Image:BFRHunter-CursorMovement.gif")
+![](../images/BFRHunter-CursorMovement.gif){ class="figure" }
 <small>Mouse Movement during the Deci-Swap</small>
 
 </td>
@@ -546,7 +546,7 @@ Here's a couple scenarios that I recommend for Deci-Swap practice.
 <td valign=center align=center width=400>
 <div id="RexoPracticeLoadout">
 
-![Image:BFRHunter-RexoPracticeLoadout.gif](BFRHunter-RexoPracticeLoadout.gif "fig:Image:BFRHunter-RexoPracticeLoadout.gif")
+![](../images/BFRHunter-RexoPracticeLoadout.gif){ class="figure" }
 <small>Rexo Loadout for Deci-Swap Combat Practice</small>
 
 </div>
@@ -788,7 +788,7 @@ during the deci-swap and the takedown.
 <td align=center valign=center width=400>
 <div id="ColossusTakedownAim">
 
-![Image:ColossusTakedownAim.gif](../images/ColossusTakedownAim.gif "fig:Image:ColossusTakedownAim.gif")
+![](../images/ColossusTakedownAim.gif){ class="figure" }
 <small>Where to aim against a TR [Colossus](../vehicles/Colossus.md) or
 [Invader](../items/Invader.md)</small>
 

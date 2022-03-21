@@ -1,5 +1,5 @@
-![](../images/Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
-![](../images/Dragon.jpg "fig:Dragon.jpg")
+![Soldier firing the Dragon](../images/Dragon1.jpg){ class="figure" }
+![](../images/Dragon.jpg){ class="figure" }
 
 |                            |                                                     |
 | -------------------------- | --------------------------------------------------- |

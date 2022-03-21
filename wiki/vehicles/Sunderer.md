@@ -4,7 +4,7 @@
 ([TR](../etc/Terran_Republic.md)). The Sunderer on this page no longer exists in
 game (as of Version [3.12.12](../patches/3.12.12.md), April 20 2007)**
 
-![](../images/Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
+![Sunderer](../images/Sunderer.jpg){ class="figure" }
 
 |                            |                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------- |

@@ -1,5 +1,5 @@
-![](../images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a
-[Scorpion Missile](../ammunition/Scorpion_Missile.md)\]\]
+![ Soldier launching a
+[Scorpion Missile](../ammunition/Scorpion_Missile.md)](../images/Scorpion.jpg){ class="figure" }
 
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |

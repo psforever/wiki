@@ -1,4 +1,4 @@
-![](../images/Ventrilo.jpg "fig:Ventrilo.jpg") [Ventrilo](Ventrilo.md) is a
+![](../images/Ventrilo.jpg){ class="figure" } [Ventrilo](Ventrilo.md) is a
 scalable Voice over IP communication program created by Flaship Industries, Inc.
 Users download the Ventrilo client and then connect to a Ventrilo server. Users
 usually communicate through use of a headset or a microphone, but these are not

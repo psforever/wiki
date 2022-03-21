@@ -1,4 +1,4 @@
-![](../images/OutfitDecal02.gif "fig:OutfitDecal02.gif")\]\]
+![](../images/OutfitDecal02.gif){ class="figure" }
 
 A player created and organized group of at least 2 players within the same
 [Empire](Empire.md). Often times Outfits are specialized in one area. (i.e.

@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0320.jpg "fig:PSScreenShot0320.jpg") AI
-[MAX](Mechanized_Assault_Exo-Suit.md)\]\]
+![ AI
+[MAX](Mechanized_Assault_Exo-Suit.md)](../images/PSScreenShot0320.jpg){ class="figure" }
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |

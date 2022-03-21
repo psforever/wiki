@@ -1,7 +1,7 @@
-![Image:UpgradeCanister.png](../images/UpgradeCanister.png "fig:Image:UpgradeCanister.png")
-![](../images/UpgradeCanisterNano.jpg "fig:UpgradeCanisterNano.jpg") Commander
+![](../images/UpgradeCanister.png){ class="figure" }
+![ Commander
 using a [Nano Dispenser](../weapons/Nano_Dispenser.md) with an Upgrade
-Canister\]\]
+Canister](../images/UpgradeCanisterNano.jpg){ class="figure" }
 
 [Upgrade Canisters](Upgrade_Canister.md) are used in
 [Nano Dispensers](../weapons/Nano_Dispenser.md) to upgrade

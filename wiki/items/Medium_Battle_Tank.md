@@ -1,5 +1,5 @@
-![](../images/Prowler-Vanguard.jpg "fig:Prowler-Vanguard.jpg") and a
-[Vanguard](../vehicles/Vanguard.md) square off\]\] The collective group term for
+![ and a
+[Vanguard](../vehicles/Vanguard.md) square off](../images/Prowler-Vanguard.jpg){ class="figure" } The collective group term for
 the Empire Specific tanks available through the
 [Armored Assault II](../certifications/Armored_Assault_II.md) Certification.
 

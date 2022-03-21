@@ -26,7 +26,7 @@ then finally becoming known as Verant Interactive.
 
 _EverQuest_ became immensely popular and gained ten expansion packs, a sequel,
 and numerous spin off games.
-![](../images/Star_Wars_Galaxies_Box_Art.jpg "fig:Star_Wars_Galaxies_Box_Art.jpg")
+![](../images/Star_Wars_Galaxies_Box_Art.jpg){ class="figure" }
 
 ### Star Wars Galaxies
 

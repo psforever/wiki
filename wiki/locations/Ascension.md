@@ -1,5 +1,5 @@
-![](../images/AscensionMap.jpg "fig:AscensionMap.jpg")
-[thumb](image:Ascension_Terrain.jpg)
+![](../images/AscensionMap.jpg){ class="figure" }
+![thumb](../images/Ascension_Terrain.jpg)
 
 |                      |                                       |
 | -------------------- | ------------------------------------- |

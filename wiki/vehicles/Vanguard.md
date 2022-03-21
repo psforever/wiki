@@ -1,6 +1,6 @@
-![](../images/Vanguard.jpg "fig:Vanguard.jpg")'s
-[Medium Battle Tank](../items/Medium_Battle_Tank.md)\]\]
-![](../images/Vanguards.jpg "fig:Vanguards.jpg")\]\]
+!['s
+[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/Vanguard.jpg){ class="figure" }
+![](../images/Vanguards.jpg){ class="figure" }
 
 |                            |                                                                                                                            |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |

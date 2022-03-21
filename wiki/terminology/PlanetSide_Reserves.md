@@ -1,4 +1,4 @@
-![Image:psreserves.gif](../images/Psreserves.gif "Image:psreserves.gif")
+![](../images/Psreserves.gif "Image:psreserves.gif")
 
 **PlanetSide Reserves** was a program that ran from March 24, 2006 to March
 27, 2007. It offered a limited version of [PlanetSide](../etc/PlanetSide.md) without

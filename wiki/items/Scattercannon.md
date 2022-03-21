@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0258.jpg "fig:PSScreenShot0258.jpg") ScatterCannon MAX
-Unit\]\]
+![ ScatterCannon MAX
+Unit](../images/PSScreenShot0258.jpg){ class="figure" }
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |

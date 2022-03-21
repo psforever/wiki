@@ -1,4 +1,4 @@
-![`Amerish_monolith.jpg`](../images/Amerish_monolith.jpg "fig:Amerish_monolith.jpg")`'s monolith.]]`
+![](../images/Amerish_monolith.jpg){ class="figure" }
 
 **Monoliths** are golden crystalline structures found all over the many worlds
 of [Auraxis](../locations/Auraxis.md).

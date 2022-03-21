@@ -1,4 +1,4 @@
-![](../images/EagleFV.jpg "fig:EagleFV.jpg") [Eagle](Eagle.md)\]\] The **Eagle**
+![[Eagle](Eagle.md)](../images/EagleFV.jpg){ class="figure" } The **Eagle**
 is the flight variant of [BattleFrame Robotics](BattleFrame_Robotics.md)
 developed by the [New Conglomerate](../etc/New_Conglomerate.md).
 
@@ -19,8 +19,8 @@ regenerate their shields compared to their gunner counterparts. Conversely,
 flight variants can run and walk much faster than the ground variants, giving
 them the ability to flee relatively quickly when under attack.
 
-![](../images/Vanu-Eagle.jpg "fig:Vanu-Eagle.jpg")
-[VS](../etc/Vanu_Sovereignty.md) Eagle\]\]
+![
+[VS](../etc/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){ class="figure" }
 
 ## Pilot Weapons
 

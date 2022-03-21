@@ -1,4 +1,4 @@
-![](../images/Jammer_grenade.jpg "fig:Jammer_grenade.jpg")\]\]
+![](../images/Jammer_grenade.jpg){ class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
@@ -13,7 +13,7 @@
 
 **Jammer Grenade**
 
-![Image:Jammer-Hand-grenade-Icon.jpg](../images/Jammer-Hand-grenade-Icon.jpg "Image:Jammer-Hand-grenade-Icon.jpg")
+![](../images/Jammer-Hand-grenade-Icon.jpg "Image:Jammer-Hand-grenade-Icon.jpg")
 
 **Jammer grenades** cause electomagnetic interference explosions. This
 interference has the following effects:

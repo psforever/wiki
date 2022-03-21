@@ -1,4 +1,4 @@
-![](../images/PSScreenShot0309.jpg "fig:PSScreenShot0309.jpg")\]\] A small "X"
+![](../images/PSScreenShot0309.jpg){ class="figure" } A small "X"
 shaped object attached to the floor of all facilities (typically in the
 [lobby](../locations/Main_lobby.md))a [Module Cradle](Module_Cradle.md) is where
 a person running a [module](../etc/Modules.md) from the

@@ -1,5 +1,5 @@
-![](../images/Colussus.jpg "fig:Colussus.jpg") of the
-[Terran Republic](../etc/Terran_Republic.md)\]\]
+![ of the
+[Terran Republic](../etc/Terran_Republic.md)](../images/Colussus.jpg){ class="figure" }
 
 Gunner variants have, in addition the the pilot weapons, an extra gunner pod on
 their backs where a second soldier can mount a secondary gun mounted atop the
@@ -30,7 +30,7 @@ The gunner weapons available to the Colossus are
 
 Only one gunner weapon can be used at a time.
 
-![](../images/PSScreenShot0315.jpg "fig:PSScreenShot0315.jpg") Colossus (Classic
-model)\]\]
+![ Colossus (Classic
+model)](../images/PSScreenShot0315.jpg){ class="figure" }
 
 

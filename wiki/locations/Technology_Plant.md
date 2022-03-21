@@ -1,5 +1,5 @@
-![](../images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg"), [Esamir](Esamir.md)
-as seen from above\]\]
+![, [Esamir](Esamir.md)
+as seen from above](../images/Dagur_overhead.jpg){ class="figure" }
 
 ## Base Facility Specs
 
@@ -17,7 +17,7 @@ as seen from above\]\]
 
 ## Description
 
-![](../images/Techplant.jpg "fig:Techplant.jpg") Technology Plants are arguably
+![](../images/Techplant.jpg){ class="figure" } Technology Plants are arguably
 the most important type of [facility](Facilities.md) on a continent, as its
 [base benefit](../terminology/Facility_Linked_Benefit.md) allows acquisition of
 [Advanced Assault vehicles and aircraft](../vehicles/Advanced_Assault_vehicles.md).

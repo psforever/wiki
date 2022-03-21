@@ -24,5 +24,5 @@ on the same continent as the kill. Squads also share
 Below is a picture of the mini-squad member list that appears on your
 [Heads-up Display](../etc/Heads-up_Display.md) [HUD](Acronyms_and_Slang.md).
 
-![Image:SquadList.jpg](../images/SquadList.jpg "Image:SquadList.jpg")
+![](../images/SquadList.jpg "Image:SquadList.jpg")
 

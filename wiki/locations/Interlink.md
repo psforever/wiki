@@ -16,7 +16,7 @@
 
 ## Description
 
-![](../images/Interlink.jpg "fig:Interlink.jpg") Interlink Facilities have the
+![](../images/Interlink.jpg){ class="figure" } Interlink Facilities have the
 unique benefit of Enhanced RADAR and can provide this ability to any
 [lattice-linked](../terminology/Facility_Linked_Benefit.md) facility.
 

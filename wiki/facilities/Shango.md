@@ -1,4 +1,4 @@
-![](../images/Shango_Map.jpg "fig:Shango_Map.jpg")
+![](../images/Shango_Map.jpg){ class="figure" }
 [Bio Laboratory](../locations/Bio_Laboratory.md) on SE
 [Cyssor](../locations/Cyssor.md)
 

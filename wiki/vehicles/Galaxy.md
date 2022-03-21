@@ -1,4 +1,4 @@
-![`GalaxyNC.jpg`](../images/GalaxyNC.jpg "fig:GalaxyNC.jpg")`Galaxy]]`
+![New Conglomerate Galaxy](../images/GalaxyNC.jpg){ class="figure" }
 
 |                            |                                                                                                                                             |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,7 +15,7 @@
 
 **Galaxy**
 
-![](../images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg")
+![](../images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg"){ align=right width="350" }
 
 The **Galaxy** is a huge aircraft capable of carrying 9 infantry and 2
 [MAX](../items/Mechanized_Assault_Exo-Suit.md) units, as well as the pilot and
@@ -50,7 +50,7 @@ Vehicles that can fit in the [Galaxy](Galaxy.md)  cargo hold are:
 - [Wraith](Wraith.md)
 
 The Galaxy's apparent namesake is the
-[Lockheed Galaxy](http://en.wikipedia.org/wiki/C-5_Galaxy)
+[Lockheed Galaxy](https://en.wikipedia.org/wiki/C-5_Galaxy)
 
 
 

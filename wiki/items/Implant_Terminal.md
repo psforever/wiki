@@ -1,4 +1,4 @@
-![](../images/PSScreenShot0282.jpg "fig:PSScreenShot0282.jpg") The Implant
+![](../images/PSScreenShot0282.jpg){ class="figure" } The Implant
 Terminal inserts cybernetic devices called [Implants](../implants/Implants.md)
 into various points, or slots, of a soldier's body.
 
@@ -24,7 +24,7 @@ of the device to start hacking.
 
 ### Interface: Add/Remove Implants
 
-[thumb](image:Implant_interface.jpg) The Window pictured to the right allows the
+![thumb](../images/Implant_interface.jpg) The Window pictured to the right allows the
 user to install implants from the left pane or remove them from the right pane.
 
 ### [Available Implants](../implants/Implants.md)

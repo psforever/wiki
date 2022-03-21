@@ -1,5 +1,5 @@
-![](../images/AT_akkan_to_kusag.jpg "fig:AT_akkan_to_kusag.jpg") prepares to
-traverse [Ishundar](../locations/Ishundar.md)\]\] Azure Twilight is
+![ prepares to
+traverse [Ishundar](../locations/Ishundar.md)](../images/AT_akkan_to_kusag.jpg){ class="figure" } Azure Twilight is
 [Emerald](../etc/Emerald.md)'s largest [VS](../etc/Vanu_Sovereignty.md)
 [outfits](../terminology/Outfit.md). They're known for their excellent use of
 the [Galaxy](../vehicles/Galaxy.md) for coordinated attacks and powerful

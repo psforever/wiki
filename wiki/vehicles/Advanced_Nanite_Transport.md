@@ -1,5 +1,5 @@
-![](../images/Ant.jpg "fig:Ant.jpg")
-![](../images/ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
+![](../images/Ant.jpg){ class="figure" }
+![](../images/ANTatSilo.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |

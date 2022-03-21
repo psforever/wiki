@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0253.jpg "fig:PSScreenShot0253.jpg") Soldier equipped
-with a Punisher\]\]
+![ Soldier equipped
+with a Punisher](../images/PSScreenShot0253.jpg){ class="figure" }
 
 <table>
 <caption><strong>Punisher</strong></caption>

@@ -1,5 +1,5 @@
-![](../images/NexusMap.jpg "fig:NexusMap.jpg")\]\]
-![](../images/Nexus_Terrain.jpg "fig:Nexus_Terrain.jpg")
+![](../images/NexusMap.jpg){ class="figure" }
+![](../images/Nexus_Terrain.jpg){ class="figure" }
 
 |                                  |                                    |
 | -------------------------------- | ---------------------------------- |

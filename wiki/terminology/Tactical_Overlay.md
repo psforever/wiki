@@ -1,5 +1,5 @@
-![](../images/Tactical-Overlay.jpg "fig:Tactical-Overlay.jpg") Battle represented on the
-Tactical Overlay\]\] The Tactical Overlay is a grid of colored blocks on the
+![ Battle represented on the
+Tactical Overlay](../images/Tactical-Overlay.jpg){ class="figure" } The Tactical Overlay is a grid of colored blocks on the
 continent map that can be used to monitor friendly troop deployment, detect
 enemy forces, and visualize the flow of battle.
 

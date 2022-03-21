@@ -1,4 +1,4 @@
-![](../images/NTUSiloPicture.jpg "fig:NTUSiloPicture.jpg") The **NTU Silo** is
+![](../images/NTUSiloPicture.jpg){ class="figure" } The **NTU Silo** is
 an object in all [facility](Facilities.md) courtyards which stores
 [NTUs](../items/NTU.md) for use by the facility's
 [generator](../items/Generator.md).

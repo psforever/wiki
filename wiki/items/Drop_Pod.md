@@ -1,4 +1,4 @@
-![](../images/Drop-pod.jpg "fig:Drop-pod.jpg") Drop pods are atmospheric reentry
+![](../images/Drop-pod.jpg){ class="figure" } Drop pods are atmospheric reentry
 capsules for individual troop deployment.
 
 Using atmospheric drag and retrorockets, one pod is capable of carrying any

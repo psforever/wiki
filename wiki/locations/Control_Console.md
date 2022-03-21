@@ -1,6 +1,6 @@
-![](../images/AT-CC.jpg "fig:AT-CC.jpg") Control Console\]\]
-![](../images/Basecc.jpg "fig:Basecc.jpg") Control Console\]\]
-![](../images/Tower_CC.jpg "fig:Tower_CC.jpg") Controle Console\]\] One control
+![Control Console](../images/AT-CC.jpg){ class="figure" }
+![Control Console](../images/Basecc.jpg){ class="figure" }
+![Controle Console](../images/Tower_CC.jpg){ class="figure" } One control
 console (CC) is located in each base and in each tower. Using a
 [REK](../weapons/Remote_Electronics_Kit.md), you can hack the console. The time
 this takes depends on which level of the
@@ -30,7 +30,7 @@ Bases can only be hacked if they are linked via the
 Hacking an enemy base will also disrupt their
 [Facility Linked Benefits](../terminology/Facility_Linked_Benefit.md).
 
-![](../images/Hacked_light.jpg "fig:Hacked_light.jpg") Warning Light: Control
-Console Hacked\]\]
+![ Warning Light: Control
+Console Hacked](../images/Hacked_light.jpg){ class="figure" }
 
 

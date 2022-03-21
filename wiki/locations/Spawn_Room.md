@@ -1,7 +1,7 @@
-![](../images/SpawnRoom.jpg "fig:SpawnRoom.jpg")\]\]
-![](../images/SpawnRoom2.jpg "fig:SpawnRoom2.jpg") from another view\]\]
-![](../images/CaveSpawnRoom.jpg "fig:CaveSpawnRoom.jpg") in a
-[Cavern](Caverns.md) [Redoubt Building](Redoubt_Building.md)\]\] Room in
+![](../images/SpawnRoom.jpg){ class="figure" }
+![from another view](../images/SpawnRoom2.jpg){ class="figure" }
+![ in a
+[Cavern](Caverns.md) [Redoubt Building](Redoubt_Building.md)](../images/CaveSpawnRoom.jpg){ class="figure" } Room in
 [facilities](Facilities.md), [towers](Towers.md), or the Sanctuary
 [Respawn Buildings](Respawn_Building.md) where the
 [Respawn tubes](../items/Respawn_Tube.md) are located.

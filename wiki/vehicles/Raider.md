@@ -1,4 +1,4 @@
-![](../images/RaiderPicture.jpg "fig:RaiderPicture.jpg") Raider\]\]
+![Raider](../images/RaiderPicture.jpg){ class="figure" }
 
 |                            |                                                                 |
 | -------------------------- | --------------------------------------------------------------- |

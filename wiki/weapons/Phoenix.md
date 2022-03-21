@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0249.jpg "fig:PSScreenShot0249.jpg") Soldier with a
-Phoenix Missile Launcher\]\]
+![ Soldier with a
+Phoenix Missile Launcher](../images/PSScreenShot0249.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

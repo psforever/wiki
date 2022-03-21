@@ -1,6 +1,6 @@
-![](../images/NCSanctuaryMap.jpg "fig:NCSanctuaryMap.jpg") Sanctuary Map\]\]
-![](../images/TRSanctuaryMap.jpg "fig:TRSanctuaryMap.jpg") Sanctuary Map\]\]
-![](../images/VSSanctuaryMap.jpg "fig:VSSanctuaryMap.jpg") Sanctuary Map\]\]
+![Sanctuary Map](../images/NCSanctuaryMap.jpg){ class="figure" }
+![Sanctuary Map](../images/TRSanctuaryMap.jpg){ class="figure" }
+![Sanctuary Map](../images/VSSanctuaryMap.jpg){ class="figure" }
 Each Empire's Sanctuary island is secure from all enemy attacks. This island is
 a hub of ways to move about the Auraxian Planetary Web, as well as a safe place
 to meet and train. As of Version 3.4, each Sanctuary has a fixed link to two

@@ -1,4 +1,4 @@
-![](../images/Thunderer_VS.jpg "fig:Thunderer_VS.jpg") Thunderer\]\]
+![Thunderer](../images/Thunderer_VS.jpg){ class="figure" }
 
 |                            |                                                                |
 | -------------------------- | -------------------------------------------------------------- |

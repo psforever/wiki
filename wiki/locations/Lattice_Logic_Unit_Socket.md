@@ -1,4 +1,4 @@
-![](../images/LLU.jpg "fig:LLU.jpg") in a Lattice Logic Unit Socket\]\]
+![in a Lattice Logic Unit Socket](../images/LLU.jpg){ class="figure" }
 
 The **Lattice Logic Unit Socket** is the Socket in which the
 [LLU](../terminology/Lattice_Logic_Unit.md) (Lattice Logic Unit) will spawn

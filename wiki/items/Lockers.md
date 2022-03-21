@@ -1,5 +1,5 @@
-![](../images/Lockers_biolab.jpg "fig:Lockers_biolab.jpg") Medical Bay\]\]
-![](../images/Locker-Contents.jpg "fig:Locker-Contents.jpg")s\]\]
+![Medical Bay](../images/Lockers_biolab.jpg){ class="figure" }
+![s](../images/Locker-Contents.jpg){ class="figure" }
 
 Lockers are personal storage locations within every
 [Facility](../locations/Facilities.md). It functions similar to a backpack

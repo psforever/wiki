@@ -1,6 +1,6 @@
-![](../images/VSShieldModFacility.jpg "fig:VSShieldModFacility.jpg")
-[Facility](../locations/Facilities.md) with a Shield Module Benefit\]\]
-![](../images/Shield_module.jpg "fig:Shield_module.jpg") Installing this
+![
+[Facility](../locations/Facilities.md) with a Shield Module Benefit](../images/VSShieldModFacility.jpg){ class="figure" }
+![](../images/Shield_module.jpg){ class="figure" } Installing this
 [Module](../etc/Modules.md) provides the
 [Module Benefit](../etc/Module_benefit.md) of powering a Force Field across the
 Gate, or openings in the [Courtyard](../locations/Courtyard.md) wall.

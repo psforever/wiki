@@ -1,5 +1,7 @@
-![](../images/Darklight.jpg "fig:Darklight.jpg")
-[image:Darklight.gif](image:Darklight.gif) The Darklight implant enables the
+![](../images/Darklight.jpg){ class="figure" }
+![](../images/Darklight.gif)
+
+The Darklight implant enables the
 user to detect cloaked enemies and equipment
 ([Infiltration Suits](../items/Infiltration_Suit.md),
 [Phantasms](../vehicles/Phantasm.md),

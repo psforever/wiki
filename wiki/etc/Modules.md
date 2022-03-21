@@ -1,7 +1,7 @@
-![](../images/Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
+![,
 [Speed](Speed_Module.md), and [Equipment Modules](../items/Equipment_Module.md)
 in their cradles in an [Interlink](../locations/Interlink.md)
-[Facility](../locations/Facilities.md)\]\] Modules are devices that can be
+[Facility](../locations/Facilities.md)](../images/Modules_Interlink.jpg){ class="figure" } Modules are devices that can be
 obtained from the [Module Buildings](../locations/Module_Building.md) in the
 [Caverns](../locations/Caverns.md) introduced by the expansion
 [Core Combat](../items/Core_Combat.md).
@@ -45,7 +45,7 @@ second and 5 minutes, killing the carrier and anything nearby.
 
 ## Available Modules
 
-![](../images/Shield_module.jpg "fig:Shield_module.jpg")\]\] Currently, six
+![](../images/Shield_module.jpg){ class="figure" } Currently, six
 types of modules are available to be installed (map icon color is listed):
 
 - [Equipment Module](../items/Equipment_Module.md) (blue)

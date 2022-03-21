@@ -1,4 +1,4 @@
-![](../images/Repair-silo.jpg "fig:Repair-silo.jpg") base\]\]
+![base](../images/Repair-silo.jpg){ class="figure" }
 
 The **Repair/Rearm Silo** is a large cylindrical structure attached to two walls
 in each continent's [surface bases](../locations/Facilities.md#surface-bases),

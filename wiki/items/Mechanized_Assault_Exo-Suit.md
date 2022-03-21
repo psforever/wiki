@@ -17,8 +17,8 @@ access to all three types of MAX armor at a reduced cost.
 
 ## [New Conglomerate](../etc/New_Conglomerate.md)
 
-![](../images/NCMAXArmors2.jpg "fig:NCMAXArmors2.jpg") MAX Armor at, from left
-to right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
+![ MAX Armor at, from left
+to right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCMAXArmors2.jpg){ class="figure" }
 Anti-Infantry: [Scattercannon](Scattercannon.md) Anti-Vehicle:
 [Falcon](Falcon.md) Anti-Aircraft: [Sparrow](Sparrow.md) _New Conglomerate_ MAX
 Units are equipped with a light energy shield. The shield draws power from from
@@ -27,8 +27,8 @@ Unit cannot fire when the Shield is active.
 
 ## [Terran Republic](../etc/Terran_Republic.md)
 
-![](../images/TRMAXArmor2.jpg "fig:TRMAXArmor2.jpg") MAX Armor at, from left to
-right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
+![ MAX Armor at, from left to
+right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRMAXArmor2.jpg){ class="figure" }
 Anti-Infantry: [Dual-Cycler](Dual-Cycler.md) Anti-Vehicle: [Pounder](Pounder.md)
 Anti-Aircraft: [Burster](Burster.md) _Terran Republic_ MAX Units have 2 special
 abilities. The first is the ability to "lock down", doubling their rate of fire
@@ -42,8 +42,8 @@ while in overdrive. MAXes with overdrive active will glow red.
 
 ## [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
 
-![](../images/VS_MAXs.jpg "fig:VS_MAXs.jpg") MAX Armor at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\] Anti-Infantry:
+![ MAX Armor at, from left to right,
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_MAXs.jpg){ class="figure" } Anti-Infantry:
 [Quasar](Quasar.md) Anti-Vehicle: [Comet](Comet.md) Anti-Aircraft:
 [Starfire](Starfire.md) _Vanu Sovereignty_ MAX Units are equipped with limited
 jump-jets. These jump jets draw power from an onboard MAX Capacitor. Once

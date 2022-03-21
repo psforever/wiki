@@ -1,6 +1,6 @@
-![](../images/OspreyFront.jpg "fig:OspreyFront.jpg") Deployable Turret\]\]
-![](../images/OspreyRear.jpg "fig:OspreyRear.jpg") Deployable Turret\]\]
-![](../images/OspreySide.jpg "fig:OspreySide.jpg") Deployable Turret\]\]
+![Deployable Turret](../images/OspreyFront.jpg){ class="figure" }
+![Deployable Turret](../images/OspreyRear.jpg){ class="figure" }
+![Deployable Turret](../images/OspreySide.jpg){ class="figure" }
 
 |                            |                                                                 |
 | -------------------------- | --------------------------------------------------------------- |

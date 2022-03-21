@@ -1,4 +1,4 @@
-![](../images/Global_Map.jpg "fig:Global_Map.jpg") The
+![](../images/Global_Map.jpg){ class="figure" } The
 [Global Map](Global_Map.md) was the way [PlanetSide](../etc/PlanetSide.md)
 originally showed the ten continents and three sanctuaries. Before
 [The Bending](../etc/The_Bending.md) occurred, all of

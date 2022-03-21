@@ -1,4 +1,4 @@
-![](../images/PSScreenShot0332.jpg "fig:PSScreenShot0332.jpg") Striker\]\]
+![Striker](../images/PSScreenShot0332.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

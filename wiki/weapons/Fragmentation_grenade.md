@@ -1,4 +1,4 @@
-![](../images/Frag_Hand_grenade.jpg "fig:Frag_Hand_grenade.jpg")\]\]
+![](../images/Frag_Hand_grenade.jpg){ class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
@@ -23,8 +23,10 @@ fragmentation grenades do more damage to all targets than plasma.
 As with all [Hand grenades](Hand_grenade.md), holding the fire key longer
 increases the throw distance.
 
-[image:Frag-Hand-grenade-Icon.jpg](image:Frag-Hand-grenade-Icon.jpg)
-[image:Frag-Icon.jpg](image:Frag-Icon.jpg) In addition to the hand-held
+![image:Frag-Hand-grenade-Icon.jpg](../images/Frag-Hand-grenade-Icon.jpg)
+![image:Frag-Icon.jpg](../images/Frag-Icon.jpg)
+
+ In addition to the hand-held
 three-pack, **Fragmentation grenades** are also available in ammo boxes for use
 with the [Thumper](Thumper.md) and [Punisher](Punisher.md).
 

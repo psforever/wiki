@@ -1,4 +1,6 @@
-![](../images/DesolationMap.jpg "fig:DesolationMap.jpg")![](../images/Desolation_Terrain.jpg "fig:Desolation_Terrain.jpg")
+![](../images/DesolationMap.jpg){ class="figure" }
+
+![](../images/Desolation_Terrain.jpg){ class="figure" }
 
 |                              |                                                     |
 | ---------------------------- | --------------------------------------------------- |

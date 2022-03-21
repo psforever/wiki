@@ -1,4 +1,4 @@
-[thumb](image:Inventory.jpg) [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) with
+![thumb](../images/Inventory.jpg) [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) with
 [Jammer grenades](../weapons/Jammer_Grenade.md), a
 [Telepad](../weapons/Telepad.md), a [Pulsar](../weapons/Pulsar.md), a
 [REK](../weapons/Remote_Electronics_Kit.md), and

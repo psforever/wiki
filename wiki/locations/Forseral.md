@@ -1,5 +1,5 @@
-![](../images/ForseralMap.jpg "fig:ForseralMap.jpg")
-![](../images/Forseral_Terrain.jpg "fig:Forseral_Terrain.jpg")
+![](../images/ForseralMap.jpg){ class="figure" }
+![](../images/Forseral_Terrain.jpg){ class="figure" }
 
 ## Continental Data
 
