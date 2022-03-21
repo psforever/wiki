@@ -17,18 +17,17 @@ Pulsar\]\]
 
 [image:Pulsar-Icon.jpg](image:Pulsar-Icon.jpg)
 
-The [Pulsar](Pulsar.md) functions well as an outdoor
-anti-infantry weapon, as it has a high projectile velocity, and good
-accuracy, especially fired from a crouched position. The AP mode means
-that even MAX units will fear sustained fire from this weapon.
+The [Pulsar](Pulsar.md) functions well as an outdoor anti-infantry weapon, as it
+has a high projectile velocity, and good accuracy, especially fired from a
+crouched position. The AP mode means that even MAX units will fear sustained
+fire from this weapon.
 
-Unlike the [Cycler](Cycler.md) and [Gauss](Gauss.md),
-the [Pulsar](Pulsar.md)'s projectiles will not travel under
-water. The Pulsar's [AP](../terminology/Armor_Piercing.md) projectiles are also
-not as powerful as the other empire's weapons, but this is offset by the
-fact that the user can change ammo types instantly. A non-native user
-will be unable to obtain the [energy ammunition](../ammunition/Energy_Cell.md)
-from equipment terminals.
+Unlike the [Cycler](Cycler.md) and [Gauss](Gauss.md), the [Pulsar](Pulsar.md)'s
+projectiles will not travel under water. The Pulsar's
+[AP](../terminology/Armor_Piercing.md) projectiles are also not as powerful as
+the other empire's weapons, but this is offset by the fact that the user can
+change ammo types instantly. A non-native user will be unable to obtain the
+[energy ammunition](../ammunition/Energy_Cell.md) from equipment terminals.
 
 Shots to kill:
 
@@ -40,9 +39,10 @@ Shots to kill:
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP Mode](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
-Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
+[Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
+
 Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

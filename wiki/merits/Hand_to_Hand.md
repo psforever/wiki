@@ -213,13 +213,13 @@ bgcolor="#AAAAAA">
 </tbody>
 </table>
 
-A seven-level Infantry Merit, obtained by amassing kills with the
-Standard Issue Knife.
+A seven-level Infantry Merit, obtained by amassing kills with the Standard Issue
+Knife.
 
 - [Mag-Cutter](../weapons/Mag-Cutter.md) ([NC](../etc/New_Conglomerate.md))
 - [Force-Blade](../weapons/Force-Blade.md) ([VS](../etc/Vanu_Sovereignty.md))
 - [Chainblade](../items/Chainblade.md) ([TR](../etc/Terran_Republic.md))
-- [Fusion Blade](../weapons/Fusion_Blade.md) ([Common
-  Pool](../terminology/Common_Pool.md))
+- [Fusion Blade](../weapons/Fusion_Blade.md)
+  ([Common Pool](../terminology/Common_Pool.md))
 
 <!--[category:Merits](category:Merits.md)-->

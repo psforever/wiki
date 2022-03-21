@@ -11,8 +11,7 @@
 Azeban has [Lattice](../terminology/Lattice.md) Links to:
 
 - [Amp Station](../locations/Amp_Station.md) [Sungrey](Sungrey.md)
-- [Bio Laboratory](../locations/Bio_Laboratory.md)
-  [Xelas](Xelas.md)
+- [Bio Laboratory](../locations/Bio_Laboratory.md) [Xelas](Xelas.md)
 - [Hossin](../locations/Hossin.md) Warpgate
 
 <!--[Category:Facilities](../Category:Facilities.md)-->

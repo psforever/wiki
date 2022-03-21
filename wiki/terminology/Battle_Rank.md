@@ -1,37 +1,36 @@
-Battle Rank When enough experience is accumulated, the character will
-increase in Battle Rank (BR). One certification point is awarded for
-each Battle Rank increase, except at BR6, 12, 18, 24, 25, 28, 30, 32,
-34, 36, 38, and 40. At BR40, the character automatically learns every
-certification available. These certifications allow the character to
-utilize additional vehicles, weapons and armor classes.
+Battle Rank When enough experience is accumulated, the character will increase
+in Battle Rank (BR). One certification point is awarded for each Battle Rank
+increase, except at BR6, 12, 18, 24, 25, 28, 30, 32, 34, 36, 38, and 40. At
+BR40, the character automatically learns every certification available. These
+certifications allow the character to utilize additional vehicles, weapons and
+armor classes.
 
-Newly created characters begin at battle rank 1 and can reach Battle
-Rank 40.
+Newly created characters begin at battle rank 1 and can reach Battle Rank 40.
 
-Benefits of reaching higher Battle Rank include Uniform Upgrades and
-character Implants.
+Benefits of reaching higher Battle Rank include Uniform Upgrades and character
+Implants.
 
 BR6 - First Implant BR12 - Second Implant BR18 - Third Implant
 
-Uniform upgrades are entirely cosmetic and have no effect on gameplay,
-but can provide an at-a-glance indication of how experienced a soldier
-is. The upgrades apply to all the infantry armor types including MAX
-Suits, but not to vehicles. These changes happen at BR7, BR14 and BR25.
+Uniform upgrades are entirely cosmetic and have no effect on gameplay, but can
+provide an at-a-glance indication of how experienced a soldier is. The upgrades
+apply to all the infantry armor types including MAX Suits, but not to vehicles.
+These changes happen at BR7, BR14 and BR25.
 
-Terran Republic: The uniform starts out mostly grey, it get's a little
-more red, and a bit darker grey at BR7, it becomes almost completely red
-at BR14 and almost completely black at BR25.
+Terran Republic: The uniform starts out mostly grey, it get's a little more red,
+and a bit darker grey at BR7, it becomes almost completely red at BR14 and
+almost completely black at BR25.
 
-New Conglomerate: The uniform starts out mostly blue, it acquires more
-gold 'trim' at BR7, it gets completely gold at BR14 and almost
-completely black/dark blue at BR25.
+New Conglomerate: The uniform starts out mostly blue, it acquires more gold
+'trim' at BR7, it gets completely gold at BR14 and almost completely black/dark
+blue at BR25.
 
-Vanu Sovereignty: The uniform starts out mostly purple, it gets a little
-more teal at BR7, even more teal at BR14 and gets mostly black at BR25.
+Vanu Sovereignty: The uniform starts out mostly purple, it gets a little more
+teal at BR7, even more teal at BR14 and gets mostly black at BR25.
 
-View the respective armor page for pictures of the armors at each of the
-Uniform Upgrades! The current numeric experience values for the various
-Battle Ranks are:
+View the respective armor page for pictures of the armors at each of the Uniform
+Upgrades! The current numeric experience values for the various Battle Ranks
+are:
 
 | Battle Rank | Starting Exp | Ending Exp | BEP per Block | Award   |
 | ----------- | ------------ | ---------- | ------------- | ------- |
@@ -77,8 +76,8 @@ Battle Ranks are:
 | Example     | Example      | Example    | Example       | Example |
 | Example     | Example      | Example    | Example       | Example |
 
-This below info needs to be put into the table above: Battle Rank
-Starting Experience Ending Experience BEP per Block Award
+This below info needs to be put into the table above: Battle Rank Starting
+Experience Ending Experience BEP per Block Award
 
 BR 1 - 0 - 999 - 100- 7 Certification Points
 
@@ -126,8 +125,8 @@ BR 22- 1,710,301- 1,988,027- 27,773- 1 Certification Point
 
 BR 23- 1,988,027- 2,286,230- 29,820- 1 Certification Point
 
-BR 24- 2,286,231- 2,583,440- 29,721- Ability to toggle helmet, shades,
-earpiece and hat/beret
+BR 24- 2,286,231- 2,583,440- 29,721- Ability to toggle helmet, shades, earpiece
+and hat/beret
 
 BR 25- 2,583,441- 2,908,441- 32,500- Uniform Upgrade
 

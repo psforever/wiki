@@ -1,12 +1,12 @@
 Welcome to l3lizzard's PlanetSide Guide...
 
-These comics will be posted periodically. Right now that means as I get
-them uploaded.
+These comics will be posted periodically. Right now that means as I get them
+uploaded.
 
 ---
 
-Just to start you off: (Push the back button on your web browser to
-return here.)
+Just to start you off: (Push the back button on your web browser to return
+here.)
 
 [#01 Drop Zones](:Image:001_Drop_Zones.jpg)
 
@@ -22,8 +22,7 @@ return here.)
 
 [#07 Big Bird](:Image:007_Big_Bird.jpg)
 
-[#08 @#$%ing
-Snipers!](:Image:008_%40-%24%25ing_Snipers%21.jpg)
+[#08 @#$%ing Snipers!](:Image:008_%40-%24%25ing_Snipers%21.jpg)
 
 [#09 N00b's Compensation](:Image:009_n00b_Compensation.jpg)
 
@@ -41,4 +40,5 @@ Snipers!](:Image:008_%40-%24%25ing_Snipers%21.jpg)
 
 <!--[Category:Strategy](../Category:Strategy.md)-->
 <!--[Category:Terminology](../Category:Terminology.md)--> [Category:Game
+
 Guides](../Category:Game_Guides.md)

@@ -1,10 +1,10 @@
-|                        |                                                                                                                                       |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**               | Aircraft                                                                                                                              |
-| **Provides Access To** | [Mosquito](../vehicles/Mosquito.md)                                                                                                   |
-| **Pre-requisite**      | \-                                                                                                                                    |
+|                        |                                                                                                                                          |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**               | Aircraft                                                                                                                                 |
+| **Provides Access To** | [Mosquito](../vehicles/Mosquito.md)                                                                                                      |
+| **Pre-requisite**      | \-                                                                                                                                       |
 | **Required For**       | [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md) and [Air Cavalrcertifications/Air_Cavalry_Interceptor.md_Interceptor.md) |
-| **Cert Point Cost**    | 3                                                                                                                                     |
+| **Cert Point Cost**    | 3                                                                                                                                        |
 
 **Air Cavalry Scout**
 

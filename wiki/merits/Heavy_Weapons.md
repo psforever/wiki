@@ -212,7 +212,7 @@
 </tbody>
 </table>
 
-A seven-level Infantry Merit, obtained by amassing kills with [Heavy
-Assault](certifications/Heavy_Assault.md) Weaponry.
+A seven-level Infantry Merit, obtained by amassing kills with
+[Heavy Assault](../certifications/Heavy_Assault.md) Weaponry.
 
 <!--[category:Merits](category:Merits.md)-->

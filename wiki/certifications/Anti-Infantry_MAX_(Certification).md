@@ -8,7 +8,7 @@
 
 **Anti-Infantry MAX**
 
-The Anti-Infantry configuration is designed to quickly take down soft
-targets in the form of foot soldiers.
+The Anti-Infantry configuration is designed to quickly take down soft targets in
+the form of foot soldiers.
 
 <!--[Category:Certification](../Category:Certification.md)-->

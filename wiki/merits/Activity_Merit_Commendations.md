@@ -1,5 +1,4 @@
-This series of [Merit Commendations](Merit_Commendations.md) is
-awarded for:
+This series of [Merit Commendations](Merit_Commendations.md) is awarded for:
 
 - Destroying a certain class of vehicle
 - Visiting specific locations
@@ -409,7 +408,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Jacking](</Jacking_(Merit)>)
+[Jacking](<Jacking_(Merit).md>)
 
 </td>
 <td class="mitd">

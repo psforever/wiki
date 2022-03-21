@@ -2,30 +2,30 @@
 
 ## Description
 
-The name [Oshur](Oshur.md) was once associated with an extremely
-rough desert continent consisting of the broken bones of an impact
-crater. The rough badlands and choppy terrain made it relatively easy to
-hide fairly large forces in what seemed to be plain view. A giant,
-unexplained avian skeleton once lay fossilized on the continent, giving
-rise to lively discussions about the Vanu that were here before.
+The name [Oshur](Oshur.md) was once associated with an extremely rough desert
+continent consisting of the broken bones of an impact crater. The rough badlands
+and choppy terrain made it relatively easy to hide fairly large forces in what
+seemed to be plain view. A giant, unexplained avian skeleton once lay fossilized
+on the continent, giving rise to lively discussions about the Vanu that were
+here before.
 
-But a year ago, the event we know as [The
-Bending](../etc/The_Bending.md) occurred, ripping apart our reality and
-spreading the Auraxian continents across a dozen worlds. Oshur was
-erased or torn asunder, and in its place appeared 4 smaller landmasses
-we came to call [Battle Islands](Battle_Islands.md)
+But a year ago, the event we know as [The Bending](../etc/The_Bending.md)
+occurred, ripping apart our reality and spreading the Auraxian continents across
+a dozen worlds. Oshur was erased or torn asunder, and in its place appeared 4
+smaller landmasses we came to call [Battle Islands](Battle_Islands.md)
 
-The Battle Islands have unique vehicle and weapon limitations. [Heavy
-Assault](../certifications/Heavy_Assault.md) weaponry can not be purchased or used
-on any of the islands. [BFRs](../vehicles/BattleFrame_Robotics.md) and most [Technology
-Plant](Technology_Plant.md) vehicles can not be purchased or
-used. The exceptions are the [Wasp](../vehicles/Wasp.md),
-[Phantasm](../vehicles/Phantasm.md), and [Skyguard](../items/Skyguard.md),
-which can be purchased on [Desolation](Desolation.md) and used
-on any Battle Island. The [Thunderer](../vehicles/Thunderer.md),
-[Aurora](../vehicles/Aurora.md), [Raider](../vehicles/Raider.md), [Galaxy
-Gunship](../vehicles/Galaxy_Gunship.md), and [Flail](../items/Flail.md) are
-also prohibited.
+The Battle Islands have unique vehicle and weapon limitations.
+[Heavy Assault](../certifications/Heavy_Assault.md) weaponry can not be
+purchased or used on any of the islands.
+[BFRs](../vehicles/BattleFrame_Robotics.md) and most
+[Technology Plant](Technology_Plant.md) vehicles can not be purchased or used.
+The exceptions are the [Wasp](../vehicles/Wasp.md),
+[Phantasm](../vehicles/Phantasm.md), and [Skyguard](../items/Skyguard.md), which
+can be purchased on [Desolation](Desolation.md) and used on any Battle Island.
+The [Thunderer](../vehicles/Thunderer.md), [Aurora](../vehicles/Aurora.md),
+[Raider](../vehicles/Raider.md),
+[Galaxy Gunship](../vehicles/Galaxy_Gunship.md), and [Flail](../items/Flail.md)
+are also prohibited.
 
 This collection of Battle Islands is sometimes refered to as
 [BI](../terminology/Acronyms_and_Slang.md).

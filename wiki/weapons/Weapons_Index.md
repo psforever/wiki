@@ -1,5 +1,5 @@
-The following is a listing of **[Weapons](Weapon.md)**,
-**Devices** and **ammunition** available to soldiers.
+The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
+**ammunition** available to soldiers.
 
 ## Weapons
 
@@ -12,14 +12,12 @@ The following is a listing of **[Weapons](Weapon.md)**,
 
 ### Standard Assault Weapons
 
-- [Automatic Machine Pistol
-  (AMP)](Automatic_Machine_Pistol.md)
+- [Automatic Machine Pistol (AMP)](Automatic_Machine_Pistol.md)
 - [Beamer](Beamer.md)
 - [Mag-Scatter](Mag-Scatter.md)
 - [Repeater](Repeater.md)
 - [Suppressor](Suppressor.md)
-- [Heavy Scout Rifle](Heavy_Scout_Rifle.md) (for characters 2+
-  years old)
+- [Heavy Scout Rifle](Heavy_Scout_Rifle.md) (for characters 2+ years old)
 
 ### Medium Assault Weapons
 
@@ -29,8 +27,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 - [Pulsar](Pulsar.md)
 - [Punisher](Punisher.md)
 - [Spear](Spear.md)
-- [Spiker](Spiker.md) (See: [Core
-  Combat](../items/Core_Combat.md))
+- [Spiker](Spiker.md) (See: [Core Combat](../items/Core_Combat.md))
 - [Stinger](Stinger.md)
 - [Sweeper](Sweeper.md)
 
@@ -41,8 +38,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 
 ### Special Assault Weapons
 
-- [Radiator](Radiator.md) (See: [Core
-  Combat](../items/Core_Combat.md))
+- [Radiator](Radiator.md) (See: [Core Combat](../items/Core_Combat.md))
 - [Rocklet Rifle](Rocklet_Rifle.md)
 - [Thumper](Thumper.md)
 
@@ -55,8 +51,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 
 - [Jackhammer](Jackhammer.md)
 - [Lasher](Lasher.md)
-- [Maelstrom](Maelstrom.md) (See: [Core
-  Combat](../items/Core_Combat.md))
+- [Maelstrom](Maelstrom.md) (See: [Core Combat](../items/Core_Combat.md))
 - [Mini-Chaingun (MCG)](Mini-Chaingun.md)
 
 ### Anti-Vehicular Weapons
@@ -76,8 +71,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 
 ### Engineering
 
-- [Adaptive Construction Engine
-  (ACE)](Adaptive_Construction_Engine.md)
+- [Adaptive Construction Engine (ACE)](Adaptive_Construction_Engine.md)
 - [Aegis Shield Generator](Aegis_Shield_Generator.md)
 - [Avenger](Avenger.md)
 - [Body Armor Nano Kit (BANK)](Body_Armor_Nano_Kit.md)
@@ -89,14 +83,13 @@ The following is a listing of **[Weapons](Weapon.md)**,
 - [Orion](Orion.md)
 - [Osprey](Osprey.md)
 - [Shadow Turret](Shadow_Turret.md)
-- [Tactical Resonance Area
-  Protection](Tactical_Resonance_Area_Protection.md) (TRAP)
+- [Tactical Resonance Area Protection](Tactical_Resonance_Area_Protection.md)
+  (TRAP)
 
 ### Command
 
 - [Command Uplink Device (CUD)](Command_Uplink_Device.md)
-- [Laze Pointer](Laze_Pointer.md) (See: [Core
-  Combat](../items/Core_Combat.md))
+- [Laze Pointer](Laze_Pointer.md) (See: [Core Combat](../items/Core_Combat.md))
 
 ### Medical
 
@@ -113,8 +106,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 
 - [Super Repair Kit](../items/Super_Repair_Kit.md)
 - [Super Stimpack](../items/Super_Stimpack.md)
-- [Telepad](Telepad.md) (See: [Core
-  Combat](../items/Core_Combat.md))
+- [Telepad](Telepad.md) (See: [Core Combat](../items/Core_Combat.md))
 
 ## Ammunition
 
@@ -123,8 +115,7 @@ The following is a listing of **[Weapons](Weapon.md)**,
 - [9mm Bullet](../ammunition/9mm_Bullet.md)
 - [10mm Multi-Phase](../ammunition/10mm_Multi-Phase.md)
 - [Armor Piercing 9mm Bullet](../ammunition/Armor_Piercing_9mm_Bullet.md)
-- [Armor Piercing Shotgun
-  Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md)
+- [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md)
 - [High Caliber Bolt](High_Caliber_Bolt.md)
 - [Shotgun Shell](../ammunition/Shotgun_Shell.md)
 

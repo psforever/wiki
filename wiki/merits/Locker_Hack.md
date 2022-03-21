@@ -218,17 +218,15 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendations.md) is awarded for
-kills scored by friendly soldier after they have used a
-[Locker](../Lockers.md) that was hacked by you, using a
-[REK](../weapons/Remote_Electronics_Kit.md). The tracker stops after 5 minutes or when the
-soldier dies, unless he is revived by an [Advanced
-Medic](../certifications/Advanced_Medical.md). Kills accumulated for this Merit
-also track for the [Hacking Support](Hacking_Support.md) Merit.
+This [Merit Commendation](Merit_Commendations.md) is awarded for kills scored by
+friendly soldier after they have used a [Locker](../Lockers.md) that was hacked
+by you, using a [REK](../weapons/Remote_Electronics_Kit.md). The tracker stops
+after 5 minutes or when the soldier dies, unless he is revived by an
+[Advanced Medic](../certifications/Advanced_Medical.md). Kills accumulated for
+this Merit also track for the [Hacking Support](Hacking_Support.md) Merit.
 
-The [Hacking](</Hacking_(Certification)>) certification is
-required to gain these [Merit
-Commendations](Merit_Commendations.md)
+The [Hacking](<../certifications/Hacking_(Certification).md>) certification is
+required to gain these [Merit Commendations](Merit_Commendations.md)
 
 The Advanced and Expert awards for this merit can be arranged to form an
 <b>H</b> to designate the bearer as a Hacker:
@@ -316,8 +314,8 @@ The Advanced and Expert awards for this merit can be arranged to form an
 </tbody>
 </table>
 
-Like the Hacking Support, it can also be arranged into a "U" for
-"Ultimate Hacker".
+Like the Hacking Support, it can also be arranged into a "U" for "Ultimate
+Hacker".
 
 <table>
 <tbody>

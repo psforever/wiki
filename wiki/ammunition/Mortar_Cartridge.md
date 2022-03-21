@@ -7,16 +7,17 @@
 
 **Mortar Cartridge**
 
-These cartridges are used by the [Ground
-Pounder](../terminology/Ground_Pounder.md) weapon found on the [Galaxy
-Gunship](../vehicles/Galaxy_Gunship.md) and the [Terran
-Republic](../etc/Terran_Republic.md)'s [Marauder](../vehicles/Marauder.md)
-[assault buggy](<Assault_Buggy_(Certification).md>). The rounds inflict decent
-damage to both [infantry](../terminology/Infantry.md) and
+These cartridges are used by the
+[Ground Pounder](../terminology/Ground_Pounder.md) weapon found on the
+[Galaxy Gunship](../vehicles/Galaxy_Gunship.md) and the
+[Terran Republic](../etc/Terran_Republic.md)'s
+[Marauder](../vehicles/Marauder.md)
+[assault buggy](<../certifications/Assault_Buggy_(Certification).md>). The
+rounds inflict decent damage to both [infantry](../terminology/Infantry.md) and
 [vehicles](../vehicles/Vehicle.md). The boxes can be obtained from any
-[Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded
-into the vehicle's [trunk](../terminology/Trunk.md) or acquired while in the
-vehicle from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
+[Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
+vehicle's [trunk](../terminology/Trunk.md) or acquired while in the vehicle from
+a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Ammunition](Category:Ammunition.md)-->

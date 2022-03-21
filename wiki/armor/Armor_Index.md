@@ -1,7 +1,6 @@
 ## Infantry
 
-- [Standard Exo-Suit](Standard_Exo-Suit.md) ("Pajamas" or
-  "PJs")
+- [Standard Exo-Suit](Standard_Exo-Suit.md) ("Pajamas" or "PJs")
 - [Agile Exo-Suit](Agile_Exo-Suit.md) ("Agile")
 - [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) ("Rexo")
 - [Infiltration Suit](../items/Infiltration_Suit.md) ("Cloaker")

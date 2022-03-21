@@ -1,7 +1,6 @@
-Redoubt Buildings can be found in each of the 6 [Core
-Combat](../items/Core_Combat.md) Caverns. There are 2 Redoubt Buildings
-in each cavern and are always paired with a nearby [AT
-Plant](AT_Plant.md)
+Redoubt Buildings can be found in each of the 6
+[Core Combat](../items/Core_Combat.md) Caverns. There are 2 Redoubt Buildings in
+each cavern and are always paired with a nearby [AT Plant](AT_Plant.md)
 
 The Redoubt Building features:
 

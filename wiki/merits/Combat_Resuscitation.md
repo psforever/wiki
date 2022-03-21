@@ -220,15 +220,15 @@
 </tbody>
 </table>
 
-This [Merit Commendation](Merit_Commendations.md) is awarded for
-kills made by friendly soldiers after they have been killed by enemy
-fire and [Revived](../terminology/Revive.md) by you, using a [Medical
-Applicator](../weapons/Medical_Applicator.md). The tracker starts after the
-first kill after the revive. The tracker stops several minutes later. If
-the soldier dies, the tracker stops, unless he is revived again.
+This [Merit Commendation](Merit_Commendations.md) is awarded for kills made by
+friendly soldiers after they have been killed by enemy fire and
+[Revived](../terminology/Revive.md) by you, using a
+[Medical Applicator](../weapons/Medical_Applicator.md). The tracker starts after
+the first kill after the revive. The tracker stops several minutes later. If the
+soldier dies, the tracker stops, unless he is revived again.
 
-The Advanced and Expert awards for this merit can be arranged to form
-the universal symbol for humanitarian aid:
+The Advanced and Expert awards for this merit can be arranged to form the
+universal symbol for humanitarian aid:
 
 <table>
 <tbody>

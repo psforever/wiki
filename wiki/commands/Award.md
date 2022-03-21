@@ -1,5 +1,5 @@
-Used to change the add or remove as well as change the status of [Merit
-Commendations](../merits/Merit_Commendations.md) on players.
+Used to change the add or remove as well as change the status of
+[Merit Commendations](../merits/Merit_Commendations.md) on players.
 
 - **/award_qualify**
 - **/award_progress**

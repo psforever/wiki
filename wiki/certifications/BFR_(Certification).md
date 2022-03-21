@@ -32,14 +32,14 @@ You must have a [BFR Imprint](../terminology/BFR_Imprint.md) from the
 [caverns](../locations/Caverns.md) before obtaining this
 [certification](Certification.md).
 
-Upon completion, you have access only to the Gunner Variant BFR, not the
-Flight Variant.
+Upon completion, you have access only to the Gunner Variant BFR, not the Flight
+Variant.
 
-Flight Variant's (FV) are avaliable after completing the [BFR
-Basic](</BFR_(Merit)>).
+Flight Variant's (FV) are avaliable after completing the
+[BFR Basic](<../merits/BFR_(Merit).md>).
 
 This [Certification](Certification.md) is required to obtain the
-[BFR Basic](</BFR_(Merit)>) [Merit
-Commendation](../merits/Merit_Commendations.md).
+[BFR Basic](<../merits/BFR_(Merit).md>)
+[Merit Commendation](../merits/Merit_Commendations.md).
 
 <!--[Category:Certification](../Category:Certification.md)-->

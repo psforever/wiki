@@ -212,8 +212,7 @@
 </tbody>
 </table>
 
-A seven-level Merit, obtained by destroying the following Transport
-vehicles:
+A seven-level Merit, obtained by destroying the following Transport vehicles:
 
 - [Deliverer](../vehicles/Deliverer.md)
 - [Aurora](../vehicles/Aurora.md)
@@ -226,13 +225,12 @@ vehicles:
 - [Vindicator](../vehicles/Vindicator.md)
 - [Phantasm](../vehicles/Phantasm.md)
 
-'''<sup>\*</sup> There is a bug that awards both the Silver and Gold
-merits at the same time after completing 150 kills.
+'''<sup>\*</sup> There is a bug that awards both the Silver and Gold merits at
+the same time after completing 150 kills.
 
-**Note that the Qualification to Platinum levels of this Merit
-Commendation are exactly the same as the Qualification to Platinum
-levels of the [Cavalry Driver](</Cavalry_Driver_(Merit)>) Merit
-Commendation.
-This is a mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
+**Note that the Qualification to Platinum levels of this Merit Commendation are
+exactly the same as the Qualification to Platinum levels of the
+[Cavalry Driver](<Cavalry_Driver_(Merit).md>) Merit Commendation. This is a
+mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
 
 <!--[category:Merits](category:Merits.md)-->

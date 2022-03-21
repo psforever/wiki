@@ -1,6 +1,5 @@
-Izha is one of the three [Technology
-Plant](../locations/Technology_Plant.md)'s on
-[Desolation](../locations/Desolation.md). Izha is in the South East in grids
+Izha is one of the three [Technology Plant](../locations/Technology_Plant.md)'s
+on [Desolation](../locations/Desolation.md). Izha is in the South East in grids
 L13 and M13.
 
 It has [Lattice](../Lattice.md) Links to:

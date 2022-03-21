@@ -3,7 +3,7 @@
 | **Certification Required**                                          | None                                                            |
 | **[Merit Commendation](../merits/Merit_Commendations.md) Required** | [Holiday Spirit of Youth](../merits/Holiday_Spirit_of_Youth.md) |
 | **Empire**                                                          | [Common Pool](../terminology/Common_Pool.md)                    |
-| **Primary Mode**                                                    | Restores 200 [Armor](Armor.md) Points                           |
+| **Primary Mode**                                                    | Restores 200 [Armor](../armor/Armor_Index.md) Points            |
 | **Secondary Mode**                                                  | \-                                                              |
 | **Ammunition**                                                      | \-                                                              |
 | **Inventory Dimensions**                                            | 2 x 4                                                           |
@@ -14,7 +14,7 @@
 
 **Super Repair Kit**
 
-This item is not always available as it is usually only enabled during
-the holiday season.
+This item is not always available as it is usually only enabled during the
+holiday season.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

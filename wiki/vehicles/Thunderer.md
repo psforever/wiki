@@ -15,18 +15,18 @@
 
 **Thunderer**
 
-Bolstering the New Conglomerate's hard-hitting arsenal, the Thunderer
-variant is equipped with dual Gauss Cannons. These cannons are straight
-line-of-fire and have very limited explosion radius. The Gauss Cannon's
-small, concentrated blast makes even a near-miss heavily damaging to
-infantry. Like the Deliverer, the Thunderer has adequate trunk space and
-can cross calm rivers and waterways by floating at the surface.
+Bolstering the New Conglomerate's hard-hitting arsenal, the Thunderer variant is
+equipped with dual Gauss Cannons. These cannons are straight line-of-fire and
+have very limited explosion radius. The Gauss Cannon's small, concentrated blast
+makes even a near-miss heavily damaging to infantry. Like the Deliverer, the
+Thunderer has adequate trunk space and can cross calm rivers and waterways by
+floating at the surface.
 
-**Introduced: May 27, 2004 with update version
-[2.7.6](2.md.7.6).**
+**Introduced: May 27, 2004 with update version [2.7.6](../patches/2.7.6.md).**
 
 <!--[category:Vehicles](category:Vehicles.md)--> [category:Ground
-Vehicles](category:Ground_Vehicles.md) [category:New
-Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md)
+
+Vehicles](category:Ground_Vehicles.md)
+[category:New Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

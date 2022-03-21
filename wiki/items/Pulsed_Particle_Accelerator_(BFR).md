@@ -13,17 +13,17 @@
 
 **Pulsed Particle Accelerator**
 
-The Pulsed Particle Accelerator serves the
-[Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) as a
-primarily Anti-Vehicular weapon. It is an adaptation of the
-[Magrider](../vehicles/Magrider.md)'s forward facing light PPA, but it
-charges particles longer and is attuned to lower frequencies for better
-punch through heavily armored targets. The weapon's particles dissipate
-after medium distance travel, but makes up for that with consistent
-energy damage throughout its range and direct-fire trajectory. While
-extremely effective on vehicles and low flying/hovering aircraft, the
-PPA is not very effective on light infantry.
+The Pulsed Particle Accelerator serves the [Aphelion](../vehicles/Aphelion.md)
+and [Eclipse](../vehicles/Eclipse.md) as a primarily Anti-Vehicular weapon. It
+is an adaptation of the [Magrider](../vehicles/Magrider.md)'s forward facing
+light PPA, but it charges particles longer and is attuned to lower frequencies
+for better punch through heavily armored targets. The weapon's particles
+dissipate after medium distance travel, but makes up for that with consistent
+energy damage throughout its range and direct-fire trajectory. While extremely
+effective on vehicles and low flying/hovering aircraft, the PPA is not very
+effective on light infantry.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
+
 Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

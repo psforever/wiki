@@ -227,17 +227,17 @@
 </tbody>
 </table>
 
-This [merit](Merit_Commendations.md) is rewarded for kills scored by [Spitfire
-Turrets](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret),
-[Cerberus Turrets](../weapons/Cerberus_Turret.md), or [Shadow
-Turrets](../weapons/Shadow_Turret.md) after you have repaired them by using
-the [Nano Dispenser](../weapons/Nano_Dispenser.md). The turret must have
-been damaged by enemy fire and the owner of the turret must be on the
-same [continent](../locations/Continent.md) for it to count. The tracker
-stops when the turret is destroyed.
+This [merit](Merit_Commendations.md) is rewarded for kills scored by
+[Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret),
+[Cerberus Turrets](../weapons/Cerberus_Turret.md), or
+[Shadow Turrets](../weapons/Shadow_Turret.md) after you have repaired them by
+using the [Nano Dispenser](../weapons/Nano_Dispenser.md). The turret must have
+been damaged by enemy fire and the owner of the turret must be on the same
+[continent](../locations/Continent.md) for it to count. The tracker stops when
+the turret is destroyed.
 
-The Advanced and Expert awards for this merit can be arranged to form
-the universal symbol for humanitarian aid:
+The Advanced and Expert awards for this merit can be arranged to form the
+universal symbol for humanitarian aid:
 
 <table>
 <tbody>

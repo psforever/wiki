@@ -1,6 +1,6 @@
 ![](../images/VehicleRepairCrystal.jpg "fig:VehicleRepairCrystal.jpg") in
-[Adlivun](../locations/Adlivun.md)\]\] [Vehicle Energy
-Crystals](Vehicle_Energy_Crystal.md) serve two purposes:
+[Adlivun](../locations/Adlivun.md)\]\]
+[Vehicle Energy Crystals](Vehicle_Energy_Crystal.md) serve two purposes:
 
 - [Vehicle](../Vehicle.md) Armor Repair
 - Ancient-Tech Vehicle Ammo recharge

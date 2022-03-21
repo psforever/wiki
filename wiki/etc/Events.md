@@ -86,19 +86,23 @@ Events
 
 <comment>Added Spooktacular Days event</comment>
 
-<text xml:space="preserve">An event is a real-time situational occurance
-in PlanetSide where empires fight over something besides territory and
-Facilities. \*[The Bending](The_Bending.md) (Aug. 16 2004) \*[BFR Mayhem](BFR_Mayhem.md) (Oct. 11, 2004) \*[Run For the
-Guns](Run_For_the_Guns.md) (Nov. 27,28 2004) \*[Galactic
-Pathways](Galactic_Pathways.md) (Feb. 20,21 2005) \*[Empire
-Defense](Empire_Defense.md) (Apr. 29-May 2 2005) \*[Emerald E3
-Monolith Battle](Emerald_E3_Monolith_Battle.md) (May 18-May 20 2005) \*[Empire Home Defense
-Event](Empire_Home_Defense_Event.md) (July 29 2005) \*[Martial
-Law](Martial_Law.md) (April 1 2006) \*[Third Anniversary of
-PlanetSide](Third_Anniversary_of_PlanetSide.md) (May 19-May 26 2006) \*[Blast Into Battle, Double
-Time](Blast_Into_Battle.md,_Double_Time) (July 27-August 8 2006) \*[The Chainblade Massacre](The_Chainblade_Massacre.md)
-(October/November 2006-2008, Halloween) \*[Spooktacular
-Days](Spooktacular_Days.md) (October 22nd - November 2nd 2009) \*[Rabbit](../terminology/Rabbit.md) (Can occur at any time) </text>
+<text xml:space="preserve">An event is a real-time situational occurance in
+PlanetSide where empires fight over something besides territory and
+Facilities. \*[The Bending](The_Bending.md) (Aug.
+16 2004) \*[BFR Mayhem](BFR_Mayhem.md) (Oct.
+11, 2004) \*[Run For the Guns](Run_For_the_Guns.md) (Nov.
+27,28 2004) \*[Galactic Pathways](Galactic_Pathways.md) (Feb.
+20,21 2005) \*[Empire Defense](Empire_Defense.md) (Apr. 29-May
+2 2005) \*[Emerald E3 Monolith Battle](Emerald_E3_Monolith_Battle.md) (May
+18-May 20 2005) \*[Empire Home Defense Event](Empire_Home_Defense_Event.md)
+(July 29 2005) \*[Martial Law](Martial_Law.md) (April
+1 2006) \*[Third Anniversary of PlanetSide](Third_Anniversary_of_PlanetSide.md)
+(May 19-May
+26 2006) \*[Blast Into Battle, Double Time](Blast_Into_Battle.md,_Double_Time)
+(July 27-August 8 2006) \*[The Chainblade Massacre](The_Chainblade_Massacre.md)
+(October/November 2006-2008,
+Halloween) \*[Spooktacular Days](Spooktacular_Days.md) (October 22nd - November
+2nd 2009) \*[Rabbit](../terminology/Rabbit.md) (Can occur at any time) </text>
 
 </revision>
 

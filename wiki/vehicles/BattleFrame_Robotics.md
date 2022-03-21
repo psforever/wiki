@@ -1,5 +1,5 @@
-**BattleFrame Robotics**, or **BFR** for short, is the name given the
-giant robots (or mecha) of the PlanetSide universe.
+**BattleFrame Robotics**, or **BFR** for short, is the name given the giant
+robots (or mecha) of the PlanetSide universe.
 
 <table>
 <colgroup>
@@ -29,45 +29,41 @@ giant robots (or mecha) of the PlanetSide universe.
 
 ### The Story
 
-In the story, the technology for BattleFrame Robotics was originally
-developed on Earth by the [Terran Republic](../etc/Terran_Republic.md).
-However, the technology could not be perfected there. The republic of
-Earth then sent the schematics for BFRs through the micro-wormhole
-between Earth and the Auraxian System to the three warring empires of
-Auraxis. Each side received the schematics, and began making their own
-variants of the technology.
+In the story, the technology for BattleFrame Robotics was originally developed
+on Earth by the [Terran Republic](../etc/Terran_Republic.md). However, the
+technology could not be perfected there. The republic of Earth then sent the
+schematics for BFRs through the micro-wormhole between Earth and the Auraxian
+System to the three warring empires of Auraxis. Each side received the
+schematics, and began making their own variants of the technology.
 
 The [Terran Republic](../etc/Terran_Republic.md) developed the
-[Colossus](Colossus.md).
-The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) developed the
-[Aphelion](Aphelion.md).
-The [New Conglomerate](../etc/New_Conglomerate.md) developed the
-[Peregrine](../items/Peregrine.md).
+[Colossus](Colossus.md). The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+developed the [Aphelion](Aphelion.md). The
+[New Conglomerate](../etc/New_Conglomerate.md) developed the
+[Peregrine](Peregrine.md).
 
-However, the systems of a BFR were very complicated, proving to be too
-much of a burden for a single pilot. The [Auraxian
-Core](../items/Auraxian_Core.md) had felt the deaths of all the prototype
-BFR pilots, and sent the empires of Auraxis a message. This message came
-in the form of [Monoliths](../items/Monolith.md) that spawned [Resonance
-Crystals](../terminology/Resonance_Crystals.md) that allowed a single pilot to
-control the complex systems of a BFR. Each empire adapted the crystals
-into their soldiers, and the empires of Auraxis were able to field BFRs
-and develop tactics for their use, as well as their defeat.
+However, the systems of a BFR were very complicated, proving to be too much of a
+burden for a single pilot. The [Auraxian Core](../items/Auraxian_Core.md) had
+felt the deaths of all the prototype BFR pilots, and sent the empires of Auraxis
+a message. This message came in the form of [Monoliths](../items/Monolith.md)
+that spawned [Resonance Crystals](../terminology/Resonance_Crystals.md) that
+allowed a single pilot to control the complex systems of a BFR. Each empire
+adapted the crystals into their soldiers, and the empires of Auraxis were able
+to field BFRs and develop tactics for their use, as well as their defeat.
 
 ### What is a BFR?
 
-BFRs themselves are robotic vehicles that move via a walking mechanism,
-are armed with two guns on their arms, and are protected by a powerful
-shield. These steel titans are driven by a single pilot, and are often
-perceived as an unstoppable one-man death machine.
+BFRs themselves are robotic vehicles that move via a walking mechanism, are
+armed with two guns on their arms, and are protected by a powerful shield. These
+steel titans are driven by a single pilot, and are often perceived as an
+unstoppable one-man death machine.
 
-BFRs are the only vehicle in PlanetSide that utilize hitbox technology,
-allowing a hit to a specific region of the BFR to damage a specific
-system (guns, sensors, transit mode, and shields are the systems that
-can be damaged, although a fifth hitbox allows items in the trunk such
-as ammunition to be destroyed). While the shields regenerate
-automatically over time, a BFR system that is damaged can only be
-restored by repairing the BFR.
+BFRs are the only vehicle in PlanetSide that utilize hitbox technology, allowing
+a hit to a specific region of the BFR to damage a specific system (guns,
+sensors, transit mode, and shields are the systems that can be damaged, although
+a fifth hitbox allows items in the trunk such as ammunition to be destroyed).
+While the shields regenerate automatically over time, a BFR system that is
+damaged can only be restored by repairing the BFR.
 
 #### Possible BFR damage states
 
@@ -126,95 +122,91 @@ restored by repairing the BFR.
 </table>
 
 Additionally, [Jammer grenades](../weapons/Jammer_Grenade.md) and
-[EMP](../commands/EMP.md) blasts can temporarily cripple a BFR, causing it
-to move and fire much more slowly, and in the case of the flight
-variants, completely disabling the flight systems until the effect wears
-off.
+[EMP](../commands/EMP.md) blasts can temporarily cripple a BFR, causing it to
+move and fire much more slowly, and in the case of the flight variants,
+completely disabling the flight systems until the effect wears off.
 
 ### The Variants
 
-There are two kinds of variants: the **gunner variant** (or basic BFR)
-and the **flight variant**.
+There are two kinds of variants: the **gunner variant** (or basic BFR) and the
+**flight variant**.
 
 #### Gunner variants
 
-Gunner variants have, in addition to the pilot weapons, an extra gunner
-pod on their backs which can be manned by a second soldier. They also
-have more armor and a faster shield regeneration rate than their flight
-counterparts, which gives them greater "staying power."
+Gunner variants have, in addition to the pilot weapons, an extra gunner pod on
+their backs which can be manned by a second soldier. They also have more armor
+and a faster shield regeneration rate than their flight counterparts, which
+gives them greater "staying power."
 
-In the gunner variant, the shields will be activated whenever a soldier
-enters either the pilot or gunner's seat, and will remain active as long
-one or both of these positions is occupied. Emptying both positions will
-deactivate the shields, leaving the BFR directly vulnerable to attack or
+In the gunner variant, the shields will be activated whenever a soldier enters
+either the pilot or gunner's seat, and will remain active as long one or both of
+these positions is occupied. Emptying both positions will deactivate the
+shields, leaving the BFR directly vulnerable to attack or
 [jacking](../terminology/Jack.md).
 
-There is a [known issue](../etc/Known_Issues.md) regarding the gunner
-no being able to aim left and right. However, this is a fairly rare bug.
+There is a [known issue](../etc/Known_Issues.md) regarding the gunner no being
+able to aim left and right. However, this is a fairly rare bug.
 
 ##### Empire-specific gunner variants
 
-- The [Colossus](Colossus.md) ([Terran
-  Republic](../etc/Terran_Republic.md))
-- The [Peregrine](../items/Peregrine.md) ([New
-  Conglomerate](../etc/New_Conglomerate.md))
-- The [Aphelion](Aphelion.md) ([Vanu
-  Sovereignty](../etc/Vanu_Sovereignty.md))
+- The [Colossus](Colossus.md) ([Terran Republic](../etc/Terran_Republic.md))
+- The [Peregrine](Peregrine.md) ([New Conglomerate](../etc/New_Conglomerate.md))
+- The [Aphelion](Aphelion.md) ([Vanu Sovereignty](../etc/Vanu_Sovereignty.md))
 
 #### Flight variants
 
-Flight variants are single-pilot BFRs with a flight pack on their backs
-to allow the BFR to fly vertically for a short amount of time (in a
-similar manner to the [VS](../etc/Vanu_Sovereignty.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md) units'
-jump-jets). The flight systems are powered by the "BFR capacitor", which
-is measured with a small bar on the player's [HUD](../etc/Heads-up_Display.md). The
-capacitor recharges over time when the flight systems are not in use.
-When a flight variant uses its flight systems, the shields are
-deactivated for the entire time the BFR is in the air, reactivating once
-it lands. Additionally, the shield levels will be drained as long as the
-BFR is in flight. The BFR can remain airborne until the capacitor is
-drained, then it will begin dropping back to the ground.
+Flight variants are single-pilot BFRs with a flight pack on their backs to allow
+the BFR to fly vertically for a short amount of time (in a similar manner to the
+[VS](../etc/Vanu_Sovereignty.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+units' jump-jets). The flight systems are powered by the "BFR capacitor", which
+is measured with a small bar on the player's [HUD](../etc/Heads-up_Display.md).
+The capacitor recharges over time when the flight systems are not in use. When a
+flight variant uses its flight systems, the shields are deactivated for the
+entire time the BFR is in the air, reactivating once it lands. Additionally, the
+shield levels will be drained as long as the BFR is in flight. The BFR can
+remain airborne until the capacitor is drained, then it will begin dropping back
+to the ground.
 
 Flight variants have much less armor and take a larger amount of time to
-regenerate their shields compared to their gunner counterparts.
-Conversely, flight variants can run and walk much faster than the ground
-variants, giving them the ability to flee relatively quickly when under
-attack. Each empire variant's maximum jump height is different, with the
+regenerate their shields compared to their gunner counterparts. Conversely,
+flight variants can run and walk much faster than the ground variants, giving
+them the ability to flee relatively quickly when under attack. Each empire
+variant's maximum jump height is different, with the
 [Invader](../items/Invader.md) having the highest jump and the
 [Eclipse](Eclipse.md) having the lowest.
 
 ##### Empire-specific flight variants
 
-- The [Invader](../items/Invader.md) ([Terran
-  Republic](../etc/Terran_Republic.md))
-- The [Eagle](Eagle.md) ([New
-  Conglomerate](../etc/New_Conglomerate.md))
-- The [Eclipse](Eclipse.md) ([Vanu
-  Sovereignty](../etc/Vanu_Sovereignty.md))
+- The [Invader](../items/Invader.md)
+  ([Terran Republic](../etc/Terran_Republic.md))
+- The [Eagle](Eagle.md) ([New Conglomerate](../etc/New_Conglomerate.md))
+- The [Eclipse](Eclipse.md) ([Vanu Sovereignty](../etc/Vanu_Sovereignty.md))
 
 ### BFR Certification
 
-In order to certify to get a BFR, a pilot must first get a [BFR
-Imprint](../terminology/BFR_Imprint.md) down in the
-[caverns](../locations/Caverns.md) if the character was created after June 18, 2009. Also, [Armored Assault I](../certifications/Armored_Assault_I.md) and
-[Armored Assault II](../certifications/Armored_Assault_II.md) are required to gain
-the BattleFrame Robotics certification.
+In order to certify to get a BFR, a pilot must first get a
+[BFR Imprint](../terminology/BFR_Imprint.md) down in the
+[caverns](../locations/Caverns.md) if the character was created after June
+18, 2009. Also, [Armored Assault I](../certifications/Armored_Assault_I.md) and
+[Armored Assault II](../certifications/Armored_Assault_II.md) are required to
+gain the BattleFrame Robotics certification.
 
-Anti-Vehicular (AV) pilot weapons come with the basic BFR certification
-(4 cert points), as well as the two possible gunner weapons (AV and
-Anti-Infantry (AI)). In order to get AI and Anti-Aircraft pilot weapons,
-1 cert point must be spent for each individually.
+Anti-Vehicular (AV) pilot weapons come with the basic BFR certification (4 cert
+points), as well as the two possible gunner weapons (AV and Anti-Infantry (AI)).
+In order to get AI and Anti-Aircraft pilot weapons, 1 cert point must be spent
+for each individually.
 
 To obtain a flight variant, one must earn the [BFR
-Basic](</BFR_(Merit)>) [merit](../merits/Merit_Commendations.md), which involves
-scoring 100 unique kills and then a kill streak of 15 with the BFR pilot
-weapons.
+Basic]../merits/BFR\_(Merit).md) [merit](../merits/Merit_Commendations.md),
+which involves scoring 100 unique kills and then a kill streak of 15 with the
+BFR pilot weapons.
 
-BFR timers take 25 minutes from the time of original purchase until
-another BFR can be acquired. The timer is reduced to 15 minutes if a
+BFR timers take 25 minutes from the time of original purchase until another BFR
+can be acquired. The timer is reduced to 15 minutes if a
 [Vehicle Module](../etc/Vehicle_Module.md) is installed, or the base is
 receiving a [Cavern Lock](../etc/Cavern_Lock.md) Benefit.
 
 <!--[Category:Game Items](../Category:Game_Items.md)-->
 <!--[Category:Vehicles](../Category:Vehicles.md)--> [Category:Ground
+
 Vehicles](../Category:Ground_Vehicles.md)

@@ -1,5 +1,5 @@
-The Terran Alliance of Markov (TTA) is a primary outfit alliance on
-Markov for the Terran Republic.
+The Terran Alliance of Markov (TTA) is a primary outfit alliance on Markov for
+the Terran Republic.
 
 The current ruling Overlords are Goblin, Saneone, & EvilGAmmA.
 

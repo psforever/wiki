@@ -16,14 +16,14 @@
 
 **Deliverer**
 
-While less maneuverable than assault buggies, the Deliverer has two
-gunners -- one next to the driver, facing forward, the other in the
-rear, covering the back. A reasonable trunk provides adequate space to
-carry supplies as well. The Deliverer also has the distinct advantage of
-being able to cross calm rivers and waterways and will float at the
-surface.
+While less maneuverable than assault buggies, the Deliverer has two gunners --
+one next to the driver, facing forward, the other in the rear, covering the
+back. A reasonable trunk provides adequate space to carry supplies as well. The
+Deliverer also has the distinct advantage of being able to cross calm rivers and
+waterways and will float at the surface.
 
 <!--[category:Game Items](category:Game_Items.md)-->
 
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
+
 Vehicles](Category:Common_Pool_Vehicles.md)

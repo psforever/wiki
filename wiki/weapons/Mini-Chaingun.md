@@ -13,21 +13,20 @@
 
 **Mini-Chaingun (MCG)**
 
-The [Mini-Chaingun](Mini-Chaingun.md) is the [Heavy
-Assault](../certifications/Heavy_Assault.md) weapon of the [Terran
-Republic](../etc/Terran_Republic.md). It follows the principle of all
-the [Terran Republic](../etc/Terran_Republic.md) weapons, sacrificing
-damage per hit for rapid fire.
+The [Mini-Chaingun](Mini-Chaingun.md) is the
+[Heavy Assault](../certifications/Heavy_Assault.md) weapon of the
+[Terran Republic](../etc/Terran_Republic.md). It follows the principle of all
+the [Terran Republic](../etc/Terran_Republic.md) weapons, sacrificing damage per
+hit for rapid fire.
 
 Like all [Heavy Assault](../certifications/Heavy_Assault.md) weaponry, the
-[Mini-Chaingun](Mini-Chaingun.md) meets its highest damage
-output at close quarters, when all or most of its bullets have
-opportunity to hit their target. However, the
-[Mini-Chaingun](Mini-Chaingun.md) can be used to some
-effectiveness at medium ranges if the weapon is carefully burst-fired.
-This allows the [Mini-Chaingun](Mini-Chaingun.md) to gain a
-slight advantage over enemy soldiers toting empire-specific [Heavy
-Assault](../certifications/Heavy_Assault.md) weaponry outdoors.
+[Mini-Chaingun](Mini-Chaingun.md) meets its highest damage output at close
+quarters, when all or most of its bullets have opportunity to hit their target.
+However, the [Mini-Chaingun](Mini-Chaingun.md) can be used to some effectiveness
+at medium ranges if the weapon is carefully burst-fired. This allows the
+[Mini-Chaingun](Mini-Chaingun.md) to gain a slight advantage over enemy soldiers
+toting empire-specific [Heavy Assault](../certifications/Heavy_Assault.md)
+weaponry outdoors.
 
 Shots to kill:
 
@@ -39,9 +38,10 @@ Shots to kill:
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](items/MedKit.md), [Impl../implants/Implants.mdnts.md) or [Empire
-Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Impl../implants/Implants.mdnts.md) or
+[Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
+
 Republic Weapons](Category:Terran_Republic_Weapons.md)

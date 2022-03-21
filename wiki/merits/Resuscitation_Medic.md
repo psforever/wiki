@@ -229,11 +229,11 @@
 
 This [Merit Commendation](../merits/Merit_Commendations.md) is awarded for
 [reviving](../terminology/Revive.md) friendly soldiers after they have been
-killed by enemy fire, using the [Medical
-Applicator](../weapons/Medical_Applicator.md)
+killed by enemy fire, using the
+[Medical Applicator](../weapons/Medical_Applicator.md)
 
-The Advanced and Expert awards for this merit can be arranged to form
-the universal symbol for humanitarian aid:
+The Advanced and Expert awards for this merit can be arranged to form the
+universal symbol for humanitarian aid:
 
 <table>
 <tbody>

@@ -1,7 +1,7 @@
 # Empire Defense Merits
 
-This series of [Merit Commendations](Merit_Commendations.md)
-counts total overall kills by any means necessary.
+This series of [Merit Commendations](Merit_Commendations.md) counts total
+overall kills by any means necessary.
 
 <hr>
 <table class="gc">
@@ -12,7 +12,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Combat Initiation Badge](</Combat_Initiation_Badge_(Merit)>)
+[Combat Initiation Badge](<Combat_Initiation_Badge_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -103,7 +103,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Citation for Bravery](</Citation_for_Bravery_(Merit)>)
+[Citation for Bravery](<Citation_for_Bravery_(Merit).md>)
 
 </td>
 <td class="mib">
@@ -188,7 +188,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Medal of Combat Service](</Medal_of_Combat_Service_(Merit)>)
+[Medal of Combat Service](<Medal_of_Combat_Service_(Merit).md>)
 
 </td>
 <td class="mib">
@@ -273,8 +273,7 @@ counts total overall kills by any means necessary.
 <tr>
 <td>
 
-[Distinguished Service
-Award](</Distinguished_Service_Award_(Merit)>)
+[Distinguished Service Award](<Distinguished_Service_Award_(Merit).md>)
 
 </td>
 <td class="mib">
@@ -359,7 +358,7 @@ Award](</Distinguished_Service_Award_(Merit)>)
 <tr>
 <td>
 
-[Order of Empire Defense](</Order_of_Empire_Defense_(Merit)>)
+[Order of Empire Defense](<Order_of_Empire_Defense_(Merit).md>)
 
 </td>
 <td class="mib">
@@ -450,8 +449,7 @@ Award](</Distinguished_Service_Award_(Merit)>)
 <tr>
 <td>
 
-[Order of Empire Defense
-Titanium](</Order_of_Empire_Defense_Titanium_(Merit)>)
+[Order of Empire Defense Titanium](<Order_of_Empire_Defense_Titanium_(Merit).md>)
 
 </td>
 <td class="mib">
@@ -542,8 +540,7 @@ Titanium](</Order_of_Empire_Defense_Titanium_(Merit)>)
 <tr>
 <td>
 
-[Order of Empire Defense
-Auraxium](</Order_of_Empire_Defense_Auraxium_(Merit)>)
+[Order of Empire Defense Auraxium](<Order_of_Empire_Defense_Auraxium_(Merit).md>)
 
 </td>
 <td class="mib">

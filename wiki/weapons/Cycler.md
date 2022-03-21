@@ -15,12 +15,12 @@
 **Cycler**
 
 The Cycler is the [Medium Assault](../certifications/Medium_Assault.md) rifle of
-the [Terran Republic](../etc/Terran_Republic.md). Following its
-empire's motif, it boasts the largest magazine capacity and highest fire
-rate of the medium assault rifles.
+the [Terran Republic](../etc/Terran_Republic.md). Following its empire's motif,
+it boasts the largest magazine capacity and highest fire rate of the medium
+assault rifles.
 
-Like all medium assault rifles, it exhibits a cone of fire bloom when
-fired in long bursts; better accuracy comes with shorter bursts.
+Like all medium assault rifles, it exhibits a cone of fire bloom when fired in
+long bursts; better accuracy comes with shorter bursts.
 
 Shots to kill:
 
@@ -32,9 +32,10 @@ Shots to kill:
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
-Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
+[Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
+
 Republic Weapons](Category:Terran_Republic_Weapons.md)

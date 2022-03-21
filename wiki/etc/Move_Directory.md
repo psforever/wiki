@@ -1,12 +1,12 @@
-If you want to install [PlanetSide](PlanetSide.md) to an
-alternate location you have a few options.
+If you want to install [PlanetSide](PlanetSide.md) to an alternate location you
+have a few options.
 
 ## Method One
 
-Fully uninstall [PlanetSide](PlanetSide.md) &
-[Launchpad](Launchpad.md) then download the [Grey Falcon
-Planetside Installer](http://www.greyfalcon.net/psinstall.exe) then when
-it asks you do you want to install it to the default location click on
+Fully uninstall [PlanetSide](PlanetSide.md) & [Launchpad](Launchpad.md) then
+download the
+[Grey Falcon Planetside Installer](http://www.greyfalcon.net/psinstall.exe) then
+when it asks you do you want to install it to the default location click on
 "NO".
 
 ## Method Two
@@ -26,7 +26,6 @@ entVersion\\App Paths\\LaunchPad.exe\\
 
 1\) Go to Start \> Run **Type "cmd"**
 
-2\) Type in **"set c:\\program files\\sony\\planetside=_your new
-location_"**
+2\) Type in **"set c:\\program files\\sony\\planetside=_your new location_"**
 
 <!--[Category:Game Guides](Category:Game_Guides.md)-->

@@ -16,27 +16,25 @@
 
 ## Description
 
-Forseral's planet sits in a nice habitable band of a binary star system.
-This lush, idyllic setting is often marred by the raging warfare
-criss-crossing its surface.
+Forseral's planet sits in a nice habitable band of a binary star system. This
+lush, idyllic setting is often marred by the raging warfare criss-crossing its
+surface.
 
-This sprawling continent is temperate in nature. Lakes dot the map, and
-peaks jut up into the sky. Pockets of trees provide visual screening for
-ground troops, while ridges of mountains prevent straight-line travel
-from area-to-area.
+This sprawling continent is temperate in nature. Lakes dot the map, and peaks
+jut up into the sky. Pockets of trees provide visual screening for ground
+troops, while ridges of mountains prevent straight-line travel from
+area-to-area.
 
-This is a home continent with a [Sanctuary](Sanctuary.md) link
-to the technology plant of [Eadon](../facilities/Eadon.md). See [Home
-Continent](Home_Continent.md) for the current empire sanctuary
-links.
+This is a home continent with a [Sanctuary](Sanctuary.md) link to the technology
+plant of [Eadon](../facilities/Eadon.md). See
+[Home Continent](Home_Continent.md) for the current empire sanctuary links.
 
 This continent is also refered to as
 [Fors](../terminology/Acronyms_and_Slang.md).
 
 ---
 
---source: Planetside In-game descriptions, pre- and
-post-[Bending](Bending.md).
+--source: Planetside In-game descriptions, pre- and post-[Bending](Bending.md).
 
 ## Base [Facilities](Facilities.md)
 

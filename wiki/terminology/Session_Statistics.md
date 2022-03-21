@@ -12,8 +12,7 @@ These Statistics only appear if they apply:
 - [Assists](Assist.md)
 - [Support Experience Points](Support_Experience_Points.md)
 
-The default keyboard combination to toggle the Session Statistics is
-Ctrl+S.
+The default keyboard combination to toggle the Session Statistics is Ctrl+S.
 
 <!--[Category:Game Guides](Category:Game_Guides.md)-->
 <!--[Category:Terminology](Category:Terminology.md)-->

@@ -10,7 +10,7 @@
 
 **Standard Exo-Suit**
 
-The **Standard Exo-Suit** [Certification](Certification.md) is
-given to all soldiers and cannot be removed.
+The **Standard Exo-Suit** [Certification](Certification.md) is given to all
+soldiers and cannot be removed.
 
 <!--[Category:Certification](Category:Certification.md)-->

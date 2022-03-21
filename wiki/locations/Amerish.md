@@ -17,24 +17,22 @@
 
 ## Description
 
-Amerish is a habitable moon orbiting a gas giant so massive that it
-verges upon becoming a proto-star. The radiation that leaks from this
-giant also acts as a sort of local sun to warm up the moon to bearable
-temperatures.
+Amerish is a habitable moon orbiting a gas giant so massive that it verges upon
+becoming a proto-star. The radiation that leaks from this giant also acts as a
+sort of local sun to warm up the moon to bearable temperatures.
 
-The facilities on Amerish are loosely grouped into two cluster, north
-and south. Although spaced unevenly, there are definitely choke points
-and assault paths that can be anticipated for tactical use.
+The facilities on Amerish are loosely grouped into two cluster, north and south.
+Although spaced unevenly, there are definitely choke points and assault paths
+that can be anticipated for tactical use.
 
-However, the four small islands off the coasts can be used for alternate
-paths, making for elements of unpredictability and ambush.
+However, the four small islands off the coasts can be used for alternate paths,
+making for elements of unpredictability and ambush.
 
 This continent is permanently connected to an
-[Empire](../terminology/Empire.md)'s [Sanctuary](Sanctuary.md) via a
-link with the [Bio Laboratory](Bio_Laboratory.md)
-[Ikanam](../facilities/Ikanam.md), and is the Home Continent for that empire.
-See [Home Continent](Home_Continent.md) for the current empire
-sanctuary links.
+[Empire](../terminology/Empire.md)'s [Sanctuary](Sanctuary.md) via a link with
+the [Bio Laboratory](Bio_Laboratory.md) [Ikanam](../facilities/Ikanam.md), and
+is the Home Continent for that empire. See [Home Continent](Home_Continent.md)
+for the current empire sanctuary links.
 
 This continent is also refered to as
 [Amer](../terminology/Acronyms_and_Slang.md).

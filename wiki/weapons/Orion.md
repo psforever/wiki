@@ -15,15 +15,14 @@
 **Orion**
 
 The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) Variant of the
-[One-Manned Field Turrets](weapons/One-Manned_Field_Turret.md), and is
-deployed by use of the [Field Deployment
-Unit](Field_Deployment_Unit.md). It is an adaptation of the
-[Quasar](../items/Quasar.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md) weapon, firing a
-mixture of [Armor Piercing](../terminology/Armor_Piercing.md) and standard
-ammunition.
+[One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md), and is
+deployed by use of the [Field Deployment Unit](Field_Deployment_Unit.md). It is
+an adaptation of the [Quasar](../items/Quasar.md)
+[MAX](../items/Mechanized_Assault_Exo-Suit.md) weapon, firing a mixture of
+[Armor Piercing](../terminology/Armor_Piercing.md) and standard ammunition.
 
-Originally, the name "Orion" was given the Vanu Sovereignty's
-gunner-variant [BFR](../vehicles/BattleFrame_Robotics.md), which is now called the
+Originally, the name "Orion" was given the Vanu Sovereignty's gunner-variant
+[BFR](../vehicles/BattleFrame_Robotics.md), which is now called the
 [Aphelion](../vehicles/Aphelion.md).
 
 <!--[Category:Weapons](Category:Weapons.md)-->

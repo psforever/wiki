@@ -1,5 +1,5 @@
-Forty Deuce is a couple-hundred member outfit that exists only within
-the Vanu Sovereignty.
+Forty Deuce is a couple-hundred member outfit that exists only within the Vanu
+Sovereignty.
 
 They are known for their weekly Magrider-raids.
 

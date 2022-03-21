@@ -13,14 +13,15 @@
 
 **Anti-Tank Machine Gun**
 
-The Anti Tank Machinegun chugs out depleted uranium bullets that tears
-up armored opponents. While it's rate of fire does not rival any of the
+The Anti Tank Machinegun chugs out depleted uranium bullets that tears up
+armored opponents. While it's rate of fire does not rival any of the
 [Terran Republics](../etc/Terran_Republic.md) rapid fire weaponry, it's
-projectile acceleration systems make it very powerful at close range and
-throw each round to quite a distance. Unfortunately, the slug's velocity
-drops off at these latter ranges, resulting in a loss of the damage this
-weapon enjoys close in.
+projectile acceleration systems make it very powerful at close range and throw
+each round to quite a distance. Unfortunately, the slug's velocity drops off at
+these latter ranges, resulting in a loss of the damage this weapon enjoys close
+in.
 
 <!--[Category:Game Items](../Category:Game_Items.md)-->
 <!--[Category:Weapons](../Category:Weapons.md)--> [Category:New
+
 Conglomerate Weapons](../Category:New_Conglomerate_Weapons.md)

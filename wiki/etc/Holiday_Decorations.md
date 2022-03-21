@@ -1,5 +1,5 @@
-Decorations are occasionally added for major American commercial
-holidays in October and December.
+Decorations are occasionally added for major American commercial holidays in
+October and December.
 
 December decor includes Santa Hats, Lights on trees on
 [Ceryshen](../locations/Ceryshen.md) and [Esamir](../locations/Esamir.md), and

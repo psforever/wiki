@@ -13,14 +13,15 @@
 
 **Burster (BFR)**
 
-The Burster air defense system operates similarly to the
-[Burster](../Burster.md) equipped AA [MAX](../items/Mechanized_Assault_Exo-Suit.md), rapidly
-firing [Flak](Flak.md) shells that explode in proximity to enemy
-air. However, it is significantly less deadly than its
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) counterpart. Its fast and straight-line
-projectiles means that it is also somewhat effective against infantry
-and light armor.
+The Burster air defense system operates similarly to the [Burster](Burster.md)
+equipped AA [MAX](Mechanized_Assault_Exo-Suit.md), rapidly firing
+[Flak](../weapons/Flak.md) shells that explode in proximity to enemy air.
+However, it is significantly less deadly than its
+[MAX](Mechanized_Assault_Exo-Suit.md) counterpart. Its fast and straight-line
+projectiles means that it is also somewhat effective against infantry and light
+armor.
 
 <!--[Category:Game Items](../Category:Game_Items.md)-->
 <!--[Category:Weapons](../Category:Weapons.md)--> [Category:Terran
+
 Republic Weapons](../Category:Terran_Republic_Weapons.md)

@@ -8,7 +8,7 @@
 
 **Anti-Aircraft MAX**
 
-The Anti-Air configuration of the MAX unit is best suited to combat
-enemy aircraft.
+The Anti-Air configuration of the MAX unit is best suited to combat enemy
+aircraft.
 
 <!--[Category:Certification](../Category:Certification.md)-->

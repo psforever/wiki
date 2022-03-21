@@ -13,12 +13,13 @@
 
 **Rocket Pod (BFR)**
 
-The Rocket Pod employs rapid fire long range, rockets in either single
-shots or a devastating 6-shot salvo. The weapon is very accurate and the
-rockets have an explosive warhead designed for flexible functionality,
-resulting in decent punch to heavy armor and quick kill times on
-encroaching infantry. The weapon has a straight-line trajectory.
+The Rocket Pod employs rapid fire long range, rockets in either single shots or
+a devastating 6-shot salvo. The weapon is very accurate and the rockets have an
+explosive warhead designed for flexible functionality, resulting in decent punch
+to heavy armor and quick kill times on encroaching infantry. The weapon has a
+straight-line trajectory.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:New
+
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

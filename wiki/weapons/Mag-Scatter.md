@@ -14,12 +14,11 @@
 
 **Mag-Scatter Pistol**
 
-The [Mag-Scatter](Mag-Scatter.md) is essentially a compact
-Shotgun. It has a short barrel design with a scattering effect, allowing
-for high damage with a quick fire rate at close range, although that
-same design severely diminishes its effectiveness at anything other than
-extremely close ranges. As such, the weapon is excellent for
-close-quarters use, such as tower fights.
+The [Mag-Scatter](Mag-Scatter.md) is essentially a compact Shotgun. It has a
+short barrel design with a scattering effect, allowing for high damage with a
+quick fire rate at close range, although that same design severely diminishes
+its effectiveness at anything other than extremely close ranges. As such, the
+weapon is excellent for close-quarters use, such as tower fights.
 
 Shots to kill (Extremely Close Range):
 
@@ -31,9 +30,10 @@ Shots to kill (Extremely Close Range):
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 15 [Armor Piercing](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
-Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
+[Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:New
+
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

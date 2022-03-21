@@ -8,12 +8,12 @@
 
 **ATV**
 
-While lightly armored, these vehicles make up for it with superior
-handling capabilities and incredible speed, all reaching nearly 90kph.
+While lightly armored, these vehicles make up for it with superior handling
+capabilities and incredible speed, all reaching nearly 90kph.
 
 It is possible to drive these vehicles while wearing any infantry armor,
 including the [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) (not
-including a MAX). In addition to this, the driver may bail off of the
-wheeled vehicles at any time, regardless of speed.
+including a MAX). In addition to this, the driver may bail off of the wheeled
+vehicles at any time, regardless of speed.
 
 <!--[Category:Certification](../Category:Certification.md)-->

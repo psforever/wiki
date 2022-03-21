@@ -18,22 +18,20 @@
 
 ## Description
 
-The planet housing Ishundar is largely characterized by the
-high-altitude continuous sandstorm that carries in the turbulent upper
-atmosphere, giving a corona to the sun and constantly raining grit down
-upon those on the planet's surface.
+The planet housing Ishundar is largely characterized by the high-altitude
+continuous sandstorm that carries in the turbulent upper atmosphere, giving a
+corona to the sun and constantly raining grit down upon those on the planet's
+surface.
 
-This continent is extremely arid and inhospitable to life. Its saltwater
-lakes are the only break in the unending bleakness that is Ishundar.
+This continent is extremely arid and inhospitable to life. Its saltwater lakes
+are the only break in the unending bleakness that is Ishundar.
 
-The surface of the continent is extremely rough, making off-roading a
-challenge and making roadways something of a predictable path for
-convoys.
+The surface of the continent is extremely rough, making off-roading a challenge
+and making roadways something of a predictable path for convoys.
 
-The continent is split in two by a gigantic canyon valley between the
-two highlands in Ishundar's center, making traffic flows between the two
-halves more predictable and creating bottlenecks for tacticians to
-exploit.
+The continent is split in two by a gigantic canyon valley between the two
+highlands in Ishundar's center, making traffic flows between the two halves more
+predictable and creating bottlenecks for tacticians to exploit.
 
 ---
 

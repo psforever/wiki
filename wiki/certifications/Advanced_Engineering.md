@@ -8,8 +8,8 @@
 
 **Advanced Engineering**
 
-[Assault Engineering](Assault_Engineering.md) and [Fortification
-Engineering](Fortification_Engineering.md) at a 1 [certification
-point](certification_points.md) discount.
+[Assault Engineering](Assault_Engineering.md) and
+[Fortification Engineering](Fortification_Engineering.md) at a 1
+[certification point](Certification_points.md) discount.
 
 <!--[Category:Certification](../Category:Certification.md)-->

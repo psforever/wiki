@@ -5,7 +5,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Gunship                                                                                                              |
 | **Role**                   | Attack                                                                                                                     |
-| **Certification Required** | [Galaxy Gunship](<Galaxy_Gunship_(Certification)>)                                                                         |
+| **Certification Required** | [Galaxy Gunship](<../certifications/Galaxy_Gunship_(Certification).md>)                                                    |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                               |
 | **Primary Weapon**         | Three 35mm Chainguns                                                                                                       |
 | **Secondary Weapon**       | Two [Ground Pounder](../terminology/Ground_Pounder.md) Mortar Launchers                                                    |
@@ -16,23 +16,24 @@
 
 **Galaxy Gunship**
 
-The Galaxy Gunship is a modified [Galaxy](Galaxy.md) airframe
-with heavy guns, and more armor. The gunship takes only 75% of all
-damage incident on it, making its effective armor much stronger than the
-regular Galaxy without increasing repair time much.
+The Galaxy Gunship is a modified [Galaxy](Galaxy.md) airframe with heavy guns,
+and more armor. The gunship takes only 75% of all damage incident on it, making
+its effective armor much stronger than the regular Galaxy without increasing
+repair time much.
 
-The gunship sports three 35mm chainguns and 2 [Ground
-Pounders](../terminology/Ground_Pounder.md). It lacks the [MAX](../items/Mechanized_Assault_Exo-Suit.md)
-passenger slots and cargo bay of the original Galaxy. The Galaxy Gunship
-is a beast on the battlefield, able to take on almost any single target
-at close to medium range. A single anti-aircraft platform is no match
-for the gunship.
+The gunship sports three 35mm chainguns and 2
+[Ground Pounders](../terminology/Ground_Pounder.md). It lacks the
+[MAX](../items/Mechanized_Assault_Exo-Suit.md) passenger slots and cargo bay of
+the original Galaxy. The Galaxy Gunship is a beast on the battlefield, able to
+take on almost any single target at close to medium range. A single
+anti-aircraft platform is no match for the gunship.
 
-The Galaxy Gunship can only be purchased at a [Dropship
-Center](../locations/Dropship_Center.md) or the
+The Galaxy Gunship can only be purchased at a
+[Dropship Center](../locations/Dropship_Center.md) or the
 [Sanctuary](../locations/Sanctuary.md). The purchase timer is 10 minutes.
 
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-Vehicles](Category:Common_Pool_Vehicles.md) [Category:Air
-Vehicles](Category:Air_Vehicles.md) [Category:Game
-Items](Category:Game_Items.md)
+
+Vehicles](Category:Common_Pool_Vehicles.md)
+[Category:Air Vehicles](Category:Air_Vehicles.md)
+[Category:Game Items](Category:Game_Items.md)

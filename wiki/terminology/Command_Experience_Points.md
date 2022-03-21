@@ -1,18 +1,16 @@
-**Command Experience Points** (CEP) is gained by leading a
-[squad](Squad.md) in a successful [base](../locations/Facilities.md)
-capture or resecure.
+**Command Experience Points** (CEP) is gained by leading a [squad](Squad.md) in
+a successful [base](../locations/Facilities.md) capture or resecure.
 
-Platoon Leaders will not gain any additional Command Experience Points
-from the other Squads in their [platoon](Platoon.md). The squad
-leader will receive more command experience points per capture with more
-players in his/her squad that are on the same
-[planet](../locations/Planet.md).
+Platoon Leaders will not gain any additional Command Experience Points from the
+other Squads in their [platoon](Platoon.md). The squad leader will receive more
+command experience points per capture with more players in his/her squad that
+are on the same [planet](../locations/Planet.md).
 
-When enough Command Experience has been accumulated, the character will
-increase in [Command Rank](Command_Rank.md).
+When enough Command Experience has been accumulated, the character will increase
+in [Command Rank](Command_Rank.md).
 
-The current numeric [experience](Experience_Points.md) values
-for the various [Command Ranks](Command_Rank.md) are:
+The current numeric [experience](Experience_Points.md) values for the various
+[Command Ranks](Command_Rank.md) are:
 
 <table border="1">
 <tr>
@@ -206,13 +204,13 @@ N/A
 </tr>
 </table>
 
-The amount of CEP awarded is based on a complicated algorithm that takes
-into account the number of enemies in the [SOI](../locations/Sphere_of_Influence.md) of the
-base 10 minutes prior to the hack and during the hack itself. The more
-enemies nearby, the more CEP awarded for a successful capture, up to a
-maximum. The maximum CEP awarded depends on the number of members in
-your [squad](Squad.md) that are on the same
-[planet](../locations/Planet.md), listed in the table below.
+The amount of CEP awarded is based on a complicated algorithm that takes into
+account the number of enemies in the [SOI](../locations/Sphere_of_Influence.md)
+of the base 10 minutes prior to the hack and during the hack itself. The more
+enemies nearby, the more CEP awarded for a successful capture, up to a maximum.
+The maximum CEP awarded depends on the number of members in your
+[squad](Squad.md) that are on the same [planet](../locations/Planet.md), listed
+in the table below.
 
 <table border="1">
 <tr>

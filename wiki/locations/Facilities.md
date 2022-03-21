@@ -1,12 +1,11 @@
-The goal of Planetside is to capture and hold the **Facilities**, often
-called **Bases**, on each [Planet](Planet.md) and in each
-[Cavern](Caverns.md). These bases provide gathering locations for
-troops, supply points for weapons and equipment, cover from air or
-ground attack, special functions such as vehicle repair or rapid
-respawning, and strategic chokepoints for defense and attack.
+The goal of Planetside is to capture and hold the **Facilities**, often called
+**Bases**, on each [Planet](Planet.md) and in each [Cavern](Caverns.md). These
+bases provide gathering locations for troops, supply points for weapons and
+equipment, cover from air or ground attack, special functions such as vehicle
+repair or rapid respawning, and strategic chokepoints for defense and attack.
 
-There are several types of Facilities, each with their own arrangement
-of buildings, terminals, and vital functions.
+There are several types of Facilities, each with their own arrangement of
+buildings, terminals, and vital functions.
 
 # Types of Facilities
 
@@ -21,8 +20,7 @@ of buildings, terminals, and vital functions.
 ### Cavern Facilities
 
 - [AT Plant](AT_Plant.md)
-- [Core Complex](Core_Complex.md) (This is a non-capturable
-  Facility)
+- [Core Complex](Core_Complex.md) (This is a non-capturable Facility)
 - [Module Building](Module_Building.md)
 - [Redoubt Building](Redoubt_Building.md)
 
@@ -58,8 +56,8 @@ of buildings, terminals, and vital functions.
 
 - [Advanced Medical Terminal](../items/Advanced_Medical_Terminal.md)
   ([Bio Laboratory](Bio_Laboratory.md) only)
-- [Certification Terminal](../items/Certification_Terminal.md) (Bio
-  Laboratory and Sanctuary only)
+- [Certification Terminal](../items/Certification_Terminal.md) (Bio Laboratory
+  and Sanctuary only)
 - [Implant Terminal](../items/Implant_Terminal.md) (Bio Laboratory and
   [Sanctuary](Sanctuary.md) only)
 - [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md)
@@ -69,17 +67,15 @@ of buildings, terminals, and vital functions.
 
 - [Ancient Control Console](../items/Ancient_Control_Console.md)
 - [Ancient Equipment Terminal](../items/Ancient_Equipment_Terminal.md)
-- [Ancient Ground Vehicle
-  Terminal](../items/Ancient_Ground_Vehicle_Terminal.md)
-- [Ancient Air Vehicle
-  Terminal](../items/Ancient_Air_Vehicle_Terminal.md)
+- [Ancient Ground Vehicle Terminal](../items/Ancient_Ground_Vehicle_Terminal.md)
+- [Ancient Air Vehicle Terminal](../items/Ancient_Air_Vehicle_Terminal.md)
 - [Teleporters](../terminology/Teleporter.md)
 - [Crystals](../items/Crystal.md)
 
 # Facilities Directory
 
-Total Capturable Facilities: 153 **Does not include
-[Towers](Towers.md) or neutral cavern structures.**
+Total Capturable Facilities: 153 **Does not include [Towers](Towers.md) or
+neutral cavern structures.**
 
 ## Surface Bases
 

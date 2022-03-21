@@ -17,13 +17,12 @@
 **Osprey**
 
 The [New Conglomerate](../etc/New_Conglomerate.md) Variant of the
-[One-Manned Field Turrets](weapons/One-Manned_Field_Turret.md), and is
-deployed by use of the [Field Deployment
-Unit](Field_Deployment_Unit.md). It is an adaptation of the
-[Scattercannon](../items/Scattercannon.md) [MAX](../items/Mechanized_Assault_Exo-Suit.md) weapon,
-though lacking the selectable spread. The [cone of
-fire](../etc/Cone_of_fire.md) is also significantly tighter than the
-[MAX](../items/Mechanized_Assault_Exo-Suit.md) counterpart, allowing for hitting enemies at
-further distances.
+[One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md), and is
+deployed by use of the [Field Deployment Unit](Field_Deployment_Unit.md). It is
+an adaptation of the [Scattercannon](../items/Scattercannon.md)
+[MAX](../items/Mechanized_Assault_Exo-Suit.md) weapon, though lacking the
+selectable spread. The [cone of fire](../etc/Cone_of_fire.md) is also
+significantly tighter than the [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+counterpart, allowing for hitting enemies at further distances.
 
 <!--[Category:Weapons](Category:Weapons.md)-->

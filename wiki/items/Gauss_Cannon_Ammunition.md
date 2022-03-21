@@ -7,15 +7,14 @@
 
 **Gauss Cannon Ammunition**
 
-These rounds are used by the [Thunderer](../vehicles/Thunderer.md) and fire
-in a straight-line trajectory though move relatively slowly. They do
-massive damage, killing any infantry in one shot. It has a very small
-splash damage area. The small quantity of rounds per box means that a
-Thunderer will need to reload regularly in the field. The boxes can be
-obtained from any [Equipment Terminal](Equipment_Terminal.md) to
-be hand-loaded into the vehicle's [trunk](../terminology/Trunk.md) or acquired
-while in the vehicle from a [Repair/Rearm.md
-Silo](Repair_Rearm_Silo.md).
+These rounds are used by the [Thunderer](../vehicles/Thunderer.md) and fire in a
+straight-line trajectory though move relatively slowly. They do massive damage,
+killing any infantry in one shot. It has a very small splash damage area. The
+small quantity of rounds per box means that a Thunderer will need to reload
+regularly in the field. The boxes can be obtained from any
+[Equipment Terminal](Equipment_Terminal.md) to be hand-loaded into the vehicle's
+[trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
+[Repair/Rearm.md Silo](Repair_Rearm_Silo.md).
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Ammunition](Category:Ammunition.md)-->

@@ -7,16 +7,15 @@
 
 **Recoilless Cannon Bullets**
 
-These 20mm bullets are some of the most common bullets used in both air
-and ground [vehicles](../vehicles/Vehicle.md). They are mainly meant for
-anti-aircraft duty, but can pack a punch on armored targets with
-multiple firing platforms like the [Deliverer](../vehicles/Deliverer.md).
-The boxes can be obtained from any [Equipment
-Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
-[vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or acquired
-while in the vehicle from a [Repair/Rearm.md
-Silo](../items/Repair_Rearm_Silo.md) or [Landing
-Pad](../items/Landing_Pad.md).
+These 20mm bullets are some of the most common bullets used in both air and
+ground [vehicles](../vehicles/Vehicle.md). They are mainly meant for
+anti-aircraft duty, but can pack a punch on armored targets with multiple firing
+platforms like the [Deliverer](../vehicles/Deliverer.md). The boxes can be
+obtained from any [Equipment Terminal](../items/Equipment_Terminal.md) to be
+hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
+[trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
+[Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md) or
+[Landing Pad](../items/Landing_Pad.md).
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Ammunition](Category:Ammunition.md)-->

@@ -1,5 +1,4 @@
-Legions of Armor, or LoA, is an outfit focued around tanks and armored
-vehicles.
+Legions of Armor, or LoA, is an outfit focued around tanks and armored vehicles.
 
 Outfit Leader: BlackPlague678
 

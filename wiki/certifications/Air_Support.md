@@ -28,10 +28,10 @@ With <a href="Bomber_Ace.md" title="wikilink">Bomber Ace Bronze</a>: <a href="Vu
 **Air Support**
 
 This [Certification](Certification.md) is required to obtain the
-[Bomber Ace](../merits/Bomber_Ace.md), [Lodestar
-Support](../merits/Lodestar_Support.md), [Vehicle Support
-Specialist](../merits/Vehicle_Support_Specialist.md) and [Universal
-Soldier](../merits/Universal_Soldier.md) [Merit
-Commendations](../merits/Merit_Commendations.md).
+[Bomber Ace](../merits/Bomber_Ace.md),
+[Lodestar Support](../merits/Lodestar_Support.md),
+[Vehicle Support Specialist](../merits/Vehicle_Support_Specialist.md) and
+[Universal Soldier](../merits/Universal_Soldier.md)
+[Merit Commendations](../merits/Merit_Commendations.md).
 
 <!--[Category:Certification](../Category:Certification.md)-->

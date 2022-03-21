@@ -18,23 +18,21 @@
 ## Description
 
 ![](../images/Rockswarpgate.jpg "fig:Rockswarpgate.jpg")\]\] The large central
-oasis of Solsar is flanked by two warp gates on plateaus nearby, making
-it a unique tactical situation.
+oasis of Solsar is flanked by two warp gates on plateaus nearby, making it a
+unique tactical situation.
 
-There are relatively few roads and very rough off-road terrain here,
-making the bases more defensible to standard massed armor attacks.
+There are relatively few roads and very rough off-road terrain here, making the
+bases more defensible to standard massed armor attacks.
 
 ---
 
-Source: Planetside In-game descriptions, pre- and
-post-[Bending](Bending.md).
+Source: Planetside In-game descriptions, pre- and post-[Bending](Bending.md).
 
 This continent is also refered to as
-[Sol](../terminology/Acronyms_and_Slang.md). Solsar is a [Home
-Continent](Home_Continent.md) with a
-[Sanctuary](Sanctuary.md) link to [Horus](Horus.md). See
-[Home Continent](Home_Continent.md) for the current empire
-sanctuary links.
+[Sol](../terminology/Acronyms_and_Slang.md). Solsar is a
+[Home Continent](Home_Continent.md) with a [Sanctuary](Sanctuary.md) link to
+[Horus](Horus.md). See [Home Continent](Home_Continent.md) for the current
+empire sanctuary links.
 
 ## Base [Facilities](Facilities.md)
 

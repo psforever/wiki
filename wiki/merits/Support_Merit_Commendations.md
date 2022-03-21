@@ -1,12 +1,12 @@
-This series of [Merit Commendations](Merit_Commendations.md)
-rewards the thankless job of supporting the empire, including:
+This series of [Merit Commendations](Merit_Commendations.md) rewards the
+thankless job of supporting the empire, including:
 
 - Reviving fallen soldiers
 - Healing injured soldiers
 - Repairing damaged armor on soldiers, vehicles, and equipment
 - Hacking enemy equipment
-- Operating an [AMS](../vehicles/Advanced_Mobile_Station.md), [Router](../vehicles/Router.md), or
-  [Lodestar](../vehicles/Lodestar.md)
+- Operating an [AMS](../vehicles/Advanced_Mobile_Station.md),
+  [Router](../vehicles/Router.md), or [Lodestar](../vehicles/Lodestar.md)
 
 <hr>
 <table class="gc">
@@ -619,7 +619,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td rowspan="2">
 
-[Engineering](</Engineering_(Merit)>)
+[Engineering](<Engineering_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -2044,7 +2044,7 @@ rewards the thankless job of supporting the empire, including:
 <tr>
 <td>
 
-[Resuscitation Medic](locations/Resuscitation_Medic.md)
+[Resuscitation Medic](../locations/Resuscitation_Medic.md)
 
 </td>
 <td class="mitd">

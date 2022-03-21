@@ -39,12 +39,12 @@
 </table>
 
 Awarded for finding a snowmen on each of the 9 surface
-[continents](../locations/Continent.md) (excluding the [Oshur Battle
-Islands](../locations/Battle_Islands.md)) during the Christmas holidays of
-2006 and 2007.
+[continents](../locations/Continent.md) (excluding the
+[Oshur Battle Islands](../locations/Battle_Islands.md)) during the Christmas
+holidays of 2006 and 2007.
 
-This merit is required to gain access to the [Super
-Medkit](../items/Super_Medkit.md) during the Christmas holiday season.
+This merit is required to gain access to the
+[Super Medkit](../items/Super_Medkit.md) during the Christmas holiday season.
 
 **Snowmen Locations:**
 
@@ -56,14 +56,14 @@ Each snowmen is in the [Spawn Room](../locations/Spawn_Room.md) of a Tower.
   [Sedna](../facilities/Sedna.md) Watch Tower
 - **[Cyssor](../locations/Cyssor.md)** - South [Bomazi](../facilities/Bomazi.md)
   [Air Tower](../locations/Air_tower.md)
-- **[Esamir](../locations/Esamir.md)** - East [Dagur](../facilities/Dagur.md) Air
-  Tower
+- **[Esamir](../locations/Esamir.md)** - East [Dagur](../facilities/Dagur.md)
+  Air Tower
 - **[Forseral](../locations/Forseral.md)** - South [Neit](../facilities/Neit.md)
   Watch Tower
 - **[Hossin](../locations/Hossin.md)** - South West
   [Ixtab](../facilities/Ixtab.md) [Watch Tower](../locations/Watch_tower.md)
-- **[Ishundar](../locations/Ishundar.md)** - Central Outpost Watch Tower
-  (Near the East [Geowarp](../locations/Geowarp.md))
+- **[Ishundar](../locations/Ishundar.md)** - Central Outpost Watch Tower (Near
+  the East [Geowarp](../locations/Geowarp.md))
 - **[Searhus](../locations/Searhus.md)** - West [Ngaru](../facilities/Ngaru.md)
   Gun Tower
 - **[Solsar](../locations/Solsar.md)** - North [Hapi](../facilities/Hapi.md)

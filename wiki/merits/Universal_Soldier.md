@@ -66,19 +66,18 @@
 
 This is a two stage award.
 
-The **Elite** level requires the Qualification level of the folowing
-merits:
+The **Elite** level requires the Qualification level of the folowing merits:
 
 - [Combat Medic](Combat_Medic.md)
 - [Combat Resuscitation](Combat_Resuscitation.md)
-- [Resuscitation Medic](locations/Resuscitation_Medic.md)
-- [Engineering](</Engineering_(Merit)>)
+- [Resuscitation Medic](../locations/Resuscitation_Medic.md)
+- [Engineering](<Engineering_(Merit).md>)
 - [Equipment Support](Equipment_Support.md)
 - [Infantry Armor Support](Infantry_Armor_Support.md)
 - [Tiny Robotics Support](Tiny_Robotics_Support.md)
 
-The **Master** level requires those required for the Elite level plus
-the Qualification level of the following merits:
+The **Master** level requires those required for the Elite level plus the
+Qualification level of the following merits:
 
 - [Hacking Support](Hacking_Support.md)
 - [Locker Hack](Locker_Hack.md)

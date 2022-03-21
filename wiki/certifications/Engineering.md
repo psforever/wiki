@@ -9,10 +9,9 @@
 **Engineering**
 
 This [Certification](Certification.md) is required to obtain the
-[Infantry Armor Support](../merits/Infantry_Armor_Support.md), [Equipment
-Support](../merits/Equipment_Support.md),[Tiny Robotics
-Support](../merits/Tiny_Robotics_Support.md) and [Universal
-Soldier](../merits/Universal_Soldier.md) [Merit
-Commendations](../merits/Merit_Commendations.md).
+[Infantry Armor Support](../merits/Infantry_Armor_Support.md),
+[Equipment Support](../merits/Equipment_Support.md),[Tiny Robotics Support](../merits/Tiny_Robotics_Support.md)
+and [Universal Soldier](../merits/Universal_Soldier.md)
+[Merit Commendations](../merits/Merit_Commendations.md).
 
 <!--[Category:Certification](Category:Certification.md)-->

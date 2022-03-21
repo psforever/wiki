@@ -218,8 +218,8 @@
 </tbody>
 </table>
 
-This Merit is rewarded for kills scored by equipment that were damaged
-by Enemy Fire then repaired by you. These include:
+This Merit is rewarded for kills scored by equipment that were damaged by Enemy
+Fire then repaired by you. These include:
 
 - [Phalanx](../items/Phalanx.md) Wall Turrets (manned or unmanned)
 - All [Vehicles](../vehicles/Vehicle.md)
@@ -229,15 +229,14 @@ by Enemy Fire then repaired by you. These include:
 - [One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md)
 - Manned [Ancient Sentry Turrets](../items/Ancient_Sentry_Turret.md)
 
-The tracker starts after the first kill after the repair assist. The
-tracker stops 5 to 10 minutes later, depending how much repair was
-needed (exception: [Tiny Robotics
-Support](Tiny_Robotics_Support.md) equipment tracks until the
-turret is destroyed and has no timer). The tracker also stops when the
-the repaired equipment gets destroyed.
+The tracker starts after the first kill after the repair assist. The tracker
+stops 5 to 10 minutes later, depending how much repair was needed (exception:
+[Tiny Robotics Support](Tiny_Robotics_Support.md) equipment tracks until the
+turret is destroyed and has no timer). The tracker also stops when the the
+repaired equipment gets destroyed.
 
-The Advanced and Expert awards for this merit can be arranged to form
-the universal symbol for humanitarian aid:
+The Advanced and Expert awards for this merit can be arranged to form the
+universal symbol for humanitarian aid:
 
 <table>
 <tbody>
@@ -322,7 +321,7 @@ the universal symbol for humanitarian aid:
 </tbody>
 </table>
 
-**Note: The Titanium graphic has a slight color error. This is a mistake
-by [SOE](../etc/Sony_Online_Entertainment.md)**
+**Note: The Titanium graphic has a slight color error. This is a mistake by
+[SOE](../etc/Sony_Online_Entertainment.md)**
 
 <!--[category:Merits](category:Merits.md)-->

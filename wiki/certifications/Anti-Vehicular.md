@@ -28,7 +28,7 @@
 **Anti-Vehicular**
 
 This [Certification](Certification.md) is required to obtain the
-[Anti-Armor](</Anti-Vehicular_(Merit)>) [Merit
-Commendation](../merits/Merit_Commendations.md).
+[Anti-Armor](../merits/Anti-Armor.md)
+[Merit Commendation](../merits/Merit_Commendations.md).
 
 <!--[Category:Certification](../Category:Certification.md)-->

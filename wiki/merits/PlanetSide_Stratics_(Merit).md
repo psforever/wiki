@@ -34,6 +34,8 @@
 </tbody>
 </table>
 
-This merit is awarded as a prize to winners in the monthly [PlanetSide
-Stratics](http://planetside.stratics.com/) House of Commons IRC chat.
+This merit is awarded as a prize to winners in the monthly
+[PlanetSide Stratics](http://planetside.stratics.com/) House of Commons IRC
+chat.
+
 <!--[category:Merits](category:Merits.md)-->

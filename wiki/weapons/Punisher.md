@@ -46,23 +46,21 @@ Secondary: Rockets, Frag Grenades, Plasma Grenades or Jammer Grenades</p></td>
 
 **Punisher**
 
-The [Punisher](Punisher.md) is the "Swiss army knife" of
-PlanetSide weapons. In its primary mode, it fires 9mm rounds
-(Anti-Infantry or Armor Piercing) fairly rapidly, although its shifty
-cone of fire blooms after a few rounds, limiting its range considerably.
-In its secondary mode, it can fire a single rocklet or grenade. A common
-mistake for new players is to think the rocklet is an anti-vehicular
-weapon. It is fairly useless against vehicles, but does reasonable
-damage against stationary infantry.
+The [Punisher](Punisher.md) is the "Swiss army knife" of PlanetSide weapons. In
+its primary mode, it fires 9mm rounds (Anti-Infantry or Armor Piercing) fairly
+rapidly, although its shifty cone of fire blooms after a few rounds, limiting
+its range considerably. In its secondary mode, it can fire a single rocklet or
+grenade. A common mistake for new players is to think the rocklet is an
+anti-vehicular weapon. It is fairly useless against vehicles, but does
+reasonable damage against stationary infantry.
 
-A common tactic used for the weapon is to launch a [Fragmentation
-grenade](Fragmentation_grenade.md) or [Plasma
-grenade](Plasma_grenade.md) at an enemy, and then quickly switch
-to primary mode to finish him off with bullets. Though to do this
-properly, disabling [Auto Reload](../etc/Menu.md#Game_Options) in the
-Game Options Menu is a must as otherwise you will be unable to fire
-standard rounds until you have reloaded your
-[Grenades](Weapons_Index.md#Grenades) or Rocket.
+A common tactic used for the weapon is to launch a
+[Fragmentation grenade](Fragmentation_grenade.md) or
+[Plasma grenade](Plasma_grenade.md) at an enemy, and then quickly switch to
+primary mode to finish him off with bullets. Though to do this properly,
+disabling [Auto Reload](../etc/Menu.md#Game_Options) in the Game Options Menu is
+a must as otherwise you will be unable to fire standard rounds until you have
+reloaded your [Grenades](Weapons_Index.md#Grenades) or Rocket.
 
 Shots to kill:
 
@@ -74,9 +72,10 @@ Shots to kill:
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
-Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
+[Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
+
 Weapons](Category:Common_Pool_Weapons.md)

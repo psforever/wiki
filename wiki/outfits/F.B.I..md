@@ -2,11 +2,11 @@
 
 Welcome To The F.B.I. information Page
 
-The F.B.I. are one of The Most Organized and Active Terran Republic
-Outfits on Markov.
+The F.B.I. are one of The Most Organized and Active Terran Republic Outfits on
+Markov.
 
-We do require you to have Teamspeak even if you don't have a Microphone
-you need to hear wht we are saying.
+We do require you to have Teamspeak even if you don't have a Microphone you need
+to hear wht we are saying.
 
 We Also Have Strict Guidelines for becoming a loyal F.B.I. member
 

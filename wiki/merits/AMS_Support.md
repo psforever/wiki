@@ -212,13 +212,13 @@
 </tbody>
 </table>
 
-This Merit is awarded for kills scored by Friendly Soldiers after they
-have spawned at your [Advanced Mobile
-Station](../vehicles/Advanced_Mobile_Station.md). While you will also
-receive assists and [Support Experience
-Points](../terminology/Support_Experience_Points.md) for kills made by friendly
-soldiers after using one of your AMS' [Equipment
-Terminals](../items/Equipment_Terminal.md), this merit only tracks
+This Merit is awarded for kills scored by Friendly Soldiers after they have
+spawned at your
+[Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md). While you
+will also receive assists and
+[Support Experience Points](../terminology/Support_Experience_Points.md) for
+kills made by friendly soldiers after using one of your AMS'
+[Equipment Terminals](../items/Equipment_Terminal.md), this merit only tracks
 respawn assists.
 
 <!--[category:merits](category:merits.md)-->

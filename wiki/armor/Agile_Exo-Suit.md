@@ -1,18 +1,20 @@
-![](../images/NCAgileArmors2.jpg "fig:NCAgileArmors2.jpg") [Agile
-Exo-Suit](Agile_Exo-Suit.md) at, from left to right, [Battle
-Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
+![](../images/NCAgileArmors2.jpg "fig:NCAgileArmors2.jpg")
+[Agile Exo-Suit](Agile_Exo-Suit.md) at, from left to right,
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 
-![](../images/TRAgileArmor2.jpg "fig:TRAgileArmor2.jpg") [Agile
-Exo-Suit](Agile_Exo-Suit.md) at, from left to right, [Battle
-Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
+![](../images/TRAgileArmor2.jpg "fig:TRAgileArmor2.jpg")
+[Agile Exo-Suit](Agile_Exo-Suit.md) at, from left to right,
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 
-![](../images/VS_Agiles.jpg "fig:VS_Agiles.jpg") [Agile
-Exo-Suit](Agile_Exo-Suit.md) at, from left the right, [Battle
-Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
+![](../images/VS_Agiles.jpg "fig:VS_Agiles.jpg")
+[Agile Exo-Suit](Agile_Exo-Suit.md) at, from left the right,
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 
-![](../images/Agile_Inventory.jpg "fig:Agile_Inventory.jpg"), [Medical
-Applicator](../weapons/Medical_Applicator.md), [BANK](../weapons/Body_Armor_Nano_Kit.md),
-[REK](../weapons/Remote_Electronics_Kit.md), and [CUD](../weapons/Command_Uplink_Device.md)\]\]
+![](../images/Agile_Inventory.jpg "fig:Agile_Inventory.jpg"),
+[Medical Applicator](../weapons/Medical_Applicator.md),
+[BANK](../weapons/Body_Armor_Nano_Kit.md),
+[REK](../weapons/Remote_Electronics_Kit.md), and
+[CUD](../weapons/Command_Uplink_Device.md)\]\]
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |
@@ -25,12 +27,11 @@ Applicator](../weapons/Medical_Applicator.md), [BANK](../weapons/Body_Armor_Nano
 
 **Agile Exo-Suit**
 
-With about twice the protection of the [Standard
-Exo-Suit](Standard_Exo-Suit.md) and the flexibility of a second
-[pistol slot](../etc/Holster.md) and larger
+With about twice the protection of the [Standard Exo-Suit](Standard_Exo-Suit.md)
+and the flexibility of a second [pistol slot](../etc/Holster.md) and larger
 [inventory](../terminology/Inventory.md), the **Agile Exo-Suit** is a vast
-improvement. You still maintain good foot speed and this is the heaviest
-armor you can wear and still pilot/drive all vehicles.
+improvement. You still maintain good foot speed and this is the heaviest armor
+you can wear and still pilot/drive all vehicles.
 
 <!--[Category:Game Items](../Category:Game_Items.md)-->
 <!--[Category:Armor](../Category:Armor.md)-->

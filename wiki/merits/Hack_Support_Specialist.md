@@ -36,9 +36,8 @@
 </tbody>
 </table>
 
-This merit is awarded for completing the Qualification level of the
-following Merits: [Locker Hack](Locker_Hack.md), [Hacking
-Support](Hacking_Support.md) and
-[Jacking](</Jacking_(Merit)>).
+This merit is awarded for completing the Qualification level of the following
+Merits: [Locker Hack](Locker_Hack.md), [Hacking Support](Hacking_Support.md) and
+[Jacking](<Jacking_(Merit).md>).
 
 <!--[category:Merits](category:Merits.md)-->

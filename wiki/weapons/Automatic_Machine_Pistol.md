@@ -15,18 +15,16 @@ with an AMP\]\]
 
 **Automatic Machine Pistol (AMP)**
 
-[image:AMP-Icon.jpgCapable](image:AMP-Icon.jpg) of utilizing
-either Anti-Infantry or Armor-Piercing ammunition, the
-[AMP](Automatic_Machine_Pistol.md) is the only fully-automatic
-handgun available.
+[image:AMP-Icon.jpgCapable](image:AMP-Icon.jpg) of utilizing either
+Anti-Infantry or Armor-Piercing ammunition, the
+[AMP](Automatic_Machine_Pistol.md) is the only fully-automatic handgun
+available.
 
-This pistol is very effective at close range firing long bursts, but the
-extreme cone of fire bloom means that it is unreliable past about 5m in
-full-auto.
+This pistol is very effective at close range firing long bursts, but the extreme
+cone of fire bloom means that it is unreliable past about 5m in full-auto.
 
-Firing steady, single shots, the
-[AMP](Automatic_Machine_Pistol.md) is accurate enough to finish
-off very wounded troops from a medium, safe distance.
+Firing steady, single shots, the [AMP](Automatic_Machine_Pistol.md) is accurate
+enough to finish off very wounded troops from a medium, safe distance.
 
 Shots to kill:
 
@@ -39,4 +37,5 @@ Shots to kill:
 
 <!--[Category:Game Items](../Category:Game_Items.md)-->
 <!--[Category:Weapons](../Category:Weapons.md)--> [Category:Common Pool
+
 Weapons](../Category:Common_Pool_Weapons.md)

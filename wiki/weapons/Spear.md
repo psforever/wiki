@@ -15,30 +15,30 @@
 
 **Spear**
 
-The **Spear** is a powerful [Medium Assault](../certifications/Medium_Assault.md)
-pistol. It deals a good bit of damage per hit with a tight [cone of
-fire](../etc/Cone_of_fire.md), but small clip size. It also suffers
-severe [Damage Degradation](../terminology/Damage_Degradation.md) (see graph at
-right), making it relatively worthless at targets over 50 meters away.
+The **Spear** is a powerful
+[Medium Assault](../certifications/Medium_Assault.md) pistol. It deals a good
+bit of damage per hit with a tight [cone of fire](../etc/Cone_of_fire.md), but
+small clip size. It also suffers severe
+[Damage Degradation](../terminology/Damage_Degradation.md) (see graph at right),
+making it relatively worthless at targets over 50 meters away.
 
-In the primary firing mode, it fires as a single shot pistol with a
-tight cone of fire.
+In the primary firing mode, it fires as a single shot pistol with a tight cone
+of fire.
 
-The secondary mode fires all remaining rounds quickly with a very large
-cone of fire. You must have at least 75 stamina to fire the secondary
-mode. The drawback is that this mode drains all remaining
-[stamina](../terminology/Stamina.md), leaving you vulnerable to attack. Thus,
-you might want to think twice before firing in this mode. There is a
-short delay before firing begins with the secondary fire mode (much like
-the [Rocklet Rifle](Rocklet_Rifle.md)), with a distinct sound.
-This can sometimes give your target enough warning to move out of the
-way.
+The secondary mode fires all remaining rounds quickly with a very large cone of
+fire. You must have at least 75 stamina to fire the secondary mode. The drawback
+is that this mode drains all remaining [stamina](../terminology/Stamina.md),
+leaving you vulnerable to attack. Thus, you might want to think twice before
+firing in this mode. There is a short delay before firing begins with the
+secondary fire mode (much like the [Rocklet Rifle](Rocklet_Rifle.md)), with a
+distinct sound. This can sometimes give your target enough warning to move out
+of the way.
 
-At close range, the Spear will kill a soldier wearing
-[Rexo](Rexo.md) armor in 5 shots. The
-[Eraser](../items/Eraser.md) and [Stinger](Stinger.md) function
+At close range, the Spear will kill a soldier wearing [Rexo](Rexo.md) armor in 5
+shots. The [Eraser](../items/Eraser.md) and [Stinger](Stinger.md) function
 identically.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:New
+
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

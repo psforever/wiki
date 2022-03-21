@@ -216,12 +216,10 @@
 </tbody>
 </table>
 
-This merit, available only to [New
-Conglomerate](../etc/New_Conglomerate.md) players, is awarded for kills
-made by using the [NC](../etc/New_Conglomerate.md) version of the [One-Manned Field
-Turret](../weapons/One-Manned_Field_Turret.md): The
-[Osprey](../Osprey.md). These kills also count towards the general
-[Turret Gunner](Turret_Gunner.md) [Merit
-Commendation](Merit_Commendations.md).
+This merit, available only to [New Conglomerate](../etc/New_Conglomerate.md)
+players, is awarded for kills made by using the [NC](../etc/New_Conglomerate.md)
+version of the [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md):
+The [Osprey](../Osprey.md). These kills also count towards the general
+[Turret Gunner](Turret_Gunner.md) [Merit Commendation](Merit_Commendations.md).
 
 <!--[category:Merits](category:Merits.md)-->

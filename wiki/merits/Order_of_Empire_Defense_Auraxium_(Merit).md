@@ -104,11 +104,10 @@
 </tbody>
 </table>
 
-The seventh and final stage of the "[Empire Defense
-series](Defense_Merit_Commendations.md#Empire_Defense_Merits)"
+The seventh and final stage of the
+"[Empire Defense series](Defense_Merit_Commendations.md#Empire_Defense_Merits)"
 of Commendations
 
-This Merit is awarded for killing Enemies while using any means
-necessary.
+This Merit is awarded for killing Enemies while using any means necessary.
 
 <!--[category:Merits](category:Merits.md)-->

@@ -218,13 +218,12 @@
 </tbody>
 </table>
 
-Earned for the number of kills your gunner(s) scores while you are
-driving a ground vehicle.
+Earned for the number of kills your gunner(s) scores while you are driving a
+ground vehicle.
 
-**Note that the Qualification to Platinum levels of this Merit
-Commendation are exactly the same as the Qualification to Platinum
-levels of the [Transport
-Blockade](</Transport_Blockade_(Merit)>) Merit Commendation.
-This is a mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
+**Note that the Qualification to Platinum levels of this Merit Commendation are
+exactly the same as the Qualification to Platinum levels of the
+[Transport Blockade](<Transport_Blockade_(Merit).md>) Merit Commendation. This
+is a mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
 
 <!--[category:Merits](category:Merits.md)-->

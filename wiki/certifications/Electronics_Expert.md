@@ -9,7 +9,7 @@
 **Electronics Expert**
 
 Provides access to the [Expert Hacking](Expert_Hacking.md) and
-[Data Corruption](Data_Corruption.md)
-[Certifications](Certifications.md) at a 1 point discount.
+[Data Corruption](Data_Corruption.md) [Certifications](Certifications.md) at a 1
+point discount.
 
 <!--[Category:Certification](Category:Certification.md)-->

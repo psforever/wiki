@@ -25,8 +25,7 @@ alphabetically.
 
 ### Armor Type
 
-- [Happydevil043](Happydevil043.md)'s guide to the armor
-  types.
+- [Happydevil043](Happydevil043.md)'s guide to the armor types.
 
 ### Aviation
 
@@ -35,8 +34,8 @@ alphabetically.
 
 ### Facility Defense/Offense
 
-- [ArmorDeth](Armordeth.md) Backdoor Boom: The
-  [armordeth](Armordeth.md) Ant Trap
+- [ArmorDeth](Armordeth.md) Backdoor Boom: The [armordeth](Armordeth.md) Ant
+  Trap
 - [Caudice](Caudice.md): Boomering your front doors
 - [JamQ](JamQ.md)'s guide to draining a base.
 - [DragonJTS](DragonJTS.md)'s guide to tower defense/assault
@@ -44,8 +43,7 @@ alphabetically.
 ### Infiltration
 
 - [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside)
-- [Minignus' Guide for the starting
-  Infiltrator](Minignus_infiltrator_startup.md)
+- [Minignus' Guide for the starting Infiltrator](Minignus_infiltrator_startup.md)
 
 ### Vehicles
 
@@ -57,16 +55,15 @@ alphabetically.
 
 ### MAX armor suits
 
-- [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside):
-  AA [MAX](../items/Mechanized_Assault_Exo-Suit.md) ([TR](Terran_Republic.md)
+- [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside): AA
+  [MAX](../items/Mechanized_Assault_Exo-Suit.md) ([TR](Terran_Republic.md)
   [Burster](../items/Burster.md) Config)
 - [Mudwink's TR MAX Highlights](Mudwink.md):
 
 ### Weaponry
 
 - [Elana](Elana.md)'s guide to spikering.
-- [Niven's Notes:
-  Striker](Niven.md's_Notes#Niven's_Notes:_Striker)
+- [Niven's Notes: Striker](Niven.md's_Notes#Niven's_Notes:_Striker)
 - [Minignus' Grunt Help](Minignus_grunt_help.md)
 
 [\*](category:Strategy.md)

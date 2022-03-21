@@ -450,8 +450,8 @@
 </table>
 
 A six-level Merit awarded for using a handheld weapon of an opposing
-[Empire](../terminology/Empire.md).
-This can be a Weapon from one of the following classes:
+[Empire](../terminology/Empire.md). This can be a Weapon from one of the
+following classes:
 
 - [Standard Assault](../certifications/Standard_Assault.md)
 - [Medium Assault](../certifications/Medium_Assault.md)

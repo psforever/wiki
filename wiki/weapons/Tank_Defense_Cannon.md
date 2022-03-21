@@ -15,10 +15,11 @@
 
 The Tank Defense Cannon is similar to the
 [Lightning](../vehicles/Lightning.md)'s 75mm cannon, but features a faster
-projectile and less arc in its trajectory. It has the longest effective
-range of any [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Vehicular weapon, and thus is
-good for relatively long range area shelling.
+projectile and less arc in its trajectory. It has the longest effective range of
+any [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Vehicular weapon, and thus
+is good for relatively long range area shelling.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
+
 Republic Weapons](Category:Terran_Republic_Weapons.md)

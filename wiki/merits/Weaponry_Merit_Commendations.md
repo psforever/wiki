@@ -1,9 +1,7 @@
-This series of [Merit Commendations](Merit_Commendations.md) is
-awarded for:
+This series of [Merit Commendations](Merit_Commendations.md) is awarded for:
 
 - Kills achieved by using a specific [weapon](../weapons/Weapon.md)
-- Kills achieved by using a specific class of
-  [weapon](../weapons/Weapon.md)
+- Kills achieved by using a specific class of [weapon](../weapons/Weapon.md)
 - Qualifying for multiple merits within the Weapons series
 
 <hr>
@@ -213,7 +211,7 @@ awarded for:
 <tr>
 <td>
 
-[Basic Weapons](</Basic_Weapons_(Merit)>)
+[Basic Weapons](<Basic_Weapons_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -415,7 +413,7 @@ awarded for:
 <tr>
 <td>
 
-[Elite Assault](</Elite_Assault_(Merit)>)
+[Elite Assault](<Elite_Assault_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1047,7 +1045,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Heavy Weapons](</Heavy_Assault_(Merit)>)
+[Heavy Weapons](<Heavy_Assault_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -2392,7 +2390,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Sniper](</Sniper_(Merit)>)
+[Sniper](<Sniper_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -2594,7 +2592,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Special Assault](</Special_Assault_(Merit)>)
+[Special Assault](<Special_Assault_(Merit).md>)
 
 </td>
 <td class="mitd">

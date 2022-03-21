@@ -230,8 +230,8 @@
 </tbody>
 </table>
 
-This Merit is awarded for killing enemy combat aircraft while piloting a
-combat aircraft yourself.
+This Merit is awarded for killing enemy combat aircraft while piloting a combat
+aircraft yourself.
 
 Combat aircraft include the following:
 

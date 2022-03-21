@@ -8,7 +8,7 @@
 
 **Advanced Nanite Transport**
 
-This is not a [certification](Certification.md) per se, as it is
-free for every player.
+This is not a [certification](Certification.md) per se, as it is free for every
+player.
 
 <!--[Category:Certification](../Category:Certification.md)-->

@@ -17,32 +17,31 @@ Shotgun\]\]
 
 [image:Sweeper-Icon.jpg](image:Sweeper-Icon.jpg)
 
-The [Sweeper](Sweeper.md) is the only [Common
-Pool](../terminology/Common_Pool.md) shotgun. Used at close range, it can do
-significant amounts of damage, and although it lacks the large clip and
-triple-shot ability of the [New
-Conglomerate](../etc/New_Conglomerate.md)'s
-[Jackhammer](Jackhammer.md), it does have a slightly tighter
-cone of fire giving it a little more range. It is fairly ineffective at
-anything beyond short range, so is only useful for indoor and
-close-combat encounters. Using Armor Piercing shells, the Sweeper has
-the fastest time to kill of any [Medium
-Assault](../certifications/Medium_Assault.md) weaponry against
+The [Sweeper](Sweeper.md) is the only
+[Common Pool](../terminology/Common_Pool.md) shotgun. Used at close range, it
+can do significant amounts of damage, and although it lacks the large clip and
+triple-shot ability of the [New Conglomerate](../etc/New_Conglomerate.md)'s
+[Jackhammer](Jackhammer.md), it does have a slightly tighter cone of fire giving
+it a little more range. It is fairly ineffective at anything beyond short range,
+so is only useful for indoor and close-combat encounters. Using Armor Piercing
+shells, the Sweeper has the fastest time to kill of any
+[Medium Assault](../certifications/Medium_Assault.md) weaponry against
 [MAX](../items/Mechanized_Assault_Exo-Suit.md) units.
 
 Shots to kill (Close to Medium Range):
 
 |                                                        |                                                 |
 | ------------------------------------------------------ | ----------------------------------------------- |
-| [Standard Exo-Suit](armor/Standard_Exo-Suit.md)        | 2 shots                                         |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 2 shots                                         |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3 shots                                         |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 4 shots                                         |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 12 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
-Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
+[Empire Incentives](../etc/Empire_Incentives.md) applied)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
+
 Weapons](Category:Common_Pool_Weapons.md)

@@ -10,11 +10,9 @@ Tower description
 
 ## Specific Tower Features
 
-- [Phalanx](../items/Phalanx.md) Wall Turret - [Air
-  tower](Air_tower.md) and [Gun tower](Gun_tower.md)
-  only
-- [Landing Pad](../items/Landing_Pad.md) - [Air
-  tower](Air_tower.md) only
+- [Phalanx](../items/Phalanx.md) Wall Turret - [Air tower](Air_tower.md) and
+  [Gun tower](Gun_tower.md) only
+- [Landing Pad](../items/Landing_Pad.md) - [Air tower](Air_tower.md) only
 
 ## Types of Towers
 

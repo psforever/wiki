@@ -16,33 +16,31 @@
 
 **Leviathan**
 
-The _Leviathan_ is the Vanu Sovereignty's heavy troop transport vehicle.
-It features 2 75mm and 2 [Flux Cannons](../weapons/Flux_Cannon.md) on the
-top and 2 [Ballguns](../items/Ballgun.md) on the side. The Leviathan can
-pass through enemy [Shield Module](../items/Shield_Module.md) defenses.
+The _Leviathan_ is the Vanu Sovereignty's heavy troop transport vehicle. It
+features 2 75mm and 2 [Flux Cannons](../weapons/Flux_Cannon.md) on the top and 2
+[Ballguns](../items/Ballgun.md) on the side. The Leviathan can pass through
+enemy [Shield Module](../items/Shield_Module.md) defenses.
 
-The Flux Cannons are different than that fired from the
-[Thresher](Thresher.md) in that the projectile speed is
-significantly faster, but the damage is slightly reduced and has no
-splash damage. They are best used against enemy vehicles and aircraft,
-not infantry.
+The Flux Cannons are different than that fired from the [Thresher](Thresher.md)
+in that the projectile speed is significantly faster, but the damage is slightly
+reduced and has no splash damage. They are best used against enemy vehicles and
+aircraft, not infantry.
 
-The driver can wear up to [Reinforced
-Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor. The driver also has
-access to an [EMP](../commands/EMP.md) blast (default key: "b"). The
-capacitor must recharge before it can be fired again. The capacitor
-status is shown on the [HUD](../etc/Heads-up_Display.md) bar. The driver can also
-activate the vehicle horn (default key: "f").
+The driver can wear up to [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md)
+armor. The driver also has access to an [EMP](../commands/EMP.md) blast (default
+key: "b"). The capacitor must recharge before it can be fired again. The
+capacitor status is shown on the [HUD](../etc/Heads-up_Display.md) bar. The
+driver can also activate the vehicle horn (default key: "f").
 
-The side [Ballguns](../items/Ballgun.md) have a limited view, but if the
-user has the [Darklight](../implants/Darklight.md)
+The side [Ballguns](../items/Ballgun.md) have a limited view, but if the user
+has the [Darklight](../implants/Darklight.md)
 [Implant](../implants/Implants.md), he/she can see
-[cloaked](../items/Infiltration_Suit.md) enemies at a longer range than
-normal, providing excellent side defense.
+[cloaked](../items/Infiltration_Suit.md) enemies at a longer range than normal,
+providing excellent side defense.
 
-[category:Vanu Sovereignty
-Vehicles](category:Vanu_Sovereignty_Vehicles.md)
+[category:Vanu Sovereignty Vehicles](category:Vanu_Sovereignty_Vehicles.md)
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Ground
+
 Vehicles](Category:Ground_Vehicles.md)

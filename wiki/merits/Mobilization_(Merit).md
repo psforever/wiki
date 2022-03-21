@@ -75,8 +75,7 @@ August 2004, Orlando, Fl.
 
 Awarded to attendees of this event by [Zatozia](Zatozia.md).
 
-Planetside Syndicate Conference, organized by
-[Triggar](user:Triggar.md).
+Planetside Syndicate Conference, organized by [Triggar](user:Triggar.md).
 
 July 2005, Orlando, Fl.
 

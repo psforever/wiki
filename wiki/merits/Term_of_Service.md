@@ -466,23 +466,23 @@
 </tbody>
 </table>
 
-These [Merits](Merit_Commendations.md) are awarded to player
-characters (not game accounts) every real-time year that they have
-served their [Empire](../terminology/Empire.md). Once earned, the highest level
-of the merit is automatically displayed on your avatar's shoulder (upon
-your next log-in to the game) in a special 4th display area above the
-other three. The highest **Term of Service** merit earned is always
-displayed and cannot be removed. The merit series stops at year 6.
+These [Merits](Merit_Commendations.md) are awarded to player characters (not
+game accounts) every real-time year that they have served their
+[Empire](../terminology/Empire.md). Once earned, the highest level of the merit
+is automatically displayed on your avatar's shoulder (upon your next log-in to
+the game) in a special 4th display area above the other three. The highest
+**Term of Service** merit earned is always displayed and cannot be removed. The
+merit series stops at year 6.
 
-Upon earning certain **Term of Service** merits, some hand-held weaponry
-and [armor](Armor.md) can be obtained for free, without the need
-for the normally associated [certification](../certifications/Certification.md):
+Upon earning certain **Term of Service** merits, some hand-held weaponry and
+[armor](Armor.md) can be obtained for free, without the need for the normally
+associated [certification](../certifications/Certification.md):
 
-- **Two Year Term of Service Award**: [Heavy Scout
-  Rifle](../weapons/Heavy_Scout_Rifle.md) and
+- **Two Year Term of Service Award**:
+  [Heavy Scout Rifle](../weapons/Heavy_Scout_Rifle.md) and
   [Scorpion](../weapons/Scorpion.md)
 - **Three Year Term of Service Award**: [Dragon](../weapons/Dragon.md)
-- **Five Year Term of Service Award**: [Reinforced
-  Exo-Suit](</Reinforced_Exo-Suit_(Certification)>)
+- **Five Year Term of Service Award**:
+  [Reinforced Exo-Suit](<Reinforced_Exo-Suit_(Certification).md>)
 
 <!--[category:Merits](category:Merits.md)-->

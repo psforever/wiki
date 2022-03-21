@@ -18,19 +18,17 @@
 
 A distant yellow sun does little to warm this permafrost planet.
 
-Extremely tall cliffs create chasms and blocks that challenge the
-tactical mind of any Commander. Cliffs abound and a misplaced footstep
-can send you hurtling to your doom. Air vehicles can cross terrain
-quickly, but foot soldiers and ground vehicles find that many miles lay
-between point A and point B due to successive switchbacks and roundabout
-roads crawling up the vertical cliffsides.
+Extremely tall cliffs create chasms and blocks that challenge the tactical mind
+of any Commander. Cliffs abound and a misplaced footstep can send you hurtling
+to your doom. Air vehicles can cross terrain quickly, but foot soldiers and
+ground vehicles find that many miles lay between point A and point B due to
+successive switchbacks and roundabout roads crawling up the vertical cliffsides.
 
-The central plateau that houses the capitol,
-[Anguta](../facilities/Anguta.md), and two of its sub-capitols rises high
-above the rest of the continent.
+The central plateau that houses the capitol, [Anguta](../facilities/Anguta.md),
+and two of its sub-capitols rises high above the rest of the continent.
 
-Ceryshen is a [Home Continent](Home_Continent.md). See [Home
-Continent](Home_Continent.md) for the current empire
+Ceryshen is a [Home Continent](Home_Continent.md). See
+[Home Continent](Home_Continent.md) for the current empire
 [Sanctuary](Sanctuary.md) links.
 
 This continent is also refered to as

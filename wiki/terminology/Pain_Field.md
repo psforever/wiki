@@ -1,25 +1,24 @@
-A [Pain Field](Pain_Field.md) is an area within (and extending
-slightly outside of) a [Respawn room](../locations/Spawn_Room.md) and
-[Generator](../items/Generator.md) which causes direct health damage to
-all enemy units within its range. [Pain Fields](Pain_Field.md)
-are typically located within all [Respawn
-rooms](../locations/Spawn_Room.md) (including [Tower](../locations/Towers.md) and
-[Cavern](../locations/Caverns.md) spawn rooms). [Aegis Shield
-Generators](../weapons/Aegis_Shield_Generator.md) can also have pain fields
-if infected by an enemy [Virus](Virus.md).
+A [Pain Field](Pain_Field.md) is an area within (and extending slightly outside
+of) a [Respawn room](../locations/Spawn_Room.md) and
+[Generator](../items/Generator.md) which causes direct health damage to all
+enemy units within its range. [Pain Fields](Pain_Field.md) are typically located
+within all [Respawn rooms](../locations/Spawn_Room.md) (including
+[Tower](../locations/Towers.md) and [Cavern](../locations/Caverns.md) spawn
+rooms). [Aegis Shield Generators](../weapons/Aegis_Shield_Generator.md) can also
+have pain fields if infected by an enemy [Virus](Virus.md).
 
-The [Pain Field](Pain_Field.md) at a surface
-[facility](Facility.md) can be enhanced in two ways. The first
-is by the addition of a [Pain Module](../etc/Pain_Module.md)
-[benefit](../etc/Module_benefit.md) to the facility. The second is by
-upgrades made by [Expert Hackers](../certifications/Expert_Hacking.md) using their
-[REK](../weapons/Remote_Electronics_Kit.md) to hack a facility's [Matrix
-Panel](../items/Matrix_Panel.md) and/or [Generator
-Terminal](../items/Generator_Terminal.md). The [Sensor
-Shield](../implants/Sensor_Shield.md) [Implant](../implants/Implants.md) will
-shield the user from damage from an un-upgraded surface spawn room only.
-The damage of the pain field is dependent on several factors, summarized
-in the following table:
+The [Pain Field](Pain_Field.md) at a surface [facility](Facility.md) can be
+enhanced in two ways. The first is by the addition of a
+[Pain Module](../etc/Pain_Module.md) [benefit](../etc/Module_benefit.md) to the
+facility. The second is by upgrades made by
+[Expert Hackers](../certifications/Expert_Hacking.md) using their
+[REK](../weapons/Remote_Electronics_Kit.md) to hack a facility's
+[Matrix Panel](../items/Matrix_Panel.md) and/or
+[Generator Terminal](../items/Generator_Terminal.md). The
+[Sensor Shield](../implants/Sensor_Shield.md) [Implant](../implants/Implants.md)
+will shield the user from damage from an un-upgraded surface spawn room only.
+The damage of the pain field is dependent on several factors, summarized in the
+following table:
 
 <table border="2">
 <tr>
@@ -317,4 +316,5 @@ No
 </table>
 
 <!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
+
 Guides](Category:Game_Guides.md)

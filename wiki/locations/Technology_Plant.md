@@ -1,5 +1,5 @@
-![](../images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg"),
-[Esamir](Esamir.md) as seen from above\]\]
+![](../images/Dagur_overhead.jpg "fig:Dagur_overhead.jpg"), [Esamir](Esamir.md)
+as seen from above\]\]
 
 ## Base Facility Specs
 
@@ -18,22 +18,21 @@
 ## Description
 
 ![](../images/Techplant.jpg "fig:Techplant.jpg") Technology Plants are arguably
-the most important type of [facility](Facilities.md) on a
-continent, as its [base benefit](../terminology/Facility_Linked_Benefit.md)
-allows acquisition of [Advanced Assault vehicles and
-aircraft](../vehicles/Advanced_Assault_vehicles.md). Any facility linked to
-this base along a lattice will receive this powerful benefit. Without
-it, Empires must purchase advanced vehicles from their
+the most important type of [facility](Facilities.md) on a continent, as its
+[base benefit](../terminology/Facility_Linked_Benefit.md) allows acquisition of
+[Advanced Assault vehicles and aircraft](../vehicles/Advanced_Assault_vehicles.md).
+Any facility linked to this base along a lattice will receive this powerful
+benefit. Without it, Empires must purchase advanced vehicles from their
 [Sanctuary](Sanctuary.md).
 
-The [Control Console](Control_Console.md) for this base is on
-the top floor, while the [LLU](../terminology/Lattice_Logic_Unit.md) Socket is located on
-Level 1 in the basement.
+The [Control Console](Control_Console.md) for this base is on the top floor,
+while the [LLU](../terminology/Lattice_Logic_Unit.md) Socket is located on Level
+1 in the basement.
 
 Another unique feature of Tech Plants, as they are called, is the
-[Vehicle Terminals](Vehicle_Terminal.md) are located indoors. On
-the top floor are two terminals for the Air Vehicle creation pads, and
-another on Level 2 for the Ground Vehicle creation pad.
+[Vehicle Terminals](Vehicle_Terminal.md) are located indoors. On the top floor
+are two terminals for the Air Vehicle creation pads, and another on Level 2 for
+the Ground Vehicle creation pad.
 
 ## Technology Plant Locations
 

@@ -17,37 +17,33 @@
 
 ## Description
 
-Heavy clouds hang in the atmosphere here and the oxygen levels are low,
-although the air is dense with other elements. (Troops regularly
-activate their bio-containment fields when operating on Hossin.)
+Heavy clouds hang in the atmosphere here and the oxygen levels are low, although
+the air is dense with other elements. (Troops regularly activate their
+bio-containment fields when operating on Hossin.)
 
-This lush, temperate continent has low-lying hills and boggy swamps
-dotting the terrain that lure the unwary into thinking straight-line of
-travel would be easiest, much to their later dismay.
+This lush, temperate continent has low-lying hills and boggy swamps dotting the
+terrain that lure the unwary into thinking straight-line of travel would be
+easiest, much to their later dismay.
 
-The [continent](Continent.md) is divided by a river in the
-center which splits and surrounds an island on its way through the
-continent. On this island is the [Capitol](Capitol.md) of
-Hossin, [Voltan](../facilities/Voltan.md), an [Interlink
-Facility](../terminology/Interlink.md).
+The [continent](Continent.md) is divided by a river in the center which splits
+and surrounds an island on its way through the continent. On this island is the
+[Capitol](Capitol.md) of Hossin, [Voltan](../facilities/Voltan.md), an
+[Interlink Facility](../terminology/Interlink.md).
 
-Hossin is a [Home Continent](Home_Continent.md). A
-[Sanctuary](Sanctuary.md) warpgate links to the
-[Mulac](../facilities/Mulac.md) Technology Plant in the south east. The
-continent's other [warpgates](Warpgate.md) link from
+Hossin is a [Home Continent](Home_Continent.md). A [Sanctuary](Sanctuary.md)
+warpgate links to the [Mulac](../facilities/Mulac.md) Technology Plant in the
+south east. The continent's other [warpgates](Warpgate.md) link from
 [Ghanon](../facilities/Ghanon.md) to [Sungrey](../facilities/Sungrey.md) on
 [Amerish](Amerish.md), [Hurakan](../facilities/Hurakan.md) to
 [Wakea](../facilities/Wakea.md) on [Searhus](Searhus.md), and
 [Chac](../facilities/Chac.md) to [Baal](../facilities/Baal.md) on
-[Ishundar](Ishundar.md). See [Home
-Continent](Home_Continent.md) for the current empire sanctuary
-links.
+[Ishundar](Ishundar.md). See [Home Continent](Home_Continent.md) for the current
+empire sanctuary links.
 
 This continent is also refered to as
 [Hos](../terminology/Acronyms_and_Slang.md).
 
-Source: PlanetSide In-game descriptions, pre- and
-post-[Bending](Bending.md).
+Source: PlanetSide In-game descriptions, pre- and post-[Bending](Bending.md).
 
 ## Base [Facilities](Facilities.md)
 

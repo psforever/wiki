@@ -8,12 +8,13 @@ Gameplay Fundamentals: How to do things, and what you may want to do.
 - Groups & organizations: ([Squads](../terminology/Squad.md),
   [Platoons](../terminology/Platoon.md), [Outfits](../terminology/Outfit.md))
 - [Communications and Commands](../commands/In-Game_Commands.md).
-- Character advancement: [Battle](../terminology/Battle_Rank.md) and [Command
-  Ranks](../terminology/Command_Rank.md), [Implants](../implants/Implants.md),
+- Character advancement: [Battle](../terminology/Battle_Rank.md) and
+  [Command Ranks](../terminology/Command_Rank.md),
+  [Implants](../implants/Implants.md),
   [Certifications](../certifications/Certifications.md)
 - [Heads-up Display](Heads-up_Display.md)(HUD): In-Game
-  [Weapon](../weapons/Weapon.md) & [Vehicle](../vehicles/Vehicle.md) use,
-  Icons, Status bars
+  [Weapon](../weapons/Weapon.md) & [Vehicle](../vehicles/Vehicle.md) use, Icons,
+  Status bars
 - [Menus](Menu.md)
 - [Maps](../terminology/Map.md)
 - [Lattice](../terminology/Lattice.md)

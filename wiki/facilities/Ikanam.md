@@ -4,14 +4,12 @@ Amerish, in grid G15.
 
 Ikanam has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md)
-  [Cetan](Cetan.md)
-- [Technology Plant](../locations/Technology_Plant.md)
-  [Heyoka](Heyoka.md)
+- [Interlink Facility](../terminology/Interlink.md) [Cetan](Cetan.md)
+- [Technology Plant](../locations/Technology_Plant.md) [Heyoka](Heyoka.md)
 - A [Sanctuary](../locations/Sanctuary.md) Warpgate
 - A [Geowarp](../locations/Geowarp.md)
 
-See [Home Continent](locations/Home_Continent.md) for the current empire
+See [Home Continent](../locations/Home_Continent.md) for the current empire
 Sanctuary links.
 
 Ikanam has a Gun Tower to it's East, just outside it's

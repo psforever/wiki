@@ -7,13 +7,13 @@
 
 **Flak Cannon Ammunition**
 
-These rounds explode in the proximity to enemy aircraft. The rounds do
-minor damage to [infantry](../terminology/Infantry.md) and
+These rounds explode in the proximity to enemy aircraft. The rounds do minor
+damage to [infantry](../terminology/Infantry.md) and
 [vehicles](../vehicles/Vehicle.md) and can pass through the shields of
-[BFRs](../vehicles/BattleFrame_Robotics.md). The boxes can be obtained from any [Equipment
-Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
-vehicle's [trunk](../terminology/Trunk.md) or acquired while in the vehicle
-from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
+[BFRs](../vehicles/BattleFrame_Robotics.md). The boxes can be obtained from any
+[Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
+vehicle's [trunk](../terminology/Trunk.md) or acquired while in the vehicle from
+a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Ammunition](Category:Ammunition.md)-->

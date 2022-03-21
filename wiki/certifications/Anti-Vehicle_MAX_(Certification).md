@@ -8,7 +8,7 @@
 
 **Anti-Vehicle MAX**
 
-Against lightly armored ground vehicles, and other MAX units, the
-Anti-Vehicular configuration is the best choice.
+Against lightly armored ground vehicles, and other MAX units, the Anti-Vehicular
+configuration is the best choice.
 
 <!--[Category:Certification](../Category:Certification.md)-->

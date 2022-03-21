@@ -189,23 +189,20 @@
 </tbody>
 </table>
 
-Looking at this Merit (with the first three levels) shows a distinct
-similarity to a Castle's Tower. A red castle has been the symbol of
-military [Combat
-Engineers](http://en.wikipedia.org/wiki/U.S._Army_Corp_of_Engineers)
+Looking at this Merit (with the first three levels) shows a distinct similarity
+to a Castle's Tower. A red castle has been the symbol of military
+[Combat Engineers](http://en.wikipedia.org/wiki/U.S._Army_Corp_of_Engineers)
 since 1902.
 
 This Merit is awarded for amassing kills with one of the following:
 
-- [Spitfire
-  Turret](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret)
+- [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret)
 - [Boomer](../weapons/Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29)
-- [High Explosive
-  Mine](../weapons/Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29)
+- [High Explosive Mine](../weapons/Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29)
 - [Cerberus Turret](../weapons/Cerberus_Turret.md)
 - [Shadow Turret](../weapons/Shadow_Turret.md)
 
-**Note: The Gold and Platinum awards have the same graphic. This is a
-mistake by [SOE](../etc/Sony_Online_Entertainment.md).**
+**Note: The Gold and Platinum awards have the same graphic. This is a mistake by
+[SOE](../etc/Sony_Online_Entertainment.md).**
 
 <!--[category:Merits](category:Merits.md)-->

@@ -36,8 +36,8 @@
 </tbody>
 </table>
 
-This Merit is awarded for completing the Qualification level of the
-following Merits:
+This Merit is awarded for completing the Qualification level of the following
+Merits:
 
 - [AMS Support](AMS_Support.md)
 - [Lodestar Support](Lodestar_Support.md)

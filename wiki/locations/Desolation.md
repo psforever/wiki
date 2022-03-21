@@ -13,28 +13,29 @@
 
 ## Topography
 
-The sand dunes that stretch across most of the island provide enough
-cover for vehiles to go "hull down" against, and for infantry to use as
-LOS blocks. Squads of infantry and vehicles will do best here when
-coordinated as groups. Stragglers that try to cross the dunes alone are
-ripe for snipers and air cavalry.
+The sand dunes that stretch across most of the island provide enough cover for
+vehiles to go "hull down" against, and for infantry to use as LOS blocks. Squads
+of infantry and vehicles will do best here when coordinated as groups.
+Stragglers that try to cross the dunes alone are ripe for snipers and air
+cavalry.
 
 ## Limitations
 
-As is the case with all [Battle Islands](Battle_Islands.md),
-heavy weapons and vehicles do not operate here. Not permitted are [Heavy
-Assault](../certifications/Heavy_Assault.md) weapons,
+As is the case with all [Battle Islands](Battle_Islands.md), heavy weapons and
+vehicles do not operate here. Not permitted are
+[Heavy Assault](../certifications/Heavy_Assault.md) weapons,
 [Reavers](../vehicles/Reaver.md), [Artillery](../terminology/Artillery.md),
-[BFRs](../vehicles/BattleFrame_Robotics.md), [Medium Battle
-Tanks](../items/Medium_Battle_Tank.md), and Empire Specific
-[Deliverer](vehicles/Deliverer.md) variants.
+[BFRs](../vehicles/BattleFrame_Robotics.md),
+[Medium Battle Tanks](../items/Medium_Battle_Tank.md), and Empire Specific
+[Deliverer](../vehicles/Deliverer.md) variants.
 
 ## [Facilities](Facilities.md)
 
-All three bases on this island are [LLU](../terminology/Lattice_Logic_Unit.md)-capture
-[Technology Plants](Technology_Plant.md). The lack of a [Bio
-Laboratory](Bio_Laboratory.md) here means that spawn times are
-not modified by anything but [Modules](../etc/Modules.md).
+All three bases on this island are
+[LLU](../terminology/Lattice_Logic_Unit.md)-capture
+[Technology Plants](Technology_Plant.md). The lack of a
+[Bio Laboratory](Bio_Laboratory.md) here means that spawn times are not modified
+by anything but [Modules](../etc/Modules.md).
 
 ### [Technology Plants](Technology_Plant.md)
 

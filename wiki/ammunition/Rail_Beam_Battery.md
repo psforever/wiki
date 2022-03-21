@@ -8,13 +8,12 @@
 **Rail Beam Battery**
 
 This [ammunition](../items/Ammunition.md) is used by the
-[Magrider](../vehicles/Magrider.md)'s gunner's weapon. It does a rather
-small amount of damage, but the rate of fire, straight trajectory of the
-weapon, and the splash damage make up for it. The boxes can be obtained
-from any [Equipment Terminal](../items/Equipment_Terminal.md) to be
-hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
-[trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
-[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
+[Magrider](../vehicles/Magrider.md)'s gunner's weapon. It does a rather small
+amount of damage, but the rate of fire, straight trajectory of the weapon, and
+the splash damage make up for it. The boxes can be obtained from any
+[Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
+[vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or acquired
+while in the vehicle from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Ammunition](Category:Ammunition.md)-->

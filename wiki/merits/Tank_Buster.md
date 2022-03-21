@@ -212,8 +212,8 @@
 </tbody>
 </table>
 
-The Tank Buster merit is earned by destroying enemy tanks.
-The following vehicles count toward this Merit:
+The Tank Buster merit is earned by destroying enemy tanks. The following
+vehicles count toward this Merit:
 
 - [Lightning](../vehicles/Lightning.md)
 - [Vanguard](../vehicles/Vanguard.md)
@@ -221,7 +221,6 @@ The following vehicles count toward this Merit:
 - [Prowler](../vehicles/Prowler.md)
 - All [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) Variants
 
-Each individual tank only counts once, regardless of the number of
-occupants.
+Each individual tank only counts once, regardless of the number of occupants.
 
 <!--[category:Merits](category:Merits.md)-->

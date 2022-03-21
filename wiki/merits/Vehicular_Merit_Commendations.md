@@ -1,9 +1,10 @@
-This series of [Merit Commendations](Merit_Commendations.md) are
-given out for vehicle-related tasks, such as:
+This series of [Merit Commendations](Merit_Commendations.md) are given out for
+vehicle-related tasks, such as:
 
 - Getting kills while driving a certain vehicle
 - Kills made by crew in a vehicle you are operating
-- Kills made while operating [MAX](../items/Mechanized_Assault_Exo-Suit.md) Armor
+- Kills made while operating [MAX](../items/Mechanized_Assault_Exo-Suit.md)
+  Armor
 - Kills made while gunning in a certain vehicle
 
 <hr>
@@ -620,7 +621,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td rowspan="2">
 
-[BFR](</BFR_(Merit)>)
+[BFR](<BFR_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -771,7 +772,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Bombardier](</Bombardier_(Merit)>)
+[Bombardier](<Bombardier_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1982,7 +1983,7 @@ given out for vehicle-related tasks, such as:
 <tr>
 <td rowspan="2">
 
-[MAX Operator](</MAX_Operator_(Merit)>)
+[MAX Operator](<MAX_Operator_(Merit).md>)
 
 </td>
 <td class="mit">

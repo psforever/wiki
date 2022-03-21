@@ -34,21 +34,18 @@ Server times given in their local timezones:
 
 #### Friday
 
-TR won the [Ishundar](../locations/Ishundar.md)
-[Monolith](../items/Monolith.md) event by capturing the
-[Monolith](../items/Monolith.md) and sucessfully delivering it to the
-capital's control console, while the VS maintained control the northern
-area of [Ishundar](../locations/Ishundar.md) helping the TR with the
-[Monolith](../items/Monolith.md). The NC managed to hold facilities to
-the South and East, but couldn't overrun the two empires that were
-working together.
+TR won the [Ishundar](../locations/Ishundar.md) [Monolith](../items/Monolith.md)
+event by capturing the [Monolith](../items/Monolith.md) and sucessfully
+delivering it to the capital's control console, while the VS maintained control
+the northern area of [Ishundar](../locations/Ishundar.md) helping the TR with
+the [Monolith](../items/Monolith.md). The NC managed to hold facilities to the
+South and East, but couldn't overrun the two empires that were working together.
 
 The VS won against the TR on [Amerish](../locations/Amerish.md)
 
 #### Saturday
 
-1200  VS attacks NC: VS won against the NC on
-[Solsar](../locations/Solsar.md)
+1200  VS attacks NC: VS won against the NC on [Solsar](../locations/Solsar.md)
 
 1600  NC attacks TR: NC won against the TR on
 [Forseral](../locations/Forseral.md)
@@ -69,10 +66,10 @@ The VS won against the TR on [Amerish](../locations/Amerish.md)
 #### Friday
 
 NC won the [Cyssor](../locations/Cyssor.md) [Monolith](../items/Monolith.md)
-event by holding the capital: [Gunuku](../facilities/Gunuku.md), resulting in
-a default win, while the VS maintained control of the
-[Monolith](../items/Monolith.md). The TR held facilities in the South and
-East, and came in second place.
+event by holding the capital: [Gunuku](../facilities/Gunuku.md), resulting in a
+default win, while the VS maintained control of the
+[Monolith](../items/Monolith.md). The TR held facilities in the South and East,
+and came in second place.
 
 The NC won against the TR on [Forseral](../locations/Forseral.md)
 
@@ -81,8 +78,7 @@ The NC won against the TR on [Forseral](../locations/Forseral.md)
 1200 TR attacks VS: VS held off the TR attack on
 [Amerish](../locations/Amerish.md)
 
-1600  VS attacks NC: VS won against the NC on
-[Solsar](../locations/Solsar.md)
+1600  VS attacks NC: VS won against the NC on [Solsar](../locations/Solsar.md)
 
 2000 NC attacks VS: VS held off the NC attack on
 [Esamir](../locations/Esamir.md)
@@ -101,8 +97,8 @@ The NC won against the TR on [Forseral](../locations/Forseral.md)
 
 VS won the [Monolith](../items/Monolith.md) event by holding the capital,
 resulting in a default win, while the TR maintained control of the
-[Monolith](../items/Monolith.md). The NC held facilities in the South and
-East, and came in second place.
+[Monolith](../items/Monolith.md). The NC held facilities in the South and East,
+and came in second place.
 
 NC held off the VS attack on [Solsar](../locations/Solsar.md)
 

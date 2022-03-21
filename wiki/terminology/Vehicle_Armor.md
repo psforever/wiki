@@ -1,15 +1,15 @@
-Each [vehicle](../Vehicle.md) in
-[Planetside](../etc/PlanetSide.md) has a different armor value.
-[Weapons](../weapons/Weapon.md) do different amounts of damage to each
-vehicle, depending on the type of vehicle targeted. For example, the
-[Lancer](../weapons/Lancer.md) does 175 damage to ground vehicles but only
-125 damage to aircraft. Similarly, anti-aircraft [MAX](../items/Mechanized_Assault_Exo-Suit.md)
-units do more damage to aircraft than ground vehicles. If your
-[empire](Empire.md) owns the [Cyssor](../locations/Cyssor.md)
-[benefit](Empire_Benefit.md), the base armor of your vehicle is
-increased by 10%. [Amp Station](../locations/Amp_Station.md) shields, when at
-full strength, add an additional 20% of armor. The Cyssor benefit does
-not increase the amount of shields on the vehicle, only the base armor.
+Each [vehicle](../Vehicle.md) in [Planetside](../etc/PlanetSide.md) has a
+different armor value. [Weapons](../weapons/Weapon.md) do different amounts of
+damage to each vehicle, depending on the type of vehicle targeted. For example,
+the [Lancer](../weapons/Lancer.md) does 175 damage to ground vehicles but only
+125 damage to aircraft. Similarly, anti-aircraft
+[MAX](../items/Mechanized_Assault_Exo-Suit.md) units do more damage to aircraft
+than ground vehicles. If your [empire](Empire.md) owns the
+[Cyssor](../locations/Cyssor.md) [benefit](Empire_Benefit.md), the base armor of
+your vehicle is increased by 10%. [Amp Station](../locations/Amp_Station.md)
+shields, when at full strength, add an additional 20% of armor. The Cyssor
+benefit does not increase the amount of shields on the vehicle, only the base
+armor.
 
 <table border="2">
 <tr>
@@ -1102,9 +1102,9 @@ not increase the amount of shields on the vehicle, only the base armor.
 </tr>
 </table>
 
-<sup><b>\*</b></sup>The Galaxy Gunship only takes a percentage of all
-damage incident on it. The "repairable" base armor is 6000, while the
-effective armor is 10500. All values given are the effective armor.
+<sup><b>\*</b></sup>The Galaxy Gunship only takes a percentage of all damage
+incident on it. The "repairable" base armor is 6000, while the effective armor
+is 10500. All values given are the effective armor.
 
 ## BFR Armor Properties
 
@@ -1207,9 +1207,9 @@ effective armor is 10500. All values given are the effective armor.
 </tr>
 </table>
 
-BFR shields take twice as long to regenerate while standing vs. while
-crouched. Once depleted, the shields do not start regenerating for \~2
-seconds.
+BFR shields take twice as long to regenerate while standing vs. while crouched.
+Once depleted, the shields do not start regenerating for \~2 seconds.
 
 <!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
+
 Guides](Category:Game_Guides.md)

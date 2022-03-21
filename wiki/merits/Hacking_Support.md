@@ -218,8 +218,8 @@
 </tbody>
 </table>
 
-Awarded for kills scored by friendly troops after they have used one or
-more of the following that was hacked by you:
+Awarded for kills scored by friendly troops after they have used one or more of
+the following that was hacked by you:
 
 - [Equipment Terminal](../items/Equipment_Terminal.md)
 - [Locker](../items/Lockers.md)
@@ -229,10 +229,11 @@ more of the following that was hacked by you:
 
 These apply to all Ancient terminals as well.
 
-The [Hacking](</Hacking_(Certification)>)
+The [Hacking](<../certifications/Hacking_(Certification).md>)
 [certification](../certifications/Certification.md) is required to gain these
-[Merit Commendations](Merit_Commendations.md), but [Advanced
-Hacking](../certifications/Advanced_Hacking.md) is strongly recommended.
+[Merit Commendations](Merit_Commendations.md), but
+[Advanced Hacking](../certifications/Advanced_Hacking.md) is strongly
+recommended.
 
 The Advanced and Expert awards for this merit can be arranged to form an
 <b>H</b> to designate the bearer as a Hacker:

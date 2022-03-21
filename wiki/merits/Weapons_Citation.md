@@ -92,21 +92,20 @@
 </tbody>
 </table>
 
-These Merits are earned by obtaining the various levels of each of the
-following Merit Classes:
+These Merits are earned by obtaining the various levels of each of the following
+Merit Classes:
 
-- [Basic Weapons](</Basic_Weapons_(Merit)>)
+- [Basic Weapons](<Basic_Weapons_(Merit).md>)
 - [Rifleman](Rifleman.md)
-- [Heavy Assault](</Heavy_Assault_(Merit)>)
-- [Special Assault](</Special_Assault_(Merit)>)
-- [Sniper](</Sniper_(Merit)>)
+- [Heavy Assault](<Heavy_Assault_(Merit).md>)
+- [Special Assault](<Special_Assault_(Merit).md>)
+- [Sniper](<Sniper_(Merit).md>)
 - [Anti-Armor](Anti-Armor.md)
 
-Each of the first three levels of the above merits will yield the
-successive level of Weapons Citation.
+Each of the first three levels of the above merits will yield the successive
+level of Weapons Citation.
 
 **Note:** Completing the Kill Streaks for the above
-[Merits](Merit_Commendations.md) is not required to obtain this
-Merit.
+[Merits](Merit_Commendations.md) is not required to obtain this Merit.
 
 <!--[category:Merits](category:Merits.md)-->

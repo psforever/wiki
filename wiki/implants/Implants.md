@@ -1,39 +1,37 @@
-Implants are cybernetic devices that are installed into various points,
-or **Implant Slots**, of a soldier's body. These devices enhance a
-soldier's abilities to super-human levels in speed, strength, the
-senses, stealth, healing, or battlefield awareness depending on the
-implant chosen.
+Implants are cybernetic devices that are installed into various points, or
+**Implant Slots**, of a soldier's body. These devices enhance a soldier's
+abilities to super-human levels in speed, strength, the senses, stealth,
+healing, or battlefield awareness depending on the implant chosen.
 
-Your character can earn up to a maximum amount of three Implant Slots
-through gaining [Battle Ranks](../terminology/Battle_Rank.md).
+Your character can earn up to a maximum amount of three Implant Slots through
+gaining [Battle Ranks](../terminology/Battle_Rank.md).
 
 - BR6 - First slot
 - BR12 - Second slot
 - BR18 - Third slot
 
-Once a slot has been earned, the actual Implant in it may be changed as
-often as needed; unlike [Certifications](../certifications/Certification.md),
-there is no change-over timer. The only limitation is access to an
+Once a slot has been earned, the actual Implant in it may be changed as often as
+needed; unlike [Certifications](../certifications/Certification.md), there is no
+change-over timer. The only limitation is access to an
 [Implant Terminal](../items/Implant_Terminal.md).
 
 Upon installation, Implants require a brief enabling time, known as the
-[Initialization timer](../items/Initialization_timer.md). Once enabled
-you may switch the implant on and off as needed. When activated,
-implants can quickly use up your [stamina](../terminology/Stamina.md), leaving
-you drained and unable to run, so caution is advised. Running out of
-stamina will also cause all implants to turn off, although they can be
-immediately reactivated once stamina returns to 20 or more points.
+[Initialization timer](../items/Initialization_timer.md). Once enabled you may
+switch the implant on and off as needed. When activated, implants can quickly
+use up your [stamina](../terminology/Stamina.md), leaving you drained and unable
+to run, so caution is advised. Running out of stamina will also cause all
+implants to turn off, although they can be immediately reactivated once stamina
+returns to 20 or more points.
 
-Enemy [Electro-magnetic Pulse (EMP)](../commands/EMP.md) blasts and [Jammer
-grenades](../weapons/Jammer_Grenade.md) will deactive all implants, forcing
-them to reset their timers before they can enable and be activated
+Enemy [Electro-magnetic Pulse (EMP)](../commands/EMP.md) blasts and
+[Jammer grenades](../weapons/Jammer_Grenade.md) will deactive all implants,
+forcing them to reset their timers before they can enable and be activated
 again.
 
-Implants are installed at [Implant
-Terminals](../items/Implant_Terminal.md), located in the [HART
-building](../locations/HART_building.md) of your
-[Empire](../terminology/Empire.md)'s [Sanctuary](../locations/Sanctuary.md), and in
-[Bio Laboratories](../locations/Bio_Laboratory.md).
+Implants are installed at [Implant Terminals](../items/Implant_Terminal.md),
+located in the [HART building](../locations/HART_building.md) of your
+[Empire](../terminology/Empire.md)'s [Sanctuary](../locations/Sanctuary.md), and
+in [Bio Laboratories](../locations/Bio_Laboratory.md).
 
 ## Implant Index
 
@@ -134,8 +132,7 @@ Timer (mm:ss)</p></th>
 
 sp = Stamina Points
 
-Note that you regain 1sp/sec while standing and 2sp/sec while crouched,
-though the use of the regeneration implant is a special case (see
-above).
+Note that you regain 1sp/sec while standing and 2sp/sec while crouched, though
+the use of the regeneration implant is a special case (see above).
 
 [\*](category:Implants.md)

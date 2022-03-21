@@ -1,11 +1,9 @@
 # Exclusive Merits
 
-These extremely rare [Merit
-Commendations](Merit_Commendations.md) are only given out to
-certain people or groups that have:
+These extremely rare [Merit Commendations](Merit_Commendations.md) are only
+given out to certain people or groups that have:
 
-- Attended special [PlanetSide](../etc/PlanetSide.md)
-  [Events](Event.md)
+- Attended special [PlanetSide](../etc/PlanetSide.md) [Events](Event.md)
 - Helped out the community by performing a certain task
 - Won a contest
 - Completed certain in-game requirements
@@ -176,7 +174,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Bending Actor's Award](</Marketing_(Merit)>)
+[Bending Actor's Award](<Marketing_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -252,7 +250,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Customer Service](</Customer_Service_(Merit)>)
+[Customer Service](<Customer_Service_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -290,7 +288,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Devil Dogs Acting Award](</666th_Devil_Dogs_(Merit)>)
+[Devil Dogs Acting Award](<666th_Devil_Dogs_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -329,7 +327,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="2">
 
-[Fan Faire](</Fan_Faire_(Merit)>)
+[Fan Faire](<Fan_Faire_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -618,7 +616,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Halloween Assassin](</Halloween_Assassin_(Merit)>)
+[Halloween Assassin](<Halloween_Assassin_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -709,7 +707,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="2">
 
-[Loser](</Loser_(Merit)>)
+[Loser](<Loser_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -831,7 +829,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="1">
 
-[Mobilization](</Mobilization_(Merit)>)
+[Mobilization](<Mobilization_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -898,7 +896,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Planetary Moviemaker](</Planetary_Moviemaker_(Merit)>)
+[Planetary Moviemaker](<Planetary_Moviemaker_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -936,7 +934,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Stratics.com Historian](</PlanetSide_Stratics_(Merit)>)
+[Stratics.com Historian](<PlanetSide_Stratics_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -974,7 +972,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Player of the Year](</Player_of_the_Year_(Merit)>)
+[Player of the Year](<Player_of_the_Year_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1012,7 +1010,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Strategic](</Strategic_(Merit)>)
+[Strategic](<Strategic_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1263,8 +1261,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Quality Assurance
-Appreciation](</Quality_Assurance_Appreciation_(merit)>)
+[Quality Assurance Appreciation](<Quality_Assurance_Appreciation_(merit).md>)
 
 </td>
 <td class="mitd">
@@ -1302,7 +1299,7 @@ Appreciation](</Quality_Assurance_Appreciation_(merit)>)
 <tr>
 <td>
 
-[PS No. 1 Outfit (ChinaSide)](</PS_No._1_Outfit_(Merit)>)
+[PS No. 1 Outfit (ChinaSide)](<PS_No._1_Outfit_(Merit).md>)
 
 </td>
 <td class="mitd">

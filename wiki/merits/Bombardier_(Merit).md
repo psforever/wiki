@@ -218,8 +218,8 @@
 </tbody>
 </table>
 
-Bombardier is a seven-level Merit for kills achieved while in the
-Bomber's position of a [Liberator](../vehicles/Liberator.md) or
+Bombardier is a seven-level Merit for kills achieved while in the Bomber's
+position of a [Liberator](../vehicles/Liberator.md) or
 [Vulture](../vehicles/Vulture.md).
 
 <!--[category:Merits](category:Merits.md)-->

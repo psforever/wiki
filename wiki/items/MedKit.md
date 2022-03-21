@@ -13,11 +13,11 @@
 
 **Medical Kit (Medkit)**
 
-The standard Medkit restores 25 health points and is a one-use-only
-item. Once equipped, a Medkit shortcut is available on your hotbar for
-quick application during combat.
+The standard Medkit restores 25 health points and is a one-use-only item. Once
+equipped, a Medkit shortcut is available on your hotbar for quick application
+during combat.
 
-The Medkit has a timer associated with use, allowing one heal every
-two-three seconds. It takes up 4x2 inventory units.
+The Medkit has a timer associated with use, allowing one heal every two-three
+seconds. It takes up 4x2 inventory units.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

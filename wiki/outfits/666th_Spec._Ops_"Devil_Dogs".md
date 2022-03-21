@@ -1,7 +1,7 @@
 **The statistics on the page are out of date.**
 
-- The 666th Spec. Ops "Devil Dogs" is the largest and one of the most
-  known [Outfits](../terminology/Outfit.md) in all of
+- The 666th Spec. Ops "Devil Dogs" is the largest and one of the most known
+  [Outfits](../terminology/Outfit.md) in all of
   [PlanetSide](../etc/PlanetSide.md).
 - The 666th Spec. Ops "Devil Dogs" are led by the Outfit Leader
   [EVILPIG](http://www.planetsidestats.net/players.php?world_id=3&char_id=381460)
@@ -10,8 +10,7 @@
 
 <!-- -->
 
-- We have 38 Members that are [Command Rank](../terminology/Command_Rank.md)
-  5
+- We have 38 Members that are [Command Rank](../terminology/Command_Rank.md) 5
 - We have 40 Members that are Command Rank 4
 - We have 57 Members that are [Battle Rank](../terminology/Battle_Rank.md) 25
 - We have 15 Members that are Battle Rank 24
@@ -32,5 +31,5 @@
 
 <!-- -->
 
-- Also check out our [Merit](../merits/Merit_Commendations.md): [666th
-  Spec. Ops "Devil Dogs" Merit](</666th_Devil_Dogs_(Merit)>)
+- Also check out our [Merit](../merits/Merit_Commendations.md): [666th Spec. Ops
+  "Devil Dogs" Merit]../merits/666th*Devil_Dogs*(Merit).md)

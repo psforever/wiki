@@ -1,10 +1,9 @@
 These skills can be applied to your character at the expense of
-[certification points](Certification_points.md), which are
-earned relative to the advancement of your [Battle
-Rank](../terminology/Battle_Rank.md) except on Battle Rank 6, 12, 18, 24, 25,
-28, 30, 32, 34, 36 and 38. Players who have obtained Battle Rank 40 will
-have access to all certifications in-game, without the need to spend
-certification points.
+[certification points](Certification_points.md), which are earned relative to
+the advancement of your [Battle Rank](../terminology/Battle_Rank.md) except on
+Battle Rank 6, 12, 18, 24, 25, 28, 30, 32, 34, 36 and 38. Players who have
+obtained Battle Rank 40 will have access to all certifications in-game, without
+the need to spend certification points.
 
 ## Armor
 

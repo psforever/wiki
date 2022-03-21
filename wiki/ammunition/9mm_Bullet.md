@@ -9,22 +9,19 @@
 
 **9mm Bullet**
 
-9mm Bullets are the ubiquitous ordinance of choice for many of the
-weapons used by the [New Conglomerate](../etc/New_Conglomerate.md) and
-[Terran Republic](../etc/Terran_Republic.md). 9mm ammo can be removed
-from any equipment terminal by any empire. 9mm ammo is especially
-effective against soft or lightly armored targets such as [Infiltration
-Suits](../items/Infiltration_Suit.md) as well as
-[Standard](../armor/Standard_Exo-Suit.md),
-[Agile](../armor/Agile_Exo-Suit.md), and [Reinforced
-Exo-suits](../armor/Reinforced_Exo-Suit.md). Standard 9mm Ammo is
-ineffective at damaging armored targets. While engaging such targets,
-[Armor Piercing 9mm Bullets](Armor_Piercing_9mm_Bullet.md) should be
-employed.
+9mm Bullets are the ubiquitous ordinance of choice for many of the weapons used
+by the [New Conglomerate](../etc/New_Conglomerate.md) and
+[Terran Republic](../etc/Terran_Republic.md). 9mm ammo can be removed from any
+equipment terminal by any empire. 9mm ammo is especially effective against soft
+or lightly armored targets such as
+[Infiltration Suits](../items/Infiltration_Suit.md) as well as
+[Standard](../armor/Standard_Exo-Suit.md), [Agile](../armor/Agile_Exo-Suit.md),
+and [Reinforced Exo-suits](../armor/Reinforced_Exo-Suit.md). Standard 9mm Ammo
+is ineffective at damaging armored targets. While engaging such targets,
+[Armor Piercing 9mm Bullets](Armor_Piercing_9mm_Bullet.md) should be employed.
 
-Since 9mm Bullets are for use in small arms, they can pass through the
-energy shields of [BattleFrame
-Robotics](../vehicles/BattleFrame_Robotics.md).
+Since 9mm Bullets are for use in small arms, they can pass through the energy
+shields of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).
 
 <!--[Category:Game Items](../Category:Game_Items.md)-->
 <!--[Category:Ammunition](../Category:Ammunition.md)-->

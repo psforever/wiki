@@ -9,9 +9,9 @@
 
 **Energy Cell**
 
-Only soldiers of the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) can
-access this type of [ammunition](../items/Ammunition.md) from their
-[equipment terminals](equipment_terminal.md).
+Only soldiers of the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) can access
+this type of [ammunition](../items/Ammunition.md) from their
+[equipment terminals](../items/Equipment_Terminal.md).
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Ammunition](Category:Ammunition.md)-->

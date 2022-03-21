@@ -66,11 +66,10 @@ Advanced Hacking 2 [Hacking](Hacking.md)
 
 [Expert Hacking](Expert_Hacking.md) 2 Advanced Hacking
 
-[Data Corruption](Data_Corruption.md) 3 [Advanced
-Hacking](Advanced_Hacking.md)
+[Data Corruption](Data_Corruption.md) 3 [Advanced Hacking](Advanced_Hacking.md)
 
-[Electronics Expert](Electronics_Expert.md) 4 [Advanced
-Hacking](Advanced_Hacking.md)
+[Electronics Expert](Electronics_Expert.md) 4
+[Advanced Hacking](Advanced_Hacking.md)
 
 Vehicles
 
@@ -80,12 +79,10 @@ Cost Pre-Requisite
 
 ## [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md) (ANT)
 
-[Air Cavalry Assault](Air_Cavalry_Assault.md) 2 Air Cavalry
-Scout or Light Scout
+[Air Cavalry Assault](Air_Cavalry_Assault.md) 2 Air Cavalry Scout or Light Scout
 
-[Air Cavalry Interceptor](Air_Cavalry_Interceptor.md) 2 [Air
-Cavalry Scout](Air_Cavalry_Scout.md) or [Light
-Scout](Light_Scout.md)
+[Air Cavalry Interceptor](Air_Cavalry_Interceptor.md) 2
+[Air Cavalry Scout](Air_Cavalry_Scout.md) or [Light Scout](Light_Scout.md)
 
 [Air Cavalry Scout](Air_Cavalry_Scout.md) 3
 
@@ -97,11 +94,11 @@ Scout](Light_Scout.md)
 
 [Armored Assault I](Armored_Assault_I.md) 2
 
-[Armored Assault II](Armored_Assault_II.md) 1 [Armored Assault
-I](Armored_Assault_I.md)
+[Armored Assault II](Armored_Assault_II.md) 1
+[Armored Assault I](Armored_Assault_I.md)
 
-[Battleframe Robotics](../vehicles/BattleFrame_Robotics.md) (BFR) 4 [Armored
-Assault II](Armored_Assault_II.md)
+[Battleframe Robotics](../vehicles/BattleFrame_Robotics.md) (BFR) 4
+[Armored Assault II](Armored_Assault_II.md)
 
 [BFR Anti-Aircraft](BFR_Anti-Aircraft.md) 1
 [BFR](../vehicles/BattleFrame_Robotics.md)
@@ -109,11 +106,9 @@ Assault II](Armored_Assault_II.md)
 [BFR Anti-Infantry](BFR_Anti-Infantry.md) 1
 [BFR](../vehicles/BattleFrame_Robotics.md)
 
-[Flail](../items/Flail.md) 1 [Armored Assault
-II](Armored_Assault_II.md)
+[Flail](../items/Flail.md) 1 [Armored Assault II](Armored_Assault_II.md)
 
-[Galaxy Gunship](../vehicles/Galaxy_Gunship.md) 2 [Air
-Support](Air_Support.md)
+[Galaxy Gunship](../vehicles/Galaxy_Gunship.md) 2 [Air Support](Air_Support.md)
 
 [Ground Support](Ground_Support.md) 2
 
@@ -123,7 +118,7 @@ Support](Air_Support.md)
 
 [Light Scout](Light_Scout.md) 5
 
-[Phantasm](../vehicles/Phantasm.md) 3 [Infiltration
-Suit](../items/Infiltration_Suit.md)
+[Phantasm](../vehicles/Phantasm.md) 3
+[Infiltration Suit](../items/Infiltration_Suit.md)
 
 [Switchblade](../items/Switchblade.md) 1 [ATV](../vehicles/ATV.md)
