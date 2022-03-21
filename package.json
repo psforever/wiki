@@ -1,0 +1,27 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write wiki/**/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psforever/wiki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psforever/wiki/issues"
+  },
+  "homepage": "https://github.com/psforever/wiki#readme",
+  "dependencies": {
+    "prettier": "^2.6.0",
+    "remark-frontmatter": "^4.0.1",
+    "remark-gfm": "^3.0.1",
+    "remark-parse": "^10.0.1",
+    "unified": "^10.1.1"
+  }
+}
