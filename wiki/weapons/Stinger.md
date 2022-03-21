@@ -38,7 +38,3 @@ At close range, the Stinger will kill a soldier wearing [Rexo](../armor/Reinforc
 5 shots. The [Eraser](../items/Eraser.md) and [Spear](Spear.md) function
 identically.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
-
-Republic Weapons](Category:Terran_Republic_Weapons.md)

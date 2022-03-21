@@ -31,4 +31,4 @@ The generator room is also one of the areas protected by a
 [Generator Terminal](Generator_Terminal.md) to create or increase a
 pain field in the generator room.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

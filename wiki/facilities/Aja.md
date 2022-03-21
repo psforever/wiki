@@ -21,4 +21,4 @@ Aja is a [LLU](../terminology/Lattice_Logic_Unit.md)
 
 Elevation: 48.4m
 
-<!--[Category:Facilities](../Category:Facilities.md)-->
+

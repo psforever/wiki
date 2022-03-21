@@ -10,4 +10,4 @@ distinguish between them. On the map screen, "hack-and-hold" facilities are
 distinguished by having an icon of a clock on either side of the facility's
 name.
 
-<!--[category:Terminology](category:Terminology.md)-->
+

@@ -19,4 +19,4 @@ friendly BFRs.
 They are good spots for snipers to shoot from, as they are one of the few tall
 areas where aircraft are allowed to land.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
+

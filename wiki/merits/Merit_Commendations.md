@@ -131,4 +131,4 @@ Also see:
 - [Support Merit Commendations](Support_Merit_Commendations.md) (For more
   Details about how to obtain the Support Merits and their requirments)
 
-<!--[category:Merits](category:Merits.md)-->
+

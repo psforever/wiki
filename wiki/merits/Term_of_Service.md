@@ -485,4 +485,4 @@ associated [certification](../certifications/Certification.md):
 - **Five Year Term of Service Award**:
   [Reinforced Exo-Suit](../certifications/Reinforced_Exo-Suit_(Certification).md)
 
-<!--[category:Merits](category:Merits.md)-->
+

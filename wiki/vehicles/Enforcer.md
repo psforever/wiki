@@ -28,9 +28,4 @@ projectile.
 The open cockpit of this vehicle allows the driver to wear
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) or less.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:New
 
-Conglomerate Vehicles](Category:New_Conglomerate_Vehicles.md)
-
-<!--[Category:Ground Vehicles](Category:Ground_Vehicles.md)-->

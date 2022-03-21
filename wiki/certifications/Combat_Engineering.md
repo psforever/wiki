@@ -22,4 +22,4 @@ obtain the [Engineering]../merits/Engineering\_(Merit).md),
 [Universal Soldier](../merits/Universal_Soldier.md)
 [Merit Commendations](../merits/Merit_Commendations.md).
 
-<!--[Category:Certification](Category:Certification.md)-->
+

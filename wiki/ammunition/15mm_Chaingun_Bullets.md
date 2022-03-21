@@ -16,5 +16,5 @@ hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md).
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Ammunition](../Category:Ammunition.md)-->
+
+

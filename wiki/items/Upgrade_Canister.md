@@ -10,4 +10,4 @@ rounds in addition to the standard ammunition. One canister is used per upgrade
 and can be loaded into the Nano Dispenser by using the "change ammo type" key
 (default: "X").
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

@@ -227,4 +227,4 @@ stops, unless he is revived. While you will also receive
 [Support Experience Points](../terminology/Support_Experience_Points.md) for
 vehicles rearming from your Lodestar, this merit only tracks repair assists.
 
-<!--[category:merits](category:merits.md)-->
+

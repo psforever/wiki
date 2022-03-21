@@ -45,4 +45,4 @@ Merits:
 - [Router Support](Router_Support.md)
 - [Telepad Deployment](Telepad_Deployment.md)
 
-<!--[category:Merits](category:Merits.md)-->
+

@@ -26,5 +26,5 @@ Wearers of the **Infiltration Suit** are commonly known as "Cloakers." They are
 visible when moving or shooting (see image) or with the use of the
 [Darklight](../implants/Darklight.md) implant.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Armor](Category:Armor.md)-->
+
+

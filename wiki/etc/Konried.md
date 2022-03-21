@@ -6,4 +6,4 @@ populations on both servers. These characters are now on Gemini. Character and
 to the merge had a "-K" appened to the name. These names can now be seen on
 Gemini.
 
-<!--[category:Servers](category:Servers.md)-->
+

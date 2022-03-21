@@ -27,4 +27,4 @@ Located along the far wall of the lobby, at ground level.
 
 Similar to the Dropship Center above.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

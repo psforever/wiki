@@ -383,4 +383,4 @@ away and strafe to avoid fire and engage with the long range of the rail beam.
 them on bridges, but Mags can easily avoid bridges. Be aware that you can drive
 stright through a friendly TRAP as if it were not there.
 
-<!--[category: Strategy](category:_Strategy.md)-->
+

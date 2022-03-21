@@ -21,4 +21,4 @@ custom title, set requirements for each squad position, and view the
 squad. They are also the only member of the squad allowed to access the
 [Main Console](../items/Main_Terminal.md) at bases.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

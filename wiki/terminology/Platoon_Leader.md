@@ -5,4 +5,4 @@ his to form a [Platoon](Platoon.md). Typically, in a default interface, the
 followed by the first invited squad (or first to accept the invite) in the
 middle and most recently joined at the bottom.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

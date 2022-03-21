@@ -53,5 +53,3 @@ Outfit._
 - **7. Non-Officer Rank 2**
 - **8. Non-Officer Rank 1**
 
-
-<!--[\*](Category:Outfits.md)-->

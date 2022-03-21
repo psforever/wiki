@@ -38,9 +38,3 @@ has the [Darklight](../implants/Darklight.md)
 [cloaked](../items/Infiltration_Suit.md) enemies at a longer range than normal,
 providing excellent side defense.
 
-<!--[category:Vanu Sovereignty Vehicles](category:Vanu_Sovereignty_Vehicles.md)-->
-
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Ground
-
-Vehicles](Category:Ground_Vehicles.md)

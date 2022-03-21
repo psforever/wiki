@@ -93,4 +93,4 @@ server that were previously on the [Markov](../etc/Markov.md),
 [Emerald](../etc/Emerald.md), or [Werner](../etc/Werner.md) servers. The
 appropriate merit is awarded the first time the character logs into Gemini.
 
-<!--[category:Merits](category:Merits.md)-->
+

@@ -51,8 +51,3 @@ The [Lodestar](Lodestar.md) can only be purchased at a
 The Lodestar's apparent namesake is the
 [Lockheed Lodestar](http://en.wikipedia.org/wiki/Lockheed_Lodestar)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-
-Vehicles](Category:Common_Pool_Vehicles.md)
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->

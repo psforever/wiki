@@ -29,9 +29,9 @@ by floating at the surface.
 
 **Introduced: May 27, 2004 with update version [2.7.6](../patches/2.7.6.md).**
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Vehicles](../Category:Vehicles.md)--> [Category:Vanu
+
+
 
 Sovereignty Vehicles](../Category:Vanu_Sovereignty_Vehicles.md)
 
-<!--[Category:Ground Vehicles](../Category:Ground_Vehicles.md)-->
+

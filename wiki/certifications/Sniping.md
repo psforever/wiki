@@ -22,4 +22,4 @@ This [Certification](Certification.md) is required to obtain the
 [Merit Commendation](../merits/Merit_Commendations.md) if your character is less
 than two years old.
 
-<!--[Category:Certification](Category:Certification.md)-->
+

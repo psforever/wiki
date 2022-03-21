@@ -4,4 +4,4 @@ Rainstorms are found on [Amerish](../locations/Amerish.md),
 [Hossin](../locations/Hossin.md), [Searhus](../locations/Searhus.md), and the
 three [Sanctuary](../locations/Sanctuary.md) continents.
 
-<!--[Category:Weather](Category:Weather.md)-->
+

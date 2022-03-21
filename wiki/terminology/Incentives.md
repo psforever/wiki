@@ -8,4 +8,4 @@ Incentives are applied in two different scales:
   scale)
 - [Global Incentives](Global_Incentives.md) (Universal scale)
 
-<!--[category:Terminology](category:Terminology.md)-->
+

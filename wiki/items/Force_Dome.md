@@ -18,4 +18,4 @@ to the inside of the dome, enemies can enter and will not be killed. However,
 the [generator](Generator.md) cannot be destroyed and any damage to base objects
 will not take [NTUs](NTU.md) to repair.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

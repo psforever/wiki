@@ -135,4 +135,4 @@ sp = Stamina Points
 Note that you regain 1sp/sec while standing and 2sp/sec while crouched, though
 the use of the regeneration implant is a special case (see above).
 
-[\*](category:Implants.md)
+[

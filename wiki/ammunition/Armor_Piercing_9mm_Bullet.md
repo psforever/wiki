@@ -16,12 +16,12 @@ acquired from any [equipment terminal](../items/Equipment_Terminal.md) by any
 damaging armored targets such as
 [Mechanized Armor Exo-Suits](../armor/Armor_Index.md),
 [Deployables](../weapons/Adaptive_Construction_Engine.md), and
-[Vehicles](category:_Vehicles.md). However, AP 9mm Ammo is ineffective at
+[Vehicles](../vehicles/Vehicle.md). However, AP 9mm Ammo is ineffective at
 damaging infantry. In such cases, [Standard 9mm Ammunition](9mm_Bullet.md)
 should be employed.
 
 Since AP 9mm Bullets are for use in small arms, they can pass through the energy
 shields of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Ammunition](../Category:Ammunition.md)-->
+
+

@@ -54,8 +54,8 @@ Tactics
 
 - [Magrider Guide by Quovatis](../etc/Magrider_Guide_by_Quovatis.md)
 
-<!--[category:Vehicles](category:Vehicles.md)-->
-<!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
-<!--[category:Vanu Sovereignty Vehicles](category:Vanu_Sovereignty_Vehicles.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+
+
+

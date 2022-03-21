@@ -55,4 +55,4 @@ bases. (i.e., vehicle shields) [Searhus](../locations/Searhus.md) : Provides the
 
 These benefits are sometimes called Global Benefits.
 
-<!--[category:Terminology](category:Terminology.md)-->
+

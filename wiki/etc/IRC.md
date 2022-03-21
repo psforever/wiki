@@ -67,4 +67,4 @@ leading /, for example), such as sending queries to other people.
 
 Once the connection is made, the window for #planetside automatically opens.
 
-<!--[category:Communication](category:Communication.md)-->
+

@@ -58,4 +58,3 @@ worked for wasn't there. But, we had a whole new goal. The galaxy was ripe for
 the taking and a new land to be explored. Everything may have changed but in the
 end the war still waged on.
 
-[Bending, The](Category:Events.md)

@@ -14,4 +14,4 @@ Facilities with upgraded generator pain fields will display a special icon on
 the [Continental Map](../etc/Continental_Map.md) and will last for 30 minutes
 after the last boost.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

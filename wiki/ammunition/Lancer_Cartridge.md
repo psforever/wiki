@@ -9,5 +9,5 @@
 
 **Large Cartridge**
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Ammunition](Category:Ammunition.md)-->
+
+

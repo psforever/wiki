@@ -205,4 +205,4 @@ This Merit is awarded for amassing kills with one of the following:
 **Note: The Gold and Platinum awards have the same graphic. This is a mistake by
 [SOE](../etc/Sony_Online_Entertainment.md).**
 
-<!--[category:Merits](category:Merits.md)-->
+

@@ -28,4 +28,4 @@ Expert Hackers have improved hacking skills over
 - Remove [viruses](../terminology/Virus.md) from infected equipment and
   deployables
 
-<!--[Category:Certification](Category:Certification.md)-->
+

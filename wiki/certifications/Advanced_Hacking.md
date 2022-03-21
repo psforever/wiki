@@ -28,4 +28,4 @@ The [Jacking](../merits/Jacking_(Merit).md) and
 [Merit Commendations](../merits/Merit_Commendations.md) can only be obtained by
 use of this [Certification](Certification.md).
 
-<!--[Category:Certification](../Category:Certification.md)-->
+

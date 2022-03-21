@@ -31,10 +31,3 @@ Driving the Thresher is similar to driving and maneuvering other
 [Hovercraft](../terminology/Hovercraft.md). The open cockpit allows the driver
 and the gunner to wear up to
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md).
-
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Vanu
-
-Sovereignty Vehicles](Category:Vanu_Sovereignty_Vehicles.md)
-
-<!--[Category:Ground Vehicles](Category:Ground_Vehicles.md)-->

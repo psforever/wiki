@@ -40,4 +40,4 @@ All players will be able to use
 Now lets get prepared for some serious experience gain and have a haunting good
 time!
 
-<!--[Category:Events](Category:Events.md)-->
+

@@ -52,4 +52,4 @@ hack on it.
 - [Command Experience Points](Command_Experience_Points.md)
 - [Support Experience Points](Support_Experience_Points.md)
 
-<!--[category:Terminology](category:Terminology.md)-->
+

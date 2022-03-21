@@ -65,5 +65,3 @@ alphabetically.
 - [Elana](Elana.md)'s guide to spikering.
 - [Niven's Notes: Striker](Niven's_Notes.md#nivens-notes-striker)
 - [Minignus' Grunt Help](Minignus_grunt_help.md)
-
-[\*](category:Strategy.md)

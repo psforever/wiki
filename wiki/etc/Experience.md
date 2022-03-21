@@ -8,4 +8,4 @@ rewards.
 - [Command Experience Points](../terminology/Command_Experience_Points.md) (CEP)
 - [Support Experience Points](../terminology/Support_Experience_Points.md) (SEP)
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

@@ -38,4 +38,4 @@ This [Exclusive](Exclusive_Merit_Commendations.md)
 [Merit Commendation](Merit_Commendations.md) is awarded to Players at the
 discretion of [SOE](../etc/Sony_Online_Entertainment.md) CSRs.
 
-<!--[Category:Merits](Category:Merits.md)-->
+

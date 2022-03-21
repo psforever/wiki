@@ -14,4 +14,4 @@ You can send a tell to a player on another server by prefixing the server name
 [SOE](../etc/Sony_Online_Entertainment.md) games by prefixing the game (e.g.
 swg.playername for StarWars Galaxies and eq2.playername for EverQuest 2).
 
-<!--[category:Communication](category:Communication.md)[category:Commands](category:Commands.md)-->
+

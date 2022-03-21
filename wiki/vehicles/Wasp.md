@@ -34,8 +34,8 @@ The Wasp's [afterburner](../terminology/Afterburner.md) lasts twice as long, but
 speed seems identical to that of the [Mosquito](Mosquito.md) . The Wasp also
 lacks the [Mosquito](Mosquito.md) 's Overflight Radar system.
 
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->
 
-<!--[Category:Common Pool Vehicles](Category:Common_Pool_Vehicles.md)-->
 
-<!--[Category:Vehicles](Category:Vehicles.md)-->
+
+
+

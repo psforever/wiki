@@ -16,5 +16,5 @@ weapon on the [Aphelion](../vehicles/Aphelion.md) and
 acquired while in the BFR from a
 [Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md).
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Ammunition](../Category:Ammunition.md)-->
+
+

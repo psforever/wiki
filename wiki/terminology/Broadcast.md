@@ -6,4 +6,4 @@
    another along the continental or galactic [lattice](Lattice.md). See
    [Broadcast warpgate](../items/Broadcast_warpgate.md).
 
-<!--[category:Terminology](category:Terminology.md)-->
+

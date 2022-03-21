@@ -56,4 +56,4 @@ the [HART Shuttle building](HART_building.md).
 
 --source: Planetside In-game descriptions
 
-<!--[Category:Locations](Category:Locations.md)-->
+

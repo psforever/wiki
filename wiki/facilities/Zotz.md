@@ -10,4 +10,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Zotz is a Hack-and-Hold Facility with an Air Tower to it's North, inside it's
 [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

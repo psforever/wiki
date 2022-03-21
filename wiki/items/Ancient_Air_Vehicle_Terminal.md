@@ -7,4 +7,4 @@ Terminals on the surface of [Auraxis](../locations/Auraxis.md).
 
 Only [Mosquitos](../vehicles/Mosquito.md) can be acquired from these terminals.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
+

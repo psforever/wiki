@@ -19,4 +19,4 @@ or in [Sanctuary](../locations/Sanctuary.md).
 
 - [Dropship Center Air Terminal Building](../locations/Dropship_Center_Air_Terminal_Building.md)
 
-<!--[Category:Locations](Category:Locations.md)-->
+

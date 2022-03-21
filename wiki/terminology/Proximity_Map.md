@@ -44,6 +44,3 @@ the bottom right of your HUD.
 The **Proximity Map** is also called the Proximity Radar, Radar Map, or,
 incorrectly, the [Overhead Map](Overhead_Map.md).
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
-
-Guides](Category:Game_Guides.md)

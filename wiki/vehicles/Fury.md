@@ -29,7 +29,5 @@ speeds of 212kph.
 The other ATV variants are the [Basilisk](Basilisk.md) and the
 [Wraith](Wraith.md)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 
-Vehicles](Category:Common_Pool_Vehicles.md)
+

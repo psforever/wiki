@@ -17,4 +17,4 @@ receiving Speed Penalties.
 
 This module appears as aqua on the [Continental Map](../etc/Continental_Map.md).
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

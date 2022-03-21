@@ -14,4 +14,4 @@ which are very dangerous to infantry with their strong splash damage.
 The Leviathan version fires the projectiles at a much greater velocity, but
 lacks the damage and splash effect of its Thresher counterpart.
 
-<!--[Category:Weapons](Category:Weapons.md)-->
+

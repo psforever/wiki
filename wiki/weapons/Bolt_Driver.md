@@ -46,7 +46,5 @@ the [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md). Finally the
 Shield Generater can be damaged by a single Bolt Driver shot, or disabled by
 three in quick succesion.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Weapons](../Category:Weapons.md)--> [Category:Common Pool
 
-Weapons](../Category:Common_Pool_Weapons.md)
+

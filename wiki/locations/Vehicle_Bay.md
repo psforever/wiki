@@ -13,4 +13,4 @@ There are 4 doors that lead to the Vehicle Bay: 2 that lead to the main
 staircase area, 1 that leads to the [Back Door](Back_Door.md) area, and the
 Vehicle Bay outer doors.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

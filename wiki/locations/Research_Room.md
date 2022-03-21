@@ -12,4 +12,4 @@ as well as some boxes. If the Bio Laboratory is a
 [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md) will also be in this
 Room.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

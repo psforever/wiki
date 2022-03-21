@@ -18,6 +18,6 @@ The [BFR](../vehicles/BattleFrame_Robotics.md)
 this silo to charge itself, and drain the base in the process. It can also
 deposit NTUs back into friendly bases.
 
-<!--[category:Locations](category:Locations.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+

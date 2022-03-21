@@ -19,4 +19,4 @@ the island. Vehicles can only be obtained elsewhere and brought in through a
 a protracted battle. Defenders also have the advantage of the bottlenecks
 created by the design of dropship center hallways.
 
-<!--[Category:Facilities](../Category:Facilities.md)-->
+

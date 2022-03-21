@@ -8,4 +8,4 @@ route in combat.
 While meant for infantry, small vehicles and aircraft can also traverse these
 tunnels, though they will take damage from contacting the ziplines.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

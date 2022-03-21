@@ -9,4 +9,4 @@ Squad [Waypoints](Waypoint.md) are unavailable, or unecessary.
 A squad member's current grid reference is displayed in the [Squad](Squad.md)
 Bar, at the top of the screen.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

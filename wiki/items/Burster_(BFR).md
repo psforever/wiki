@@ -21,7 +21,7 @@ However, it is significantly less deadly than its
 projectiles means that it is also somewhat effective against infantry and light
 armor.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Weapons](../Category:Weapons.md)--> [Category:Terran
+
+
 
 Republic Weapons](../Category:Terran_Republic_Weapons.md)

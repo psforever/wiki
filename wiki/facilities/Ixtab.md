@@ -15,4 +15,4 @@ Ixtab has a Gun Tower to it's East, which is partially inside Ixtab's
 [SOI](../locations/Sphere_of_Influence.md). Ixtab is a
 [LLU](../terminology/Lattice_Logic_Unit.md) Facility.
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

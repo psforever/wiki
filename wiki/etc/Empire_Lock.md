@@ -11,4 +11,4 @@ one of the side windows.
 
 See also: [Population lock](../terminology/Population_Lock.md)
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

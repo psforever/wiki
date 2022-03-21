@@ -48,8 +48,3 @@ to heal himself.
    encourage them to wait for a revive.
 7. Advanced medics should carry extra Health Canisters with them at all times.
    It takes 25 units of health canister supply to revive a fallen ally.
-
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
-
-Weapons](Category:Common_Pool_Weapons.md)

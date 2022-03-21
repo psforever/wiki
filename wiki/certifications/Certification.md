@@ -34,5 +34,3 @@ the option.
 the [HART building](../locations/HART_building.md) of your
 [Empire](../terminology/Empire.md)'s [Sanctuary](../locations/Sanctuary.md), and
 in [Bio Laboratories](../locations/Bio_Laboratory.md).
-
-[\*](Category:Certification.md)

@@ -18,7 +18,3 @@ decimate infantry. Its primary fire mode fires single shots with a small cone of
 fire, while the secondary fire mode fires a salvo of 8 mortar rounds with a
 larger cone of fire.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
-
-Republic Weapons](Category:Terran_Republic_Weapons.md)

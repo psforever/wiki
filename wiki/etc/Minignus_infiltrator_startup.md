@@ -282,4 +282,4 @@ If you like killing tanks while in cloaker mode go to Haskins' ninja tank
 busting thread :
 [here](http://psforums.station.sony.com/ps/board/message?board.id=psstrategy&message.id=8378)
 
-<!--[Category:Strategy](Category:Strategy.md)-->
+

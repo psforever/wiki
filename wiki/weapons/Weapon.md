@@ -513,7 +513,3 @@ to compensate for this.
 - [Weapons Index](Weapons_Index.md)
 - [Weaponry Merit Commendations](../merits/Weaponry_Merit_Commendations.md)
 
-<!--[Category:Terminology](Category:Terminology.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Game
-
-Guides](Category:Game_Guides.md)

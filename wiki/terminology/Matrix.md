@@ -18,4 +18,4 @@ to chose from (2 [AMSes](../vehicles/Advanced_Mobile_Station.md), 2
 Pressing the "G" key again at the Matrix Panel of a bound location will erase
 the DNA data and the bind.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

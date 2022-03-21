@@ -19,6 +19,3 @@ Here is a picture of the platoon list in the
 
 ![Image:PlatoonList.jpg](../images/PlatoonList.jpg "Image:PlatoonList.jpg")
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
-
-Guides](Category:Game_Guides.md)

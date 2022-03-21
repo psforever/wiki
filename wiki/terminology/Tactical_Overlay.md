@@ -57,4 +57,4 @@ Certain enemy units do not show up on the tactical overlay. These include:
 
 Occupants of undetectable units are also undetectable (e.g. galaxy passengers)
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

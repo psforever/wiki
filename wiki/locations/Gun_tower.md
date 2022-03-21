@@ -8,4 +8,4 @@ Infantry or Vehicular assault.
 auto-repair Wall Turrets, a Gun Tower is considered to have infinite NTU for
 this purpose, although the rate is still very slow.)
 
-<!--[Category:Locations](Category:Locations.md)-->
+

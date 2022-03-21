@@ -74,4 +74,4 @@ Fun Stuff!
 
 "You ain't leadin' but two things right now: Jack and Shit. And Jack left town."
 
-<!--[category:Strategy](category:Strategy.md)-->
+

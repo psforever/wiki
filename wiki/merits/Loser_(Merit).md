@@ -119,4 +119,4 @@ These [Exclusive](Exclusive_Merit_Commendations.md)
 [Merit Commendations](Merit_Commendations.md) are awarded to Players at the
 discretion of [SOE](../etc/Sony_Online_Entertainment.md) CSRs.
 
-<!--[Category:Merits](Category:Merits.md)-->
+

@@ -29,5 +29,3 @@ those 7 days however, the 6 hour timer will apply. Occasionally, your character
 may be granted a "Forget All" option, normally coinciding with the release of a
 major [patch](../terminology/Patch.md), enabling a one-time reset of all
 certification points.
-
-[\*](category:Certification.md)

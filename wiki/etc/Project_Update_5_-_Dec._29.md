@@ -31,4 +31,4 @@ modern. It will be able to scale way beyond current planetside servers today.
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=58)
 
-<!--[Category:PSForever Updates](Category:PSForever_Updates.md)-->
+

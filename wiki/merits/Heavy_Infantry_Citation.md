@@ -136,4 +136,4 @@
   [Special Assault](../certifications/Special_Assault.md) and
   [Sniping](../certifications/Sniping.md) Merits.
 
-<!--[category:Merits](category:Merits.md)-->
+

@@ -32,7 +32,4 @@ it does so.
 
 (Note: This weapon is part of the Soldier's Armor and so cannot be looted.)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
 
-Republic Weapons](Category:Terran_Republic_Weapons.md)

@@ -58,4 +58,4 @@ Every day, the scientists and technicians of each
 patterns, testing ways to manipulate them for their own ends in order to
 dominate the galaxy.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

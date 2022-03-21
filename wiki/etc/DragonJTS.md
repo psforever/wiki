@@ -84,4 +84,4 @@ them back in. Someone with
 spitfires just outside the doors, making for a nasty surprise when defenders try
 to push out.
 
-<!--[Category:Strategy](Category:Strategy.md)-->
+

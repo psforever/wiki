@@ -82,4 +82,4 @@ _[Caverns](../locations/Caverns.md):_
 - **[Hunhau](../locations/Hunhau.md)** - **Grid:** L-7 (Easy to spot on the
   right)
 
-<!--[Category:Merits](Category:Merits.md)-->
+

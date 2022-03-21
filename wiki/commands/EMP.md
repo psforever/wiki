@@ -36,4 +36,4 @@ enemy base at a heavily CE-ed entrance.
 
 The recharge time for an EMP is 20 minutes.
 
-<!--[Category:Commands](Category:Commands.md)-->
+

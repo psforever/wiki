@@ -16,4 +16,4 @@ There is also no [tower](../locations/Towers.md) adjacent to Akua, and the
 difficult ground approach and lack of hiding places make it hard to get an AMS
 close to the base.
 
-<!--[Category:Facilities](../Category:Facilities.md)-->
+

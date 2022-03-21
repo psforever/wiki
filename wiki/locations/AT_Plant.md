@@ -11,4 +11,4 @@ The AT Plant features:
 - 2 [Ancient Air Vehicle Terminals](../items/Ancient_Air_Vehicle_Terminal.md)
 - [Teleporters](../terminology/Teleporter.md)
 
-<!--[Category:Locations](../Category:Locations.md)-->
+

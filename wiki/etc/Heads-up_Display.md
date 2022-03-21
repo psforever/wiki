@@ -264,4 +264,4 @@ In Vehicles, these icons are replaced with the currently available vehicle guns.
 This icon, located bottom right, hides or shows the Soldier Management toolbar,
 above.
 
-<!--[category:HUD](category:HUD.md)-->
+

@@ -90,4 +90,4 @@ killed an assassinator during
 in 2006 or participated in enemy [Sanctuary](../locations/Sanctuary.md) raids
 around the same time.
 
-<!--[Category:Merits](Category:Merits.md)-->
+

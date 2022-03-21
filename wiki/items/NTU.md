@@ -25,6 +25,4 @@ magic.
 No one really knows what they are, only that we can manipulate them to our own
 ends.
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 
-Items](Category:Game_Items.md)

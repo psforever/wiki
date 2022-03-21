@@ -37,4 +37,4 @@ purple for the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) and yellow for the
 [New Conglomerate](../etc/New_Conglomerate.md), and all three can be seen from
 some distance away.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

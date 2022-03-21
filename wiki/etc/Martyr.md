@@ -185,4 +185,4 @@ Flak: armor 12mm rounds: armor SAMs: 11 decimators shield SG Flak:
 - Zone 5 == Afterburners fueled, ignited
 - Zulu == UTC. 1000EST = 1100EDT = 1500Z
 
-<!--[Category:Strategy](Category:Strategy.md)-->
+

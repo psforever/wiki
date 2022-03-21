@@ -6,4 +6,4 @@ waiting area between [HART](../terminology/HART.md) flights, and has
 [Lockers](../items/Lockers.md), and
 [Equipment terminals](../items/Equipment_Terminal.md) inside.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

@@ -2027,5 +2027,3 @@ count towards a certain Merit if the Vehicle had occupants.**
 </td>
 </tr>
 </table>
-
-[\*A](category:Merits.md)

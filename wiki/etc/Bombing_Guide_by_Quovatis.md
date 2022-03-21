@@ -257,4 +257,4 @@ over the vanguard you were targeting and go down the mountain, missing
 completely. The crosshair is accurate most of the time, but don't always trust
 it, especially on steep slopes.
 
-<!--[Category:Strategy](../Category:Strategy.md)-->
+

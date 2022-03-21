@@ -135,4 +135,4 @@ bonus is 50%, you actually get 65% more experience on that zone.
 
 See also: [Global Incentives](../terminology/Global_Incentives.md).
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

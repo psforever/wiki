@@ -31,4 +31,4 @@ Since this Event is Emerald Server only, I suggest all you [Markov](Markov.md)
 and [Werner](Werner.md) people make some Alts on Emerald and join the
 [Monolith](../items/Monolith.md) Battle!
 
-<!--[Category:Events](Category:Events.md)-->
+

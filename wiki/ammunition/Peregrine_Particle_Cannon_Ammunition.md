@@ -17,5 +17,5 @@ at the armor of anything inside. The boxes can be obtained from any
 acquired while in the BFR from a
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Ammunition](Category:Ammunition.md)-->
+
+

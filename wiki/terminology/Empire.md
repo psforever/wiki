@@ -19,6 +19,4 @@ hack bases and are enemies of the other 3 empires. However, Black Ops still
 carry many of the characteristics of the empire that they left, and are not
 technically an empire.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
 
-[\*](Category:Empires.md)

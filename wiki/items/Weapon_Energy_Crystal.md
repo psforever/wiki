@@ -9,6 +9,6 @@ to recharge...it will recharge even if you are dead!). Before the introduction
 of AT weapon clips, this was the only way to restore weapon energy in the
 caverns. However, even then their usage was limited.
 
-<!--[category:Core Combat](category:Core_Combat.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+

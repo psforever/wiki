@@ -23,4 +23,4 @@ base's hack timer after such an event has occured. _"How long on the hack?"_
 
 See [Capturing Bases](../etc/Capturing_Bases.md).
 
-<!--[category:Terminology](category:Terminology.md)-->
+

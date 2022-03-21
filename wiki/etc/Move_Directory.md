@@ -28,4 +28,4 @@ entVersion\\App Paths\\LaunchPad.exe\\
 
 2\) Type in **"set c:\\program files\\sony\\planetside=_your new location_"**
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

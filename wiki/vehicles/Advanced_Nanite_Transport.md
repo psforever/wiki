@@ -36,8 +36,8 @@ One fully-filled **ANT** carries approximately 150% of one
 Caution: Fully-charged **ANTs** have a significant secondary blast radius when
 destroyed.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Vehicles](../Category:Vehicles.md)--> [Category:Common Pool
+
+
 
 Vehicles](../Category:Common_Pool_Vehicles.md)
-<!--[Category:Ground Vehicles](../Category:Ground_Vehicles.md)-->
+

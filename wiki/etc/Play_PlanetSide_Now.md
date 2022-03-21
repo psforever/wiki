@@ -18,4 +18,4 @@ place to start is evaluating your [Empire](../terminology/Empire.md) choices.
 
 Go ruin someone's day.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

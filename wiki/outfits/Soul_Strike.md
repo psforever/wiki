@@ -50,8 +50,4 @@ Current Commanding Officers are: **JediMercenary21** **GreenNsticky**
 **RAKninja** **Clock11** Current Tactical Officers are: **Kdogg** **cpl18delta**
 **kildyu** **Kinataro** **DrChaos** **MissingInAction90**
 
-<!--[Category:Outfits](Category:Outfits.md)--> [Category:Vanu
 
-Sovereignty Outfits](Category:Vanu_Sovereignty_Outfits.md)
-
-<!--[Category:Emerald Outfits](Category:Emerald_Outfits.md)-->

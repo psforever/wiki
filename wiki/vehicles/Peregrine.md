@@ -48,4 +48,4 @@ The gunner weapons available to the Peregrine are
 
 Only one gunner weapon can be used at a time.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

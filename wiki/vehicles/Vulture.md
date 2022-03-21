@@ -53,7 +53,7 @@ Vulture requires a [Technology Plant](../locations/Technology_Plant.md) lattice
 link or [Sanctuary](../locations/Sanctuary.md) vehicle pad in order to be
 purchasable.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)-->
-<!--[Category:Common Pool Vehicles](Category:Common_Pool_Vehicles.md)-->
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->
+
+
+
+

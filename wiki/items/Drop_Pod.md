@@ -9,4 +9,4 @@ on any relatively flat ground outside of an
 [SOI](../locations/Sphere_of_Influence.md) (noting that the SOI covers the
 entirety of a [continent locked](../etc/Continental_lock.md) by that empire).
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

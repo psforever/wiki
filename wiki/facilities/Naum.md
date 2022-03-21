@@ -19,4 +19,4 @@ Naum is a [LLU](../terminology/Lattice_Logic_Unit.md) Facility (the only LLU
 Dropship Center in the game) with a Watch Tower to it's East, outside of it's
 [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

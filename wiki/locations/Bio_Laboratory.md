@@ -99,4 +99,4 @@ They are also the only facilities outside of [Sanctuary](../locations/Sanctuary.
 - [Horus](Horus.md)
 - [Thoth](../facilities/Thoth.md) (Capitol)
 
-<!--[Category:Locations](../Category:Locations.md)-->
+

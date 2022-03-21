@@ -14,4 +14,4 @@ time.
 Sometimes in Game Lore the caverns are referred to as the
 [Auraxian Core](../items/Auraxian_Core.md).
 
-<!--[Category:Locations](Category:Locations.md)-->
+

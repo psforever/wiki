@@ -140,4 +140,4 @@ Additional FAQ
   server as part of the server merge and will no longer have access to
   characters on those accounts after the server merge (May 20, 2008 )
 
-<!--[category:Servers](category:Servers.md)-->
+

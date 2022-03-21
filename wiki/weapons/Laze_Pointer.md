@@ -33,7 +33,3 @@ Unlike normal [waypoints](../terminology/Waypoint.md), targeting waypoints are
 circular on the proximity map, use the color and number of the user, and go away
 after about 15 seconds.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
-
-Weapons](Category:Common_Pool_Weapons.md)

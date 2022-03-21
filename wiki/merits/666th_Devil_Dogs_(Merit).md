@@ -43,4 +43,4 @@ Outfit of the [New Conglomerate](../etc/New_Conglomerate.md) on
 [SOE](../etc/Sony_Online_Entertainment.md) handed out by the great
 Sporkfire himself.
 
-<!--[category:Merits](category:Merits.md)-->
+

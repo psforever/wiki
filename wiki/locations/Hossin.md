@@ -73,4 +73,4 @@ Source: PlanetSide In-game descriptions, pre- and post-[Bending](../etc/The_Bend
 - [Ghanon](../facilities/Ghanon.md)
 - [Mulac](../facilities/Mulac.md)
 
-<!--[Category:Locations](Category:Locations.md)-->
+

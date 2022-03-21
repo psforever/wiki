@@ -50,7 +50,3 @@ Shots to kill (With direct orb contact within 20m.):
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
-
-Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

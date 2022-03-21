@@ -108,4 +108,4 @@ level of Weapons Citation.
 **Note:** Completing the Kill Streaks for the above
 [Merits](Merit_Commendations.md) is not required to obtain this Merit.
 
-<!--[category:Merits](category:Merits.md)-->
+

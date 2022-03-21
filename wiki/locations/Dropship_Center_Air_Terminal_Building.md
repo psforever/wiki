@@ -14,4 +14,4 @@ If the Dropship Center is a [LLU](../terminology/Lattice_Logic_Unit.md)
 [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md) will also be in this
 Building.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

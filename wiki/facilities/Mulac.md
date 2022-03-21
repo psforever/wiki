@@ -15,4 +15,4 @@ sanctuary links.
 Mulac is a Hack-and-Hold Facility with an Air Tower to its North West, outside
 of its [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

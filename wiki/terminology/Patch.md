@@ -5,9 +5,4 @@ files. Patches are either to fix bugs or add new features, often both.
 Occasionally a patch will be used to "rollback" a feature. This is rare and done
 only when something is very broken and needs to be re-done.
 
-Lists of patches: [chronological](../patches/Patches.md)
-<!--and [numerical](:Category:Patches)-->
-
-<!--[\*](category:Patches.md)-->
-
-<!--[category:Terminology](category:Terminology.md)-->
+Lists of patches: [chronological](../patches/Patches.md) and [numerical](:Category:Patches)

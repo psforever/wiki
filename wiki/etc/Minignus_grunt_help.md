@@ -130,4 +130,4 @@ slight decrease to accuracy. It has two ammo types:
 
 MORE SOON....
 
-<!--[Category:Strategy](Category:Strategy.md)-->
+

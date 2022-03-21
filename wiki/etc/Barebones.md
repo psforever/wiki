@@ -101,4 +101,4 @@ commands you can use to talk on different channels. The backspace key replies to
   doesn't change, regardless of how much armor they have.
 - You can tell rank by armor color. Brighter (more gold/red/green) is higher.
 
-<!--[Category:Game Guides](../Category:Game_Guides.md)-->
+

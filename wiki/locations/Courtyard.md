@@ -12,4 +12,4 @@ vehicular access. These entrances become sealed against most enemy
 [vehicles](../vehicles/Vehicle.md) and gunfire with a lattice linked
 [Shield Module](../items/Shield_Module.md).
 
-<!--[Category:Locations](Category:Locations.md)-->
+

@@ -41,4 +41,4 @@ In both modes, the Fusion Blade will deal 19 [Health](../terminology/Health.md)
 and 6 Armor damage to all [armors](../armor/Armor_Index.md) (Full Health and Armor, no
 [Implants](../implants/Implants.md) or [MedKits](../items/MedKit.md)).
 
-<!--[Category:Weapons](Category:Weapons.md)-->
+

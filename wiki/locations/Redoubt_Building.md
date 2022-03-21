@@ -12,4 +12,4 @@ The Redoubt Building features:
 - [Repair Crystal](../items/Repair_Crystal.md)
 - [Weapon Energy Crystal](../items/Weapon_Energy_Crystal.md)
 
-<!--[Category:Locations](Category:Locations.md)-->
+

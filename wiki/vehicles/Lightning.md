@@ -31,7 +31,3 @@ Shots to kill (with 75mm Cannon only):
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-
-Vehicles](Category:Common_Pool_Vehicles.md)

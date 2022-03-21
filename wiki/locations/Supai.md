@@ -12,4 +12,4 @@ The river is swift-moving, and walled in by steep banks, originating and
 terminating with treacherous waterfalls. Just upstream of the final waterfall is
 a ramp carved into the right bank, by which the lucky bather may make an escape.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

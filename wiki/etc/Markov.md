@@ -19,4 +19,4 @@ outfit naming rules and how to change them if they have a "-M" or "-E" appended.
 - [Markov Outfits](:Category:Markov_Outfits)
 - [Gemini Outfits](:Category:Gemini_Outfits)
 
-<!--[category:Servers](category:Servers.md)-->
+

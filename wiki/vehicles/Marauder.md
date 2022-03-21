@@ -20,9 +20,3 @@ The **Marauder** employs two weapon systems: a proximity grenade launcher and a
 of this vehicle allows the driver and gunners to wear up to
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md).
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Terran
-
-Republic Vehicles](Category:Terran_Republic_Vehicles.md)
-
-<!--[Category:Ground Vehicles](Category:Ground_Vehicles.md)-->

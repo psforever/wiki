@@ -1333,5 +1333,3 @@ bgcolor="#FFFFFF">
 </td>
 </tr>
 </table>
-
-[\*](category:Merits.md)

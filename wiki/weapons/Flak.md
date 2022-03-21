@@ -43,5 +43,5 @@ Used by:
 - [Wall Turret](../items/Phalanx.md) with the Anti-Aircraft flak cannon upgrade
   ([Common Pool](../terminology/Common_Pool.md))
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
-<!--[Category:Weapons](Category:Weapons.md)-->
+
+

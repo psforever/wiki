@@ -4,4 +4,4 @@
 
 Linked to [Andvari](Andvari.md), [Jarl](Jarl.md), and [Mani](Mani.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

@@ -27,10 +27,10 @@ This is the heaviest infantry armor available. With two pistol
 battle. However, the bulk of the armor reduces your foot speed and is a
 significant tradeoff in terms of mobility. Also, only
 [buggies](category:_Vehicles.md#Buggies), [ATVs](category:_Vehicles.md#ATV),
-[Ancient Tech](../items/Core_Combat.md#Vehicles) vehicles, and
+[Ancient Tech](../items/Core_Combat.md#vehicles) vehicles, and
 [Sunderer variants](../vehicles/Sunderer.md) can be driven while wearing this
 armor.
 
-<!--[category:armor](category:armor.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+

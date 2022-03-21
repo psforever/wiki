@@ -25,7 +25,3 @@ lingering plasma field can be used as an area control weapon. The weapon is also
 great at causing multiple system damages to enemy
 [BFRs](../vehicles/BattleFrame_Robotics.md) with no shields.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
-
-Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

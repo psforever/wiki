@@ -215,4 +215,4 @@
 A seven-level Infantry Merit, obtained by amassing kills with the
 [Bolt Driver](../weapons/Bolt_Driver.md) and [HSR](../weapons/Heavy_Scout_Rifle.md).
 
-<!--[category:Merits](category:Merits.md)-->
+

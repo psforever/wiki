@@ -7,4 +7,4 @@ replacing backpacks with gift-wrapped packages.
 
 October decor replaces backpacks with empire-colored Jack-o-Lanterns.
 
-<!--[Category:Events](Category:Events.md)-->
+

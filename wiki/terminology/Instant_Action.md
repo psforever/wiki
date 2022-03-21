@@ -25,4 +25,4 @@ Upon arrival, your [Personal Waypoint](Personal_Waypoint.md) will be reset to
 indicate the location of the [Hotspot](Hotspot.md) that you are meant to respond
 to.
 
-<!--[category:Terminology](category:Terminology.md)-->
+

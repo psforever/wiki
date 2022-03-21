@@ -11,4 +11,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 It is a Hack-and-Hold Facility with an Air Tower to it's North West, inside its
 [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](../Category:Facilities.md)-->
+

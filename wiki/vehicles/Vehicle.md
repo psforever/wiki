@@ -375,6 +375,4 @@ strafe into the Lodestar sideways._
 - [Vehicle Index](category:_Vehicles.md)
 - [Vehicular Merit Commendations](../merits/Vehicular_Merit_Commendations.md)
 
-<!--[category:Game Items](category:Game_Items.md)-->
 
-[\*](category:Vehicles.md)

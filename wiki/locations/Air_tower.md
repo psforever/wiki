@@ -16,4 +16,4 @@ Tower to capture but it is also the most valuable of the three.
 auto-repair Wall Turrets, an Air Tower is considered to have infinite NTU for
 this purpose, although the rate is still very slow.)
 
-<!--[Category:Locations](../Category:Locations.md)-->
+

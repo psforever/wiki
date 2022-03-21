@@ -45,4 +45,4 @@ you'd be amazed how badly they react when they get a REK in the faceplate...
 [Magriders](../vehicles/Magrider.md), Purple and Green
 [Vanguards](../vehicles/Vanguard.md) and so on - this is how it's done.)
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

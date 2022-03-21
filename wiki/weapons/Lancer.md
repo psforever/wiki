@@ -38,8 +38,3 @@ Shots to kill:
 | [Vanguard](../vehicles/Vanguard.md)            | 23(?) shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
-
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
-
-Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

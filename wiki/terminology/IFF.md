@@ -21,4 +21,4 @@ spawn tubes and main terminals, which cannot be hacked. Hacked IFF locks can be
 re-locked by a friendly soldier using a
 [REK](../weapons/Remote_Electronics_Kit.md).
 
-<!--[category:Terminology](category:Terminology.md)-->
+

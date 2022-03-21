@@ -39,4 +39,4 @@ The Dragon is free to those having the
 [Elite Assault](../certifications/Elite_Assault.md). The Dragon has a 3 minute
 acquisition timer.
 
-<!--[Category:Weapons](Category:Weapons.md)-->
+

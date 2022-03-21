@@ -215,4 +215,4 @@ Hotdropped out of your [Galaxy](../vehicles/Galaxy.md),
 The tracker stops 5 minutes after the hotdrop or when the soldier dies, unless
 revived.
 
-<!--[category:merits](category:merits.md)-->
+

@@ -21,4 +21,4 @@ Grenades can be fired from a number of weapons:
 - [Jammer grenade](../weapons/Jammer_Grenade.md)
 - [Plasma grenade](../weapons/Plasma_grenade.md)
 
-<!--[category:Game Items](category:Game_Items.md)-->
+

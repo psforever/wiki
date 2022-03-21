@@ -23,4 +23,4 @@ This [Certification](Certification.md) is required to obtain the
 [Universal Soldier](../merits/Universal_Soldier.md)
 [Merit Commendations](../merits/Merit_Commendations.md).
 
-<!--[Category:Certification](Category:Certification.md)-->
+

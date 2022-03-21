@@ -10,4 +10,4 @@
 
 This [Certification](Certification.md) replaced the Mosquito certification.
 
-<!--[Category:Certification](../Category:Certification.md)-->
+

@@ -221,4 +221,4 @@ This seven-level Merit is earned by destroying the following
 - [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md)
   ([ANT](../vehicles/Advanced_Nanite_Transport.md))
 
-<!--[category:Merits](category:Merits.md)-->
+

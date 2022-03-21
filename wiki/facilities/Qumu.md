@@ -13,4 +13,4 @@ Qumu is one of Verica's Sub-Capitols.
 Qumu is a [LLU](../terminology/Lattice_Logic_Unit.md) Facility, and has an Air
 Tower to it's North, inside it's [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

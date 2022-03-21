@@ -13,4 +13,4 @@ The Neural Continents are:
 
 The words Planet and Continent are sometimes interchangable.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

@@ -73,4 +73,4 @@ Rift_
 - [_Star Wars Galaxies_'s Official Site](http://starwarsgalaxies.station.sony.com/)
 - [_PlanetSide_'s Official Site](http://planetside.station.sony.com/)
 
-<!--[Category:PlanetSide](Category:PlanetSide.md)-->
+

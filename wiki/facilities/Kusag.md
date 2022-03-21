@@ -15,4 +15,4 @@ It is a [Hack-and-Hold](../terminology/Hack-and-Hold.md)
 [Watch tower](../locations/Watch_tower.md) to it's northwest, just outside of
 its [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

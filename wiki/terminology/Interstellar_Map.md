@@ -35,5 +35,5 @@ Double-clicking on a continent or planet will open up the
 
 Add toggle descrptions for population, etc.
 
-<!--[category:HUD](category:HUD.md)-->
-<!--[category:Terminology](category:Terminology.md)-->
+
+

@@ -33,5 +33,5 @@ and the flexibility of a second [pistol slot](../etc/Holster.md) and larger
 improvement. You still maintain good foot speed and this is the heaviest armor
 you can wear and still pilot/drive all vehicles.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Armor](../Category:Armor.md)-->
+
+

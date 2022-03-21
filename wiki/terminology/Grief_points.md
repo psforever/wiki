@@ -144,4 +144,4 @@ hands it can cause a large amount of area-effect damage to friendlies
 (especially in confined base corridors), and the Liberator because of the delay
 between the release of a bomb and the subsequent detonation at ground level.
 
-<!--[category:Terminology](category:Terminology.md)-->
+

@@ -241,4 +241,4 @@ Aftershock marked the introduction of a new gameplay element,
 
 - [The Official _PlanetSide_ Website](http://www.planetside.com/)
 
-<!--[Category:PlanetSide](Category:PlanetSide.md)-->
+

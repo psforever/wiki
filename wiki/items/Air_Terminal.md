@@ -16,4 +16,4 @@ An air terminal is a vehicular Terminal that only allows you to pull Air
 - [Sanctuary Air Terminal](../terminology/Sanctuary_Air_Terminal.md)
 - [Ancient Air Vehicle Terminal](Ancient_Air_Vehicle_Terminal.md)
 
-<!--[category:Game Items](category:Game_Items.md)-->
+

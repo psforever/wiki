@@ -38,10 +38,3 @@ Shots to kill (with 150mm Cannon only):
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
 
-<!--[category:Game Items](category:Game_Items.md)-->
-
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:New
-
-Conglomerate Vehicles](Category:New_Conglomerate_Vehicles.md)
-
-<!--[Category:Ground Vehicles](Category:Ground_Vehicles.md)-->

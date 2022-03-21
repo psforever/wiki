@@ -27,10 +27,10 @@ The open cockpit of this vehicle will allow the driver to wear up to
 The **Skyguard** was introduced in release [1.5](../patches/1.5.md) in
 June, 2003.
 
-<!--[category:Vehicles](category:Vehicles.md)-->
 
-<!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
 
-<!--[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+
+
+

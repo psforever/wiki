@@ -48,4 +48,4 @@ that it will hinder the enemy instead of helping them:
 - Enemy [Motion Sensors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm) can be infected causing them to
   display friendly units as enemies on radar.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

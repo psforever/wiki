@@ -26,4 +26,4 @@ following abilities:
   to emit a [Pain Field](../terminology/Pain_Field.md) that damages friendly
   units.
 
-<!--[Category:Certification](Category:Certification.md)-->
+

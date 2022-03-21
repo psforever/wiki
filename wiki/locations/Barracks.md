@@ -9,4 +9,4 @@ soldiers feeling under the weather.
 
 A door at the bottom leads into the facility basement.
 
-<!--[Category:Locations](../Category:Locations.md)-->
+

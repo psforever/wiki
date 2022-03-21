@@ -32,4 +32,4 @@ can you disable this shield. The only way to successfully hack the
   ([Cetan](../facilities/Cetan.md), [Mekala](../facilities/Mekala.md),
   [Sungrey](../facilities/Sungrey.md), [Qumu](../facilities/Qumu.md))
 
-<!--[Category:Locations](Category:Locations.md)-->
+

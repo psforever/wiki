@@ -29,4 +29,4 @@ with Interlink benefits and you try to use an item
 ([weapons](:category:Weapons), [REKs](../weapons/Remote_Electronics_Kit.md),
 etc.).
 
-<!--[category:Implants](category:Implants.md)-->
+

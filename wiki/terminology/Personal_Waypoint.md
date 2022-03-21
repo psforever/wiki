@@ -23,6 +23,4 @@ users, can find these columns extremely distracting. For best results, place the
 waypoint a little 'behind' the target area, to prevent it blocking line of
 sight.)
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 
-Guides](Category:Game_Guides.md)

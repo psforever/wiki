@@ -14,5 +14,5 @@ They come in two varieties:
   put in place due to hardware limitations on the continental servers, and is
   only seen during a very intense three-way battle.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
-<!--[Category:Terminology](Category:Terminology.md)-->
+
+

@@ -12,4 +12,4 @@ access the Orbital Strike via their
 - Command Rank 4 Radius: 10 meter
 - Command Rank 5 Radius: 20 meter
 
-<!--[Category:Commands](Category:Commands.md)-->
+

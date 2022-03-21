@@ -32,4 +32,4 @@ slot 5 - Melee weapon slot (Unchangeable) These extra holsters and inventory
 space come at a price in foot-speed. The greater you can carry, the slower you
 run or walk.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

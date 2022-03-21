@@ -77,4 +77,4 @@ Planetside Syndicate Conference, organized by Triggar.
 
 July 2005, Orlando, Fl.
 
-<!--[category:Merits](category:Merits.md)-->
+

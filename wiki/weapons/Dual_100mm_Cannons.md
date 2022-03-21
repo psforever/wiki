@@ -19,7 +19,3 @@ effectively, with a rate of fire comparable to the Prowler's 100mm cannons,
 though lacking the [Prowlers](../vehicles/Prowler.md) Anti-Infantry
 effectiveness.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
-
-Republic Weapons](Category:Terran_Republic_Weapons.md)

@@ -70,4 +70,4 @@ season.
   - [Atar](../facilities/Atar.md) - [Lounge](Lounge.md) (Room behind the
     [Spawn Room](../locations/Spawn_Room.md)
 
-<!--[Category:Merits](Category:Merits.md)-->
+

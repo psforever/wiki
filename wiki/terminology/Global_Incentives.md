@@ -13,6 +13,4 @@ Since patch [3.15.18](../patches/3.15.18.md), Global Incentives are now
 calculated every few minutes instead of taking the average population over the
 last few days. The calculated bonuses are added to any zone bonus.
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 
-Guides](Category:Game_Guides.md)

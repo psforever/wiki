@@ -23,7 +23,4 @@ damage than the [Starfire](Starfire.md)
 [MAX](Mechanized_Assault_Exo-Suit.md). It does a fair ammount of damage to
 ground vehicles as well if you can hit them.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
 
-Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

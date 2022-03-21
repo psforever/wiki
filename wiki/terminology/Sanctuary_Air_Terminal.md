@@ -9,4 +9,4 @@ terminal is also capable of spawning the [Galaxy](../vehicles/Galaxy.md),
 [Galaxy Gunship](../vehicles/Galaxy_Gunship.md), and
 [Lodestar](../vehicles/Lodestar.md).
 
-<!--[category:Terminology](category:Terminology.md)-->
+

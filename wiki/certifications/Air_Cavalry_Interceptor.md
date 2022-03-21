@@ -8,4 +8,4 @@
 
 **Air Cavalry Interceptor**
 
-<!--[Category:Certification](../Category:Certification.md)-->
+

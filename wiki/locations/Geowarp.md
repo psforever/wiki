@@ -26,4 +26,4 @@ will not have an active cavern link at any give time.
 Geowarps are the means by which [Cavern Locks](../etc/Cavern_Lock.md) link to
 facilities to provide [Module benefits](../etc/Module_benefit.md).
 
-<!--[Category:Locations](Category:Locations.md)-->
+

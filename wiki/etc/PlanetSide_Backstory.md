@@ -66,4 +66,4 @@ count the two hundred or so times that I've died. I am a soldier of the
   Sovereignty to its Manifesto for tomorrow. The Technophobes are shortsighted,
   only seeing scarcity and survival of the fittest..."
 
-<!--[Category:PlanetSide](Category:PlanetSide.md)-->
+

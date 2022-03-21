@@ -8,4 +8,4 @@ Dahaka is a [LLU](../terminology/Lattice_Logic_Unit.md)
 [Air Tower](../locations/Air_tower.md) to it's North, just outside of it's
 [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

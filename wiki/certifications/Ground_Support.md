@@ -40,4 +40,4 @@ This [Certification](Certification.md) is required to obtain the
 [Vehicle Support Specialist](../merits/Vehicle_Support_Specialist.md)
 [Merit Commendations](../merits/Merit_Commendations.md).
 
-<!--[Category:Certification](Category:Certification.md)-->
+

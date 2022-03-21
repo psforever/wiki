@@ -48,7 +48,7 @@ Merit-qualified kills with the Thumper count towards both the
 Assault]../merits/Special*Assault*(Merit).md)
 [Merit Commendations](../merits/Merit_Commendations.md).
 
-<!--[category:Common Pool Weapons](category:Common_Pool_Weapons.md)-->
-<!--[category:Weapons](category:Weapons.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+
+

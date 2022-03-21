@@ -241,4 +241,4 @@ Combat aircraft include the following:
 - [Vulture](../vehicles/Vulture.md)
 - [Wasp](../vehicles/Wasp.md)
 
-<!--[category:Merits](category:Merits.md)-->
+

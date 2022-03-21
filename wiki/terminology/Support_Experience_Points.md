@@ -37,4 +37,4 @@ allow you to see how effective your support has been.
 - [Command Experience Points](Command_Experience_Points.md)
 - [Support Merit Commendations](../merits/Support_Merit_Commendations.md)
 
-<!--[category:Terminology](category:Terminology.md)-->
+

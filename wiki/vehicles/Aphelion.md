@@ -48,4 +48,4 @@ version of the [VS](../etc/Vanu_Sovereignty.md) battleframe was named the
 **Orion**. It was renamed "Aphelion" in patch [3.2.6](../patches/3.2.6.md), and
 the original one-man Aphelion retired from service.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
+

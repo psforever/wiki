@@ -120,7 +120,5 @@ causing it to display all friendlies as enemies on radar. The next time you want
 to boomer that red dot coming around the corner, you better make sure it's
 really an enemy!
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Weapons](../Category:Weapons.md)--> [Category:Common Pool
 
-Weapons](../Category:Common_Pool_Weapons.md)
+

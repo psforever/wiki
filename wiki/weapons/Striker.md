@@ -38,7 +38,7 @@ Shots to kill:
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
 
-<!--[category:Terran Republic Weapons](category:Terran_Republic_Weapons.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)-->
+
+
+

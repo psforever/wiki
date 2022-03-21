@@ -56,4 +56,4 @@ When transformed into a Black Ops, the player will receive the
 [NC](../etc/New_Conglomerate.md) Soldiers that kill a Black Ops will be awarded
 with the [Black Ops Hunter](../merits/Black_Ops_Hunter.md) Merit Commendations.
 
-<!--[Category:Terminology](../Category:Terminology.md)-->
+

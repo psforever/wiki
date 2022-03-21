@@ -25,4 +25,4 @@ selectable spread. The [cone of fire](../terminology/Cone_of_fire.md) is also
 significantly tighter than the [MAX](../items/Mechanized_Assault_Exo-Suit.md)
 counterpart, allowing for hitting enemies at further distances.
 
-<!--[Category:Weapons](Category:Weapons.md)-->
+

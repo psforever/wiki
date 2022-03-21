@@ -65,4 +65,4 @@ However, the radar is only active for friendly units that are inside the
 cloaking sphere of the Aegis. Like the ammunition upgrade, the radar eventually
 wears off over time and will need to be re-upgraded for continual use.
 
-<!--[Category:Weapons](../Category:Weapons.md)-->
+

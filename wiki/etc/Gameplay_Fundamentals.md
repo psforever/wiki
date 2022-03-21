@@ -20,4 +20,4 @@ Gameplay Fundamentals: How to do things, and what you may want to do.
 - [Lattice](../terminology/Lattice.md)
 - [Capturing Bases](Capturing_Bases.md)
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

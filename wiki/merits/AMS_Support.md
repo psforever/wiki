@@ -221,4 +221,4 @@ kills made by friendly soldiers after using one of your AMS'
 [Equipment Terminals](../items/Equipment_Terminal.md), this merit only tracks
 respawn assists.
 
-<!--[category:merits](category:merits.md)-->
+

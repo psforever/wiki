@@ -9,4 +9,4 @@ It is [Lattice](../terminology/Lattice.md) Linked to:
 
 Hvar is a Hack-and-Hold Facility, and has no Towers close to it.
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

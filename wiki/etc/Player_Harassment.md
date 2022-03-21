@@ -8,4 +8,4 @@ set up mutliple ways to deal with it. In game you can type:
 
 - **/appeal** - Opens a window where you can submit a ticket to the CS team.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

@@ -16,4 +16,4 @@ including the [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) (not
 including a MAX). In addition to this, the driver may bail off of the wheeled
 vehicles at any time, regardless of speed.
 
-<!--[Category:Certification](../Category:Certification.md)-->
+

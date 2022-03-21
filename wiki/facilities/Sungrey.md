@@ -13,4 +13,4 @@ valuable Facility to hold.
 Sungrey is a Hack-and-Hold Facility, and has a Gun Tower South East of the
 Facility, just outside it's [SOI](../locations/Sphere_of_Influence.md).
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

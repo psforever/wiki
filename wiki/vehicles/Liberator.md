@@ -45,8 +45,3 @@ be purchasable.
 Apparent namesake:
 [Consolidated B-24 Liberator](http://en.wikipedia.org/wiki/B-24_Liberator)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-
-Vehicles](Category:Common_Pool_Vehicles.md)
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->

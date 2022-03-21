@@ -26,5 +26,3 @@
 - [Comet](../items/Comet.md)
 - [Quasar](../items/Quasar.md)
 - [Starfire](../items/Starfire.md)
-
-[\*](category:Armor.md)

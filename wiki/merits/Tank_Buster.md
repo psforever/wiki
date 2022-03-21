@@ -223,4 +223,4 @@ vehicles count toward this Merit:
 
 Each individual tank only counts once, regardless of the number of occupants.
 
-<!--[category:Merits](category:Merits.md)-->
+

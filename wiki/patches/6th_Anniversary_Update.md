@@ -19,4 +19,4 @@ commemorate this Anniversary we have a few exciting new additions for everybody!
 
 Thank you and we’ll see you on the battlefield!
 
-<!--[category:patches](category:patches.md)-->
+

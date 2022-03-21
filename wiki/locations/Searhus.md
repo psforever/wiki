@@ -63,4 +63,4 @@ Beware the lava pools! They are extremely unforgiving.
 - [Ngaru](../facilities/Ngaru.md)
 - [Tara](../facilities/Tara.md)
 
-<!--[Category:Locations](Category:Locations.md)-->
+

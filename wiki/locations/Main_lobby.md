@@ -19,4 +19,4 @@ base's [Module Cradles](../items/Module_Cradle.md),
 - [Technology Plant](../locations/Technology_Plant.md) lobbies contain all four structures in
   close proximity to each other.
 
-<!--[category:Locations](category:Locations.md)-->
+

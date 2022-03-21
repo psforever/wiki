@@ -27,4 +27,4 @@ charged in the core beam in the [Core Complex](Core_Complex.md).
 
 See [Modules](../etc/Modules.md) for more information about their Benefits.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

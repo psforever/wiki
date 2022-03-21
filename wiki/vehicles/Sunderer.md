@@ -26,7 +26,3 @@ carrying a driver, 2 gunners, 6 passengers, and 2
 Tank Cannons to be used in defense against vehicles, but depend on squad members
 disembarking to protect against up close infantry attack.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-
-Vehicles](Category:Common_Pool_Vehicles.md)

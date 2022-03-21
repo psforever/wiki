@@ -20,4 +20,4 @@ overlook this tower just to the north.
 
 **Gunuku** is the name of a principal Nigerian diety in African mythology.
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

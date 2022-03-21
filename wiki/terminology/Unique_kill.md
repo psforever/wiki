@@ -23,4 +23,4 @@ unique kill because 20 minutes have not passed since the last time RandomClown
 killed John318. Thirty minutes later, RandomClown kills John318 again and gets
 credit for a unique kill.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

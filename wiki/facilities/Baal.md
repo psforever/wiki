@@ -21,4 +21,4 @@ used as the title for several gods in the old Semitic and Canaanite religions,
 and later became a name for a demon in Judeo-Christian beliefs. See the
 [Wikipedia](http://en.wikipedia.org/wiki/Baal) article.
 
-<!--[Category:Facilities](../Category:Facilities.md)-->
+

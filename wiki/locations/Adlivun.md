@@ -13,4 +13,4 @@ Snipers tend to have a good time here, as the frozen lakebed affords long
 sightlines and little cover. Vehicles dominate for the same reason, though there
 is little room to hull down.
 
-<!--[Category:Locations](../Category:Locations.md)-->
+

@@ -8,4 +8,4 @@ certification has been broken up into
 [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md) which contains
 the [Reaver](../vehicles/Reaver.md).
 
-<!--[category:Terminology](category:Terminology.md)-->
+

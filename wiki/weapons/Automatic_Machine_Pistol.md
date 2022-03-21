@@ -35,7 +35,5 @@ Shots to kill:
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots                                        |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Weapons](../Category:Weapons.md)--> [Category:Common Pool
 
-Weapons](../Category:Common_Pool_Weapons.md)
+

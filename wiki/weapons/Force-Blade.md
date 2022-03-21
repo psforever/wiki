@@ -32,7 +32,3 @@ it does so.
 
 (Note: This weapon is part of the soldier's armor and so cannot be looted.)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
-
-Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

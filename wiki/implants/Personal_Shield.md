@@ -11,4 +11,4 @@ Some players use a strategy combining [Second Wind](Second_Wind.md) and P-Shield
 to allow them to absorb even more damage by activating Personal Shield just
 after Second Wind kicks in.
 
-<!--[category:Implants](category:Implants.md)-->
+

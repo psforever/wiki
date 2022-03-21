@@ -233,4 +233,4 @@ exactly the same as the Qualification to Platinum levels of the
 [Cavalry Driver](Cavalry_Driver.md) Merit Commendation. This is a
 mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
 
-<!--[category:Merits](category:Merits.md)-->
+

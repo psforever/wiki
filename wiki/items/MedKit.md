@@ -20,4 +20,4 @@ during combat.
 The Medkit has a timer associated with use, allowing one heal every two-three
 seconds. It takes up 4x2 inventory units.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

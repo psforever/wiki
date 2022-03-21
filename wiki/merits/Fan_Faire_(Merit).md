@@ -174,4 +174,4 @@ of the annual [SOE](../etc/Sony_Online_Entertainment.md)
 Fan Faire. The 2009 merit was awarded again for 2010 and 2011
 attendees.
 
-<!--[Category:Merits](Category:Merits.md)-->
+

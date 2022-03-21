@@ -36,4 +36,4 @@ Enemy from respawning and getting their gear. Cavern Spawn Rooms have a
 [Pain Field](../terminology/Pain_Field.md) strength equal to that of a
 [Pain Module](../etc/Pain_Module.md) by default.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

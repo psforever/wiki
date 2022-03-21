@@ -304,5 +304,3 @@ Cost</p></th>
 </tr>
 </tbody>
 </table>
-
-[\*](Category:Certification.md)

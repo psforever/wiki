@@ -20,4 +20,4 @@ Vision and [Audio Amplifier](../implants/Audio_Amplifier.md)
 Infiltration Suit provides no armor protection, doesn't allow the use of a
 rifle, and has a very small inventory.
 
-<!--[Category:Certification](Category:Certification.md)-->
+

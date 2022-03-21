@@ -163,4 +163,4 @@ of Enemies using the pilot's weapons in a
 Upon completion of the Basic level, the pilot will be able to acquire the Flight
 Variant BattleFrame Robotic.
 
-<!--[category:Merits](category:Merits.md)-->
+

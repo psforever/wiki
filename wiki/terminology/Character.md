@@ -15,4 +15,4 @@ Each character has a customizable appearance, name, and affiliation. Each
 ([SOE](../etc/Sony_Online_Entertainment.md)) account may create as many as
 twenty-four characters on the PlanetSide Server.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

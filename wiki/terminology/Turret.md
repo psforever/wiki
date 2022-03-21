@@ -16,4 +16,4 @@ There are several kinds of Turrets in Planetside:
 - [Cerberus Turret](../weapons/Cerberus_Turret.md) - an automated anti-aircraft
   turret deployed with an [ACE](../weapons/Adaptive_Construction_Engine.md)
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

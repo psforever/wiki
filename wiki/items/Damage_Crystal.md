@@ -15,4 +15,4 @@ die since there is no way out of the hole. Another one, located in
 grid H-15. Just before you get on the UP [zipline](Zipline.md), look down to
 your left, into the crevice for it.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

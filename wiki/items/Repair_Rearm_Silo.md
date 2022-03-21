@@ -17,4 +17,4 @@ these terminals.
 Also sometimes referred to as a _Ground Repair/Rearm.md Station_ or _Repair
 Terminal_.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

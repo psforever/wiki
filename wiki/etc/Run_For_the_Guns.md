@@ -37,4 +37,4 @@ server will reflect different conditions, based on the Winners on each.
 Get out on the battlefield and run for the guns! Your Empire's arsenal could
 open up as never before!
 
-<!--[Category:Events](Category:Events.md)-->
+

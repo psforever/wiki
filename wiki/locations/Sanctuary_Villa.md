@@ -9,4 +9,4 @@ several of each type of [Vehicle Terminal](../locations/Vehicle_Terminal.md), an
 
 There are three Villas in each Empire's [Sanctuary](../locations/Sanctuary.md).
 
-<!--[Category:Locations](Category:Locations.md)-->
+

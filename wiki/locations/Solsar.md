@@ -60,4 +60,4 @@ empire sanctuary links.
 - [Amun](../facilities/Amun.md) (Sub-Capitol)
 - [Seth](../facilities/Seth.md)
 
-<!--[Category:Locations](Category:Locations.md)-->
+

@@ -10,4 +10,4 @@ Cavern lock is granted to an empire when they completely control an active Core
 These benefits will remain until the cavern is either unlocked or becomes
 inactive.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

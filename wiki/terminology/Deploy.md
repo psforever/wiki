@@ -35,4 +35,4 @@ ability is essentially the same as "deploying" it, but is never referred to in
 that way. Similarly, [BFRs](../vehicles/BattleFrame_Robotics.md) can crouch and
 improve fire rate, accuracy, and shield recharge, similar to TR MAXes.
 
-<!--[category:Terminology](category:Terminology.md)-->
+

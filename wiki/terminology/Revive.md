@@ -21,6 +21,3 @@ pointing the Medical Applicator at the ground, the "Corpse of" dialogue needs to
 show up to be able to revive the player. Generally, the area around the feet is
 the easiest area to find the "Corpse of" dialogue.
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
-
-Guides](Category:Game_Guides.md)

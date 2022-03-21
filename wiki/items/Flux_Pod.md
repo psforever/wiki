@@ -11,4 +11,4 @@ and are best against infantry due to their splash damage. Approximately 5 pods
 will kill a full-health soldier wearing
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

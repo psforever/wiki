@@ -52,7 +52,7 @@ Vehicles that can fit in the [Galaxy](Galaxy.md)  cargo hold are:
 The Galaxy's apparent namesake is the
 [Lockheed Galaxy](http://en.wikipedia.org/wiki/C-5_Galaxy)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)-->
-<!--[Category:Common Pool Vehicles](Category:Common_Pool_Vehicles.md)-->
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->
+
+
+
+

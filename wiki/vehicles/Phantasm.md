@@ -59,8 +59,3 @@ can earn the [Galaxy Support Pilot](../merits/Galaxy_Support_Pilot.md)
 [merit](../merits/Merit_Commendations.md) for kills made by players after they
 bail from the aircraft.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-
-Vehicles](Category:Common_Pool_Vehicles.md)
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->

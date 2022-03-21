@@ -11,4 +11,4 @@
 One [Tower](../locations/Towers.md) to the west, just outside the
 [SOI](../locations/Sphere_of_Influence.md)
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

@@ -28,4 +28,4 @@ received access to [AfterShock](../items/AfterShock.md) content.
   the [warp queue](Warp_queue.md) for a [poplocked](Population_Lock.md)
   [zone](Zone.md)
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

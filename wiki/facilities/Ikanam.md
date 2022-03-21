@@ -15,4 +15,4 @@ Sanctuary links.
 Ikanam has a Gun Tower to it's East, just outside it's
 [SOI](../locations/Sphere_of_Influence.md). Ikanam is a Hack-and-Hold Facility.
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

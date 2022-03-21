@@ -15,4 +15,4 @@ depending on the continent.
 Also refered to as a Continent Lock, or
 [Cont lock](../terminology/Acronyms_and_Slang.md).
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

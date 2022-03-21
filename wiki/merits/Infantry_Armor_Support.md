@@ -300,4 +300,4 @@ universal symbol for humanitarian aid, but in blue instead of red:
 </tbody>
 </table>
 
-<!--[category:Merits](category:Merits.md)-->
+

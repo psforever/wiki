@@ -41,4 +41,4 @@ See [Home Continent](Home_Continent.md) for the current empire sanctuary links.
 
 The words Planet and Continent are sometimes interchangable.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

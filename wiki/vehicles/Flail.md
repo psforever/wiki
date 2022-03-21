@@ -49,10 +49,10 @@ purchasable on the surface. To recharge the Flail's capacitor, you must go to a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) in the
 [Caverns](../locations/Caverns.md).
 
-<!--[category:Vehicles](category:Vehicles.md)-->
-<!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
-<!--[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)-->
-<!--[category:Ancient Tech Vehicles](category:Ancient_Tech_Vehicles.md)-->
-<!--[category:Core Combat](category:Core_Combat.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+
+
+
+
+
+

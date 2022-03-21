@@ -40,4 +40,4 @@ Kills made with these turrets count towards both the
 [Engineering]../merits/Engineering\_(Merit).md)
 [Merits](../merits/Merit_Commendations.md).
 
-<!--[Category:Weapons](Category:Weapons.md)-->
+

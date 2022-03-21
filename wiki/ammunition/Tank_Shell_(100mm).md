@@ -13,5 +13,5 @@ can be obtained from any [Equipment Terminal](../items/Equipment_Terminal.md) to
 be hand-loaded into the Prowler's [trunk](../terminology/Trunk.md) or acquired
 while in the vehicle from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Ammunition](Category:Ammunition.md)-->
+
+

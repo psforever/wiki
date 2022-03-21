@@ -3085,5 +3085,3 @@ bgcolor="#AAAAAA">
 </td>
 </tr>
 </table>
-
-[\*W](category:Merits.md)

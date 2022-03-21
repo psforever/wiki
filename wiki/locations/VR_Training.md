@@ -65,4 +65,4 @@ alone. This means you start active duty with ten
 [Certification points](../certifications/Certification_points.md) to spend,
 instead of seven.)
 
-<!--[category:Locations](category:Locations.md)-->
+

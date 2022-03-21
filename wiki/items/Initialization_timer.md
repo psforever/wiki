@@ -8,4 +8,4 @@ blast.
 Each Implant has its own timer, which ranges from 1 minute to 3 minutes and 10
 seconds, depending on the implant.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

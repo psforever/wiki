@@ -6,4 +6,4 @@ Respawn points are typically located at facility and tower
 
 Also called a Respawn point.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

@@ -34,7 +34,3 @@ the plasma burning on them even while cloaked, and thus can be a useful way of
 revealing cloakers without using the [Darklight](../implants/Darklight.md)
 [Implant](../implants/Implants.md).
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
-
-Weapons](Category:Common_Pool_Weapons.md)

@@ -25,8 +25,8 @@ The **Reaver** requires a [Technology Plant](../locations/Technology_Plant.md)
 lattice link or [Sanctuary](../locations/Sanctuary.md) air vehicle pad in order
 to be purchasable.
 
-<!--[category:Vehicles](category:Vehicles.md)-->
-<!--[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)-->
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->
+
+
+
+

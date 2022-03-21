@@ -148,4 +148,4 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 - [Support Experience Points](../terminology/Support_Experience_Points.md)
 - [Support Merit Commendations](../merits/Support_Merit_Commendations.md)
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

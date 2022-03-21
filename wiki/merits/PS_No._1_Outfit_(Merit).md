@@ -43,4 +43,4 @@ players from 14 different Outfits competing for dominance.
 The Outfit "CHINA TRIBES LEAGUE" won the Tournament and it's Members received
 the Merit as reward.
 
-<!--[category:Merits](category:Merits.md)-->
+

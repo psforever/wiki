@@ -226,4 +226,4 @@ exactly the same as the Qualification to Platinum levels of the
 [Transport Blockade](Transport_Blockade_(Merit).md) Merit Commendation. This
 is a mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
 
-<!--[category:Merits](category:Merits.md)-->
+

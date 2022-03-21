@@ -222,4 +222,4 @@ version of the [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md):
 The [Orion](../weapons/Orion.md). These kills also count towards the general
 [Turret Gunner](Turret_Gunner.md) [Merit Commendation](Merit_Commendations.md).
 
-<!--[category:Merits](category:Merits.md)-->
+

@@ -49,4 +49,4 @@ while in overdrive. MAXes with overdrive active will glow red.
 jump-jets. These jump jets draw power from an onboard MAX Capacitor. Once
 depleted, the capacitor will recharge.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

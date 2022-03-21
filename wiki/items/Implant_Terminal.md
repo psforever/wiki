@@ -29,4 +29,4 @@ user to install implants from the left pane or remove them from the right pane.
 
 ### [Available Implants](../implants/Implants.md)
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
+

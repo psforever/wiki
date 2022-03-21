@@ -26,4 +26,4 @@ to the icon of the weapon you wish to use under the "Weapons" tab. For vehicle
 ammunition, the lower pane of the window lists what vehicle(s) the ammunition
 can be used in.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
+

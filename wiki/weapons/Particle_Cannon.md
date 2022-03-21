@@ -19,8 +19,3 @@ powerful single-shot anti-vehicular weapon in the game, featuring a
 straight-line trajectory, yet relatively large cone of fire. The weapon leaves
 behind a minor irradiation field that lingers for a few seconds, eating away at
 the armor of anything inside.
-
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Weapons](Category:Weapons.md)--> [Category:New
-
-Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

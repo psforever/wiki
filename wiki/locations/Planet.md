@@ -39,4 +39,4 @@ Each Planet and its status can be viewed from the
 
 The words Planet and Continent are sometimes interchangable.
 
-<!--[Category:Locations](Category:Locations.md)-->
+

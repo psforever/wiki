@@ -33,6 +33,6 @@ is online.
 
 The Main Terminal can not be destroyed.
 
-<!--[category:Game Items](category:Game_Items.md)-->
-<!--[category:Locations](category:Locations.md)-->
-<!--[category:Terminology](category:Terminology.md)-->
+
+
+

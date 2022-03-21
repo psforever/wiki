@@ -8,6 +8,3 @@ scale as a top-down display.
 placement of the map in the top-left corner of the
 [HUD](../etc/Heads-up_Display.md).
 
-<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
-
-Guides](Category:Game_Guides.md)

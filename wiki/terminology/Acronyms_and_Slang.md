@@ -464,4 +464,4 @@ DEAD Outfit (TR) TRx :
 [Vanu Corporation](../outfits/Vanu_Corporation.md) (VS) WNx :
 [Warrior Nation](Warrior_Nation.md) Outfit (VS)
 
-<!--[category:Terminology](category:Terminology.md)-->
+

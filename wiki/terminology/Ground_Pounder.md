@@ -6,4 +6,4 @@ the secondary weapon of the [Galaxy Gunship](../vehicles/Galaxy_Gunship.md).
 
 It rapidly fires grenades that explode on contact.
 
-<!--[Category:Terminology](Category:Terminology.md)-->
+

@@ -25,4 +25,4 @@ Originally, the name "Orion" was given the Vanu Sovereignty's gunner-variant
 [BFR](../vehicles/BattleFrame_Robotics.md), which is now called the
 [Aphelion](../vehicles/Aphelion.md).
 
-<!--[Category:Weapons](Category:Weapons.md)-->
+

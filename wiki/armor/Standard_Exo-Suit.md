@@ -23,5 +23,5 @@ does allow the wearer to run a little faster than the
 without other [Certifications](../certifications/Certifications.md) means this
 armor has no practical use, other than quick defense of a base without power.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Armor](Category:Armor.md)-->
+
+

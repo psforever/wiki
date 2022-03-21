@@ -14,5 +14,5 @@ These Statistics only appear if they apply:
 
 The default keyboard combination to toggle the Session Statistics is Ctrl+S.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
-<!--[Category:Terminology](Category:Terminology.md)-->
+
+

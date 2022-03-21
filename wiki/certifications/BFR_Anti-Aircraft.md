@@ -38,4 +38,4 @@ It should be also noted that all the BFR Anti-Aircraft weapons, even when they
 are paired, are still less effective than their
 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Unit counterparts.
 
-<!--[Category:Certification](../Category:Certification.md)-->
+

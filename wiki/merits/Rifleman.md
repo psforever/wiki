@@ -215,4 +215,4 @@
 This Merit is awarded to soldiers amassing kills with
 [Medium Assault](../certifications/Medium_Assault.md) weapons.
 
-<!--[category:Merits](category:Merits.md)-->
+

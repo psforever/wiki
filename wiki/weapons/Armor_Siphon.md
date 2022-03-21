@@ -39,7 +39,6 @@ with the [NTU Siphon](NTU_Siphon.md) in attacking enemy
 [EMP](../commands/EMP.md) the enemy, then using the Armor Siphon to bypass their
 shields, the enemy BFR can be destroyed fairly quickly.
 
-<!--[Category:Game Items](../Category:Game_Items.md)-->
-<!--[Category:Weapons](../Category:Weapons.md)--> [Category:Common Pool
 
-Weapons](../Category:Common_Pool_Weapons.md)
+
+

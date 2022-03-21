@@ -225,4 +225,4 @@ This Merit is awarded to a [Liberator](../vehicles/Liberator.md) or
 Upon completion of the Bronze level of this Merit, the
 [Vulture](../vehicles/Vulture.md) becomes available for purchase.
 
-<!--[category:Merits](category:Merits.md)-->
+

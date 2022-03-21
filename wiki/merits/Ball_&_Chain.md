@@ -69,4 +69,4 @@ your merit list panel.
 This Merit has a baby blue colored center for male characters, and a pink/skin
 colored center for female characters.
 
-<!--[Category:merits](Category:merits.md)-->
+

@@ -11,5 +11,5 @@ These missiles are the [ammunition](../items/Ammunition.md) used by the
 [Scorpion](../weapons/Scorpion.md) Missile Launcher. The boxes are the size of hand-held
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) ammunition.
 
-<!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Ammunition](Category:Ammunition.md)-->
+
+

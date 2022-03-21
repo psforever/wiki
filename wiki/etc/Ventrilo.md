@@ -20,4 +20,4 @@ and some go as far as to mandate Ventrilo to be a member of the
 
 - [The Ventrilo Home Page](http://www.ventrilo.com/)
 
-<!--[category:Communication](category:Communication.md)-->
+

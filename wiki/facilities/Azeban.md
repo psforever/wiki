@@ -14,4 +14,4 @@ Azeban has [Lattice](../terminology/Lattice.md) Links to:
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Xelas](Xelas.md)
 - [Hossin](../locations/Hossin.md) Warpgate
 
-<!--[Category:Facilities](../Category:Facilities.md)-->
+

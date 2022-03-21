@@ -304,4 +304,4 @@ universal symbol for humanitarian aid:
 </tbody>
 </table>
 
-<!--[category:Merits](category:Merits.md)-->
+

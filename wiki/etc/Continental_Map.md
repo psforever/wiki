@@ -188,4 +188,4 @@ situations.
   Warp destination. Available choices are shown by spining cyan circles on the
   warp gates.
 
-<!--[Category:Game Guides](Category:Game_Guides.md)-->
+

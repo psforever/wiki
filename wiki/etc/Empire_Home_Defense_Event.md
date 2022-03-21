@@ -81,4 +81,4 @@ leadership, they ended up with the victory. NC fought really well on this
 continent as well. The Vanu Sovereignty defeated the NC. The VS were well
 organized with good leadership.
 
-<!--[Category:Events](Category:Events.md)-->
+

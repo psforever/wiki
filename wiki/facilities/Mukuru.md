@@ -8,4 +8,4 @@ Lattice links are to [Nzame](Nzame.md) and [Leza](Leza.md).
 
 Elevation: 54.1m
 
-<!--[Category:Facilities](Category:Facilities.md)-->
+

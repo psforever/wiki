@@ -50,4 +50,4 @@ capitol, or in close proximity of one, regardless of the
 
 sources: online manual
 
-<!--[Category:Locations](../Category:Locations.md)-->
+
