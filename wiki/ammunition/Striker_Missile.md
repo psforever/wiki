@@ -13,6 +13,3 @@ These missiles are used by the [Terran Republic](../etc/Terran_Republic.md)'s
 anti-vehicular weapon, the [Striker](../weapons/Striker.md). They do identical
 damage as the [Lancer](../weapons/Lancer.md)'s rounds, killing a
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) unit in 6 shots.
-
-
-

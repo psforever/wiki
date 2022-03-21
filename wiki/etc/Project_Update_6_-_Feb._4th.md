@@ -30,5 +30,3 @@ far on the Login Server. It is available here:
 Until next time!
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=135)
-
-

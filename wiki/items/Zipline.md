@@ -1,11 +1,11 @@
-![Ziplines in [Adlivun](../locations/Adlivun.md) [Cavern](../locations/Caverns.md)](../images/AdlivunZiplines.jpg){ class="figure" }
+![Ziplines in [Adlivun](../locations/Adlivun.md) [Cavern](../locations/Caverns.md)](../images/AdlivunZiplines.jpg){
+class="figure" }
 
 ![Commander traveling on a Zipline](../images/TRonZipline.jpg){ class="figure" }
 
-Ziplines are objects located solely
-within the [caverns](Core_Combat.md) which allow Infantry (and
-[MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units) to quickly move between different
-platforms.
+Ziplines are objects located solely within the [caverns](Core_Combat.md) which
+allow Infantry (and [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units) to
+quickly move between different platforms.
 
 The entry and exit points of a zipline are spheres of energy, and walking into
 these will allow you to utilize them.
@@ -37,5 +37,3 @@ in transit, colored red for the [Terran Republic](../etc/Terran_Republic.md),
 purple for the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) and yellow for the
 [New Conglomerate](../etc/New_Conglomerate.md), and all three can be seen from
 some distance away.
-
-

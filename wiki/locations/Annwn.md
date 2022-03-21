@@ -1,5 +1,5 @@
-![](../images/Annwn.jpg){ class="figure" }
-![](../images/AnnwnMap.jpg){ class="figure" }
+![](../images/Annwn.jpg){ class="figure" } ![](../images/AnnwnMap.jpg){
+class="figure" }
 
 Annwn is one of the six [Core Combat](../items/Core_Combat.md)
 [Caverns](Caverns.md) and is characterized by teal soil, green marble crystals,
@@ -19,5 +19,3 @@ shows some of the most common and efficient ziplines to navigate the cavern.
 It can be assumed that the origin of the cavern's name comes from the
 paradise-esque underworld [Annwn](http://en.wikipedia.org/wiki/Annwyn) in Welsh
 mythology.
-
-

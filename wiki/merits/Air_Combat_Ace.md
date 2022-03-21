@@ -240,5 +240,3 @@ Combat aircraft include the following:
 - [Mosquito](../vehicles/Mosquito.md)
 - [Vulture](../vehicles/Vulture.md)
 - [Wasp](../vehicles/Wasp.md)
-
-

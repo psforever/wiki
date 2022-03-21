@@ -1,18 +1,19 @@
 !['s
-[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/ProwlerPicture.jpg){ class="figure" }
+[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/ProwlerPicture.jpg){
+class="figure" }
 
-|                            |                                                                                                                            |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
-| **Role**                   | Attack                                                                                                                     |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                               |
-| **Primary Weapon**         | Dual 100mm Cannons                                                                                                         |
-| **Secondary Weapon**       | Dual 15mm Rotary Chainguns                                                                                                 |
-| **Ammunition**             | [100mm Tank Shells](../ammunition/Tank_Shell_(100mm).md) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md)           |
-| **Occupants**              | 3 (Driver and 2 Gunners)                                                                                                   |
-| **Handling**               | Good                                                                                                                       |
-| **Top speed**              | 57 kph                                                                                                                     |
+|                            |                                                                                                                                |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                           |
+| **Role**                   | Attack                                                                                                                         |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md)     |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                   |
+| **Primary Weapon**         | Dual 100mm Cannons                                                                                                             |
+| **Secondary Weapon**       | Dual 15mm Rotary Chainguns                                                                                                     |
+| **Ammunition**             | [100mm Tank Shells](<../ammunition/Tank_Shell_(100mm).md>) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md) |
+| **Occupants**              | 3 (Driver and 2 Gunners)                                                                                                       |
+| **Handling**               | Good                                                                                                                           |
+| **Top speed**              | 57 kph                                                                                                                         |
 
 **Prowler**
 
@@ -37,4 +38,3 @@ Shots to kill (with Dual 100mm Cannons only):
 | [Vanguard](Vanguard.md)   | 15 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
-

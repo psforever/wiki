@@ -25,5 +25,3 @@ following abilities:
 - Infect an enemy [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md)
   to emit a [Pain Field](../terminology/Pain_Field.md) that damages friendly
   units.
-
-

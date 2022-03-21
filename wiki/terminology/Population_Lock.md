@@ -13,6 +13,3 @@ They come in two varieties:
   continent cannot fit any more troops from any and all empires. This lock is
   put in place due to hardware limitations on the continental servers, and is
   only seen during a very intense three-way battle.
-
-
-

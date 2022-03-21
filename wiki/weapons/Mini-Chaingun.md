@@ -1,15 +1,15 @@
 ![Soldier equipped with a Mini-Chaingun](../images/MCG.jpg){ class="figure" }
 
-|                            |                                                                                                        |
-| -------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                    |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                           |
-| **Primary Mode**           | Rapid Fire                                                                                             |
-| **Secondary Mode**         | \-                                                                                                     |
+|                            |                                                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                                 |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                        |
+| **Primary Mode**           | Rapid Fire                                                                                                          |
+| **Secondary Mode**         | \-                                                                                                                  |
 | **Ammunition**             | 9mm Bullet ([Standard](../ammunition/9mm_Bullet.md) / [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                                  |
-| **Magazine Capacity**      | 100                                                                                                    |
-| **Zoom**                   | 2x                                                                                                     |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                                               |
+| **Magazine Capacity**      | 100                                                                                                                 |
+| **Zoom**                   | 2x                                                                                                                  |
 
 **Mini-Chaingun (MCG)**
 
@@ -40,4 +40,3 @@ Shots to kill:
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Impl../implants/Implants.mdnts.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
-

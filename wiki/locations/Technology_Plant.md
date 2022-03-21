@@ -1,15 +1,16 @@
 ![, [Esamir](Esamir.md)
-as seen from above](../images/Dagur_overhead.jpg){ class="figure" }
+as seen from above](../images/Dagur_overhead.jpg){
+class="figure" }
 
 ## Base Facility Specs
 
 |                                                                       |                                           |
 | --------------------------------------------------------------------- | ----------------------------------------- |
-| [Control Console](../locations/Control_Console.md):                                | Level 3                                   |
+| [Control Console](../locations/Control_Console.md):                   | Level 3                                   |
 | [Generator](../items/Generator.md):                                   | Level 1                                   |
 | [Spawn room](Spawn_Room.md):                                          | Level 2                                   |
-| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air):                        | Level 3                                   |
-| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Ground):                     | Level 2                                   |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air):           | Level 3                                   |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Ground):        | Level 2                                   |
 | [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:    | Level 2                                   |
 | [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | Advanced vehicles (benefit icon: vehicle) |
 | [Wall Turrets](../items/Phalanx.md):                                  | 6                                         |
@@ -25,14 +26,14 @@ Any facility linked to this base along a lattice will receive this powerful
 benefit. Without it, Empires must purchase advanced vehicles from their
 [Sanctuary](../locations/Sanctuary.md).
 
-The [Control Console](../locations/Control_Console.md) for this base is on the top floor,
-while the [LLU](../terminology/Lattice_Logic_Unit.md) Socket is located on Level
-1 in the basement.
+The [Control Console](../locations/Control_Console.md) for this base is on the
+top floor, while the [LLU](../terminology/Lattice_Logic_Unit.md) Socket is
+located on Level 1 in the basement.
 
 Another unique feature of Tech Plants, as they are called, is the
-[Vehicle Terminals](../locations/Vehicle_Terminal.md) are located indoors. On the top floor
-are two terminals for the Air Vehicle creation pads, and another on Level 2 for
-the Ground Vehicle creation pad.
+[Vehicle Terminals](../locations/Vehicle_Terminal.md) are located indoors. On
+the top floor are two terminals for the Air Vehicle creation pads, and another
+on Level 2 for the Ground Vehicle creation pad.
 
 ## Technology Plant Locations
 
@@ -96,5 +97,3 @@ the Ground Vehicle creation pad.
 
 - [Amun](../facilities/Amun.md) (Sub-Capitol)
 - [Seth](../facilities/Seth.md)
-
-

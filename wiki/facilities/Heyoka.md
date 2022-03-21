@@ -12,5 +12,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Heyoka is a [LLU](../terminology/Lattice_Logic_Unit.md) Facility, and has a
 Watch Tower to it's North East, half in, half outside the Facility's
 [SOI](../locations/Sphere_of_Influence.md).
-
-

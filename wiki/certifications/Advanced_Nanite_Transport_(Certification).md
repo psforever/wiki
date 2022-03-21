@@ -10,5 +10,3 @@
 
 This is not a [certification](Certification.md) per se, as it is free for every
 player.
-
-

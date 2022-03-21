@@ -11,4 +11,3 @@ is online. Meteor showers can be called in a general area and affect a large
 area. Single meteors can also be called and directed at players the GM dislikes
 at the time. The most common use for meteors is to add atmosphere to a special
 [event](../etc/Events.md) or to generally annoy the players in a large battle.
-

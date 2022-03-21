@@ -12,5 +12,3 @@ Map.
 There is also another map that appears on your [HUD](../etc/Heads-up_Display.md)
 screen, but has different features. This is the
 [Proximity Map](Proximity_Map.md), also called Proximity Radar or Radar Map.
-
-

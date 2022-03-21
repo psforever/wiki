@@ -13,5 +13,3 @@ has intense strength (3 times stronger than a pain module pain field).
 Facilities with upgraded generator pain fields will display a special icon on
 the [Continental Map](../etc/Continental_Map.md) and will last for 30 minutes
 after the last boost.
-
-

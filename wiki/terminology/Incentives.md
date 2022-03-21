@@ -7,5 +7,3 @@ Incentives are applied in two different scales:
 - [Empire Incentives](../etc/Empire_Incentives.md) (Planetary (Continent/Cavern)
   scale)
 - [Global Incentives](Global_Incentives.md) (Universal scale)
-
-

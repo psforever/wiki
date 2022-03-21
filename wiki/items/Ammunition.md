@@ -8,9 +8,9 @@ automatically. Some weapons can use multiple types of ammunition (like
 
 Vehicle ammunition is normally stored in the [trunk](../terminology/Trunk.md) of
 the vehicle and supplied to the appropriate weapon automatically. The
-[Flail](../vehicles/Flail.md) and [Switchblade](Switchblade.md) are the exceptions, using
-on-board capacitors for ammunition that can only be refiled by an
-[Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) or
+[Flail](../vehicles/Flail.md) and [Switchblade](Switchblade.md) are the
+exceptions, using on-board capacitors for ammunition that can only be refiled by
+an [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) or
 [Vehicle Module](../etc/Vehicle_Module.md) [benefit](../etc/Module_benefit.md).
 
 All ammunition native to your [empire](../terminology/Empire.md) can be obtained
@@ -25,5 +25,3 @@ When obtaining hand-held ammunition, you can find the appropriate ammo box next
 to the icon of the weapon you wish to use under the "Weapons" tab. For vehicle
 ammunition, the lower pane of the window lists what vehicle(s) the ammunition
 can be used in.
-
-

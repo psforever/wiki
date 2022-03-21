@@ -15,7 +15,7 @@
 
 **Vulture**
 
-This close-support bomber is a modified [Liberator](Liberator.md)  airframe. It
+This close-support bomber is a modified [Liberator](Liberator.md) airframe. It
 has a smaller payload but improved speed and handling, as well as afterburners.
 It lacks the pilot's downward-facing 'bomber mode' camera and cannot equip
 anti-infantry cluster bombs.
@@ -52,8 +52,3 @@ from a flight vehicle terminal will require not only the
 Vulture requires a [Technology Plant](../locations/Technology_Plant.md) lattice
 link or [Sanctuary](../locations/Sanctuary.md) vehicle pad in order to be
 purchasable.
-
-
-
-
-

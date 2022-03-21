@@ -621,7 +621,7 @@ vehicle-related tasks, such as:
 <tr>
 <td rowspan="2">
 
-[BFR](BFR_(Merit).md)
+[BFR](<BFR_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -772,7 +772,7 @@ vehicle-related tasks, such as:
 <tr>
 <td>
 
-[Bombardier](Bombardier_(Merit).md)
+[Bombardier](<Bombardier_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1983,7 +1983,7 @@ vehicle-related tasks, such as:
 <tr>
 <td rowspan="2">
 
-[MAX Operator](MAX_Operator_(Merit).md)
+[MAX Operator](<MAX_Operator_(Merit).md>)
 
 </td>
 <td class="mit">

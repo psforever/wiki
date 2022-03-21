@@ -31,5 +31,3 @@ damage per stab, but also creating a distinctive and clearly audiable noise as
 it does so.
 
 (Note: This weapon is part of the Soldier's Armor and so cannot be looted.)
-
-

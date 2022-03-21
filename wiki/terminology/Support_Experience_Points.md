@@ -1,9 +1,10 @@
 **Support Experience** (**SEP**) went live in Patch [3.7.3](../patches/3.7.3.md)
 and is awarded for Kills that a Friendly Soldier makes after you have Supported
-him. It is [Battle Experience](Battle_Experience_Points.md) awarded for Support activities. "Support"
-includes:
+him. It is [Battle Experience](Battle_Experience_Points.md) awarded for Support
+activities. "Support" includes:
 
-- Repairing [armor](../armor/Armor_Index.md) (infantry or vehicles) that then scores kills
+- Repairing [armor](../armor/Armor_Index.md) (infantry or vehicles) that then
+  scores kills
 - Repairing any kind of [turret](Turret.md) that then score kills
 - Healing damage to a soldier that then scores kills
 - Reviving a dead soldier that then scores kills
@@ -23,10 +24,10 @@ includes:
   [vehicles](../vehicles/Vehicle.md) either repair or rearm at and then score
   kills
 
-Unlike base capture or kill [BEP](Battle_Experience_Points.md), you will not be notified immediately
-on receiving Support Experience. Instead, you will receive occasional messages
-in your chat box about your "Support Activity". This experience is considered to
-be BEP when it is rewarded.
+Unlike base capture or kill [BEP](Battle_Experience_Points.md), you will not be
+notified immediately on receiving Support Experience. Instead, you will receive
+occasional messages in your chat box about your "Support Activity". This
+experience is considered to be BEP when it is rewarded.
 
 Also, note that SEP is included in your BEP total. It is displayed separately to
 allow you to see how effective your support has been.
@@ -36,5 +37,3 @@ allow you to see how effective your support has been.
 - [Battle Experience Points](Battle_Experience_Points.md)
 - [Command Experience Points](Command_Experience_Points.md)
 - [Support Merit Commendations](../merits/Support_Merit_Commendations.md)
-
-

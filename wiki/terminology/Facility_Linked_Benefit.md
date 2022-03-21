@@ -37,8 +37,8 @@ benefit associated or linked to that base.
 <!-- -->
 
 - [Bio Laboratory](../locations/Bio_Laboratory.md) - (Benefit icon:
-  [Spawn tube](../items/Respawn_Tube.md)) Reduces respawn times at friendly linked
-  facilities.
+  [Spawn tube](../items/Respawn_Tube.md)) Reduces respawn times at friendly
+  linked facilities.
 
 <!-- -->
 
@@ -60,15 +60,15 @@ benefit associated or linked to that base.
   Replenishment of vehicle ammunition has since become a free feature for all
   bases, regardless of a link to a Dropship Center. See
   [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md). Note:
-  [Ancient Tech](Ancient_Technology.md)  Vehicles ([Flail](../vehicles/Flail.md) and
-  [Switchblade](../items/Switchblade.md)) require the
+  [Ancient Tech](Ancient_Technology.md) Vehicles ([Flail](../vehicles/Flail.md)
+  and [Switchblade](../items/Switchblade.md)) require the
   [Vehicle Module](../etc/Vehicle_Module.md) benefit to be repaired and/or
   rearmed, and will not be repaired with the Dropship Center benefit alone.
 
 <!-- -->
 
-- [Interlink Facility](../locations/Interlink.md) - (Benefit icon: Radar) Enhanced RADAR
-  abilities at all linked facilities.
+- [Interlink Facility](../locations/Interlink.md) - (Benefit icon: Radar)
+  Enhanced RADAR abilities at all linked facilities.
 
   Facilities linked to an Interlink Facility will gain certain enhancements to
   their **RADAR systems**. All enemy vehicles will appear on RADAR, except for
@@ -85,5 +85,3 @@ benefit associated or linked to that base.
 - [Technology Plant](../locations/Technology_Plant.md) - (Benefit icon: Tank)
   Provides Access to
   [Advanced Assault vehicles](../vehicles/Advanced_Assault_vehicles.md)
-
-

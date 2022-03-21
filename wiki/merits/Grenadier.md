@@ -217,5 +217,3 @@ This Merit is awarded to soldiers amassing kills with one of the following:
 - [Thumper](../weapons/Thumper.md)
 - [Plasma grenade](../weapons/Plasma_grenade.md)
 - [Fragmentation grenade](../weapons/Fragmentation_grenade.md)
-
-

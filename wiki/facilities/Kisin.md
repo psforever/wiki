@@ -12,5 +12,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Kisin has an Air Tower to it's South East, which is inside it's
 [SOI](../locations/Sphere_of_Influence.md). Kisin is a
 [LLU](../terminology/Lattice_Logic_Unit.md) Facility.
-
-

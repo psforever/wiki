@@ -5,11 +5,10 @@ ramparts. Within the walls are various support features such as the
 and typically the [BFR Shed](../items/BFR_Shed.md) and
 [Vehicle Terminal](../locations/Vehicle_Terminal.md). However,
 [Technology Plants](../locations/Technology_Plant.md) have both Air and Ground
-[Vehicle Terminals](../locations/Vehicle_Terminal.md) enclosed in the main structure.
+[Vehicle Terminals](../locations/Vehicle_Terminal.md) enclosed in the main
+structure.
 
 The Courtyard has two arched entrances at opposite corners of the base, allowing
 vehicular access. These entrances become sealed against most enemy
 [vehicles](../vehicles/Vehicle.md) and gunfire with a lattice linked
 [Shield Module](../items/Shield_Module.md).
-
-

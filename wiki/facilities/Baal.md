@@ -20,5 +20,3 @@ _Baal_ is a Semitic word signifying 'The Lord, master, owner, husband.' It was
 used as the title for several gods in the old Semitic and Canaanite religions,
 and later became a name for a demon in Judeo-Christian beliefs. See the
 [Wikipedia](http://en.wikipedia.org/wiki/Baal) article.
-
-

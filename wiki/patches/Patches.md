@@ -26,8 +26,8 @@ at bottom.
   [Implant](../implants/Implants.md) confirmation removed.
   [Tells](../commands/Tell.md) no longer case sensitive.
 - [1.2](1.2.md) - [Zone](../terminology/Zone.md) crash fixes, weather tweaks,
-  and Server listing tweaks added. Base kill
-  [Experience](../etc/Experience.md) doubled from 50 to 100.
+  and Server listing tweaks added. Base kill [Experience](../etc/Experience.md)
+  doubled from 50 to 100.
 - [1.3](1.3.md) - Zone and game crash fixes
 
 ### June
@@ -49,8 +49,8 @@ at bottom.
 
 ### August
 
-- [LLU Patch](Unnumbered_Patches.md#llu-goes-live---august-14-2003) -
-  LLU capture system goes live! [Lasher](../weapons/Lasher.md) and
+- [LLU Patch](Unnumbered_Patches.md#llu-goes-live---august-14-2003) - LLU
+  capture system goes live! [Lasher](../weapons/Lasher.md) and
   [Starfire](../armor/Starfire.md) damage degredation tweaks,
   [Basilisk](../vehicles/Basilisk.md) and [Wraith](../vehicles/Wraith.md)
   combined into single [ATV](../vehicles/ATV.md) cert, and HART waypoint exploit
@@ -128,7 +128,8 @@ at bottom.
   [AMS](../vehicles/Advanced_Mobile_Station.md) design go live!
   [Tower](../locations/Towers.md) [SOIs](../locations/Sphere_of_Influence.md)
   visible at all map zoom levels, and session stats (K/D,
-  [BEP](../terminology/Battle_Experience_Points.md)/[CEP](../terminology/Command_Experience_Points.md), time) available
+  [BEP](../terminology/Battle_Experience_Points.md)/[CEP](../terminology/Command_Experience_Points.md),
+  time) available
 
 ### June
 
@@ -153,8 +154,8 @@ at bottom.
   [LLU](../terminology/Lattice_Logic_Unit.md)
   [sub-capitols](../locations/Sub-Capitol.md) linked only by
   [Capitol](../locations/Capitol.md) spawn LLUs again.
-  [Striker](../weapons/Striker.md), Radar,
-  [Outfit](../terminology/Outfit.md) invitation and "turn left" keymapping fix.
+  [Striker](../weapons/Striker.md), Radar, [Outfit](../terminology/Outfit.md)
+  invitation and "turn left" keymapping fix.
 - [2.9.8](2.9.8.md) - [MA](../certifications/Medium_Assault.md) damage
   degredation extended. [Starfire](../armor/Starfire.md) and
   [Sparrow](../armor/Sparrow.md) range increased.
@@ -197,7 +198,7 @@ at bottom.
   Cavern resecures count towards [BFR Imprint](../terminology/BFR_Imprint.md)
   every 20 minutes.
 - [3.0.29](3.0.29.md) - [BFR](../vehicles/BattleFrame_Robotics.md) Cert split
-  into basic [BFR](../certifications/BFR_(Certification).md),
+  into basic [BFR](<../certifications/BFR_(Certification).md>),
   [BFR AI](../certifications/BFR_Anti-Infantry.md), and
   [BFR AA](../certifications/BFR_Anti-Aircraft.md) certs. Round 2 of BFR nerfs.
 - [3.0.29.1](3.0.29.1.md) - [TR Gunner Mortar](../vehicles/Colossus.md) cert
@@ -228,8 +229,8 @@ at bottom.
   and [Fury](../vehicles/Fury.md) rocket tweaks
 - [3.2.12](3.2.12.md) - [Battle Rank](../terminology/Battle_Rank.md) 23 goes
   live! [ATV](../vehicles/ATV.md) and [Harasser](../vehicles/Harasser.md) now
-  only 1 cert point. [BFR](../certifications/BFR_(Certification).md) upped to
-  4, [Uni-MAX](../certifications/Uni-MAX_(Certification).md) upped to 6, and
+  only 1 cert point. [BFR](<../certifications/BFR_(Certification).md>) upped to
+  4, [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) upped to 6, and
   [Air Cavalry](../terminology/Air_Cavalry.md) upped to 6 cert points.
   [Switchblade](../items/Switchblade.md) buffs.
 - [3.3.7](3.3.7.md) - [ANT](../vehicles/Advanced_Nanite_Transport.md) tweaks,
@@ -351,7 +352,7 @@ at bottom.
 - [3.10.0](3.10.0.md) - Added
   [Tactical Overlay](../terminology/Tactical_Overlay.md),
   [Certification](../certifications/Certification.md) timer reduced from 24 to 6
-  hours, [Buggy](../certifications/Assault_Buggy_(Certification).md) and
+  hours, [Buggy](<../certifications/Assault_Buggy_(Certification).md>) and
   [ATV](../vehicles/ATV.md) improvements, holiday decorations.
 - [3.10.2](3.10.2.md) - [Enhanced Targeting](../implants/Enhanced_Targeting.md)
   can now see BFR shield health; multiple changes to Flight
@@ -590,13 +591,13 @@ at bottom.
 
 ### October
 
-- [Unnumbered Patch](Unnumbered_Patches.md) (10/15/09) -Fixed bug with
-  five year [Term of Service](../merits/Term_of_Service.md) awards and
-  dramatically increased [BEP](../terminology/Battle_Experience_Points.md) and
+- [Unnumbered Patch](Unnumbered_Patches.md) (10/15/09) -Fixed bug with five year
+  [Term of Service](../merits/Term_of_Service.md) awards and dramatically
+  increased [BEP](../terminology/Battle_Experience_Points.md) and
   [CEP](../terminology/Command_Experience_Points.md) awarded for facility
   captures.
-- [Unnumbered Patch](Unnumbered_Patches.md) (10/22/09) - Halloween
-  Event, The Spooktacular Bonus Experience Days
+- [Unnumbered Patch](Unnumbered_Patches.md) (10/22/09) - Halloween Event, The
+  Spooktacular Bonus Experience Days
 
 ### November
 
@@ -606,5 +607,5 @@ at bottom.
 
 ### December
 
-- [Unnumbered Patch](Unnumbered_Patches.md) (12/09/09) - Game client
-  now supports Windows Vista and Windows 7 by default
+- [Unnumbered Patch](Unnumbered_Patches.md) (12/09/09) - Game client now
+  supports Windows Vista and Windows 7 by default

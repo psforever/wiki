@@ -20,5 +20,3 @@ they are leaving. In the case where a warpgate or geowarp is being used, the
 player can close the map and move around their current zone as normal. Moving to
 another zone or being killed will also result in the player being removed from
 the queue.
-
-

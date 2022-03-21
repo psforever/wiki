@@ -221,5 +221,3 @@ players, is awarded for kills made by using the [VS](../etc/Vanu_Sovereignty.md)
 version of the [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md):
 The [Orion](../weapons/Orion.md). These kills also count towards the general
 [Turret Gunner](Turret_Gunner.md) [Merit Commendation](Merit_Commendations.md).
-
-

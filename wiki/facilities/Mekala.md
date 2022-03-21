@@ -11,5 +11,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Mekela is a [LLU](../terminology/Lattice_Logic_Unit.md) Facility, and has an Air
 Tower to it's North East, which falls inside the Facility's
 [SOI](../locations/Sphere_of_Influence.md).
-
-

@@ -37,5 +37,3 @@
 Awarded to the winners of the Planetary Moviemaker Contest on the Forums.
 
 The assignment was to create a [PlanetSide](../etc/PlanetSide.md) movie.
-
-

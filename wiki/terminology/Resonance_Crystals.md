@@ -14,6 +14,4 @@ hysterical when a scientist attempted to remove their crystals, afraid to let go
 of the most positive voice they've had in their head. After all, who agrees with
 everything you say and think more than yourself?
 
-
-
 Items](Category:Game_Items.md)

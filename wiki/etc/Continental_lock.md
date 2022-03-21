@@ -14,5 +14,3 @@ depending on the continent.
 
 Also refered to as a Continent Lock, or
 [Cont lock](../terminology/Acronyms_and_Slang.md).
-
-

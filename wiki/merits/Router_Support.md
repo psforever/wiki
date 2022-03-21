@@ -211,5 +211,3 @@
 
 This Merit is awarded for kills scored by Friendly Soldiers after passing
 through a [Router](../vehicles/Router.md) that you have placed and own.
-
-

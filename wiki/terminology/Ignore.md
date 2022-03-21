@@ -14,5 +14,3 @@ The ignore list can also be managed from the [Player pane](Player_pane.md).
 
 Attempting to add yourself to the ignore list will result in one of a few
 entertaining messages.
-
-

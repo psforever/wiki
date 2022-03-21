@@ -9,5 +9,3 @@ both West and East from the [SOI](../locations/Sphere_of_Influence.md). To the
 South is a moderately steep but not impassable descent to [Rehua](Rehua.md).
 This sloping area is heavily featured with small hills, valleys, boulders, and
 trees.
-
-

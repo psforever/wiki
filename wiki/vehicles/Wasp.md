@@ -19,7 +19,7 @@
 The Wasp Interceptor requires the
 [Technology Plant](../locations/Technology_Plant.md) benefit to be purchasable.
 
-The Wasp has significantly less armor than the [Mosquito](Mosquito.md)  (we're
+The Wasp has significantly less armor than the [Mosquito](Mosquito.md) (we're
 talking paper-thin here), but carries two AA missile launchers. These missile
 launchers can only fire when they have a lock, and do not fire very quickly. The
 Wasp carries enough for 10 volleys (2 loaded and 18 spare ammo) in the default
@@ -33,9 +33,3 @@ further 10 reloads. It's meant for finishing punches, not mowing down infantry.
 The Wasp's [afterburner](../terminology/Afterburner.md) lasts twice as long, but
 speed seems identical to that of the [Mosquito](Mosquito.md) . The Wasp also
 lacks the [Mosquito](Mosquito.md) 's Overflight Radar system.
-
-
-
-
-
-

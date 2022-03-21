@@ -1,11 +1,12 @@
 ![ Flail firing its
-Dispersion Cannon](../images/FlailPicture.jpg){ class="figure" }
+Dispersion Cannon](../images/FlailPicture.jpg){
+class="figure" }
 
 |                            |                                                                                                     |
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Artillery                                                                                     |
 | **Role**                   | Attack/Defense                                                                                      |
-| **Certification Required** | [Flail](../certifications/Flail_(Certification).md)                                               |
+| **Certification Required** | [Flail](<../certifications/Flail_(Certification).md>)                                               |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) ([Ancient Tech](../terminology/Ancient_Technology.md)) |
 | **Primary Weapon**         | Dispersion Cannon                                                                                   |
 | **Occupants**              | 1 (Driver)                                                                                          |
@@ -38,8 +39,8 @@ information like the [laze pointer](../weapons/Laze_Pointer.md). Note however,
 that you will be targeting the feet of your own squad member!
 
 Laze Pointers may be obtained from the Flail itself, as well as all
-[Equipment terminals](../items/Equipment_Terminal.md), and do not require any special
-[Certifications](../certifications/Certifications.md) to use.
+[Equipment terminals](../items/Equipment_Terminal.md), and do not require any
+special [Certifications](../certifications/Certifications.md) to use.
 
 The Flail requires a [Vehicle Module](../etc/Vehicle_Module.md) lattice benefit,
 or linked [Cavern Lock Benefit](../etc/Cavern_Lock.md) in order to be
@@ -48,11 +49,3 @@ purchasable on the surface. To recharge the Flail's capacitor, you must go to a
 [Vehicle Module](../etc/Vehicle_Module.md) benefit, or use a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) in the
 [Caverns](../locations/Caverns.md).
-
-
-
-
-
-
-
-

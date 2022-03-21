@@ -54,5 +54,3 @@ bases. (i.e., vehicle shields) [Searhus](../locations/Searhus.md) : Provides the
 (i.e., faster respawn)
 
 These benefits are sometimes called Global Benefits.
-
-

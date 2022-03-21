@@ -13,5 +13,3 @@ appearance of the strange [Monoliths](Monolith.md).
 At times, the term **Auraxian Core** is also used as a collective term for the
 [caverns](../locations/Caverns.md) when they resided in the center of the planet
 Auraxis.
-
-

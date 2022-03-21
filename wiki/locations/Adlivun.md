@@ -1,5 +1,5 @@
-![](../images/Adlivun.jpg){ class="figure" }
-![](../images/AdlivunMap.jpg){ class="figure" } Adlivun is one of the six
+![](../images/Adlivun.jpg){ class="figure" } ![](../images/AdlivunMap.jpg){
+class="figure" } Adlivun is one of the six
 [Core Combat](../items/Core_Combat.md) [Caverns](Caverns.md). Characterized by a
 large frozen lake and a large island in the middle, Adlivun is a surprisingly
 difficult place for troops to navigate. With long sight lines and little (or no)
@@ -12,5 +12,3 @@ ramps are infrequent and are easily accessed by nearby bases.
 Snipers tend to have a good time here, as the frozen lakebed affords long
 sightlines and little cover. Vehicles dominate for the same reason, though there
 is little room to hull down.
-
-

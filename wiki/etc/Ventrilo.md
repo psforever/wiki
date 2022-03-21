@@ -19,5 +19,3 @@ and some go as far as to mandate Ventrilo to be a member of the
 ## External Links
 
 - [The Ventrilo Home Page](http://www.ventrilo.com/)
-
-

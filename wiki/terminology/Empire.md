@@ -18,5 +18,3 @@ player can only swap between these three empires once every 12 hours.
 hack bases and are enemies of the other 3 empires. However, Black Ops still
 carry many of the characteristics of the empire that they left, and are not
 technically an empire.
-
-

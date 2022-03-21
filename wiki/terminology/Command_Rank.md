@@ -66,5 +66,3 @@ the same time if the squad is large enough.
 
 A Communications Pack is added to the uniform of the character. Commonly
 referred to as 'The Backpack'.
-
-

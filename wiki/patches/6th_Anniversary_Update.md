@@ -18,5 +18,3 @@ commemorate this Anniversary we have a few exciting new additions for everybody!
   access to pilot a BFR.
 
 Thank you and we’ll see you on the battlefield!
-
-

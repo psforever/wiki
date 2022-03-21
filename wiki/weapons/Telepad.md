@@ -1,6 +1,7 @@
 ![Telepad](../images/Telepad.jpg){ class="figure" }
 ![ telepad with its
-[Router](../vehicles/Router.md) in the background](../images/Telepad_deployed.jpg){ class="figure" }
+[Router](../vehicles/Router.md) in the background](../images/Telepad_deployed.jpg){
+class="figure" }
 
 |                            |                                                                      |
 | -------------------------- | -------------------------------------------------------------------- |
@@ -38,7 +39,3 @@ by you can be deconstructed by double clicking on its icon on the
 The link is not IFF Aware, so enemy troops may travel back through the link from
 the Telepad to the Router. If the host [Router](../vehicles/Router.md) is
 hacked, the deployed telepad is destroyed.
-
-
-
-

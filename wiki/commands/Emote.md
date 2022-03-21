@@ -23,5 +23,3 @@ The available actions are:
 example:
 
 /em nod
-
-

@@ -30,5 +30,3 @@ What this means for you guys is that this server is going to be awesome and
 modern. It will be able to scale way beyond current planetside servers today.
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=58)
-
-

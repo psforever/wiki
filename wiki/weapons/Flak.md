@@ -32,8 +32,9 @@ Used by:
 - [Skyguard](../vehicles/Skyguard.md) Medium Buggy
   ([Common Pool](../terminology/Common_Pool.md))
 - [Invader](../items/Invader.md), [Colossus](../vehicles/Colossus.md)
-  [Burster](../items/Burster_(BFR).md) [BFR](../vehicles/BattleFrame_Robotics.md)
-  Weapon ([Terran Republic](../etc/Terran_Republic.md))
+  [Burster](<../items/Burster_(BFR).md>)
+  [BFR](../vehicles/BattleFrame_Robotics.md) Weapon
+  ([Terran Republic](../etc/Terran_Republic.md))
 - [Rocklet Rifle](Rocklet_Rifle.md) loaded with
   [Fragmentation Grenade Pack](../items/Fragmentation_Grenade_Pack.md)
   ammunition, refered to as "Flaklet"
@@ -42,6 +43,3 @@ Used by:
   ([Common Pool](../terminology/Common_Pool.md))
 - [Wall Turret](../items/Phalanx.md) with the Anti-Aircraft flak cannon upgrade
   ([Common Pool](../terminology/Common_Pool.md))
-
-
-

@@ -1,9 +1,8 @@
-![](../images/Global_Map.jpg){ class="figure" } The
-[Global Map](Global_Map.md) was the way [PlanetSide](../etc/PlanetSide.md)
-originally showed the ten continents and three sanctuaries. Before
-[The Bending](../etc/The_Bending.md) occurred, all of
-[Auraxis](../locations/Auraxis.md) was still one planet. Therefore, the ten
-[continents](../locations/Continent.md) and three
+![](../images/Global_Map.jpg){ class="figure" } The [Global Map](Global_Map.md)
+was the way [PlanetSide](../etc/PlanetSide.md) originally showed the ten
+continents and three sanctuaries. Before [The Bending](../etc/The_Bending.md)
+occurred, all of [Auraxis](../locations/Auraxis.md) was still one planet.
+Therefore, the ten [continents](../locations/Continent.md) and three
 [sanctuaries](../locations/Sanctuary.md) were all displayed on one map
 displaying Auraxis as one world of ten continents. However, after The Bending,
 Auraxis was split up into many different planets, and the Global Map was
@@ -37,10 +36,10 @@ used to link two continents together.
 
 ### Population Locks
 
-On the Global Map, [Population Locks](Population_Lock.md) were very obvious to the
-user, as a population indicator for the player's [Empire](Empire.md) was placed
-on every continent in Auraxis that made it obvious to the player whether or not
-they could go to that continent due to population. However, with the
+On the Global Map, [Population Locks](Population_Lock.md) were very obvious to
+the user, as a population indicator for the player's [Empire](Empire.md) was
+placed on every continent in Auraxis that made it obvious to the player whether
+or not they could go to that continent due to population. However, with the
 Interstellar Map, a player must click on each individual planet to see how many
 spots are left on that particular planet.
 
@@ -64,5 +63,3 @@ the Interstellar Map performs all of the jobs that the Global Map did just fine.
 - [Interstellar Map](Interstellar_Map.md)
 - [Oshur](../locations/Oshur.md)
 - [The Bending](../etc/The_Bending.md)
-
-

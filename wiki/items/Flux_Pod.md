@@ -5,10 +5,8 @@ suffers from severe [cone of fire](../terminology/Cone_of_fire.md) bloom in
 semi-automatic fire mode, thus most players use the 6-pod burst fire. While the
 burst fire has a large cone of fire itself, it's most effective at ranges where
 the [Aurora](../vehicles/Aurora.md) excells: close range. Semi-automatic fire is
-best used at medium-long range, but the [cone of fire](../terminology/Cone_of_fire.md)
-bloom makes engaging targets at this range almost useless. Flux Pods are purple
-and are best against infantry due to their splash damage. Approximately 5 pods
-will kill a full-health soldier wearing
-[Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor.
-
-
+best used at medium-long range, but the
+[cone of fire](../terminology/Cone_of_fire.md) bloom makes engaging targets at
+this range almost useless. Flux Pods are purple and are best against infantry
+due to their splash damage. Approximately 5 pods will kill a full-health soldier
+wearing [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor.

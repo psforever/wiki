@@ -12,5 +12,3 @@ The Neural Continents are:
 - [Oshur Battle Islands](../locations/Oshur.md)
 
 The words Planet and Continent are sometimes interchangable.
-
-

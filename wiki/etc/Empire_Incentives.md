@@ -134,5 +134,3 @@ is added. So in that example if your zone experience bonus is 15% and your world
 bonus is 50%, you actually get 65% more experience on that zone.
 
 See also: [Global Incentives](../terminology/Global_Incentives.md).
-
-

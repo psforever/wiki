@@ -328,5 +328,3 @@ Capturable Facilities: 36
 - [Module Building](Module_Building.md) South, Supai
 - [Redoubt](Redoubt_Building.md) North, Supai
 - [Redoubt](Redoubt_Building.md) South, Supai
-
-

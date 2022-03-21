@@ -1,6 +1,5 @@
-![](../images/MedBay.jpg){ class="figure" }
-![](../images/MedBay3.jpg){ class="figure" }
-![](../images/MedBay2.jpg){ class="figure" }
+![](../images/MedBay.jpg){ class="figure" } ![](../images/MedBay3.jpg){
+class="figure" } ![](../images/MedBay2.jpg){ class="figure" }
 
 Only [Bio Laboratories](Bio_Laboratory.md) have Medical Bays.
 
@@ -13,5 +12,3 @@ usable.
 
 The Medical Bay is accessable from the [Main lobby](Main_lobby.md) of the Bio
 Laboratory.
-
-

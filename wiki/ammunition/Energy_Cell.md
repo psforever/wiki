@@ -12,6 +12,3 @@
 Only soldiers of the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) can access
 this type of [ammunition](../items/Ammunition.md) from their
 [equipment terminals](../items/Equipment_Terminal.md).
-
-
-

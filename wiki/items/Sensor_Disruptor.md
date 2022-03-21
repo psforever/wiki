@@ -26,4 +26,3 @@ within an enemy [SOI](../locations/Sphere_of_Influence.md).
 The Sensor Disruptor is indicated by a big yellow circle on the mini-map as well
 as on the continental map. As with all deployables, double clicking on it on the
 continental map will give you a pop-up asking if you wish to deconstruct it.
-

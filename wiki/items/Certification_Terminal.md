@@ -19,5 +19,3 @@ the top, and the time remaining until another cert may be forgotten is shown
 underneath.
 
 Certification Terminals can be destroyed as of [2.5.5](../patches/2.5.5.md)
-
-

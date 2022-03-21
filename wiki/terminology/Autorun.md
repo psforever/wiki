@@ -3,5 +3,3 @@ Autorun is the ability for foot soldiers and
 without having to hold down the run button.
 
 The Default Autorun button is 'Q'.
-
-

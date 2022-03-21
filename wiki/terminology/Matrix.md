@@ -1,5 +1,6 @@
-Binding stores a player's DNA data into the [respawn tubes](../items/Respawn_Tube.md) of
-the selected [facility](../locations/Facilities.md) or
+Binding stores a player's DNA data into the
+[respawn tubes](../items/Respawn_Tube.md) of the selected
+[facility](../locations/Facilities.md) or
 [AMS](../vehicles/Advanced_Mobile_Station.md).
 
 To bind to a location, you must access a
@@ -17,5 +18,3 @@ to chose from (2 [AMSes](../vehicles/Advanced_Mobile_Station.md), 2
 
 Pressing the "G" key again at the Matrix Panel of a bound location will erase
 the DNA data and the bind.
-
-

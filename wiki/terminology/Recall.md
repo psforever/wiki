@@ -13,5 +13,3 @@ The location of the player affects the
 
 A player can initiate a Recall by typing /recall or by selecting that option in
 their Esc [Menu](../etc/Menu.md).
-
-

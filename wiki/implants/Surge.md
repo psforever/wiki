@@ -8,5 +8,3 @@ weapon, and drawing a weapon will deactivate the Surge Implant.
 Primarily useful for sprints from cover to cover, across open ground, or for
 dashing past entrenched defenders in [Towers](../locations/Towers.md) or
 [Back Door](../locations/Back_Door.md) Corridors.
-
-

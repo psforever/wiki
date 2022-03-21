@@ -1,5 +1,5 @@
-![](../images/Eraser.jpg){ class="figure" }
-![.](../images/Pistol_DD.jpg){ class="figure" }
+![](../images/Eraser.jpg){ class="figure" } ![.](../images/Pistol_DD.jpg){
+class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
@@ -17,10 +17,10 @@
 
 The **Eraser** is a powerful
 [Medium Assault](../certifications/Medium_Assault.md) pistol. It deals a good
-bit of damage per hit with a tight [cone of fire](../terminology/Cone_of_fire.md), but
-small clip size. It also suffers severe
-[Damage Degradation](../terminology/Damage_Degradation.md) (see graph at right),
-making it relatively worthless at targets over 50 meters away.
+bit of damage per hit with a tight
+[cone of fire](../terminology/Cone_of_fire.md), but small clip size. It also
+suffers severe [Damage Degradation](../terminology/Damage_Degradation.md) (see
+graph at right), making it relatively worthless at targets over 50 meters away.
 
 In the primary firing mode, it fires as a single shot pistol with a tight cone
 of fire.
@@ -38,4 +38,3 @@ At close range, the Eraser will kill a soldier wearing
 [Rexo](../armor/Reinforced_Exo-Suit.md) armor in 5 shots. The
 [Spear](../weapons/Spear.md) and [Stinger](../weapons/Stinger.md) function
 identically.
-

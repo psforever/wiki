@@ -103,5 +103,3 @@ There are two methods of transportation unique to the caverns. These are
 Also see:
 
 - [PlanetSide](../etc/PlanetSide.md)
-
-

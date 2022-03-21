@@ -79,6 +79,3 @@ firing an [Orbital Strike](../commands/Orbital_Strike.md) on a Sanctuary).
 The Squad List has two columns: One displays which facility each Squad member is
 bound to, and the other is a checkbox that indicates if that Squad member is
 bound to their Home Base.
-
-
-

@@ -8,5 +8,3 @@ Status:
   at any time
 - Red Alert - Triggered when there are 60 or more enemy soldiers within an SOI
   at any time
-
-

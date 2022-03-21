@@ -14,6 +14,3 @@ the Ancient Tech [weapons](../weapons/Weapon.md) the
 [Radiator](../weapons/Radiator.md) and [Spiker](../weapons/Spiker.md). The
 Ancient Capacitor Unit is available at any
 [Equipment Terminal](../items/Equipment_Terminal.md).
-
-
-

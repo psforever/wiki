@@ -218,5 +218,3 @@ This Merit is awarded for amassing kills with the
 [Ancient Sentry Turrets](../items/Ancient_Sentry_Turret.md) in the
 [Caverns](../locations/Caverns.md), or a
 [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md).
-
-

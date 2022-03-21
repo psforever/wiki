@@ -204,7 +204,8 @@ The biggest difference is that you need to slow down over a target to allow
 enough bombs to be dropped to kill it. You can then quickly accelerate by
 afterburning away to safety. Due to the small splash radius, you must really fly
 directly over the target. A Vulture bomb will only kill a soldier wearing
-[Rexo](../armor/Reinforced_Exo-Suit.md) armor if it lands within 1-2 meters of him.
+[Rexo](../armor/Reinforced_Exo-Suit.md) armor if it lands within 1-2 meters of
+him.
 
 ## Which Bombs to Use
 
@@ -256,5 +257,3 @@ to you to ensure you will hit it. It's embarrassing to watch all 10 bombs fly
 over the vanguard you were targeting and go down the mountain, missing
 completely. The crosshair is accurate most of the time, but don't always trust
 it, especially on steep slopes.
-
-

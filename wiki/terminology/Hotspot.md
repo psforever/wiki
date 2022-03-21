@@ -17,5 +17,3 @@ Hotspots. Fighting involving only members of the other two empires will not be
 shown on the map at all. This can often create the impression that both the
 other empires are somehow at peace, and 'ganging up' on the third empire, but
 this is rarely the case.
-
-

@@ -1,6 +1,7 @@
 ![](../images/Generator.jpg){ class="figure" }
 ![ Warning Light: Generator
-Destroyed](../images/Power_light.jpg){ class="figure" }
+Destroyed](../images/Power_light.jpg){ class="figure"
+}
 
 The **generator** converts the [NTUs](NTU.md) of a base into usable energy to
 fuel base systems and terminals, as well as the self-repair mechanisms of the
@@ -28,7 +29,5 @@ The generator room is also one of the areas protected by a
 [Lattice Benefit](../terminology/Facility_Linked_Benefit.md), or from a
 [Cavern Lock](../etc/Cavern_Lock.md) Benefit. An
 [Expert Hacker](../certifications/Expert_Hacking.md) can also hack into the
-[Generator Terminal](Generator_Terminal.md) to create or increase a
-pain field in the generator room.
-
-
+[Generator Terminal](Generator_Terminal.md) to create or increase a pain field
+in the generator room.

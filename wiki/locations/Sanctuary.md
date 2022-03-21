@@ -1,9 +1,9 @@
 ![Sanctuary Map](../images/NCSanctuaryMap.jpg){ class="figure" }
 ![Sanctuary Map](../images/TRSanctuaryMap.jpg){ class="figure" }
-![Sanctuary Map](../images/VSSanctuaryMap.jpg){ class="figure" }
-Each Empire's Sanctuary island is secure from all enemy attacks. This island is
-a hub of ways to move about the Auraxian Planetary Web, as well as a safe place
-to meet and train. As of Version 3.4, each Sanctuary has a fixed link to two
+![Sanctuary Map](../images/VSSanctuaryMap.jpg){ class="figure" } Each Empire's
+Sanctuary island is secure from all enemy attacks. This island is a hub of ways
+to move about the Auraxian Planetary Web, as well as a safe place to meet and
+train. As of Version 3.4, each Sanctuary has a fixed link to two
 [continents](Continent.md), called [Home Continents](Home_Continent.md).
 
 ### Sanctuary Layout and Resources
@@ -27,10 +27,11 @@ Are you in need of hands-on training with any of the weapons or vehicles
 available to your Empire? Go to [VR training](VR_Training.md) around the corner
 from the [Respawn Building](Respawn_Building.md) doors.
 
-And finally, there are three [Villas](Sanctuary_Villa.md) around your Sanctuary island.
-Sometimes it's convenient to meet a friend at one of those Villas. To get there
-easily, step into one of the [teleporters](../terminology/Teleporter.md) near
-the [HART Shuttle building](HART_building.md).
+And finally, there are three [Villas](Sanctuary_Villa.md) around your Sanctuary
+island. Sometimes it's convenient to meet a friend at one of those Villas. To
+get there easily, step into one of the
+[teleporters](../terminology/Teleporter.md) near the
+[HART Shuttle building](HART_building.md).
 
 ### Sanctuary Features
 
@@ -55,5 +56,3 @@ the [HART Shuttle building](HART_building.md).
 ---
 
 --source: Planetside In-game descriptions
-
-

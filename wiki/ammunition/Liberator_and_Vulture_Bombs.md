@@ -14,6 +14,3 @@ but these are more powerful than the Liberator's version. The boxes can be
 obtained from any [Equipment Terminal](../items/Equipment_Terminal.md) to be
 hand-loaded into the aircraft's [trunk](../terminology/Trunk.md) or acquired
 while in the vehicle from a [Landing Pad](../items/Landing_Pad.md).
-
-
-

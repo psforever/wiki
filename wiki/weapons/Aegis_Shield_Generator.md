@@ -1,6 +1,6 @@
 ![](../images/AegisGenerator.jpg){ class="figure" }
-![](../images/AegisAmmo.jpg){ class="figure" }
-![](../images/AegisInfo.jpg){ class="figure" }
+![](../images/AegisAmmo.jpg){ class="figure" } ![](../images/AegisInfo.jpg){
+class="figure" }
 
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -64,5 +64,3 @@ to hack a friendly Aegis to provide a short-ranged
 However, the radar is only active for friendly units that are inside the
 cloaking sphere of the Aegis. Like the ammunition upgrade, the radar eventually
 wears off over time and will need to be re-upgraded for continual use.
-
-

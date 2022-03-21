@@ -15,5 +15,3 @@ Honsi is linked to the [Technology Plant](../locations/Technology_Plant.md)
 **Honsi** and Honsu are a pair of mythical twins who figure in the _enfants
 terribles_ category of Dahomean folktales in African mythology. Enfants
 Terribles is French for Terrible Children.
-
-

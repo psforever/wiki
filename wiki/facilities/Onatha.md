@@ -10,5 +10,3 @@ Onatha has [Lattice](../terminology/Lattice.md) Links to:
 
 Onatha has a Gun Tower to the South, inside it's
 [SOI](../locations/Sphere_of_Influence.md) Onatha is a Hack-and-Hold Facility.
-
-

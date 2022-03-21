@@ -22,8 +22,8 @@ the Capitol. (This requires holding two
 find the Monolith, capture the Capitol, and move the Monolith Unit to the
 Capitol.
 
-Winners of the event for each Server were posted on the
-main forums. The prizes were as follows:
+Winners of the event for each Server were posted on the main forums. The prizes
+were as follows:
 
 - 1st place: Only 5 [Cavern Captures](Cavern_Captures.md) required for a soldier
   to get their [BFR Imprint](../terminology/BFR_Imprint.md)
@@ -43,5 +43,3 @@ which, soldiers from all 3 Empires had to get the full 10 Cavern captures for
 their imprint. (Note: The method for gaining the BFR Imprint was changed in a
 later patch to require 5 [Cavern Captures](Cavern_Captures.md) and 75 kills
 within the Caverns for all soldiers.)
-
-

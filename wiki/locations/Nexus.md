@@ -1,17 +1,17 @@
-![](../images/NexusMap.jpg){ class="figure" }
-![](../images/Nexus_Terrain.jpg){ class="figure" }
+![](../images/NexusMap.jpg){ class="figure" } ![](../images/Nexus_Terrain.jpg){
+class="figure" }
 
-|                                  |                                    |
-| -------------------------------- | ---------------------------------- |
-| Category:                        | Island Cluster                     |
-| Climate (Nexus):                 | Arctic                             |
-| Landmass:                        | [Battle Island](Battle_Islands.md) |
-| Terrain:                         | Woodlands, tundra, hills           |
-| Facilities:                      | 1                                  |
-| Towers:                          | 5                                  |
-| Active [Warpgates](Warpgate.md): | 2                                  |
-| Active [Geowarps](../locations/Geowarp.md):   | 0                                  |
-|                                  |                                    |
+|                                             |                                    |
+| ------------------------------------------- | ---------------------------------- |
+| Category:                                   | Island Cluster                     |
+| Climate (Nexus):                            | Arctic                             |
+| Landmass:                                   | [Battle Island](Battle_Islands.md) |
+| Terrain:                                    | Woodlands, tundra, hills           |
+| Facilities:                                 | 1                                  |
+| Towers:                                     | 5                                  |
+| Active [Warpgates](Warpgate.md):            | 2                                  |
+| Active [Geowarps](../locations/Geowarp.md): | 0                                  |
+|                                             |                                    |
 
 A hill perimeter surrounds the only facility, [Atar](../facilities/Atar.md), a
 [Dropship Center](Dropship_Center.md), linked by two [Warpgates](Warpgate.md)
@@ -19,8 +19,8 @@ and a [Geowarp](../locations/Geowarp.md).
 
 This critical island lynchpin connects [Extinction](Extinction.md) to
 [Ascension](Ascension.md), while having no connections at all to other planets.
-The connected [Geowarp](../locations/Geowarp.md) is always inactive and never connects to a
-[Cavern](Caverns.md) at the present time.
+The connected [Geowarp](../locations/Geowarp.md) is always inactive and never
+connects to a [Cavern](Caverns.md) at the present time.
 
 [Towers](Towers.md) on the hill rim can only be accessed from footpaths on the
 outside of the hills, so be aware that they are different challenges to attack
@@ -37,5 +37,3 @@ vehicles do not operate here. Not permitted are
 [BFRs](../vehicles/BattleFrame_Robotics.md),
 [Medium Battle Tanks](../items/Medium_Battle_Tank.md), and Empire Specific
 [Deliverer](../vehicles/Deliverer.md) variants.
-
-

@@ -97,5 +97,3 @@ This Merit is the first stage of the
 of Merits.
 
 This Merit is awarded for killing Enemies while using any means necessary.
-
-

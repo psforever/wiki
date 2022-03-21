@@ -14,5 +14,3 @@ of a regular one).
 
 While standing in a Medical Terminal a soldier's Health and Armor will be healed
 at approximately ten (10) points per second, up to the soldier's maximum.
-
-

@@ -5,15 +5,16 @@ The Bio Laboratory grants a faster [respawn](../terminology/Respawn.md) time to
 all units spawning at any friendly facilities connected to it on the
 [Lattice](../terminology/Lattice.md).
 
-The [Control Console](../locations/Control_Console.md) for this base is in the basement,
-level 1. The [LLU](../terminology/Lattice_Logic_Unit.md) Socket is located on
-Basement Level 2 (below the research lab next to the
+The [Control Console](../locations/Control_Console.md) for this base is in the
+basement, level 1. The [LLU](../terminology/Lattice_Logic_Unit.md) Socket is
+located on Basement Level 2 (below the research lab next to the
 [Respawn room](Spawn_Room.md)}
 
 Unique feature - medical room with an
 [Advanced Medical Terminal](../items/Advanced_Medical_Terminal.md) and
-[Lockers](../items/Lockers.md) located next to the [main lobby](../locations/Main_lobby.md).
-They are also the only facilities outside of [Sanctuary](../locations/Sanctuary.md) with
+[Lockers](../items/Lockers.md) located next to the
+[main lobby](../locations/Main_lobby.md). They are also the only facilities
+outside of [Sanctuary](../locations/Sanctuary.md) with
 [Certification](../items/Certification_Terminal.md) and
 [Implant](../items/Implant_Terminal.md) terminals.
 
@@ -21,10 +22,10 @@ They are also the only facilities outside of [Sanctuary](../locations/Sanctuary.
 
 |                                                                                                                  |                                                 |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [Control Console](../locations/Control_Console.md):                                                                           | Level 1                                         |
+| [Control Console](../locations/Control_Console.md):                                                              | Level 1                                         |
 | [Generator](../items/Generator.md):                                                                              | Roof                                            |
 | [Spawn room](Spawn_Room.md):                                                                                     | Level 1                                         |
-| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air/Ground):                                                            | Courtyard                                       |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air/Ground):                                               | Courtyard                                       |
 | [BFR Shed](../items/BFR_Shed.md):                                                                                | Courtyard                                       |
 | [Certification Terminals](../items/Certification_Terminal.md)/[Implant Terminals](../items/Implant_Terminal.md): | Level 1                                         |
 | [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:                                               | Basement                                        |
@@ -98,5 +99,3 @@ They are also the only facilities outside of [Sanctuary](../locations/Sanctuary.
 - [Aton](../facilities/Aton.md)
 - [Horus](Horus.md)
 - [Thoth](../facilities/Thoth.md) (Capitol)
-
-

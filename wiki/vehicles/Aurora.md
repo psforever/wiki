@@ -19,10 +19,10 @@ The Aurora variant developed by the
 [Flux Pod](../items/Flux_Pod.md) Launchers, similar in effect to the
 [Flux Cannon](../weapons/Flux_Cannon.md) with an indirect arc of fire. A
 secondary fire mode launches a salvo of 6-pods in rapid succession with a large
-[cone of fire](../terminology/Cone_of_fire.md) that rains destruction on the enemy. Each
-clip holds 12 pods, thus one must reload often. Best used against infantry, but
-effective against other [vehicles](Vehicle.md)/armor at close range. Due to the
-arc of fire, we suggest you avoid upclose encounters. Like the
+[cone of fire](../terminology/Cone_of_fire.md) that rains destruction on the
+enemy. Each clip holds 12 pods, thus one must reload often. Best used against
+infantry, but effective against other [vehicles](Vehicle.md)/armor at close
+range. Due to the arc of fire, we suggest you avoid upclose encounters. Like the
 [Deliverer](Deliverer.md), the Aurora has adequate
 [trunk](../terminology/Trunk.md) space and can cross calm rivers and waterways
 by floating at the surface.

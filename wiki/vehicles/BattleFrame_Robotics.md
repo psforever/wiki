@@ -205,4 +205,3 @@ BFR timers take 25 minutes from the time of original purchase until another BFR
 can be acquired. The timer is reduced to 15 minutes if a
 [Vehicle Module](../etc/Vehicle_Module.md) is installed, or the base is
 receiving a [Cavern Lock](../etc/Cavern_Lock.md) Benefit.
-

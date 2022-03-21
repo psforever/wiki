@@ -12,5 +12,3 @@ Outfit Points don't do anything for the Player, except show how much he has
 contributed to the [Outfit](Outfit.md).
 
 Outfit Points are lost when leaving the Outfit.
-
-

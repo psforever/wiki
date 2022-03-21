@@ -6,5 +6,3 @@ coast of [Forseral](../locations/Forseral.md) in I-14, with one nearby
 Mountains to the South East, small lakes North and West just outside
 [SOI](../locations/Sphere_of_Influence.md), coastal waters on the South West SOI
 quadrant border.
-
-

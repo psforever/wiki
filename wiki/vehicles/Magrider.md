@@ -38,11 +38,11 @@ be purchasable.
 
 Shots to kill (with Heavy Rail Beam only):
 
-|                                       |          |
-| ------------------------------------- | -------- |
+|                           |          |
+| ------------------------- | -------- |
 | [Lightning](Lightning.md) | 8 shots  |
-| [Prowler](Prowler.md)                 | 21 shots |
-| [Vanguard](Vanguard.md)               | 21 shots |
+| [Prowler](Prowler.md)     | 21 shots |
+| [Vanguard](Vanguard.md)   | 21 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
 
@@ -53,9 +53,3 @@ Tactics
 </H3>
 
 - [Magrider Guide by Quovatis](../etc/Magrider_Guide_by_Quovatis.md)
-
-
-
-
-
-

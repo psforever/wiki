@@ -7,5 +7,3 @@ certification has been broken up into
 [Mosquito](../vehicles/Mosquito.md) and
 [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md) which contains
 the [Reaver](../vehicles/Reaver.md).
-
-

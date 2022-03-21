@@ -18,5 +18,3 @@ character and outfit naming rules and how to change them if they have a "-M" or
 
 - [Emerald Outfits](:Category:Emerald_Outfits)
 - [Gemini Outfits](:Category:Gemini_Outfits)
-
-

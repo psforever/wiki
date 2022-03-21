@@ -40,5 +40,3 @@ See [Home Continent](Home_Continent.md) for the current empire sanctuary links.
 - [Oshur Battle Islands](Battle_Islands.md)
 
 The words Planet and Continent are sometimes interchangable.
-
-

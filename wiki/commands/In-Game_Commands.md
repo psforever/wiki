@@ -178,8 +178,8 @@ _[Command Rank](../terminology/Command_Rank.md) 5 ONLY:_
 - **/ia - /instantaction** - Activates countdown timer for Instant Action
 - **/[ignore](../terminology/Ignore.md) \[add/remove\] <playername>** - Ignore a
   player.
-- **/incentives** - Returns the empire [incentives](../terminology/Incentives.md) for the
-  current zone.
+- **/incentives** - Returns the empire
+  [incentives](../terminology/Incentives.md) for the current zone.
 - **/loc** - Returns your current location in X,Y,Z coordinates.
 - **/log** - Set chat logging state. If logging is turned on, all chat messages
   are appended to 'chat.log'
@@ -204,8 +204,8 @@ _[Command Rank](../terminology/Command_Rank.md) 5 ONLY:_
 
 ## Restricted Commands
 
-_Only CSRs and other authorized
-[SOE](../etc/Sony_Online_Entertainment.md) employees can use these commands_
+_Only CSRs and other authorized [SOE](../etc/Sony_Online_Entertainment.md)
+employees can use these commands_
 
 - **/create <name>** - Create specified [vehicle](../vehicles/Vehicle.md).
 - **/sethealth <amount>** - Sets your [health](../terminology/Health.md).
@@ -215,5 +215,3 @@ _Only CSRs and other authorized
 - **/[award](Award.md)** - Control
   [Merit Commendation](../merits/Merit_Commendations.md) status.
 - **/suicide** - Kills your character.
-
-

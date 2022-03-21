@@ -10,5 +10,3 @@
 
 The Anti-Air configuration of the MAX unit is best suited to combat enemy
 aircraft.
-
-

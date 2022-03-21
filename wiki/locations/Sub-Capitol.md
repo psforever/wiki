@@ -1,15 +1,16 @@
 A Sub-Capitol is any one of four [facilities](Facilities.md) located on each
-[Empire](../terminology/Empire.md)'s home [continents](../locations/Continent.md) which is
-connected via a green lattice link to the [capitol](Capitol.md) facility.
-[Sub-Capitols](Sub-Capitol.md) play an important role in the capture of capitol
-[bases](Facilities.md) as they are the only way to disable the facility's
-impeneatrable shield barrier, called a [Force Dome](../items/Force_Dome.md). If
-two or more Sub-Capitols are held by the same [empire](../terminology/Empire.md)
-who owns the capitol facility, the [capitol](Capitol.md) will activate it's
-Force Dome barrier. Only by taking three sub-capitals (or taking two and
-allowing another invading [empire](../terminology/Empire.md) to take the third)
-can you disable this shield. The only way to successfully hack the
-[capitol](Capitol.md) facility is by owning two or more Sub-Capitols.
+[Empire](../terminology/Empire.md)'s home
+[continents](../locations/Continent.md) which is connected via a green lattice
+link to the [capitol](Capitol.md) facility. [Sub-Capitols](Sub-Capitol.md) play
+an important role in the capture of capitol [bases](Facilities.md) as they are
+the only way to disable the facility's impeneatrable shield barrier, called a
+[Force Dome](../items/Force_Dome.md). If two or more Sub-Capitols are held by
+the same [empire](../terminology/Empire.md) who owns the capitol facility, the
+[capitol](Capitol.md) will activate it's Force Dome barrier. Only by taking
+three sub-capitals (or taking two and allowing another invading
+[empire](../terminology/Empire.md) to take the third) can you disable this
+shield. The only way to successfully hack the [capitol](Capitol.md) facility is
+by owning two or more Sub-Capitols.
 
 ## Capitol and Sub-Capitol Index
 
@@ -31,5 +32,3 @@ can you disable this shield. The only way to successfully hack the
 - [Amerish](Amerish.md): [Verica](../facilities/Verica.md)
   ([Cetan](../facilities/Cetan.md), [Mekala](../facilities/Mekala.md),
   [Sungrey](../facilities/Sungrey.md), [Qumu](../facilities/Qumu.md))
-
-

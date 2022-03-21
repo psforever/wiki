@@ -8,5 +8,3 @@ Unlike many "traditional" team-based first-person shooters, PlanetSide does not
 make members of the same team (Empire) immune to each others weapons. It is
 possible to damage and kill one's teammates. This is one of the features that
 makes PlanetSide more tactical.
-
-

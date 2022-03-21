@@ -14,5 +14,3 @@ into the core beam at the [Core Complex](../locations/Core_Complex.md) in one of
 the caves to complete the imprinting process. Characters created before June 18,
 2009 are automatically imprinted and do not have to go through this process
 (see: [6th Anniversary Update](../patches/6th_Anniversary_Update.md)).
-
-

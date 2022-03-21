@@ -22,5 +22,3 @@
      heavy population or activity to reduce lag.
    - Manual deconstruction of a vehicle by the player from their
      [vehicle](../vehicles/Vehicle.md) management window.
-
-

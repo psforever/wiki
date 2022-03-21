@@ -16,5 +16,3 @@ to the capture.
 Beware: If you are killed right before the time of capture, do not respawn. Wait
 until after the capture to click your respawn button, or else you will not be
 awarded the capture.
-
-

@@ -22,4 +22,3 @@ dissipate after medium distance travel, but makes up for that with consistent
 energy damage throughout its range and direct-fire trajectory. While extremely
 effective on vehicles and low flying/hovering aircraft, the PPA is not very
 effective on light infantry.
-

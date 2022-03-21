@@ -14,10 +14,10 @@ Clearly General chat is the one that most people go to upon opening Chat. People
 often frequent the Emerald chat room as well.
 
 The customer service staff are all moderators and thats who you usualy find in
-the chat room. Usualy around the time of a playtest the producer
-(Zatozia) and sometimes a quality assurance team member will
-arrive to talk to the players before the play test. Also when major events
-happen on the servers members of the team can sometimes be found here.
+the chat room. Usualy around the time of a playtest the producer (Zatozia) and
+sometimes a quality assurance team member will arrive to talk to the players
+before the play test. Also when major events happen on the servers members of
+the team can sometimes be found here.
 
 There are 3 types of people in the chat room ;
 
@@ -81,5 +81,3 @@ Commands
 - /friend \[\* \| add <user> \| remove <user>\] lists friends, adds a user to
   your friends
 - /me <text> shows your text as an emote.
-
-

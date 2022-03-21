@@ -30,5 +30,3 @@ The following features/settings changes are added for the Event.
 
 **Implant changes were later reset due to issues with lost
 [Certifications](../certifications/Certification.md).**
-
-

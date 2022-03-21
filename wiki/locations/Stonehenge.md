@@ -7,5 +7,3 @@ circles of large upright monolithic rocks.
 
 While it serves no tactical or strategic purpose, Stonehenge is occasionally the
 site of social gatherings.
-
-

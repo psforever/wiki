@@ -1,5 +1,6 @@
 ![s forms a "Biker gang" with
-copious ATVs.](../images/ATV_gang.jpg){ class="figure" }
+copious ATVs.](../images/ATV_gang.jpg){
+class="figure" }
 
 ## All-Terrain Vehicles
 
@@ -8,6 +9,4 @@ copious ATVs.](../images/ATV_gang.jpg){ class="figure" }
 - [Wraith](Wraith.md)
 
 These light, fast, and maneuverable one-crew vehicles are available with the
-[ATV Certification.](../certifications/ATV_(Certification).md)
-
-
+[ATV Certification.](<../certifications/ATV_(Certification).md>)

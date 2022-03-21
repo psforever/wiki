@@ -46,5 +46,3 @@ Only four people have been awarded this merit.
 - Cyborgmatt (Emerald)
 - ItZMuRdA (Emerald)
 - xxBigpappaNCxx ([Markov](../etc/Markov.md))
-
-

@@ -40,5 +40,3 @@ doors.
 
 If enemy vehicles are destroyed by a TRAP, it will appear in the kill window as
 if they were blown up by the vehicle they were driving.
-
-

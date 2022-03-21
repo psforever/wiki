@@ -10,5 +10,3 @@ the community.
 There are many members of the PlanetSide Official Forums who jokingly consider
 themselve "ForumSiders." The humor behind this title implaies that the spend
 more time posting on the boards, then they do playing the game.
-
-

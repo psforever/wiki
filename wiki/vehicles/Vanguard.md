@@ -1,19 +1,19 @@
 !['s
-[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/Vanguard.jpg){ class="figure" }
-![](../images/Vanguards.jpg){ class="figure" }
+[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/Vanguard.jpg){
+class="figure" } ![](../images/Vanguards.jpg){ class="figure" }
 
-|                            |                                                                                                                            |
-| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
-| **Role**                   | Attack                                                                                                                     |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md) |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                             |
-| **Primary Weapon**         | 150mm Cannon                                                                                                               |
-| **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                     |
-| **Ammunition**             | [150mm Tank Shells](../ammunition/Tank_Shell_(150mm).md) and [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md)   |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                                      |
-| **Handling**               | Average                                                                                                                    |
-| **Top speed**              | 60 kph                                                                                                                     |
+|                            |                                                                                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                                   |
+| **Role**                   | Attack                                                                                                                                 |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md)             |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                         |
+| **Primary Weapon**         | 150mm Cannon                                                                                                                           |
+| **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                                 |
+| **Ammunition**             | [150mm Tank Shells](<../ammunition/Tank_Shell_(150mm).md>) and [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md) |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                                                  |
+| **Handling**               | Average                                                                                                                                |
+| **Top speed**              | 60 kph                                                                                                                                 |
 
 **Vanguard**
 
@@ -37,4 +37,3 @@ Shots to kill (with 150mm Cannon only):
 | [Magrider](Magrider.md)   | 8 shots  |
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
-

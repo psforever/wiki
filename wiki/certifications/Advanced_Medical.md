@@ -25,5 +25,3 @@ This [Certification](Certification.md) is required to obtain the
 [Resuscitation Medic](../merits/Resuscitation_Medic.md), and
 [Universal Soldier](../merits/Universal_Soldier.md)
 [Merit Commendations](../merits/Merit_Commendations.md).
-
-

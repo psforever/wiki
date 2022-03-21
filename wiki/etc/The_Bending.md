@@ -57,4 +57,3 @@ When we woke up we didn't know what happened. Our Auraxis was gone. All we had
 worked for wasn't there. But, we had a whole new goal. The galaxy was ripe for
 the taking and a new land to be explored. Everything may have changed but in the
 end the war still waged on.
-

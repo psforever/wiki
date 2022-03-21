@@ -10,8 +10,8 @@ The following "names" can be used with the "/who <name>" command:
   Player is of an opposing Empire, no location will be given.
 - **\<first 4 letter of a continent>** - Returns a list with players of your
   empire on the selected continent.
-- **CSR** - Lists all CSR's that are currently online (CSR has to be
-  logged-in as a CSR for his name to show up)
+- **CSR** - Lists all CSR's that are currently online (CSR has to be logged-in
+  as a CSR for his name to show up)
 - **text** - Uses text provided to search for a player name that contains your
   text. Returns the first 25 matches.
 - **pl** (no space after "/who") - platoonleaders - Shows all Platoon Leaders
@@ -25,5 +25,3 @@ The following "names" can be used with the "/who <name>" command:
   (you must be TR)
 - **VS** - Lists the first 25 [VS](../etc/Vanu_Sovereignty.md) on your Continent
   (you must be VS)
-
-

@@ -3,21 +3,22 @@
 
 ## Continental Data
 
-|                                  |                                                                       |
-| -------------------------------- | --------------------------------------------------------------------- |
-| Category:                        | Outer World                                                           |
-| Climate:                         | Arctic                                                                |
-| Landmass:                        | Continent                                                             |
-| Terrain:                         | Snowy hills and plains, icy beaches, rugged woodland.                 |
-| [Facilities](Facilities.md):     | 13                                                                    |
-| [Towers](Towers.md):             |                                                                       |
-| Active [Warpgates](Warpgate.md): | 4                                                                     |
+|                                  |                                                                                    |
+| -------------------------------- | ---------------------------------------------------------------------------------- |
+| Category:                        | Outer World                                                                        |
+| Climate:                         | Arctic                                                                             |
+| Landmass:                        | Continent                                                                          |
+| Terrain:                         | Snowy hills and plains, icy beaches, rugged woodland.                              |
+| [Facilities](Facilities.md):     | 13                                                                                 |
+| [Towers](Towers.md):             |                                                                                    |
+| Active [Warpgates](Warpgate.md): | 4                                                                                  |
 | Capitol:                         | [Technology Plant](../locations/Technology_Plant.md) [Eisa](../facilities/Eisa.md) |
 
 ## Description
 
-One of two 'white' [continents](../locations/Continent.md), **Esamir** is currently the
-largest planet/continent being fought over in the Auraxian Civil War.
+One of two 'white' [continents](../locations/Continent.md), **Esamir** is
+currently the largest planet/continent being fought over in the Auraxian Civil
+War.
 
 According to game lore, Esamir was the last continent to be mapped by the
 [Terran Republic](../etc/Terran_Republic.md) after traveling through the
@@ -41,14 +42,14 @@ frozen island in the central sea, surrounded by its
 [Sub-Capitols](Sub-Capitol.md).
 
 A [Sanctuary](../locations/Sanctuary.md) warpgate links to the
-[Helheim](../facilities/Helheim.md) [Technology Plant](../locations/Technology_Plant.md) in
-the south east. The continent's other [Warpgates](Warpgate.md) link from
-[Ran](../facilities/Ran.md) to [Marduk](../facilities/Marduk.md),
-[Ishundar](Ishundar.md); [Nott](../facilities/Nott.md) to
-[Leza](../facilities/Leza.md), [Cyssor](Cyssor.md); and
-[Andvari](../facilities/Andvari.md) to [Dagda](../facilities/Dagda.md),
-[Forseral](Forseral.md). See [Home Continent](Home_Continent.md) for the current
-empire sanctuary links.
+[Helheim](../facilities/Helheim.md)
+[Technology Plant](../locations/Technology_Plant.md) in the south east. The
+continent's other [Warpgates](Warpgate.md) link from [Ran](../facilities/Ran.md)
+to [Marduk](../facilities/Marduk.md), [Ishundar](Ishundar.md);
+[Nott](../facilities/Nott.md) to [Leza](../facilities/Leza.md),
+[Cyssor](Cyssor.md); and [Andvari](../facilities/Andvari.md) to
+[Dagda](../facilities/Dagda.md), [Forseral](Forseral.md). See
+[Home Continent](Home_Continent.md) for the current empire sanctuary links.
 
 This continent is also refered to as
 [Es](../terminology/Acronyms_and_Slang.md#Es).
@@ -96,5 +97,3 @@ of water with little risk of engine swamping.
 #### [Freyr](../facilities/Freyr.md) Land Bridge
 
 #### [Andvari](../facilities/Andvari.md) Land Bridge
-
-

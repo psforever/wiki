@@ -32,6 +32,3 @@ mode allows for the self-repair of the user.
 
 1. Whenever possible, repair any [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
    unit you see.
-
-
-

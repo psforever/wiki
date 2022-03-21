@@ -12,5 +12,3 @@ outside the southern gate, facing the
 There are hills to the west, east, and south that provide good sniping points.
 Any flat terrain near the base is filled with trees and rocks, practically
 forcing [vehicles](../vehicles/Vehicle.md) to stay on the road.
-
-

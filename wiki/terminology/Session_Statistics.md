@@ -13,6 +13,3 @@ These Statistics only appear if they apply:
 - [Support Experience Points](Support_Experience_Points.md)
 
 The default keyboard combination to toggle the Session Statistics is Ctrl+S.
-
-
-

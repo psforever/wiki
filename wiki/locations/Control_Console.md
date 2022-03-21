@@ -4,7 +4,7 @@
 console (CC) is located in each base and in each tower. Using a
 [REK](../weapons/Remote_Electronics_Kit.md), you can hack the console. The time
 this takes depends on which level of the
-[Hacking](../certifications/Hacking_(Certification).md) tree you are certed
+[Hacking](<../certifications/Hacking_(Certification).md>) tree you are certed
 in.
 
 - No Hacking [certification](../certifications/Certification.md): 60 seconds
@@ -31,6 +31,5 @@ Hacking an enemy base will also disrupt their
 [Facility Linked Benefits](../terminology/Facility_Linked_Benefit.md).
 
 ![ Warning Light: Control
-Console Hacked](../images/Hacked_light.jpg){ class="figure" }
-
-
+Console Hacked](../images/Hacked_light.jpg){
+class="figure" }

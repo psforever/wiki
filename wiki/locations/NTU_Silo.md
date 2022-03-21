@@ -1,5 +1,5 @@
-![](../images/NTUSiloPicture.jpg){ class="figure" } The **NTU Silo** is
-an object in all [facility](Facilities.md) courtyards which stores
+![](../images/NTUSiloPicture.jpg){ class="figure" } The **NTU Silo** is an
+object in all [facility](Facilities.md) courtyards which stores
 [NTUs](../items/NTU.md) for use by the facility's
 [generator](../items/Generator.md).
 
@@ -17,7 +17,3 @@ The [BFR](../vehicles/BattleFrame_Robotics.md)
 [NTU Siphon](../weapons/NTU_Siphon.md) weapon system can be used in front of
 this silo to charge itself, and drain the base in the process. It can also
 deposit NTUs back into friendly bases.
-
-
-
-

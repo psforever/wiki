@@ -34,9 +34,8 @@ Launch Date: January 31, 2005
 ##### Current State
 
 PlanetSide Syndicate was last edited on February 19th,2011, and for
-all-intensive purposes is now a dead site.
-PlanetSide Forever has mirrored the site for archival
-purposes, as well as to build and improve on it. It is our hope that we can
-restore the content of PS Syndicate and shape it into a comprehensive and
-user-friendly wiki page for all [PlanetSide](PlanetSide.md) players to use.
-
+all-intensive purposes is now a dead site. PlanetSide Forever has mirrored the
+site for archival purposes, as well as to build and improve on it. It is our
+hope that we can restore the content of PS Syndicate and shape it into a
+comprehensive and user-friendly wiki page for all [PlanetSide](PlanetSide.md)
+players to use.

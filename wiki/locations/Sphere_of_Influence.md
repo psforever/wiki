@@ -16,8 +16,9 @@ continent also share in the reward.
 [Spitfires](../weapons/Adaptive_Construction_Engine.md#spitfire-turret),
 [Motion Detectors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm),
 [Aegis Shield Generators](../weapons/Aegis_Shield_Generator.md),
-[TRAPs](../weapons/Tactical_Resonance_Area_Protection.md), and [Cerberus Turrets](../weapons/Cerberus_Turret.md) cannot
-be deployed in an enemy SOI (though spitfires can if the user has the
+[TRAPs](../weapons/Tactical_Resonance_Area_Protection.md), and
+[Cerberus Turrets](../weapons/Cerberus_Turret.md) cannot be deployed in an enemy
+SOI (though spitfires can if the user has the
 [Assault Engineering](../certifications/Assault_Engineering.md)
 [Certification](../certifications/Certification.md)).
 [One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md) can only be
@@ -32,8 +33,8 @@ is coded as yellow, orange, or red depending on the size of the enemy presence.
 
 While players are inside a friendly SOI, they will be affected by the benefits
 that that facility provides, as well as any linked benefits that facility might
-have. [Module](../etc/Modules.md) benefits that are in place at that facility will also
-be triggered for players inside its SOI.
+have. [Module](../etc/Modules.md) benefits that are in place at that facility
+will also be triggered for players inside its SOI.
 
 Any player may also use the
 [/broadcast channel](../commands/In-Game_Commands.md) within a Friendly Base SOI
@@ -44,5 +45,3 @@ entire continent, the /broadcast channel functions as it does in the Sanctuary;
 it goes to all members of your empire on the continent, regardless of location.
 
 Facility SOI are "x" in diameter. Tower SOI are "y" in diameter.
-
-

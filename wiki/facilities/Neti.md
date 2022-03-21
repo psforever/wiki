@@ -9,5 +9,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 Neti is a Hack-and-Hold Facility and has a Gun Tower to it's North East, just
 outside of it's [SOI](../locations/Sphere_of_Influence.md).
-
-

@@ -28,4 +28,3 @@ Also known as an Ancient-Tech Turret.
 
 There is a [known issue](../etc/Known_Issues.md) where friendly manned Ancient
 Sentry Turrets can appear enemy-controled.
-

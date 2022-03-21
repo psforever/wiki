@@ -139,5 +139,3 @@ Additional FAQ
   accounts deleted, will not be eligible to have characters moved to the Gemini
   server as part of the server merge and will no longer have access to
   characters on those accounts after the server merge (May 20, 2008 )
-
-

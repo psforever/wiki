@@ -6,5 +6,3 @@ December decor includes Santa Hats, Lights on trees on
 replacing backpacks with gift-wrapped packages.
 
 October decor replaces backpacks with empire-colored Jack-o-Lanterns.
-
-

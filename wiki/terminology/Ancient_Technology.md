@@ -24,5 +24,3 @@ Vehicles:
 Although heavily derived from the cave artifacts, the
 [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) are not generally
 considered to be Ancient Technology in the technical sense.
-
-

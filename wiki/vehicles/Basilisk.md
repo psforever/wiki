@@ -4,7 +4,7 @@
 | -------------------------- | ------------------------------------------------------------------- |
 | **Type**                   | ATV                                                                 |
 | **Role**                   | Rapid Response/Escort                                               |
-| **Certification Required** | [ATV](../certifications/ATV_(Certification).md)                   |
+| **Certification Required** | [ATV](<../certifications/ATV_(Certification).md>)                   |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                        |
 | **Primary Weapon**         | 2 12mm Rotary Chainguns                                             |
 | **Secondary Weapon**       | \-                                                                  |
@@ -19,4 +19,3 @@ The **Basilisk** is a fast All Terrain Vehicle (ATV) mounted with twin 12mm
 rotary Chainguns.
 
 The twin 12mm rotary Chainguns are best suited for Anti-Infantry use.
-

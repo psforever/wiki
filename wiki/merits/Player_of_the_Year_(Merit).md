@@ -36,5 +36,3 @@
 
 This [Merit](Merit_Commendations.md) was awarded to the SOE Player of the Year
 2007: EVILPIG from [NC](../etc/New_Conglomerate.md) [Markov](../etc/Markov.md).
-
-

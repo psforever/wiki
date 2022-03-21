@@ -6,8 +6,8 @@ formed to:
   directions.
 - Gain [Command Experience Points](Command_Experience_Points.md)
   ([CEP](Acronyms_and_Slang.md)) as the leader of a squad.
-- [Squad Leaders](Squad_Leader.md) can place waypoints on the map
-  assuming the [Squad Leader](Squad_Leader.md) has the appropriate
+- [Squad Leaders](Squad_Leader.md) can place waypoints on the map assuming the
+  [Squad Leader](Squad_Leader.md) has the appropriate
   [Command Rank](Command_Rank.md).
 - Allow players to engage the enemy while close to teammates without fear of
   gaining [Grief points](Grief_points.md).
@@ -25,4 +25,3 @@ Below is a picture of the mini-squad member list that appears on your
 [Heads-up Display](../etc/Heads-up_Display.md) [HUD](Acronyms_and_Slang.md).
 
 ![](../images/SquadList.jpg "Image:SquadList.jpg")
-

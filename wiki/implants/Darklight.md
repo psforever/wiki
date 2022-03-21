@@ -1,8 +1,6 @@
-![](../images/Darklight.jpg){ class="figure" }
-![](../images/Darklight.gif)
+![](../images/Darklight.jpg){ class="figure" } ![](../images/Darklight.gif)
 
-The Darklight implant enables the
-user to detect cloaked enemies and equipment
+The Darklight implant enables the user to detect cloaked enemies and equipment
 ([Infiltration Suits](../armor/Infiltration_Suit.md),
 [Phantasms](../vehicles/Phantasm.md),
 [Shadow Turrets](../weapons/Shadow_Turret.md) and
@@ -16,5 +14,3 @@ must remain still to use it continuously.
 Darklight takes 3 stamina points to start up. You also cannot use it while in
 [Third person](../terminology/Third_person.md) view. Troops with Darklight
 activated will have the Darklight icon next to their name.
-
-

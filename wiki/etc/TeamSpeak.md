@@ -65,5 +65,3 @@ website.
 
 - [Teamspeak Home Page](http://www.goteamspeak.com/)
 - [Teamspeak Overlay Home Page](http://www.teamspeakoverlay.com/)
-
-

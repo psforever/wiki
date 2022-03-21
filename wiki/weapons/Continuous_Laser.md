@@ -20,6 +20,3 @@ any armor an infantry has before affecting their health, giving it the longest
 time to kill of any [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Infantry
 weapon. However, the precision of the weapon somewhat makes up for this fact.
 The weapon is also fairly effective against vehicles if they are close enough.
-
-
-

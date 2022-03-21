@@ -30,7 +30,8 @@ Beware the lava pools! They are extremely unforgiving.
 
 ---
 
---source: Planetside In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
+--source: Planetside In-game descriptions, pre- and
+post-[Bending](../etc/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 
@@ -62,5 +63,3 @@ Beware the lava pools! They are extremely unforgiving.
 - [Karihi](../facilities/Karihi.md)
 - [Ngaru](../facilities/Ngaru.md)
 - [Tara](../facilities/Tara.md)
-
-

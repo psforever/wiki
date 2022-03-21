@@ -1,5 +1,6 @@
 ![ Field Turret, the
-[Osprey](Osprey.md)](../images/OspreyFront.jpg){ class="figure" }
+[Osprey](Osprey.md)](../images/OspreyFront.jpg){
+class="figure" }
 
 |                            |                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +44,8 @@ OMFT cannot be placed inside a friendly or enemy
 [Sphere of Influence](../locations/Sphere_of_Influence.md) or on bridges, but
 can be placed within the SOI of a [neutral](../terminology/Neutral.md) base. A
 maximum of 5 can be placed by an engineer at a time and share interferece ranges
-with [AMSes](../vehicles/Advanced_Mobile_Station.md), [TRAPs](Tactical_Resonance_Area_Protection.md), and
+with [AMSes](../vehicles/Advanced_Mobile_Station.md),
+[TRAPs](Tactical_Resonance_Area_Protection.md), and
 [Aegis Shield Generators](Aegis_Shield_Generator.md). If left unmanned, they
 will deconstruct automatically in about 5 minutes.
 
@@ -59,5 +61,3 @@ best to turn [Bullet Holes](../etc/Menu.md#video-options) off in the graphics
 settings. Large explosions can leave an opaque black scorch mark on the outline
 of your turret, making it difficult, if not impossible, to see out when turned
 in certain directions.
-
-

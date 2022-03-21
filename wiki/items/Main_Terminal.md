@@ -32,7 +32,3 @@ least one [Spawn Tube](Respawn_Tube.md) active and the [Generator](Generator.md)
 is online.
 
 The Main Terminal can not be destroyed.
-
-
-
-

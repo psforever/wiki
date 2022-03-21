@@ -33,11 +33,12 @@ preaching about this.
 
 I go by the alias
 [NeoPhoenixTR](http://www.planetsidestats.net/players.php?world_id=15&char_id=751022)(NeoPhoenixTE
-on the [forums](http://comms.planetsidesyndicate.com/member.php?userid=144), and the rest of the net), and my main character is
-an [Emerald](Emerald.md) [TR](Terran_Republic.md)
-[CR5](../terminology/Command_Rank.md). I have been playing PlanetSide for nearly
-two years now, but have always been mediocre at shooter games overall. My
-expertise comes in niche strategies and multitasking... just not aiming. \>\_\>
+on the [forums](http://comms.planetsidesyndicate.com/member.php?userid=144), and
+the rest of the net), and my main character is an [Emerald](Emerald.md)
+[TR](Terran_Republic.md) [CR5](../terminology/Command_Rank.md). I have been
+playing PlanetSide for nearly two years now, but have always been mediocre at
+shooter games overall. My expertise comes in niche strategies and
+multitasking... just not aiming. \>\_\>
 
 Ever since [BFRs](../vehicles/BattleFrame_Robotics.md) were first brought into
 the game, I have had a constant fascination with them. True, some of this has
@@ -176,8 +177,8 @@ side?
 The following certs are nowhere close to required, but can make a dedicated BFR
 Hunter's life easier:
 
-- [ATV](../certifications/ATV_(Certification).md)
-- [Harasser](../certifications/Harasser_(Certification).md)
+- [ATV](<../certifications/ATV_(Certification).md>)
+- [Harasser](<../certifications/Harasser_(Certification).md>)
 
 ATV and Harasser serve as a way to keep yourself from _ever_ waiting at a
 vehicle pad. Though these vehicles are not as effective as Air Cavalry for
@@ -359,8 +360,8 @@ payload.
 <tr>
 <td width=390 valign=center align=center>
 
-![](../images/BFRHunter-MALoadout.gif){ class="figure" }
-<small>Example of a "Poor Man's Loadout"</small>
+![](../images/BFRHunter-MALoadout.gif){ class="figure" } <small>Example of a
+"Poor Man's Loadout"</small>
 
 </td>
 <td valign=top>
@@ -404,8 +405,8 @@ in there. That jammer, pistol, or ammo could cost you the kill later on.
 <tr>
 <td width=390 valign=center align=center>
 
-![](../images/BFRHunter-HALoadout.gif){ class="figure" }
-<small>Example of an Optimal BFR Hunter Loadout</small>
+![](../images/BFRHunter-HALoadout.gif){ class="figure" } <small>Example of an
+Optimal BFR Hunter Loadout</small>
 
 </td>
 <td valign=top>
@@ -451,8 +452,8 @@ Enough about how to setup your loadouts. Time to get on with the moves!
 <tr>
 <td width=390 valign=center align=center>
 
-![](../images/BFRHunter-CursorPosition.gif){ class="figure" }
-<small>Mouse cursor position at the start of a Deci-Swap</small>
+![](../images/BFRHunter-CursorPosition.gif){ class="figure" } <small>Mouse
+cursor position at the start of a Deci-Swap</small>
 
 </td>
 <td valign=top>
@@ -491,8 +492,8 @@ itself!
 <tr>
 <td width=390 valign=center align=center>
 
-![](../images/BFRHunter-CursorMovement.gif){ class="figure" }
-<small>Mouse Movement during the Deci-Swap</small>
+![](../images/BFRHunter-CursorMovement.gif){ class="figure" } <small>Mouse
+Movement during the Deci-Swap</small>
 
 </td>
 <td valign=top>
@@ -546,8 +547,8 @@ Here's a couple scenarios that I recommend for Deci-Swap practice.
 <td valign=center align=center width=400>
 <div id="RexoPracticeLoadout">
 
-![](../images/BFRHunter-RexoPracticeLoadout.gif){ class="figure" }
-<small>Rexo Loadout for Deci-Swap Combat Practice</small>
+![](../images/BFRHunter-RexoPracticeLoadout.gif){ class="figure" } <small>Rexo
+Loadout for Deci-Swap Combat Practice</small>
 
 </div>
 </td>
@@ -788,8 +789,8 @@ during the deci-swap and the takedown.
 <td align=center valign=center width=400>
 <div id="ColossusTakedownAim">
 
-![](../images/ColossusTakedownAim.gif){ class="figure" }
-<small>Where to aim against a TR [Colossus](../vehicles/Colossus.md) or
+![](../images/ColossusTakedownAim.gif){ class="figure" } <small>Where to aim
+against a TR [Colossus](../vehicles/Colossus.md) or
 [Invader](../items/Invader.md)</small>
 
 </div>
@@ -914,5 +915,3 @@ Description here
 - [Invader Hitbox Diagram](Media:InvaderHitbox.jpg) <small>(pictures courtesy of
   GoHokieGo, TR Emerald)</small>
 - Peregrine
-
-

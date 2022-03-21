@@ -1,11 +1,11 @@
-![](../images/Wraiths.jpg){ class="figure" }
-![Wraith](../images/Wraith.jpg){ class="figure" }
+![](../images/Wraiths.jpg){ class="figure" } ![Wraith](../images/Wraith.jpg){
+class="figure" }
 
 |                            |                                                                                                           |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Type**                   | ATV                                                                                                       |
 | **Role**                   | Recon                                                                                                     |
-| **Certification Required** | [ATV](../certifications/ATV_(Certification).md)                                                         |
+| **Certification Required** | [ATV](<../certifications/ATV_(Certification).md>)                                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                              |
 | **Primary Weapon**         | \-                                                                                                        |
 | **Secondary Weapon**       | \-                                                                                                        |
@@ -31,4 +31,3 @@ extended personal [Inventory](../terminology/Inventory.md).
 
 The other Quad ATV variants are the [Fury](Fury.md) and the
 [Basilisk](Basilisk.md).
-

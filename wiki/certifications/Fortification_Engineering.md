@@ -126,7 +126,8 @@ The Deployable numbers will be upgraded to:
 
 - [Spitfire Turret](#Spitfire) : From 10 to 15
 - [Boomer](#Boomer) : From 20 to 25
-- [Motion Sensor](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm) : From 20 to 25
+- [Motion Sensor](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm)
+  : From 20 to 25
 - [Heavy Explosive Mine](#HEMine) : From 20 to 25
 
 ## Increased Repair Efficiency
@@ -136,5 +137,3 @@ efficiently, resulting in increased repair efficiency for
 [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
 equipment, and [vehicles](../vehicles/Vehicle.md) (2x, from 32 to 64) over that
 of a standard engineer.
-
-

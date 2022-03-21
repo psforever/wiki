@@ -18,14 +18,14 @@ The Battle Islands have unique vehicle and weapon limitations.
 [Heavy Assault](../certifications/Heavy_Assault.md) weaponry can not be
 purchased or used on any of the islands.
 [BFRs](../vehicles/BattleFrame_Robotics.md) and most
-[Technology Plant](../locations/Technology_Plant.md) vehicles can not be purchased or used.
-The exceptions are the [Wasp](../vehicles/Wasp.md),
-[Phantasm](../vehicles/Phantasm.md), and [Skyguard](../vehicles/Skyguard.md), which
-can be purchased on [Desolation](Desolation.md) and used on any Battle Island.
-The [Thunderer](../vehicles/Thunderer.md), [Aurora](../vehicles/Aurora.md),
-[Raider](../vehicles/Raider.md),
-[Galaxy Gunship](../vehicles/Galaxy_Gunship.md), and [Flail](../vehicles/Flail.md)
-are also prohibited.
+[Technology Plant](../locations/Technology_Plant.md) vehicles can not be
+purchased or used. The exceptions are the [Wasp](../vehicles/Wasp.md),
+[Phantasm](../vehicles/Phantasm.md), and [Skyguard](../vehicles/Skyguard.md),
+which can be purchased on [Desolation](Desolation.md) and used on any Battle
+Island. The [Thunderer](../vehicles/Thunderer.md),
+[Aurora](../vehicles/Aurora.md), [Raider](../vehicles/Raider.md),
+[Galaxy Gunship](../vehicles/Galaxy_Gunship.md), and
+[Flail](../vehicles/Flail.md) are also prohibited.
 
 This collection of Battle Islands is sometimes refered to as
 [BI](../terminology/Acronyms_and_Slang.md).
@@ -64,5 +64,3 @@ This collection of Battle Islands is sometimes refered to as
 - [Dahaka](../facilities/Dahaka.md), [Desolation](Desolation.md)
 - [Izha](../facilities/Izha.md), [Desolation](Desolation.md)
 - [Jamshid](../facilities/Jamshid.md), [Desolation](Desolation.md)
-
-

@@ -1,5 +1,6 @@
 ![ Soldier equipped
-with a Punisher](../images/PSScreenShot0253.jpg){ class="figure" }
+with a Punisher](../images/PSScreenShot0253.jpg){
+class="figure" }
 
 <table>
 <caption><strong>Punisher</strong></caption>
@@ -74,4 +75,3 @@ Shots to kill:
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
-

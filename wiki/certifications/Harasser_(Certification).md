@@ -7,5 +7,3 @@
 | **Cert Point Cost**    | 1                                   |
 
 **Harasser**
-
-

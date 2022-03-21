@@ -408,7 +408,7 @@ count towards a certain Merit if the Vehicle had occupants.**
 <tr>
 <td>
 
-[Jacking](Jacking_(Merit).md)
+[Jacking](<Jacking_(Merit).md>)
 
 </td>
 <td class="mitd">

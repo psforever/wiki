@@ -4,8 +4,6 @@ Sunderer variants: [Leviathan](../vehicles/Leviathan.md),
 [Vindicator](../vehicles/Vindicator.md). They are mounted on the sides of the
 vehicle intended to be anti-infantry weapons. The viewing area is small, but if
 the user has the [Darklight](../implants/Darklight.md)
-[Implant](../implants/Implants.md) enabled, [cloaked](../armor/Infiltration_Suit.md)
-enemies are visible at a longer range than would be possible with the implant
-alone.
-
-
+[Implant](../implants/Implants.md) enabled,
+[cloaked](../armor/Infiltration_Suit.md) enemies are visible at a longer range
+than would be possible with the implant alone.

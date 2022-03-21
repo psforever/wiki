@@ -1,8 +1,8 @@
-There were once ten [continents](../locations/Continent.md) on a single planet named
-[Auraxis](Auraxis.md), but after [The Bending](../etc/The_Bending.md), these
-continents were pushed through dimensional rifts outward into the galaxy to ten
-unique planets. These planets, and their continents, remain connected to one
-another through the [Galactic Lattice](../terminology/Galactic_Lattice.md).
+There were once ten [continents](../locations/Continent.md) on a single planet
+named [Auraxis](Auraxis.md), but after [The Bending](../etc/The_Bending.md),
+these continents were pushed through dimensional rifts outward into the galaxy
+to ten unique planets. These planets, and their continents, remain connected to
+one another through the [Galactic Lattice](../terminology/Galactic_Lattice.md).
 
 Capturing these planets is the main objective of the Auraxian Civil War. There
 are two types, [Home Planets](Home_Continent.md) and
@@ -38,5 +38,3 @@ Each Planet and its status can be viewed from the
 - [Oshur Battle Islands](../locations/Oshur.md)
 
 The words Planet and Continent are sometimes interchangable.
-
-

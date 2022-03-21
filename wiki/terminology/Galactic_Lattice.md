@@ -72,5 +72,3 @@ the [Terran Republic](../etc/Terran_Republic.md) was granted
 [Amerish](../locations/Amerish.md) and [Esamir](../locations/Esamir.md). This
 was done so that each empire can experience battles from a different
 perspective.
-
-

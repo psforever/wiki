@@ -226,5 +226,3 @@ Applicable Vehicles: [Basilisk](../vehicles/Basilisk.md),
 [Lightning](../vehicles/Lightning.md), [M../vehicles/Magrider.mdgrider.md), and
 all [BFR](../vehicles/BattleFrame_Robotics.md) pilot weapons except the
 [Armor Siphon](../weapons/Armor_Siphon.md).
-
-

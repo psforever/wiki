@@ -12,5 +12,3 @@ This [Certification](Certification.md) is required to obtain the [Elite
 Assault]../merits/Elite*Assault*(Merit).md)
 [Merit Commendation](../merits/Merit_Commendations.md) for characters lacking
 the [Two Year Term of Service](../merits/Term_of_Service.md) award.
-
-

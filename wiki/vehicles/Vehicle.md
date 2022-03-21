@@ -1,23 +1,22 @@
 ![
 [Vanguard](Vanguard.md)
-[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" } [Vehicles](Vehicle.md)
-are an essential part to [PlanetSide](../etc/PlanetSide.md) as they are the main
-mode of transport between [facilities](../locations/Facilities.md) and are the
-most powerful units on the battlefield. In PlanetSide, there are many different
-types of vehicles, from mobile spawn points to huge lumbering robots to ten
-person APC's.
+[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){
+class="figure" } [Vehicles](Vehicle.md) are an essential part to
+[PlanetSide](../etc/PlanetSide.md) as they are the main mode of transport
+between [facilities](../locations/Facilities.md) and are the most powerful units
+on the battlefield. In PlanetSide, there are many different types of vehicles,
+from mobile spawn points to huge lumbering robots to ten person APC's.
 
 Planetside currently has 38 different ground and air vehicles (not including
 [HART](../terminology/HART.md) shuttles and [Drop Pods](../items/Drop_Pod.md)),
 each with radically different attributes. Almost every vehicle has at least one
 type of onboard weapons system - the exceptions are the
-[AMS](Advanced_Mobile_Station.md),
-[Lodestar](Lodestar.md), [Phantasm](Phantasm.md), [Router](Router.md), and
-[Wraith](Wraith.md) (though all have important capabilities). Some vehicles are
-only available to members of a particular [Empire](../terminology/Empire.md),
-while others are available to all. Any unoccupied vehicle may be
-[jacked](../terminology/Jack.md) (stolen) by an enemy
-[advanced hacker](../certifications/Advanced_Hacking.md).
+[AMS](Advanced_Mobile_Station.md), [Lodestar](Lodestar.md),
+[Phantasm](Phantasm.md), [Router](Router.md), and [Wraith](Wraith.md) (though
+all have important capabilities). Some vehicles are only available to members of
+a particular [Empire](../terminology/Empire.md), while others are available to
+all. Any unoccupied vehicle may be [jacked](../terminology/Jack.md) (stolen) by
+an enemy [advanced hacker](../certifications/Advanced_Hacking.md).
 
 ## Acquiring a Vehicle
 
@@ -38,10 +37,10 @@ certification management is important when applying for certain vehicles.
 The list of vehicular certifications is as follows:
 
 - [ATV](ATV.md)
-  - [Switchblade](../certifications/Switchblade_(Certification).md)
+  - [Switchblade](<../certifications/Switchblade_(Certification).md>)
 - [Harasser](Harasser.md)
 - [Light Scout](../certifications/Light_Scout.md)
-- [Assault Buggy](../certifications/Assault_Buggy_(Certification).md)
+- [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>)
 - [Armored Assault I](../certifications/Armored_Assault_I.md)
   - [Armored Assault II](../certifications/Armored_Assault_II.md)
     - [Flail](Flail.md)
@@ -57,9 +56,9 @@ The list of vehicular certifications is as follows:
   - [Air Cavalry, Interceptor](../certifications/Air_Cavalry_Interceptor.md)
     (Light Scout can be used in place of Air Cavalry, Scout as a pre-requisite)
 - [Air Support](../certifications/Air_Support.md)
-  - [Galaxy Gunship](../certifications/Galaxy_Gunship_(Certification).md)
-- [Phantasm](../certifications/Phantasm_(Certification).md) (requires
-  [Infiltration Suit](../certifications/Infiltration_Suit_(Certification).md))
+  - [Galaxy Gunship](<../certifications/Galaxy_Gunship_(Certification).md>)
+- [Phantasm](<../certifications/Phantasm_(Certification).md>) (requires
+  [Infiltration Suit](<../certifications/Infiltration_Suit_(Certification).md>))
 
 In addition, any player has access to the
 [Advanced Nanite Transport](Advanced_Nanite_Transport.md).
@@ -74,31 +73,32 @@ The vehicles and their requirements are listed below:
 
 [Vulture](Vulture.md) : [Bomber Ace Bronze](../merits/Bomber_Ace.md)
 Flight-Variant BFRs ([Invader](../items/Invader.md), [Eclipse](Eclipse.md), or
-[Eagle](Eagle.md)) : [BFR Basic](../merits/BFR_(Merit).md)
+[Eagle](Eagle.md)) : [BFR Basic](<../merits/BFR_(Merit).md>)
 
 ### Vehicle Terminal
 
 ![ is a vehicle which requires a
-[Technology Plant](../locations/Technology_Plant.md).](../images/NCmag.jpg){ class="figure" } Once a player has the
-correct certification, a player can purchase the vehicle from a friendly or
-hacked [Vehicle Terminal](../locations/Vehicle_Terminal.md). However, some
-Vehicle Terminals are restricted to either air or ground vehicles, and some
-vehicles can only be purchased when certain requirements are met. Also, after
-every vehicle purchase, the same vehicle cannot be purchased for 5 minutes,
-unless you are at a base which has a [Vehicle Module](../etc/Vehicle_Module.md),
-in which the timer is reduced to 2:30.
+[Technology Plant](../locations/Technology_Plant.md).](../images/NCmag.jpg){
+class="figure" } Once a player has the correct certification, a player can
+purchase the vehicle from a friendly or hacked
+[Vehicle Terminal](../locations/Vehicle_Terminal.md). However, some Vehicle
+Terminals are restricted to either air or ground vehicles, and some vehicles can
+only be purchased when certain requirements are met. Also, after every vehicle
+purchase, the same vehicle cannot be purchased for 5 minutes, unless you are at
+a base which has a [Vehicle Module](../etc/Vehicle_Module.md), in which the
+timer is reduced to 2:30.
 
 In short, vehicles that are under
 [Air Cavalry Scout](../certifications/Air_Cavalry_Scout.md),
 [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md), the
-[Liberator](Liberator.md)  and the [Vulture](Vulture.md) from
+[Liberator](Liberator.md) and the [Vulture](Vulture.md) from
 [Air Support](../certifications/Air_Support.md) and the [Phantasm](Phantasm.md)
 can be purchased at Air Vehicle Terminals. All of the above vehicles as well as
 the [Galaxy](Galaxy.md) , [Galaxy Gunship](Galaxy_Gunship.md) and
 [Lodestar](Lodestar.md) from [Air Support](../certifications/Air_Support.md) can
 be purchased at a Dropship Vehicle Terminal. [BFR](BattleFrame_Robotics.md)'s
-can only be purchased at [BFR Terminals](../items/BFR_Shed.md). Any other vehicle
-can be purchased from a Ground Vehicle Terminal.
+can only be purchased at [BFR Terminals](../items/BFR_Shed.md). Any other
+vehicle can be purchased from a Ground Vehicle Terminal.
 
 However, there are still some other restrictions. Certain vehicles require a
 [Technology Plant](../locations/Technology_Plant.md) to be able to purchase
@@ -237,8 +237,10 @@ These are the default Air Controls.
 These controls are used only for BFR's. BFR's do not use the Vehicle Control set
 and instead rely only on this control set to control the BFR's.
 
-These are the default BFR Controls. ![,
-a [BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.](../images/Eagle2.jpg){ class="figure" }
+These are the default BFR Controls.
+![,
+a [BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.](../images/Eagle2.jpg){
+class="figure" }
 
 |                         |                      |                      |
 | ----------------------- | -------------------- | -------------------- |
@@ -279,11 +281,12 @@ After an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) has gone to a
 [warpgate](../locations/Warpgate.md) and gathered [NTU](../items/NTU.md)'s, a
 gray bar which reads "NTU Level" shows up on the bottom toolbar. This denotes
 how many NTU's are stored on the ANT that are ready to be transferred to an
-[NTU Silo](../locations/NTU_Silo.md) at a [facility](../locations/Facilities.md). Also, the
-[Mosquito](Mosquito.md) , [Reaver](Reaver.md), [Vulture](Vulture.md),
-[Galaxy](Galaxy.md) , [Phantasm](Phantasm.md), and [Lodestar](Lodestar.md) all
-have [Afterburners](../terminology/Afterburner.md), which is denoted on the HUD
-by a green bar which reads "Afterburners".
+[NTU Silo](../locations/NTU_Silo.md) at a
+[facility](../locations/Facilities.md). Also, the [Mosquito](Mosquito.md) ,
+[Reaver](Reaver.md), [Vulture](Vulture.md), [Galaxy](Galaxy.md) ,
+[Phantasm](Phantasm.md), and [Lodestar](Lodestar.md) all have
+[Afterburners](../terminology/Afterburner.md), which is denoted on the HUD by a
+green bar which reads "Afterburners".
 
 ## Gunner and Passenger Spots
 
@@ -316,7 +319,7 @@ By gunning for a vehicle, a player can get certain merits. These merits are as
 follows:
 
 - [Ground Gunner](../merits/Ground_Gunner.md) (most ground vehicles)
-- [Bombardier](../merits/Bombardier_(Merit).md) (Liberator and Vulture)
+- [Bombardier](<../merits/Bombardier_(Merit).md>) (Liberator and Vulture)
 - [Air Defender](../merits/Air_Defender.md) (Skyguard)
 - [Cavalry Pilot](../merits/Cavalry_Pilot.md) (Galaxy Gunship)
 
@@ -335,8 +338,8 @@ vehicle yet.
 ### MAX Passenger Slots
 
 The [Leviathan](Leviathan.md),
-[Juggernaut](Juggernaut.md),[Vindicator](Vindicator.md), and
-[Galaxy](Galaxy.md)  have two positions which can be occupied by players wearing
+[Juggernaut](Juggernaut.md),[Vindicator](Vindicator.md), and [Galaxy](Galaxy.md)
+have two positions which can be occupied by players wearing
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Armor. Players wearing a
 [Infiltration Suit](../armor/Infiltration_Suit.md),
 [Standard Exo-Suit](../armor/Standard_Exo-Suit.md),
@@ -347,7 +350,7 @@ in the middle.
 
 ### Vehicle Bay
 
-Both the [Galaxy](Galaxy.md)  and the [Lodestar](Lodestar.md) have a vehicle bay
+Both the [Galaxy](Galaxy.md) and the [Lodestar](Lodestar.md) have a vehicle bay
 which can transport smaller ground vehicles in the air. The [Galaxy](Galaxy.md)
 has a much smaller vehicle bay and can therefore only transport certain
 vehicles. These vehicles are:
@@ -374,5 +377,3 @@ strafe into the Lodestar sideways._
 
 - [Vehicle Index](category:_Vehicles.md)
 - [Vehicular Merit Commendations](../merits/Vehicular_Merit_Commendations.md)
-
-

@@ -109,5 +109,3 @@ The sixth stage of the
 of Commendations
 
 This Merit is awarded for killing Enemies while using any means necessary.
-
-

@@ -2,10 +2,10 @@
 
 |                                                                       |                                         |
 | --------------------------------------------------------------------- | --------------------------------------- |
-| [Control Console](../locations/Control_Console.md):                                | Roof                                    |
+| [Control Console](../locations/Control_Console.md):                   | Roof                                    |
 | [Generator](../items/Generator.md):                                   | Basement                                |
 | [Spawn room](Spawn_Room.md):                                          | Level 1                                 |
-| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air/Ground):                 | Courtyard                               |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air/Ground):    | Courtyard                               |
 | [BFR Shed](../items/BFR_Shed.md):                                     | Courtyard                               |
 | [Lattice Logic Unit Socket](../terminology/Lattice_Logic_Unit.md):    | Level 2                                 |
 | [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | Vehicle Shields (Benefit Icon: Vehicle) |
@@ -18,8 +18,8 @@
 
 [Amp Station](Amp_Station.md) [facilities](Facilities.md) are one of the most
 valuable [facilities](Facilities.md), and one of the easiest to take as their
-[Control Console](../locations/Control_Console.md) is located on the roof of the facility and
-requires exterior travel for the defenders to reach it.
+[Control Console](../locations/Control_Console.md) is located on the roof of the
+facility and requires exterior travel for the defenders to reach it.
 
 Unique feature - [Control Console](../locations/Control_Console.md) is on roof
 
@@ -76,5 +76,3 @@ Unique feature - [Control Console](../locations/Control_Console.md) is on roof
 
 - [Mont](../facilities/Mont.md) (Sub-Capitol)
 - [Bastet](../facilities/Bastet.md)
-
-

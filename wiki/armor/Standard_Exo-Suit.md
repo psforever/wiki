@@ -1,8 +1,11 @@
 ![ Standard
-Armor](../images/PSScreenShot0317.jpg){ class="figure" } ![
-Standard Armor](../images/NCStandardExoSuit.jpg){ class="figure" } ![
+Armor](../images/PSScreenShot0317.jpg){ class="figure" }
+![
+Standard Armor](../images/NCStandardExoSuit.jpg){ class="figure" }
+![
 [Standard Exo-Suit](Standard_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7 and 14.](../images/VS_Standards.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7 and 14.](../images/VS_Standards.jpg){
+class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |
@@ -22,6 +25,3 @@ does allow the wearer to run a little faster than the
 [pistol slot](../etc/Holster.md), and the fact that Agile is also available
 without other [Certifications](../certifications/Certifications.md) means this
 armor has no practical use, other than quick defense of a base without power.
-
-
-

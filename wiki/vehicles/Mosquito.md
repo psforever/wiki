@@ -26,4 +26,3 @@ causing enemy troops to be shown on other players'
 
 The onboard radar works only at thrust settings of 50% or lower, and may not
 pick up motionless or [shielded](../implants/Sensor_Shield.md) enemies.
-

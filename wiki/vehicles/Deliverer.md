@@ -21,4 +21,3 @@ one next to the driver, facing forward, the other in the rear, covering the
 back. A reasonable trunk provides adequate space to carry supplies as well. The
 Deliverer also has the distinct advantage of being able to cross calm rivers and
 waterways and will float at the surface.
-

@@ -17,5 +17,3 @@ place to start is evaluating your [Empire](../terminology/Empire.md) choices.
 ## Step Four: Play
 
 Go ruin someone's day.
-
-

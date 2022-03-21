@@ -222,5 +222,3 @@ This [merit](Merit_Commendations.md) is awarded for kills amassed while
 operating a Ground [Vehicle](../vehicles/Vehicle.md)-mounted (non-pilot) weapon.
 The [skyguard](../vehicles/Skyguard.md) is excluded, as it counts for the
 [Air Defender](Air_Defender.md) merit.
-
-

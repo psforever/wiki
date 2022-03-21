@@ -23,9 +23,9 @@ primary detonate on contact mode, as well as a secondary two-second- fuse mode
 that also detonates upon striking an enemy.
 
 Ideal uses for the thumper are in [Back Door](../locations/Back_Door.md) or
-[Tower](../locations/Towers.md) defense. The two-second-fuse setting allows the user to
-fire around corners, saturating a target or area without visual contact. In
-addition, when loaded with a supply of [Jammer grenades](Jammer_Grenade.md),
+[Tower](../locations/Towers.md) defense. The two-second-fuse setting allows the
+user to fire around corners, saturating a target or area without visual contact.
+In addition, when loaded with a supply of [Jammer grenades](Jammer_Grenade.md),
 they can be quite handy eliminating minefields on
 [Galaxy](../vehicles/Galaxy.md) drops when a Command [EMP](../commands/EMP.md)
 is not available.
@@ -47,8 +47,3 @@ Merit-qualified kills with the Thumper count towards both the
 [Grenadier](../merits/Grenadier.md) and [Special
 Assault]../merits/Special*Assault*(Merit).md)
 [Merit Commendations](../merits/Merit_Commendations.md).
-
-
-
-
-

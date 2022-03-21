@@ -23,9 +23,3 @@ Thunderer has adequate trunk space and can cross calm rivers and waterways by
 floating at the surface.
 
 **Introduced: May 27, 2004 with update version [2.7.6](../patches/2.7.6.md).**
-
-
-
-
-
-

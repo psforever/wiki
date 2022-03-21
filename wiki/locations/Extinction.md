@@ -40,5 +40,3 @@ amidst the ruins of the old crater.
 
 Now, laval islands have been cut by wind, water, and steady erosion. The volcano
 is dormant for now, but who knows how long that will last.
-
-

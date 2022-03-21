@@ -8,5 +8,3 @@ structures exist:
 - [Repair Crystal](Repair_Crystal.md) (clear/translucent)
 - [Weapon Energy Crystal](Weapon_Energy_Crystal.md) (yellow)
 - [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) (green)
-
-

@@ -1,5 +1,5 @@
-![](../images/Ant.jpg){ class="figure" }
-![](../images/ANTatSilo.jpg){ class="figure" }
+![](../images/Ant.jpg){ class="figure" } ![](../images/ANTatSilo.jpg){
+class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |
@@ -35,4 +35,3 @@ One fully-filled **ANT** carries approximately 150% of one
 
 Caution: Fully-charged **ANTs** have a significant secondary blast radius when
 destroyed.
-

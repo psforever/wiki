@@ -9,5 +9,3 @@ Advanced Medical Terminals are found only in the
 To utilize this device, simply walk onto the pad. You will automatically holster
 your weapons when the Terminal activates. Drawing weapons or moving off the
 Advanced Medical Terminal will cancel it's effect.
-
-

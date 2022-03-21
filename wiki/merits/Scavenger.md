@@ -457,5 +457,3 @@ following classes:
 - [Medium Assault](../certifications/Medium_Assault.md)
 - [Heavy Assault](../certifications/Heavy_Assault.md)
 - [Anti-Vehicular](../certifications/Anti-Vehicular.md)
-
-

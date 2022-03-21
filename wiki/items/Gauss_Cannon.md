@@ -12,5 +12,3 @@ and Infantry, but rather low chance of hitting enemy aircraft that are moving.
 With two of these weapons firing from a [Thunderer](../vehicles/Thunderer.md) on
 the same target, the Thunderer can even challenge
 [Medium Battle Tanks](Medium_Battle_Tank.md) and have a good chance of winning.
-
-

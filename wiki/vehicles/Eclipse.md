@@ -1,8 +1,10 @@
 ![ Eclipse with dual
-[Pulsed Particle Accelerators](../items/Pulsed_Particle_Accelerator_(BFR).md)](../images/VS_Eclipse.jpg){ class="figure" }
+[Pulsed Particle Accelerators](../items/Pulsed_Particle_Accelerator_(BFR).md)](../images/VS_Eclipse.jpg){
+class="figure" }
 
 !['s
-[Terran](../etc/Terran_Republic.md) Eclipse](../images/Eclipse.jpg){ class="figure" }
+[Terran](../etc/Terran_Republic.md) Eclipse](../images/Eclipse.jpg){
+class="figure" }
 
 The **Eclipse** is the flight variant of
 [BattleFrame Robotics](BattleFrame_Robotics.md) developed by the
@@ -31,14 +33,12 @@ The Pilot Weapons available to the Eclipse are
 
 - The [Continuous Laser](../weapons/Continuous_Laser.md) (Anti-Infantry)
 - The
-  [Pulsed Particle Accelerator](../items/Pulsed_Particle_Accelerator_(BFR).md)
+  [Pulsed Particle Accelerator](<../items/Pulsed_Particle_Accelerator_(BFR).md>)
   (Anti-Vehicular)
-- The [Starfire](../items/Starfire_(BFR).md) (Anti-Aircraft)
+- The [Starfire](<../items/Starfire_(BFR).md>) (Anti-Aircraft)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
 - The [Armor Siphon](../weapons/Armor_Siphon.md) (Anti-Vehicular)
 
 The pilot can equip two of these weapons, in any combination. Additionally, it
 is possible to manually deactivate one of the weapons, using them one at a time
 (one weapon must always remain active, however).
-
-

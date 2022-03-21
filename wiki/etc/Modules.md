@@ -1,8 +1,9 @@
 ![,
 [Speed](Speed_Module.md), and [Equipment Modules](../items/Equipment_Module.md)
 in their cradles in an [Interlink](../locations/Interlink.md)
-[Facility](../locations/Facilities.md)](../images/Modules_Interlink.jpg){ class="figure" } Modules are devices that can be
-obtained from the [Module Buildings](../locations/Module_Building.md) in the
+[Facility](../locations/Facilities.md)](../images/Modules_Interlink.jpg){
+class="figure" } Modules are devices that can be obtained from the
+[Module Buildings](../locations/Module_Building.md) in the
 [Caverns](../locations/Caverns.md) introduced by the expansion
 [Core Combat](../items/Core_Combat.md).
 
@@ -45,8 +46,8 @@ second and 5 minutes, killing the carrier and anything nearby.
 
 ## Available Modules
 
-![](../images/Shield_module.jpg){ class="figure" } Currently, six
-types of modules are available to be installed (map icon color is listed):
+![](../images/Shield_module.jpg){ class="figure" } Currently, six types of
+modules are available to be installed (map icon color is listed):
 
 - [Equipment Module](../items/Equipment_Module.md) (blue)
 - [Health Module](../items/Health_Module.md) (yellow)
@@ -89,5 +90,3 @@ the same vein as [LLUs](../terminology/Lattice_Logic_Unit.md).
 1. The modules become unstable when they are taken out of their
    [Module Cradle](../items/Module_Cradle.md). They will explode if they are out
    of their cradle for more than 15 minutes.
-
-

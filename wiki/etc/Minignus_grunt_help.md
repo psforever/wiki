@@ -129,5 +129,3 @@ slight decrease to accuracy. It has two ammo types:
   than the rockets due to it's splash damage.
 
 MORE SOON....
-
-

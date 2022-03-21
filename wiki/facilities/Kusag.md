@@ -4,8 +4,7 @@ P10 and Q10.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../locations/Interlink.md)
-  [Irkalla](Irkalla.md)
+- [Interlink Facility](../locations/Interlink.md) [Irkalla](Irkalla.md)
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Lahar](Lahar.md)
 - [Amp Station](../locations/Amp_Station.md) [Enkidu](Enkidu.md)
 - A Broadcast [Warpgate](../locations/Warpgate.md)
@@ -14,5 +13,3 @@ It is a [Hack-and-Hold](../terminology/Hack-and-Hold.md)
 [Facility](../locations/Facilities.md) with a
 [Watch tower](../locations/Watch_tower.md) to it's northwest, just outside of
 its [SOI](../locations/Sphere_of_Influence.md).
-
-

@@ -29,7 +29,7 @@ when its [generator](Generator.md) is down.
 #### Enemy and Neutral Facilities
 
 Lockers in Enemy or Neutral Facilities can be hacked if you have the basic
-[Hacking](../certifications/Hacking_(Certification).md)
+[Hacking](<../certifications/Hacking_(Certification).md>)
 [certification](../certifications/Certification.md). Note however that the
 Facility's generator must be online, if it is destroyed than you cannot use the
 Lockers.
@@ -57,5 +57,3 @@ storing looted enemy equipment and ammo, equipping yourself when the Facility is
 hacked or when the Facility's [generator](Generator.md) is destroyed, or for
 Infiltration resupply (Enemy Lockers are less conspicious to hack than enemy
 Equipment Terminals).
-
-

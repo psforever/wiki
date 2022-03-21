@@ -16,5 +16,3 @@ Located in grids K13 and L13
 Voltan is a [Hack-and-Hold](../terminology/Hack-and-Hold.md) Facility with a
 [Watch tower](../locations/Watch_tower.md) to the east, just outside its
 [SOI](../locations/Sphere_of_Influence.md).
-
-

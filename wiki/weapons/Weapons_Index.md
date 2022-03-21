@@ -5,7 +5,7 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 
 ### Melee Weapons
 
-- [Chainblade](../items/Chainblade.md)
+- [Chainblade](Chainblade.md)
 - [Force-Blade](Force-Blade.md)
 - [Fusion Blade](Fusion_Blade.md)
 - [Mag-Cutter](Mag-Cutter.md)
@@ -51,7 +51,7 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 
 - [Jackhammer](Jackhammer.md)
 - [Lasher](Lasher.md)
-- [Maelstrom](Maelstrom.md)  (See: [Core Combat](../items/Core_Combat.md))
+- [Maelstrom](Maelstrom.md) (See: [Core Combat](../items/Core_Combat.md))
 - [Mini-Chaingun (MCG)](Mini-Chaingun.md)
 
 ### Anti-Vehicular Weapons
@@ -136,5 +136,3 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 
 - [Ancient Capacitor Unit](../ammunition/Ancient_Capacitor_Unit.md)
 - [Maelstrom Capacitor Unit](../items/Maelstrom_Capacitor_Unit.md)
-
-

@@ -13,7 +13,5 @@ certification. It has since been moved to the
 [Anti-Vehicular](Anti-Vehicular.md) certification.
 
 This [Certification](Certification.md) is required to obtain the
-[Special Assault](../merits/Special_Assault_(Merit).md)
+[Special Assault](<../merits/Special_Assault_(Merit).md>)
 [Merit Commendation](../merits/Merit_Commendations.md).
-
-

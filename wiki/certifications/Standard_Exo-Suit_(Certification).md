@@ -12,5 +12,3 @@
 
 The **Standard Exo-Suit** [Certification](Certification.md) is given to all
 soldiers and cannot be removed.
-
-

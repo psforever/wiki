@@ -11,5 +11,3 @@ beta," indicating that they have been participating since before the official
 release of the game. This period may also be further distinguished as consisting
 of "closed beta", when only those invited could participate in the testing, and
 "open beta", when anyone could sign up to test.
-
-

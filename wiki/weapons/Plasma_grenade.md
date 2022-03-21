@@ -1,5 +1,6 @@
 ![
-[Hand grenade](Hand_grenade.md)](../images/Plasma-Hand-grenade.jpg){ class="figure" }
+[Hand grenade](Hand_grenade.md)](../images/Plasma-Hand-grenade.jpg){
+class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
@@ -15,8 +16,8 @@
 **Plasma Grenade**
 
 ![](../images/Plasma-Hand-grenade-Icon.jpg){ class="figure" }
-[image:Plasmagrenadepack.jpg](../images/Plasmagrenadepack.jpg) The damage caused by
-**Plasma grenades** depends on the method of delivery. Both methods inflict
+[image:Plasmagrenadepack.jpg](../images/Plasmagrenadepack.jpg) The damage caused
+by **Plasma grenades** depends on the method of delivery. Both methods inflict
 damage by splashing [Plasma](Plasma.md) in an area effect. Affected objects
 continue to burn over a short period of time after the initial impact blast.
 
@@ -29,8 +30,7 @@ ammunition, the plasma grenades do significantly less damage. In this case the
 fragmentation grenades do more damage to all objects, including
 [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) and infantry.
 
-The [Plasma](Plasma.md) will also reveal cloakers in the area as one can see
-the plasma burning on them even while cloaked, and thus can be a useful way of
+The [Plasma](Plasma.md) will also reveal cloakers in the area as one can see the
+plasma burning on them even while cloaked, and thus can be a useful way of
 revealing cloakers without using the [Darklight](../implants/Darklight.md)
 [Implant](../implants/Implants.md).
-

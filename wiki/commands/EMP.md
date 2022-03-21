@@ -35,5 +35,3 @@ force is attacking a base, or a small team is commencing an insertion into an
 enemy base at a heavily CE-ed entrance.
 
 The recharge time for an EMP is 20 minutes.
-
-

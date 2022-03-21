@@ -15,12 +15,13 @@ When deployed in a [Warpgate](../locations/Warpgate.md) or
 [Geowarp](../locations/Geowarp.md) bubble, the ANT gathers
 [NTUs](../items/NTU.md). When deployed near an
 [NTU Silo](../locations/NTU_Silo.md), the NTUs are transfered to the silo,
-powering the [facility](../locations/Facilities.md). [Flail](../vehicles/Flail.md) : Deploying the
-Flail allows its Dispersion Cannon to be used. [Router](../vehicles/Router.md) :
-Deploying the Router allows a [telepad](../weapons/Telepad.md) to be deployed
-and allows the link to be established. [Switchblade](../items/Switchblade.md) :
-While the Switchblade can fire while "undeployed", its rate-of-fire is greatly
-increased if it is deployed.
+powering the [facility](../locations/Facilities.md).
+[Flail](../vehicles/Flail.md) : Deploying the Flail allows its Dispersion Cannon
+to be used. [Router](../vehicles/Router.md) : Deploying the Router allows a
+[telepad](../weapons/Telepad.md) to be deployed and allows the link to be
+established. [Switchblade](../items/Switchblade.md) : While the Switchblade can
+fire while "undeployed", its rate-of-fire is greatly increased if it is
+deployed.
 
 To deploy and undeploy, the default key is 'B'.
 
@@ -34,5 +35,3 @@ The [Terran Republic](../etc/Terran_Republic.md)
 ability is essentially the same as "deploying" it, but is never referred to in
 that way. Similarly, [BFRs](../vehicles/BattleFrame_Robotics.md) can crouch and
 improve fire rate, accuracy, and shield recharge, similar to TR MAXes.
-
-

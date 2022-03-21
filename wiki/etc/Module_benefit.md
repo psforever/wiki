@@ -18,5 +18,3 @@ module benefit.
 [Cavern Locked](Cavern_Lock.md) benefits will also link the lattice like the
 module benefit. The module icon will appear green over the base with such a
 link.
-
-

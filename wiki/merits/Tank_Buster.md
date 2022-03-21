@@ -222,5 +222,3 @@ vehicles count toward this Merit:
 - All [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) Variants
 
 Each individual tank only counts once, regardless of the number of occupants.
-
-

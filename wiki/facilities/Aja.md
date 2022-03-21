@@ -20,5 +20,3 @@ Aja is a [LLU](../terminology/Lattice_Logic_Unit.md)
   one of the longest in the game.
 
 Elevation: 48.4m
-
-

@@ -1,5 +1,6 @@
 ![ shower during a special Oshur Prime
-[event](../etc/Events.md)](../images/Meteor.jpg){ class="figure" }
+[event](../etc/Events.md)](../images/Meteor.jpg){
+class="figure" }
 
 ## [Oshur Prime](Oshur_Prime.md)
 
@@ -41,8 +42,8 @@ being put into version 3.9 release. We hope to work the plans for returning
 Oshur after 3.9 has been completed and pushed live. We will keep you updated on
 it when we can."
 
-On 08 Aug 2006, Outfit Wars were announced, with Oshur Prime
-as their theatre of operations.
+On 08 Aug 2006, Outfit Wars were announced, with Oshur Prime as their theatre of
+operations.
 
 ## [Facilities](Facilities.md)
 
@@ -69,5 +70,3 @@ as their theatre of operations.
 - Dahaka
 - Izha
 - Jamshid
-
-

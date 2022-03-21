@@ -7,7 +7,7 @@
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)        |
 | **Primary Mode**           | Stream                                              |
 | **Secondary Mode**         | Sunburst explosion                                  |
-| **Ammunition**             | [Incendiary Gel](../ammunition/Incendiary_Gel.md)        |
+| **Ammunition**             | [Incendiary Gel](../ammunition/Incendiary_Gel.md)   |
 | **Range**                  | 12 meters                                           |
 | **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                               |
 | **Magazine Capacity**      | 100                                                 |
@@ -38,5 +38,3 @@ The Dragon is free to those having the
 [merit](../merits/Merit_Commendations.md) or available to those certing
 [Elite Assault](../certifications/Elite_Assault.md). The Dragon has a 3 minute
 acquisition timer.
-
-

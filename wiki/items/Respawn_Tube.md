@@ -1,7 +1,7 @@
-![](../images/PSScreenShot0289.jpg){ class="figure" } A **Respawn
-tube**, also known as a Spawn Tube, is where a soldier appears after respawning
-from death, after "[deconstructing](../terminology/Deconstruct.md)" at another
-tube (see below), or using [Instant Action](../terminology/Instant_Action.md) or
+![](../images/PSScreenShot0289.jpg){ class="figure" } A **Respawn tube**, also
+known as a Spawn Tube, is where a soldier appears after respawning from death,
+after "[deconstructing](../terminology/Deconstruct.md)" at another tube (see
+below), or using [Instant Action](../terminology/Instant_Action.md) or
 [Recall](../terminology/Recall.md).
 
 **Respawn tubes** are found in base [facilities](../locations/Facilities.md) and
@@ -23,5 +23,3 @@ the most basic strategies in taking over a
 By entering a **respawn tube** a soldier can
 "[deconstruct](../terminology/Deconstruct.md)" and respawn at another
 [spawn point](../terminology/Spawn_point.md).
-
-

@@ -1,20 +1,24 @@
 ![
 [Agile Exo-Suit](Agile_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCAgileArmors2.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCAgileArmors2.jpg){
+class="figure" }
 
 ![
 [Agile Exo-Suit](Agile_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRAgileArmor2.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRAgileArmor2.jpg){
+class="figure" }
 
 ![
 [Agile Exo-Suit](Agile_Exo-Suit.md) at, from left the right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_Agiles.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_Agiles.jpg){
+class="figure" }
 
 ![,
 [Medical Applicator](../weapons/Medical_Applicator.md),
 [BANK](../weapons/Body_Armor_Nano_Kit.md),
 [REK](../weapons/Remote_Electronics_Kit.md), and
-[CUD](../weapons/Command_Uplink_Device.md)](../images/Agile_Inventory.jpg){ class="figure" }
+[CUD](../weapons/Command_Uplink_Device.md)](../images/Agile_Inventory.jpg){
+class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |
@@ -32,6 +36,3 @@ and the flexibility of a second [pistol slot](../etc/Holster.md) and larger
 [inventory](../terminology/Inventory.md), the **Agile Exo-Suit** is a vast
 improvement. You still maintain good foot speed and this is the heaviest armor
 you can wear and still pilot/drive all vehicles.
-
-
-

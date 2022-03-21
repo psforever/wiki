@@ -75,15 +75,15 @@ use it:
 <!-- -->
 
 - **Run And Gun**: The Striker has no appreciable
-  [Cone of Fire](../terminology/Cone_of_fire.md) bloom, and can be used just as effectively
-  while running and strafing, as crouching, so if you _have_ been spotted, you
-  can make it more difficult for them to return fire. If you drive a vehicle
-  off, but fail to kill it, relocate to a new position as soon as is practical;
-  he knows where you are, knows you are a threat and will probably be back from
-  an different direction. This is demonstrated by the 'Reaver Rocketspam
-  Foxtrot', whereby the Striker user runs toward, then under the craft, firing
-  all the while, thereby dodging the worst of the hits. This works more times
-  than you might think.
+  [Cone of Fire](../terminology/Cone_of_fire.md) bloom, and can be used just as
+  effectively while running and strafing, as crouching, so if you _have_ been
+  spotted, you can make it more difficult for them to return fire. If you drive
+  a vehicle off, but fail to kill it, relocate to a new position as soon as is
+  practical; he knows where you are, knows you are a threat and will probably be
+  back from an different direction. This is demonstrated by the 'Reaver
+  Rocketspam Foxtrot', whereby the Striker user runs toward, then under the
+  craft, firing all the while, thereby dodging the worst of the hits. This works
+  more times than you might think.
 
 <!-- -->
 
@@ -225,5 +225,3 @@ use it:
   battle area, and cutting them down from behind. The machine guns, used from
   range, work best as there is less tell-tale engine or rocket launch sounds to
   give the game away.
-
-

@@ -6,7 +6,7 @@
 | -------------------------- | ----------------------------------------------------------- |
 | **Type**                   | Cloaked Aircraft                                            |
 | **Role**                   | Stealth                                                     |
-| **Certification Required** | [Phantasm](../certifications/Phantasm_(Certification).md) |
+| **Certification Required** | [Phantasm](<../certifications/Phantasm_(Certification).md>) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                |
 | **Primary Weapon**         | \-                                                          |
 | **Secondary Weapon**       | \-                                                          |
@@ -41,7 +41,7 @@ vehicle, then get in again.
 
 The Phantasm has the greatest sustainable speed of any aircraft in the game.
 Over reasonable distances, it is the only aircraft other than the
-[Wasp](Wasp.md) that can outrun a [Mosquito](Mosquito.md)  if the afterburner is
+[Wasp](Wasp.md) that can outrun a [Mosquito](Mosquito.md) if the afterburner is
 applied optimally. The trade-off is that the Phantasm has very poor acceleration
 and deceleration, thus changes in speed must be planned well in advance
 (especially when preparing to land).
@@ -58,4 +58,3 @@ The pilot can wear up to [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) armor, and
 can earn the [Galaxy Support Pilot](../merits/Galaxy_Support_Pilot.md)
 [merit](../merits/Merit_Commendations.md) for kills made by players after they
 bail from the aircraft.
-

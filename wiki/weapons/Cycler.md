@@ -1,16 +1,16 @@
 ![](../images/Cycler.jpg "Cycler.jpg")
 
-|                            |                                                                                                          |
-| -------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                    |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                             |
-| **Primary Mode**           | Rapid Fire                                                                                               |
-| **Secondary Mode**         | \-                                                                                                       |
+|                            |                                                                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                                 |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                          |
+| **Primary Mode**           | Rapid Fire                                                                                                            |
+| **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
-| **Range**                  | 200m                                                                                                     |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                    |
-| **Magazine Capacity**      | 50                                                                                                       |
-| **Zoom**                   | 4x                                                                                                       |
+| **Range**                  | 200m                                                                                                                  |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                                 |
+| **Magazine Capacity**      | 50                                                                                                                    |
+| **Zoom**                   | 4x                                                                                                                    |
 
 **Cycler**
 
@@ -34,6 +34,3 @@ Shots to kill:
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
-
-
-

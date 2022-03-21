@@ -15,5 +15,3 @@ When [The Bending](../etc/The_Bending.md) occurred, ripping apart our reality
 and spreading the [Auraxian](Auraxis.md) continents across a dozen worlds, Oshur
 was erased or torn asunder. In its place appeared 4 smaller landmasses we now
 call "The [Battle Islands](Battle_Islands.md)."
-
-

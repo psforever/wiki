@@ -11,5 +11,3 @@ Xelas is a Sub-Capitol to Verica.
 
 Xelas has an Air Tower in the North West, half in, half out it's
 [SOI](../locations/Sphere_of_Influence.md). Xelas is a Hack-and-Hold Facility.
-
-

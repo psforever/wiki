@@ -9,5 +9,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 It is a Hack-and-Hold Facility with a Gun Tower to it's East, inside it's
 [SOI](../locations/Sphere_of_Influence.md).
-
-

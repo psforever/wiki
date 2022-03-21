@@ -18,5 +18,3 @@ a devastating 6-shot salvo. The weapon is very accurate and the rockets have an
 explosive warhead designed for flexible functionality, resulting in decent punch
 to heavy armor and quick kill times on encroaching infantry. The weapon has a
 straight-line trajectory.
-
-

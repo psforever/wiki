@@ -14,6 +14,3 @@ They do significant damage to both [infantry](../terminology/Infantry.md) and
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
 aircraft's [trunk](../terminology/Trunk.md) or acquired while in the aircraft
 from a [Landing Pad](../items/Landing_Pad.md).
-
-
-

@@ -24,5 +24,3 @@ The Health of friendly soldiers can be seen above their heads as a green bar, if
 close enough, with black sections indicating damage. The Health of enemy
 soldiers can be seen with the
 [Enhanced Targeting](../implants/Enhanced_Targeting.md) Implant, as a red bar.
-
-

@@ -27,5 +27,3 @@ faction, allowing roughly \~166 troops per side to fill a continent.
 
 For 2005, population capacity was reduced to its current \~133 per side per
 continent, this created the side effect of more fights across the galaxy.
-
-

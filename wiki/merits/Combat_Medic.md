@@ -303,5 +303,3 @@ universal symbol for humanitarian aid:
 </tr>
 </tbody>
 </table>
-
-

@@ -27,12 +27,15 @@ lacking.
 
 ## Defending
 
-First and foremost, CE is key. Place [boomers](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer) on the inside door,
-one each, and an alarm near the [CC](../locations/Control_Console.md). Heavily
-mine the outside. [Spits](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and alarms aren’t too useful outside, as
-vehicles will probably show up early, and then easily destroy them, without
-taking much damage. Mines, however, will wreak havoc on them. A very deadly
-combo is a combination of [Disruptor Mines](../weapons/Disruptor_Mine.md)
+First and foremost, CE is key. Place
+[boomers](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer)
+on the inside door, one each, and an alarm near the
+[CC](../locations/Control_Console.md). Heavily mine the outside.
+[Spits](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and alarms
+aren’t too useful outside, as vehicles will probably show up early, and then
+easily destroy them, without taking much damage. Mines, however, will wreak
+havoc on them. A very deadly combo is a combination of
+[Disruptor Mines](../weapons/Disruptor_Mine.md)
 a../certifications/Anti-Vehicular.mdcular.md). The mines make it so vehicles
 can't fire their weapons, leaving them open to a salvo of AV rockets. MAXs
 should set up just inside the door, on the stairs towards the CC. If the people
@@ -49,13 +52,14 @@ landings, aim at the ground floor, and fire (after making sure it’s clear of
 friendlies). Standard weaponry is all that’s needed for taking out air droppers.
 However, despite this, once the tower has troops inside, it’s near impossible to
 beat them back without outside support. in a heavily forested area, a
-[TRAP](../weapons/Tactical_Resonance_Area_Protection.md) may be able to bottleneck people, but in an open space the high
-influence radius makes it little more then a target.
-[Cerberus turrets](../weapons/Cerberus_Turret.md) placed on the roof/ground may
-help prevent mossies campers, but will do little to stop droppers and ground
-forces. Also keep an eye out for phantasm, who can easily drop half a squad onto
-your roof with no warning. Shadow turrets, however, can make a heavily defended
-roof appear an easy target, perfect for ambushes on droppers.
+[TRAP](../weapons/Tactical_Resonance_Area_Protection.md) may be able to
+bottleneck people, but in an open space the high influence radius makes it
+little more then a target. [Cerberus turrets](../weapons/Cerberus_Turret.md)
+placed on the roof/ground may help prevent mossies campers, but will do little
+to stop droppers and ground forces. Also keep an eye out for phantasm, who can
+easily drop half a squad onto your roof with no warning. Shadow turrets,
+however, can make a heavily defended roof appear an easy target, perfect for
+ambushes on droppers.
 
 ## Attacking
 
@@ -83,5 +87,3 @@ them back in. Someone with
 [Assault Engineering](../certifications/Assault_Engineering.md) can also place
 spitfires just outside the doors, making for a nasty surprise when defenders try
 to push out.
-
-

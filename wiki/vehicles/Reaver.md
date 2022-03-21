@@ -24,9 +24,3 @@ the [Mosquito](Mosquito.md) , carries only a single pilot.
 The **Reaver** requires a [Technology Plant](../locations/Technology_Plant.md)
 lattice link or [Sanctuary](../locations/Sanctuary.md) air vehicle pad in order
 to be purchasable.
-
-
-
-
-
-

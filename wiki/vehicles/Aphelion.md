@@ -1,5 +1,6 @@
 !['s Gunner Variant
-[BFR](BattleFrame_Robotics.md)](../images/AphelionPicture.jpg){ class="figure" }
+[BFR](BattleFrame_Robotics.md)](../images/AphelionPicture.jpg){
+class="figure" }
 
 The Aphelion is the gunner variant of
 [BattleFrame Robotics](BattleFrame_Robotics.md) developed by the
@@ -22,9 +23,9 @@ The Pilot Weapons that the Aphelion can obtain are
 
 - The [Continuous Laser](../weapons/Continuous_Laser.md) (Anti-Infantry)
 - The
-  [Pulsed Particle Accelerator](../items/Pulsed_Particle_Accelerator_(BFR).md)
+  [Pulsed Particle Accelerator](<../items/Pulsed_Particle_Accelerator_(BFR).md>)
   (Anti-Vehicular)
-- The [Starfire](../items/Starfire_(BFR).md) (Anti-Aircraft)
+- The [Starfire](<../items/Starfire_(BFR).md>) (Anti-Aircraft)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
 - The [Armor Siphon](../weapons/Armor_Siphon.md) (Anti-Vehicular)
 
@@ -42,10 +43,8 @@ Only one gunner weapon can be used at a time.
 
 ## History
 
-![](../images/Aphelions.jpg){ class="figure" } The currently-fielded unit
-named "Aphelion" varies from the pictured unit. When introduced, the two-man
-version of the [VS](../etc/Vanu_Sovereignty.md) battleframe was named the
-**Orion**. It was renamed "Aphelion" in patch [3.2.6](../patches/3.2.6.md), and
-the original one-man Aphelion retired from service.
-
-
+![](../images/Aphelions.jpg){ class="figure" } The currently-fielded unit named
+"Aphelion" varies from the pictured unit. When introduced, the two-man version
+of the [VS](../etc/Vanu_Sovereignty.md) battleframe was named the **Orion**. It
+was renamed "Aphelion" in patch [3.2.6](../patches/3.2.6.md), and the original
+one-man Aphelion retired from service.

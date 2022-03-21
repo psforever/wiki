@@ -220,5 +220,3 @@ This seven-level Merit is earned by destroying the following
 - [Lodestar](../vehicles/Lodestar.md)
 - [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md)
   ([ANT](../vehicles/Advanced_Nanite_Transport.md))
-
-

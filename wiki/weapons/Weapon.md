@@ -1,5 +1,6 @@
 !['s empire-specific handheld
-weaponry.](../images/Tr_weapons.jpg){ class="figure" } [Weapons](Weapon.md) are the bread and butter of the game
+weaponry.](../images/Tr_weapons.jpg){
+class="figure" } [Weapons](Weapon.md) are the bread and butter of the game
 [PlanetSide](../etc/PlanetSide.md). They are practically essential to do
 anything in PlanetSide, as PlanetSide is a war simulator and weapons are the
 basis of any war. The weapons in PlanetSide are highly diversified, from grenade
@@ -117,7 +118,7 @@ The exceptions to this rule are
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) weapons. The [Beamer](Beamer.md)
 and the [Pulsar](Pulsar.md) have an inherent AP mode which allows the user to
 switch to armor piecing on the fly without worrying about different ammo types.
-The [Lasher](Lasher.md)  and the
+The [Lasher](Lasher.md) and the
 [Ancient Technology](../terminology/Ancient_Technology.md) weapons are already
 effective against all type of enemies without different ammunition types or
 firing modes designed specifically for them.
@@ -130,10 +131,11 @@ weapon has a role on the battlefield.
 
 ### Combat Knives
 
-The combat knives of PlanetSide are the [Chainblade](../items/Chainblade.md),
+The combat knives of PlanetSide are the [Chainblade](Chainblade.md),
 [Mag-Cutter](Mag-Cutter.md), and [Force-Blade](Force-Blade.md). Knives are
-generally a soldier's last resort, although many [Infiltrators](../armor/Infiltration_Suit.md)
-do use the combat knives as primary weapons, usually with the help of the
+generally a soldier's last resort, although many
+[Infiltrators](../armor/Infiltration_Suit.md) do use the combat knives as
+primary weapons, usually with the help of the
 [Melee Booster](../implants/Melee_Booster.md) implant. Also, all knives have a
 Force Attack funcion which allows them to become much more powerful, but it
 emits a loud sound which notifies people to the presence of a knife wielder.
@@ -151,8 +153,8 @@ the [Standard Assault](../certifications/Standard_Assault.md) certification.
 #### Pistols
 
 Pistols are generally used as back up weapons, although
-[Infiltrators](../armor/Infiltration_Suit.md) are forced to use these as weapons if they do not
-use the Combat Knife or the
+[Infiltrators](../armor/Infiltration_Suit.md) are forced to use these as weapons
+if they do not use the Combat Knife or the
 [Adaptive Construction Engine](Adaptive_Construction_Engine.md). Also, many
 soldiers use pistols as a back up weapon, since many of them use the same ammo
 type as their corresponding empire's
@@ -162,11 +164,11 @@ classes of pistols, long range pistols and short range pistols. Also, when a
 player spawns, they will have their Empire-specific pistol with them.
 
 Short range pistols are what Infiltrators tend to like to use. These are the
-[AMP](Automatic_Machine_Pistol.md) and the [Mag-Scatter](Mag-Scatter.md). These weapons are designed
-to be close range, so, naturally, the Infiltrator, as a generally close range
-class, can use this to their advantage. Also, many Snipers and Medium Assault
-users like to take one of these weapons as a close range weapon rather than
-using their long-range weapons for close range combat.
+[AMP](Automatic_Machine_Pistol.md) and the [Mag-Scatter](Mag-Scatter.md). These
+weapons are designed to be close range, so, naturally, the Infiltrator, as a
+generally close range class, can use this to their advantage. Also, many Snipers
+and Medium Assault users like to take one of these weapons as a close range
+weapon rather than using their long-range weapons for close range combat.
 
 Long range pistols is a slightly misleading name, as these pistols still are not
 anywhere near Medium Assault range. However, these weapons can be used
@@ -213,7 +215,8 @@ friendly due to this. However, even veteran characters use these weapons. These
 weapons are the [Cycler](Cycler.md), [Gauss](Gauss.md), and [Pulsar](Pulsar.md).
 While these weapons can all be fired in fully automatic, this can only be
 reliably used in close range combat. For longer range combat, burst firing is
-preferable to keep the [Cone of fire](../terminology/Cone_of_fire.md) under control.
+preferable to keep the [Cone of fire](../terminology/Cone_of_fire.md) under
+control.
 
 #### Punisher
 
@@ -264,7 +267,7 @@ very low time to kill in close range combat.
 
 #### Lasher
 
-The [Lasher](Lasher.md)  is the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
+The [Lasher](Lasher.md) is the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
 Heavy Assault weapon. The Lasher features a "lash" which does damage to all
 surrounding targets after a Lasher orb hits the ground, an enemy, or anything.
 This makes the Lasher quite an effective indoor room clearer, as the wall and
@@ -303,7 +306,7 @@ crouch, even in close range combat to minimize the cone of fire.
 
 #### Maelstrom
 
-The [Maelstrom](Maelstrom.md)  is an
+The [Maelstrom](Maelstrom.md) is an
 [Ancient Technology](../terminology/Ancient_Technology.md)
 [Heavy Assault](../certifications/Heavy_Assault.md) weapon. The Maelstrom is an
 incredibly versatile weapon which has both potential for anti-personnel and
@@ -501,8 +504,8 @@ well.
 
 ### Long Range Combat
 
-In long range combat, [cone of fire](../terminology/Cone_of_fire.md) management becomes
-incredibly important. Generally speaking, fully automatic fire is never
+In long range combat, [cone of fire](../terminology/Cone_of_fire.md) management
+becomes incredibly important. Generally speaking, fully automatic fire is never
 recommended for long range combat, as the cone of fire blooms far too much to be
 useful. Also, at these long ranges, it is important to remember that gravity
 does play a slight effect, and it effects the slower bullets more. You may have
@@ -512,4 +515,3 @@ to compensate for this.
 
 - [Weapons Index](Weapons_Index.md)
 - [Weaponry Merit Commendations](../merits/Weaponry_Merit_Commendations.md)
-

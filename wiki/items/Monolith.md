@@ -12,5 +12,3 @@ They serve two purposes:
 the [BFR Mayhem](../etc/BFR_Mayhem.md) event, the
 [Run For the Guns](../etc/Run_For_the_Guns.md) event, and the
 [Galactic Pathways](../etc/Galactic_Pathways.md) event.
-
-

@@ -25,4 +25,3 @@ carrying a driver, 2 gunners, 6 passengers, and 2
 [MAXs](../armor/Mechanized_Assault_Exo-Suit.md). The gunners man two large 75mm
 Tank Cannons to be used in defense against vehicles, but depend on squad members
 disembarking to protect against up close infantry attack.
-

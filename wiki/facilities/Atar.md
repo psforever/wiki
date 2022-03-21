@@ -18,5 +18,3 @@ the island. Vehicles can only be obtained elsewhere and brought in through a
 [Warpgate](../locations/Warpgate.md) - a tedious and time-consuming endevour for
 a protracted battle. Defenders also have the advantage of the bottlenecks
 created by the design of dropship center hallways.
-
-

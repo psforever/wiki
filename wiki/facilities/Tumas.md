@@ -10,5 +10,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 Tumas is a Hack-and-Hold Facility, and has a Watch Tower to it's East, outside
 Tumas' [SOI](../locations/Sphere_of_Influence.md).
-
-

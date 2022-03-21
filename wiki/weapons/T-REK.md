@@ -47,8 +47,8 @@ will hinder the enemy instead of helping them:
   their own Empire
 - Enemy [Aegis Shield Generators](Aegis_Shield_Generator.md) can be infected so
   that they emit a [Pain Field](../terminology/Pain_Field.md)
-- Enemy [Motion Sensors](Adaptive_Construction_Engine.md#motion-sensor-alarm) can be infected causing them to
-  display friendly units as enemies on radar.
+- Enemy [Motion Sensors](Adaptive_Construction_Engine.md#motion-sensor-alarm)
+  can be infected causing them to display friendly units as enemies on radar.
 
 The primary fire of the T-REK contains 4 shots (similar to the
 [Decimator](Decimator.md)) that will disrupt enemy
@@ -56,4 +56,3 @@ The primary fire of the T-REK contains 4 shots (similar to the
 
 - Vehicle speed is reduced
 - Decreased handling
-

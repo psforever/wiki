@@ -8,7 +8,3 @@ to the crystal. The weapon will recharge as long as it is in a
 to recharge...it will recharge even if you are dead!). Before the introduction
 of AT weapon clips, this was the only way to restore weapon energy in the
 caverns. However, even then their usage was limited.
-
-
-
-

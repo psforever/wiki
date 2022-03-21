@@ -38,7 +38,3 @@ with the [NTU Siphon](NTU_Siphon.md) in attacking enemy
 [BFRs](../vehicles/BattleFrame_Robotics.md). By using the NTU Siphon to
 [EMP](../commands/EMP.md) the enemy, then using the Armor Siphon to bypass their
 shields, the enemy BFR can be destroyed fairly quickly.
-
-
-
-

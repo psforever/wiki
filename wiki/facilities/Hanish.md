@@ -14,5 +14,3 @@ It is a [LLU](../terminology/Lattice_Logic_Unit.md)
 [Facility](../locations/Facilities.md) with an
 [Air tower](../locations/Air_tower.md) in the southwest, inside its
 [SOI](../locations/Sphere_of_Influence.md).
-
-

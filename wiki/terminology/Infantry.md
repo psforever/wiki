@@ -9,5 +9,3 @@ infantry as well, so essentially this term refers to soldiers wearing:
 - [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor (Rexo)
 
 Infantry troops are also colloquially referred to as "grunts" or "softies".
-
-

@@ -1,5 +1,5 @@
-![](../images/PSScreenShot0309.jpg){ class="figure" } A small "X"
-shaped object attached to the floor of all facilities (typically in the
+![](../images/PSScreenShot0309.jpg){ class="figure" } A small "X" shaped object
+attached to the floor of all facilities (typically in the
 [lobby](../locations/Main_lobby.md))a [Module Cradle](Module_Cradle.md) is where
 a person running a [module](../etc/Modules.md) from the
 [caverns](Core_Combat.md) to the surface deposits their
@@ -26,5 +26,3 @@ Located along the far wall of the lobby, at ground level.
 - [Interlink Facility](../locations/Interlink.md):
 
 Similar to the Dropship Center above.
-
-

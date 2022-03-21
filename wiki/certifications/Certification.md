@@ -22,8 +22,8 @@ certification and you forget [Armored Assault I](Armored_Assault_I.md), you will
 lose three certs: [Armored Assault I](Armored_Assault_I.md),
 [Armored Assault II](Armored_Assault_II.md), and BFR. If you also had
 [BFR Anti-Aircraft](BFR_Anti-Aircraft.md),
-[BFR Anti-Infantry](BFR_Anti-Infantry.md), and [Flail](../vehicles/Flail.md), you
-will forget those as well.
+[BFR Anti-Infantry](BFR_Anti-Infantry.md), and [Flail](../vehicles/Flail.md),
+you will forget those as well.
 
 With the release of version [3.11](../patches/3.11.md), characters will receive
 the option to "forget all" certifications. This option is only usable once,

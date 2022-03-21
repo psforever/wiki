@@ -220,5 +220,3 @@ will also receive assists and
 kills made by friendly soldiers after using one of your AMS'
 [Equipment Terminals](../items/Equipment_Terminal.md), this merit only tracks
 respawn assists.
-
-

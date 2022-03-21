@@ -44,5 +44,3 @@ you'd be amazed how badly they react when they get a REK in the faceplate...
 (Note: Many strange screenshots and board signatures feature Red and Black
 [Magriders](../vehicles/Magrider.md), Purple and Green
 [Vanguards](../vehicles/Vanguard.md) and so on - this is how it's done.)
-
-

@@ -6,8 +6,8 @@ next available for capture by each Empire. The network can be viewed on each
 continent's [Continental Map](../etc/Continental_Map.md) view.
 
 In addition, [Facility Linked Benefits](Facility_Linked_Benefit.md) and
-[module benefits](../etc/Module_benefit.md) are shared along unbroken chains in the
-lattice. Any disruption in this chain, be it a destroyed
+[module benefits](../etc/Module_benefit.md) are shared along unbroken chains in
+the lattice. Any disruption in this chain, be it a destroyed
 [generator](../items/Generator.md), enemy hack, or a base turning neutral, will
 break this link and sever the benefit.
 
@@ -43,4 +43,3 @@ Battle Islands, some of these warpgates have become inactive, shifting the
 lattice links between bases.
 
 [The Story of the Continental Lattice](http://planetside.station.sony.com/news_story.jsp?story=65061)
-

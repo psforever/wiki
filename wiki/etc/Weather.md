@@ -30,5 +30,3 @@ occur on:
 - [Hossin](../locations/Hossin.md)
 - [Sanctuaries](../locations/Sanctuary.md)
 - [Searhus](../locations/Searhus.md)
-
-

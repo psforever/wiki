@@ -3,30 +3,31 @@
 
 ## Continental Data
 
-|                                  |                                                                                 |
-| -------------------------------- | ------------------------------------------------------------------------------- |
-| Category:                        | Inner Planet                                                                    |
-| Climate:                         | Desert                                                                          |
-| Landmass:                        | Continent                                                                       |
-| Terrain:                         | Plains, cliffs, mountains, plateaus, oasis, rocky shores                        |
-| [Facilities](Facilities.md):     | 9                                                                               |
-| [Towers](Towers.md):             | 18                                                                              |
-| Active [Warpgates](Warpgate.md): | 4                                                                               |
-| Active [Geowarps](Geowarp.md):   | 1                                                                               |
+|                                  |                                                                  |
+| -------------------------------- | ---------------------------------------------------------------- |
+| Category:                        | Inner Planet                                                     |
+| Climate:                         | Desert                                                           |
+| Landmass:                        | Continent                                                        |
+| Terrain:                         | Plains, cliffs, mountains, plateaus, oasis, rocky shores         |
+| [Facilities](Facilities.md):     | 9                                                                |
+| [Towers](Towers.md):             | 18                                                               |
+| Active [Warpgates](Warpgate.md): | 4                                                                |
+| Active [Geowarps](Geowarp.md):   | 1                                                                |
 | [Capitol](Capitol.md):           | [Interlink Facility](Interlink.md) [Hapi](../facilities/Hapi.md) |
 
 ## Description
 
-![](../images/Rockswarpgate.jpg){ class="figure" } The large central
-oasis of Solsar is flanked by two warp gates on plateaus nearby, making it a
-unique tactical situation.
+![](../images/Rockswarpgate.jpg){ class="figure" } The large central oasis of
+Solsar is flanked by two warp gates on plateaus nearby, making it a unique
+tactical situation.
 
 There are relatively few roads and very rough off-road terrain here, making the
 bases more defensible to standard massed armor attacks.
 
 ---
 
-Source: Planetside In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
+Source: Planetside In-game descriptions, pre- and
+post-[Bending](../etc/The_Bending.md).
 
 This continent is also refered to as
 [Sol](../terminology/Acronyms_and_Slang.md). Solsar is a
@@ -59,5 +60,3 @@ empire sanctuary links.
 
 - [Amun](../facilities/Amun.md) (Sub-Capitol)
 - [Seth](../facilities/Seth.md)
-
-

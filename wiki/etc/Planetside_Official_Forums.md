@@ -13,5 +13,3 @@ software.
 
 At the moment, there have been two versions of the forum. Originally, there was
 a fairly basic BBcode board, and now there is the Lithium board.
-
-

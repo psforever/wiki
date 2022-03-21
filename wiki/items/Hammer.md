@@ -23,7 +23,4 @@ This is the only [BFR](../vehicles/BattleFrame_Robotics.md) pilot weapon that
 has 2 modes, and in the secondary mode, crouching makes the biggest difference
 as for the Cone of Fire tightening of all pilot weapons.
 
-
-
-
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

@@ -5,7 +5,7 @@ Switchblade](../images/SwitchbladePicture.jpg){ class="figure" }
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Type**                   | Rapid Assault                                                                                       |
 | **Role**                   | Rapid Response/Escort                                                                               |
-| **Certification Required** | [Switchblade](../certifications/Switchblade_(Certification).md)                                   |
+| **Certification Required** | [Switchblade](<../certifications/Switchblade_(Certification).md>)                                   |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) ([Ancient-Tech](../terminology/Ancient_Technology.md)) |
 | **Primary Weapon**         | Forward firing Scythe Energy Cannon                                                                 |
 | **Deployed**               | 360 degrees firing Scythe Energy Cannon with increased Rate of Fire                                 |
@@ -36,11 +36,3 @@ vehicles, you can only get more ammo by going to a
 [Vehicle Module](../etc/Vehicle_Module.md) benefit, or if you are in the
 [caverns](../locations/Caverns.md), at a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md).
-
-
-
-
-
-
-
-

@@ -10,31 +10,33 @@ I consider the [Magrider](../vehicles/Magrider.md) to be the best tank in
 planetside. While the [Prowler](../vehicles/Prowler.md) and
 [Vanguard](../vehicles/Vanguard.md) are better in specific situations, the
 [Magrider](../vehicles/Magrider.md) is the most versatile. Your
-[Magrider](../vehicles/Magrider.md) has a driver weapon, the Pulsed-Particle Accelerator
-(PPA). This weapon is mainly an anti-infantry weapon, but it can also turn the
-battle in your favor versus enemy armor. The gunner weapon is the railbeam.
-Unlike other tanks, this weapon has no arc and travels very fast. It has limited
-splash damage, and takes three hits to kill a rexo. The
-[Magrider](../vehicles/Magrider.md) is also unique in that it is the only tank that can
-travel over water. This is a big advantage.
+[Magrider](../vehicles/Magrider.md) has a driver weapon, the Pulsed-Particle
+Accelerator (PPA). This weapon is mainly an anti-infantry weapon, but it can
+also turn the battle in your favor versus enemy armor. The gunner weapon is the
+railbeam. Unlike other tanks, this weapon has no arc and travels very fast. It
+has limited splash damage, and takes three hits to kill a rexo. The
+[Magrider](../vehicles/Magrider.md) is also unique in that it is the only tank
+that can travel over water. This is a big advantage.
 
 ## Driver Setup
 
 ![ driver
-loadout](../images/Magdriverloadout.jpg){ class="figure" } When you acquire your [Magrider](../vehicles/Magrider.md) you should have a
-favorite with 4 boxes of PPA and 2 boxes of Rail Beam ammo. This should be your
-normal loadout, as the PPA goes through ammo quickly. However, if you plan on
-doing a lot of water driving or long range sniping, you should get 3 or 4 boxes
-of Rail Beam, as you won't be using the PPA much. Your favorite should also have
-a spare glue gun, 5 boxes of glue, and perhaps a medpack. This allows you to
-carry less glue in your infantry loadout, saving space for other things...
+loadout](../images/Magdriverloadout.jpg){ class="figure" } When you
+acquire your [Magrider](../vehicles/Magrider.md) you should have a favorite with
+4 boxes of PPA and 2 boxes of Rail Beam ammo. This should be your normal
+loadout, as the PPA goes through ammo quickly. However, if you plan on doing a
+lot of water driving or long range sniping, you should get 3 or 4 boxes of Rail
+Beam, as you won't be using the PPA much. Your favorite should also have a spare
+glue gun, 5 boxes of glue, and perhaps a medpack. This allows you to carry less
+glue in your infantry loadout, saving space for other things...
 
 ![ [Favorite](Favorites.md) for the
-[Magrider](../vehicles/Magrider.md)](../images/MagTrunk.jpg){ class="figure" } If you do a lot of tank driving, you should have
-a favorite with a box of PPA ammo, a glue gun, a pulsar, glue, a REK (sometimes
-you might need to take a tower), and whatever else you can get in there. I
-prefer the [Pulsar](../weapons/Pulsar.md) to the [Lasher](../weapons/Lasher.md)
-because you can hot swap with the glue gun directly and it saves space. The
+[Magrider](../vehicles/Magrider.md)](../images/MagTrunk.jpg){
+class="figure" } If you do a lot of tank driving, you should have a favorite
+with a box of PPA ammo, a glue gun, a pulsar, glue, a REK (sometimes you might
+need to take a tower), and whatever else you can get in there. I prefer the
+[Pulsar](../weapons/Pulsar.md) to the [Lasher](../weapons/Lasher.md) because you
+can hot swap with the glue gun directly and it saves space. The
 [Pulsar](../weapons/Pulsar.md) also provides medium-range fire that the lasher
 cannot provide if you come under attack while repairing. Have the pulsar in the
 rifle slot just in case you come across an enemy going to the vehicle pad. If
@@ -90,11 +92,11 @@ are on water, you can move as much as you like, as long as you stay in range.
 
 <!-- -->
 
-- Trees: Trees are the friend of an experienced [Magrider](../vehicles/Magrider.md)
-  driver, but can be deadly for the inexperienced. Your tank is not as wide as
-  the other tanks, and you can slip through the trees and run away easily.
-  Inexperienced drivers will get stuck in the trees, leading to death many
-  times.
+- Trees: Trees are the friend of an experienced
+  [Magrider](../vehicles/Magrider.md) driver, but can be deadly for the
+  inexperienced. Your tank is not as wide as the other tanks, and you can slip
+  through the trees and run away easily. Inexperienced drivers will get stuck in
+  the trees, leading to death many times.
 
 You should be glancing at your mini-map (radar) every second or 2. You need to
 watch out for [Liberators](../vehicles/Liberator.md) lining you up all the time.
@@ -252,9 +254,9 @@ battle, and never repair.
 <!-- -->
 
 - [Vanu Sovereignty](Vanu_Sovereignty.md)
-  - [Magrider](../vehicles/Magrider.md): Rarely encountered, but a big threat. Head for
-    trees, where you will likely make the less experienced magrider driver get
-    hung up.
+  - [Magrider](../vehicles/Magrider.md): Rarely encountered, but a big threat.
+    Head for trees, where you will likely make the less experienced magrider
+    driver get hung up.
   - [Aurora](../vehicles/Aurora.md): Laugh at them after you kill them. Not a
     big threat.
   - [Thresher](../vehicles/Thresher.md): Keep moving to avoid fire. Treat like
@@ -270,14 +272,15 @@ battle, and never repair.
 
 ![ gunner loadout.
 Replace the [CUD](../weapons/Command_Uplink_Device.md) with two more boxes of glue if not CR3 or above. More
-glue should always be in the trunk.](../images/MagGunnerLoadout.jpg){ class="figure" } As stated before, ideally you need to be
-on voice comms with your driver. You don't have time to type "I see a vanguard
-on the other hill, steady me for a second". If you know you will be gunning,
-your loadout should carry two boxes of rail beam ammo and one box of PPA. You
-should have a glue gun, and a [Lasher](../weapons/Lasher.md) if you have it
-certed, though a [Pulsar](../weapons/Pulsar.md) is fine too. You don't need to
-carry more than 1 or two boxes of repair juice, since hopefully your driver has
-plenty in the trunk if you run out. Recommended implants are
+glue should always be in the trunk.](../images/MagGunnerLoadout.jpg){
+class="figure" } As stated before, ideally you need to be on voice comms with
+your driver. You don't have time to type "I see a vanguard on the other hill,
+steady me for a second". If you know you will be gunning, your loadout should
+carry two boxes of rail beam ammo and one box of PPA. You should have a glue
+gun, and a [Lasher](../weapons/Lasher.md) if you have it certed, though a
+[Pulsar](../weapons/Pulsar.md) is fine too. You don't need to carry more than 1
+or two boxes of repair juice, since hopefully your driver has plenty in the
+trunk if you run out. Recommended implants are
 [Enhanced Targeting](../implants/Enhanced_Targeting.md) and
 [Darklight](../implants/Darklight.md). The third slot is up to you, but
 [Audio Amplifier](../implants/Audio_Amplifier.md) is probably best.
@@ -358,15 +361,16 @@ With the addition of the new
 [Combat Engineering](../certifications/Combat_Engineering.md), several new
 tactics can be introduced. The main change for tank drivers is the use of the
 [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md). By having an
-[FDU](../weapons/Field_Deployment_Unit.md) either in you or your gunner's inventory, or in your mag's
-[trunk](../terminology/Trunk.md), you can make a cloaked repair station. When
-you get out to repair, place an Aegis down beside you. This will cloak you while
-you repair. If you plan on coming back to the same spot for a while, you might
-consider charging the shield up to provide even more cover. Note, however, that
-charging the shield takes a signigicant amount of "glue", time, and the FDU
-takes up a lot of room to store. Thus, be sure you still have enough glue to
-repair the mag itself, as you cannot get more from the Aegis. Usually it's not
-worth the time to charge the shield, but the cloaking effect is well worth it.
+[FDU](../weapons/Field_Deployment_Unit.md) either in you or your gunner's
+inventory, or in your mag's [trunk](../terminology/Trunk.md), you can make a
+cloaked repair station. When you get out to repair, place an Aegis down beside
+you. This will cloak you while you repair. If you plan on coming back to the
+same spot for a while, you might consider charging the shield up to provide even
+more cover. Note, however, that charging the shield takes a signigicant amount
+of "glue", time, and the FDU takes up a lot of room to store. Thus, be sure you
+still have enough glue to repair the mag itself, as you cannot get more from the
+Aegis. Usually it's not worth the time to charge the shield, but the cloaking
+effect is well worth it.
 
 [Cerberus Turrets](../weapons/Cerberus_Turret.md) are also a nice addition for
 tank drivers. Place 1 or 2 of these at your repair site to scare away enemy air
@@ -379,8 +383,7 @@ a mag. The damage per second is roughly equivalent to the
 whenever possible. Treat like a [Colossus](../vehicles/Colossus.md): stay far
 away and strafe to avoid fire and engage with the long range of the rail beam.
 
-[TRAPs](../weapons/Tactical_Resonance_Area_Protection.md) are usually not a great concern to a Magrider. You usually see
-them on bridges, but Mags can easily avoid bridges. Be aware that you can drive
-stright through a friendly TRAP as if it were not there.
-
-
+[TRAPs](../weapons/Tactical_Resonance_Area_Protection.md) are usually not a
+great concern to a Magrider. You usually see them on bridges, but Mags can
+easily avoid bridges. Be aware that you can drive stright through a friendly
+TRAP as if it were not there.

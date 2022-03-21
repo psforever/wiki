@@ -22,12 +22,11 @@ A Lightning can be transported by the [Galaxy dropship](Galaxy.md) .
 
 Shots to kill (with 75mm Cannon only):
 
-|                            |          |
-| -------------------------- | -------- |
-| [Lightning](Lightning.md)  | 14 shots |
-| [Prowler](Prowler.md)      | 36 shots |
-| [Magrider](Magrider.md) | 28 shots |
-| [Vanguard](Vanguard.md)    | 36 shots |
+|                           |          |
+| ------------------------- | -------- |
+| [Lightning](Lightning.md) | 14 shots |
+| [Prowler](Prowler.md)     | 36 shots |
+| [Magrider](Magrider.md)   | 28 shots |
+| [Vanguard](Vanguard.md)   | 36 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
-

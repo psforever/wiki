@@ -4,8 +4,8 @@
 [weapons](../weapons/Weapons_Index.md), ammunition,
 [armor](../armor/Armor_Index.md), support equipment, and vehicle ordnance.
 [Ancient-Tech](../terminology/Ancient_Technology.md) weaponry can also be
-acquired if an [Equipment Module](Equipment_Module.md) is installed or
-a [Cavern Lock](../etc/Cavern_Lock.md) is linked through the
+acquired if an [Equipment Module](Equipment_Module.md) is installed or a
+[Cavern Lock](../etc/Cavern_Lock.md) is linked through the
 [lattice](../terminology/Lattice.md).
 
 These terminals are crucial to any war effort and can be found in numerous
@@ -50,5 +50,3 @@ Terminals. See [Core Combat](Core_Combat.md).
 
 There is a [known issue](../etc/Known_Issues.md) regarding hacked equipment
 terminals not functioning properly.
-
-

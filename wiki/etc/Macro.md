@@ -22,6 +22,4 @@ hack and air cav LFS" into your local broadcast channel.
 You can also add [Color Codes](../commands/Color_Codes.md) to your macro to add
 that extra colorful flare to it.
 
-
-
 Guides](Category:Game_Guides.md)

@@ -3,7 +3,7 @@ Unit](../images/PSScreenShot0258.jpg){ class="figure" }
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Anti-Infantry MAX](../certifications/Anti-Infantry_MAX_(Certification).md) or [Uni-MAX](../certifications/Uni-MAX_(Certification).md) |
+| **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
 | **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Wide Spread                                                                                                                                |
@@ -16,7 +16,7 @@ Unit](../images/PSScreenShot0258.jpg){ class="figure" }
 **Scattercannon**
 
 The [New Conglomerate](../etc/New_Conglomerate.md)
-[Anti-Infantry MAX](../certifications/Anti-Infantry_MAX_(Certification).md)—the
+[Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>)—the
 **Scattercannon**— is comparable to a heavy bore shotgun on steroids. Packing a
 whopping 40 shells per magazine, a larger shell and three fire modes, mowing
 down infantry has never been easier. The first fire mode is for shorter ranges
@@ -27,15 +27,13 @@ suitable for long range shots, though it takes the most finesse to aim.
 
 Shots to kill (Average Spread in a Close to Medium Distance 5-15 m):
 
-|                                                        |             |
-| ------------------------------------------------------ | ----------- |
-| [Standard Exo-Suit](Standard_Exo-Suit.md)     | 3-4 shots   |
-| [Agile Exo-Suit](Agile_Exo-Suit.md)           | 4-5 shots   |
-| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md) | 6-7 shots   |
-| [MAX](../armor/Mechanized_Assault_Exo-Suit.md)                  | 15-18 shots |
+|                                                |             |
+| ---------------------------------------------- | ----------- |
+| [Standard Exo-Suit](Standard_Exo-Suit.md)      | 3-4 shots   |
+| [Agile Exo-Suit](Agile_Exo-Suit.md)            | 4-5 shots   |
+| [Reinforced Exo-Suit](Reinforced_Exo-Suit.md)  | 6-7 shots   |
+| [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 15-18 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
-
-

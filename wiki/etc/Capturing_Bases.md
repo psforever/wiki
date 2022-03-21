@@ -29,10 +29,10 @@ Securing the hack
 </h3>
 
 Ultimately, control of a base comes down to controlling
-[spawn points](../terminology/Spawn_point.md). If you can [spawn](../terminology/Respawn.md) at a base and the
-enemy cannot, you will win most of the time. It is possible for well coordinated
-forces to retake a CC without having a nearby spawn point but it is far more
-difficult to do so.
+[spawn points](../terminology/Spawn_point.md). If you can
+[spawn](../terminology/Respawn.md) at a base and the enemy cannot, you will win
+most of the time. It is possible for well coordinated forces to retake a CC
+without having a nearby spawn point but it is far more difficult to do so.
 
 There are three types of spawn points to consider in this situation:
 
@@ -91,5 +91,3 @@ AMS's
 Though AMS's can be destroyed, unlike a tower, it requires that somebody be able
 to get outdoors with the proper gear to do it. In a heated battle with many
 enemies spawning close to the base, this may not be possible.
-
-

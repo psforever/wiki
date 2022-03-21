@@ -76,5 +76,3 @@ Awarded to attendees of this event by Zatozia.
 Planetside Syndicate Conference, organized by Triggar.
 
 July 2005, Orlando, Fl.
-
-

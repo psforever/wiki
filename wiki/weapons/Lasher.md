@@ -14,7 +14,7 @@
 
 **Lasher**
 
-The [Lasher](Lasher.md)  is the
+The [Lasher](Lasher.md) is the
 [Heavy Assault](../certifications/Heavy_Assault.md) weapon of the
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md). It quickly fires energy orbs
 which do significant damage on contact, as well as "Lashing" (When an orb
@@ -25,9 +25,9 @@ Enemies closer than 5 meters from the shooter will not be lashed by near misses.
 Friendly units are immune to the lash effect at all ranges, though they will
 still take damage upon direct hits. The near miss lash does low damage on its
 own and is best used for discovering [cloakers](../armor/Infiltration_Suit.md)
-and making the enemy's [COF](../terminology/Cone_of_fire.md) bloom from the damage. However, it is still
-strong enough to make many enemies retreat if they are hiding behind a wall and
-is especially effective in groups of users.
+and making the enemy's [COF](../terminology/Cone_of_fire.md) bloom from the
+damage. However, it is still strong enough to make many enemies retreat if they
+are hiding behind a wall and is especially effective in groups of users.
 
 The secondary [Armor Piercing](../terminology/Armor_Piercing.md) fire mode is
 best used against [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) and light
@@ -49,4 +49,3 @@ Shots to kill (With direct orb contact within 20m.):
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
-

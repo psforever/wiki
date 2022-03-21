@@ -11,5 +11,3 @@ one-shot boost of 25 [Health](../terminology/Health.md) and 25
 
 Second Wind has the longest
 [initialization timer](../items/Initialization_timer.md) of any implant.
-
-

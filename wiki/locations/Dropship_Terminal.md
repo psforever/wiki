@@ -18,5 +18,3 @@ or in [Sanctuary](../locations/Sanctuary.md).
 **See also:**
 
 - [Dropship Center Air Terminal Building](../locations/Dropship_Center_Air_Terminal_Building.md)
-
-

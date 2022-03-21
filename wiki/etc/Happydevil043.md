@@ -52,5 +52,3 @@ here is to use the MAX suit for what it is intended for. Such as the AA
 MAX's(Sparrow, Burster, and Starfire) for shooting down aircraft and the AV
 maxes for vehicles and AI maxs for Infantry. Don't try to be Rambo in this, even
 though it feels like a walking tank, it is easy to take these down.
-
-

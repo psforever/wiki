@@ -73,5 +73,3 @@ Features and Landmarks:
 - [Girru](../facilities/Girru.md)
 - [Kusag](../facilities/Kusag.md)
 - [Marduk](../facilities/Marduk.md)
-
-

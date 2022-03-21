@@ -81,5 +81,3 @@ _[Caverns](../locations/Caverns.md):_
 - **[Supai](../locations/Supai.md)** - **Grid:** K-9 (Right in the middle)
 - **[Hunhau](../locations/Hunhau.md)** - **Grid:** L-7 (Easy to spot on the
   right)
-
-

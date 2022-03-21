@@ -1,5 +1,5 @@
-![thumb](../images/Inventory.jpg) [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) with
-[Jammer grenades](../weapons/Jammer_Grenade.md), a
+![thumb](../images/Inventory.jpg) [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)
+with [Jammer grenades](../weapons/Jammer_Grenade.md), a
 [Telepad](../weapons/Telepad.md), a [Pulsar](../weapons/Pulsar.md), a
 [REK](../weapons/Remote_Electronics_Kit.md), and
 [MedKits](../items/MedKit.md)\]\]
@@ -29,5 +29,3 @@ When you die, your backpack will remain where you fell, along with whatever
 items were in your inventory at the time. Backpacks will
 [deconstruct](Deconstruct.md) more rapidly in areas with a larger number of
 people or activity going on.
-
-

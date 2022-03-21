@@ -33,8 +33,8 @@ building. You'll see a set of three doors up some stairs; head into any of them.
 Choose 1 or 2 (do both). Every new item you <i>equip</i> gives you a number of
 [Experience Points](../terminology/Experience_Points.md)- anywhere between 50
 and 200. So equip every [weapon](../weapons/Weapons_Index.md) and support item
-you can, fire them if you want to. Putting on [Rexo](../armor/Reinforced_Exo-Suit.md) armor makes this
-process faster.
+you can, fire them if you want to. Putting on
+[Rexo](../armor/Reinforced_Exo-Suit.md) armor makes this process faster.
 
 - Don't forget, each [MAX Armor](../armor/Mechanized_Assault_Exo-Suit.md) has
   its own weapon systems, and they award you
@@ -45,10 +45,11 @@ To leave VR, hop into one of those prism-looking beams.
 Same goes for vehicles; you'll spawn next to the ground vehicle pad. Drive
 everything. If it has a gunner spot, park and hop in the gunner slot too.
 
-When you're done, visit the [BFR](../vehicles/BattleFrame_Robotics.md) shack (just a
-touch northeast of the vehicle pad) and use both battle frames. if you want to
-switch out weapons, walk it over to the rearm silo behind the ground vehicle pad
-you were just using, it's on the hill to the east of the vehicle-pad.
+When you're done, visit the [BFR](../vehicles/BattleFrame_Robotics.md) shack
+(just a touch northeast of the vehicle pad) and use both battle frames. if you
+want to switch out weapons, walk it over to the rearm silo behind the ground
+vehicle pad you were just using, it's on the hill to the east of the
+vehicle-pad.
 
 Then head to the airpad, it's a good distance, heading west by southwest. It's
 up on a hill, use your map to pinpoint it. There, do the same thing. fly
@@ -75,10 +76,10 @@ then the number key, and you're good to go.
 
 If you know where you want to go, get on the [HART](../terminology/HART.md) when
 it comes in (every 5 minutes). You'll hear it. If you don't, hit escape and use
-"instant action." That will [spawn](../terminology/Respawn.md) you at a facility near a hotspot,
-putting your personal (white) waypoint on where it thinks the fight is. This
-isn't 100% accurate, because humans are unpredictable, but it usually will get
-you some action.
+"instant action." That will [spawn](../terminology/Respawn.md) you at a facility
+near a hotspot, putting your personal (white) waypoint on where it thinks the
+fight is. This isn't 100% accurate, because humans are unpredictable, but it
+usually will get you some action.
 
 ## In the field
 
@@ -100,5 +101,3 @@ commands you can use to talk on different channels. The backspace key replies to
 - Use AI ammo (white) on infantry, use AP (gold) on maxes and vehicles. this
   doesn't change, regardless of how much armor they have.
 - You can tell rank by armor color. Brighter (more gold/red/green) is higher.
-
-

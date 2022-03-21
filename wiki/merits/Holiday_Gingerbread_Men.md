@@ -49,8 +49,8 @@ season.
 **Gingerbread Men Locations:**
 
 - **[Ascension](../locations/Ascension.md)**
-  - [Rashnu](../facilities/Rashnu.md) - In the middle of the room surrounding the
-    [Control Console](../locations/Control_Console.md)
+  - [Rashnu](../facilities/Rashnu.md) - In the middle of the room surrounding
+    the [Control Console](../locations/Control_Console.md)
   - [Sraosha](../facilities/Sraosha.md) -
     [Control Console](../locations/Control_Console.md)
   - [Zal](../facilities/Zal.md) - Room leading to the
@@ -69,5 +69,3 @@ season.
 - **[Nexus](../locations/Nexus.md)**
   - [Atar](../facilities/Atar.md) - [Lounge](Lounge.md) (Room behind the
     [Spawn Room](../locations/Spawn_Room.md)
-
-

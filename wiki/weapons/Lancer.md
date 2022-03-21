@@ -6,7 +6,7 @@
 | **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)        |
 | **Primary Mode**           | Energy Beam                                           |
 | **Secondary Mode**         | \-                                                    |
-| **Ammunition**             | Large Energy Cell             |
+| **Ammunition**             | Large Energy Cell                                     |
 | **Range**                  | 300 m                                                 |
 | **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                 |
 | **Magazine Capacity**      | 6                                                     |
@@ -17,10 +17,10 @@
 The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) weapon, the
 [Lancer](Lancer.md), feature a fast-moving energy projectile with a small
-[cone of fire](../terminology/Cone_of_fire.md). However, it takes approximately 1 second
-for the weapon to charge prior to each shot, necessitating the soldier to lead
-moving targets. The Lancer has a greater range than the [Phoenix](Phoenix.md)
-and [Striker](Striker.md).
+[cone of fire](../terminology/Cone_of_fire.md). However, it takes approximately
+1 second for the weapon to charge prior to each shot, necessitating the soldier
+to lead moving targets. The Lancer has a greater range than the
+[Phoenix](Phoenix.md) and [Striker](Striker.md).
 
 As an interesting sidenote, this is the only
 non-[MAX](../armor/Mechanized_Assault_Exo-Suit.md)

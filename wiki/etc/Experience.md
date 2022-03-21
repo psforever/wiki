@@ -7,5 +7,3 @@ rewards.
 - [Battle Experience Points](../terminology/Battle_Experience_Points.md) (BEP)
 - [Command Experience Points](../terminology/Command_Experience_Points.md) (CEP)
 - [Support Experience Points](../terminology/Support_Experience_Points.md) (SEP)
-
-

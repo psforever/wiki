@@ -65,5 +65,3 @@ count the two hundred or so times that I've died. I am a soldier of the
   Facts for yourselves. Read of our achievements from the Genesis of the Vanu
   Sovereignty to its Manifesto for tomorrow. The Technophobes are shortsighted,
   only seeing scarcity and survival of the fittest..."
-
-

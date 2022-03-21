@@ -22,6 +22,3 @@ is ineffective at damaging armored targets. While engaging such targets,
 
 Since 9mm Bullets are for use in small arms, they can pass through the energy
 shields of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).
-
-
-

@@ -1,5 +1,6 @@
 ![ Watch Tower on
-[Cyssor](Cyssor.md)](../images/Watch-tower.jpg){ class="figure" }
+[Cyssor](Cyssor.md)](../images/Watch-tower.jpg){ class="figure"
+}
 
 ## Distinctive features
 
@@ -32,5 +33,3 @@ Watch Towers include two [Spawn tubes](../items/Respawn_Tube.md) , three
 Watch towers have a sensor array on the roof, making them capable of sensing
 enemy presence, which will display on the
 [Tactical Overlay](../terminology/Tactical_Overlay.md).
-
-

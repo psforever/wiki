@@ -46,8 +46,3 @@ interference has the following effects:
 In addition to the [Hand grenade](Hand_grenade.md) three-pack, **Jammer
 grenades** are also available in ammo boxes for use with the
 [Thumper](Thumper.md) and [Punisher](Punisher.md).
-
-
-
-
-

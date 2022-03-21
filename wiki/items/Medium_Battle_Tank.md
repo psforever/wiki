@@ -1,6 +1,7 @@
 ![ and a
-[Vanguard](../vehicles/Vanguard.md) square off](../images/Prowler-Vanguard.jpg){ class="figure" } The collective group term for
-the Empire Specific tanks available through the
+[Vanguard](../vehicles/Vanguard.md) square off](../images/Prowler-Vanguard.jpg){
+class="figure" } The collective group term for the Empire Specific tanks
+available through the
 [Armored Assault II](../certifications/Armored_Assault_II.md) Certification.
 
 Also known as **MBT's**, these vehicles all require a separate driver and
@@ -33,5 +34,3 @@ signficant damage to any infantry units when driven over (see:
 All Medium Battle Tanks are considered to be 'enclosed' for driver armor
 purposes, and so may not be driven while wearing the
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md).
-
-

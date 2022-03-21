@@ -303,5 +303,3 @@ Multiple levels of the award can be arranged to form a "J" for Jacking:
 </tr>
 </tbody>
 </table>
-
-

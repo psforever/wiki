@@ -11,5 +11,3 @@ Kyoi is also one of the 4 Sub-Capitol's.
 
 Kyoi has a Gun Tower in the South East, which is in Kyoi's
 [SOI](../locations/Sphere_of_Influence.md). Kyoi is a Hack-and-Hold Facility.
-
-

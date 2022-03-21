@@ -17,8 +17,9 @@
 ![image:Laze-Icon.jpg](../images/Laze-Icon.jpg)
 
 The [Laze Pointer](Laze_Pointer.md) allows front-line troops to indicate targets
-for [Flail](../vehicles/Flail.md) gunners, who will be quite far from the target.
-(It is also useful for [Liberator](../vehicles/Liberator.md) bombing runs.)
+for [Flail](../vehicles/Flail.md) gunners, who will be quite far from the
+target. (It is also useful for [Liberator](../vehicles/Liberator.md) bombing
+runs.)
 
 The Laze Pointer can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) or directly from a deployed
@@ -32,4 +33,3 @@ temporary targeting waypoint will be visible in the
 Unlike normal [waypoints](../terminology/Waypoint.md), targeting waypoints are
 circular on the proximity map, use the color and number of the user, and go away
 after about 15 seconds.
-

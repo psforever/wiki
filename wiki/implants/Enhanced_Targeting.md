@@ -17,5 +17,3 @@ it does not automatically turn on if it has been turned off manually or as a
 result of running out of Stamina.
 
 **Enhanced Targeting used to be called Advanced Targeting.**
-
-

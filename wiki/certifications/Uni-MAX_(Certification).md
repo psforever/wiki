@@ -8,8 +8,6 @@
 
 **Anti-Aircraft MAX**
 
-With this you gain access to [AI MAX](Anti-Aircraft_MAX_(Certification).md),
-[AV MAX](Anti-Vehicle_MAX_(Certification).md), and
-[AA MAX](Anti-Aircraft_MAX_(Certification).md) with a 2 point discount.
-
-
+With this you gain access to [AI MAX](<Anti-Aircraft_MAX_(Certification).md>),
+[AV MAX](<Anti-Vehicle_MAX_(Certification).md>), and
+[AA MAX](<Anti-Aircraft_MAX_(Certification).md>) with a 2 point discount.

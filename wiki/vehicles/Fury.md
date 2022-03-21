@@ -4,7 +4,7 @@
 | -------------------------- | ------------------------------------------------------------- |
 | **Type**                   | ATV                                                           |
 | **Role**                   | Rapid Response/Escort                                         |
-| **Certification Required** | [ATV](../certifications/ATV_(Certification).md)             |
+| **Certification Required** | [ATV](<../certifications/ATV_(Certification).md>)             |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                  |
 | **Primary Weapon**         | Hellfire Rocket Launcher                                      |
 | **Secondary Weapon**       | \-                                                            |
@@ -28,6 +28,3 @@ speeds of 212kph.
 
 The other ATV variants are the [Basilisk](Basilisk.md) and the
 [Wraith](Wraith.md)
-
-
-

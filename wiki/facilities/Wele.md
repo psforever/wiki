@@ -15,5 +15,3 @@ towers, one by the [Back Door](../locations/Back_Door.md) on the northern coast,
 and another near the two bridge heads at the south.
 
 Elevation: 59.9m
-
-

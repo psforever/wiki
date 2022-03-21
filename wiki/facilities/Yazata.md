@@ -8,5 +8,3 @@ Yazata has [Lattice](../terminology/Lattice.md) Links to:
 - [Interlink Facility](../locations/Interlink.md) [Hvar](Hvar.md)
 
 Yazata is a Hack-and-Hold Facility and there are no Towers close to the base.
-
-

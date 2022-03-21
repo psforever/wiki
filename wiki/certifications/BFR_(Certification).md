@@ -36,10 +36,8 @@ Upon completion, you have access only to the Gunner Variant BFR, not the Flight
 Variant.
 
 Flight Variant's (FV) are avaliable after completing the
-[BFR Basic](../merits/BFR_(Merit).md).
+[BFR Basic](<../merits/BFR_(Merit).md>).
 
 This [Certification](Certification.md) is required to obtain the
-[BFR Basic](../merits/BFR_(Merit).md)
+[BFR Basic](<../merits/BFR_(Merit).md>)
 [Merit Commendation](../merits/Merit_Commendations.md).
-
-

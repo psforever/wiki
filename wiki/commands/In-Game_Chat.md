@@ -160,10 +160,9 @@ information about each.
   unlimited range.
 - Command - <font color="#80FFD4">Teal</font> - Channel used by soldiers of the
   same [Command Rank](../terminology/Command_Rank.md) (Command Rank 2 or above),
-  as well as continental and global messages sent by friendly CR5s,
-  with range varying on command rank. Situation Reports, reports that a
-  Commander can send to Commanders that are one level above him, also use this
-  color.
+  as well as continental and global messages sent by friendly CR5s, with range
+  varying on command rank. Situation Reports, reports that a Commander can send
+  to Commanders that are one level above him, also use this color.
   - Command Rank 2 - Small range, close to the range of an
     [SOI](../locations/Sphere_of_Influence.md)
   - Command Rank 3 - Medium range, close to about 3
@@ -172,8 +171,8 @@ information about each.
     continent
   - Command Rank 5 - Global range, seen by all CR5 soldiers on the server
 - CSR World Broadcast - <font color="#FF8080">Red</font> - **This channel can
-  only be used by CSRs**, yet can be seen by all players of all
-  empires on the same server.
+  only be used by CSRs**, yet can be seen by all players of all empires on the
+  same server.
   - CSR Tell - Used by CSRs for private communication between the CSR and
     player, similar to the regular tell, except for its color and tag.
 
@@ -260,5 +259,3 @@ Players can send chat to different channels using a variety of commands.
 It is possible to customize the color of chat messages you send.
 
 Please see [Color Codes](Color_Codes.md) for details on how to do this.
-
-

@@ -3,8 +3,7 @@ have a few options.
 
 ## Method One
 
-Fully uninstall [PlanetSide](PlanetSide.md) & Launchpad then
-download the
+Fully uninstall [PlanetSide](PlanetSide.md) & Launchpad then download the
 [Grey Falcon Planetside Installer](http://www.greyfalcon.net/psinstall.exe) then
 when it asks you do you want to install it to the default location click on
 "NO".
@@ -27,5 +26,3 @@ entVersion\\App Paths\\LaunchPad.exe\\
 1\) Go to Start \> Run **Type "cmd"**
 
 2\) Type in **"set c:\\program files\\sony\\planetside=_your new location_"**
-
-

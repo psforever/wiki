@@ -90,7 +90,7 @@ Cost Pre-Requisite
 
 [ATV](../vehicles/ATV.md) 1
 
-[Assault Buggy](Assault_Buggy_(Certification).md) 3
+[Assault Buggy](<Assault_Buggy_(Certification).md>) 3
 
 [Armored Assault I](Armored_Assault_I.md) 2
 

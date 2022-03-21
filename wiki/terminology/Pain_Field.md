@@ -7,11 +7,11 @@ within all [Respawn rooms](../locations/Spawn_Room.md) (including
 rooms). [Aegis Shield Generators](../weapons/Aegis_Shield_Generator.md) can also
 have pain fields if infected by an enemy [Virus](Virus.md).
 
-The [Pain Field](Pain_Field.md) at a surface [facility](../locations/Facilities.md) can be
-enhanced in two ways. The first is by the addition of a
-[Pain Module](../etc/Pain_Module.md) [benefit](../etc/Module_benefit.md) to the
-facility. The second is by upgrades made by
-[Expert Hackers](../certifications/Expert_Hacking.md) using their
+The [Pain Field](Pain_Field.md) at a surface
+[facility](../locations/Facilities.md) can be enhanced in two ways. The first is
+by the addition of a [Pain Module](../etc/Pain_Module.md)
+[benefit](../etc/Module_benefit.md) to the facility. The second is by upgrades
+made by [Expert Hackers](../certifications/Expert_Hacking.md) using their
 [REK](../weapons/Remote_Electronics_Kit.md) to hack a facility's
 [Matrix Panel](../items/Matrix_Panel.md) and/or
 [Generator Terminal](../items/Generator_Terminal.md). The
@@ -314,4 +314,3 @@ No
 </td>
 </tr>
 </table>
-

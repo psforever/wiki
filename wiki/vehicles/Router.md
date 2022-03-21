@@ -47,4 +47,3 @@ router, like all [Ancient Tech](../terminology/Ancient_Technology.md) vehicles,
 can travel over water (but cannot deploy on water). Due to its small saucer-like
 cross section and relatively heavy armor, the router can be difficult to
 destroy.
-

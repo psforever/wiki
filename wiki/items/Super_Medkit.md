@@ -16,5 +16,3 @@
 
 This item is not always available as it is usually only enabled during the
 holiday season.
-
-

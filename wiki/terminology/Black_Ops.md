@@ -1,8 +1,9 @@
-![](../images/BO_Soldiers.jpg){ class="figure" }
-![](../images/BO_Phantasm.jpg){ class="figure" }
+![](../images/BO_Soldiers.jpg){ class="figure" } ![](../images/BO_Phantasm.jpg){
+class="figure" }
 ![ that is
 hacked by Black Ops, as seen on the
-[continental map](../etc/Continental_Map.md)](../images/BO_Hacked_Facility.jpg){ class="figure" }
+[continental map](../etc/Continental_Map.md)](../images/BO_Hacked_Facility.jpg){
+class="figure" }
 
 Black Ops (BO) are the Super Soldiers of [PlanetSide](../etc/PlanetSide.md).
 Having 1000 [Health](Health.md) and 500 [Stamina](Stamina.md) (which has a much
@@ -55,5 +56,3 @@ When transformed into a Black Ops, the player will receive the
 [VS](../etc/Vanu_Sovereignty.md), [TR](../etc/Terran_Republic.md) and
 [NC](../etc/New_Conglomerate.md) Soldiers that kill a Black Ops will be awarded
 with the [Black Ops Hunter](../merits/Black_Ops_Hunter.md) Merit Commendations.
-
-

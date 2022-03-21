@@ -17,4 +17,3 @@ The Mortar Launcher fires arcing projectiles that explode on impact, designed to
 decimate infantry. Its primary fire mode fires single shots with a small cone of
 fire, while the secondary fire mode fires a salvo of 8 mortar rounds with a
 larger cone of fire.
-

@@ -6,5 +6,3 @@ Sraosha is a [Hack-and-Hold](../terminology/Hack-and-Hold.md) Facility, and has
 an [Air Tower](../locations/Air_tower.md) outside its
 [SOI](../locations/Sphere_of_Influence.md) to the North, with another to the
 East, also outside its SOI.
-
-

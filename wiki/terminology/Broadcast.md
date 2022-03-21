@@ -5,5 +5,3 @@
 2. The ability to teleport from one [warpgate](../locations/Warpgate.md) to
    another along the continental or galactic [lattice](Lattice.md). See
    [Broadcast warpgate](../items/Broadcast_warpgate.md).
-
-

@@ -1,8 +1,7 @@
-![](../images/Hart.jpg){ class="figure" }
-![](../images/HART-Icon.jpg){ class="figure" } The **HART**, or
-**High Altitude Rapid Transport** shuttle, is a large passenger spacecraft that
-makes regular flights at three minute intervals to any of the ten
-[planets](../locations/Planet.md) and their
+![](../images/Hart.jpg){ class="figure" } ![](../images/HART-Icon.jpg){
+class="figure" } The **HART**, or **High Altitude Rapid Transport** shuttle, is
+a large passenger spacecraft that makes regular flights at three minute
+intervals to any of the ten [planets](../locations/Planet.md) and their
 [continents](../locations/Continent.md). Landing and departing from special
 platform hangars ([HART buildings](../locations/HART_building.md)) in each
 [Empire](Empire.md)'s [Sanctuary](../locations/Sanctuary.md).
@@ -21,5 +20,3 @@ appear outside of the HART doors in your [sanctuary](../locations/Sanctuary.md).
 You can "bail" (default key: alt+G) from the HART once the vehicle clears the
 hangar, skipping the rest of the launch animation, and enabling you to select a
 drop location faster.
-
-

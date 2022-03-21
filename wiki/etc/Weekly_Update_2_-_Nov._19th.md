@@ -31,5 +31,3 @@ file upload form for you guys to start submitting captures.
 is more important.
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=26)
-
-

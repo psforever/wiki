@@ -31,5 +31,3 @@ vehicles do not operate here. Not permitted are
 [BFRs](../vehicles/BattleFrame_Robotics.md),
 [Medium Battle Tanks](../items/Medium_Battle_Tank.md) and Empire Specific
 [Deliverer](../vehicles/Deliverer.md) variants.
-
-

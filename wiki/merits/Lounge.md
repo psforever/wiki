@@ -1,6 +1,7 @@
 ![Lounge](../images/TRLounge.jpg){ class="figure" } Sometimes called the
-Kitchen, this room is typically adjacent to the [respawn room](../locations/Spawn_Room.md)
-in a [facility](../locations/Facilities.md).
+Kitchen, this room is typically adjacent to the
+[respawn room](../locations/Spawn_Room.md) in a
+[facility](../locations/Facilities.md).
 
 The lounge contains a dining table, food storage unit, a sink, cabinets, sofa,
 entertainment center, and a holographic tactical situation table.
@@ -15,5 +16,3 @@ not have lounges or barracks. Instead they have a special research area with
 to a creepy storage facility where players will find the bodies of those who
 have offended the Planetside Developers and are hung suspended in a viscous
 fluid, floating lifelessly until game world ends.
-
-

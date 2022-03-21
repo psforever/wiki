@@ -9,5 +9,3 @@ The term **backpack** can refer to several things:
 3. The armor upgrade associated with
    [Command Rank 5](Command_Rank.md#Command_Rank_5_CR5) (see picture to the
    right).
-
-

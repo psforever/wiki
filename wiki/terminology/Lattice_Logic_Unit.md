@@ -5,10 +5,10 @@ small, spherical shaped object which spawns within special bases (called LLU
 base is hacked.
 
 The [LLU](Lattice_Logic_Unit.md) must be delivered to the specified friendly
-[facility](../locations/Facilities.md) (indicated by the [Lattice](Lattice.md) link flashing
-on the [Continental Map](../etc/Continental_Map.md) screen) within 15 minutes
-for the hack to succeed. If the LLU contacts water, the hack is canceled. If you
-are the LLU runner, the destination base will have a reddish
+[facility](../locations/Facilities.md) (indicated by the [Lattice](Lattice.md)
+link flashing on the [Continental Map](../etc/Continental_Map.md) screen) within
+15 minutes for the hack to succeed. If the LLU contacts water, the hack is
+canceled. If you are the LLU runner, the destination base will have a reddish
 [waypoint](Waypoint.md) marker over it and an indicator on your radar of the
 destination base.
 
@@ -40,5 +40,3 @@ map and the carrier will radiate yellow waves of light while carrying the LLU.
 You can drop the LLU (to give to another player) by pressing shift-G by default.
 Vehicles parked on top of an LLU in the field will be given a deconstruction
 warning.
-
-

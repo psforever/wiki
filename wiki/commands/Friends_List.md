@@ -11,7 +11,3 @@ Here the _add_ and **delete** buttons make it easier for you to manage friends.
 The monitor button adds a monitor to your hud.
 
 ![The hud](../images/Hud.gif "The hud")
-
-
-
-

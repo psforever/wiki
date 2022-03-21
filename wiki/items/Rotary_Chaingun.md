@@ -17,5 +17,3 @@ The Rotary Chaingun is set up to defend against infantry and air targets. With a
 high rate of fire, low recoil and heavy damage, it will shred its targets. Its
 drawback will be its high rate of ammo consumption and severe
 [Damage Degradation](../terminology/Damage_Degradation.md).
-
-

@@ -1,12 +1,16 @@
 ![ weaponry. Damage indicated is one shot
-fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){ class="figure" } ![
+fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){
+class="figure" }
+![
 weaponry, including the medium assault pistols [Eraser](../items/Eraser.md),
 [Stinger](../weapons/Stinger.md), and [Spear](../weapons/Spear.md) in green.
 Damage indicated is one shot fired on a [Cloaker](../armor/Infiltration_Suit.md)
-([Pulsar](../weapons/Pulsar.md) figures are not current)](../images/MA_DD.jpg){ class="figure" }
+([Pulsar](../weapons/Pulsar.md) figures are not current)](../images/MA_DD.jpg){
+class="figure" }
 ![ weaponry. Damage indicated is one shot
 fired on a [Cloaker](../armor/Infiltration_Suit.md) ([Lasher](../weapons/Lasher.md) figures not
-current)](../images/HA_DD.jpg){ class="figure" }
+current)](../images/HA_DD.jpg){
+class="figure" }
 
 [Damage Degradation](Damage_Degradation.md) refers to the loss of power of some
 weapons at increasing distance. For these weapons, your shots will do less
@@ -19,8 +23,8 @@ The [Flail](../vehicles/Flail.md) has _inverse_ Damage Degradation. It does more
 damage at large distances and less damage at close distances.
 
 Some weapons do not suffer Damage Degradation. Shotgun-type weapons do not have
-Damage Degradation, yet their large [Cone of Fire](Cone_of_fire.md) means
-that you are unlikely to land any hits at large distances anyway. Many
+Damage Degradation, yet their large [Cone of Fire](Cone_of_fire.md) means that
+you are unlikely to land any hits at large distances anyway. Many
 [vehicle](../vehicles/Vehicle.md) and beam-type weapons do not have Damage
 Degradation either.
 
@@ -44,4 +48,3 @@ The following suffer from Damage Degradation:
 - [Wall Turret](../items/Phalanx.md) (standard fire mode)
 - [Spitfire](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and
   [Shadow Turrets](../weapons/Shadow_Turret.md)
-

@@ -299,5 +299,3 @@ universal symbol for humanitarian aid, but in blue instead of red:
 </tr>
 </tbody>
 </table>
-
-

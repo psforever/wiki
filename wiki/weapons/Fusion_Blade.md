@@ -1,6 +1,8 @@
 ![ Soldier with the Fusion
-Blade](../images/FusionBladeNC.jpg){ class="figure" } ![ Soldier
-equipped with the Fusion Blade in Secondary Mode](../images/FusionBladeVS.jpg){ class="figure" }
+Blade](../images/FusionBladeNC.jpg){ class="figure" }
+![ Soldier
+equipped with the Fusion Blade in Secondary Mode](../images/FusionBladeVS.jpg){
+class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
@@ -38,7 +40,5 @@ sound when in Secondary Mode. The damage for both modes is the same and the only
 difference between the two modes is the speed of the slashes.
 
 In both modes, the Fusion Blade will deal 19 [Health](../terminology/Health.md)
-and 6 Armor damage to all [armors](../armor/Armor_Index.md) (Full Health and Armor, no
-[Implants](../implants/Implants.md) or [MedKits](../items/MedKit.md)).
-
-
+and 6 Armor damage to all [armors](../armor/Armor_Index.md) (Full Health and
+Armor, no [Implants](../implants/Implants.md) or [MedKits](../items/MedKit.md)).

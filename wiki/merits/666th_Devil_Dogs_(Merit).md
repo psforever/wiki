@@ -40,7 +40,5 @@ For consistent and demonstrated dedication to
 Outfit of the [New Conglomerate](../etc/New_Conglomerate.md) on
 [Markov](../etc/Markov.md) were awarded a special
 [Merit Commendation](Merit_Commendations.md) from
-[SOE](../etc/Sony_Online_Entertainment.md) handed out by the great
-Sporkfire himself.
-
-
+[SOE](../etc/Sony_Online_Entertainment.md) handed out by the great Sporkfire
+himself.

@@ -29,5 +29,3 @@ Tactics
 </H3>
 
 - [Tower defense/assault guide by DragonJTS](../etc/DragonJTS.md)
-
-

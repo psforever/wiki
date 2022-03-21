@@ -109,4 +109,3 @@ Halloween) \*[Spooktacular Days](Spooktacular_Days.md) (October 22nd - November
 </page>
 
 </mediawiki>
-

@@ -19,5 +19,3 @@ It is a [LLU](../terminology/Lattice_Logic_Unit.md)
 _Enkidu_ appears in Sumerian mythology as a mythical wild-man raised by animals
 who adventures with Gilgamesh. See the
 [Wikipedia](http://en.wikipedia.org/wiki/Enkidu) article.
-
-

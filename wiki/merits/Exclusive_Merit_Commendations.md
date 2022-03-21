@@ -174,7 +174,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Bending Actor's Award](Marketing_(Merit).md)
+[Bending Actor's Award](<Marketing_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -250,7 +250,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Customer Service](Customer_Service_(Merit).md)
+[Customer Service](<Customer_Service_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -288,7 +288,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Devil Dogs Acting Award](666th_Devil_Dogs_(Merit).md)
+[Devil Dogs Acting Award](<666th_Devil_Dogs_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -327,7 +327,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="2">
 
-[Fan Faire](Fan_Faire_(Merit).md)
+[Fan Faire](<Fan_Faire_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -616,7 +616,7 @@ bgcolor="#8b8252">
 <tr>
 <td>
 
-[Halloween Assassin](Halloween_Assassin_(Merit).md)
+[Halloween Assassin](<Halloween_Assassin_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -707,7 +707,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="2">
 
-[Loser](Loser_(Merit).md)
+[Loser](<Loser_(Merit).md>)
 
 </td>
 <td class="mit">
@@ -829,7 +829,7 @@ bgcolor="#8b8252">
 <tr>
 <td rowspan="1">
 
-[Mobilization](Mobilization_(Merit).md)
+[Mobilization](<Mobilization_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -896,7 +896,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Planetary Moviemaker](Planetary_Moviemaker_(Merit).md)
+[Planetary Moviemaker](<Planetary_Moviemaker_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -934,7 +934,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Stratics.com Historian](PlanetSide_Stratics_(Merit).md)
+[Stratics.com Historian](<PlanetSide_Stratics_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -972,7 +972,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Player of the Year](Player_of_the_Year_(Merit).md)
+[Player of the Year](<Player_of_the_Year_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1010,7 +1010,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Strategic](Strategic_(Merit).md)
+[Strategic](<Strategic_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1261,7 +1261,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[Quality Assurance Appreciation](Quality_Assurance_Appreciation_(merit).md)
+[Quality Assurance Appreciation](<Quality_Assurance_Appreciation_(merit).md>)
 
 </td>
 <td class="mitd">
@@ -1299,7 +1299,7 @@ bgcolor="#FFFFFF">
 <tr>
 <td>
 
-[PS No. 1 Outfit (ChinaSide)](PS_No._1_Outfit_(Merit).md)
+[PS No. 1 Outfit (ChinaSide)](<PS_No._1_Outfit_(Merit).md>)
 
 </td>
 <td class="mitd">

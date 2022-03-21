@@ -45,11 +45,12 @@ and are usually accompanied by an audio cue.
 When over a target the reticle also displays the name and distance of the
 target.
 
-The reticle also shows the current status of the [Cone of fire](../terminology/Cone_of_fire.md)
-system, and how accurate the shot will be. The further apart the reticule's
-extremeties are, the less accurate. Stop moving and crouch to draw these edges
-in and increase the accuracy. The shot has a random chance of landing anywhere
-within a circle described by these outer points.
+The reticle also shows the current status of the
+[Cone of fire](../terminology/Cone_of_fire.md) system, and how accurate the shot
+will be. The further apart the reticule's extremeties are, the less accurate.
+Stop moving and crouch to draw these edges in and increase the accuracy. The
+shot has a random chance of landing anywhere within a circle described by these
+outer points.
 
 The reticle also displayed if a shot has hit the target, by flashing a
 transparent gold disk each time a shot lands on target. This includes static
@@ -74,10 +75,11 @@ vehicle at the time.
 Used with the [Continental Map](Continental_Map.md), this 'kill spam' can be a
 powerful tool to work our enemy positions and makeup, as it cannot be masked.
 
-Also shown in this section in white text are [experience](../terminology/Experience_Points.md) awards,
-as they happen, and world messages, such as the capture of facilities, and the
-movement of [LLUs](../terminology/Lattice_Logic_Unit.md), implant activations
-and any other system messages.
+Also shown in this section in white text are
+[experience](../terminology/Experience_Points.md) awards, as they happen, and
+world messages, such as the capture of facilities, and the movement of
+[LLUs](../terminology/Lattice_Logic_Unit.md), implant activations and any other
+system messages.
 
 The lower half shows the chat section. Typed text and voice macros show here.
 Default colors are:
@@ -263,5 +265,3 @@ In Vehicles, these icons are replaced with the currently available vehicle guns.
 
 This icon, located bottom right, hides or shows the Soldier Management toolbar,
 above.
-
-

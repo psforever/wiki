@@ -219,13 +219,13 @@
 </table>
 
 This [Merit Commendation](Merit_Commendations.md) is awarded for kills scored by
-friendly soldier after they have used a [Locker](../items/Lockers.md) that was hacked
-by you, using a [REK](../weapons/Remote_Electronics_Kit.md). The tracker stops
-after 5 minutes or when the soldier dies, unless he is revived by an
+friendly soldier after they have used a [Locker](../items/Lockers.md) that was
+hacked by you, using a [REK](../weapons/Remote_Electronics_Kit.md). The tracker
+stops after 5 minutes or when the soldier dies, unless he is revived by an
 [Advanced Medic](../certifications/Advanced_Medical.md). Kills accumulated for
 this Merit also track for the [Hacking Support](Hacking_Support.md) Merit.
 
-The [Hacking](../certifications/Hacking_(Certification).md) certification is
+The [Hacking](<../certifications/Hacking_(Certification).md>) certification is
 required to gain these [Merit Commendations](Merit_Commendations.md)
 
 The Advanced and Expert awards for this merit can be arranged to form an
@@ -399,5 +399,3 @@ Hacker".
 </tr>
 </tbody>
 </table>
-
-

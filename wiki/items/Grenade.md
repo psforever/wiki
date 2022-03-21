@@ -20,5 +20,3 @@ Grenades can be fired from a number of weapons:
 - [Fragmentation grenade](../weapons/Fragmentation_grenade.md)
 - [Jammer grenade](../weapons/Jammer_Grenade.md)
 - [Plasma grenade](../weapons/Plasma_grenade.md)
-
-

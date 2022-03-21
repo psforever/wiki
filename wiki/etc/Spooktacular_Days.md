@@ -10,8 +10,9 @@ Bonus Experience Days. This years event will run from October 22nd through
 November 2nd, and feature some really howling experience gains.
 [Base](../locations/Facilities.md) captures like you've never seen before,
 cavern captures that will make you want you want get that next
-[BFR](../vehicles/BattleFrame_Robotics.md) [imprint](../terminology/BFR_Imprint.md), and much more!
-So go ahead and spend some time with us and let’s get that much needed
+[BFR](../vehicles/BattleFrame_Robotics.md)
+[imprint](../terminology/BFR_Imprint.md), and much more! So go ahead and spend
+some time with us and let’s get that much needed
 [Battle Experience](../terminology/Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](../terminology/Battle_Rank.md) 40... If you dare!!!
 
@@ -39,5 +40,3 @@ All players will be able to use
 
 Now lets get prepared for some serious experience gain and have a haunting good
 time!
-
-

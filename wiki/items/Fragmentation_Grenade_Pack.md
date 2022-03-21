@@ -34,5 +34,3 @@ instead.
 Because Fragmentation Grenades are considered anti-vehicular weapons, they
 _cannot_ pass though the energy shields of
 [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).
-
-

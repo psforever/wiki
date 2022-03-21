@@ -1,5 +1,6 @@
 ![
-in the [Caverns](../locations/Caverns.md)](../images/AncientEquipmentTerminal.jpg){ class="figure" }
+in the [Caverns](../locations/Caverns.md)](../images/AncientEquipmentTerminal.jpg){
+class="figure" }
 
 Similar to a normal [Equipment terminal](Equipment_Terminal.md), but looking
 vastly different, [Ancient Equipment Terminals](Ancient_Equipment_Terminal.md)
@@ -17,5 +18,3 @@ Terminals are neutral, and thus everyone can use it without
 
 Note: Some Ancient Equipment Terminals are misplaced inside walls. These can
 still be used if you point your cursor at the top of the structure.
-
-

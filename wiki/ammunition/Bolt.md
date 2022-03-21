@@ -19,6 +19,3 @@ ammunition, weapons firing bolt ammunition have a large increase in
 
 Since Bolt Ammunition is for use in small arms, it can pass though the energy
 shields of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).
-
-
-

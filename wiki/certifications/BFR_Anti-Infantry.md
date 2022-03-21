@@ -29,5 +29,3 @@ is a serious anti-infantry weapon, firing a wide spread of shredding pellets
 over a short range and a secondary fire mode that concentrates the pellets for
 medium range work. While the weapon is lethal to infantry targets, it lacks
 punch to beat quickly through heavy armored [vehicles](../vehicles/Vehicle.md).
-
-

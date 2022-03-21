@@ -22,7 +22,8 @@ however, when triggered, they do not explode, but rather emit a small EMP burst.
 
 The Disruptor Mine EMP burst has the same effect as
 [Jammer Grenades](Jammer_Grenade.md) and the EMP used by Commanders except that
-it will not detonate [boomers](Adaptive_Construction_Engine.md#remote-detonated-charge-boomer) or
+it will not detonate
+[boomers](Adaptive_Construction_Engine.md#remote-detonated-charge-boomer) or
 [High Explosive Mines](Adaptive_Construction_Engine.md#high-explosive-mine)
 (neither Friendly nor Enemy).
 
@@ -33,5 +34,3 @@ selected by use of the "Change Ammunition" function.
 The Disruptor Mines count for the maximum number of mines that you can deploy,
 along with the High Explosive Mine. Their interference range is similar to their
 High Explosive counterparts.
-
-

@@ -20,6 +20,3 @@ projectile acceleration systems make it very powerful at close range and throw
 each round to quite a distance. Unfortunately, the slug's velocity drops off at
 these latter ranges, resulting in a loss of the damage this weapon enjoys close
 in.
-
-
-

@@ -7,5 +7,3 @@
 | **Cert Point Cost**    | 2                                                                          |
 
 **Air Cavalry Assault**
-
-

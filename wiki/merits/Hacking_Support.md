@@ -229,7 +229,7 @@ the following that was hacked by you:
 
 These apply to all Ancient terminals as well.
 
-The [Hacking](../certifications/Hacking_(Certification).md)
+The [Hacking](<../certifications/Hacking_(Certification).md>)
 [certification](../certifications/Certification.md) is required to gain these
 [Merit Commendations](Merit_Commendations.md), but
 [Advanced Hacking](../certifications/Advanced_Hacking.md) is strongly
@@ -405,5 +405,3 @@ Or a <b>U</b> as in **_Ultimate Hacker_**;
 </tr>
 </tbody>
 </table>
-
-

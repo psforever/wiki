@@ -1,9 +1,9 @@
-![](../images/InterstellarMap.jpg){ class="figure" }
-[Auraxis](Auraxis.md) has 10 Surface [Continents](Continent.md) and 6
-[Caverns](Caverns.md). Some of those Continents also feature Special Locations
-like a strange landscape or a [Monolith](../items/Monolith.md). Facility
-Locations like the [Spawn Room](Spawn_Room.md) and the
-[Generator](../items/Generator.md) are also listed under this category.
+![](../images/InterstellarMap.jpg){ class="figure" } [Auraxis](Auraxis.md) has
+10 Surface [Continents](Continent.md) and 6 [Caverns](Caverns.md). Some of those
+Continents also feature Special Locations like a strange landscape or a
+[Monolith](../items/Monolith.md). Facility Locations like the
+[Spawn Room](Spawn_Room.md) and the [Generator](../items/Generator.md) are also
+listed under this category.
 
 ## Locations
 
@@ -59,5 +59,3 @@ Locations like the [Spawn Room](Spawn_Room.md) and the
 - [Research Room](Research_Room.md) (Bio Laboratory only)
 - [Spawn Room](Spawn_Room.md)
 - [Vehicle Bay](Vehicle_Bay.md) (Technology Plant only)
-
-

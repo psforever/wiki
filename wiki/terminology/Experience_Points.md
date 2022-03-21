@@ -4,5 +4,3 @@ enemy [facilities](../locations/Facilities.md). Currently, there are three types
 of experience: [Battle Experience](Battle_Experience_Points.md), or BEP,
 [Command Experience](Command_Experience_Points.md), or CEP, and
 [Support Experience](Support_Experience_Points.md) or SEP.
-
-

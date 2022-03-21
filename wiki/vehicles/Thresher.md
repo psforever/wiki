@@ -1,12 +1,13 @@
 ![Thresher](../images/VSThresher.jpg){ class="figure" }
 ![ like the
-[Magrider](Magrider.md)](../images/Thresher_profile.jpg){ class="figure" }
+[Magrider](Magrider.md)](../images/Thresher_profile.jpg){
+class="figure" }
 
 |                            |                                                                                                                          |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Type**                   | Heavy Assault Buggy                                                                                                      |
 | **Role**                   | Attack                                                                                                                   |
-| **Certification Required** | [Assault Buggy](../certifications/Assault_Buggy_(Certification).md) or [Light Scout](../certifications/Light_Scout.md) |
+| **Certification Required** | [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>) or [Light Scout](../certifications/Light_Scout.md) |
 | **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                           |
 | **Primary Weapon**         | [Flux Cannon](../weapons/Flux_Cannon.md)                                                                                 |
 | **Secondary Weapon**       | \-                                                                                                                       |

@@ -8,5 +8,3 @@ page for more information.
 ## See also
 
 [Werner Outfits](:Category:Werner_Outfits)
-
-

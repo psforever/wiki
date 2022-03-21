@@ -3,5 +3,3 @@
 [Esamir](../locations/Esamir.md).
 
 Linked to [Andvari](Andvari.md), [Jarl](Jarl.md), and [Mani](Mani.md).
-
-

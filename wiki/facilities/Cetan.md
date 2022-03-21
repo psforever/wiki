@@ -12,5 +12,3 @@ Cetan is a Sub-Capitol to Verica.
 
 Cetan is a Hack-and-Hold Facility with an Air Tower to it's North East, inside
 it's [SOI](../locations/Sphere_of_Influence.md).
-
-

@@ -71,7 +71,7 @@ The **Elite** level requires the Qualification level of the folowing merits:
 - [Combat Medic](Combat_Medic.md)
 - [Combat Resuscitation](Combat_Resuscitation.md)
 - [Resuscitation Medic](Resuscitation_Medic.md)
-- [Engineering](Engineering_(Merit).md)
+- [Engineering](<Engineering_(Merit).md>)
 - [Equipment Support](Equipment_Support.md)
 - [Infantry Armor Support](Infantry_Armor_Support.md)
 - [Tiny Robotics Support](Tiny_Robotics_Support.md)
@@ -86,5 +86,3 @@ Qualification level of the following merits:
 - [Telepad Deployment](Telepad_Deployment.md)
 - [AMS Support](AMS_Support.md)
 - [Lodestar Support](Lodestar_Support.md)
-
-

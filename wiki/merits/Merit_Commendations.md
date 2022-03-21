@@ -58,9 +58,7 @@ At present, there are six categories of Merit Commendations:
 </td>
 <td width="190" align="center" valign="top">
 
-<b></b>
-![](../images/ActivityMeritThumbnail_copy.png){ class="figure" }
-<b></b>
+<b></b> ![](../images/ActivityMeritThumbnail_copy.png){ class="figure" } <b></b>
 ![](../images/Exclusive_Merit_Commendation.png){ class="figure" }
 
 </td>
@@ -83,16 +81,16 @@ Said streaks require you to kill a certain amount of people without dying.
 
 - Example:
 
-The [Heavy Assault](Heavy_Assault_(Merit).md) Platinum Merit Commendation
+The [Heavy Assault](<Heavy_Assault_(Merit).md>) Platinum Merit Commendation
 requires 8,000 kills to Qualify for it. After you have achieved those 8,000
 kills the game will flag you as Qualified and you will have to kill 12 Enemy
-Soldiers ([Unique Kills](../terminology/Unique_kill.md)) to obtain the Heavy Assault Platinum
-Merit. You don't have to complete the streak in the same session, however, you
-can work on it until you complete it. Streak kills are also saved if you logout,
-meaning that if you have 8 kills for the Heavy Assault Platinum streak, and you
-logout, you will still have those 8 kills when you start PlanetSide next time
-(provided you don't log on a different character on that server or there is a
-game update/crash between your sessions).
+Soldiers ([Unique Kills](../terminology/Unique_kill.md)) to obtain the Heavy
+Assault Platinum Merit. You don't have to complete the streak in the same
+session, however, you can work on it until you complete it. Streak kills are
+also saved if you logout, meaning that if you have 8 kills for the Heavy Assault
+Platinum streak, and you logout, you will still have those 8 kills when you
+start PlanetSide next time (provided you don't log on a different character on
+that server or there is a game update/crash between your sessions).
 
 If you are working on a streak for a Merit, which requires 5 kills and you die
 after getting 4 Streak kills, those 4 kills will count towards the next level of
@@ -100,7 +98,7 @@ the Merit that you are working on.
 
 - Example:
 
-You are working on [Basic Weapons](Basic_Weapons_(Merit).md) Silver streak,
+You are working on [Basic Weapons](<Basic_Weapons_(Merit).md>) Silver streak,
 which requires 4 kills and it takes you 50 kills until you finally get 4 in one
 life, then you will only have to get 50 kills to qualify for Basic Weapons Gold,
 instead of 100.
@@ -130,5 +128,3 @@ Also see:
 - [Assist](../terminology/Assist.md) (For more Details about Kill Assists)
 - [Support Merit Commendations](Support_Merit_Commendations.md) (For more
   Details about how to obtain the Support Merits and their requirments)
-
-

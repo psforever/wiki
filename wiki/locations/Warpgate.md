@@ -1,9 +1,9 @@
-![](../images/Warp.jpg){ class="figure" }
-![](../images/Biwarp.jpg){ class="figure" } A Warpgate is a gigantic,
-hemispherically-shaped ancient artifact used to teleport individuals and
-vehicles from one [continent](../locations/Continent.md) to another. There are 3 to 4
-warpgates located on each continent and [sanctuary](../locations/Sanctuary.md), each linked
-to a [planet](Planet.md) light years away.
+![](../images/Warp.jpg){ class="figure" } ![](../images/Biwarp.jpg){
+class="figure" } A Warpgate is a gigantic, hemispherically-shaped ancient
+artifact used to teleport individuals and vehicles from one
+[continent](../locations/Continent.md) to another. There are 3 to 4 warpgates
+located on each continent and [sanctuary](../locations/Sanctuary.md), each
+linked to a [planet](Planet.md) light years away.
 
 If the warpgate's host continent is [locked](../etc/Continental_lock.md), or it
 is linked to a locked continent via a
@@ -12,11 +12,11 @@ is linked to a locked continent via a
 individual across the [Galactic Lattice](../terminology/Galactic_Lattice.md) to
 any planet in the lattice chain.
 
-You cannot enter warpgates that link to an enemy [sanctuary](../locations/Sanctuary.md)
-(found on enemy [Home Continents](Home_Continent.md)). These warpgates are
-shaded the color of the controling empire on the
-[Continental Map](../etc/Continental_Map.md). The bubble will act as a solid
-structure for enemies (thus you cannot fill up an
+You cannot enter warpgates that link to an enemy
+[sanctuary](../locations/Sanctuary.md) (found on enemy
+[Home Continents](Home_Continent.md)). These warpgates are shaded the color of
+the controling empire on the [Continental Map](../etc/Continental_Map.md). The
+bubble will act as a solid structure for enemies (thus you cannot fill up an
 [ANT](../vehicles/Advanced_Nanite_Transport.md) in these enemy warpgates).
 
 Structurally, a warpgate consists of a large central platform, from which emits
@@ -57,5 +57,3 @@ Every day, the scientists and technicians of each
 [Empire](../terminology/Empire.md) attempt to decipher the warpgate energy
 patterns, testing ways to manipulate them for their own ends in order to
 dominate the galaxy.
-
-

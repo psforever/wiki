@@ -41,4 +41,3 @@ providing excellent side defense.
 Originally, the name "Juggernaut" was given to the Terran Republic's gunner
 variant [BFR](BattleFrame_Robotics.md), which is now known as the
 [Colossus](Colossus.md).
-

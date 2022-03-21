@@ -15,6 +15,3 @@ regularly in the field. The boxes can be obtained from any
 [Equipment Terminal](Equipment_Terminal.md) to be hand-loaded into the vehicle's
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm Silo](Repair_Rearm_Silo.md).
-
-
-

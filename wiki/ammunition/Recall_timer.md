@@ -13,5 +13,3 @@ locked by an opposing Empire, it will take 30 seconds to recall, even if you are
 outside of an SOI.
 
 These timers are also the time required to exit the PS client normally.
-
-

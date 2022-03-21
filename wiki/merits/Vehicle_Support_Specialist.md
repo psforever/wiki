@@ -44,5 +44,3 @@ Merits:
 - [Galaxy Support Pilot](Galaxy_Support_Pilot.md)
 - [Router Support](Router_Support.md)
 - [Telepad Deployment](Telepad_Deployment.md)
-
-

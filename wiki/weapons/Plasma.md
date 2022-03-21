@@ -8,7 +8,8 @@ impact is unlimited.
 ## Grenade Plasma
 
 ![ troops covered by
-green clouds of [Plasma](Plasma.md)](../images/Grenade_Plasma.jpg){ class="figure" }
+green clouds of [Plasma](Plasma.md)](../images/Grenade_Plasma.jpg){
+class="figure" }
 
 The first and most common occurance of the fourth state of matter.
 
@@ -22,7 +23,7 @@ These aggravated-damage plasma fields are
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) in nature, being
 distributed by the orbs of the [Starfire](../armor/Starfire.md) and
 [Comet](../armor/Comet.md) [MAXes](../armor/Mechanized_Assault_Exo-Suit.md), as
-well as the [Starfire BFR Weapon](../items/Starfire_(BFR).md) of the
+well as the [Starfire BFR Weapon](<../items/Starfire_(BFR).md>) of the
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md). Soldiers taking damage from this
 type of plasma glow purple.
 

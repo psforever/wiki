@@ -4,7 +4,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Combat Engineering](../certifications/Combat_Engineering.md)                                                                          |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                           |
-| **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](#remote-detonated-charge-boomer)>)                                                          |
+| **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](#remote-detonated-charge-boomer)>)                                                            |
 | **Secondary Mode**         | Deploy [High Explosive Mine](#high-explosive-mine) or [Disruptor Mine](Disruptor_Mine.md) (Selectable with the "Change Ammo" function) |
 | **Tertiary Mode**          | Deploy [Spitfire Turret](#spitfire-turret), [Cerberus Turret](Cerberus_Turret.md) or [Shadow Turret](Shadow_Turret.md)                 |
 | **Quaternary Mode**        | Deploy [Motion Sensor](#motion-sensor-alarm) or [Sensor Disruptor](../items/Sensor_Disruptor.md)                                       |
@@ -22,11 +22,11 @@ Construction Engine** is a multi-purpose device used in the construction of
 defensive perimeters. A single-use device, the ACE can be deployed as seven
 different items by adjusting the firemode selection.
 
-All deployed ACE and [FDU](Field_Deployment_Unit.md) devices that you own will show as a different
-color in the gameworld and the [Continental Map](../etc/Continental_Map.md). The
-default color is yellow. Each device can also be deconstructed by double
-clicking the deployable icon on the continental map and selecting to deconstruct
-it.
+All deployed ACE and [FDU](Field_Deployment_Unit.md) devices that you own will
+show as a different color in the gameworld and the
+[Continental Map](../etc/Continental_Map.md). The default color is yellow. Each
+device can also be deconstructed by double clicking the deployable icon on the
+continental map and selecting to deconstruct it.
 
 '''NOTE: The [Shadow Turret](Shadow_Turret.md),
 [Cerberus Turret](Cerberus_Turret.md),
@@ -60,26 +60,24 @@ proximity mine fortunately can tell friend from foe, but that's about it. Lay
 and pray is the motto to follow after deploying this devestating weapon. Harmful
 to both infantry and [vehicle](../vehicles/Vehicle.md) alike, the weapons litter
 the battlefields. While not as versatile as
-[Boomers](#remote-detonated-charge-boomer) (they cannot be deployed
-indoors and cannot be remotely detonated), they make up for it in sheer force.
-Susceptible to standard fire, Jammers and [EMP](../commands/EMP.md) blasts, the
-weapons are easily enough destroyed. Like
-[Boomers](#remote-detonated-charge-boomer), friendly Mines will display a
-green ring surrounding them and cannot be detonated by other friendly
-Jammers/[EMPs](../commands/EMP.md). Up to 20 Mines may be deployed by a single
-Combat Engineer at any one time.
+[Boomers](#remote-detonated-charge-boomer) (they cannot be deployed indoors and
+cannot be remotely detonated), they make up for it in sheer force. Susceptible
+to standard fire, Jammers and [EMP](../commands/EMP.md) blasts, the weapons are
+easily enough destroyed. Like [Boomers](#remote-detonated-charge-boomer),
+friendly Mines will display a green ring surrounding them and cannot be
+detonated by other friendly Jammers/[EMPs](../commands/EMP.md). Up to 20 Mines
+may be deployed by a single Combat Engineer at any one time.
 
 ## Spitfire Turret
 
-![](../images/Spitfire.jpg){ class="figure" } The bane of many a soldier,
-this deployable turret is a common sight on the battlefield. Set to
-automatically fire at any adversary (soldier or
-[vehicle](../vehicles/Vehicle.md)), the "Spit" is a dangerous battlefield
-obstacle. [EMPs](../commands/EMP.md) and [Jammer grenades](Jammer_Grenade.md)
-will disable them for a short period of time. Other methods of bypassing them
-include walking (default by holding left shift) and crouch walking (This DOES
-NOT work when the Spitfire Turret is inside a
-[Facility](../locations/Facilities.md)
+![](../images/Spitfire.jpg){ class="figure" } The bane of many a soldier, this
+deployable turret is a common sight on the battlefield. Set to automatically
+fire at any adversary (soldier or [vehicle](../vehicles/Vehicle.md)), the "Spit"
+is a dangerous battlefield obstacle. [EMPs](../commands/EMP.md) and
+[Jammer grenades](Jammer_Grenade.md) will disable them for a short period of
+time. Other methods of bypassing them include walking (default by holding left
+shift) and crouch walking (This DOES NOT work when the Spitfire Turret is inside
+a [Facility](../locations/Facilities.md)
 [SOI](../locations/Sphere_of_Influence.md) that has the
 [Interlink](../locations/Interlink.md) Benefit), or using
 [Sensor Shield](../implants/Sensor_Shield.md). Be aware however, using a weapon
@@ -119,6 +117,3 @@ use their [T-REK](T-REK.md) to alter the programming of an enemy Motion Sensor,
 causing it to display all friendlies as enemies on radar. The next time you want
 to boomer that red dot coming around the corner, you better make sure it's
 really an enemy!
-
-
-

@@ -28,7 +28,7 @@ contains the following items:
 
 - The [Basilisk](../vehicles/Basilisk.md) and the
   [Wraith](../vehicles/Wraith.md) have been combined into the new 3 point
-  [ATV cert](../certifications/ATV_(Certification).md). Players who already
+  [ATV cert](<../certifications/ATV_(Certification).md>). Players who already
   have Wraith or Basilisk certs will keep the ATV cert for now, but will be "in
   debt" to the certification system by one point. If those players choose to
   forget the ATV cert, they will have to have 3 available points to buy it
@@ -36,8 +36,9 @@ contains the following items:
 
 <!-- -->
 
-- Dynamically calculated [Certification Point](../certifications/Certification_points.md) system:
-  This is to resolve certain bugs where a player would forget a
+- Dynamically calculated
+  [Certification Point](../certifications/Certification_points.md) system: This
+  is to resolve certain bugs where a player would forget a
   [Certification](../certifications/Certification.md), but those certification
   points would not be available to them.
 
@@ -305,9 +306,11 @@ tree. Exploring the world to find these objects might just earn you a few
 
 **Miscellaneous Changes:**
 
-- [Engineering](../merits/Engineering_(Merit).md) merits should all list requirements
+- [Engineering](<../merits/Engineering_(Merit).md>) merits should all list
+  requirements
 - News Ticker has been updated with news about new merits and the xmas event
-- [Equipment Support](../merits/Equipment_Support.md) merits should all list requirements
+- [Equipment Support](../merits/Equipment_Support.md) merits should all list
+  requirements
 - Players that use /humbug to hide the santa hat should now be able to keep
   their usual hat flair (i.e. beret, etc)
 
@@ -429,7 +432,8 @@ are deemed non-existent or believed to be minor.
 ## Server Merge and Lasher nerf (08/25/2009)
 
 - Players moving from [Werner](../etc/Werner.md) to [Gemini](../etc/Gemini.md)
-  will receive a [Werner Distinguished Veteran](../merits/Distinguished_Veteran.md)
+  will receive a
+  [Werner Distinguished Veteran](../merits/Distinguished_Veteran.md)
   [Merit](../merits/Merit_Commendations.md)
 - Players who receive a -W or -G appended to their names will be allowed a
   one-time use of the /rename command
@@ -449,9 +453,10 @@ are deemed non-existent or believed to be minor.
   [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) armor in the
   [Sanctuary](../locations/Sanctuary.md) and [Amerish](../locations/Amerish.md)
   without the [certification](../certifications/Certification.md)
-- Dramatically increased [BEP](../terminology/Battle_Experience_Points.md) and [CEP](../terminology/Command_Experience_Points.md) awarded for
-  [facility](../locations/Facilities.md) captures (later rolled back in a patch shortly
-  afterward)
+- Dramatically increased [BEP](../terminology/Battle_Experience_Points.md) and
+  [CEP](../terminology/Command_Experience_Points.md) awarded for
+  [facility](../locations/Facilities.md) captures (later rolled back in a patch
+  shortly afterward)
 
 ## Game Update (10/22/2009)
 
@@ -462,8 +467,9 @@ Bonus Experience Days. This years event will run from October 22nd through
 November 2nd, and feature some really howling experience gains.
 [Base](../locations/Facilities.md) captures like you've never seen before,
 cavern captures that will make you want you want get that next
-[BFR](../vehicles/BattleFrame_Robotics.md) [imprint](../terminology/BFR_Imprint.md), and much more!
-So go ahead and spend some time with us and let’s get that much needed
+[BFR](../vehicles/BattleFrame_Robotics.md)
+[imprint](../terminology/BFR_Imprint.md), and much more! So go ahead and spend
+some time with us and let’s get that much needed
 [Battle Experience](../terminology/Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](../terminology/Battle_Rank.md) 40... If you dare!!!
 
@@ -511,5 +517,3 @@ tricks.
 
 We appreciate your patience with this change and please make sure that you
 spread the word to all your fallen Vista and Windows 7 comrades!
-
-

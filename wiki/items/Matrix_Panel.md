@@ -26,8 +26,3 @@ progress bar will appear similar to the one received when hacking a
 Spawn rooms that have upgraded pain fields from expert hackers show a special
 icon on the [Continental Map](../etc/Continental_Map.md) and will last for 30
 minutes after the last boost.
-
-
-
-
-

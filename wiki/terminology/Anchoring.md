@@ -5,5 +5,3 @@
 When the TR MAX Units anchor/lock down, their Rate of Fire is doubled.
 
 De-anchoring/unlocking brings the Rate of Fire back to normal.
-
-

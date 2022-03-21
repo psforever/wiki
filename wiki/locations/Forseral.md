@@ -34,7 +34,8 @@ This continent is also refered to as
 
 ---
 
---source: Planetside In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
+--source: Planetside In-game descriptions, pre- and
+post-[Bending](../etc/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 
@@ -62,5 +63,3 @@ This continent is also refered to as
 
 - [Anu](../facilities/Anu.md)
 - [Gwydion](../facilities/Gwydion.md) (Sub-Capitol)
-
-

@@ -34,5 +34,3 @@ Due to the Open-Air Compartment, it is possible to drive all of these
 [vehicles](../vehicles/Vehicle.md) while wearing
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md). Additionally, the driver
 of these vehicles may bail out at any time.
-
-

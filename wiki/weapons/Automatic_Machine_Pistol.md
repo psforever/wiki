@@ -1,17 +1,18 @@
 ![ Soldier equipped
-with an AMP](../images/PSScreenShot0292.jpg){ class="figure" }
+with an AMP](../images/PSScreenShot0292.jpg){ class="figure"
+}
 
-|                            |                                                                                                          |
-| -------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                             |
-| **Primary Mode**           | Machine Pistol                                                                                           |
-| **Secondary Mode**         | \-                                                                                                       |
+|                            |                                                                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                             |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                          |
+| **Primary Mode**           | Machine Pistol                                                                                                        |
+| **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
-| **Range**                  | 200m                                                                                                     |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                   |
-| **Magazine Capacity**      | 30                                                                                                       |
-| **Zoom**                   | x2                                                                                                       |
+| **Range**                  | 200m                                                                                                                  |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                                |
+| **Magazine Capacity**      | 30                                                                                                                    |
+| **Zoom**                   | x2                                                                                                                    |
 
 **Automatic Machine Pistol (AMP)**
 
@@ -34,6 +35,3 @@ Shots to kill:
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 9 shots                                         |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots                                        |
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
-
-
-

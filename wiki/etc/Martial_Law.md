@@ -29,5 +29,3 @@ technology.
   soldiers who are battle rank 24+ are able to swap out their hats for various
   versions.
 - There's no access to support equipment except for Nano Dispenser and Med Kits.
-
-

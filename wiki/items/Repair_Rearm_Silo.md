@@ -10,11 +10,9 @@ in friendly hands. Also, when the facility is linked to a friendly
 [Dropship Center](../locations/Dropship_Center.md) or your empire has the
 [Oshur](../locations/Oshur.md) [Continental lock](../etc/Continental_lock.md),
 they will automatically repair most friendly vehicles and BFRs that approach
-them. [Flail](../vehicles/Flail.md) and [Switchblades](Switchblade.md) require the
-[Vehicle Module](../etc/Vehicle_Module.md) benefit to repair and recharge at
+them. [Flail](../vehicles/Flail.md) and [Switchblades](Switchblade.md) require
+the [Vehicle Module](../etc/Vehicle_Module.md) benefit to repair and recharge at
 these terminals.
 
 Also sometimes referred to as a _Ground Repair/Rearm Station_ or _Repair
 Terminal_.
-
-

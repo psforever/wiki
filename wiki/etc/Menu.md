@@ -209,5 +209,3 @@ the current range of the proximity map.
 ## Color Options
 
 **Article in progress**
-
-

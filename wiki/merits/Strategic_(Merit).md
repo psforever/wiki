@@ -230,5 +230,3 @@
 
 Awarded to players at the discretion of SOE Employees for attending certain
 Events, participating in tests, or just random things.
-
-

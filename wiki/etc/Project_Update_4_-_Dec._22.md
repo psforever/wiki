@@ -27,5 +27,3 @@ now we're here. The best parts are yet to come. Stick around and enjoy your
 holidays!
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=52)
-
-

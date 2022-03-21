@@ -33,5 +33,3 @@ in my head, I'd rather not wade in just yet. Having a good programming plan will
 make things easier down the road for me and possibly any other contributors.
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=23)
-
-

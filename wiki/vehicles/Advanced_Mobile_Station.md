@@ -15,8 +15,8 @@
 **Advanced Mobile Station (AMS)**
 
 The **Advanced Mobile Station (AMS)** provides a mobile
-[spawn point](../terminology/Spawn_point.md), giving greater flexibility than the fixed spawn
-points of [Towers](../locations/Towers.md) and
+[spawn point](../terminology/Spawn_point.md), giving greater flexibility than
+the fixed spawn points of [Towers](../locations/Towers.md) and
 [Facilities](../locations/Facilities.md). Also adding to its benefits, it has a
 five-second shorter spawn time than [Towers](../locations/Towers.md), making
 them even more useful.
@@ -29,10 +29,9 @@ Early designs featured two [spawn tubes](../items/Respawn_Tube.md) on either
 side, but more recent designs allow soldiers to spawn anywhere within the
 cloaking bubble. As of [2.7.6](../patches/2.7.6.md), the **AMS** also features
 two [equipment terminals](../items/Equipment_Terminal.md) (on either side of the
-vehicle), a [matrix terminal](../items/Matrix_Panel.md) to bind
-soldier's DNA (at the front) and a [respawn panel](../terminology/Respawn_panel.md) (at the
+vehicle), a [matrix terminal](../items/Matrix_Panel.md) to bind soldier's DNA
+(at the front) and a [respawn panel](../terminology/Respawn_panel.md) (at the
 rear).
 
 Virtually no offensive assault—and many defensive stands—can be successful
 without one or more well-placed **AMSes**.
-

@@ -13,5 +13,3 @@ This [Certification](Certification.md) is required to obtain the
 [Equipment Support](../merits/Equipment_Support.md),[Tiny Robotics Support](../merits/Tiny_Robotics_Support.md)
 and [Universal Soldier](../merits/Universal_Soldier.md)
 [Merit Commendations](../merits/Merit_Commendations.md).
-
-

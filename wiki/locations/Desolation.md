@@ -44,5 +44,3 @@ by anything but [Modules](../etc/Modules.md).
 - [Dahaka](../facilities/Dahaka.md)
 - [Izha](../facilities/Izha.md)
 - [Jamshid](../facilities/Jamshid.md)
-
-

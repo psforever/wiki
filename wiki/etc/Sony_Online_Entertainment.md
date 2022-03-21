@@ -25,8 +25,8 @@ while the online division spun off and, at first, became RedEye Interactive and
 then finally becoming known as Verant Interactive.
 
 _EverQuest_ became immensely popular and gained ten expansion packs, a sequel,
-and numerous spin off games.
-![](../images/Star_Wars_Galaxies_Box_Art.jpg){ class="figure" }
+and numerous spin off games. ![](../images/Star_Wars_Galaxies_Box_Art.jpg){
+class="figure" }
 
 ### Star Wars Galaxies
 
@@ -72,5 +72,3 @@ Rift_
 - [_EverQuest_'s Official Site](http://eqlive.station.sony.com/)
 - [_Star Wars Galaxies_'s Official Site](http://starwarsgalaxies.station.sony.com/)
 - [_PlanetSide_'s Official Site](http://planetside.station.sony.com/)
-
-

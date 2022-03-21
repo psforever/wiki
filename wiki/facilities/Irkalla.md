@@ -17,5 +17,3 @@ It is a [Hack-and-Hold](../terminology/Hack-and-Hold.md)
 
 _Irkalla_ is the Hell-like underworld of Akkadian and Sumerian mythology. See
 the [Wikipedia](http://en.wikipedia.org/wiki/Irkalla) article.
-
-

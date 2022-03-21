@@ -14,6 +14,3 @@ weapon on the [Liberator](../vehicles/Liberator.md) and
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
 vehicle's [trunk](../terminology/Trunk.md) or acquired while in the vehicle from
 a [Landing Pad](../items/Landing_Pad.md).
-
-
-

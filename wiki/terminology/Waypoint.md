@@ -50,8 +50,6 @@ There are many different waypoints in [PlanetSide](../etc/PlanetSide.md):
   [Liberator](../vehicles/Liberator.md) bombing run. This will be color-coded
   and marked with the squad member's number.
 
-
-
 There are also 3 special waypoints that have unique differences from the ones
 listed above:
 

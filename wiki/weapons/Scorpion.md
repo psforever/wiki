@@ -1,5 +1,6 @@
 ![ Soldier launching a
-[Scorpion Missile](../ammunition/Scorpion_Missile.md)](../images/Scorpion.jpg){ class="figure" }
+[Scorpion Missile](../ammunition/Scorpion_Missile.md)](../images/Scorpion.jpg){
+class="figure" }
 
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |
@@ -61,5 +62,3 @@ devastating weapon.
 
 The weapon has a rare [known issue](../etc/Known_Issues.md) involving the
 bomblets not exploding properly.
-
-

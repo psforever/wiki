@@ -68,5 +68,3 @@ Each snowmen is in the [Spawn Room](../locations/Spawn_Room.md) of a Tower.
   Gun Tower
 - **[Solsar](../locations/Solsar.md)** - North [Hapi](../facilities/Hapi.md)
   Watch Tower
-
-

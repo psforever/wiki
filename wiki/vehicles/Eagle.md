@@ -1,6 +1,6 @@
-![[Eagle](Eagle.md)](../images/EagleFV.jpg){ class="figure" } The **Eagle**
-is the flight variant of [BattleFrame Robotics](BattleFrame_Robotics.md)
-developed by the [New Conglomerate](../etc/New_Conglomerate.md).
+![[Eagle](Eagle.md)](../images/EagleFV.jpg){ class="figure" } The **Eagle** is
+the flight variant of [BattleFrame Robotics](BattleFrame_Robotics.md) developed
+by the [New Conglomerate](../etc/New_Conglomerate.md).
 
 Flight variants are single-pilot BFRs with a flight pack on their backs to allow
 the BFR to fly vertically for a short amount of time (in a similar manner to the
@@ -20,14 +20,15 @@ flight variants can run and walk much faster than the ground variants, giving
 them the ability to flee relatively quickly when under attack.
 
 ![
-[VS](../etc/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){ class="figure" }
+[VS](../etc/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){
+class="figure" }
 
 ## Pilot Weapons
 
 The pilot weapons available to the Eagle are
 
 - The [Hammer](../items/Hammer.md) (Anti-Infantry)
-- The [Sparrow](../items/Sparrow_(BFR).md) Missile Pod (Anti-Aircraft)
+- The [Sparrow](<../items/Sparrow_(BFR).md>) Missile Pod (Anti-Aircraft)
 - The [Anti-Tank Machine Gun](../weapons/Anti-Tank_Machine_Gun.md)
   (Anti-Vehicular)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
@@ -36,5 +37,3 @@ The pilot weapons available to the Eagle are
 The pilot can equip two of these weapons, in any combination. Additionally, it
 is possible to manually deactivate one of the weapons, using them one at a time
 (one weapon must always remain active, however).
-
-

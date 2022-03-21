@@ -1,12 +1,13 @@
 ![ trunk filled with ammunition and
-extra repair gear.](../images/MagTrunk.jpg){ class="figure" }
+extra repair gear.](../images/MagTrunk.jpg){
+class="figure" }
 
 Similar to a soldier's [Inventory](Inventory.md), trunks are the compartments in
 [vehicles](category:_Vehicles.md) for storing
 [ammunition](../items/Ammunition.md) and supplies. Most vehicle weapons are fed
 directly from the trunk, with the exceptions being the
-[Flail](../vehicles/Flail.md) and [Switchblade](../items/Switchblade.md), which use
-on-board capacitors for their ammunition.
+[Flail](../vehicles/Flail.md) and [Switchblade](../items/Switchblade.md), which
+use on-board capacitors for their ammunition.
 
 Trunks are of varying size in relation to the vehicle's mass and function.
 
@@ -41,4 +42,3 @@ gunner to do a manual reload.)
 [Wraiths](../vehicles/Wraith.md), [Phantasms](../vehicles/Phantasm.md),
 [Flails](../vehicles/Flail.md), and [Switchblades](../items/Switchblade.md) have
 empty trunks by default.
-

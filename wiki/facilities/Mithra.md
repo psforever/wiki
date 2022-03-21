@@ -9,5 +9,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 It is a [Hack-and-Hold](../terminology/Hack-and-Hold.md) Facility. There are no
 [Towers](../locations/Towers.md) close to the Facility.
-
-

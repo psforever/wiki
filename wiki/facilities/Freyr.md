@@ -2,8 +2,8 @@
 [Esamir](../locations/Esamir.md). It is located at
 [grid](../terminology/Map_grid.md) G/H11.
 
-The [facility](../locations/Facilities.md) shares the central island with [Eisa](Eisa.md). It
-is in the southwestern corner of the island.
+The [facility](../locations/Facilities.md) shares the central island with
+[Eisa](Eisa.md). It is in the southwestern corner of the island.
 
 Freyr is linked to Eisa [Technology Plant](../locations/Technology_Plant.md),
 [Vidar](Vidar.md) [Amp Station](../locations/Amp_Station.md), and the
@@ -16,5 +16,3 @@ Freyr is a [Sub-Capitol](../locations/Sub-Capitol.md).
 
 **Freyr** is the name of one of the primary dieties in Norse mythology. See
 [Wikipedia](http://en.wikipedia.org/wiki/Freyr) article.
-
-

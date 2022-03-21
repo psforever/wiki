@@ -38,5 +38,3 @@
 
 The Black Ops Mercenary [Merit](Merit_Commendations.md) is awarded when a Player
 gets turned into a [Black Ops](../terminology/Black_Ops.md).
-
-

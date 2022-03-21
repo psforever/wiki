@@ -1,5 +1,5 @@
-The Chainblade Massacre is an [Event](Events.md) held during the Halloween period
-(October/November) of 2006-2008.
+The Chainblade Massacre is an [Event](Events.md) held during the Halloween
+period (October/November) of 2006-2008.
 
 Assassins were present and merits handed out only during the 2006 event, though
 the general gameplay is the same for all years.
@@ -16,7 +16,7 @@ On Halloween and the days surrounding, they'll be no trick or treating in
 stretch across the island of Extinction, but it will not spill from ammunition
 of firearms nor from the explosion of rockets. No! The blood in this battle will
 spill only from combat knives. It will be bloody. It will be dangerous. It will
-be the [Chainblade](../items/Chainblade.md) Massacre.
+be the [Chainblade](../weapons/Chainblade.md) Massacre.
 
 Upon entering the massacre lands, soldiers will be subject to the following:
 
@@ -73,5 +73,3 @@ However, assassinating someone hidden within your own empire will not be
 rewarded and will result only in grief. The organization member names have not
 been discovered but soldiers killing a member will secretly find themselves
 rewarded with the merit.
-
-

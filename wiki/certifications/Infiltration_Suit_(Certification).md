@@ -3,7 +3,7 @@
 | **Type**               | Armor                                              |
 | **Provides Access To** | [Infiltration Suit](../armor/Infiltration_Suit.md) |
 | **Pre-requisite**      | \-                                                 |
-| **Required For**       | [Phantasm](Phantasm_(Certification).md)          |
+| **Required For**       | [Phantasm](<Phantasm_(Certification).md>)          |
 | **Cert Point Cost**    | 2                                                  |
 | **Protection**         | 0                                                  |
 | **Holsters**           | 1 Pistol                                           |
@@ -19,5 +19,3 @@ Vision and [Audio Amplifier](../implants/Audio_Amplifier.md)
 [Implants](../implants/Implants.md) will aid other players in detecting you. The
 Infiltration Suit provides no armor protection, doesn't allow the use of a
 rifle, and has a very small inventory.
-
-

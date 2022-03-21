@@ -19,9 +19,9 @@ The [Striker](Striker.md) is the [Terran Republic](../etc/Terran_Republic.md)'s
 the [Striker](Striker.md) can "lock on" to any vehicle,
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) unit,
 [Phalanx wall turret](../items/Phalanx.md), or
-[Spitfire Turret](Adaptive_Construction_Engine.md#spitfire-turret) which will guide the missle to its target.
-(The [reticle](../terminology/Reticle.md) must be kept on the target to maintain
-the "lock.")
+[Spitfire Turret](Adaptive_Construction_Engine.md#spitfire-turret) which will
+guide the missle to its target. (The [reticle](../terminology/Reticle.md) must
+be kept on the target to maintain the "lock.")
 
 In secondary mode, the [Striker](Striker.md) fires an unguided "dumbfire"
 missile.
@@ -37,8 +37,3 @@ Shots to kill:
 | [Vanguard](../vehicles/Vanguard.md)            | 36 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields applied)
-
-
-
-
-

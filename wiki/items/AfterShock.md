@@ -8,5 +8,3 @@ This bundle's release coincided with the introduction of
 Also see:
 
 - [PlanetSide](../etc/PlanetSide.md)
-
-

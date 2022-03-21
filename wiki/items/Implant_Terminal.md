@@ -1,6 +1,6 @@
-![](../images/PSScreenShot0282.jpg){ class="figure" } The Implant
-Terminal inserts cybernetic devices called [Implants](../implants/Implants.md)
-into various points, or slots, of a soldier's body.
+![](../images/PSScreenShot0282.jpg){ class="figure" } The Implant Terminal
+inserts cybernetic devices called [Implants](../implants/Implants.md) into
+various points, or slots, of a soldier's body.
 
 These devices enhance a soldier's abilities such as speed, senses, stealth,
 healing, or data analysis depending on the implant chosen. The terminal is able
@@ -17,16 +17,15 @@ two boomers near the top of the terminal on the side. Other weapons will have a
 very hard time damaging the terminal as the hitbox is so small.
 
 Note: To hack an Implant Terminal using the
-[Hacking](../certifications/Hacking_(Certification).md)
+[Hacking](<../certifications/Hacking_(Certification).md>)
 [Certification](../certifications/Certification.md), stand at the front of the
 terminal and point your [REK](../weapons/Remote_Electronics_Kit.md) near the top
 of the device to start hacking.
 
 ### Interface: Add/Remove Implants
 
-![thumb](../images/Implant_interface.jpg) The Window pictured to the right allows the
-user to install implants from the left pane or remove them from the right pane.
+![thumb](../images/Implant_interface.jpg) The Window pictured to the right
+allows the user to install implants from the left pane or remove them from the
+right pane.
 
 ### [Available Implants](../implants/Implants.md)
-
-

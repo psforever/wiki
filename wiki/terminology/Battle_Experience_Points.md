@@ -24,6 +24,7 @@ based on how many unique enemies and squadmates were within the
 [SOI](../locations/Sphere_of_Influence.md) during the ten minutes prior to and
 during the hack itself and for how long. This figure caps at 2250 BEP per
 capture.
+
 <!-- See
 [this link](http://forums.station.sony.com/ps/posts/list.m?topic_id=22100000022)
 for a more detailed explaination. -->
@@ -39,17 +40,15 @@ continent for the first time, using a looted gun for the first time, discovering
 
 ANT Runs: A soldier successfully refueling a facility using an
 [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md) (or
-[BFR](../vehicles/BattleFrame_Robotics.md) [NTU Siphon](../weapons/NTU_Siphon.md)) earns
-experience. The experience gained varies depending how
-muc../items/NTU.md./NTU.md) the base requires to reach 100% capacity, and is
-rationed out to the ANT owner in 20 BEP ticks during refueling. Squad mates
-within the same zone also receive 20 BEP for each tick. Note: You will only
-receive BEP for filling up a [neutral](Neutral.md) base if it has a friendly
-hack on it.
+[BFR](../vehicles/BattleFrame_Robotics.md)
+[NTU Siphon](../weapons/NTU_Siphon.md)) earns experience. The experience gained
+varies depending how muc../items/NTU.md./NTU.md) the base requires to reach 100%
+capacity, and is rationed out to the ANT owner in 20 BEP ticks during refueling.
+Squad mates within the same zone also receive 20 BEP for each tick. Note: You
+will only receive BEP for filling up a [neutral](Neutral.md) base if it has a
+friendly hack on it.
 
 ## See also
 
 - [Command Experience Points](Command_Experience_Points.md)
 - [Support Experience Points](Support_Experience_Points.md)
-
-

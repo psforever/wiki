@@ -211,7 +211,7 @@ This series of [Merit Commendations](Merit_Commendations.md) is awarded for:
 <tr>
 <td>
 
-[Basic Weapons](Basic_Weapons_(Merit).md)
+[Basic Weapons](<Basic_Weapons_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -413,7 +413,7 @@ This series of [Merit Commendations](Merit_Commendations.md) is awarded for:
 <tr>
 <td>
 
-[Elite Assault](Elite_Assault_(Merit).md)
+[Elite Assault](<Elite_Assault_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -1045,7 +1045,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Heavy Weapons](Heavy_Assault_(Merit).md)
+[Heavy Weapons](<Heavy_Assault_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -2390,7 +2390,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Sniper](Sniper_(Merit).md)
+[Sniper](<Sniper_(Merit).md>)
 
 </td>
 <td class="mitd">
@@ -2592,7 +2592,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Special Assault](Special_Assault_(Merit).md)
+[Special Assault](<Special_Assault_(Merit).md>)
 
 </td>
 <td class="mitd">

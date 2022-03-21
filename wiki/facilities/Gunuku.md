@@ -1,6 +1,5 @@
-![](../images/Gunuku.jpg){ class="figure" }
-![](../images/Gunuku_map.jpg){ class="figure" } Gunuku is
-[Cyssor](../locations/Cyssor.md)'s
+![](../images/Gunuku.jpg){ class="figure" } ![](../images/Gunuku_map.jpg){
+class="figure" } Gunuku is [Cyssor](../locations/Cyssor.md)'s
 [Dropship Center](../locations/Dropship_Center.md). It is located in
 [map grid](../terminology/Map_grid.md) **M10**.
 
@@ -19,5 +18,3 @@ of Gunuku's island, guarding the south bridge approaches. A hill and some woods
 overlook this tower just to the north.
 
 **Gunuku** is the name of a principal Nigerian diety in African mythology.
-
-

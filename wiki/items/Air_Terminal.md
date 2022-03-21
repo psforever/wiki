@@ -15,5 +15,3 @@ An air terminal is a vehicular Terminal that only allows you to pull Air
 - [Dropship Terminal](../locations/Dropship_Terminal.md)
 - [Sanctuary Air Terminal](../terminology/Sanctuary_Air_Terminal.md)
 - [Ancient Air Vehicle Terminal](Ancient_Air_Vehicle_Terminal.md)
-
-

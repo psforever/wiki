@@ -53,8 +53,8 @@ information.
 ## Aegis Shield Generator
 
 The Aegis Shield Generator provides an area for Friendly troops to safely
-Repair/heal.md themselves, take cover or refill their ammunition, if upgraded.
-For more information see
+Repair/heal themselves, take cover or refill their ammunition, if upgraded. For
+more information see
 [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md).
 
 ## One-Manned Field Turret (OMFT)
@@ -104,5 +104,3 @@ efficiently, resulting in increased repair efficiency for
 [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
 equipment, and [vehicles](../vehicles/Vehicle.md) (2x, from 32 to 64) over that
 of a standard engineer.
-
-

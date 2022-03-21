@@ -1,15 +1,15 @@
 ![](../images/PSScreenShot0255.jpg "PSScreenShot0255.jpg")
 
-|                            |                                                                                  |
-| -------------------------- | -------------------------------------------------------------------------------- |
-| **Certification Required** | None                                                                             |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                     |
-| **Primary Mode**           | Activate selected Command Resource                                               |
-| **Secondary Mode**         | \-                                                                               |
-| **Ammunition**             | \-                                                                               |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                           |
-| **Magazine Capacity**      | \-                                                                               |
-| **Zoom**                   | None                                                                             |
+|                            |                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------- |
+| **Certification Required** | None                                                                                |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                        |
+| **Primary Mode**           | Activate selected Command Resource                                                  |
+| **Secondary Mode**         | \-                                                                                  |
+| **Ammunition**             | \-                                                                                  |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                              |
+| **Magazine Capacity**      | \-                                                                                  |
+| **Zoom**                   | None                                                                                |
 | **Note**                   | Requires the player to be [Command Rank](../terminology/Command_Rank.md) 2 or above |
 
 **Command Uplink Device (CUD)**
@@ -34,14 +34,10 @@ field commander.
    [CR](../terminology/Command_Rank.md) 2 and requires user to be Squad Leader.
 6. **Recall Platoon to Sanctuary** Allows the user to send out a Recall message
    to his entire Platoon, telling them to Recall to the Sanctuary. Becomes
-   available at [CR](../terminology/Command_Rank.md) 2 and requires the user to be
-   the Platoon Leader.
+   available at [CR](../terminology/Command_Rank.md) 2 and requires the user to
+   be the Platoon Leader.
 
 Note: The **CUD** cannot be acquired at an
-[equipment terminal](../items/Equipment_Terminal.md) until the character has achieved
-[Command Rank](../terminology/Command_Rank.md) 2. This includes the VR Shooting
-range.
-
-
-
-
+[equipment terminal](../items/Equipment_Terminal.md) until the character has
+achieved [Command Rank](../terminology/Command_Rank.md) 2. This includes the VR
+Shooting range.

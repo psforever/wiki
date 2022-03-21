@@ -1,5 +1,5 @@
-Hurakan is one of the three [Interlink Facilities](../locations/Interlink.md)
-on [Hossin](../locations/Hossin.md). It is in the South West, in grid E13.
+Hurakan is one of the three [Interlink Facilities](../locations/Interlink.md) on
+[Hossin](../locations/Hossin.md). It is in the South West, in grid E13.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
@@ -9,5 +9,3 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 Hurakan is a Hack-and-Hold Facility, and has a Watch Tower to it's North,
 outside of it's [SOI](../locations/Sphere_of_Influence.md).
-
-

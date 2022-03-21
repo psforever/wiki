@@ -1,5 +1,5 @@
-Each [vehicle](../vehicles/Vehicle.md) in [Planetside](../etc/PlanetSide.md) has a
-different armor value. [Weapons](../weapons/Weapon.md) do different amounts of
+Each [vehicle](../vehicles/Vehicle.md) in [Planetside](../etc/PlanetSide.md) has
+a different armor value. [Weapons](../weapons/Weapon.md) do different amounts of
 damage to each vehicle, depending on the type of vehicle targeted. For example,
 the [Lancer](../weapons/Lancer.md) does 175 damage to ground vehicles but only
 125 damage to aircraft. Similarly, anti-aircraft
@@ -1209,5 +1209,3 @@ is 10500. All values given are the effective armor.
 
 BFR shields take twice as long to regenerate while standing vs. while crouched.
 Once depleted, the shields do not start regenerating for \~2 seconds.
-
-

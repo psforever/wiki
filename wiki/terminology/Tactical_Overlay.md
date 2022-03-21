@@ -1,5 +1,6 @@
 ![ Battle represented on the
-Tactical Overlay](../images/Tactical-Overlay.jpg){ class="figure" } The Tactical Overlay is a grid of colored blocks on the
+Tactical Overlay](../images/Tactical-Overlay.jpg){
+class="figure" } The Tactical Overlay is a grid of colored blocks on the
 continent map that can be used to monitor friendly troop deployment, detect
 enemy forces, and visualize the flow of battle.
 
@@ -56,5 +57,3 @@ Certain enemy units do not show up on the tactical overlay. These include:
   active [Geowarp](../locations/Geowarp.md) bubble)
 
 Occupants of undetectable units are also undetectable (e.g. galaxy passengers)
-
-

@@ -44,4 +44,3 @@ be purchasable.
 
 Apparent namesake:
 [Consolidated B-24 Liberator](http://en.wikipedia.org/wiki/B-24_Liberator)
-

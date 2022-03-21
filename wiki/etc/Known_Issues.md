@@ -75,5 +75,3 @@ list of currently known bugs and ways to work around them.`
     proper health to display.
 
 </text>
-
-

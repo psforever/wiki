@@ -14,9 +14,9 @@ activities, as without it, soldiers would die far too quickly to be effective.
 
 Two of the most basic support activies, but possibly two of the most important.
 Without this, soldiers would not last more than two duels, as their
-[health](../terminology/Health.md) and [armor](../armor/Armor_Index.md) would be far too low to
-go on. This is where the medic and engineer come in to heal and repair a soldier
-to help him fight far longer than he would normally be able to.
+[health](../terminology/Health.md) and [armor](../armor/Armor_Index.md) would be
+far too low to go on. This is where the medic and engineer come in to heal and
+repair a soldier to help him fight far longer than he would normally be able to.
 
 Available Support Merits:
 
@@ -45,10 +45,11 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 Equipment Support involves using a
 [Nano Dispenser](../weapons/Nano_Dispenser.md) from the Engineering
 certification to repair [vehicles](../vehicles/Vehicle.md),
-[Phalanx](../items/Phalanx.md) turrets, and [Spitfires](../weapons/Adaptive_Construction_Engine.md#spitfire-turret). Generally,
-it is more difficult to find dedicated Equipment supporters in the field since
-Nano Dispensers are harder to carry since a player has to sacrifice an entire
-rifle slot, as opposed to a
+[Phalanx](../items/Phalanx.md) turrets, and
+[Spitfires](../weapons/Adaptive_Construction_Engine.md#spitfire-turret).
+Generally, it is more difficult to find dedicated Equipment supporters in the
+field since Nano Dispensers are harder to carry since a player has to sacrifice
+an entire rifle slot, as opposed to a
 [Body Armor Nano Kit](../weapons/Body_Armor_Nano_Kit.md), Medical Applicator, or
 [Remote Electronics Kit](../weapons/Remote_Electronics_Kit.md), in which the
 player only has to sacrifice a pistol slot.
@@ -62,7 +63,7 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 
 Hacking Support involves using a
 [Remote Electronics Kit](../weapons/Remote_Electronics_Kit.md) along with the
-[Hacking](../certifications/Hacking_(Certification).md) or
+[Hacking](<../certifications/Hacking_(Certification).md>) or
 [Advanced Hacking](../certifications/Advanced_Hacking.md) to hack enemy
 terminals for your [Empire](../terminology/Empire.md) to use for a short amount
 of time. This type of support is invaluable as soldiers who are caught deep
@@ -118,9 +119,10 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 When a [vehicle](../vehicles/Vehicle.md) is heavily damaged and far into enemy
 territory without an Engineer nearby to repair him, the
 [Lodestar](../vehicles/Lodestar.md) is where he turns. A floating
-[repair silo](../items/Repair_Rearm_Silo.md), the lodestar provides much needed repairs to
-vehicles who would be long gone without it. A powerful support tool in the right
-hand, the Lodestar fills a vital role in [PlanetSide](PlanetSide.md).
+[repair silo](../items/Repair_Rearm_Silo.md), the lodestar provides much needed
+repairs to vehicles who would be long gone without it. A powerful support tool
+in the right hand, the Lodestar fills a vital role in
+[PlanetSide](PlanetSide.md).
 
 Available [Merit Commendations](../merits/Merit_Commendations.md):
 
@@ -147,5 +149,3 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 - [Assists](../terminology/Assist.md)
 - [Support Experience Points](../terminology/Support_Experience_Points.md)
 - [Support Merit Commendations](../merits/Support_Merit_Commendations.md)
-
-

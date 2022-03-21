@@ -475,14 +475,12 @@ the game) in a special 4th display area above the other three. The highest
 merit series stops at year 6.
 
 Upon earning certain **Term of Service** merits, some hand-held weaponry and
-[armor](../armor/Armor_Index.md) can be obtained for free, without the need for the normally
-associated [certification](../certifications/Certification.md):
+[armor](../armor/Armor_Index.md) can be obtained for free, without the need for
+the normally associated [certification](../certifications/Certification.md):
 
 - **Two Year Term of Service Award**:
   [Heavy Scout Rifle](../weapons/Heavy_Scout_Rifle.md) and
   [Scorpion](../weapons/Scorpion.md)
 - **Three Year Term of Service Award**: [Dragon](../weapons/Dragon.md)
 - **Five Year Term of Service Award**:
-  [Reinforced Exo-Suit](../certifications/Reinforced_Exo-Suit_(Certification).md)
-
-
+  [Reinforced Exo-Suit](<../certifications/Reinforced_Exo-Suit_(Certification).md>)

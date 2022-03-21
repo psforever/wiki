@@ -1,5 +1,5 @@
-![](../images/Avenger.jpg){ class="figure" }
-![](../images/AvengerInside.jpg){ class="figure" }
+![](../images/Avenger.jpg){ class="figure" } ![](../images/AvengerInside.jpg){
+class="figure" }
 
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -22,5 +22,3 @@ the [Dual Cycler](../armor/Dual-Cycler.md)
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) weapon. The rate of fire is
 similar to a locked-down Dual Cycler MAX. It has unlimited ammunition, though it
 does have to reload after its clip has been depleted.
-
-

@@ -18,4 +18,3 @@ The Tank Defense Cannon is similar to the
 projectile and less arc in its trajectory. It has the longest effective range of
 any [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Vehicular weapon, and thus
 is good for relatively long range area shelling.
-

@@ -31,5 +31,3 @@
 This [Certification](Certification.md) is required to obtain the
 [Rifleman](../merits/Rifleman.md)
 [Merit Commendation](../merits/Merit_Commendations.md).
-
-

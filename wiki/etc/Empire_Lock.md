@@ -10,5 +10,3 @@ Empire Lock status can be viewed from the
 one of the side windows.
 
 See also: [Population lock](../terminology/Population_Lock.md)
-
-

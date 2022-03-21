@@ -8,6 +8,3 @@
 | **Quantity per pack**    | 9 missiles                                     |
 
 **Phoenix Missile**
-
-
-

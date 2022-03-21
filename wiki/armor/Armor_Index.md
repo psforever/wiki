@@ -17,8 +17,7 @@
 ### Terran Republic
 
 - [Pounder](Pounder.md)
-- [Dual-Cycler](Dual-Cycler.md)
-  (["DC"](../terminology/Acronyms_and_Slang.md))
+- [Dual-Cycler](Dual-Cycler.md) (["DC"](../terminology/Acronyms_and_Slang.md))
 - [Burster](Burster.md)
 
 ### Vanu Sovereignty

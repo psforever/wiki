@@ -135,5 +135,3 @@
   [Heavy Assault](../certifications/Heavy_Assault.md),
   [Special Assault](../certifications/Special_Assault.md) and
   [Sniping](../certifications/Sniping.md) Merits.
-
-

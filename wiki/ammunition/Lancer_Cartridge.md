@@ -8,6 +8,3 @@
 | **Quantity per pack**    | 18 Energy Cells                                |
 
 **Large Cartridge**
-
-
-

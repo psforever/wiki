@@ -102,7 +102,8 @@ have this feature).
 
 - **Base Type** --Five base types exist, each having a different layout, and
   providing different features and benefits;
-  [Amp Station](../locations/Amp_Station.md), [Tech Plant](../locations/Technology_Plant.md),
+  [Amp Station](../locations/Amp_Station.md),
+  [Tech Plant](../locations/Technology_Plant.md),
   [Bio Laboratory](../locations/Bio_Laboratory.md),
   [Interlink Facility](../locations/Interlink.md), and
   [Dropship Center](../locations/Dropship_Center.md).
@@ -134,8 +135,8 @@ have this feature).
   for all to see. Its location updates dynamically, as the LLU is moved across
   the continent, making interception possible. The lactice link that the LLU
   must move upon will flash.
-- **Module Location** --As with the LLU, any [Modules](Modules.md) in transit are
-  shown on the map in a similar manner.
+- **Module Location** --As with the LLU, any [Modules](Modules.md) in transit
+  are shown on the map in a similar manner.
 - **Player Location** --The player is shown by a white arrow, indicating both
   position and facing.
 - **Squad and Platoon locations** --Members of a player's current squad are
@@ -164,9 +165,9 @@ have this feature).
   be called out quickly with chat text. The letters along the top and numbers
   down the side make up a co-ordinate; C10, G6, and so on.
 - **Deployable Information** --Friendly
-  [ACE](../weapons/Adaptive_Construction_Engine.md) and [FDU](../weapons/Field_Deployment_Unit.md)
-  deployables will show on the map if zoomed in close enough. Each has their own
-  special icon.
+  [ACE](../weapons/Adaptive_Construction_Engine.md) and
+  [FDU](../weapons/Field_Deployment_Unit.md) deployables will show on the map if
+  zoomed in close enough. Each has their own special icon.
 
 ## Special Modes
 
@@ -187,5 +188,3 @@ situations.
   used to allow the driver of a vehicle, (or infantryman) to select a broadcast
   Warp destination. Available choices are shown by spining cyan circles on the
   warp gates.
-
-

@@ -4,9 +4,11 @@
 differentiate between enemies and friendlies, allowing friendlies to activate
 and use its benefits but disallowing enemies. Objects which use IFF are:
 
-- Exterior [tower](../locations/Towers.md) and [facility](../locations/Facilities.md) doors, as well as
+- Exterior [tower](../locations/Towers.md) and
+  [facility](../locations/Facilities.md) doors, as well as
   [Control Console](../locations/Control_Console.md),
-  [generator](../items/Generator.md), and [spawn room](../locations/Spawn_Room.md) doors.
+  [generator](../items/Generator.md), and
+  [spawn room](../locations/Spawn_Room.md) doors.
 - [Equipment terminals](../items/Equipment_Terminal.md)
 - [Medical terminals](../items/Medical_Terminal.md)
 - [Lockers](../items/Lockers.md)
@@ -20,5 +22,3 @@ include vehicles, which change ownership to that of the hacking soldier, and
 spawn tubes and main terminals, which cannot be hacked. Hacked IFF locks can be
 re-locked by a friendly soldier using a
 [REK](../weapons/Remote_Electronics_Kit.md).
-
-

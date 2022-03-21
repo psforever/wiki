@@ -30,5 +30,3 @@ only player kills will count toward merits and give SEP.
 - [Support Experience Points](Support_Experience_Points.md)
 - [Support Merit Commendations](../merits/Support_Merit_Commendations.md)
 - [Support](../etc/Support.md)
-
-

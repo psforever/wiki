@@ -225,5 +225,3 @@ Air Defender levels are earned by eliminating Enemy Soldiers using Anti-Aircraft
 [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Aircraft weapons, and the
 [flak](../weapons/Flak.md) cannon on upgraded
 [Wall Turrets](../items/Phalanx.md).
-
-

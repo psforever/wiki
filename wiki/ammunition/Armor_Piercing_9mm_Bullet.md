@@ -22,6 +22,3 @@ should be employed.
 
 Since AP 9mm Bullets are for use in small arms, they can pass through the energy
 shields of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).
-
-
-

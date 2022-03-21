@@ -5,5 +5,3 @@
 
 [Lattice](../terminology/Lattice.md) links: [Iva](Iva.md), [Akua](Akua.md),
 [Drakulu](Drakulu.md), [Rehua](Rehua.md)
-
-

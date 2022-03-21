@@ -15,7 +15,7 @@ Sensor Shield will also prevent damage from the low level
 It does not protect against an installed [Pain Module](../etc/Pain_Module.md)
 though.
 
-For [infiltrators](../certifications/Infiltration_Suit_(Certification).md),
+For [infiltrators](<../certifications/Infiltration_Suit_(Certification).md>),
 the Sensor Shield will remain on indefinitely inside a pain field as long you
 stay in one position. The Sensor Shield will eventually run out of
 [Stamina](../terminology/Stamina.md) for [infantry](../terminology/Infantry.md).
@@ -28,5 +28,3 @@ you if you are within the [SOI](../locations/Sphere_of_Influence.md) of a base
 with Interlink benefits and you try to use an item
 ([weapons](:category:Weapons), [REKs](../weapons/Remote_Electronics_Kit.md),
 etc.).
-
-

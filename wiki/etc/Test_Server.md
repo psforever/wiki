@@ -25,6 +25,4 @@ and the Test Server version which is on a future patch. By keeping two different
 PlanetSide folders, the player is able to easily distinguish which is the live
 version and which is the test version.
 
-
-
 Guides](Category:Game_Guides.md)

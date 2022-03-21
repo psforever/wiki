@@ -63,5 +63,3 @@ This continent is also refered to as
 - [Igaluk](../facilities/Igaluk.md)
 - [Nerrivik](../facilities/Nerrivik.md) (Sub-Capitol)
 - [Pinga](../facilities/Pinga.md)
-
-

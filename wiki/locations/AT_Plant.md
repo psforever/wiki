@@ -10,5 +10,3 @@ The AT Plant features:
   [Ancient Ground Vehicle Terminal](../items/Ancient_Ground_Vehicle_Terminal.md)
 - 2 [Ancient Air Vehicle Terminals](../items/Ancient_Air_Vehicle_Terminal.md)
 - [Teleporters](../terminology/Teleporter.md)
-
-

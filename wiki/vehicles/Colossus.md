@@ -1,5 +1,6 @@
 ![ of the
-[Terran Republic](../etc/Terran_Republic.md)](../images/Colussus.jpg){ class="figure" }
+[Terran Republic](../etc/Terran_Republic.md)](../images/Colussus.jpg){
+class="figure" }
 
 Gunner variants have, in addition the the pilot weapons, an extra gunner pod on
 their backs where a second soldier can mount a secondary gun mounted atop the
@@ -14,7 +15,7 @@ The pilot weapons available to the Colossus are
 
 - The [Tank Defense Cannon](../weapons/Tank_Defense_Cannon.md) (Anti-Vehicular)
 - The [Rotary Chaingun](../items/Rotary_Chaingun.md) (Anti-Infantry)
-- The [Burster](../items/Burster_(BFR).md) (Anti-Aircraft)
+- The [Burster](<../items/Burster_(BFR).md>) (Anti-Aircraft)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
 - The [Armor Siphon](../weapons/Armor_Siphon.md) (Anti-Vehicular)
 
@@ -32,5 +33,3 @@ Only one gunner weapon can be used at a time.
 
 ![ Colossus (Classic
 model)](../images/PSScreenShot0315.jpg){ class="figure" }
-
-

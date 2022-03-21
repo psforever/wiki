@@ -97,5 +97,3 @@ The fourth stage of the
 merits.
 
 This Merit is awarded for killing Enemies while using any means necessary.
-
-

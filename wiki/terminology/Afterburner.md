@@ -23,5 +23,3 @@ Afterburners are equipped in:
 system. Instead, SPACE will give the pilot a belly-camera view of the ground
 below, to aid in setting up bomb runs. To compensate, the Liberator does have a
 fairly powerful 25mm Chaingun in the tail.)
-
-

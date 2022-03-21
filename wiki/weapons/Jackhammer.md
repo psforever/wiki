@@ -1,5 +1,6 @@
 ![ Soldier carrying
-a Jackhammer](../images/PSScreenShot0243.jpg){ class="figure" }
+a Jackhammer](../images/PSScreenShot0243.jpg){ class="figure"
+}
 
 |                            |                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,17 +1,18 @@
 ![ Soldier carrying
-a Suppressor](../images/PSScreenShot0299.jpg){ class="figure" }
+a Suppressor](../images/PSScreenShot0299.jpg){ class="figure"
+}
 
-|                            |                                                                                                          |
-| -------------------------- | -------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                             |
-| **Primary Mode**           | Single Shot                                                                                              |
-| **Secondary Mode**         | \-                                                                                                       |
+|                            |                                                                                                                       |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                             |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                          |
+| **Primary Mode**           | Single Shot                                                                                                           |
+| **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
-| **Range**                  | 200m                                                                                                     |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                    |
-| **Magazine Capacity**      | 25                                                                                                       |
-| **Zoom**                   | x2                                                                                                       |
+| **Range**                  | 200m                                                                                                                  |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                                 |
+| **Magazine Capacity**      | 25                                                                                                                    |
+| **Zoom**                   | x2                                                                                                                    |
 
 **Suppressor**
 
@@ -37,4 +38,3 @@ Shots to kill:
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
 [Empire Incentives](../etc/Empire_Incentives.md) applied)
-

@@ -32,9 +32,9 @@ over an enemy base. Your [Battle Rank](../terminology/Battle_Rank.md) (BR)
 increases the more BEP you collect.
 
 With each Battle Rank you gain one
-[certification point](../certifications/Certification_points.md) to invest into your abilities
-like piloting certain [vehicles](category:_Vehicles.md) or using particular
-weapons. Also with Battle Rank 6, 12 and 18 you can add
+[certification point](../certifications/Certification_points.md) to invest into
+your abilities like piloting certain [vehicles](category:_Vehicles.md) or using
+particular weapons. Also with Battle Rank 6, 12 and 18 you can add
 [Implants](../implants/Implants.md) to yourself that also provide new abilities.
 The highest BR to achieve is 23, but it will take a long time to get there (I
 have just reached BR 12 after 3 weeks). The higher your BR, the slower you will
@@ -125,9 +125,10 @@ gun") to repair things and have Nanite Canisters in your inventory.
 #### Like to be a foot soldier? (Grunt)
 
 If you feel more like fighting close combat, get a good armor certificate, like
-the [reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) (3 CP) plus some weapons
-certifications, like [Medium Assault](../certifications/Medium_Assault.md) (2 CP) and possibly
-some extra weapons certs like [Heavy](../certifications/Heavy_Assault.md) or
+the [reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) (3 CP) plus some
+weapons certifications, like
+[Medium Assault](../certifications/Medium_Assault.md) (2 CP) and possibly some
+extra weapons certs like [Heavy](../certifications/Heavy_Assault.md) or
 [Special Assault](../certifications/Special_Assault.md),
 [Sniping](../certifications/Sniping.md) or
 [Anti-Vehicular](../certifications/Anti-Vehicular.md). With only Medium assault
@@ -202,7 +203,8 @@ This will get you either
 
 Bases can be confusing. After 3 weeks, I still havent memorized every single
 base layout. There are [Amp Stations](../locations/Amp_Station.md),
-[Bio Labs](../locations/Bio_Laboratory.md), [Tech Plants](../locations/Technology_Plant.md),
+[Bio Labs](../locations/Bio_Laboratory.md),
+[Tech Plants](../locations/Technology_Plant.md),
 [Dropship Centers](../locations/Dropship_Center.md), and
 [Interlink Facilities](../locations/Interlink.md), each having a different
 layouts and multiple stories. So I often finding myself wandering through the
@@ -321,8 +323,8 @@ machinery.
 <!-- -->
 
 - For faster equipping after respawning, make use of the favorites system at the
-  equipment terminals. This also works for vehicle trunk space at a
-  Repair/rearm.md terminal.
+  equipment terminals. This also works for vehicle trunk space at a Repair/rearm
+  terminal.
 
 <!-- -->
 
@@ -649,5 +651,3 @@ but it surely results in lots of kills.</i>
 Written by:
 
 (Astrala, TR on Werner. BR 12 when this guide was started, now at BR 15)
-
-

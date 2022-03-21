@@ -1,18 +1,21 @@
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCRexoArmors.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCRexoArmors.jpg){
+class="figure" }
 
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRRexoArmors2.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRRexoArmors2.jpg){
+class="figure" }
 
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_Rexos.jpg){ class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_Rexos.jpg){
+class="figure" }
 
 |                            |                                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------- |
-| **Certification Required** | [Reinforced Exo-Suit](../certifications/Reinforced_Exo-Suit_(Certification).md) |
+| **Certification Required** | [Reinforced Exo-Suit](<../certifications/Reinforced_Exo-Suit_(Certification).md>) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                      |
 | **Armor**                  | 200                                                                               |
 | **Pistol Holsters**        | 2                                                                                 |
@@ -30,7 +33,3 @@ significant tradeoff in terms of mobility. Also, only
 [Ancient Tech](../items/Core_Combat.md#vehicles) vehicles, and
 [Sunderer variants](../vehicles/Sunderer.md) can be driven while wearing this
 armor.
-
-
-
-

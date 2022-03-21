@@ -1,8 +1,8 @@
 All [Equipment Terminals](../items/Equipment_Terminal.md),
 [Landing Pads](../items/Landing_Pad.md) and
-[Repair/Rearm Silos](../items/Repair_Rearm_Silo.md) allow the current
-infantry or vehicle [loadout](../terminology/Loadout.md) to be stored in one of
-a number of presets.
+[Repair/Rearm Silos](../items/Repair_Rearm_Silo.md) allow the current infantry
+or vehicle [loadout](../terminology/Loadout.md) to be stored in one of a number
+of presets.
 
 Held in the 'Favorites' tab of the terminal interface, these allow the soldier
 to instantly equip himself with a previously chosen setup, and get straight back
@@ -18,8 +18,8 @@ has an [Equipment Module](../items/Equipment_Module.md) or you are in the
 
 Likewise, a vehicle's [Trunk](../terminology/Trunk.md) contents can be similarly
 saved and recalled as needed. The [Landing Pad](../items/Landing_Pad.md) and
-[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) share a bank of five
-preset slots.
+[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) share a bank of five preset
+slots.
 
 It is a good idea to prepare at least one of these infantry slots in advance of
 major battles, as physical access to the Equipment terminal of an
@@ -34,5 +34,3 @@ trunks beforehand in [Sanctuary](../locations/Sanctuary.md), the exact contents
 can be replicated at will in the field. e.g. a trunk full of
 [Adaptive Construction Engines](../weapons/Adaptive_Construction_Engine.md) as a
 Wraith favorite.)
-
-

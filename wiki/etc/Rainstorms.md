@@ -3,5 +3,3 @@ Rainstorms are found on [Amerish](../locations/Amerish.md),
 [Extinction](../locations/Extinction.md), [Forseral](../locations/Forseral.md),
 [Hossin](../locations/Hossin.md), [Searhus](../locations/Searhus.md), and the
 three [Sanctuary](../locations/Sanctuary.md) continents.
-
-

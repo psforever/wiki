@@ -4,12 +4,8 @@ and R8.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../locations/Interlink.md)
-  [Irkalla](Irkalla.md)
-- [Technology Plant](../locations/Technology_Plant.md)
-  [Kusag](Kusag.md)
+- [Interlink Facility](../locations/Interlink.md) [Irkalla](Irkalla.md)
+- [Technology Plant](../locations/Technology_Plant.md) [Kusag](Kusag.md)
 
 Lahar is a Hack-and-Hold Facility and has a Gun Tower to thr South West, inside
 it's [SOI](../locations/Sphere_of_Influence.md).
-
-

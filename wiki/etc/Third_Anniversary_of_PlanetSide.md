@@ -100,5 +100,3 @@ controlled. The vehicles that were removed last, were restored first, and this
 process continued untill the vehicles first removed
 ([BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)) were restored
 again.
-
-

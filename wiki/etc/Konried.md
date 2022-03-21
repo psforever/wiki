@@ -5,5 +5,3 @@ populations on both servers. These characters are now on Gemini. Character and
 [outfit](../terminology/Outfit.md) names that already existed on Emerald prior
 to the merge had a "-K" appened to the name. These names can now be seen on
 Gemini.
-
-

@@ -38,4 +38,3 @@ has the [Darklight](../implants/Darklight.md)
 [Implant](../implants/Implants.md), he/she can see
 [cloaked](../armor/Infiltration_Suit.md) enemies at a longer range than normal,
 providing excellent side defense.
-

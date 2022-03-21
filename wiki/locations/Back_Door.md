@@ -1,7 +1,8 @@
 ![on [Nexus](Nexus.md)](../images/Backdoor.jpg){ class="figure" }
 
 ![ Forces defending a
-backdoor against a [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) assault](../images/Back_Door_TR.jpg){ class="figure" }
+backdoor against a [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) assault](../images/Back_Door_TR.jpg){
+class="figure" }
 
 The Back Door is the entry point to the inside of a [Facility](Facilities.md)
 which is located outside of the facilities [Courtyard](Courtyard.md). It is an
@@ -19,5 +20,3 @@ facility's lower levels.
 This hallway, when populated with defenders, is impassable via conventional
 means, although it is sometimes susceptible to the
 [MAX Crash](../etc/MAX_Crash.md) rapid-advance tactic.
-
-

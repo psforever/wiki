@@ -94,5 +94,3 @@ I'm sure there is some more data that can be drawn from this, but it's a good
 start!
 
 [Original Post](http://psforever.net/forum/viewtopic.php?f=11&t=146)
-
-

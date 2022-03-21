@@ -3,17 +3,17 @@
 
 ## Continental Data
 
-|                                  |                                                                                     |
-| -------------------------------- | ----------------------------------------------------------------------------------- |
-| Category:                        | Caustic Atmosphere                                                                  |
-| Climate:                         | Humid, Temperate                                                                    |
-| Landmass:                        | Continent                                                                           |
-| Terrain:                         | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains.  |
-| [Facilities](Facilities.md):     | 11                                                                                  |
-| [Towers](Towers.md):             | 18                                                                                  |
-| Active [Warpgates](Warpgate.md): | 4                                                                                   |
-| Active [Geowarps](Geowarp.md):   | 1                                                                                   |
-| [Capitol](Capitol.md):           | [Interlink Facility](Interlink.md) [Voltan](../facilities/Voltan.md) |
+|                                  |                                                                                    |
+| -------------------------------- | ---------------------------------------------------------------------------------- |
+| Category:                        | Caustic Atmosphere                                                                 |
+| Climate:                         | Humid, Temperate                                                                   |
+| Landmass:                        | Continent                                                                          |
+| Terrain:                         | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains. |
+| [Facilities](Facilities.md):     | 11                                                                                 |
+| [Towers](Towers.md):             | 18                                                                                 |
+| Active [Warpgates](Warpgate.md): | 4                                                                                  |
+| Active [Geowarps](Geowarp.md):   | 1                                                                                  |
+| [Capitol](Capitol.md):           | [Interlink Facility](Interlink.md) [Voltan](../facilities/Voltan.md)               |
 
 ## Description
 
@@ -43,7 +43,8 @@ empire sanctuary links.
 This continent is also refered to as
 [Hos](../terminology/Acronyms_and_Slang.md).
 
-Source: PlanetSide In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
+Source: PlanetSide In-game descriptions, pre- and
+post-[Bending](../etc/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 
@@ -72,5 +73,3 @@ Source: PlanetSide In-game descriptions, pre- and post-[Bending](../etc/The_Bend
 - [Chac](../facilities/Chac.md)
 - [Ghanon](../facilities/Ghanon.md)
 - [Mulac](../facilities/Mulac.md)
-
-

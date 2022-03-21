@@ -11,5 +11,3 @@ The Redoubt Building features:
 - [Health Crystal](../items/Health_Crystal.md)
 - [Repair Crystal](../items/Repair_Crystal.md)
 - [Weapon Energy Crystal](../items/Weapon_Energy_Crystal.md)
-
-

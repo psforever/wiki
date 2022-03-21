@@ -14,6 +14,3 @@ the anti-aircraft weapon on the [Aphelion](../vehicles/Aphelion.md) and
 [BFR](../vehicles/BattleFrame_Robotics.md)'s [trunk](../terminology/Trunk.md) or
 acquired while in the BFR from a
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
-
-
-

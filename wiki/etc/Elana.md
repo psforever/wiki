@@ -3,7 +3,8 @@
 ## [Spiker](../weapons/Spiker.md)
 
 ![ in the
-[Generator](../items/Generator.md) room](../images/Elana_potato.jpg){ class="figure" }
+[Generator](../items/Generator.md) room](../images/Elana_potato.jpg){
+class="figure" }
 
 <h3>
 
@@ -42,7 +43,8 @@ knows you are there.
 
 ![ and a
 [Thumper](../weapons/Thumper.md) in a
-[Bio Laboratory](../locations/Bio_Laboratory.md)](../images/Elana_sweeper.jpg){ class="figure" }
+[Bio Laboratory](../locations/Bio_Laboratory.md)](../images/Elana_sweeper.jpg){
+class="figure" }
 
 The best way to get lots of kills with a Spiker is to use it in an area where a
 number of enemies will be clustered together and you will be at a safe distance.
@@ -122,5 +124,3 @@ shields will go down and they'll take some armor damage. A BFR without shields
 is a sitting duck. So even if you don't kill them on a single pass, they will be
 effectively taken out of the battle so they can repair and let their shields
 regenerate.
-
-

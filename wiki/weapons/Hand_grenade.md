@@ -25,5 +25,3 @@ Holding fire longer increases the throw distance.
   [Jammer grenade](Jammer_Grenade.md)
 - ![](../images/Frag-Hand-grenade-Icon.jpg){ class="figure" }
   [Fragmentation grenade](Fragmentation_grenade.md)
-
-

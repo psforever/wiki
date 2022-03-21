@@ -1,11 +1,12 @@
 A [Home Continent](Home_Continent.md) (or Home Planet in the
 [Post-Bending](../etc/The_Bending.md) era) is simply a [planet](Planet.md), or
 [continent](../locations/Continent.md) which possesses a link to an
-[Empire](../terminology/Empire.md)'s [Sanctuary](../locations/Sanctuary.md). By link it is
-implied that this connection cannot be severed, as in the Sanctuary contains a
-[warpgate](Warpgate.md) which leads directly to that planet without needing to
-broadcast there. Patch [3.12.28](../patches/3.12.28.md) (July 31, 2007) changed
-the Home Continents of each empire. The current Empire Home Continents are
+[Empire](../terminology/Empire.md)'s [Sanctuary](../locations/Sanctuary.md). By
+link it is implied that this connection cannot be severed, as in the Sanctuary
+contains a [warpgate](Warpgate.md) which leads directly to that planet without
+needing to broadcast there. Patch [3.12.28](../patches/3.12.28.md) (July
+31, 2007) changed the Home Continents of each empire. The current Empire Home
+Continents are
 
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md): [Ceryshen](Ceryshen.md) &
 [Forseral](Forseral.md)
@@ -18,4 +19,3 @@ the Home Continents of each empire. The current Empire Home Continents are
 
 Historically the VS had Esamir and Amerish, the TR had Ceryshen and Forseral,
 and the NC had Solsar and Hossin.
-
