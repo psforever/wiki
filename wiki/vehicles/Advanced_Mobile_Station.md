@@ -36,8 +36,3 @@ rear).
 Virtually no offensive assault—and many defensive stands—can be successful
 without one or more well-placed **AMSes**.
 
-
-
-
-Vehicles](../Category:Common_Pool_Vehicles.md)
-

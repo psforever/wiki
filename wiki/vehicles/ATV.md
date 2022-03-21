@@ -11,5 +11,3 @@ These light, fast, and maneuverable one-crew vehicles are available with the
 [ATV Certification.](../certifications/ATV_(Certification).md)
 
 
-
-Vehicles](../Category:Ground_Vehicles.md)

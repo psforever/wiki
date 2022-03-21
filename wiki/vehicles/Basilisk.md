@@ -20,7 +20,3 @@ rotary Chainguns.
 
 The twin 12mm rotary Chainguns are best suited for Anti-Infantry use.
 
-
-
-
-Vehicles](../Category:Common_Pool_Vehicles.md)

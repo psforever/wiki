@@ -28,10 +28,3 @@ arc of fire, we suggest you avoid upclose encounters. Like the
 by floating at the surface.
 
 **Introduced: May 27, 2004 with update version [2.7.6](../patches/2.7.6.md).**
-
-
-
-
-Sovereignty Vehicles](../Category:Vanu_Sovereignty_Vehicles.md)
-
-
