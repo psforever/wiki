@@ -22,6 +22,3 @@ projectiles means that it is also somewhat effective against infantry and light
 armor.
 
 
-
-
-Republic Weapons](../Category:Terran_Republic_Weapons.md)
