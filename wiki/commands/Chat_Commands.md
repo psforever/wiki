@@ -1,5 +1,5 @@
 | Command                  | Help                                                                                                                                    | Usage                                                  |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | Battlegroup Chat         | Sends chat to members of your battlegroup.                                                                                              | /bg <message>                                          |
 | Broadcast Chat           | Sends chat to friendlies within your the SOI of a base owned by your empire. On the santuary, the message goes to the entire continent. | /b\[roadcast\] <message>                               |
 | Command Chat             | Sends chat to the command channel.                                                                                                      | /c\[ommand\] <message>                                 |

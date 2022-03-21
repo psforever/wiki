@@ -34,7 +34,7 @@ Uniform Upgrades! The current numeric experience values for the various
 Battle Ranks are:
 
 | Battle Rank | Starting Exp | Ending Exp | BEP per Block | Award   |
-|-------------|--------------|------------|---------------|---------|
+| ----------- | ------------ | ---------- | ------------- | ------- |
 | 1           | Example      | Example    | Example       | Example |
 | 2           | Example      | Example    | Example       | Example |
 | 2           | Example      | Example    | Example       | Example |

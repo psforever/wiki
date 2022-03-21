@@ -1,9 +1,9 @@
-|                                  |                                       |
-| -------------------------------- | ------------------------------------- |
-| **Used by**                      | [Prowler](../vehicles/Prowler.md)                 |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                   |
-| **Quantity per box**             | 100 Rounds                            |
+|                                                 |                                              |
+| ----------------------------------------------- | -------------------------------------------- |
+| **Used by**                                     | [Prowler](../vehicles/Prowler.md)            |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
+| **Quantity per box**                            | 100 Rounds                                   |
 
 **Tank Shell (100mm)**
 

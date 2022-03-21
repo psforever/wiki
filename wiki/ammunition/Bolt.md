@@ -1,11 +1,11 @@
 ![](../images/bolt.jpg "bolt.jpg")
 
-|                          |                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------- |
+|                          |                                                                                           |
+| ------------------------ | ----------------------------------------------------------------------------------------- |
 | **Used by**              | [Bolt Driver](weapons/Bolt_Driver.md), [Heavy Scout../Heavy_Scout_Rifle.mdRifle.md) (HSR) |
-| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                             |
-| **Inventory dimensions** | 3x3                                                                                                  |
-| **Quantity per pack**    | 10 rounds                                                                                            |
+| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                              |
+| **Inventory dimensions** | 3x3                                                                                       |
+| **Quantity per pack**    | 10 rounds                                                                                 |
 
 **Bolt**
 

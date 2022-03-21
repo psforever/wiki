@@ -3,7 +3,7 @@
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<Anti-Infantry_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                          |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                   |
 | **Armor**                  | 650                                                                                              |
 | **Primary Mode**           | Standard Bolts                                                                                   |
 | **Secondary Mode**         | Armor Piercing Bolts                                                                             |
@@ -25,12 +25,12 @@ to sail over ground obstacles, making this the most mobile of MAXes.
 
 Shots to kill:
 
-|                                               |                                       |
-| --------------------------------------------- | ------------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 8 shots                               |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 9 shots                               |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots                              |
-| [MAX](Mechanized_Assault_Exo-Suit.md)         | 63 [AP Mode](../terminology/Armor_Piercing.md) shots |
+|                                                        |                                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 8 shots                                              |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 9 shots                                              |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots                                             |
+| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 63 [AP Mode](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](../implants/Implants.md) or [Empire

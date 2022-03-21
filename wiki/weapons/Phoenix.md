@@ -1,17 +1,17 @@
 ![](../images/PSScreenShot0249.jpg "fig:PSScreenShot0249.jpg") Soldier with a
 Phoenix Missile Launcher\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
-| **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md)     |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md) |
-| **Primary Mode**           | Camera Guided                           |
-| **Secondary Mode**         | Dumb Fire                               |
-| **Ammunition**             | [Phoenix Missile](ammunition/Phoenix_Missile.md)   |
-| **Range**                  | 250 m or 6 sec flight time              |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                   |
-| **Magazine Capacity**      | 1                                       |
-| **Zoom**                   | 4x                                      |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md) |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)        |
+| **Primary Mode**           | Camera Guided                                         |
+| **Secondary Mode**         | Dumb Fire                                             |
+| **Ammunition**             | [Phoenix Missile](ammunition/Phoenix_Missile.md)      |
+| **Range**                  | 250 m or 6 sec flight time                            |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                 |
+| **Magazine Capacity**      | 1                                                     |
+| **Zoom**                   | 4x                                                    |
 
 **Phoenix**
 
@@ -35,13 +35,13 @@ when the target is visible and stationary or in close proximity to the
 
 Shots to kill:
 
-|                                       |          |
-| ------------------------------------- | -------- |
+|                                                |          |
+| ---------------------------------------------- | -------- |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md) | 3 shots  |
-| [Lightning](../vehicles/Lightning.md)             | 6 shots  |
-| [Prowler](../vehicles/Prowler.md)                 | 18 shots |
-| [Magrider](../vehicles/Magrider.md)               | 14 shots |
-| [Vanguard](../vehicles/Vanguard.md)               | 18 shots |
+| [Lightning](../vehicles/Lightning.md)          | 6 shots  |
+| [Prowler](../vehicles/Prowler.md)              | 18 shots |
+| [Magrider](../vehicles/Magrider.md)            | 14 shots |
+| [Vanguard](../vehicles/Vanguard.md)            | 18 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

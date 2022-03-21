@@ -4,15 +4,15 @@ of the [Implant Terminal](Implant_Terminal.md)\]\]
 ![](../images/NCInfiltrationSuit.jpg "fig:NCInfiltrationSuit.jpg") Infiltrator\]\]
 ![](../images/VS_InfilSuit.jpg "fig:VS_InfilSuit.jpg") Infiltrator\]\]
 
-|                            |                                                                     |
-| -------------------------- | ------------------------------------------------------------------- |
+|                            |                                                          |
+| -------------------------- | -------------------------------------------------------- |
 | **Certification Required** | [Infiltration Suit](<Infiltration_Suit_(Certification)>) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                            |
-| **Armor**                  | 0                                                                   |
-| **Pistol Holsters**        | 1                                                                   |
-| **Rifle Holsters**         | None                                                                |
-| **Inventory Dimensions**   | 6 x 6                                                               |
-| **Other**                  | Allows the wearer to "cloak" (become invisible)                     |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)             |
+| **Armor**                  | 0                                                        |
+| **Pistol Holsters**        | 1                                                        |
+| **Rifle Holsters**         | None                                                     |
+| **Inventory Dimensions**   | 6 x 6                                                    |
+| **Other**                  | Allows the wearer to "cloak" (become invisible)          |
 
 **Infiltration Suit**
 

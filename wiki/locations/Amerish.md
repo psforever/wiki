@@ -4,15 +4,15 @@
 
 ![](../images/Amerish_Terrain.jpg "Amerish_Terrain.jpg")
 
-|                   |                                                                         |
-| ----------------- | ----------------------------------------------------------------------- |
-| Category:         | Gas Giant Moon                                                          |
-| Climate:          | Temperate                                                               |
-| Landmass:         | Continent                                                               |
-| Terrain:          | Grassy plains, rolling hills, sandy beaches, woodlands                  |
-| Facilities:       | 12                                                                      |
-| Towers:           | ?                                                                       |
-| Active Warpgates: | 4                                                                       |
+|                   |                                                                 |
+| ----------------- | --------------------------------------------------------------- |
+| Category:         | Gas Giant Moon                                                  |
+| Climate:          | Temperate                                                       |
+| Landmass:         | Continent                                                       |
+| Terrain:          | Grassy plains, rolling hills, sandy beaches, woodlands          |
+| Facilities:       | 12                                                              |
+| Towers:           | ?                                                               |
+| Active Warpgates: | 4                                                               |
 | Capitol:          | [Amp Station](Amp_Station.md) [Verica](../facilities/Verica.md) |
 
 ## Description

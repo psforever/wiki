@@ -1,10 +1,10 @@
-|                        |                                                       |
-| ---------------------- | ----------------------------------------------------- |
-| **Type**               | Vehicle Weaponry                                      |
+|                        |                                                                   |
+| ---------------------- | ----------------------------------------------------------------- |
+| **Type**               | Vehicle Weaponry                                                  |
 | **Provides Access To** | [BFR](../vehicles/BattleFrame_Robotics.md) Anti-Infantry Weaponry |
 | **Pre-requisite**      | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)       |
-| **Required For**       | \-                                                    |
-| **Cert Point Cost**    | 1                                                     |
+| **Required For**       | \-                                                                |
+| **Cert Point Cost**    | 1                                                                 |
 
 **BFR Anti-Infantry**
 

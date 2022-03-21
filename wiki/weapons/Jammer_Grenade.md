@@ -1,15 +1,15 @@
 ![](../images/Jammer_grenade.jpg "fig:Jammer_grenade.jpg")\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)           |
-| **Primary Mode**           | Explode on Contact                      |
-| **Secondary Mode**         | Three Second Fuse                       |
-| **Ammunition**             | \-                                      |
-| **Inventory Dimensions**   | 2 x 2 (Pistol Holster)                  |
-| **Magazine Capacity**      | 3                                       |
-| **Zoom**                   | None                                    |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)              |
+| **Primary Mode**           | Explode on Contact                                        |
+| **Secondary Mode**         | Three Second Fuse                                         |
+| **Ammunition**             | \-                                                        |
+| **Inventory Dimensions**   | 2 x 2 (Pistol Holster)                                    |
+| **Magazine Capacity**      | 3                                                         |
+| **Zoom**                   | None                                                      |
 
 **Jammer Grenade**
 

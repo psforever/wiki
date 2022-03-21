@@ -1,15 +1,15 @@
-|                            |                                                       |
-| -------------------------- | ----------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)       |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)               |
-| **Primary Mode**           | Particle Pulse Accelerator                            |
-| **Secondary Mode**         | \-                                                    |
+|                            |                                                                     |
+| -------------------------- | ------------------------------------------------------------------- |
+| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)         |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                      |
+| **Primary Mode**           | Particle Pulse Accelerator                                          |
+| **Secondary Mode**         | \-                                                                  |
 | **Ammunition**             | [Aphelion PPA Ammunition](../ammunition/Aphelion_PPA_Ammunition.md) |
-| **Range**                  | 250m                                                  |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon           |
-| **Magazine Capacity**      | 25                                                    |
-| **Zoom**                   | 2x                                                    |
-| **Note**                   | No [Damage Degradation](../terminology/Damage_Degradation.md)        |
+| **Range**                  | 250m                                                                |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon             |
+| **Magazine Capacity**      | 25                                                                  |
+| **Zoom**                   | 2x                                                                  |
+| **Note**                   | No [Damage Degradation](../terminology/Damage_Degradation.md)       |
 
 **Pulsed Particle Accelerator**
 

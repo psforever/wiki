@@ -1,17 +1,17 @@
 ![](../images/Skyguard.jpg "Skyguard.jpg")
 
-|                            |                                                                                                                                     |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Assault Buggy                                                                                                                 |
-| **Role**                   | Anti-Aircraft                                                                                                                       |
-| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](../certifications/Light_Scout.md)                             |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                            |
-| **Primary Weapon**         | [Flak](../weapons/Flak.md) Cannon                                                                                                   |
-| **Secondary Weapon**       | 12mm machine gun                                                                                                                    |
+|                            |                                                                                                                                        |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                                                                                    |
+| **Role**                   | Anti-Aircraft                                                                                                                          |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](../certifications/Light_Scout.md)                                    |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                           |
+| **Primary Weapon**         | [Flak](../weapons/Flak.md) Cannon                                                                                                      |
+| **Secondary Weapon**       | 12mm machine gun                                                                                                                       |
 | **Ammunition Used**        | [Flak Cannon Ammunition](../ammunition/Flak_Cannon_Ammunition.md) and [Rotary Chaingun Bullets](ammunition/Rotary_Chaingun_Bullets.md) |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                                               |
-| **Handling**               | Good                                                                                                                                |
-| **Top speed**              | 80 kph                                                                                                                              |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                                                  |
+| **Handling**               | Good                                                                                                                                   |
+| **Top speed**              | 80 kph                                                                                                                                 |
 
 **Skyguard**
 

@@ -67,31 +67,31 @@ The modules are unique constructs, and are subject to several special
 rules, in the same vein as [LLUs](../terminology/Lattice_Logic_Unit.md).
 
 1. Once installed in a facility, they cannot be removed by friendlies
-    under normal circumstances. This is to prevent
-    [griefing](../terminology/Grief_points.md). However, friendlies can remove
-    modules from their own base if the enemy has the facility under
-    [hack](../terminology/Hack.md).
+   under normal circumstances. This is to prevent
+   [griefing](../terminology/Grief_points.md). However, friendlies can remove
+   modules from their own base if the enemy has the facility under
+   [hack](../terminology/Hack.md).
 2. Once installed at a facility, modules can only be stolen by enemies
-    if one of two things happen.
-    1. If the [facility](Facility.md)'s [Control
-        Console](../locations/Control_Console.md) is
-        [hacked](../terminology/Hack.md).
-    2. If the facility's [generator](../items/Generator.md) is
-        destroyed.
+   if one of two things happen.
+   1. If the [facility](Facility.md)'s [Control
+      Console](../locations/Control_Console.md) is
+      [hacked](../terminology/Hack.md).
+   2. If the facility's [generator](../items/Generator.md) is
+      destroyed.
 3. If the facility where the module is installed reverts to a
-    [neutral](../terminology/Neutral.md) state, the module is destroyed, as it
-    has no power.
+   [neutral](../terminology/Neutral.md) state, the module is destroyed, as it
+   has no power.
 4. Once installed at a facility, the module has a complete lifetime of
-    roughly 28 hours, which is also the cavern rotation cycle's time
-    period.
+   roughly 28 hours, which is also the cavern rotation cycle's time
+   period.
 5. The modules are extremely sensitive to changes in pressure. If a
-    module is ever submerged in water, it will immediately detonate,
-    destroying itself and anything near it.
+   module is ever submerged in water, it will immediately detonate,
+   destroying itself and anything near it.
 
 <!-- -->
 
 1. The modules become unstable when they are taken out of their [Module
-    Cradle](items/Module_Cradle.md). They will explode if they are out
-    of their cradle for more than 15 minutes.
+   Cradle](items/Module_Cradle.md). They will explode if they are out
+   of their cradle for more than 15 minutes.
 
 [Category:Modules](Category:Modules.md)

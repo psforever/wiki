@@ -1,9 +1,9 @@
-|                                  |                                                                               |
-| -------------------------------- | ----------------------------------------------------------------------------- |
-| **Used by**                      | [Colossus](../vehicles/Colossus.md) using the [Dual 100mm Cannons](../weapons/Dual_100mm_Cannons.md) |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md)                                         |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                           |
-| **Quantity per box**             | 90 Rounds                                                                     |
+|                                                 |                                                                                                      |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Colossus](../vehicles/Colossus.md) using the [Dual 100mm Cannons](../weapons/Dual_100mm_Cannons.md) |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md)                                                         |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                                  |
+| **Quantity per box**                            | 90 Rounds                                                                                            |
 
 **Colossus 100mm Cannon Shells**
 

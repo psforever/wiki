@@ -2,17 +2,17 @@
 ![](../images/OspreyRear.jpg "fig:OspreyRear.jpg") Deployable Turret\]\]
 ![](../images/OspreySide.jpg "fig:OspreySide.jpg") Deployable Turret\]\]
 
-|                            |                                               |
-| -------------------------- | --------------------------------------------- |
+|                            |                                                                 |
+| -------------------------- | --------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)       |
-| **Primary Mode**           | Long-range ScatterCannon                      |
-| **Secondary Mode**         | \-                                            |
-| **Ammunition**             | \-                                            |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                         |
-| **Magazine Capacity**      | 35                                            |
-| **Range**                  | 150 m                                         |
-| **Zoom**                   | 4x                                            |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                  |
+| **Primary Mode**           | Long-range ScatterCannon                                        |
+| **Secondary Mode**         | \-                                                              |
+| **Ammunition**             | \-                                                              |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                           |
+| **Magazine Capacity**      | 35                                                              |
+| **Range**                  | 150 m                                                           |
+| **Zoom**                   | 4x                                                              |
 
 **Osprey**
 

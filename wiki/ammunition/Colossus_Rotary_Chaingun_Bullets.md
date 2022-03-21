@@ -1,9 +1,9 @@
-|                                  |                                                                                                   |
-| -------------------------------- | ------------------------------------------------------------------------------------------------- |
-| **Used by**                      | [Colossus](../Colossus.md) and [Invader](../items/Invader.md) using the [Rotary Chaingun](../items/Rotary_Chaingun.md) |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md)                                                             |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                               |
-| **Quantity per box**             | 600 Rounds                                                                                        |
+|                                                 |                                                                                                                        |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Colossus](../Colossus.md) and [Invader](../items/Invader.md) using the [Rotary Chaingun](../items/Rotary_Chaingun.md) |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md)                                                                           |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                    |
+| **Quantity per box**                            | 600 Rounds                                                                                                             |
 
 **Colossus Rotary Chaingun Bullets**
 

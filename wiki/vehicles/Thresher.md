@@ -2,18 +2,18 @@
 ![](../images/Thresher_profile.jpg "fig:Thresher_profile.jpg") like the
 [Magrider](Magrider.md)\]\]
 
-|                            |                                                                                   |
-| -------------------------- | --------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Assault Buggy                                                               |
-| **Role**                   | Attack                                                                            |
+|                            |                                                                                                     |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                                                 |
+| **Role**                   | Attack                                                                                              |
 | **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](../certifications/Light_Scout.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                           |
-| **Primary Weapon**         | [Flux Cannon](../weapons/Flux_Cannon.md)                                                     |
-| **Secondary Weapon**       | \-                                                                                |
-| **Ammunition Used**        | [Flux Battery](../ammunition/Flux_Battery.md)                                                   |
-| **Occupants**              | 2 (Driver and Gunner)                                                             |
-| **Handling**               | Good                                                                              |
-| **Top speed**              | 85 kph (59 kph over water)                                                        |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                      |
+| **Primary Weapon**         | [Flux Cannon](../weapons/Flux_Cannon.md)                                                            |
+| **Secondary Weapon**       | \-                                                                                                  |
+| **Ammunition Used**        | [Flux Battery](../ammunition/Flux_Battery.md)                                                       |
+| **Occupants**              | 2 (Driver and Gunner)                                                                               |
+| **Handling**               | Good                                                                                                |
+| **Top speed**              | 85 kph (59 kph over water)                                                                          |
 
 **Thresher**
 

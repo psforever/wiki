@@ -3,16 +3,16 @@
 
 ## Continental Data
 
-|                                  |                                                            |
-| -------------------------------- | ---------------------------------------------------------- |
-| Category:                        | Binary Temperate                                           |
-| Climate:                         | Temperate                                                  |
-| Landmass:                        | Continent                                                  |
-| Terrain:                         | Grassy plains, woodlands, lakes, rocky peaks, wide beaches |
-| [Facilities](Facilities.md):     | 10                                                         |
-| [Towers](Towers.md):             |                                                            |
-| Active [Warpgates](Warpgate.md): | 4                                                          |
-| [Capitol](Capitol.md):           | [Bio Laboratory](Bio_Laboratory.md) [Neit](../facilities/Neit.md)        |
+|                                  |                                                                   |
+| -------------------------------- | ----------------------------------------------------------------- |
+| Category:                        | Binary Temperate                                                  |
+| Climate:                         | Temperate                                                         |
+| Landmass:                        | Continent                                                         |
+| Terrain:                         | Grassy plains, woodlands, lakes, rocky peaks, wide beaches        |
+| [Facilities](Facilities.md):     | 10                                                                |
+| [Towers](Towers.md):             |                                                                   |
+| Active [Warpgates](Warpgate.md): | 4                                                                 |
+| [Capitol](Capitol.md):           | [Bio Laboratory](Bio_Laboratory.md) [Neit](../facilities/Neit.md) |
 
 ## Description
 

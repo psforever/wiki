@@ -4,7 +4,7 @@
 |                            |                                                                                                |
 | -------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicle MAX](<Anti-Vehicle_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                        |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                 |
 | **Armor**                  | 650                                                                                            |
 | **Primary Mode**           | Normal fire                                                                                    |
 | **Secondary Mode**         | \-                                                                                             |
@@ -22,12 +22,12 @@ opponent.
 
 Shots to kill:
 
-|                                               |          |
-| --------------------------------------------- | -------- |
+|                                                        |          |
+| ------------------------------------------------------ | -------- |
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 5 shots  |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 6 shots  |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 9 shots  |
-| [MAX](Mechanized_Assault_Exo-Suit.md)         | 10 shots |
+| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 10 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](../implants/Implants.md) or [Empire

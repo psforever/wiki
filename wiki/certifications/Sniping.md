@@ -1,10 +1,10 @@
-|                        |                                                                          |
-| ---------------------- | ------------------------------------------------------------------------ |
-| **Type**               | Weaponry                                                                 |
+|                        |                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| **Type**               | Weaponry                                                                                       |
 | **Provides Access To** | [Bolt Driver](../weapons/Bolt_Driver.md), [Heavy Scout Rifle](../weapons/Heavy_Scout_Rifle.md) |
-| **Pre-requisite**      | [Medium Assault](Medium_Assault.md)                                      |
-| **Required For**       | \-                                                                       |
-| **Cert Point Cost**    | 3                                                                        |
+| **Pre-requisite**      | [Medium Assault](Medium_Assault.md)                                                            |
+| **Required For**       | \-                                                                                             |
+| **Cert Point Cost**    | 3                                                                                              |
 
 **Sniping**
 

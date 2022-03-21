@@ -25,7 +25,7 @@ to join the main list.
   Chance](../Norfolk_In_Chance.md) (NiC) \*[Rebels Of The New
   Order](Rebels_Of_The_New_Order.md) \*[Section 8
   Blue](Section_8_Blue.md) \*[Strength and
-  Honour](Strength_and_Honour.md) \*[Sturmgrenadier](../Sturmgrenadier.md*[Victor
+  Honour](Strength_and_Honour.md) \*[Sturmgrenadier](../Sturmgrenadier.md\*[Victor
   Company](../Victor_Company.md) \*[!!X\]\[D\]\[T!!](XDT.md)
 
 ### [Terran Republic](../etc/Terran_Republic.md)
@@ -45,7 +45,7 @@ to join the main list.
   (KOTR) \*[MoX](MoX.md) \*[Norfolk In
   Chance](../Norfolk_In_Chance.md) (NiC) \*[Outcasters](Outcasters.md) \*[Psychedelic Clown
   Posse](Psychedelic_Clown_Posse.md) (PcP) \*[Sea
-  Dogs](Sea_Dogs.md) \*[Section 8](../Section_8_Blue.md*[TEAMAMERICA](../TEAMAMERICA.md) \*[Terran Death
+  Dogs](Sea_Dogs.md) \*[Section 8](../Section_8_Blue.md\*[TEAMAMERICA](../TEAMAMERICA.md) \*[Terran Death
   Company](Terran_Death_Company.md) (TDC) \*[Terran Republican
   Guard](Terran_Republican_Guard.md) (TRG) \*[Total
   Oblivion](Total_Oblivion.md) \*[Users Suck Kill Them

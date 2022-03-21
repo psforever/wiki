@@ -1,9 +1,9 @@
-|                          |                                          |
-| ------------------------ | ---------------------------------------- |
-| **Used by**              | [Dragon](../weapons/Dragon.md)           |
+|                          |                                              |
+| ------------------------ | -------------------------------------------- |
+| **Used by**              | [Dragon](../weapons/Dragon.md)               |
 | **Empire**               | [Common Pool](../terminology/Common_Pool.md) |
-| **Inventory dimensions** | 4x4                                      |
-| **Quantity per pack**    | 100                                      |
+| **Inventory dimensions** | 4x4                                          |
+| **Quantity per pack**    | 100                                          |
 
 **Incendiary Gel**
 

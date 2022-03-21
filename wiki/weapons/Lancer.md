@@ -1,16 +1,16 @@
 ![](../images/Lancer.jpg "fig:Lancer.jpg") Soldier firing a Lancer\]\]
 
-|                            |                                           |
-| -------------------------- | ----------------------------------------- |
-| **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md)       |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)   |
-| **Primary Mode**           | Energy Beam                               |
-| **Secondary Mode**         | \-                                        |
-| **Ammunition**             | [Large Energy Cell](Large_Energy_Cell.md) |
-| **Range**                  | 300 m                                     |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                     |
-| **Magazine Capacity**      | 6                                         |
-| **Zoom**                   | 4x                                        |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md) |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)        |
+| **Primary Mode**           | Energy Beam                                           |
+| **Secondary Mode**         | \-                                                    |
+| **Ammunition**             | [Large Energy Cell](Large_Energy_Cell.md)             |
+| **Range**                  | 300 m                                                 |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                 |
+| **Magazine Capacity**      | 6                                                     |
+| **Zoom**                   | 4x                                                    |
 
 **Lancer**
 
@@ -29,13 +29,13 @@ Cell](../ammunition/Energy_Cell.md) ammo.
 
 Shots to kill:
 
-|                                       |             |
-| ------------------------------------- | ----------- |
+|                                                |             |
+| ---------------------------------------------- | ----------- |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md) | 6 shots     |
-| [Lightning](../vehicles/Lightning.md)             | 9 shots     |
-| [Prowler](../vehicles/Prowler.md)                 | 22(?) shots |
-| [Magrider](../vehicles/Magrider.md)               | 17(?) shots |
-| [Vanguard](../vehicles/Vanguard.md)               | 23(?) shots |
+| [Lightning](../vehicles/Lightning.md)          | 9 shots     |
+| [Prowler](../vehicles/Prowler.md)              | 22(?) shots |
+| [Magrider](../vehicles/Magrider.md)            | 17(?) shots |
+| [Vanguard](../vehicles/Vanguard.md)            | 23(?) shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

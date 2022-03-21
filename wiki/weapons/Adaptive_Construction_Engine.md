@@ -2,12 +2,12 @@
 
 |                            |                                                                                                                                        |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Combat Engineering](../certifications/Combat_Engineering.md)                                                                                            |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                                          |
+| **Certification Required** | [Combat Engineering](../certifications/Combat_Engineering.md)                                                                          |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                           |
 | **Primary Mode**           | Deploy [Remote-Detonated Charge(Boomer)](<#Remote-Detonated_Charge_(Boomer)>)                                                          |
 | **Secondary Mode**         | Deploy [High Explosive Mine](#High_Explosive_Mine) or [Disruptor Mine](Disruptor_Mine.md) (Selectable with the "Change Ammo" function) |
 | **Tertiary Mode**          | Deploy [Spitfire Turret](#Spitfire_Turret), [Cerberus Turret](Cerberus_Turret.md) or [Shadow Turret](Shadow_Turret.md)                 |
-| **Quaternary Mode**        | Deploy [Motion Sensor](#Motion_Sensor_Alarm) or [Sensor Disruptor](../items/Sensor_Disruptor.md)                                                |
+| **Quaternary Mode**        | Deploy [Motion Sensor](#Motion_Sensor_Alarm) or [Sensor Disruptor](../items/Sensor_Disruptor.md)                                       |
 | **Ammunition**             | 1 Unit                                                                                                                                 |
 | **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                                                 |
 | **Magazine Capacity**      | 1 use per unit                                                                                                                         |

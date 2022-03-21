@@ -4,7 +4,7 @@
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<Anti-Infantry_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                            |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                     |
 | **Armor**                  | 650                                                                                              |
 | **Primary Mode**           | Normal fire                                                                                      |
 | **Secondary Mode**         | \-                                                                                               |
@@ -25,12 +25,12 @@ ability is also useful for doing heavy damage while on the move.
 
 Shots to kill:
 
-|                                               |          |
-| --------------------------------------------- | -------- |
+|                                                        |          |
+| ------------------------------------------------------ | -------- |
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 8 shots  |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 9 shots  |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 13 shots |
-| [MAX](Mechanized_Assault_Exo-Suit.md)         | 75 shots |
+| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 75 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](../implants/Implants.md) or [Empire

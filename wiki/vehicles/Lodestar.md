@@ -1,15 +1,15 @@
 ![](../images/Lodestar.jpg "Lodestar.jpg")
 
-|                            |                                                     |
-| -------------------------- | --------------------------------------------------- |
-| **Type**                   | Vehicle Transport                                   |
-| **Role**                   | Vehicle Transport/Mobile Repair                     |
-| **Certification Required** | [Air Support](../certifications/Air_Support.md)                       |
+|                            |                                                                    |
+| -------------------------- | ------------------------------------------------------------------ |
+| **Type**                   | Vehicle Transport                                                  |
+| **Role**                   | Vehicle Transport/Mobile Repair                                    |
+| **Certification Required** | [Air Support](../certifications/Air_Support.md)                    |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                       |
-| **Primary Weapon**         | \-                                                  |
-| **Secondary Weapon**       | \-                                                  |
-| **Occupants**              | 1 (Pilot)                                           |
-| **Handling**               | Very Poor                                           |
+| **Primary Weapon**         | \-                                                                 |
+| **Secondary Weapon**       | \-                                                                 |
+| **Occupants**              | 1 (Pilot)                                                          |
+| **Handling**               | Very Poor                                                          |
 | **Top speed**              | 79 kph (150 kph with [Afterburner](../terminology/Afterburner.md)) |
 
 **Lodestar**

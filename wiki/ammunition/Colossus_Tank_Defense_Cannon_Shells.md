@@ -1,9 +1,9 @@
-|                                  |                                                                                                           |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| **Used by**                      | [Colossus](../Colossus.md) and [Invader](../items/Invader.md) using the [Tank Defense Cannon](../weapons/Tank_Defense_Cannon.md) |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md)                                                                     |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                       |
-| **Quantity per box**             | 110 Shells                                                                                                |
+|                                                 |                                                                                                                                  |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Colossus](../Colossus.md) and [Invader](../items/Invader.md) using the [Tank Defense Cannon](../weapons/Tank_Defense_Cannon.md) |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md)                                                                                     |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                              |
+| **Quantity per box**                            | 110 Shells                                                                                                                       |
 
 **Colossus Tank Defense Cannon Shells**
 

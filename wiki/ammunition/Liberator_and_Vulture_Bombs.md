@@ -1,9 +1,9 @@
-|                                  |                                                     |
-| -------------------------------- | --------------------------------------------------- |
-| **Used by**                      | [Liberator](../Liberator.md) and [Vulture](../vehicles/Vulture.md) |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md)                       |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                 |
-| **Quantity per box**             | 20 Bombs                                            |
+|                                                 |                                                                    |
+| ----------------------------------------------- | ------------------------------------------------------------------ |
+| **Used by**                                     | [Liberator](../Liberator.md) and [Vulture](../vehicles/Vulture.md) |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md)                       |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                |
+| **Quantity per box**                            | 20 Bombs                                                           |
 
 **Liberator and Vulture Bombs**
 

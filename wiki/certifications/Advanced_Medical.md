@@ -1,10 +1,10 @@
-|                        |                                                                                                  |
-| ---------------------- | ------------------------------------------------------------------------------------------------ |
-| **Type**               | Equipment                                                                                        |
+|                        |                                                                                                             |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Type**               | Equipment                                                                                                   |
 | **Provides Access To** | Allows for revival of fallen teammates by use of the [Medical Applicator](../weapons/Medical_Applicator.md) |
-| **Pre-requisite**      | [Medical](Medical.md)                                                                            |
-| **Required For**       | \-                                                                                               |
-| **Cert Point Cost**    | 2                                                                                                |
+| **Pre-requisite**      | [Medical](Medical.md)                                                                                       |
+| **Required For**       | \-                                                                                                          |
+| **Cert Point Cost**    | 2                                                                                                           |
 
 **Advanced Medical**
 

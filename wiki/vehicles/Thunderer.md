@@ -1,17 +1,17 @@
 ![](../images/Thunderer_VS.jpg "fig:Thunderer_VS.jpg") Thunderer\]\]
 
-|                            |                                                                  |
-| -------------------------- | ---------------------------------------------------------------- |
-| **Type**                   | Medium Transport                                                 |
-| **Role**                   | Medium Troop Transport                                           |
-| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)               |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)               |
+|                            |                                                                |
+| -------------------------- | -------------------------------------------------------------- |
+| **Type**                   | Medium Transport                                               |
+| **Role**                   | Medium Troop Transport                                         |
+| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)      |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                 |
 | **Primary Weapon**         | 2 [Gauss Cannons](../items/Gauss_Cannon.md)                    |
-| **Secondary Weapon**       | \-                                                               |
+| **Secondary Weapon**       | \-                                                             |
 | **Ammunition**             | [Gauss Cannon Ammunition](../items/Gauss_Cannon_Ammunition.md) |
-| **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)                           |
-| **Handling**               | Good                                                             |
-| **Top speed**              | 63 kph (40 kph over water)                                       |
+| **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)                         |
+| **Handling**               | Good                                                           |
+| **Top speed**              | 63 kph (40 kph over water)                                     |
 
 **Thunderer**
 

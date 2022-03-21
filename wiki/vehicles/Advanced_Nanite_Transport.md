@@ -1,16 +1,16 @@
 ![](../images/Ant.jpg "fig:Ant.jpg") ![](../images/ANTatSilo.jpg "fig:ANTatSilo.jpg")\]\]
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Type**                   | Utility                       |
-| **Role**                   | Resource Gathering            |
-| **Certification Required** | None                          |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Type**                   | Utility                                      |
+| **Role**                   | Resource Gathering                           |
+| **Certification Required** | None                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Primary Weapon**         | \-                            |
-| **Secondary Weapon**       | \-                            |
-| **Occupants**              | 1 (Driver)                    |
-| **Handling**               | Very Poor                     |
-| **Top speed**              | 61 kph                        |
+| **Primary Weapon**         | \-                                           |
+| **Secondary Weapon**       | \-                                           |
+| **Occupants**              | 1 (Driver)                                   |
+| **Handling**               | Very Poor                                    |
+| **Top speed**              | 61 kph                                       |
 
 **Advanced Nanite Transport (ANT)**
 

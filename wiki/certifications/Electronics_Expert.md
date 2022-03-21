@@ -1,10 +1,10 @@
-|                        |                                                    |
-| ---------------------- | -------------------------------------------------- |
-| **Type**               | Equipment                                          |
-| **Provides Access To** | [T-REK](../weapons/T-REK.md) and abilities         |
-| **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md) |
-| **Required For**       | \-                                                 |
-| **Cert Point Cost**    | 4                                                  |
+|                        |                                            |
+| ---------------------- | ------------------------------------------ |
+| **Type**               | Equipment                                  |
+| **Provides Access To** | [T-REK](../weapons/T-REK.md) and abilities |
+| **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md)    |
+| **Required For**       | \-                                         |
+| **Cert Point Cost**    | 4                                          |
 
 **Electronics Expert**
 

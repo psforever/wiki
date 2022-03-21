@@ -1,11 +1,11 @@
 ![](../images/ATammo.jpg "ATammo.JPG")
 
-|                          |                                              |
-| ------------------------ | -------------------------------------------- |
+|                          |                                                                    |
+| ------------------------ | ------------------------------------------------------------------ |
 | **Used by**              | [Spiker](../weapons/Spiker.md), [Radiator](../weapons/Radiator.md) |
-| **Empire**               | [Common Pool](../terminology/Common_Pool.md) (Ancient Tech) |
-| **Inventory dimensions** | 3x3                                          |
-| **Quantity per pack**    | 30 units                                     |
+| **Empire**               | [Common Pool](../terminology/Common_Pool.md) (Ancient Tech)        |
+| **Inventory dimensions** | 3x3                                                                |
+| **Quantity per pack**    | 30 units                                                           |
 
 **Ancient Capacitor Unit**
 

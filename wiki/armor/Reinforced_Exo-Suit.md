@@ -13,7 +13,7 @@ Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
 |                            |                                                              |
 | -------------------------- | ------------------------------------------------------------ |
 | **Certification Required** | [Reinforced Exo-Suit](<Reinforced_Exo-Suit_(Certification)>) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                 |
 | **Armor**                  | 200                                                          |
 | **Pistol Holsters**        | 2                                                            |
 | **Rifle Holsters**         | 2                                                            |

@@ -1,17 +1,17 @@
 ![](../images/Lightning.jpg "fig:Lightning.jpg") Lightning\]\]
 
-|                            |                                                                                                 |
-| -------------------------- | ----------------------------------------------------------------------------------------------- |
-| **Type**                   | Light Tank                                                                                      |
-| **Role**                   | Attack/Escort                                                                                   |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md)                                                       |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                   |
-| **Primary Weapon**         | 75mm Cannon                                                                                     |
-| **Secondary Weapon**       | 12mm Rotary Chaingun                                                                            |
+|                            |                                                                                                                             |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Light Tank                                                                                                                  |
+| **Role**                   | Attack/Escort                                                                                                               |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md)                                                                 |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                |
+| **Primary Weapon**         | 75mm Cannon                                                                                                                 |
+| **Secondary Weapon**       | 12mm Rotary Chaingun                                                                                                        |
 | **Ammunition Used**        | [Lightning Shell](../ammunition/Lightning_Shell.md) and [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |
-| **Occupants**              | 1 (Driver)                                                                                      |
-| **Handling**               | Good                                                                                            |
-| **Top speed**              | 75 kph                                                                                          |
+| **Occupants**              | 1 (Driver)                                                                                                                  |
+| **Handling**               | Good                                                                                                                        |
+| **Top speed**              | 75 kph                                                                                                                      |
 
 **Lightning**
 
@@ -23,12 +23,12 @@ shooting or as light artillery. A Lightning can be transported by the
 
 Shots to kill (with 75mm Cannon only):
 
-|                           |          |
-| ------------------------- | -------- |
-| [Lightning](Lightning.md) | 14 shots |
-| [Prowler](Prowler.md)     | 36 shots |
-| [Magrider](../Magrider.md)   | 28 shots |
-| [Vanguard](Vanguard.md)   | 36 shots |
+|                            |          |
+| -------------------------- | -------- |
+| [Lightning](Lightning.md)  | 14 shots |
+| [Prowler](Prowler.md)      | 36 shots |
+| [Magrider](../Magrider.md) | 28 shots |
+| [Vanguard](Vanguard.md)    | 36 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

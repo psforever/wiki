@@ -37,7 +37,7 @@ to join the #planetside room.
 
 Once connected you can register yourself to the server by typing
 
-`/register`<account>``<password>``<email>
+`/register`<account>`<password>`<email>
 
 then the next time you visit type
 
@@ -61,7 +61,9 @@ Konquerer, and even Internet Explorer (although the Syndicate does not
 condone its use in any circumstance).
 
 It automatically connects to our server first, and then channel
+
 # planetside. The first window that opens, called "Status," is the status
+
 of your connection to the server. This window is handy for executing
 private commands that you wouldn't want another room to see (if you
 leave out the leading /, for example), such as sending queries to other

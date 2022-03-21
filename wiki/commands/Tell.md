@@ -2,7 +2,7 @@ A Private Message to a Player.
 
 Used by typing
 
-`/t`<playername>``<message>``
+`/t`<playername>`<message>`
 
 in your Chat Panel.
 

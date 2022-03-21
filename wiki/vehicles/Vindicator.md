@@ -1,19 +1,19 @@
 ![](../images/VindicatorFront.jpg "fig:VindicatorFront.jpg") Vindicator\]\]
 ![](../images/VindicatorRear.jpg "fig:VindicatorRear.jpg")
 
-|                            |                                                                                                                                                             |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Transport                                                                                                                                             |
-| **Role**                   | Heavy Troop Transport                                                                                                                                       |
-| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)                                                                                                                     |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                                                     |
-| **Primary Weapons**        | 2 75mm Tank Cannons, 2 20mm Cannons                                                                                                                         |
-| **Secondary Weapon**       | 2 side [Ballguns](../items/Ballgun.md)                                                                                                                               |
+|                            |                                                                                                                                                                                                       |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Transport                                                                                                                                                                                       |
+| **Role**                   | Heavy Troop Transport                                                                                                                                                                                 |
+| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)                                                                                                                                             |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                                                                                        |
+| **Primary Weapons**        | 2 75mm Tank Cannons, 2 20mm Cannons                                                                                                                                                                   |
+| **Secondary Weapon**       | 2 side [Ballguns](../items/Ballgun.md)                                                                                                                                                                |
 | **Ammunition Used**        | [Lightning Shell](../ammunition/Lightning_Shell.md), [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md), and [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |
-| **Occupants**              | 11 (Driver, 6 Gunners, 2 Infantry Passengers and 2 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Passengers)                                                        |
-| **Handling**               | Poor                                                                                                                                                        |
-| **Top speed**              | 58 kph                                                                                                                                                      |
-| **Special Features**       | Driver [EMP](../commands/EMP.md) weapon, can pass through [Shield Module](../items/Shield_Module.md) defenses.                                                                   |
+| **Occupants**              | 11 (Driver, 6 Gunners, 2 Infantry Passengers and 2 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Passengers)                                                                                         |
+| **Handling**               | Poor                                                                                                                                                                                                  |
+| **Top speed**              | 58 kph                                                                                                                                                                                                |
+| **Special Features**       | Driver [EMP](../commands/EMP.md) weapon, can pass through [Shield Module](../items/Shield_Module.md) defenses.                                                                                        |
 
 **Vindicator**
 

@@ -1,16 +1,16 @@
 ![](../images/Laze_Pointer.jpg "fig:Laze_Pointer.jpg")
 ![](../images/Laze_powered.jpg "fig:Laze_powered.jpg")
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Certification Required** | None                          |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | None                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Primary Mode**           | Paint Target                  |
-| **Secondary Mode**         | \-                            |
-| **Ammunition**             | \-                            |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)        |
-| **Magazine Capacity**      | \-                            |
-| **Zoom**                   | None                          |
+| **Primary Mode**           | Paint Target                                 |
+| **Secondary Mode**         | \-                                           |
+| **Ammunition**             | \-                                           |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                       |
+| **Magazine Capacity**      | \-                                           |
+| **Zoom**                   | None                                         |
 
 **Laze Pointer**
 

@@ -1,9 +1,9 @@
-|                                  |                                         |
-| -------------------------------- | --------------------------------------- |
-| **Used by**                      | [Aurora](../vehicles/Aurora.md)                     |
-| **Empire**                       | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                     |
-| **Quantity per box**             | 80 Rounds                               |
+|                                                 |                                                |
+| ----------------------------------------------- | ---------------------------------------------- |
+| **Used by**                                     | [Aurora](../vehicles/Aurora.md)                |
+| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                            |
+| **Quantity per box**                            | 80 Rounds                                      |
 
 **Flux Pod Ammunition**
 

@@ -1,9 +1,9 @@
-|                                  |                               |
-| -------------------------------- | ----------------------------- |
-| **Used by**                      | [Fury](../vehicles/Fury.md)               |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                           |
-| **Quantity per pack**            | 24 Rockets                    |
+|                                                 |                                              |
+| ----------------------------------------------- | -------------------------------------------- |
+| **Used by**                                     | [Fury](../vehicles/Fury.md)                  |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
+| **Quantity per pack**                           | 24 Rockets                                   |
 
 **Hellfire Rocket Pack**
 

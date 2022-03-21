@@ -1,11 +1,11 @@
 ![](../images/rocketpod.jpg "rocketpod.jpg")
 
-|                          |                                                            |
-| ------------------------ | ---------------------------------------------------------- |
+|                          |                                                                          |
+| ------------------------ | ------------------------------------------------------------------------ |
 | **Used by**              | [Punisher](../weapons/Punisher.md), [Rocklet Rifle](../Rocklet_Rifle.md) |
-| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                              |
-| **Inventory dimensions** | 3x3                                                        |
-| **Quantity per pack**    | 15 rockets                                                 |
+| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                             |
+| **Inventory dimensions** | 3x3                                                                      |
+| **Quantity per pack**    | 15 rockets                                                               |
 
 **Rocket Pod**
 

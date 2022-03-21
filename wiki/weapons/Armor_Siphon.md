@@ -1,15 +1,15 @@
-|                            |                                                 |
-| -------------------------- | ----------------------------------------------- |
+|                            |                                                             |
+| -------------------------- | ----------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                   |
-| **Primary Mode**           | Armor Siphon                                    |
-| **Secondary Mode**         | \-                                              |
-| **Ammunition**             | Internal Capacitor                              |
-| **Range**                  | 35m                                             |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                |
+| **Primary Mode**           | Armor Siphon                                                |
+| **Secondary Mode**         | \-                                                          |
+| **Ammunition**             | Internal Capacitor                                          |
+| **Range**                  | 35m                                                         |
 | **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon     |
-| **Magazine Capacity**      | 100                                             |
-| **Zoom**                   | None                                            |
-| **Note**                   | Capacitor recharges when not in use             |
+| **Magazine Capacity**      | 100                                                         |
+| **Zoom**                   | None                                                        |
+| **Note**                   | Capacitor recharges when not in use                         |
 
 **Armor Siphon**
 

@@ -1,9 +1,9 @@
-|                                  |                                                                 |
-| -------------------------------- | --------------------------------------------------------------- |
-| **Used by**                      | [Marauder](../vehicles/Marauder.md) and [Galaxy Gunship](../vehicles/Galaxy_Gunship.md) |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md)                                   |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                             |
-| **Quantity per box**             | 100 Rounds                                                      |
+|                                                 |                                                                                         |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Marauder](../vehicles/Marauder.md) and [Galaxy Gunship](../vehicles/Galaxy_Gunship.md) |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md)                                            |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                     |
+| **Quantity per box**                            | 100 Rounds                                                                              |
 
 **Mortar Cartridge**
 

@@ -1,17 +1,17 @@
 ![](../images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
 Missile](ammunition/Scorpion_Missile.md)\]\]
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Certification Required** | [Elite Assault](../certifications/Elite_Assault.md)        |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)            |
-| **Primary Mode**           | Fire                                     |
-| **Secondary Mode**         | Lock                                     |
+|                            |                                                     |
+| -------------------------- | --------------------------------------------------- |
+| **Certification Required** | [Elite Assault](../certifications/Elite_Assault.md) |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)        |
+| **Primary Mode**           | Fire                                                |
+| **Secondary Mode**         | Lock                                                |
 | **Ammunition**             | [Scorpion Missiles](ammunition/Scorpion_Missile.md) |
-| **Range**                  | Minimum: 50.5m Maximum: 301.7m           |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                    |
-| **Magazine Capacity**      | 1                                        |
-| **Zoom**                   | 12x                                      |
+| **Range**                  | Minimum: 50.5m Maximum: 301.7m                      |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                               |
+| **Magazine Capacity**      | 1                                                   |
+| **Zoom**                   | 12x                                                 |
 
 **Scorpion**
 

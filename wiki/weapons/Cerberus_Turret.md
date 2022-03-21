@@ -1,15 +1,15 @@
 ![](../images/CerberusTurret.jpg "CerberusTurret.jpg")
 
-|                            |                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+|                            |                                                                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Fortification Engineering](../certifications/Fortification_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                |
-| **Primary Mode**           | Cerberus Turret                                                                                              |
-| **Secondary Mode**         | \-                                                                                                           |
-| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                        |
-| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                       |
-| **Magazine Capacity**      | 1 Turret per ACE unit                                                                                        |
-| **Zoom**                   | None                                                                                                         |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                                     |
+| **Primary Mode**           | Cerberus Turret                                                                                                                                  |
+| **Secondary Mode**         | \-                                                                                                                                               |
+| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                                                            |
+| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                                                           |
+| **Magazine Capacity**      | 1 Turret per ACE unit                                                                                                                            |
+| **Zoom**                   | None                                                                                                                                             |
 
 **Cerberus Turret**
 

@@ -1,16 +1,16 @@
 ![](../images/VSAurora.jpg "fig:VSAurora.jpg") Aurora\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
-| **Type**                   | Medium Transport                        |
-| **Role**                   | Medium Troop Transport                  |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
+| **Type**                   | Medium Transport                                          |
+| **Role**                   | Medium Troop Transport                                    |
 | **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
-| **Primary Weapon**         | 2 [Flux Pods](../items/Flux_Pod.md)              |
-| **Secondary Weapon**       | \-                                      |
-| **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)  |
-| **Handling**               | Good                                    |
-| **Top speed**              | 63 kph (40 kph over water)              |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)            |
+| **Primary Weapon**         | 2 [Flux Pods](../items/Flux_Pod.md)                       |
+| **Secondary Weapon**       | \-                                                        |
+| **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)                    |
+| **Handling**               | Good                                                      |
+| **Top speed**              | 63 kph (40 kph over water)                                |
 
 **Aurora**
 

@@ -1,14 +1,14 @@
-|                            |                                                                                      |
-| -------------------------- | ------------------------------------------------------------------------------------ |
+|                            |                                                                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Data Corruption](../certifications/Data_Corruption.md) or [Electronics Expert](../certifications/Electronics_Expert.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                        |
-| **Primary Mode**           | Vehicle Disruptor                                                                    |
-| **Secondary Mode**         | Virus Upload                                                                         |
-| **Ammunition**             | \-                                                                                   |
-| **Range**                  | 5m                                                                                   |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                               |
-| **Magazine Capacity**      | 4 (Primary fire) / Unlimited (Secondary fire)                                        |
-| **Zoom**                   | None                                                                                 |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                             |
+| **Primary Mode**           | Vehicle Disruptor                                                                                                        |
+| **Secondary Mode**         | Virus Upload                                                                                                             |
+| **Ammunition**             | \-                                                                                                                       |
+| **Range**                  | 5m                                                                                                                       |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                                   |
+| **Magazine Capacity**      | 4 (Primary fire) / Unlimited (Secondary fire)                                                                            |
+| **Zoom**                   | None                                                                                                                     |
 
 **T-REK**
 

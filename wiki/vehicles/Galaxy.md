@@ -1,17 +1,17 @@
 ![`GalaxyNC.jpg`](../images/GalaxyNC.jpg "fig:GalaxyNC.jpg")`Galaxy]]`
 
-|                            |                                                                                                               |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Dropship                                                                                                      |
-| **Role**                   | Heavy Troop Transport                                                                                         |
-| **Certification Required** | [Air Support](../certifications/Air_Support.md)                                                                                 |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                 |
-| **Primary Weapon**         | 2 20mm Recoilless Cannons, 1 20mm Rotary Chaingun                                                             |
-| **Secondary Weapon**       | \-                                                                                                            |
-| **Ammunition Used**        | [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md)                                                     |
+|                            |                                                                                                                                             |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Dropship                                                                                                                                    |
+| **Role**                   | Heavy Troop Transport                                                                                                                       |
+| **Certification Required** | [Air Support](../certifications/Air_Support.md)                                                                                             |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                                |
+| **Primary Weapon**         | 2 20mm Recoilless Cannons, 1 20mm Rotary Chaingun                                                                                           |
+| **Secondary Weapon**       | \-                                                                                                                                          |
+| **Ammunition Used**        | [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md)                                                                     |
 | **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Units, plus a [vehicle](Vehicle.md) and passengers) |
-| **Handling**               | Very poor                                                                                                     |
-| **Top speed**              | 84 kph (152 with [Afterburners](../terminology/Afterburner.md))                                                              |
+| **Handling**               | Very poor                                                                                                                                   |
+| **Top speed**              | 84 kph (152 with [Afterburners](../terminology/Afterburner.md))                                                                             |
 
 **Galaxy**
 

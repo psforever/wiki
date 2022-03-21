@@ -1,15 +1,15 @@
-|                            |                                                                       |
-| -------------------------- | --------------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                       |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                 |
-| **Primary Mode**           | Single Shot Mortar                                                    |
-| **Secondary Mode**         | 8-Shot Salvo                                                          |
+|                            |                                                                                     |
+| -------------------------- | ----------------------------------------------------------------------------------- |
+| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                         |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                        |
+| **Primary Mode**           | Single Shot Mortar                                                                  |
+| **Secondary Mode**         | 8-Shot Salvo                                                                        |
 | **Ammunition**             | [Colossus Mortar Launcher Shells](../ammunition/Colossus_Mortar_Launcher_Shells.md) |
-| **Range**                  | Unknown                                                               |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                           |
-| **Magazine Capacity**      | 24                                                                    |
-| **Zoom**                   | 2x (?)                                                                |
-|                            |                                                                       |
+| **Range**                  | Unknown                                                                             |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                             |
+| **Magazine Capacity**      | 24                                                                                  |
+| **Zoom**                   | 2x (?)                                                                              |
+|                            |                                                                                     |
 
 **Mortar Launcher**
 

@@ -1,16 +1,16 @@
 ![](../images/FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its Dispersion
 Cannon\]\]
 
-|                            |                                                                       |
-| -------------------------- | --------------------------------------------------------------------- |
-| **Type**                   | Heavy Artillery                                                       |
-| **Role**                   | Attack/Defense                                                        |
-| **Certification Required** | [Flail](<Flail_(Certification)>)                                      |
+|                            |                                                                                                     |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Artillery                                                                                     |
+| **Role**                   | Attack/Defense                                                                                      |
+| **Certification Required** | [Flail](<Flail_(Certification)>)                                                                    |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) ([Ancient Tech](../terminology/Ancient_Technology.md)) |
-| **Primary Weapon**         | Dispersion Cannon                                                     |
-| **Occupants**              | 1 (Driver)                                                            |
-| **Handling**               | Poor                                                                  |
-| **Top speed**              | 55 kph (38 kph over water)                                            |
+| **Primary Weapon**         | Dispersion Cannon                                                                                   |
+| **Occupants**              | 1 (Driver)                                                                                          |
+| **Handling**               | Poor                                                                                                |
+| **Top speed**              | 55 kph (38 kph over water)                                                                          |
 
 **Flail**
 

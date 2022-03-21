@@ -1,16 +1,16 @@
 ![](../images/Repeater.jpg "Repeater.jpg")
 
-|                            |                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                    |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                      |
-| **Primary Mode**           | Single Shot                                                                                |
-| **Secondary Mode**         | \-                                                                                         |
+|                            |                                                                                                          |
+| -------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                             |
+| **Primary Mode**           | Single Shot                                                                                              |
+| **Secondary Mode**         | \-                                                                                                       |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](Armour_Piercing_9mm_Bullet.md)) |
-| **Range**                  | 200m                                                                                       |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                     |
-| **Magazine Capacity**      | 20                                                                                         |
-| **Zoom**                   | x2                                                                                         |
+| **Range**                  | 200m                                                                                                     |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                   |
+| **Magazine Capacity**      | 20                                                                                                       |
+| **Zoom**                   | x2                                                                                                       |
 
 **Repeater**
 
@@ -31,12 +31,12 @@ slower firing rate.
 
 Shots to kill:
 
-|                                               |                                  |
-| --------------------------------------------- | -------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 7 shots                          |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 8 shots                          |
-| [Reinforced Exo-Suit](armor/Reinforced_Exo-Suit.md) | 10 shots                         |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 75 [AP](../terminology/Armor_Piercing.md) shots |
+|                                                     |                                                 |
+| --------------------------------------------------- | ----------------------------------------------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)  | 7 shots                                         |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)        | 8 shots                                         |
+| [Reinforced Exo-Suit](armor/Reinforced_Exo-Suit.md) | 10 shots                                        |
+| [MAX](../items/Mechanized_Assault_Exo-Suit.md)      | 75 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire

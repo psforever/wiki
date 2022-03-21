@@ -1,9 +1,9 @@
-|                                  |                               |
-| -------------------------------- | ----------------------------- |
-| **Used by**                      | [Reaver](../vehicles/Reaver.md)           |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                           |
-| **Quantity per box**             | 12 Rockets                    |
+|                                                 |                                              |
+| ----------------------------------------------- | -------------------------------------------- |
+| **Used by**                                     | [Reaver](../vehicles/Reaver.md)              |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
+| **Quantity per box**                            | 12 Rockets                                   |
 
 **Reaver Rocket Pod**
 

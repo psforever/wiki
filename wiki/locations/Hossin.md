@@ -3,17 +3,17 @@
 
 ## Continental Data
 
-|                                  |                                                                                    |
-| -------------------------------- | ---------------------------------------------------------------------------------- |
-| Category:                        | Caustic Atmosphere                                                                 |
-| Climate:                         | Humid, Temperate                                                                   |
-| Landmass:                        | Continent                                                                          |
-| Terrain:                         | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains. |
-| [Facilities](Facilities.md):     | 11                                                                                 |
-| [Towers](Towers.md):             | 18                                                                                 |
-| Active [Warpgates](Warpgate.md): | 4                                                                                  |
-| Active [Geowarps](Geowarp.md):   | 1                                                                                  |
-| [Capitol](Capitol.md):           | [Interlink Facility](../terminology/Interlink.md) [Voltan](../facilities/Voltan.md)                             |
+|                                  |                                                                                     |
+| -------------------------------- | ----------------------------------------------------------------------------------- |
+| Category:                        | Caustic Atmosphere                                                                  |
+| Climate:                         | Humid, Temperate                                                                    |
+| Landmass:                        | Continent                                                                           |
+| Terrain:                         | Swampy lowlands, lush interiors, causeways, rolling hills, slow rivers, mountains.  |
+| [Facilities](Facilities.md):     | 11                                                                                  |
+| [Towers](Towers.md):             | 18                                                                                  |
+| Active [Warpgates](Warpgate.md): | 4                                                                                   |
+| Active [Geowarps](Geowarp.md):   | 1                                                                                   |
+| [Capitol](Capitol.md):           | [Interlink Facility](../terminology/Interlink.md) [Voltan](../facilities/Voltan.md) |
 
 ## Description
 

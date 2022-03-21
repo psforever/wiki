@@ -1,18 +1,18 @@
 ![](../images/Fury.jpg "fig:Fury.jpg") Fury\]\]
 
-|                            |                                                 |
-| -------------------------- | ----------------------------------------------- |
-| **Type**                   | ATV                                             |
-| **Role**                   | Rapid Response/Escort                           |
-| **Certification Required** | [ATV](<ATV_(Certification)>)                    |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                   |
-| **Primary Weapon**         | Hellfire Rocket Launcher                        |
-| **Secondary Weapon**       | \-                                              |
+|                            |                                                               |
+| -------------------------- | ------------------------------------------------------------- |
+| **Type**                   | ATV                                                           |
+| **Role**                   | Rapid Response/Escort                                         |
+| **Certification Required** | [ATV](<ATV_(Certification)>)                                  |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                  |
+| **Primary Weapon**         | Hellfire Rocket Launcher                                      |
+| **Secondary Weapon**       | \-                                                            |
 | **Ammunition Used**        | [Hellfire Rocket Pack](../ammunition/Hellfire_Rocket_Pack.md) |
-| **Range**                  | 200m                                            |
-| **Occupants**              | 1 (Driver)                                      |
-| **Handling**               | Ultra Nimble                                    |
-| **Top speed**              | 88 kph                                          |
+| **Range**                  | 200m                                                          |
+| **Occupants**              | 1 (Driver)                                                    |
+| **Handling**               | Ultra Nimble                                                  |
+| **Top speed**              | 88 kph                                                        |
 
 **Fury**
 

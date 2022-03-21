@@ -1,15 +1,15 @@
 ![](../images/PSScreenShot0298.jpg "PSScreenShot0298.jpg")
 
-|                            |                                          |
-| -------------------------- | ---------------------------------------- |
-| **Certification Required** | None                                     |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | None                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Primary Mode**           | Restores 25 Health                       |
-| **Secondary Mode**         | \-                                       |
-| **Ammunition**             | \-                                       |
-| **Inventory Dimensions**   | 2 x 4                                    |
-| **Magazine Capacity**      | 1 (1 time use only)                      |
-| **Zoom**                   | None                                     |
+| **Primary Mode**           | Restores 25 Health                           |
+| **Secondary Mode**         | \-                                           |
+| **Ammunition**             | \-                                           |
+| **Inventory Dimensions**   | 2 x 4                                        |
+| **Magazine Capacity**      | 1 (1 time use only)                          |
+| **Zoom**                   | None                                         |
 
 **Medical Kit (Medkit)**
 

@@ -1,9 +1,9 @@
-|                                  |                                                                                         |
-| -------------------------------- | --------------------------------------------------------------------------------------- |
-| **Used by**                      | [Colossus](../Colossus.md) and [Invader](../items/Invader.md) using the [Burster](</Burster_(BFR)>) |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md)                                                   |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                     |
-| **Quantity per box**             | 235 Rounds                                                                              |
+|                                                 |                                                                                                     |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Colossus](../Colossus.md) and [Invader](../items/Invader.md) using the [Burster](</Burster_(BFR)>) |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md)                                                        |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                 |
+| **Quantity per box**                            | 235 Rounds                                                                                          |
 
 **Colossus Dual Burster Ammunition**
 

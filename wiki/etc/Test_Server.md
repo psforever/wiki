@@ -16,7 +16,7 @@ about attaining battle ranks for certifications.
 
 1. Find the PlanetSide directory on your hard drive.
 2. Copy the entire PlanetSide folder and create a copy somewhere else
-    on your computer.
+   on your computer.
 3. Open the new PlanetSide folder and find the PlanetSideTest icon.
 4. Run this and wait for the game to patch.
 5. Hit the Play button.

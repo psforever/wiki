@@ -3,17 +3,17 @@
 
 ## Continental Data
 
-|                                  |                                                          |
-| -------------------------------- | -------------------------------------------------------- |
-| Category:                        | Inner Planet                                             |
-| Climate:                         | Desert                                                   |
-| Landmass:                        | Continent                                                |
-| Terrain:                         | Plains, cliffs, mountains, plateaus, oasis, rocky shores |
-| [Facilities](Facilities.md):     | 9                                                        |
-| [Towers](Towers.md):             | 18                                                       |
-| Active [Warpgates](Warpgate.md): | 4                                                        |
-| Active [Geowarps](Geowarp.md):   | 1                                                        |
-| [Capitol](Capitol.md):           | [Interlink Facility](../terminology/Interlink.md) [Hapi](../facilities/Hapi.md)       |
+|                                  |                                                                                 |
+| -------------------------------- | ------------------------------------------------------------------------------- |
+| Category:                        | Inner Planet                                                                    |
+| Climate:                         | Desert                                                                          |
+| Landmass:                        | Continent                                                                       |
+| Terrain:                         | Plains, cliffs, mountains, plateaus, oasis, rocky shores                        |
+| [Facilities](Facilities.md):     | 9                                                                               |
+| [Towers](Towers.md):             | 18                                                                              |
+| Active [Warpgates](Warpgate.md): | 4                                                                               |
+| Active [Geowarps](Geowarp.md):   | 1                                                                               |
+| [Capitol](Capitol.md):           | [Interlink Facility](../terminology/Interlink.md) [Hapi](../facilities/Hapi.md) |
 
 ## Description
 

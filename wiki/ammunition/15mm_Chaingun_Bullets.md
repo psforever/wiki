@@ -1,9 +1,9 @@
-|                                  |                                                                            |
-| -------------------------------- | -------------------------------------------------------------------------- |
-| **Used by**                      | [Prowler](../vehicles/Prowler.md),[Juggernaut](../vehicles/Juggernaut.md), and [Raider](../vehicles/Raider.md) |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md)                                      |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                        |
-| **Quantity per box**             | 360 Rounds                                                                 |
+|                                                 |                                                                                                                |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Prowler](../vehicles/Prowler.md),[Juggernaut](../vehicles/Juggernaut.md), and [Raider](../vehicles/Raider.md) |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md)                                                                   |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                            |
+| **Quantity per box**                            | 360 Rounds                                                                                                     |
 
 **15mm Chaingun Bullets**
 

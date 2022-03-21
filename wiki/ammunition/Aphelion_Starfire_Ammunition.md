@@ -1,9 +1,9 @@
-|                                  |                                                                                           |
-| -------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Used by**                      | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Starfire](</Starfire_(BFR)>) |
-| **Empire**                       | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                   |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                       |
-| **Quantity per pack**            | 132 Rounds                                                                                |
+|                                                 |                                                                                                                   |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Starfire](</Starfire_(BFR)>) |
+| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                    |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                               |
+| **Quantity per pack**                           | 132 Rounds                                                                                                        |
 
 **Aphelion Starfire Ammunition**
 

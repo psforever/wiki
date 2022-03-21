@@ -1,15 +1,15 @@
-|                            |                                                                 |
-| -------------------------- | --------------------------------------------------------------- |
-| **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                       |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                         |
-| **Primary Mode**           | Homing missiles                                                 |
-| **Secondary Mode**         | \-                                                              |
+|                            |                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                   |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                |
+| **Primary Mode**           | Homing missiles                                                               |
+| **Secondary Mode**         | \-                                                                            |
 | **Ammunition**             | [Aphelion Starfire Ammunition](../ammunition/Aphelion_Starfire_Ammunition.md) |
-| **Range**                  | Lockon: 300m Dumbfire: 450m                                     |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                     |
-| **Magazine Capacity**      | Unknown                                                         |
-| **Zoom**                   | 4x                                                              |
-|                            |                                                                 |
+| **Range**                  | Lockon: 300m Dumbfire: 450m                                                   |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                       |
+| **Magazine Capacity**      | Unknown                                                                       |
+| **Zoom**                   | 4x                                                                            |
+|                            |                                                                               |
 
 **Starfire (BFR)**
 

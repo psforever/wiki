@@ -1,9 +1,9 @@
-|                                  |                                                                                       |
-| -------------------------------- | ------------------------------------------------------------------------------------- |
-| **Used by**                      | [Peregrine](../Peregrine.md) and [Eagle](../vehicles/Eagle.md) using the [Sparrow](</Sparrow_(BFR)>) |
-| **Empire**                       | [New Conglomerate](../etc/New_Conglomerate.md)                                               |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                   |
-| **Quantity per box**             | 150 Missiles                                                                          |
+|                                                 |                                                                                                      |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Peregrine](../Peregrine.md) and [Eagle](../vehicles/Eagle.md) using the [Sparrow](</Sparrow_(BFR)>) |
+| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md)                                                       |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                  |
+| **Quantity per box**                            | 150 Missiles                                                                                         |
 
 **Peregrine Sparrow Ammunition**
 

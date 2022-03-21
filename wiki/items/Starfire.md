@@ -3,7 +3,7 @@
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                          |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                   |
 | **Armor**                  | 650                                                                                              |
 | **Primary Mode**           | Normal fire                                                                                      |
 | **Secondary Mode**         | \-                                                                                               |

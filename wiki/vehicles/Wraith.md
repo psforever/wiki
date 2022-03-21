@@ -1,17 +1,17 @@
 ![](../images/Wraiths.jpg "fig:Wraiths.jpg") ![](../images/Wraith.jpg "fig:Wraith.jpg")
 Wraith\]\]
 
-|                            |                                                                                                             |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| **Type**                   | ATV                                                                                                         |
-| **Role**                   | Recon                                                                                                       |
-| **Certification Required** | [ATV](<ATV_(Certification)>)                                                                     |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                    |
-| **Primary Weapon**         | \-                                                                                                          |
-| **Secondary Weapon**       | \-                                                                                                          |
-| **Occupants**              | 1 (Driver)                                                                                                  |
-| **Handling**               | Ultra Nimble                                                                                                |
-| **Top speed**              | 88 kph                                                                                                      |
+|                            |                                                                                                           |
+| -------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Type**                   | ATV                                                                                                       |
+| **Role**                   | Recon                                                                                                     |
+| **Certification Required** | [ATV](<ATV_(Certification)>)                                                                              |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                              |
+| **Primary Weapon**         | \-                                                                                                        |
+| **Secondary Weapon**       | \-                                                                                                        |
+| **Occupants**              | 1 (Driver)                                                                                                |
+| **Handling**               | Ultra Nimble                                                                                              |
+| **Top speed**              | 88 kph                                                                                                    |
 | **Note**                   | Has the ability to cloak when the driver is wearing an [Infiltration Suit](../items/Infiltration_Suit.md) |
 
 **Wraith**

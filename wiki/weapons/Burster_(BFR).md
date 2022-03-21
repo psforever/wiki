@@ -1,15 +1,15 @@
-|                            |                                                                         |
-| -------------------------- | ----------------------------------------------------------------------- |
-| **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                               |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                   |
-| **Primary Mode**           | Flak shells                                                             |
-| **Secondary Mode**         | \-                                                                      |
+|                            |                                                                                       |
+| -------------------------- | ------------------------------------------------------------------------------------- |
+| **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                           |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                          |
+| **Primary Mode**           | Flak shells                                                                           |
+| **Secondary Mode**         | \-                                                                                    |
 | **Ammunition**             | [Colossus Dual Burster Ammunition](../ammunition/Colossus_Dual_Burster_Ammunition.md) |
-| **Range**                  | 450m (?)                                                                |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                             |
-| **Magazine Capacity**      | 25                                                                      |
-| **Zoom**                   | 4x                                                                      |
-|                            |                                                                         |
+| **Range**                  | 450m (?)                                                                              |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                               |
+| **Magazine Capacity**      | 25                                                                                    |
+| **Zoom**                   | 4x                                                                                    |
+|                            |                                                                                       |
 
 **Burster (BFR)**
 

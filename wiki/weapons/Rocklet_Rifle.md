@@ -1,15 +1,15 @@
 ![](../images/Rocklet_Rifle.jpg "Rocklet_Rifle.jpg")
 
-|                            |                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Special Assault](../certifications/Special_Assault.md)                                                      |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                              |
-| **Primary Mode**           | Single Fire                                                                                |
-| **Secondary Mode**         | Rapid Succession Fire                                                                      |
+|                            |                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Special Assault](../certifications/Special_Assault.md)                                                        |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                   |
+| **Primary Mode**           | Single Fire                                                                                                    |
+| **Secondary Mode**         | Rapid Succession Fire                                                                                          |
 | **Ammunition**             | [Rocket Pod](ammunition/Rocket_Pod.md) or [Fragmentation Gre../items/Fragmentation_Grenade_Pack.mdade_Pack.md) |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                      |
-| **Magazine Capacity**      | 6                                                                                          |
-| **Zoom**                   | 2x                                                                                         |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                          |
+| **Magazine Capacity**      | 6                                                                                                              |
+| **Zoom**                   | 2x                                                                                                             |
 
 **Rocklet Rifle**
 
@@ -47,12 +47,12 @@ Pack](../items/Fragmentation_Grenade_Pack.md)
 
 Shots to kill (Direct hit with rocklet):
 
-|                                               |          |
-| --------------------------------------------- | -------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 3 shots  |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 4 shots  |
+|                                                     |          |
+| --------------------------------------------------- | -------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)  | 3 shots  |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)        | 4 shots  |
 | [Reinforced Exo-Suit](armor/Reinforced_Exo-Suit.md) | 6 shots  |
-| [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 10 shots |
+| [MAX](../items/Mechanized_Assault_Exo-Suit.md)      | 10 shots |
 
 [Category:Game Items](Category:Game_Items.md)
 [Category:Weapons](Category:Weapons.md) [Category:Common Pool

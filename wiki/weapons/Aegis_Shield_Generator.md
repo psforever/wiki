@@ -2,16 +2,16 @@
 ![](../images/AegisAmmo.jpg "fig:AegisAmmo.jpg")
 ![](../images/AegisInfo.jpg "fig:AegisInfo.jpg")
 
-|                            |                                                                                                  |
-| -------------------------- | ------------------------------------------------------------------------------------------------ |
+|                            |                                                                                                                                      |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                    |
-| **Primary Mode**           | Deploy Shield Generator                                                                          |
-| **Secondary Mode**         | \-                                                                                               |
-| **Ammunition**             | 1 [Field Deployment Unit](Field_Deployment_Unit.md)                                              |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                            |
-| **Magazine Capacity**      | 1 per unit                                                                                       |
-| **Zoom**                   | \-                                                                                               |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                         |
+| **Primary Mode**           | Deploy Shield Generator                                                                                                              |
+| **Secondary Mode**         | \-                                                                                                                                   |
+| **Ammunition**             | 1 [Field Deployment Unit](Field_Deployment_Unit.md)                                                                                  |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                                                                |
+| **Magazine Capacity**      | 1 per unit                                                                                                                           |
+| **Zoom**                   | \-                                                                                                                                   |
 
 **Aegis Shield Generator**
 

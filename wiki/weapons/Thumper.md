@@ -2,8 +2,8 @@
 
 |                            |                                                                                                                |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Special Assault](../certifications/Special_Assault.md)                                                                          |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                  |
+| **Certification Required** | [Special Assault](../certifications/Special_Assault.md)                                                        |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                   |
 | **Primary Mode**           | Explode on contact                                                                                             |
 | **Secondary Mode**         | Two Second Fuse                                                                                                |
 | **Ammunition**             | [Jammer](Jammer_Grenade.md), [Plasma](Plasma_grenade.md) or [Fragmentation grenades](Fragmentation_grenade.md) |

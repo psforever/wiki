@@ -1,9 +1,9 @@
-|                                  |                                                                                                                               |
-| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Used by**                      | [Reaver](../vehicles/Reaver.md), [Vanguard](../vehicles/Vanguard.md), [Deliverer](../vehicles/Deliverer.md), [Vin../vehicles/Vindicator.mdicator.md), and [Galaxy](../vehicles/Galaxy.md) |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md)                                                                                                 |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                           |
-| **Quantity per box**             | 200 Rounds                                                                                                                    |
+|                                                 |                                                                                                                                                                                           |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Reaver](../vehicles/Reaver.md), [Vanguard](../vehicles/Vanguard.md), [Deliverer](../vehicles/Deliverer.md), [Vin../vehicles/Vindicator.mdicator.md), and [Galaxy](../vehicles/Galaxy.md) |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md)                                                                                                                                              |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                                                                       |
+| **Quantity per box**                            | 200 Rounds                                                                                                                                                                                |
 
 **Recoilless Cannon Bullets**
 

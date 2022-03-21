@@ -1,11 +1,11 @@
 ![](../images/Strikermissle.jpg "Strikermissle.jpg")
 
-|                          |                                       |
-| ------------------------ | ------------------------------------- |
-| **Used by**              | [Striker](../weapons/Striker.md)                 |
+|                          |                                              |
+| ------------------------ | -------------------------------------------- |
+| **Used by**              | [Striker](../weapons/Striker.md)             |
 | **Empire**               | [Terran Republic](../etc/Terran_Republic.md) |
-| **Inventory dimensions** | 4x4                                   |
-| **Quantity per pack**    | 15 missiles                           |
+| **Inventory dimensions** | 4x4                                          |
+| **Quantity per pack**    | 15 missiles                                  |
 
 **Striker Missile**
 

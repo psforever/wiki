@@ -1,16 +1,16 @@
 ![](Mag-Scatter.jpg "fig:Mag-Scatter.JPG") Mag-Scatter\]\]
 
-|                            |                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                              |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                              |
-| **Primary Mode**           | Single Blast                                                                                         |
-| **Secondary Mode**         | \-                                                                                                   |
+|                            |                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                                        |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                   |
+| **Primary Mode**           | Single Blast                                                                                                                     |
+| **Secondary Mode**         | \-                                                                                                                               |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |
-| **Range**                  | 100m                                                                                                 |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                               |
-| **Magazine Capacity**      | 8                                                                                                    |
-| **Zoom**                   | x2                                                                                                   |
+| **Range**                  | 100m                                                                                                                             |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                                                                                           |
+| **Magazine Capacity**      | 8                                                                                                                                |
+| **Zoom**                   | x2                                                                                                                               |
 
 **Mag-Scatter Pistol**
 
@@ -23,11 +23,11 @@ close-quarters use, such as tower fights.
 
 Shots to kill (Extremely Close Range):
 
-|                                               |                                              |
-| --------------------------------------------- | -------------------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 3 shots                                      |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3 shots                                      |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 5 shots                                      |
+|                                                        |                                                             |
+| ------------------------------------------------------ | ----------------------------------------------------------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 3 shots                                                     |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3 shots                                                     |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 5 shots                                                     |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 15 [Armor Piercing](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no

@@ -1,16 +1,16 @@
 ![](../images/Enforcer.jpg "fig:Enforcer.jpg") Enforcer\]\]
 
-|                            |                                                                                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Assault Buggy                                                                                     |
-| **Role**                   | Attack/Defense                                                                                          |
+|                            |                                                                                                     |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                                                 |
+| **Role**                   | Attack/Defense                                                                                      |
 | **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](../certifications/Light_Scout.md) |
 | **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                      |
-| **Primary Weapon**         | [Firebird](../weapons/Firebird.md) Rocket Launcher                                                      |
-| **Ammunition**             | [Firebird Rocket](../ammunition/Firebird_Rocket.md)                                                        |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                   |
-| **Handling**               | Good                                                                                                    |
-| **Top speed**              | 80 kph                                                                                                  |
+| **Primary Weapon**         | [Firebird](../weapons/Firebird.md) Rocket Launcher                                                  |
+| **Ammunition**             | [Firebird Rocket](../ammunition/Firebird_Rocket.md)                                                 |
+| **Occupants**              | 2 (Driver and Gunner)                                                                               |
+| **Handling**               | Good                                                                                                |
+| **Top speed**              | 80 kph                                                                                              |
 
 **Enforcer**
 

@@ -1,13 +1,13 @@
-|                        |                                                      |
-| ---------------------- | ---------------------------------------------------- |
-| **Type**               | Armor                                                |
+|                        |                                                    |
+| ---------------------- | -------------------------------------------------- |
+| **Type**               | Armor                                              |
 | **Provides Access To** | [Infiltration Suit](../items/Infiltration_Suit.md) |
-| **Pre-requisite**      | \-                                                   |
-| **Required For**       | [Phantasm](</Phantasm_(Certification)>)   |
-| **Cert Point Cost**    | 2                                                    |
-| **Protection**         | 0                                                    |
-| **Holsters**           | 1 Pistol                                             |
-| **Inventory Capacity** | 6 x 6                                                |
+| **Pre-requisite**      | \-                                                 |
+| **Required For**       | [Phantasm](</Phantasm_(Certification)>)            |
+| **Cert Point Cost**    | 2                                                  |
+| **Protection**         | 0                                                  |
+| **Holsters**           | 1 Pistol                                           |
+| **Inventory Capacity** | 6 x 6                                              |
 
 **Infiltration Suit**
 

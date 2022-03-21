@@ -3,15 +3,15 @@
 
 ## Continental Data
 
-|                                  |                                                         |
-| -------------------------------- | ------------------------------------------------------- |
-| Category:                        | Outer World                                             |
-| Climate:                         | Arctic                                                  |
-| Landmass:                        | Continent                                               |
-| Terrain:                         | Snowy hills and plains, icy beaches, rugged woodland.   |
-| [Facilities](Facilities.md):     | 13                                                      |
-| [Towers](Towers.md):             |                                                         |
-| Active [Warpgates](Warpgate.md): | 4                                                       |
+|                                  |                                                                       |
+| -------------------------------- | --------------------------------------------------------------------- |
+| Category:                        | Outer World                                                           |
+| Climate:                         | Arctic                                                                |
+| Landmass:                        | Continent                                                             |
+| Terrain:                         | Snowy hills and plains, icy beaches, rugged woodland.                 |
+| [Facilities](Facilities.md):     | 13                                                                    |
+| [Towers](Towers.md):             |                                                                       |
+| Active [Warpgates](Warpgate.md): | 4                                                                     |
 | Capitol:                         | [Technology Plant](Technology_Plant.md) [Eisa](../facilities/Eisa.md) |
 
 ## Description

@@ -1,15 +1,15 @@
 ![](../images/Chainblade.jpg "Chainblade.jpg")
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)   |
-| **Primary Mode**           | Slash                                              |
-| **Secondary Mode**         | Chainblade Attack                                  |
-| **Ammunition**             | \-                                                 |
-| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                              |
-| **Magazine Capacity**      | \-                                                 |
-| **Zoom**                   | None                                               |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)              |
+| **Primary Mode**           | Slash                                                     |
+| **Secondary Mode**         | Chainblade Attack                                         |
+| **Ammunition**             | \-                                                        |
+| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                                     |
+| **Magazine Capacity**      | \-                                                        |
+| **Zoom**                   | None                                                      |
 
 **Chainblade**
 

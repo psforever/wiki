@@ -1,15 +1,15 @@
 ![](../images/Magcutter.jpg "Magcutter.jpg")
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md) |
-| **Primary Mode**           | Slash                                              |
-| **Secondary Mode**         | Magnetic Attack                                    |
-| **Ammunition**             | \-                                                 |
-| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                              |
-| **Magazine Capacity**      | \-                                                 |
-| **Zoom**                   | None                                               |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)            |
+| **Primary Mode**           | Slash                                                     |
+| **Secondary Mode**         | Magnetic Attack                                           |
+| **Ammunition**             | \-                                                        |
+| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                                     |
+| **Magazine Capacity**      | \-                                                        |
+| **Zoom**                   | None                                                      |
 
 **Mag-Cutter**
 

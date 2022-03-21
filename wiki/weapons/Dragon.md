@@ -1,17 +1,17 @@
 ![](../images/Dragon1.jpg "fig:Dragon1.jpg") Soldier firing the Dragon\]\]
 ![](../images/Dragon.jpg "fig:Dragon.jpg")
 
-|                            |                                     |
-| -------------------------- | ----------------------------------- |
-| **Certification Required** | [Elite Assault](../certifications/Elite_Assault.md)   |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)       |
-| **Primary Mode**           | Stream                              |
-| **Secondary Mode**         | Sunburst explosion                  |
-| **Ammunition**             | [Incendiary Gel](../items/Incendiary_Gel.md) |
-| **Range**                  | 12 meters                           |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)               |
-| **Magazine Capacity**      | 100                                 |
-| **Zoom**                   | 2x                                  |
+|                            |                                                     |
+| -------------------------- | --------------------------------------------------- |
+| **Certification Required** | [Elite Assault](../certifications/Elite_Assault.md) |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)        |
+| **Primary Mode**           | Stream                                              |
+| **Secondary Mode**         | Sunburst explosion                                  |
+| **Ammunition**             | [Incendiary Gel](../items/Incendiary_Gel.md)        |
+| **Range**                  | 12 meters                                           |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                               |
+| **Magazine Capacity**      | 100                                                 |
+| **Zoom**                   | 2x                                                  |
 
 **Dragon**
 

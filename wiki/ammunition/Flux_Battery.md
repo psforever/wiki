@@ -1,9 +1,9 @@
-|                                  |                                                       |
-| -------------------------------- | ----------------------------------------------------- |
-| **Used by**                      | [Thresher](../vehicles/Thresher.md) and [Leviathan](../vehicles/Leviathan.md) |
-| **Empire**                       | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)               |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                   |
-| **Quantity per pack**            | 150 Units                                             |
+|                                                 |                                                                               |
+| ----------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Used by**                                     | [Thresher](../vehicles/Thresher.md) and [Leviathan](../vehicles/Leviathan.md) |
+| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                           |
+| **Quantity per pack**                           | 150 Units                                                                     |
 
 **Flux Battery**
 

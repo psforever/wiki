@@ -1,9 +1,9 @@
-|                                  |                                                                               |
-| -------------------------------- | ----------------------------------------------------------------------------- |
-| **Used by**                      | [Peregrine](../items/Peregrine.md) and [Eagle](../vehicles/Eagle.md) using the [Hammer](../items/Hammer.md) |
-| **Empire**                       | [New Conglomerate](../etc/New_Conglomerate.md)                                       |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                           |
-| **Quantity per box**             | 165 Rounds                                                                    |
+|                                                 |                                                                                                             |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Peregrine](../items/Peregrine.md) and [Eagle](../vehicles/Eagle.md) using the [Hammer](../items/Hammer.md) |
+| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md)                                                              |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                         |
+| **Quantity per box**                            | 165 Rounds                                                                                                  |
 
 **Peregrine Hammer Ammunition**
 

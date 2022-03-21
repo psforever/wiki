@@ -42,7 +42,7 @@ convenient in the heat of battle to have a player repair you. You can
 inform nearby players that you need repairs by using a voice macro.
 (Keys: V-N-R).
 
-  - - One very useful tip/trick, if you standing directly behind
+- - One very useful tip/trick, if you standing directly behind
     someone at point blank range, they can repair you. This is
     extremely useful if that player is third person camping. It is
     important to note that not all players will know about this
@@ -86,7 +86,7 @@ Combat
 
 Movement/Strafing
 
-` Strafing is an important part of infantry combat. In this game, strafe movement is quicker compared to other games in the FPS genre, so you can help mitigate damage through good movement. Strafing side to side (A-D-A-D) for approximately one second in each direction is a sweet spot that can create a rubber-banding or ‘warping’ effect that can throw off an enemy’s aim. Sometimes you’ll want to take a longer strafe and throw the warping strafe in to throw off an enemy. The more unpredictable your movement (while simultaneously integrating the warping strafe) the better. `
+`Strafing is an important part of infantry combat. In this game, strafe movement is quicker compared to other games in the FPS genre, so you can help mitigate damage through good movement. Strafing side to side (A-D-A-D) for approximately one second in each direction is a sweet spot that can create a rubber-banding or ‘warping’ effect that can throw off an enemy’s aim. Sometimes you’ll want to take a longer strafe and throw the warping strafe in to throw off an enemy. The more unpredictable your movement (while simultaneously integrating the warping strafe) the better.`
 
 Agile ExoSuit moves and strafes faster, so this effect can be more
 prominent when using it. Additionally, you can more easily execute
@@ -95,7 +95,7 @@ good skill and game sense to do so.
 
 Third Person/Camping
 
-` Since there is a third person mode that allows you to see around corners (albeit not aim), many players will camp corners to gain advantages in combat, waiting for unsuspecting troops to push forward. While it’s not always a guaranteed kill, it benefits the defender greatly in a lot of cases (particularly 1v1 situations). If you are uncertain if an enemy is around a corner, throw a hand grenade at it to determine if an enemy is there or not. If the cone of fire appears, then you hit something. `
+`Since there is a third person mode that allows you to see around corners (albeit not aim), many players will camp corners to gain advantages in combat, waiting for unsuspecting troops to push forward. While it’s not always a guaranteed kill, it benefits the defender greatly in a lot of cases (particularly 1v1 situations). If you are uncertain if an enemy is around a corner, throw a hand grenade at it to determine if an enemy is there or not. If the cone of fire appears, then you hit something.`
 
 Boomers (Spawned through Combat Engineering’s ACE Device) are very
 deadly remote controlled mines used primarily indoors by third person
@@ -154,7 +154,7 @@ into your loadout to help deal with MAX Units.
 Newer players with less certifications will probably be more interested
 in the alternative loadouts requiring less certifications.
 
-  - - NOTE: These are the Terran Republic versions of loadouts. New
+- - NOTE: These are the Terran Republic versions of loadouts. New
     Conglomerate and Vanu Sovereignty will have to use their
     equivalent empire specific weapons and respective ammo.
 
@@ -192,7 +192,7 @@ Mini-Chaingun -- Heavy Assault Decimator -- Anti-Vehicular
 
 Medical Applicator -- Medical
 
-  - - If you lack Medical, can use REK as a Sidearm instead
+- - If you lack Medical, can use REK as a Sidearm instead
 
 Body Armor Nano Kit (BANK) -- Engineering
 
@@ -232,7 +232,7 @@ two Equipment Terminals on either side. If you wish to deconstruct
 yourself, you can do so by going to the rear end of the AMS. The AMS can
 be acquired from a Vehicle Terminal by certing Ground Support.
 
-  - - NOTE: When populations are extremely low, it is sometimes
+- - NOTE: When populations are extremely low, it is sometimes
     considered unethical to camp or destroy spawns, particularly an
     AMS. The reason for this is that it kills the fight for a while,
     leading to meaningless downtime. This isn’t a problem when the

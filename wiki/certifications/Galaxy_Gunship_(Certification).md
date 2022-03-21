@@ -1,10 +1,10 @@
-|                        |                                     |
-| ---------------------- | ----------------------------------- |
-| **Type**               | Aircraft                            |
+|                        |                                                 |
+| ---------------------- | ----------------------------------------------- |
+| **Type**               | Aircraft                                        |
 | **Provides Access To** | [Galaxy Gunship](../vehicles/Galaxy_Gunship.md) |
-| **Pre-requisite**      | [Air Support](Air_Support.md)       |
-| **Required For**       | \-                                  |
-| **Cert Point Cost**    | 2                                   |
+| **Pre-requisite**      | [Air Support](Air_Support.md)                   |
+| **Required For**       | \-                                              |
+| **Cert Point Cost**    | 2                                               |
 
 **Galaxy Gunship**
 

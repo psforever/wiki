@@ -341,7 +341,7 @@ skill that requires alot of practice to master. There are a few choice
 threads on the [Official Forums](Planetside_Official_Forums.md)
 talking about the morality of using the Deci-Swap technique, but this
 section isn't about how "legal" Deci-Swapping is. Let's move on to what
-this section_is_ about.
+this section*is* about.
 
 ### [Inventory](../terminology/Inventory.md) Loadout
 
@@ -728,7 +728,7 @@ Picking on the sick and wounded would mean finding a damaged BFR, and
 finishing it off. This would require use of the [Enhanced
 Targeting](../implants/Enhanced_Targeting.md) implant to spot low health
 bars, or just a keen sense of how hurt a BFR is simply by how it moves.
-If a BFR is running_away_ from a target, good chance that it's probably
+If a BFR is running*away* from a target, good chance that it's probably
 hurt, or at least in no shape to attack. This also applies to enemy
 frames that are under attack by friendly forces. I myself tend to drop
 in on a BFR being targetting by my own empire, seeking both the kill and
@@ -913,19 +913,19 @@ Description here
 
 1. <div id="Deciswap_Exploit">
 
-    Deci-Swapping: Is this a bannable exploit?
+   Deci-Swapping: Is this a bannable exploit?
 
-    </div>
+   </div>
 
-    - At the time of this writing, no. [Samhayne has already replied
-      to one of the posts concerning the "decimator
-      exploit"](http://psforums.station.sony.com/ps/board/message?board.id=psdiscussion&message.id=543881#M543881)
-      calling it an "unintended feature" at the moment. This means
-      that the Deci-Swap could be killed off in a later patch, but it
-      is not a bannable offense.
+   - At the time of this writing, no. [Samhayne has already replied
+     to one of the posts concerning the "decimator
+     exploit"](http://psforums.station.sony.com/ps/board/message?board.id=psdiscussion&message.id=543881#M543881)
+     calling it an "unintended feature" at the moment. This means
+     that the Deci-Swap could be killed off in a later patch, but it
+     is not a bannable offense.
 
 2. Second question goes here
-    - Second answer goes here.
+   - Second answer goes here.
 
 ### Graphic Index
 

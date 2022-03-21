@@ -1,9 +1,9 @@
-|                                  |                               |
-| -------------------------------- | ----------------------------- |
-| **Used by**                      | [Skyguard](../items/Skyguard.md)       |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                           |
-| **Quantity per box**             | 200 Rounds                    |
+|                                                 |                                              |
+| ----------------------------------------------- | -------------------------------------------- |
+| **Used by**                                     | [Skyguard](../items/Skyguard.md)             |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
+| **Quantity per box**                            | 200 Rounds                                   |
 
 **Flak Cannon Ammunition**
 

@@ -1,16 +1,16 @@
 ![](../images/Orion.jpg "Orion.jpg")
 
-|                            |                                                                                                  |
-| -------------------------- | ------------------------------------------------------------------------------------------------ |
+|                            |                                                                                                                                      |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                          |
-| **Primary Mode**           | Quasar                                                                                           |
-| **Secondary Mode**         | \-                                                                                               |
-| **Ammunition**             | \-                                                                                               |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                            |
-| **Magazine Capacity**      | 100                                                                                              |
-| **Range**                  | 250m                                                                                             |
-| **Zoom**                   | 4x                                                                                               |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                       |
+| **Primary Mode**           | Quasar                                                                                                                               |
+| **Secondary Mode**         | \-                                                                                                                                   |
+| **Ammunition**             | \-                                                                                                                                   |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                                |
+| **Magazine Capacity**      | 100                                                                                                                                  |
+| **Range**                  | 250m                                                                                                                                 |
+| **Zoom**                   | 4x                                                                                                                                   |
 
 **Orion**
 

@@ -4,7 +4,7 @@
 |                            |                                                                                                |
 | -------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicle MAX](<Anti-Vehicle_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                          |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                   |
 | **Armor**                  | 650                                                                                            |
 | **Primary Mode**           | Normal fire                                                                                    |
 | **Secondary Mode**         | 3 second fuse                                                                                  |
@@ -29,12 +29,12 @@ enabling the pounder to move.
 
 Shots to kill:
 
-|                                               |          |
-| --------------------------------------------- | -------- |
+|                                                        |          |
+| ------------------------------------------------------ | -------- |
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 5 shots  |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 7 shots  |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 10 shots |
-| [MAX](Mechanized_Assault_Exo-Suit.md)         | 10 shots |
+| [MAX](Mechanized_Assault_Exo-Suit.md)                  | 10 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
 [MedKits](MedKit.md), [Implants](../implants/Implants.md) or [Empire

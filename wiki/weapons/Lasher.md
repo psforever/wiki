@@ -1,16 +1,16 @@
 ![](../images/Lasher.jpg "fig:Lasher.jpg") soldier firing a Lasher\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
-| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)       |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
-| **Primary Mode**           | Energy Orb                              |
+|                            |                                                        |
+| -------------------------- | ------------------------------------------------------ |
+| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)    |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)         |
+| **Primary Mode**           | Energy Orb                                             |
 | **Secondary Mode**         | [Armor Piercing](../terminology/Armor_Piercing.md) Orb |
-| **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)          |
-| **Range**                  | 90m                                     |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                   |
-| **Magazine Capacity**      | 35                                      |
-| **Zoom**                   | 2x                                      |
+| **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)           |
+| **Range**                  | 90m                                                    |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                  |
+| **Magazine Capacity**      | 35                                                     |
+| **Zoom**                   | 2x                                                     |
 
 **Lasher**
 
@@ -40,11 +40,11 @@ equipment terminals.
 
 Shots to kill (With direct orb contact within 20m.):
 
-|                                               |                                  |
-| --------------------------------------------- | -------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 4 shots                          |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 5 shots                          |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 6 shots                          |
+|                                                        |                                                 |
+| ------------------------------------------------------ | ----------------------------------------------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 4 shots                                         |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 5 shots                                         |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 6 shots                                         |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 28 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no

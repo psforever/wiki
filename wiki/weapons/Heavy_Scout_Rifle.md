@@ -1,16 +1,16 @@
 ![](../images/HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Certification Required** | [Sniping](../certifications/Sniping.md)         |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | [Sniping](../certifications/Sniping.md)      |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Primary Mode**           | Semi-Automatic                |
-| **Secondary Mode**         | \-                            |
-| **Ammunition**             | [Bolt](../ammunition/Bolt.md)               |
-| **Range**                  | Visual rendering distance     |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)         |
-| **Magazine Capacity**      | 10                            |
-| **Zoom**                   | 2, 4 and 8x                   |
+| **Primary Mode**           | Semi-Automatic                               |
+| **Secondary Mode**         | \-                                           |
+| **Ammunition**             | [Bolt](../ammunition/Bolt.md)                |
+| **Range**                  | Visual rendering distance                    |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                        |
+| **Magazine Capacity**      | 10                                           |
+| **Zoom**                   | 2, 4 and 8x                                  |
 
 **Heavy Scout Rifle (HSR)**
 
@@ -33,8 +33,8 @@ may obtain it by purchasing the [Sniping](../certifications/Sniping.md)
 
 Shots to kill:
 
-|                                               |          |
-| --------------------------------------------- | -------- |
+|                                                        |          |
+| ------------------------------------------------------ | -------- |
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 3 shots  |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 4 shots  |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 5 shots  |

@@ -1,15 +1,15 @@
-|                            |                                                                           |
-| -------------------------- | ------------------------------------------------------------------------- |
-| **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                                 |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                   |
-| **Primary Mode**           | Continuous Laser                                                          |
-| **Secondary Mode**         | \-                                                                        |
+|                            |                                                                                         |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                             |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                          |
+| **Primary Mode**           | Continuous Laser                                                                        |
+| **Secondary Mode**         | \-                                                                                      |
 | **Ammunition**             | [Aphelion Continuous Laser Battery](../ammunition/Aphelion_Continuous_Laser_Battery.md) |
-| **Range**                  | 175m                                                                      |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                               |
-| **Magazine Capacity**      | 125                                                                       |
-| **Zoom**                   | 2x                                                                        |
-|                            |                                                                           |
+| **Range**                  | 175m                                                                                    |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                                 |
+| **Magazine Capacity**      | 125                                                                                     |
+| **Zoom**                   | 2x                                                                                      |
+|                            |                                                                                         |
 
 **Continuous Laser**
 

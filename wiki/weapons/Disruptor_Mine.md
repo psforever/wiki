@@ -2,8 +2,8 @@
 
 |                            |                                                                       |
 | -------------------------- | --------------------------------------------------------------------- |
-| **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md)                         |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                         |
+| **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md)       |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                          |
 | **Primary Mode**           | Disruptor Mine                                                        |
 | **Secondary Mode**         | \-                                                                    |
 | **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE) |

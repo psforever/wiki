@@ -1,16 +1,16 @@
 ![](../images/OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
 [Osprey](Osprey.md)\]\]
 
-|                            |                                                                                                                         |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md)                        |
+|                            |                                                                                                                                              |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md)         |
 | **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md), [Terran Republic](../etc/Terran_Republic.md), [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
-| **Primary Mode**           | Deploy Field Turret                                                                                                     |
-| **Secondary Mode**         | \-                                                                                                                      |
-| **Ammunition**             | \-                                                                                                                      |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                   |
-| **Magazine Capacity**      | Varies                                                                                                                  |
-| **Zoom**                   | 4x                                                                                                                      |
+| **Primary Mode**           | Deploy Field Turret                                                                                                                          |
+| **Secondary Mode**         | \-                                                                                                                                           |
+| **Ammunition**             | \-                                                                                                                                           |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                                        |
+| **Magazine Capacity**      | Varies                                                                                                                                       |
+| **Zoom**                   | 4x                                                                                                                                           |
 
 **One-Manned Field Turret (OMFT)**
 

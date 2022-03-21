@@ -1,17 +1,17 @@
 ![](../images/PSScreenShot0290.jpg "fig:PSScreenShot0290.jpg") Soldier with a
 Pulsar\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
-| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)     |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
-| **Primary Mode**           | Standard Bolt                           |
-| **Secondary Mode**         | Armor Piercing Bolt                     |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)        |
+| **Primary Mode**           | Standard Bolt                                         |
+| **Secondary Mode**         | Armor Piercing Bolt                                   |
 | **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)          |
-| **Range**                  | 200m                                    |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                   |
-| **Magazine Capacity**      | 40                                      |
-| **Zoom**                   | 4x                                      |
+| **Range**                  | 200m                                                  |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                 |
+| **Magazine Capacity**      | 40                                                    |
+| **Zoom**                   | 4x                                                    |
 
 **Pulsar**
 
@@ -32,11 +32,11 @@ from equipment terminals.
 
 Shots to kill:
 
-|                                               |                                       |
-| --------------------------------------------- | ------------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 7 shots                               |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 8 shots                               |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 10 shots                              |
+|                                                        |                                                      |
+| ------------------------------------------------------ | ---------------------------------------------------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 7 shots                                              |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 8 shots                                              |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 10 shots                                             |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP Mode](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no

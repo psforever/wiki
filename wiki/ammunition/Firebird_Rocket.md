@@ -1,9 +1,9 @@
-|                                  |                                         |
-| -------------------------------- | --------------------------------------- |
-| **Used by**                      | [Enforcer](../vehicles/Enforcer.md)                 |
-| **Empire**                       | [New Conglomerate](../etc/New_Conglomerate.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                     |
-| **Quantity per box**             | 50 Rockets                              |
+|                                                 |                                                |
+| ----------------------------------------------- | ---------------------------------------------- |
+| **Used by**                                     | [Enforcer](../vehicles/Enforcer.md)            |
+| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                            |
+| **Quantity per box**                            | 50 Rockets                                     |
 
 **Firebird Rocket**
 

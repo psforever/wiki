@@ -1,16 +1,16 @@
 ![](../images/Nano_dispenser.jpg "fig:Nano_dispenser.jpg")\]\]
 
-|                            |                                                                                |
-| -------------------------- | ------------------------------------------------------------------------------ |
+|                            |                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Engineering](../certifications/Engineering.md)                                                  |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                  |
-| **Primary Mode**           | Repair                                                                         |
-| **Secondary Mode**         | \-                                                                             |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                     |
+| **Primary Mode**           | Repair                                                                                           |
+| **Secondary Mode**         | \-                                                                                               |
 | **Ammunition**             | [Armor Canister](../items/Armor_Canister.md) or [Upgrade Canister](../items/Upgrade_Canister.md) |
-| **Range**                  | 5m                                                                             |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                          |
-| **Magazine Capacity**      | 100                                                                            |
-| **Zoom**                   | None                                                                           |
+| **Range**                  | 5m                                                                                               |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                            |
+| **Magazine Capacity**      | 100                                                                                              |
+| **Zoom**                   | None                                                                                             |
 
 **Nano Dispenser**
 

@@ -1,15 +1,15 @@
-|                            |                                                                 |
-| -------------------------- | --------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                 |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                           |
-| **Primary Mode**           | 100mm Cannon                                                    |
-| **Secondary Mode**         | \-                                                              |
+|                            |                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                   |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                  |
+| **Primary Mode**           | 100mm Cannon                                                                  |
+| **Secondary Mode**         | \-                                                                            |
 | **Ammunition**             | [Colossus 100mm Cannon Shells](../ammunition/Colossus_100mm_Cannon_Shells.md) |
-| **Range**                  | Unknown                                                         |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                     |
-| **Magazine Capacity**      | 22                                                              |
-| **Zoom**                   | 2x                                                              |
-|                            |                                                                 |
+| **Range**                  | Unknown                                                                       |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                       |
+| **Magazine Capacity**      | 22                                                                            |
+| **Zoom**                   | 2x                                                                            |
+|                            |                                                                               |
 
 **Dual 100mm Cannons**
 

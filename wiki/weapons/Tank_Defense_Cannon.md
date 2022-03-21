@@ -1,15 +1,15 @@
-|                            |                                                                               |
-| -------------------------- | ----------------------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                               |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                         |
-| **Primary Mode**           | Tank Defense Cannon                                                           |
-| **Secondary Mode**         | \-                                                                            |
+|                            |                                                                                             |
+| -------------------------- | ------------------------------------------------------------------------------------------- |
+| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                 |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                |
+| **Primary Mode**           | Tank Defense Cannon                                                                         |
+| **Secondary Mode**         | \-                                                                                          |
 | **Ammunition**             | [Colossus Tank Defense Cannon Shells](../ammunition/Colossus_Tank_Defense_Cannon_Shells.md) |
-| **Range**                  | 350m                                                                          |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                                   |
-| **Magazine Capacity**      | 25                                                                            |
-| **Zoom**                   | 2x                                                                            |
-|                            |                                                                               |
+| **Range**                  | 350m                                                                                        |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                                     |
+| **Magazine Capacity**      | 25                                                                                          |
+| **Zoom**                   | 2x                                                                                          |
+|                            |                                                                                             |
 
 **Tank Defense Cannon**
 

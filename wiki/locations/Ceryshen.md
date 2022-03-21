@@ -3,15 +3,15 @@
 
 ## Continental Data
 
-|                   |                                                                                 |
-| ----------------- | ------------------------------------------------------------------------------- |
-| Category:         | Binary Temperate                                                                |
-| Climate:          | Arctic                                                                          |
-| Landmass:         | Continent                                                                       |
-| Terrain:          | Icy cliffs, frozen plains, treacherous roads, snow-covered canyons              |
-| Facilities:       | 10                                                                              |
-| Towers:           | 27                                                                              |
-| Active Warpgates: | 4                                                                               |
+|                   |                                                                         |
+| ----------------- | ----------------------------------------------------------------------- |
+| Category:         | Binary Temperate                                                        |
+| Climate:          | Arctic                                                                  |
+| Landmass:         | Continent                                                               |
+| Terrain:          | Icy cliffs, frozen plains, treacherous roads, snow-covered canyons      |
+| Facilities:       | 10                                                                      |
+| Towers:           | 27                                                                      |
+| Active Warpgates: | 4                                                                       |
 | Capitol:          | [Dropship Center](Dropship_Center.md) [Anguta](../facilities/Anguta.md) |
 
 ## Description

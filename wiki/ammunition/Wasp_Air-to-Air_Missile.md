@@ -1,9 +1,9 @@
-|                                  |                               |
-| -------------------------------- | ----------------------------- |
-| **Used by**                      | [Wasp](../vehicles/Wasp.md)               |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                           |
-| **Quantity per box**             | 6 Missiles                    |
+|                                                 |                                              |
+| ----------------------------------------------- | -------------------------------------------- |
+| **Used by**                                     | [Wasp](../vehicles/Wasp.md)                  |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
+| **Quantity per box**                            | 6 Missiles                                   |
 
 **Wasp Air-to-Air Missile**
 

@@ -1,15 +1,15 @@
 ![](../images/TRAP.jpg "fig:TRAP.jpg") entrace\]\]
 
-|                            |                                                           |
-| -------------------------- | --------------------------------------------------------- |
+|                            |                                                                             |
+| -------------------------- | --------------------------------------------------------------------------- |
 | **Certification Required** | [Fortification Engineering](../certifications/Fortification_Engineering.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                             |
-| **Primary Mode**           | TRAP                                                      |
-| **Secondary Mode**         | \-                                                        |
-| **Ammunition**             | [Field Deployment Unit](Field_Deployment_Unit.md) (FDU)   |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                     |
-| **Magazine Capacity**      | 1 TRAP per FDU                                            |
-| **Zoom**                   | None                                                      |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                |
+| **Primary Mode**           | TRAP                                                                        |
+| **Secondary Mode**         | \-                                                                          |
+| **Ammunition**             | [Field Deployment Unit](Field_Deployment_Unit.md) (FDU)                     |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                       |
+| **Magazine Capacity**      | 1 TRAP per FDU                                                              |
+| **Zoom**                   | None                                                                        |
 
 **Tactical Resonance Area Protection (TRAP)**
 

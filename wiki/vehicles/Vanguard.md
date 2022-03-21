@@ -2,18 +2,18 @@
 Tank](../items/Medium_Battle_Tank.md)\]\]
 ![](../images/Vanguards.jpg "fig:Vanguards.jpg")\]\]
 
-|                            |                                                                                                                               |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                        |
-| **Role**                   | Attack                                                                                                                        |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md)               |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                            |
-| **Primary Weapon**         | 150mm Cannon                                                                                                                  |
-| **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                        |
-| **Ammunition**             | [150mm Tank Shells](<Tank_Shell_(150mm)>) and [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md) |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                                         |
-| **Handling**               | Average                                                                                                                       |
-| **Top speed**              | 60 kph                                                                                                                        |
+|                            |                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
+| **Role**                   | Attack                                                                                                                     |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md) |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                             |
+| **Primary Weapon**         | 150mm Cannon                                                                                                               |
+| **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                     |
+| **Ammunition**             | [150mm Tank Shells](<Tank_Shell_(150mm)>) and [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md)      |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                                      |
+| **Handling**               | Average                                                                                                                    |
+| **Top speed**              | 60 kph                                                                                                                     |
 
 **Vanguard**
 
@@ -31,8 +31,8 @@ to be purchasable.
 
 Shots to kill (with 150mm Cannon only):
 
-|                                      |          |
-| ------------------------------------ | -------- |
+|                           |          |
+| ------------------------- | -------- |
 | [Lightning](Lightning.md) | 4 shots  |
 | [Prowler](Prowler.md)     | 10 shots |
 | [Magrider](Magrider.md)   | 8 shots  |

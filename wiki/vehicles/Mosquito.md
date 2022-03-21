@@ -1,17 +1,17 @@
 ![](../images/Mosquito.jpg "Mosquito.jpg")
 
-|                            |                                                                                                  |
-| -------------------------- | ------------------------------------------------------------------------------------------------ |
-| **Type**                   | Light Assault Aircraft                                                                           |
-| **Role**                   | Recon                                                                                            |
+|                            |                                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Light Assault Aircraft                                                                                         |
+| **Role**                   | Recon                                                                                                          |
 | **Certification Required** | [Air Cavalry Scout](../certifications/Air_Cavalry_Scout.md) or [Light Scout](../certifications/Light_Scout.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                         |
-| **Primary Weapon**         | 12mm Rotary Chaingun                                                                             |
-| **Secondary Weapon**       | \-                                                                                               |
-| **Ammunition Used**        | [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md)                                 |
-| **Occupants**              | 1 (Pilot)                                                                                        |
-| **Handling**               | Good                                                                                             |
-| **Top speed**              | 119 kph (287 kph with [Afterburner](../terminology/Afterburner.md))                                  |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                   |
+| **Primary Weapon**         | 12mm Rotary Chaingun                                                                                           |
+| **Secondary Weapon**       | \-                                                                                                             |
+| **Ammunition Used**        | [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md)                                            |
+| **Occupants**              | 1 (Pilot)                                                                                                      |
+| **Handling**               | Good                                                                                                           |
+| **Top speed**              | 119 kph (287 kph with [Afterburner](../terminology/Afterburner.md))                                            |
 
 **Mosquito**
 

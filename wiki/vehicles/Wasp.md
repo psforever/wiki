@@ -1,18 +1,18 @@
 ![](../images/Wasp.jpg "fig:Wasp.jpg") [Wasp](Wasp.md)\]\]
 
-|                            |                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Type**                   | Anti-Aircraft Aircraft                                                                                       |
-| **Role**                   | Anti-Aircraft                                                                                                |
-| **Certification Required** | [Air Cavalry Interceptor](../certifications/Air_Cavalry_Interceptor.md)                                                        |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                |
-| **Primary Weapon**         | 12mm Rotary Chaingun                                                                                         |
-| **Secondary Weapon**       | Anti-Aircraft Missile Pod                                                                                    |
+|                            |                                                                                                                                          |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Anti-Aircraft Aircraft                                                                                                                   |
+| **Role**                   | Anti-Aircraft                                                                                                                            |
+| **Certification Required** | [Air Cavalry Interceptor](../certifications/Air_Cavalry_Interceptor.md)                                                                  |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                             |
+| **Primary Weapon**         | 12mm Rotary Chaingun                                                                                                                     |
+| **Secondary Weapon**       | Anti-Aircraft Missile Pod                                                                                                                |
 | **Ammunition Used**        | [Wasp Chaingun Bullets](../ammunition/Wasp_Chaingun_Bullets.md) and [Wasp Air-to-Air Missiles](../ammunition/Wasp_Air-to-Air_Missile.md) |
-| **Range**                  | Missles: 350m Chaingun: 250m                                                                                 |
-| **Occupants**              | 1 (Pilot)                                                                                                    |
-| **Handling**               | Good                                                                                                         |
-| **Top speed**              | 119 kph (287 kph with [Afterburner](../terminology/Afterburner.md))                                                         |
+| **Range**                  | Missles: 350m Chaingun: 250m                                                                                                             |
+| **Occupants**              | 1 (Pilot)                                                                                                                                |
+| **Handling**               | Good                                                                                                                                     |
+| **Top speed**              | 119 kph (287 kph with [Afterburner](../terminology/Afterburner.md))                                                                      |
 
 **Wasp**
 

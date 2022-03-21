@@ -2,16 +2,16 @@
 ![](../images/Telepad_deployed.jpg "fig:Telepad_deployed.jpg") telepad with its
 [Router](../vehicles/Router.md) in the background\]\]
 
-|                            |                                                          |
-| -------------------------- | -------------------------------------------------------- |
-| **Certification Required** | None                                                     |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                            |
-| **Primary Mode**           | Deploy                                                   |
-| **Secondary Mode**         | \-                                                       |
-| **Ammunition**             | \-                                                       |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                   |
-| **Magazine Capacity**      | \-                                                       |
-| **Zoom**                   | None                                                     |
+|                            |                                                                      |
+| -------------------------- | -------------------------------------------------------------------- |
+| **Certification Required** | None                                                                 |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                         |
+| **Primary Mode**           | Deploy                                                               |
+| **Secondary Mode**         | \-                                                                   |
+| **Ammunition**             | \-                                                                   |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                               |
+| **Magazine Capacity**      | \-                                                                   |
+| **Zoom**                   | None                                                                 |
 | **Note**                   | Can only be obtained from a deployed [Router](../vehicles/Router.md) |
 
 **Telepad**

@@ -1,18 +1,18 @@
 ![](../images/RaiderPicture.jpg "fig:RaiderPicture.jpg") Raider\]\]
 
-|                            |                                                              |
-| -------------------------- | ------------------------------------------------------------ |
-| **Type**                   | Medium Transport                                             |
-| **Role**                   | Medium Troop Transport                                       |
-| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)           |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)             |
-| **Primary Weapon**         | 4 15mm Recoilless Cannons                                    |
-| **Secondary Weapon**       | \-                                                           |
+|                            |                                                                 |
+| -------------------------- | --------------------------------------------------------------- |
+| **Type**                   | Medium Transport                                                |
+| **Role**                   | Medium Troop Transport                                          |
+| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)       |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                    |
+| **Primary Weapon**         | 4 15mm Recoilless Cannons                                       |
+| **Secondary Weapon**       | \-                                                              |
 | **Ammunition**             | [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md) |
-| **Range**                  | 250m                                                         |
-| **Occupants**              | 5 (Driver and 4 Gunners)                                     |
-| **Handling**               | Good                                                         |
-| **Top speed**              | 63 kph (40 kph over water)                                   |
+| **Range**                  | 250m                                                            |
+| **Occupants**              | 5 (Driver and 4 Gunners)                                        |
+| **Handling**               | Good                                                            |
+| **Top speed**              | 63 kph (40 kph over water)                                      |
 
 **Raider**
 

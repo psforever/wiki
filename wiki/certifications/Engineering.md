@@ -1,10 +1,10 @@
-|                        |                                                                     |
-| ---------------------- | ------------------------------------------------------------------- |
-| **Type**               | Equipment                                                           |
+|                        |                                                                                           |
+| ---------------------- | ----------------------------------------------------------------------------------------- |
+| **Type**               | Equipment                                                                                 |
 | **Provides Access To** | [Nano Dispenser](../weapons/Nano_Dispenser.md), [BANK](../weapons/Body_Armor_Nano_Kit.md) |
-| **Pre-requisite**      | \-                                                                  |
-| **Required For**       | [Combat Engineering](Combat_Engineering.md)                         |
-| **Cert Point Cost**    | 3                                                                   |
+| **Pre-requisite**      | \-                                                                                        |
+| **Required For**       | [Combat Engineering](Combat_Engineering.md)                                               |
+| **Cert Point Cost**    | 3                                                                                         |
 
 **Engineering**
 

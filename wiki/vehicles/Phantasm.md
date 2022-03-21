@@ -2,16 +2,16 @@
 ![](../images/PhantasmSide.jpg "fig:PhantasmSide.jpg")
 ![](../images/Phantasm.jpg "fig:Phantasm.jpg"), signed by Fisa\]\]
 
-|                            |                                              |
-| -------------------------- | -------------------------------------------- |
-| **Type**                   | Cloaked Aircraft                             |
-| **Role**                   | Stealth                                      |
-| **Certification Required** | [Phantasm](<Phantasm_(Certification)>)       |
+|                            |                                                             |
+| -------------------------- | ----------------------------------------------------------- |
+| **Type**                   | Cloaked Aircraft                                            |
+| **Role**                   | Stealth                                                     |
+| **Certification Required** | [Phantasm](<Phantasm_(Certification)>)                      |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                |
-| **Primary Weapon**         | \-                                           |
-| **Secondary Weapon**       | \-                                           |
-| **Occupants**              | 5 (1 Pilot, 4 Passengers)                    |
-| **Handling**               | Poor                                         |
+| **Primary Weapon**         | \-                                                          |
+| **Secondary Weapon**       | \-                                                          |
+| **Occupants**              | 5 (1 Pilot, 4 Passengers)                                   |
+| **Handling**               | Poor                                                        |
 | **Top speed**              | 140 (249 with [Afterburner](../terminology/Afterburner.md)) |
 
 **Phantasm**

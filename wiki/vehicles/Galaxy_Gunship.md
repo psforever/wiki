@@ -1,18 +1,18 @@
 ![](../images/GalGunshipFront.jpg "fig:GalGunshipFront.jpg") Galaxy Gunship\]\]
 ![](../images/GalGunShipRear.jpg "fig:GalGunShipRear.jpg")
 
-|                            |                                                                                                |
-| -------------------------- | ---------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Gunship                                                                                  |
-| **Role**                   | Attack                                                                                         |
-| **Certification Required** | [Galaxy Gunship](<Galaxy_Gunship_(Certification)>)                                             |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                  |
-| **Primary Weapon**         | Three 35mm Chainguns                                                                           |
-| **Secondary Weapon**       | Two [Ground Pounder](../terminology/Ground_Pounder.md) Mortar Launchers                                       |
+|                            |                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Gunship                                                                                                              |
+| **Role**                   | Attack                                                                                                                     |
+| **Certification Required** | [Galaxy Gunship](<Galaxy_Gunship_(Certification)>)                                                                         |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                               |
+| **Primary Weapon**         | Three 35mm Chainguns                                                                                                       |
+| **Secondary Weapon**       | Two [Ground Pounder](../terminology/Ground_Pounder.md) Mortar Launchers                                                    |
 | **Ammunition Used**        | [35mm Chaingun Bullets](../ammunition/35mm_Chaingun_Bullets.md) and [Mortar Cartridges](../ammunition/Mortar_Cartridge.md) |
-| **Occupants**              | 6 (1 Pilot, 5 Gunners)                                                                         |
-| **Handling**               | Unknown                                                                                        |
-| **Top speed**              | 85 KPH                                                                                         |
+| **Occupants**              | 6 (1 Pilot, 5 Gunners)                                                                                                     |
+| **Handling**               | Unknown                                                                                                                    |
+| **Top speed**              | 85 KPH                                                                                                                     |
 
 **Galaxy Gunship**
 

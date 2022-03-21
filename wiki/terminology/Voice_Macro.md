@@ -1,5 +1,5 @@
 | Start with    | Press                   | Press   | For                                |
-|---------------|-------------------------|---------|------------------------------------|
+| ------------- | ----------------------- | ------- | ---------------------------------- |
 | **V** then... | **A** for, "Attack ..." | **C**   | Hack their Control Console!        |
 |               |                         | **D**   | Destroy their Deployables!         |
 |               |                         | **E**   | Destroy their Equipment Terminals! |

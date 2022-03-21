@@ -1,9 +1,9 @@
-|                                  |                                                                                                                                 |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| **Used by**                      | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Pulsed Particle Accelerator](</Pulsed_Particle_Accelerator_(BFR)>) |
-| **Empire**                       | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                         |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                             |
-| **Quantity per pack**            | 110 Rounds                                                                                                                      |
+|                                                 |                                                                                                                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Pulsed Particle Accelerator](</Pulsed_Particle_Accelerator_(BFR)>) |
+| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                                          |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                                     |
+| **Quantity per pack**                           | 110 Rounds                                                                                                                                              |
 
 **Aphelion PPA Ammunition**
 

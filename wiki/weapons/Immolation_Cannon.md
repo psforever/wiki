@@ -1,15 +1,15 @@
-|                            |                                                                                   |
-| -------------------------- | --------------------------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                   |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                           |
-| **Primary Mode**           | Straight-line energy projectiles                                                  |
-| **Secondary Mode**         | \-                                                                                |
+|                            |                                                                                                 |
+| -------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                     |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                  |
+| **Primary Mode**           | Straight-line energy projectiles                                                                |
+| **Secondary Mode**         | \-                                                                                              |
 | **Ammunition**             | [Aphelion Immolation Cannon Ammunition](../ammunition/Aphelion_Immolation_Cannon_Ammunition.md) |
-| **Range**                  | 400m (?)                                                                          |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Gunner Weapon                                      |
-| **Magazine Capacity**      | 25                                                                                |
-| **Zoom**                   | 4x                                                                                |
-|                            |                                                                                   |
+| **Range**                  | 400m (?)                                                                                        |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Gunner Weapon                                        |
+| **Magazine Capacity**      | 25                                                                                              |
+| **Zoom**                   | 4x                                                                                              |
+|                            |                                                                                                 |
 
 **Immolation Cannon**
 

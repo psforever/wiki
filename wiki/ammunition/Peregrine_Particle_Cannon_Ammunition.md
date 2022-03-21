@@ -1,9 +1,9 @@
-|                                  |                                                                           |
-| -------------------------------- | ------------------------------------------------------------------------- |
-| **Used by**                      | [Peregrine](../items/Peregrine.md) using the [Particle Cannon](weapons/Particle_Cannon.md) |
-| **Empire**                       | [New Conglomerate](../etc/New_Conglomerate.md)                                   |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                       |
-| **Quantity per box**             | 40 Rounds                                                                 |
+|                                                 |                                                                                            |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Used by**                                     | [Peregrine](../items/Peregrine.md) using the [Particle Cannon](weapons/Particle_Cannon.md) |
+| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md)                                             |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                        |
+| **Quantity per box**                            | 40 Rounds                                                                                  |
 
 **Peregrine Particle Cannon Ammunition**
 

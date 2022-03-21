@@ -3,12 +3,12 @@
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                            |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                     |
 | **Armor**                  | 650                                                                                              |
 | **Primary Mode**           | Normal fire                                                                                      |
 | **Secondary Mode**         | \-                                                                                               |
 | **Magazine Capacity**      | 40                                                                                               |
-| **Ammunition**             | [Flak](../weapons/Flak.md)                                                                                  |
+| **Ammunition**             | [Flak](../weapons/Flak.md)                                                                       |
 | **Special Ability**        | Anchors, Overdrive                                                                               |
 
 **Burster**

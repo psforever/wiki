@@ -1,17 +1,17 @@
 ![](../images/Marauder.jpg "fig:Marauder.jpg")-colored Marauder\]\]
 
-|                            |                                                                                                                         |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Assault Buggy                                                                                                     |
-| **Role**                   | Attack/Defense                                                                                                          |
-| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](../certifications/Light_Scout.md)                 |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                        |
-| **Primary Weapon**         | [Ground Pounder](../terminology/Ground_Pounder.md) Grenade Launcher                                                         |
-| **Secondary Weapon**       | 12 mm rotary chaingun                                                                                                   |
+|                            |                                                                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Assault Buggy                                                                                                           |
+| **Role**                   | Attack/Defense                                                                                                                |
+| **Certification Required** | [Assault Buggy](<Assault_Buggy_(Certification)>) or [Light Scout](../certifications/Light_Scout.md)                           |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                  |
+| **Primary Weapon**         | [Ground Pounder](../terminology/Ground_Pounder.md) Grenade Launcher                                                           |
+| **Secondary Weapon**       | 12 mm rotary chaingun                                                                                                         |
 | **Ammunition Used**        | [Mortar Cartridge](../ammunition/Mortar_Cartridge.md) and [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |
-| **Occupants**              | 3 (Driver and 2 Gunners)                                                                                                |
-| **Handling**               | Average                                                                                                                 |
-| **Top speed**              | 80 kph                                                                                                                  |
+| **Occupants**              | 3 (Driver and 2 Gunners)                                                                                                      |
+| **Handling**               | Average                                                                                                                       |
+| **Top speed**              | 80 kph                                                                                                                        |
 
 **Marauder**
 

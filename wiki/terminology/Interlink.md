@@ -2,17 +2,17 @@
 
 ## Base Facility Specs
 
-|                                                        |                                                     |
-| ------------------------------------------------------ | --------------------------------------------------- |
-| [Control Console](../locations/Control_Console.md):                 | Basement                                            |
-| [Generator](../items/Generator.md):                             | Basement                                            |
-| [Spawn room](../locations/Spawn_Room.md):                           | Level 1                                             |
-| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air/Ground):  | Courtyard                                           |
-| [BFR Shed](../items/BFR_Shed.md):                               | Courtyard                                           |
-| [Lattice Logic Unit](../Lattice_Logic_Unit.md) Socket:    | Radar dish room on the roof                         |
-| [Facility Linked Benefit](Facility_Linked_Benefit.md): | Enhanced RADAR abilities (benefit icon: RADAR dish) |
-| [Wall Turrets](../items/Phalanx.md):                            | 6                                                   |
-|                                                        |                                                     |
+|                                                                    |                                                     |
+| ------------------------------------------------------------------ | --------------------------------------------------- |
+| [Control Console](../locations/Control_Console.md):                | Basement                                            |
+| [Generator](../items/Generator.md):                                | Basement                                            |
+| [Spawn room](../locations/Spawn_Room.md):                          | Level 1                                             |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air/Ground): | Courtyard                                           |
+| [BFR Shed](../items/BFR_Shed.md):                                  | Courtyard                                           |
+| [Lattice Logic Unit](../Lattice_Logic_Unit.md) Socket:             | Radar dish room on the roof                         |
+| [Facility Linked Benefit](Facility_Linked_Benefit.md):             | Enhanced RADAR abilities (benefit icon: RADAR dish) |
+| [Wall Turrets](../items/Phalanx.md):                               | 6                                                   |
+|                                                                    |                                                     |
 
 ## Description
 

@@ -1,15 +1,15 @@
 ![](../images/Forceblade.jpg "Forceblade.jpg")
 
-|                            |                                                    |
-| -------------------------- | -------------------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
-| **Primary Mode**           | Slash                                              |
-| **Secondary Mode**         | Force Attack                                       |
-| **Ammunition**             | \-                                                 |
-| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                              |
-| **Magazine Capacity**      | \-                                                 |
-| **Zoom**                   | None                                               |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)            |
+| **Primary Mode**           | Slash                                                     |
+| **Secondary Mode**         | Force Attack                                              |
+| **Ammunition**             | \-                                                        |
+| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                                     |
+| **Magazine Capacity**      | \-                                                        |
+| **Zoom**                   | None                                                      |
 
 **Force-Blade**
 

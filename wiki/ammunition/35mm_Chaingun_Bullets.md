@@ -1,9 +1,9 @@
-|                                  |                                                                                           |
-| -------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Used by**                      | [Galaxy Gunship](../vehicles/Galaxy_Gunship.md), [Liberator](../vehicles/Liberator.md), and [Vulture](../vehicles/Vulture.md) |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md)                                                             |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                       |
-| **Quantity per pack**            | 100 Bullets                                                                               |
+|                                                 |                                                                                                                               |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Galaxy Gunship](../vehicles/Galaxy_Gunship.md), [Liberator](../vehicles/Liberator.md), and [Vulture](../vehicles/Vulture.md) |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md)                                                                                  |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                           |
+| **Quantity per pack**                           | 100 Bullets                                                                                                                   |
 
 **35mm Chaingun Bullets**
 

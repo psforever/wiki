@@ -1,16 +1,16 @@
 ![](Plasma-Hand-grenade.jpg "fig:Plasma-Hand-grenade.jpg") [Hand
 grenade](Hand_grenade.md)\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)           |
-| **Primary Mode**           | Explode on Contact                      |
-| **Secondary Mode**         | Three Second Fuse                       |
-| **Ammunition**             | \-                                      |
-| **Inventory Dimensions**   | 2 x 2 (Pistol Holster)                  |
-| **Magazine Capacity**      | 3                                       |
-| **Zoom**                   | None                                    |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)              |
+| **Primary Mode**           | Explode on Contact                                        |
+| **Secondary Mode**         | Three Second Fuse                                         |
+| **Ammunition**             | \-                                                        |
+| **Inventory Dimensions**   | 2 x 2 (Pistol Holster)                                    |
+| **Magazine Capacity**      | 3                                                         |
+| **Zoom**                   | None                                                      |
 
 **Plasma Grenade**
 

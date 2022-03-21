@@ -1,18 +1,18 @@
 ![](../images/ProwlerPicture.jpg "fig:ProwlerPicture.jpg")'s [Medium Battle
 Tank](../items/Medium_Battle_Tank.md)\]\]
 
-|                            |                                                                                                                       |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                |
-| **Role**                   | Attack                                                                                                                |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md)       |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                      |
-| **Primary Weapon**         | Dual 100mm Cannons                                                                                                    |
-| **Secondary Weapon**       | Dual 15mm Rotary Chainguns                                                                                            |
-| **Ammunition**             | [100mm Tank Shells](<Tank_Shell_(100mm)>) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md) |
-| **Occupants**              | 3 (Driver and 2 Gunners)                                                                                              |
-| **Handling**               | Good                                                                                                                  |
-| **Top speed**              | 57 kph                                                                                                                |
+|                            |                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
+| **Role**                   | Attack                                                                                                                     |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md) |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                               |
+| **Primary Weapon**         | Dual 100mm Cannons                                                                                                         |
+| **Secondary Weapon**       | Dual 15mm Rotary Chainguns                                                                                                 |
+| **Ammunition**             | [100mm Tank Shells](<Tank_Shell_(100mm)>) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md)              |
+| **Occupants**              | 3 (Driver and 2 Gunners)                                                                                                   |
+| **Handling**               | Good                                                                                                                       |
+| **Top speed**              | 57 kph                                                                                                                     |
 
 **Prowler**
 
@@ -31,8 +31,8 @@ to be purchasable.
 
 Shots to kill (with Dual 100mm Cannons only):
 
-|                                      |          |
-| ------------------------------------ | -------- |
+|                           |          |
+| ------------------------- | -------- |
 | [Lightning](Lightning.md) | 5 shots  |
 | [Magrider](Magrider.md)   | 12 shots |
 | [Vanguard](Vanguard.md)   | 15 shots |

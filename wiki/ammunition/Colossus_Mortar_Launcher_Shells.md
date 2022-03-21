@@ -1,9 +1,9 @@
-|                                  |                                                                         |
-| -------------------------------- | ----------------------------------------------------------------------- |
-| **Used by**                      | [Colossus](../Colossus.md) using the [Mortar Launcher](../weapons/Mortar_Launcher.md) |
-| **Empire**                       | [Terran Republic](../etc/Terran_Republic.md)                                   |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                     |
-| **Quantity per box**             | 150 Rounds                                                              |
+|                                                 |                                                                                       |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Colossus](../Colossus.md) using the [Mortar Launcher](../weapons/Mortar_Launcher.md) |
+| **Empire**                                      | [Terran Republic](../etc/Terran_Republic.md)                                          |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                   |
+| **Quantity per box**                            | 150 Rounds                                                                            |
 
 **Colossus Mortar Launcher Shells**
 

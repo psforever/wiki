@@ -1,12 +1,12 @@
-|                        |                                                          |
-| ---------------------- | -------------------------------------------------------- |
-| **Type**               | Armor                                                    |
+|                        |                                                  |
+| ---------------------- | ------------------------------------------------ |
+| **Type**               | Armor                                            |
 | **Provides Access To** | [Reinforced Exo-Suit](../Reinforced_Exo-Suit.md) |
-| **Pre-requisite**      | \-                                                       |
-| **Required For**       | \-                                                       |
-| **Cert Point Cost**    | 3                                                        |
-| **Protection**         | 200                                                      |
-| **Holsters**           | 2 Pistol, 2 Rifle                                        |
+| **Pre-requisite**      | \-                                               |
+| **Required For**       | \-                                               |
+| **Cert Point Cost**    | 3                                                |
+| **Protection**         | 200                                              |
+| **Holsters**           | 2 Pistol, 2 Rifle                                |
 
 **Reinforced Exo-Suit**
 

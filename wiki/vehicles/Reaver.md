@@ -1,17 +1,17 @@
 ![](../images/PSScreenShot0259.jpg "fig:PSScreenShot0259.jpg") Reaver\]\]
 
-|                            |                                                                                                                               |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | Light Gunship                                                                                                                 |
-| **Role**                   | Attack                                                                                                                        |
-| **Certification Required** | [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md)                                                                      |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                      |
-| **Primary Weapon**         | 20mm Recoilless Cannon                                                                                                        |
-| **Secondary Weapon**       | Rocket Pod Launcher                                                                                                           |
+|                            |                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Light Gunship                                                                                                                    |
+| **Role**                   | Attack                                                                                                                           |
+| **Certification Required** | [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md)                                                                  |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                     |
+| **Primary Weapon**         | 20mm Recoilless Cannon                                                                                                           |
+| **Secondary Weapon**       | Rocket Pod Launcher                                                                                                              |
 | **Ammunition Used**        | [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md) and [Reaver Rocket Pod](ammunition/Reaver_Rocket_Pod.md) |
-| **Occupants**              | 1 (Pilot)                                                                                                                     |
-| **Handling**               | Good                                                                                                                          |
-| **Top speed**              | 104 kph (281 with [Afterburner](../terminology/Afterburner.md))                                                                   |
+| **Occupants**              | 1 (Pilot)                                                                                                                        |
+| **Handling**               | Good                                                                                                                             |
+| **Top speed**              | 104 kph (281 with [Afterburner](../terminology/Afterburner.md))                                                                  |
 
 **Reaver**
 

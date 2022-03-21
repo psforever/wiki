@@ -1,16 +1,16 @@
 ![](../images/AMS.jpg "AMS.jpg")
 
-|                            |                                     |
-| -------------------------- | ----------------------------------- |
-| **Type**                   | Utility                             |
-| **Role**                   | Mobile Spawn/Equipment Resource     |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| **Type**                   | Utility                                               |
+| **Role**                   | Mobile Spawn/Equipment Resource                       |
 | **Certification Required** | [Ground Support](../certifications/Ground_Support.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)       |
-| **Primary Weapon**         | \-                                  |
-| **Secondary Weapon**       | \-                                  |
-| **Occupants**              | 1 (Driver)                          |
-| **Handling**               | Very Poor                           |
-| **Top speed**              | 68 kph                              |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)          |
+| **Primary Weapon**         | \-                                                    |
+| **Secondary Weapon**       | \-                                                    |
+| **Occupants**              | 1 (Driver)                                            |
+| **Handling**               | Very Poor                                             |
+| **Top speed**              | 68 kph                                                |
 
 **Advanced Mobile Station (AMS)**
 

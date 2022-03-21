@@ -1,17 +1,17 @@
 ![](../images/Sweeper.jpg "fig:Sweeper.jpg") Soldier fields the Sweeper
 Shotgun\]\]
 
-|                            |                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                                  |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                        |
-| **Primary Mode**           | Single Shot                                                                                          |
-| **Secondary Mode**         | \-                                                                                                   |
+|                            |                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                                            |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                     |
+| **Primary Mode**           | Single Shot                                                                                                                      |
+| **Secondary Mode**         | \-                                                                                                                               |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |
-| **Range**                  | 100m                                                                                                 |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                |
-| **Magazine Capacity**      | 12                                                                                                   |
-| **Zoom**                   | 2x                                                                                                   |
+| **Range**                  | 100m                                                                                                                             |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                                            |
+| **Magazine Capacity**      | 12                                                                                                                               |
+| **Zoom**                   | 2x                                                                                                                               |
 
 **Sweeper**
 
@@ -32,11 +32,11 @@ Assault](../certifications/Medium_Assault.md) weaponry against
 
 Shots to kill (Close to Medium Range):
 
-|                                               |                                  |
-| --------------------------------------------- | -------------------------------- |
-| [Standard Exo-Suit](armor/Standard_Exo-Suit.md)     | 2 shots                          |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3 shots                          |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 4 shots                          |
+|                                                        |                                                 |
+| ------------------------------------------------------ | ----------------------------------------------- |
+| [Standard Exo-Suit](armor/Standard_Exo-Suit.md)        | 2 shots                                         |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3 shots                                         |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 4 shots                                         |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 12 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no

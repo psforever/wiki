@@ -4,14 +4,14 @@ Armor\]\] ![](../images/VS_Standards.jpg "fig:VS_Standards.jpg") [Standard
 Exo-Suit](Standard_Exo-Suit.md) at, from left to right, [Battle
 Rank](../terminology/Battle_Rank.md) 1, 7 and 14.\]\]
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Certification Required** | None                          |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | None                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Armor**                  | 50                            |
-| **Pistol Holsters**        | 1                             |
-| **Rifle Holsters**         | 1                             |
-| **Inventory Dimensions**   | 9 x 6                         |
+| **Armor**                  | 50                                           |
+| **Pistol Holsters**        | 1                                            |
+| **Rifle Holsters**         | 1                                            |
+| **Inventory Dimensions**   | 9 x 6                                        |
 
 **Standard Exo-Suit**
 

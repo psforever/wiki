@@ -7,17 +7,17 @@ on this page no longer exists in game (as of Version
 
 ![](../images/Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
 
-|                            |                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Type**                   | Heavy Transport                                                                                      |
-| **Role**                   | Heavy Troop Transport                                                                                |
-| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)                                                              |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                        |
-| **Primary Weapon**         | 2 75mm Tank Cannons                                                                                  |
-| **Secondary Weapon**       | \-                                                                                                   |
+|                            |                                                                                                               |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | Heavy Transport                                                                                               |
+| **Role**                   | Heavy Troop Transport                                                                                         |
+| **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)                                                     |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                  |
+| **Primary Weapon**         | 2 75mm Tank Cannons                                                                                           |
+| **Secondary Weapon**       | \-                                                                                                            |
 | **Occupants**              | 11 (Driver, 2 Gunners, 6 Infantry Passengers and 2 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Passengers) |
-| **Handling**               | Poor                                                                                                 |
-| **Top speed**              | 58 kph                                                                                               |
+| **Handling**               | Poor                                                                                                          |
+| **Top speed**              | 58 kph                                                                                                        |
 
 **Sunderer**
 

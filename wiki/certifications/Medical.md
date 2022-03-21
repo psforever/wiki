@@ -1,10 +1,10 @@
-|                        |                                             |
-| ---------------------- | ------------------------------------------- |
-| **Type**               | Equipment                                   |
+|                        |                                                     |
+| ---------------------- | --------------------------------------------------- |
+| **Type**               | Equipment                                           |
 | **Provides Access To** | [Medical Applicator](weapons/Medical_Applicator.md) |
-| **Pre-requisite**      | \-                                          |
-| **Required For**       | [Advanced Medical](Advanced_Medical.md)     |
-| **Cert Point Cost**    | 3                                           |
+| **Pre-requisite**      | \-                                                  |
+| **Required For**       | [Advanced Medical](Advanced_Medical.md)             |
+| **Cert Point Cost**    | 3                                                   |
 
 **Medical**
 

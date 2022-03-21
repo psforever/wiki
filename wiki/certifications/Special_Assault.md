@@ -1,10 +1,10 @@
-|                        |                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------- |
-| **Type**               | Weaponry                                                                          |
+|                        |                                                                                                                    |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Type**               | Weaponry                                                                                                           |
 | **Provides Access To** | [Thumper](../weapons/Thumper.md), [Rocklet Rifle](../weapons/Rocklet_Rifle.md), [Radiator](../weapons/Radiator.md) |
-| **Pre-requisite**      | [Medium Assault](Medium_Assault.md)                                               |
-| **Required For**       | [Elite Assault](Elite_Assault.md)                                                 |
-| **Cert Point Cost**    | 3                                                                                 |
+| **Pre-requisite**      | [Medium Assault](Medium_Assault.md)                                                                                |
+| **Required For**       | [Elite Assault](Elite_Assault.md)                                                                                  |
+| **Cert Point Cost**    | 3                                                                                                                  |
 
 **Special Assault**
 

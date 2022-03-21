@@ -14,14 +14,14 @@ Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 Applicator](../weapons/Medical_Applicator.md), [BANK](../weapons/Body_Armor_Nano_Kit.md),
 [REK](../weapons/Remote_Electronics_Kit.md), and [CUD](CUD.md)\]\]
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Certification Required** | None                          |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | None                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Armor**                  | 100                           |
-| **Pistol Holsters**        | 2                             |
-| **Rifle Holsters**         | 1                             |
-| **Inventory Dimensions**   | 9 x 9                         |
+| **Armor**                  | 100                                          |
+| **Pistol Holsters**        | 2                                            |
+| **Rifle Holsters**         | 1                                            |
+| **Inventory Dimensions**   | 9 x 9                                        |
 
 **Agile Exo-Suit**
 

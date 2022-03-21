@@ -1,17 +1,17 @@
 ![](../images/Basilisk.jpg "Basilisk.jpg")
 
-|                            |                                                                  |
-| -------------------------- | ---------------------------------------------------------------- |
-| **Type**                   | ATV                                                              |
-| **Role**                   | Rapid Response/Escort                                            |
-| **Certification Required** | [ATV](<ATV_(Certification)>)                          |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                         |
-| **Primary Weapon**         | 2 12mm Rotary Chainguns                                          |
-| **Secondary Weapon**       | \-                                                               |
+|                            |                                                                     |
+| -------------------------- | ------------------------------------------------------------------- |
+| **Type**                   | ATV                                                                 |
+| **Role**                   | Rapid Response/Escort                                               |
+| **Certification Required** | [ATV](<ATV_(Certification)>)                                        |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                        |
+| **Primary Weapon**         | 2 12mm Rotary Chainguns                                             |
+| **Secondary Weapon**       | \-                                                                  |
 | **Ammunition Used**        | [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |
-| **Occupants**              | 1 (Driver)                                                       |
-| **Handling**               | Ultra Nimble                                                     |
-| **Top speed**              | 88 kph                                                           |
+| **Occupants**              | 1 (Driver)                                                          |
+| **Handling**               | Ultra Nimble                                                        |
+| **Top speed**              | 88 kph                                                              |
 
 **Basilisk**
 

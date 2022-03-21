@@ -1,9 +1,9 @@
-|                                  |                                                                     |
-| -------------------------------- | ------------------------------------------------------------------- |
-| **Used by**                      | [Aphelion](../vehicles/Aphelion.md) using the [Plasma Mortar](../weapons/Plasma_Mortar.md) |
-| **Empire**                       | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                             |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                 |
-| **Quantity per pack**            | 195 Rounds                                                          |
+|                                                 |                                                                                            |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) using the [Plasma Mortar](../weapons/Plasma_Mortar.md) |
+| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                             |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                        |
+| **Quantity per pack**                           | 195 Rounds                                                                                 |
 
 **Aphelion Plasma Projector Ammunition**
 

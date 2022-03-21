@@ -1,16 +1,16 @@
 ## Base Facility Specs
 
-|                                                        |                                         |
-| ------------------------------------------------------ | --------------------------------------- |
-| [Control Console](Control_Console.md):                 | Roof                                    |
-| [Generator](../items/Generator.md):                             | Basement                                |
-| [Spawn room](Spawn_Room.md):                           | Level 1                                 |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):  | Courtyard                               |
-| [BFR Shed](../items/BFR_Shed.md):                               | Courtyard                               |
+|                                                                       |                                         |
+| --------------------------------------------------------------------- | --------------------------------------- |
+| [Control Console](Control_Console.md):                                | Roof                                    |
+| [Generator](../items/Generator.md):                                   | Basement                                |
+| [Spawn room](Spawn_Room.md):                                          | Level 1                                 |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):                 | Courtyard                               |
+| [BFR Shed](../items/BFR_Shed.md):                                     | Courtyard                               |
 | [Lattice Logic Unit Socket](../terminology/Lattice_Logic_Unit.md):    | Level 2                                 |
 | [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | Vehicle Shields (Benefit Icon: Vehicle) |
-| [Wall Turrets](../items/Phalanx.md):                            | 6                                       |
-|                                                        |                                         |
+| [Wall Turrets](../items/Phalanx.md):                                  | 6                                       |
+|                                                                       |                                         |
 
 ## Description
 

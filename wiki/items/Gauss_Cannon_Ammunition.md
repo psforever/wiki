@@ -1,9 +1,9 @@
-|                                  |                                         |
-| -------------------------------- | --------------------------------------- |
-| **Used by**                      | [Thunderer](../vehicles/Thunderer.md)               |
-| **Empire**                       | [New Conglomerate](../etc/New_Conglomerate.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                     |
-| **Quantity per box**             | 15 Rounds                               |
+|                                                 |                                                |
+| ----------------------------------------------- | ---------------------------------------------- |
+| **Used by**                                     | [Thunderer](../vehicles/Thunderer.md)          |
+| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                            |
+| **Quantity per box**                            | 15 Rounds                                      |
 
 **Gauss Cannon Ammunition**
 

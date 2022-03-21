@@ -1,9 +1,9 @@
-|                                  |                                                                                                                    |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Used by**                      | [Lightning](../Lightning.md), [Leviathan](../vehicles/Leviathan.md), [Juggernaut](../vehicles/Juggernaut.md), and [Vindicator](../vehicles/Vindicator.md) |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md)                                                                                      |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                |
-| **Quantity per box**             | 100 Rounds                                                                                                         |
+|                                                 |                                                                                                                                                           |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Used by**                                     | [Lightning](../Lightning.md), [Leviathan](../vehicles/Leviathan.md), [Juggernaut](../vehicles/Juggernaut.md), and [Vindicator](../vehicles/Vindicator.md) |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md)                                                                                                              |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                                       |
+| **Quantity per box**                            | 100 Rounds                                                                                                                                                |
 
 **Lightning Shell**
 

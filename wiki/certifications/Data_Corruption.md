@@ -1,10 +1,10 @@
-|                        |                                             |
-| ---------------------- | ------------------------------------------- |
-| **Type**               | Equipment                                   |
+|                        |                                                        |
+| ---------------------- | ------------------------------------------------------ |
+| **Type**               | Equipment                                              |
 | **Provides Access To** | [T-REK](../weapons/T-REK.md) and abilities (see below) |
-| **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md)     |
-| **Required For**       | \-                                          |
-| **Cert Point Cost**    | 3                                           |
+| **Pre-requisite**      | [Advanced Hacking](Advanced_Hacking.md)                |
+| **Required For**       | \-                                                     |
+| **Cert Point Cost**    | 3                                                      |
 
 **Data Corruption**
 

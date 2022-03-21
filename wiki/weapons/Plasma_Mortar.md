@@ -1,15 +1,15 @@
-|                            |                                                                                 |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                 |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                         |
-| **Primary Mode**           | Plasma Mortar                                                                   |
-| **Secondary Mode**         | \-                                                                              |
+|                            |                                                                                               |
+| -------------------------- | --------------------------------------------------------------------------------------------- |
+| **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                   |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                |
+| **Primary Mode**           | Plasma Mortar                                                                                 |
+| **Secondary Mode**         | \-                                                                                            |
 | **Ammunition**             | [Aphelion Plasma Projector Ammunition](../ammunition/Aphelion_Plasma_Projector_Ammunition.md) |
-| **Range**                  | 450m (?)                                                                        |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Gunner Weapon                                    |
-| **Magazine Capacity**      | 40                                                                              |
-| **Zoom**                   | 4x                                                                              |
-|                            |                                                                                 |
+| **Range**                  | 450m (?)                                                                                      |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Gunner Weapon                                      |
+| **Magazine Capacity**      | 40                                                                                            |
+| **Zoom**                   | 4x                                                                                            |
+|                            |                                                                                               |
 
 **Plasma Mortar**
 

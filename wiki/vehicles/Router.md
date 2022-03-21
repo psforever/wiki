@@ -1,16 +1,16 @@
 ![](../images/Router.jpg "fig:Router.jpg") Router\]\]
 
-|                            |                                                                       |
-| -------------------------- | --------------------------------------------------------------------- |
-| **Type**                   | Deployable Point-to-Point Teleporter                                  |
-| **Role**                   | Tactical                                                              |
-| **Certification Required** | [Ground Support](../certifications/Ground_Support.md)                                   |
+|                            |                                                                                                     |
+| -------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Type**                   | Deployable Point-to-Point Teleporter                                                                |
+| **Role**                   | Tactical                                                                                            |
+| **Certification Required** | [Ground Support](../certifications/Ground_Support.md)                                               |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) ([Ancient-Tech](../terminology/Ancient_Technology.md)) |
-| **Primary Weapon**         | \-                                                                    |
-| **Secondary Weapon**       | \-                                                                    |
-| **Occupants**              | 1 (Driver)                                                            |
-| **Handling**               | Very Poor                                                             |
-| **Top speed**              | 60 kph (41 kph over water)                                            |
+| **Primary Weapon**         | \-                                                                                                  |
+| **Secondary Weapon**       | \-                                                                                                  |
+| **Occupants**              | 1 (Driver)                                                                                          |
+| **Handling**               | Very Poor                                                                                           |
+| **Top speed**              | 60 kph (41 kph over water)                                                                          |
 
 **Router**
 

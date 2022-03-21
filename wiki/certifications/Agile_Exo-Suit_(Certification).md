@@ -1,10 +1,10 @@
-|                        |                                     |
-| ---------------------- | ----------------------------------- |
-| **Type**               | Armor                               |
+|                        |                                              |
+| ---------------------- | -------------------------------------------- |
+| **Type**               | Armor                                        |
 | **Provides Access To** | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) |
-| **Pre-requisite**      | \-                                  |
-| **Required For**       | \-                                  |
-| **Cert Point Cost**    | \-                                  |
+| **Pre-requisite**      | \-                                           |
+| **Required For**       | \-                                           |
+| **Cert Point Cost**    | \-                                           |
 
 **Agile Exo-Suit**
 

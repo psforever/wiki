@@ -1,16 +1,16 @@
 ![](../images/PSScreenShot0243.jpg "fig:PSScreenShot0243.jpg") Soldier carrying a
 Jackhammer\]\]
 
-|                            |                                                                                                      |
-| -------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                                    |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                              |
-| **Primary Mode**           | Single Shot                                                                                          |
-| **Secondary Mode**         | Triple Shot                                                                                          |
+|                            |                                                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                                              |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                   |
+| **Primary Mode**           | Single Shot                                                                                                                      |
+| **Secondary Mode**         | Triple Shot                                                                                                                      |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                                |
-| **Magazine Capacity**      | 16                                                                                                   |
-| **Zoom**                   | 2x                                                                                                   |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                                                                                            |
+| **Magazine Capacity**      | 16                                                                                                                               |
+| **Zoom**                   | 2x                                                                                                                               |
 
 **Jackhammer**
 
@@ -27,11 +27,11 @@ must be reloaded.
 
 Shots to kill (Close to Medium Range):
 
-|                                               |                                  |
-| --------------------------------------------- | -------------------------------- |
-| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 2-3 shots                        |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3-5 shots                        |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 4-6 shots                        |
+|                                                        |                                                 |
+| ------------------------------------------------------ | ----------------------------------------------- |
+| [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 2-3 shots                                       |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 3-5 shots                                       |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 4-6 shots                                       |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 11 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no

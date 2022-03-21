@@ -1,16 +1,16 @@
 ![](../images/PSScreenShot0332.jpg "fig:PSScreenShot0332.jpg") Striker\]\]
 
-|                            |                                       |
-| -------------------------- | ------------------------------------- |
-| **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md)   |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md) |
-| **Primary Mode**           | Homing Missile                        |
-| **Secondary Mode**         | Dumb Fire                             |
-| **Ammunition**             | [Striker Missile](ammunition/Striker_Missile.md) |
-| **Range**                  | 240 m                                 |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                 |
-| **Magazine Capacity**      | 5                                     |
-| **Zoom**                   | 4x                                    |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md) |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)          |
+| **Primary Mode**           | Homing Missile                                        |
+| **Secondary Mode**         | Dumb Fire                                             |
+| **Ammunition**             | [Striker Missile](ammunition/Striker_Missile.md)      |
+| **Range**                  | 240 m                                                 |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                 |
+| **Magazine Capacity**      | 5                                                     |
+| **Zoom**                   | 4x                                                    |
 
 **Striker**
 
@@ -29,13 +29,13 @@ In secondary mode, the [Striker](Striker.md) fires an unguided
 
 Shots to kill:
 
-|                                       |          |
-| ------------------------------------- | -------- |
+|                                                |          |
+| ---------------------------------------------- | -------- |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md) | 6 shots  |
-| [Lightning](../vehicles/Lightning.md)             | 12 shots |
-| [Prowler](../vehicles/Prowler.md)                 | 36 shots |
-| [Magrider](../vehicles/Magrider.md)               | 28 shots |
-| [Vanguard](../vehicles/Vanguard.md)               | 36 shots |
+| [Lightning](../vehicles/Lightning.md)          | 12 shots |
+| [Prowler](../vehicles/Prowler.md)              | 36 shots |
+| [Magrider](../vehicles/Magrider.md)            | 28 shots |
+| [Vanguard](../vehicles/Vanguard.md)            | 36 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

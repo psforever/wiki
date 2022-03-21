@@ -3,11 +3,11 @@ Spiker\]\]
 
 |                            |                                                                    |
 | -------------------------- | ------------------------------------------------------------------ |
-| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                      |
+| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)              |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                       |
 | **Primary Mode**           | Energy Orb                                                         |
 | **Secondary Mode**         | \-                                                                 |
-| **Ammunition**             | [Ancient Capacitor Unit](../ammunition/Ancient_Capacitor_Unit.md)                |
+| **Ammunition**             | [Ancient Capacitor Unit](../ammunition/Ancient_Capacitor_Unit.md)  |
 | **Range**                  | 200 m                                                              |
 | **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                             |
 | **Magazine Capacity**      | 25                                                                 |

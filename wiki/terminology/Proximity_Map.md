@@ -21,9 +21,9 @@ your current level, making navigation within
 There are two orientation modes, toggleable via the menu:
 
 1. Map-rotate mode, which will turn the map and always show you facing
-    upwards, and
+   upwards, and
 2. Player-rotate mode, which always shows North upwards and will rotate
-    your arrow to indicate your heading.
+   your arrow to indicate your heading.
 
 If you have the [Advanced Medical](../certifications/Advanced_Medical.md)
 certification and equip the [Medical

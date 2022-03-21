@@ -1,11 +1,11 @@
 ![](../images/ap9mmbullet.jpg "ap9mmbullet.jpg")
 
-|                          |                                                                                                                                                                                                                         |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                          |                                                                                                                                                                                                                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**              | [Automatic Machine Pistol](../weapons/Automatic_Machine_Pistol.md) (AMP), [Repeater](../weapons/Repeater.md), [Suppressor](../weapons/Suppressor.md), [Cycler](../weapons/Cycler.md), [Gauss](../weapons/Gauss.md), [Punisher](../weapons/Punisher.md), [Mini-Chaingun](../weapons/Mini-Chaingun.md) |
-| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                                                                                                                                                           |
-| **Inventory dimensions** | 3x3                                                                                                                                                                                                                     |
-| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                              |
+| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                                                                                                                                                                                                                         |
+| **Inventory dimensions** | 3x3                                                                                                                                                                                                                                                                                                  |
+| **Quantity per pack**    | 50 bullets                                                                                                                                                                                                                                                                                           |
 
 **Armor Piercing 9mm Bullet**
 

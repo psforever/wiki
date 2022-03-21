@@ -1,17 +1,17 @@
 ![](../images/PSScreenShot0299.jpg "fig:PSScreenShot0299.jpg") Soldier carrying a
 Suppressor\]\]
 
-|                            |                                                                                            |
-| -------------------------- | ------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Standard Assault](certifications/Standard_Assault.md)                                                    |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                              |
-| **Primary Mode**           | Single Shot                                                                                |
-| **Secondary Mode**         | \-                                                                                         |
+|                            |                                                                                                          |
+| -------------------------- | -------------------------------------------------------------------------------------------------------- |
+| **Certification Required** | [Standard Assault](certifications/Standard_Assault.md)                                                   |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                             |
+| **Primary Mode**           | Single Shot                                                                                              |
+| **Secondary Mode**         | \-                                                                                                       |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](Armour_Piercing_9mm_Bullet.md)) |
-| **Range**                  | 200m                                                                                       |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                      |
-| **Magazine Capacity**      | 25                                                                                         |
-| **Zoom**                   | x2                                                                                         |
+| **Range**                  | 200m                                                                                                     |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                    |
+| **Magazine Capacity**      | 25                                                                                                       |
+| **Zoom**                   | x2                                                                                                       |
 
 **Suppressor**
 
@@ -27,11 +27,11 @@ can also go straight through a BFR's shield, damaging the BFR itself.
 
 Shots to kill:
 
-|                                               |                                  |
-| --------------------------------------------- | -------------------------------- |
-| [Standard Exo-Suit](armor/Standard_Exo-Suit.md)     | 8 shots                          |
-| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 10 shots                         |
-| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 15 shots                         |
+|                                                        |                                                 |
+| ------------------------------------------------------ | ----------------------------------------------- |
+| [Standard Exo-Suit](armor/Standard_Exo-Suit.md)        | 8 shots                                         |
+| [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 10 shots                                        |
+| [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 15 shots                                        |
 | [MAX](../items/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no

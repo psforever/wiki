@@ -4,7 +4,7 @@
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Aircraft MAX](<Anti-Aircraft_MAX_(Certification)>) or [Uni-MAX](<Uni-MAX_(Certification)>) |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                          |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                   |
 | **Armor**                  | 650                                                                                              |
 | **Primary Mode**           | Normal fire                                                                                      |
 | **Secondary Mode**         | \-                                                                                               |

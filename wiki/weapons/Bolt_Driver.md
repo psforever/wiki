@@ -1,17 +1,17 @@
 ![](../images/Bolt_driver.jpg "fig:Bolt_driver.jpg") [Rexo](Rexo.md)
 wields a Bolt Driver in [Byblos](../locations/Byblos.md)\]\]
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Certification Required** | [Sniping](../certifications/Sniping.md)         |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | [Sniping](../certifications/Sniping.md)      |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Primary Mode**           | Single Shot                   |
-| **Secondary Mode**         | \-                            |
-| **Ammunition**             | [Bolt](../Bolt.md)               |
-| **Range**                  | Visual rendering distance     |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)         |
-| **Magazine Capacity**      | 1                             |
-| **Zoom**                   | 8x                            |
+| **Primary Mode**           | Single Shot                                  |
+| **Secondary Mode**         | \-                                           |
+| **Ammunition**             | [Bolt](../Bolt.md)                           |
+| **Range**                  | Visual rendering distance                    |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                        |
+| **Magazine Capacity**      | 1                                            |
+| **Zoom**                   | 8x                                           |
 
 **Bolt Driver**
 

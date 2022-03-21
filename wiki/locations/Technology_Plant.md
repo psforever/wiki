@@ -3,17 +3,17 @@
 
 ## Base Facility Specs
 
-|                                                        |                                           |
-| ------------------------------------------------------ | ----------------------------------------- |
-| [Control Console](Control_Console.md):                 | Level 3                                   |
-| [Generator](../items/Generator.md):                             | Level 1                                   |
-| [Spawn room](Spawn_Room.md):                           | Level 2                                   |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Air):         | Level 3                                   |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Ground):      | Level 2                                   |
+|                                                                       |                                           |
+| --------------------------------------------------------------------- | ----------------------------------------- |
+| [Control Console](Control_Console.md):                                | Level 3                                   |
+| [Generator](../items/Generator.md):                                   | Level 1                                   |
+| [Spawn room](Spawn_Room.md):                                          | Level 2                                   |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Air):                        | Level 3                                   |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Ground):                     | Level 2                                   |
 | [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:    | Level 2                                   |
 | [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | Advanced vehicles (benefit icon: vehicle) |
-| [Wall Turrets](../items/Phalanx.md):                            | 6                                         |
-|                                                        |                                           |
+| [Wall Turrets](../items/Phalanx.md):                                  | 6                                         |
+|                                                                       |                                           |
 
 ## Description
 

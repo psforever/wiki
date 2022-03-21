@@ -1,15 +1,15 @@
-|                            |                                                                 |
-| -------------------------- | --------------------------------------------------------------- |
-| **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                       |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                         |
-| **Primary Mode**           | Homing missiles                                                 |
-| **Secondary Mode**         | \-                                                              |
+|                            |                                                                               |
+| -------------------------- | ----------------------------------------------------------------------------- |
+| **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                   |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                |
+| **Primary Mode**           | Homing missiles                                                               |
+| **Secondary Mode**         | \-                                                                            |
 | **Ammunition**             | [Peregrine Sparrow Ammunition](../ammunition/Peregrine_Sparrow_Ammunition.md) |
-| **Range**                  | Lockon: 300m Dumbfire: 450m                                     |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                     |
-| **Magazine Capacity**      | 12                                                              |
-| **Zoom**                   | 4x                                                              |
-|                            |                                                                 |
+| **Range**                  | Lockon: 300m Dumbfire: 450m                                                   |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                       |
+| **Magazine Capacity**      | 12                                                                            |
+| **Zoom**                   | 4x                                                                            |
+|                            |                                                                               |
 
 **Sparrow (BFR)**
 

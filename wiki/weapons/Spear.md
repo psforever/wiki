@@ -1,17 +1,17 @@
 ![](../images/Spear.jpg "fig:Spear.jpg")
 ![](../images/Pistol_DD.jpg "fig:Pistol_DD.jpg").\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
-| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)     |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md) |
-| **Primary Mode**           | Single Shot                             |
-| **Secondary Mode**         | All-Magazine Burst                      |
+|                            |                                                       |
+| -------------------------- | ----------------------------------------------------- |
+| **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)        |
+| **Primary Mode**           | Single Shot                                           |
+| **Secondary Mode**         | All-Magazine Burst                                    |
 | **Ammunition**             | [10mm Multi-Phase](../ammunition/10mm_Multi-Phase.md) |
-| **Range**                  | 200m                                    |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                  |
-| **Magazine Capacity**      | 6                                       |
-| **Zoom**                   | x2                                      |
+| **Range**                  | 200m                                                  |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                                |
+| **Magazine Capacity**      | 6                                                     |
+| **Zoom**                   | x2                                                    |
 
 **Spear**
 

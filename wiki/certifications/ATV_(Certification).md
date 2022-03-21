@@ -1,10 +1,10 @@
-|                        |                                                                                                |
-| ---------------------- | ---------------------------------------------------------------------------------------------- |
-| **Type**               | Vehicle                                                                                        |
+|                        |                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------- |
+| **Type**               | Vehicle                                                                                           |
 | **Provides Access To** | [Basilisk](../vehicles/Basilisk.md), [Fury](../vehicles/Fury.md), [Wraith](../vehicles/Wraith.md) |
-| **Pre-requisite**      | \-                                                                                             |
-| **Required For**       | [Switchblade](../items/Switchblade.md)                                                       |
-| **Cert Point Cost**    | 1                                                                                              |
+| **Pre-requisite**      | \-                                                                                                |
+| **Required For**       | [Switchblade](../items/Switchblade.md)                                                            |
+| **Cert Point Cost**    | 1                                                                                                 |
 
 **ATV**
 

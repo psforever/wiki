@@ -1,16 +1,16 @@
 ![](../images/FDUInventory.jpg "FDUInventory.jpg")
 
-|                            |                                                                                                                                                               |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                            |                                                                                                                                                                                                                     |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Fortification Engineering](../certifications/Fortification_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                                                                 |
-| **Primary Mode**           | Deploy [TRAP](Tactical_Resonance_Area_Protection.md) (Fortification Engineering)                                                                              |
-| **Secondary Mode**         | Deploy [One-Manned Field Turret](One-Manned_Field_Turret.md) (Assault Engineering)                                                                            |
-| **Tertiary Mode**          | Deploy [Aegis Shield Generator](Aegis_Shield_Generator.md) (Assault Engineering)                                                                              |
-| **Ammunition**             | Field Deployment Unit                                                                                                                                         |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                                                         |
-| **Magazine Capacity**      | 1                                                                                                                                                             |
-| **Zoom**                   | None                                                                                                                                                          |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                                                                                                        |
+| **Primary Mode**           | Deploy [TRAP](Tactical_Resonance_Area_Protection.md) (Fortification Engineering)                                                                                                                                    |
+| **Secondary Mode**         | Deploy [One-Manned Field Turret](One-Manned_Field_Turret.md) (Assault Engineering)                                                                                                                                  |
+| **Tertiary Mode**          | Deploy [Aegis Shield Generator](Aegis_Shield_Generator.md) (Assault Engineering)                                                                                                                                    |
+| **Ammunition**             | Field Deployment Unit                                                                                                                                                                                               |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                                                                                                               |
+| **Magazine Capacity**      | 1                                                                                                                                                                                                                   |
+| **Zoom**                   | None                                                                                                                                                                                                                |
 
 **Field Deployment Unit (FDU)**
 

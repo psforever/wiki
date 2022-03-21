@@ -1,13 +1,13 @@
-|                            |                                                 |
-| -------------------------- | ----------------------------------------------- |
+|                            |                                                             |
+| -------------------------- | ----------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                   |
-| **Primary Mode**           | Extract/Deposit [NTU](../items/NTU.md)                   |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                |
+| **Primary Mode**           | Extract/Deposit [NTU](../items/NTU.md)                      |
 | **Secondary Mode**         | [EMP](../commands/EMP.md)                                   |
-| **Ammunition**             | Internal Capacitor                              |
+| **Ammunition**             | Internal Capacitor                                          |
 | **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon     |
-| **Magazine Capacity**      | 150                                             |
-| **Zoom**                   | None                                            |
+| **Magazine Capacity**      | 150                                                         |
+| **Zoom**                   | None                                                        |
 | **Note**                   | 20 second cooldown between [EMPs](../commands/EMP.md)       |
 
 **NTU Siphon**

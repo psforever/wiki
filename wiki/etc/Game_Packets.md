@@ -1,15 +1,15 @@
 ## Game Packet Listing
 
 | Packet ID | Packet ID (hex) | Name                                      | Status | Note                                                     |
-|-----------|-----------------|-------------------------------------------|--------|----------------------------------------------------------|
-| 0         | 0x0             | *Missing*                                 | ???    |                                                          |
+| --------- | --------------- | ----------------------------------------- | ------ | -------------------------------------------------------- |
+| 0         | 0x0             | _Missing_                                 | ???    |                                                          |
 | 1         | 0x1             | LoginMessage                              |        |                                                          |
 | 2         | 0x2             | LoginRespMessage                          |        |                                                          |
 | 3         | 0x3             | ConnectToWorldRequestMessage              |        |                                                          |
 | 4         | 0x4             | ConnectToWorldMessage                     |        |                                                          |
 | 5         | 0x5             | VNLWorldStatusMessage                     |        |                                                          |
-| 6         | 0x6             | *Missing*                                 | ???    |                                                          |
-| 7         | 0x7             | *Missing*                                 | ???    |                                                          |
+| 6         | 0x6             | _Missing_                                 | ???    |                                                          |
+| 7         | 0x7             | _Missing_                                 | ???    |                                                          |
 | 8         | 0x8             | PlayerStateMessage                        |        |                                                          |
 | 9         | 0x9             | HitMessage                                |        |                                                          |
 | 10        | 0xa             | HitHint                                   |        |                                                          |
@@ -23,7 +23,7 @@
 | 18        | 0x12            | ChatMsg                                   |        |                                                          |
 | 19        | 0x13            | CharacterNoRecordMessage                  |        |                                                          |
 | 20        | 0x14            | CharacterInfoMessage                      |        |                                                          |
-| 21        | 0x15            | *Missing*                                 | ???    |                                                          |
+| 21        | 0x15            | _Missing_                                 | ???    |                                                          |
 | 22        | 0x16            | BindPlayerMessage                         |        |                                                          |
 | 23        | 0x17            | ObjectCreateMessage                       |        | It appears that both 0x17 and 0x18 represent this packet |
 | 24        | 0x18            | ObjectCreateMessage                       |        |                                                          |
@@ -33,8 +33,8 @@
 | 28        | 0x1c            | FrameVehicleStateMessage                  |        |                                                          |
 | 29        | 0x1d            | GenericObjectStateMsg                     |        |                                                          |
 | 30        | 0x1e            | ChildObjectStateMessage                   |        |                                                          |
-| 31        | 0x1f            | *Missing*                                 | ???    |                                                          |
-| 32        | 0x20            | *Missing*                                 | ???    |                                                          |
+| 31        | 0x1f            | _Missing_                                 | ???    |                                                          |
+| 32        | 0x20            | _Missing_                                 | ???    |                                                          |
 | 33        | 0x21            | ActionProgressMessage                     |        |                                                          |
 | 34        | 0x22            | ActionCancelMessage                       |        |                                                          |
 | 35        | 0x23            | ActionCancelAcknowledgeMessage            |        |                                                          |
@@ -45,10 +45,10 @@
 | 40        | 0x28            | CreateShortcutMessage                     |        |                                                          |
 | 41        | 0x29            | ChangeShortcutBankMessage                 |        |                                                          |
 | 42        | 0x2a            | ObjectAttachMessage                       |        |                                                          |
-| 43        | 0x2b            | *Missing*                                 | ???    |                                                          |
+| 43        | 0x2b            | _Missing_                                 | ???    |                                                          |
 | 44        | 0x2c            | PlanetsideAttributeMessage                |        |                                                          |
 | 45        | 0x2d            | RequestDestroyMessage                     |        |                                                          |
-| 46        | 0x2e            | *Missing*                                 | ???    |                                                          |
+| 46        | 0x2e            | _Missing_                                 | ???    |                                                          |
 | 47        | 0x2f            | CharacterCreateRequestMessage             |        |                                                          |
 | 48        | 0x30            | CharacterRequestMessage                   |        |                                                          |
 | 49        | 0x31            | LoadMapMessage                            |        |                                                          |
@@ -61,7 +61,7 @@
 | 56        | 0x38            | InventoryStateMessage                     |        |                                                          |
 | 57        | 0x39            | ChangeFireStateMessage                    |        |                                                          |
 | 58        | 0x3a            | ChangeFireStateMessage                    |        |                                                          |
-| 59        | 0x3b            | *Missing*                                 | ???    |                                                          |
+| 59        | 0x3b            | _Missing_                                 | ???    |                                                          |
 | 60        | 0x3c            | GenericCollisionMsg                       |        |                                                          |
 | 61        | 0x3d            | QuantityUpdateMessage                     |        |                                                          |
 | 62        | 0x3e            | ArmorChangedMessage                       |        |                                                          |
@@ -75,10 +75,10 @@
 | 70        | 0x46            | ChangeFireModeMessage                     |        |                                                          |
 | 71        | 0x47            | ChangeAmmoMessage                         |        |                                                          |
 | 72        | 0x48            | TimeOfDayMessage                          |        |                                                          |
-| 73        | 0x49            | *Missing*                                 | ???    |                                                          |
+| 73        | 0x49            | _Missing_                                 | ???    |                                                          |
 | 74        | 0x4a            | SpawnRequestMessage                       |        |                                                          |
 | 75        | 0x4b            | DeployRequestMessage                      |        |                                                          |
-| 76        | 0x4c            | *Missing*                                 | ???    |                                                          |
+| 76        | 0x4c            | _Missing_                                 | ???    |                                                          |
 | 77        | 0x4d            | RepairMessage                             |        |                                                          |
 | 78        | 0x4e            | ServerVehicleOverrideMsg                  |        |                                                          |
 | 79        | 0x4f            | LashMessage                               |        |                                                          |
@@ -91,7 +91,7 @@
 | 86        | 0x56            | GenericObjectActionMessage                |        |                                                          |
 | 87        | 0x57            | AvatarVehicleTimerMessage                 |        |                                                          |
 | 88        | 0x58            | AvatarImplantMessage                      |        |                                                          |
-| 89        | 0x59            | *Missing*                                 | ???    |                                                          |
+| 89        | 0x59            | _Missing_                                 | ???    |                                                          |
 | 90        | 0x5a            | DelayedPathMountMsg                       |        |                                                          |
 | 91        | 0x5b            | OrbitalShuttleTimeMsg                     |        |                                                          |
 | 92        | 0x5c            | AIDamage                                  |        |                                                          |
@@ -124,11 +124,11 @@
 | 119       | 0x77            | SquadState                                |        |                                                          |
 | 120       | 0x78            | OxygenStateMessage                        |        |                                                          |
 | 121       | 0x79            | TradeMessage                              |        |                                                          |
-| 122       | 0x7a            | *Missing*                                 | ???    |                                                          |
+| 122       | 0x7a            | _Missing_                                 | ???    |                                                          |
 | 123       | 0x7b            | DamageFeedbackMessage                     |        |                                                          |
 | 124       | 0x7c            | DismountBuildingMsg                       |        |                                                          |
-| 125       | 0x7d            | *Missing*                                 | ???    |                                                          |
-| 126       | 0x7e            | *Missing*                                 | ???    |                                                          |
+| 125       | 0x7d            | _Missing_                                 | ???    |                                                          |
+| 126       | 0x7e            | _Missing_                                 | ???    |                                                          |
 | 127       | 0x7f            | AvatarStatisticsMessage                   |        |                                                          |
 | 128       | 0x80            | GenericObjectAction2Message               |        |                                                          |
 | 129       | 0x81            | DestroyDisplayMessage                     |        |                                                          |
@@ -141,7 +141,7 @@
 | 136       | 0x88            | WeaponDelayFireMessage                    |        |                                                          |
 | 137       | 0x89            | BugReportMessage                          |        |                                                          |
 | 138       | 0x8a            | PlayerStasisMessage                       |        |                                                          |
-| 139       | 0x8b            | *Missing*                                 | ???    |                                                          |
+| 139       | 0x8b            | _Missing_                                 | ???    |                                                          |
 | 140       | 0x8c            | OutfitMembershipRequest                   |        |                                                          |
 | 141       | 0x8d            | OutfitMembershipResponse                  |        |                                                          |
 | 142       | 0x8e            | OutfitRequest                             |        |                                                          |
@@ -172,8 +172,8 @@
 | 167       | 0xa7            | GenericActionMessage                      |        |                                                          |
 | 168       | 0xa8            | ContinentalLockUpdateMessage              |        |                                                          |
 | 169       | 0xa9            | AvatarGrenadeStateMessage                 |        |                                                          |
-| 170       | 0xaa            | *Missing*                                 | ???    |                                                          |
-| 171       | 0xab            | *Missing*                                 | ???    |                                                          |
+| 170       | 0xaa            | _Missing_                                 | ???    |                                                          |
+| 171       | 0xab            | _Missing_                                 | ???    |                                                          |
 | 172       | 0xac            | ReleaseAvatarRequestMessage               |        |                                                          |
 | 173       | 0xad            | AvatarDeadStateMessage                    |        |                                                          |
 | 174       | 0xae            | CSAssistMessage                           |        |                                                          |
@@ -210,7 +210,7 @@
 | 205       | 0xcd            | DensityLevelUpdateMessage                 |        |                                                          |
 | 206       | 0xce            | ActOfGodMessage                           |        |                                                          |
 | 207       | 0xcf            | AvatarAwardMessage                        |        |                                                          |
-| 208       | 0xd0            | *Missing*                                 | ???    |                                                          |
+| 208       | 0xd0            | _Missing_                                 | ???    |                                                          |
 | 209       | 0xd1            | DisplayedAwardMessage                     |        |                                                          |
 | 210       | 0xd2            | RespawnAMSInfoMessage                     |        |                                                          |
 | 211       | 0xd3            | ComponentDamageMessage                    |        |                                                          |
@@ -220,7 +220,7 @@
 | 215       | 0xd7            | EmpireBenefitsMessage                     |        |                                                          |
 | 216       | 0xd8            | ForceEmpireMessage                        |        |                                                          |
 | 217       | 0xd9            | BroadcastWarpgateUpdateMessage            |        |                                                          |
-| 218       | 0xda            | *Missing*                                 | ???    |                                                          |
+| 218       | 0xda            | _Missing_                                 | ???    |                                                          |
 | 219       | 0xdb            | SquadMainTerminalMessage                  |        |                                                          |
 | 220       | 0xdc            | SquadMainTerminalResponseMessage          |        |                                                          |
 | 221       | 0xdd            | SquadOrderMessage                         |        |                                                          |
@@ -240,21 +240,21 @@
 | 235       | 0xeb            | SquadInvitationRequestMessage             |        |                                                          |
 | 236       | 0xec            | CharacterKnowledgeMessage                 |        |                                                          |
 | 237       | 0xed            | GameScoreUpdateMessage                    |        |                                                          |
-| 238       | 0xee            | *Missing*                                 | ???    |                                                          |
+| 238       | 0xee            | _Missing_                                 | ???    |                                                          |
 | 239       | 0xef            | OrderTerminalBugMessage                   |        |                                                          |
 | 240       | 0xf0            | QueueTimedHelpMessage                     |        |                                                          |
 | 241       | 0xf1            | MailMessage                               |        |                                                          |
 | 242       | 0xf2            | GameVarUpdate                             |        |                                                          |
 | 243       | 0xf3            | ClientCheatedMessage                      |        |                                                          |
-| 244       | 0xf4            | *Missing*                                 | ???    |                                                          |
-| 245       | 0xf5            | *Missing*                                 | ???    |                                                          |
-| 246       | 0xf6            | *Missing*                                 | ???    |                                                          |
-| 247       | 0xf7            | *Missing*                                 | ???    |                                                          |
-| 248       | 0xf8            | *Missing*                                 | ???    |                                                          |
-| 249       | 0xf9            | *Missing*                                 | ???    |                                                          |
-| 250       | 0xfa            | *Missing*                                 | ???    |                                                          |
-| 251       | 0xfb            | *Missing*                                 | ???    |                                                          |
-| 252       | 0xfc            | *Missing*                                 | ???    |                                                          |
-| 253       | 0xfd            | *Missing*                                 | ???    |                                                          |
-| 254       | 0xfe            | *Missing*                                 | ???    |                                                          |
-| 255       | 0xff            | *Missing*                                 | ???    |                                                          |
+| 244       | 0xf4            | _Missing_                                 | ???    |                                                          |
+| 245       | 0xf5            | _Missing_                                 | ???    |                                                          |
+| 246       | 0xf6            | _Missing_                                 | ???    |                                                          |
+| 247       | 0xf7            | _Missing_                                 | ???    |                                                          |
+| 248       | 0xf8            | _Missing_                                 | ???    |                                                          |
+| 249       | 0xf9            | _Missing_                                 | ???    |                                                          |
+| 250       | 0xfa            | _Missing_                                 | ???    |                                                          |
+| 251       | 0xfb            | _Missing_                                 | ???    |                                                          |
+| 252       | 0xfc            | _Missing_                                 | ???    |                                                          |
+| 253       | 0xfd            | _Missing_                                 | ???    |                                                          |
+| 254       | 0xfe            | _Missing_                                 | ???    |                                                          |
+| 255       | 0xff            | _Missing_                                 | ???    |                                                          |

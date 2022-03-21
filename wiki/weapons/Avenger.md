@@ -1,17 +1,17 @@
 ![](../images/Avenger.jpg "fig:Avenger.jpg")
 ![](../images/AvengerInside.jpg "fig:AvengerInside.jpg")
 
-|                            |                                                                                                  |
-| -------------------------- | ------------------------------------------------------------------------------------------------ |
+|                            |                                                                                                                                   |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](certifications/Assault_Engineering.md) or [Advance../certifications/Advanced_Engineering.md_Engineering.md) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                            |
-| **Primary Mode**           | Upgraded Cycler                                                                                  |
-| **Secondary Mode**         | \-                                                                                               |
-| **Ammunition**             | Unlimited                                                                                        |
-| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                            |
-| **Magazine Capacity**      | 200                                                                                              |
-| **Range**                  | 250m                                                                                             |
-| **Zoom**                   | 4x                                                                                               |
+| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                      |
+| **Primary Mode**           | Upgraded Cycler                                                                                                                   |
+| **Secondary Mode**         | \-                                                                                                                                |
+| **Ammunition**             | Unlimited                                                                                                                         |
+| **Inventory Dimensions**   | 3 x 9 (Rifle holster)                                                                                                             |
+| **Magazine Capacity**      | 200                                                                                                                               |
+| **Range**                  | 250m                                                                                                                              |
+| **Zoom**                   | 4x                                                                                                                                |
 
 **Avenger**
 

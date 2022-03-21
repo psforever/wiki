@@ -4,19 +4,19 @@
 
 ![](../images/Cyssor_Terrain.jpg "Cyssor_Terrain.jpg")
 
-|                                      |                                          |
-| ------------------------------------ | ---------------------------------------- |
-| Category:                            | Pre-Nova System                          |
-| Climate:                             | Temperate, tropical                      |
-| Landmass:                            | Continent                                |
-| Terrain:                             | Rivers, hills, lakes, mountains, beaches |
-| Facilities:                          | 17                                       |
-| Towers:                              | 33                                       |
-| Active Warpgates:                    | 3                                        |
-| Active Geowarps:                     | 1                                        |
+|                                                     |                                          |
+| --------------------------------------------------- | ---------------------------------------- |
+| Category:                                           | Pre-Nova System                          |
+| Climate:                                            | Temperate, tropical                      |
+| Landmass:                                           | Continent                                |
+| Terrain:                                            | Rivers, hills, lakes, mountains, beaches |
+| Facilities:                                         | 17                                       |
+| Towers:                                             | 33                                       |
+| Active Warpgates:                                   | 3                                        |
+| Active Geowarps:                                    | 1                                        |
 | [Empire Benefit](../terminology/Empire_Benefit.md): | +10% armor bonus to vehicles             |
-| Nickname:                            | The Devil's Pants                        |
-|                                      |                                          |
+| Nickname:                                           | The Devil's Pants                        |
+|                                                     |                                          |
 
 ## Description
 

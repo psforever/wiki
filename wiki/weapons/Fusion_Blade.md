@@ -2,16 +2,16 @@
 Blade\]\] ![](../images/FusionBladeVS.jpg "fig:FusionBladeVS.jpg") Soldier
 equipped with the Fusion Blade in Secondary Mode\]\]
 
-|                            |                                         |
-| -------------------------- | --------------------------------------- |
+|                            |                                                           |
+| -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)           |
-| **Primary Mode**           | Slash                                   |
-| **Secondary Mode**         | Fusion Attack                           |
-| **Ammunition**             | \-                                      |
-| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                   |
-| **Magazine Capacity**      | \-                                      |
-| **Zoom**                   | None                                    |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)              |
+| **Primary Mode**           | Slash                                                     |
+| **Secondary Mode**         | Fusion Attack                                             |
+| **Ammunition**             | \-                                                        |
+| **Inventory Dimensions**   | 1 x 1 (Knife Holster)                                     |
+| **Magazine Capacity**      | \-                                                        |
+| **Zoom**                   | None                                                      |
 
 **Fusion Blade**
 

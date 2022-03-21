@@ -1,15 +1,15 @@
 ![](../images/Radiator.jpg "Radiator.jpg")
 
-|                            |                                                     |
-| -------------------------- | --------------------------------------------------- |
-| **Certification Required** | [Special Assault](../certifications/Special_Assault.md)               |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                       |
-| **Primary Mode**           | Grenade Lob                                         |
-| **Secondary Mode**         | "Sticky" Projectile                                 |
+|                            |                                                                   |
+| -------------------------- | ----------------------------------------------------------------- |
+| **Certification Required** | [Special Assault](../certifications/Special_Assault.md)           |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                      |
+| **Primary Mode**           | Grenade Lob                                                       |
+| **Secondary Mode**         | "Sticky" Projectile                                               |
 | **Ammunition**             | [Ancient Capacitor Unit](../ammunition/Ancient_Capacitor_Unit.md) |
-| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                               |
-| **Magazine Capacity**      | 25                                                  |
-| **Zoom**                   | 2x                                                  |
+| **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                             |
+| **Magazine Capacity**      | 25                                                                |
+| **Zoom**                   | 2x                                                                |
 
 **Radiator**
 

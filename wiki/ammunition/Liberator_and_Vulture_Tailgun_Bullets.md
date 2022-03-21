@@ -1,9 +1,9 @@
-|                                  |                                                     |
-| -------------------------------- | --------------------------------------------------- |
-| **Used by**                      | [Liberator](../vehicles/Liberator.md) and [Vulture](../vehicles/Vulture.md) |
-| **Empire**                       | [Common Pool](../terminology/Common_Pool.md)                       |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                 |
-| **Quantity per box**             | 150 Rounds                                          |
+|                                                 |                                                                             |
+| ----------------------------------------------- | --------------------------------------------------------------------------- |
+| **Used by**                                     | [Liberator](../vehicles/Liberator.md) and [Vulture](../vehicles/Vulture.md) |
+| **Empire**                                      | [Common Pool](../terminology/Common_Pool.md)                                |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                         |
+| **Quantity per box**                            | 150 Rounds                                                                  |
 
 **Liberator and Vulture Tailgun Bullets**
 

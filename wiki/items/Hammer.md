@@ -1,15 +1,15 @@
-|                            |                                                               |
-| -------------------------- | ------------------------------------------------------------- |
-| **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                     |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                       |
-| **Primary Mode**           | Wide Spread                                                   |
-| **Secondary Mode**         | Tight Spread                                                  |
+|                            |                                                                             |
+| -------------------------- | --------------------------------------------------------------------------- |
+| **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                 |
+| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                              |
+| **Primary Mode**           | Wide Spread                                                                 |
+| **Secondary Mode**         | Tight Spread                                                                |
 | **Ammunition**             | [Peregrine Hammer Ammunition](../ammunition/Peregrine_Hammer_Ammunition.md) |
-| **Range**                  | 200m                                                          |
-| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                   |
-| **Magazine Capacity**      | 30                                                            |
-| **Zoom**                   | 2x                                                            |
-|                            |                                                               |
+| **Range**                  | 200m                                                                        |
+| **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon                     |
+| **Magazine Capacity**      | 30                                                                          |
+| **Zoom**                   | 2x                                                                          |
+|                            |                                                                             |
 
 **Hammer**
 

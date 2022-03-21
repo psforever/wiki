@@ -3,7 +3,7 @@
 |                       |                                                                                                                    |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Weapons Using:        | [Punisher](../weapons/Punisher.md), [Thumper](../weapons/Thumper.md), [Rocklet Rifle](../weapons/Rocklet_Rifle.md) |
-| Empire:               | [Common Pool](../terminology/Common_Pool.md)                                                                           |
+| Empire:               | [Common Pool](../terminology/Common_Pool.md)                                                                       |
 | Inventory dimensions: | 3x3                                                                                                                |
 | Quantity per pack:    | 12                                                                                                                 |
 |                       |                                                                                                                    |
@@ -27,7 +27,7 @@ _Fragmentation Grenade Packs_ can also be fired from the [Rocklet
 Rifle](../weapons/Rocklet_Rifle.md). When fired in this manner, the
 explosive charge travels in a straight line. The charge explodes when it
 comes into range of an aircraft or reaches its maximum range. If the
-round comes into contact with_any_ object other than an aircraft, the
+round comes into contact with*any* object other than an aircraft, the
 round will not explode causing very little damage. When used in this
 manner, the charges are refered to as **Flaklets**. Flaklets are
 effective at damaging aircraft. However, for any other circumstance,

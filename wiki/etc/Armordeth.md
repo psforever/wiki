@@ -21,36 +21,36 @@ Lets go over the game plan, it's very simple.
 ### Outside
 
 1. CE's, mine the area outside of the backdoor, place one mine in front
-    of the door. Use all your spits to create a kill zone.
+   of the door. Use all your spits to create a kill zone.
 
 <!-- -->
 
 1. Get an ANT. Park it at the backdoor, test it by trying to squeeze
-    by. If you can't then its setup properly.
+   by. If you can't then its setup properly.
 
 <!-- -->
 
 1. [Boomers](../Boomer.md)! Deploy all twenty boomers around the
-    ANT and mine field. Store the sticks in your locker or place them in
-    a stairwell.
+   ANT and mine field. Store the sticks in your locker or place them in
+   a stairwell.
 
 ### Inside
 
 1. CE's, place a [Motion Sensor](Motion_Sensor.md) right on the
-    backdoor in the middle. So you open the door, look up and place the
-    motion sensor. You can not pass the sensor without crouching under
-    it as an Agile (NOTE - Reinforced and MAXES cannot pass). **UPDATE**
-    _- Place a spitfire right below the motion sensor, it will take some
-    practice, but the door should hide the spit._
+   backdoor in the middle. So you open the door, look up and place the
+   motion sensor. You can not pass the sensor without crouching under
+   it as an Agile (NOTE - Reinforced and MAXES cannot pass). **UPDATE**
+   _- Place a spitfire right below the motion sensor, it will take some
+   practice, but the door should hide the spit._
 
 <!-- -->
 
 1. Go to the [gen room](../items/Generator.md) area, we all know the
-    fastest way to the gen room right? Well after you breach the
-    backdoor and enter the main area, take the right and place a motion
-    sensor on the door leading to the basement. Place another motion
-    sensor on the main gen room door, center it and try to get by. If
-    you can get by any sensors, destroy them and try again.
+   fastest way to the gen room right? Well after you breach the
+   backdoor and enter the main area, take the right and place a motion
+   sensor on the door leading to the basement. Place another motion
+   sensor on the main gen room door, center it and try to get by. If
+   you can get by any sensors, destroy them and try again.
 
 ### So lets recap
 

@@ -1,10 +1,10 @@
-|                        |                                                 |
-| ---------------------- | ----------------------------------------------- |
-| **Type**               | Weaponry                                        |
+|                        |                                                                       |
+| ---------------------- | --------------------------------------------------------------------- |
+| **Type**               | Weaponry                                                              |
 | **Provides Access To** | [Dragon](../weapons/Dragon.md) and [Scorpion](../weapons/Scorpion.md) |
-| **Pre-requisite**      | [Special Assault](Special_Assault.md)           |
-| **Required For**       | \-                                              |
-| **Cert Point Cost**    | 1                                               |
+| **Pre-requisite**      | [Special Assault](Special_Assault.md)                                 |
+| **Required For**       | \-                                                                    |
+| **Cert Point Cost**    | 1                                                                     |
 
 **Elite Assault**
 

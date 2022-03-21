@@ -1,18 +1,18 @@
 ![](../images/Magrider.jpg "Magrider.jpg")
 
-|                            |                                                                                                                 |
-| -------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                          |
-| **Role**                   | Attack                                                                                                          |
+|                            |                                                                                                                            |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
+| **Role**                   | Attack                                                                                                                     |
 | **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                              |
-| **Primary Weapon**         | Heavy Rail Beam                                                                                                 |
-| **Secondary Weapon**       | Pulsed Particle Accelerator                                                                                     |
-| **Ammunition Used**        | [PPA Battery](../items/PPA_Battery.md) and [Rail Beam Battery](../ammunition/Rail_Beam_Battery.md)               |
-| **Range**                  | PPA: 200m Heavy Rail Beam: 300m                                                                                 |
-| **Occupants**              | 2 (Driver and Gunner)                                                                                           |
-| **Handling**               | Good                                                                                                            |
-| **Top speed**              | 65 kph (45 kph over water)                                                                                      |
+| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                             |
+| **Primary Weapon**         | Heavy Rail Beam                                                                                                            |
+| **Secondary Weapon**       | Pulsed Particle Accelerator                                                                                                |
+| **Ammunition Used**        | [PPA Battery](../items/PPA_Battery.md) and [Rail Beam Battery](../ammunition/Rail_Beam_Battery.md)                         |
+| **Range**                  | PPA: 200m Heavy Rail Beam: 300m                                                                                            |
+| **Occupants**              | 2 (Driver and Gunner)                                                                                                      |
+| **Handling**               | Good                                                                                                                       |
+| **Top speed**              | 65 kph (45 kph over water)                                                                                                 |
 
 **Magrider**
 
@@ -40,11 +40,11 @@ to be purchasable.
 
 Shots to kill (with Heavy Rail Beam only):
 
-|                                      |          |
-| ------------------------------------ | -------- |
+|                                    |          |
+| ---------------------------------- | -------- |
 | [Lightning](vehicles/Lightning.md) | 8 shots  |
-| [Prowler](Prowler.md)     | 21 shots |
-| [Vanguard](Vanguard.md)   | 21 shots |
+| [Prowler](Prowler.md)              | 21 shots |
+| [Vanguard](Vanguard.md)            | 21 shots |
 
 (The above numbers are taken with full Armor; no Vehicle Shields
 applied)

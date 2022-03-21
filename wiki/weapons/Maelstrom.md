@@ -1,18 +1,18 @@
 ![](../images/Maelstrom.jpg "fig:Maelstrom.jpg") soldier defends a [Control
 Console](../locations/Control_Console.md) with his Maelstrom\]\]
 
-|                            |                                                         |
-| -------------------------- | ------------------------------------------------------- |
-| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                       |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                           |
-| **Primary Mode**           | Vortex Whip                                             |
-| **Secondary Mode**         | Chain-Lash Grenade                                      |
-| **Tertiary Mode**          | "Sticky" Chain-Lash Grenade                             |
+|                            |                                                               |
+| -------------------------- | ------------------------------------------------------------- |
+| **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)           |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                  |
+| **Primary Mode**           | Vortex Whip                                                   |
+| **Secondary Mode**         | Chain-Lash Grenade                                            |
+| **Tertiary Mode**          | "Sticky" Chain-Lash Grenade                                   |
 | **Ammunition**             | [Maelstrom Capacitor Unit](items/Maelstrom_Capacitor_Unit.md) |
-| **Range**                  | Vortex Whip: 40m                                        |
-| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                   |
-| **Magazine Capacity**      | 150                                                     |
-| **Zoom**                   | 2x                                                      |
+| **Range**                  | Vortex Whip: 40m                                              |
+| **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                                         |
+| **Magazine Capacity**      | 150                                                           |
+| **Zoom**                   | 2x                                                            |
 
 **Maelstrom**
 
@@ -59,8 +59,8 @@ equipment [Module benefit](../etc/Module_benefit.md) via
 
 Shots to kill (Vortex Whip):
 
-|                                               |           |
-| --------------------------------------------- | --------- |
+|                                                        |           |
+| ------------------------------------------------------ | --------- |
 | [Standard Exo-Suit](../armor/Standard_Exo-Suit.md)     | 12 shots  |
 | [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)           | 15 shots  |
 | [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) | 23 shots  |

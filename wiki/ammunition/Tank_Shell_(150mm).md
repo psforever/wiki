@@ -1,9 +1,9 @@
-|                                  |                                         |
-| -------------------------------- | --------------------------------------- |
-| **Used by**                      | [Vanguard](../vehicles/Vanguard.md)                 |
-| **Empire**                       | [New Conglomerate](../etc/New_Conglomerate.md) |
-| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                     |
-| **Quantity per box**             | 50 Rounds                               |
+|                                                 |                                                |
+| ----------------------------------------------- | ---------------------------------------------- |
+| **Used by**                                     | [Vanguard](../vehicles/Vanguard.md)            |
+| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md) |
+| **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                            |
+| **Quantity per box**                            | 50 Rounds                                      |
 
 **Tank Shell (150mm)**
 

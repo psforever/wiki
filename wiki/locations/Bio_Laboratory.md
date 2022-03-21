@@ -20,18 +20,18 @@ of [Sanctuary](Sanctuary.md) with
 
 ## Base Facility Specs
 
-|                                                                                                |                                                 |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [Control Console](Control_Console.md):                                                         | Level 1                                         |
-| [Generator](../items/Generator.md):                                                                     | Roof                                            |
-| [Spawn room](Spawn_Room.md):                                                                   | Level 1                                         |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):                                          | Courtyard                                       |
-| [BFR Shed](items/BFR_Shed.md):                                                                       | Courtyard                                       |
+|                                                                                                                  |                                                 |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [Control Console](Control_Console.md):                                                                           | Level 1                                         |
+| [Generator](../items/Generator.md):                                                                              | Roof                                            |
+| [Spawn room](Spawn_Room.md):                                                                                     | Level 1                                         |
+| [Vehicle Terminal](Vehicle_Terminal.md) (Air/Ground):                                                            | Courtyard                                       |
+| [BFR Shed](items/BFR_Shed.md):                                                                                   | Courtyard                                       |
 | [Certification Terminals](../items/Certification_Terminal.md)/[Implant Terminals](../items/Implant_Terminal.md): | Level 1                                         |
-| [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:                                            | Basement                                        |
-| [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md):                                         | Reduce Respawn timer (benefit icon: spawn tube) |
-| [Wall Turrets](../items/Phalanx.md):                                                                    | 6                                               |
-|                                                                                                |                                                 |
+| [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:                                               | Basement                                        |
+| [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md):                                            | Reduce Respawn timer (benefit icon: spawn tube) |
+| [Wall Turrets](../items/Phalanx.md):                                                                             | 6                                               |
+|                                                                                                                  |                                                 |
 
 ## Bio Laboratory Locations
 

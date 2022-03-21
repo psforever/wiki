@@ -3,17 +3,17 @@
 ![](../images/AdvancedHacker.jpg "fig:AdvancedHacker.jpg")
 ![](../images/ExpertHacker.jpg "fig:ExpertHacker.jpg")
 
-|                            |                               |
-| -------------------------- | ----------------------------- |
-| **Certification Required** | None                          |
+|                            |                                              |
+| -------------------------- | -------------------------------------------- |
+| **Certification Required** | None                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) |
-| **Primary Mode**           | Hack                          |
-| **Secondary Mode**         | \-                            |
-| **Ammunition**             | \-                            |
-| **Range**                  | 5m                            |
-| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)        |
-| **Magazine Capacity**      | \-                            |
-| **Zoom**                   | None                          |
+| **Primary Mode**           | Hack                                         |
+| **Secondary Mode**         | \-                                           |
+| **Ammunition**             | \-                                           |
+| **Range**                  | 5m                                           |
+| **Inventory Dimensions**   | 3 x 3 (Pistol Holster)                       |
+| **Magazine Capacity**      | \-                                           |
+| **Zoom**                   | None                                         |
 
 **Remote Electronics Kit (REK)**
 

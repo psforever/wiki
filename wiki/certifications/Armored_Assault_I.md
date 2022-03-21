@@ -1,10 +1,10 @@
-|                        |                                                        |
-| ---------------------- | ------------------------------------------------------ |
-| **Type**               | Vehicle                                                |
-| **Provides Access To** | [Lightning](../vehicles/Lightning.md)                   |
-| **Pre-requisite**      | \-                                                     |
+|                        |                                             |
+| ---------------------- | ------------------------------------------- |
+| **Type**               | Vehicle                                     |
+| **Provides Access To** | [Lightning](../vehicles/Lightning.md)       |
+| **Pre-requisite**      | \-                                          |
 | **Required For**       | [Armored Assault II](Armored_Assault_II.md) |
-| **Cert Point Cost**    | 2                                                      |
+| **Cert Point Cost**    | 2                                           |
 
 **Armored Assault I**
 

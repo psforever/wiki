@@ -3,7 +3,7 @@
 |                          |                                                                                                                    |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | **Used by**              | [Mag-Scatter](../weapons/Mag-Scatter.md), [Sweeper](../weapons/Sweeper.md), [Jackhammer](../weapons/Jackhammer.md) |
-| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                                           |
+| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                                       |
 | **Inventory dimensions** | 3x3                                                                                                                |
 | **Quantity per pack**    | 16 shells                                                                                                          |
 

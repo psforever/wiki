@@ -1,9 +1,9 @@
-|                          |                                                               |
-| ------------------------ | ------------------------------------------------------------- |
+|                          |                                                                                              |
+| ------------------------ | -------------------------------------------------------------------------------------------- |
 | **Used by**              | [Eraser](../items/Eraser.md), [Spear](../weapons/Spear.md), [Stinger](../weapons/Stinger.md) |
-| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                 |
-| **Inventory dimensions** | 3x3                                                           |
-| **Quantity per pack**    | 30 bullets                                                    |
+| **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                 |
+| **Inventory dimensions** | 3x3                                                                                          |
+| **Quantity per pack**    | 30 bullets                                                                                   |
 
 **10mm Multi-Phase**
 

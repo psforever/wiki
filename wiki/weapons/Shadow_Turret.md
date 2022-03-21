@@ -1,15 +1,15 @@
 ![](../images/ShadowTurret.jpg "ShadowTurret.jpg")
 
-|                            |                                                                                                              |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ |
+|                            |                                                                                                                                                  |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Fortification Engineering](../certifications/Fortification_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md) |
-| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                |
-| **Primary Mode**           | Shadow Turret                                                                                                |
-| **Secondary Mode**         | \-                                                                                                           |
-| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                        |
-| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                       |
-| **Magazine Capacity**      | 1 use per ACE Unit                                                                                           |
-| **Zoom**                   | None                                                                                                         |
+| **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                                     |
+| **Primary Mode**           | Shadow Turret                                                                                                                                    |
+| **Secondary Mode**         | \-                                                                                                                                               |
+| **Ammunition**             | [Adaptive Construction Engine](Adaptive_Construction_Engine.md) (ACE)                                                                            |
+| **Inventory Dimensions**   | 3 x 3 (Pistol holster)                                                                                                                           |
+| **Magazine Capacity**      | 1 use per ACE Unit                                                                                                                               |
+| **Zoom**                   | None                                                                                                                                             |
 
 **Shadow Turret**
 
