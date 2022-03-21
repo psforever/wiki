@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mkdocs serve --dirtyreload",
     "format": "prettier --write wiki/**/*.md"
   },
   "repository": {
