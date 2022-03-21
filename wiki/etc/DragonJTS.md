@@ -5,7 +5,7 @@ They all have a CC, 2 doors each on their roof and ground floor with
 [IFF](../terminology/IFF.md) locks, and a spawn room with tubes, lockers, and
 equipment terminals. There are three types.
 [Air towers](../locations/Air_tower.md) feature two landing pads that
-Repair/refit.md aircraft, and two wall turrets.
+Repair/refit aircraft, and two wall turrets.
 [Gun towers](../locations/Gun_tower.md) feature two wall turrets.
 [Watch towers](../locations/Watch_tower.md) have no guns, but are five stories
 and feature a middle “balcony”.

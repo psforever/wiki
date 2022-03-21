@@ -14,7 +14,7 @@ them. [Flail](../vehicles/Flail.md) and [Switchblades](Switchblade.md) require t
 [Vehicle Module](../etc/Vehicle_Module.md) benefit to repair and recharge at
 these terminals.
 
-Also sometimes referred to as a _Ground Repair/Rearm.md Station_ or _Repair
+Also sometimes referred to as a _Ground Repair/Rearm Station_ or _Repair
 Terminal_.
 
 

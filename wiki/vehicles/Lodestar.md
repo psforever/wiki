@@ -17,7 +17,7 @@
 ![ Lodestar carries an
 [AMS](Advanced_Mobile_Station.md)](../images/Lodestar_NC.jpg){ class="figure" } The **Lodestar** is a massive, shoebox
 shaped aircraft designed to carry any vehicle and also act as a remote
-Repair/rearm.md station. Infantry may not be directly transported by the
+Repair/rearm station. Infantry may not be directly transported by the
 Lodestar, but must be inside a vehicle.
 
 Extremely poor maneuverability, a gigantic profile, and a complete lack of
@@ -34,7 +34,7 @@ Vehicles being carried by the Lodestar are protected by an energy field,
 rendering them immune to damage. However, they may not shoot out of the field,
 and will be destroyed with the Lodestar if still aboard.
 
-When landed, the Lodestar provides a mobile Repair/rearm.md station. Friendly
+When landed, the Lodestar provides a mobile Repair/rearm station. Friendly
 vehicles simply drive (or hover) close to the Lodestar and they are
 autorepaired. They can also rearm their vehicle in the same way as can be done
 at the base's [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md), making them
