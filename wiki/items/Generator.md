@@ -1,7 +1,6 @@
 ![](../images/Generator.jpg){ class="figure" }
 ![ Warning Light: Generator
-Destroyed](../images/Power_light.jpg){ class="figure"
-}
+Destroyed](../images/Power_light.jpg){ class="figure" }
 
 The **generator** converts the [NTUs](NTU.md) of a base into usable energy to
 fuel base systems and terminals, as well as the self-repair mechanisms of the

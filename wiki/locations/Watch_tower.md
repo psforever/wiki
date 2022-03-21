@@ -1,6 +1,5 @@
 ![ Watch Tower on
-[Cyssor](Cyssor.md)](../images/Watch-tower.jpg){ class="figure"
-}
+[Cyssor](Cyssor.md)](../images/Watch-tower.jpg){ class="figure" }
 
 ## Distinctive features
 

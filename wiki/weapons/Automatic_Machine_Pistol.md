@@ -1,5 +1,4 @@
-![ Soldier equipped with an AMP](../images/PSScreenShot0292.jpg){ class="figure"
-}
+![ Soldier equipped with an AMP](../images/PSScreenShot0292.jpg){ class="figure" }
 
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |

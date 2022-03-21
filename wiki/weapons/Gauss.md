@@ -1,6 +1,5 @@
 ![ Soldier holding a
-Gauss Rifle](../images/PSScreenShot0248.jpg){ class="figure"
-}
+Gauss Rifle](../images/PSScreenShot0248.jpg){ class="figure" }
 
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
