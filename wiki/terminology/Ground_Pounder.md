@@ -6,4 +6,4 @@ Buggy](<Assault_Buggy_(Certification).md>) as well as the secondary weapon of th
 
 It rapidly fires grenades that explode on contact.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

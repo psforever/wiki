@@ -95,4 +95,4 @@ be able to get outdoors with the proper gear to do it. In a heated
 battle with many enemies spawning close to the base, this may not be
 possible.
 
-[Category:Game Guides](../Category:Game_Guides.md)
+<!--[Category:Game Guides](../Category:Game_Guides.md)-->

@@ -23,4 +23,4 @@ you will appear outside of the HART doors in your
 from the HART once the vehicle clears the hangar, skipping the rest of
 the launch animation, and enabling you to select a drop location faster.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

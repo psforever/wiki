@@ -78,4 +78,4 @@ armor bonus to all vehicles of given empire.
 - [Orisha](../facilities/Orisha.md)
 - [Wele](../facilities/Wele.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

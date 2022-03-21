@@ -84,4 +84,4 @@ Commands
   user to your friends
 - /me <text> shows your text as an emote.
 
-[category:Communication](category:Communication.md)
+<!--[category:Communication](category:Communication.md)-->

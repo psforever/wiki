@@ -25,4 +25,4 @@
    - Manual deconstruction of a vehicle by the player from their
      [vehicle](../vehicles/Vehicle.md) management window.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

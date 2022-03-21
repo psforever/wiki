@@ -216,4 +216,4 @@ A seven-level Infantry Merit, obtained by amassing kills with [Standard
 Assault](../certifications/Standard_Assault.md) Weaponry, excluding the Standard
 Issue Knifes and [Grenades](../items/Grenade.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

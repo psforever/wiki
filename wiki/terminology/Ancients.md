@@ -25,4 +25,4 @@ harness their power if we are return to Earth and defend all humanity
 against them or their enemies. This is our purpose and our curse and we
 cannot fail.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

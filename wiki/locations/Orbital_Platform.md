@@ -9,4 +9,4 @@ already been implemented, the name Orbital Platform was kept, even
 though it would be required to have ten times as many due to increased
 number of planets.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

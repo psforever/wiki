@@ -1,3 +1,3 @@
 Elevation: 54.0m
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

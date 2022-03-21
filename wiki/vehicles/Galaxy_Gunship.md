@@ -32,7 +32,7 @@ The Galaxy Gunship can only be purchased at a [Dropship
 Center](../locations/Dropship_Center.md) or the
 [Sanctuary](../locations/Sanctuary.md). The purchase timer is 10 minutes.
 
-[Category:Vehicles](Category:Vehicles.md) [Category:Common Pool
+<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 Vehicles](Category:Common_Pool_Vehicles.md) [Category:Air
 Vehicles](Category:Air_Vehicles.md) [Category:Game
 Items](Category:Game_Items.md)

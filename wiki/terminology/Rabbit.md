@@ -76,5 +76,5 @@ The most common use for a Rabbit event is to end a 3-way battle in a
 zone that has lasted many days. The most common reward is a [continental
 lock](../etc/Continental_lock.md) on that zone for 12 hours.
 
-[Category:Game Guides](Category:Game_Guides.md)
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->
+<!--[Category:Terminology](Category:Terminology.md)-->

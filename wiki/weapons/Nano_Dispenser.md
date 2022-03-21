@@ -62,6 +62,6 @@ Engineering](../certifications/Advanced_Engineering.md) have the highest Nano
 Dispenser efficiency, repairing at a rate of 64 armor points per unit of
 ammunition.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

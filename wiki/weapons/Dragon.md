@@ -39,4 +39,4 @@ Service](../merits/Term_of_Service.md) [merit](../merits/Merit_Commendations.md)
 available to those certing [Elite Assault](../certifications/Elite_Assault.md).
 The Dragon has a 3 minute acquisition timer.
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

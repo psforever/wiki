@@ -7,4 +7,4 @@ You can save up to 10 personal loadouts in the
 terminal](../items/Equipment_Terminal.md), and up to 5 vehicle loadouts
 at any [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

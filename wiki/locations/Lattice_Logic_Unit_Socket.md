@@ -9,6 +9,6 @@ The LLU will last 15 minutes, starting from the moment the
 brought to its destination or the defending [Empire](../terminology/Empire.md)
 [re-hacks](../terminology/Hack.md) the facility.
 
-[category:Game Items](category:Game_Items.md)
+<!--[category:Game Items](category:Game_Items.md)-->
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

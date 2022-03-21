@@ -11,4 +11,4 @@ Terminal](Vehicle_Terminal.md), and a nearby
 There are three Villas in each Empire's
 [Sanctuary](../Sanctuary.md).
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

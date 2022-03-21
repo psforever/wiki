@@ -8,4 +8,4 @@ The Air Terminal Room features two [Air
 Terminals](../items/Air_Terminal.md) and has three doors. Two leading
 outside and one leading to the main staircase.
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

@@ -47,5 +47,5 @@ inactive, shifting the lattice links between bases.
 [The Story of the Continental
 Lattice](http://planetside.station.sony.com/news_story.jsp?story=65061)
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

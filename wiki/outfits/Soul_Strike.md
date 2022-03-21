@@ -65,6 +65,6 @@ Current Tactical Officers are:
 **DrChaos**
 **MissingInAction90**
 
-[Category:Outfits](Category:Outfits.md) [Category:Vanu
+<!--[Category:Outfits](Category:Outfits.md)--> [Category:Vanu
 Sovereignty Outfits](Category:Vanu_Sovereignty_Outfits.md)
-[Category:Emerald Outfits](Category:Emerald_Outfits.md)
+<!--[Category:Emerald Outfits](Category:Emerald_Outfits.md)-->

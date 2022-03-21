@@ -12,4 +12,4 @@ wearing:
 Infantry troops are also colloquially referred to as "grunts" or
 "softies".
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

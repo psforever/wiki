@@ -13,4 +13,4 @@ side of each building are also doors leading to the [VR
 Training](VR_Training.md) rooms. Most other Sanctuary services
 can be found in the nearby [HART building](HART_building.md).
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

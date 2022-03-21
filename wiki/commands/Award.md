@@ -6,4 +6,4 @@ Commendations](../merits/Merit_Commendations.md) on players.
 - **/award_add**
 - **/award_remove**
 
-[category:Commands](category:Commands.md)
+<!--[category:Commands](category:Commands.md)-->

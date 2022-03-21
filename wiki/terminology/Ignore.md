@@ -18,4 +18,4 @@ pane](Player_pane.md).
 Attempting to add yourself to the ignore list will result in one of a
 few entertaining messages.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

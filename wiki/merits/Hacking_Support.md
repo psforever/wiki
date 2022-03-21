@@ -405,4 +405,4 @@ Or a <b>U</b> as in **_Ultimate Hacker_**;
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

@@ -9,4 +9,4 @@ They will repair all vehicles but only recharge the capacitors of the
 Ancient-Tech vehicles ([Flail](../items/Flail.md) and
 [Switchblade](../items/Switchblade.md)).
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

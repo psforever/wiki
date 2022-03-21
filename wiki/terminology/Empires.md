@@ -11,4 +11,4 @@ carries into the Empire-Specific weapons and vehicles.
 Once a character has selected an [Empire](Empires.md) that
 character cannot change Empires.
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

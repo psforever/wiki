@@ -222,4 +222,4 @@ Standard Issue Knife.
 - [Fusion Blade](../weapons/Fusion_Blade.md) ([Common
   Pool](../terminology/Common_Pool.md))
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

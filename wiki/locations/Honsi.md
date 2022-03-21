@@ -17,4 +17,4 @@ Honsi is linked to the [Technology Plant](Technology_Plant.md)
 _enfants terribles_ category of Dahomean folktales in African mythology.
 Enfants Terribles is French for Terrible Children.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

@@ -12,4 +12,4 @@ this continent becomes broadcast-capable.
 If no broadcast link is available, entering the warpgate beam will
 simply transport you to the continent that gate is hard-linked to.
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

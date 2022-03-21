@@ -32,4 +32,4 @@ page](http://planetside.station.sony.com/reserves/)
   characters in the [warp queue](warp_queue.md) for a
   [poplocked](../Population_Lock.md) [zone](Zone.md)
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

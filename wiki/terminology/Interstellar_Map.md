@@ -38,5 +38,5 @@ Map](../etc/Continental_Map.md) of that world or cavern.
 
 Add toggle descrptions for population, etc.
 
-[category:HUD](category:HUD.md)
-[category:Terminology](category:Terminology.md)
+<!--[category:HUD](category:HUD.md)-->
+<!--[category:Terminology](category:Terminology.md)-->

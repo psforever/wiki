@@ -78,4 +78,4 @@ empire will not be rewarded and will result only in grief. The
 organization member names have not been discovered but soldiers killing
 a member will secretly find themselves rewarded with the merit.
 
-[Category:Events](Category:Events.md)
+<!--[Category:Events](Category:Events.md)-->

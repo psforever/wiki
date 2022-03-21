@@ -7,4 +7,4 @@ tower](../locations/Air_tower.md) to northeast (outside of
 [Akua](Akua.md), [Drakulu](Drakulu.md),
 [Rehua](Rehua.md)
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

@@ -15,4 +15,4 @@ is open for a total of 7 hours at a time.
 Sometimes in Game Lore the caverns are referred to as the [Auraxian
 Core](../items/Auraxian_Core.md).
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

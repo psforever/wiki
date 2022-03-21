@@ -25,4 +25,4 @@ avoid the missiles, which do reasonable damage. The missiles can also be
 dumb-fired and have splash damage upon impact, making the Sparrow quite
 useful for defending against infantry as well as aircraft.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

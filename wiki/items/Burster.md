@@ -27,4 +27,4 @@ fire when unanchored is so low that many pilots will simply ignore it.)
 The overdrive ability increases the rate of fire by 50% and still allows
 the Burster to move, offering a nice compromise.
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

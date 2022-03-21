@@ -43,5 +43,5 @@ applied)
 [category:Terran Republic
 Weapons](category:Terran_Republic_Weapons.md)
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)-->

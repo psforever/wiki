@@ -20,4 +20,4 @@ It can be assumed that the origin of the cavern's name comes from the
 paradise-esque underworld [Annwn](http://en.wikipedia.org/wiki/Annwyn)
 in Welsh mythology.
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

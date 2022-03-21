@@ -42,6 +42,6 @@ Shots to kill:
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
 Incentives](../etc/Empire_Incentives.md) applied)
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Terran
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Terran
 Republic Weapons](Category:Terran_Republic_Weapons.md)

@@ -32,4 +32,4 @@ Hacker](../certifications/Expert_Hacking.md) can also hack into the [Generator
 Terminal](items/Generator_Terminal.md) to create or increase a pain
 field in the generator room.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

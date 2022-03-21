@@ -34,4 +34,4 @@ Since this Event is Emerald Server only, I suggest all you
 some Alts on Emerald and join the [Monolith](../items/Monolith.md)
 Battle!
 
-[Category:Events](Category:Events.md)
+<!--[Category:Events](Category:Events.md)-->

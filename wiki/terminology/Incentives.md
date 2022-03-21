@@ -9,4 +9,4 @@ Incentives are applied in two different scales:
   (Continent/Cavern) scale)
 - [Global Incentives](Global_Incentives.md) (Universal scale)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

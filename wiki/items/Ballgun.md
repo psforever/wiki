@@ -8,4 +8,4 @@ small, but if the user has the [Darklight](../implants/Darklight.md)
 [cloaked](Infiltration_Suit.md) enemies are visible at a longer
 range than would be possible with the implant alone.
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

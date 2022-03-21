@@ -10,5 +10,5 @@ Incentive](../etc/Empire_Incentives.md) bonus due to low population.
 Selecting to spawn at an [AMS](../vehicles/Advanced_Mobile_Station.md) always has a shorter
 respawn timer than the longest option.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

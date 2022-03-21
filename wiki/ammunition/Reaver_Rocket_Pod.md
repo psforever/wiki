@@ -15,5 +15,5 @@ into the [vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or
 acquired while in the vehicle from a [Landing
 Pad](../items/Landing_Pad.md).
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Ammunition](Category:Ammunition.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Ammunition](Category:Ammunition.md)-->

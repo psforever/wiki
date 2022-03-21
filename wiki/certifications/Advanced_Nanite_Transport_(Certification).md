@@ -11,4 +11,4 @@
 This is not a [certification](Certification.md) per se, as it is
 free for every player.
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

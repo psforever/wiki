@@ -35,4 +35,4 @@ deconstruct them.
 ![](../images/FDUConstructing.jpg "fig:FDUConstructing.jpg")
 ![](../images/FDUCarry.jpg "fig:FDUCarry.jpg") Soldier carrying 2 FDU's\]\]
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

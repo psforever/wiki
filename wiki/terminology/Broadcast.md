@@ -7,4 +7,4 @@
    [lattice](Lattice.md). See [Broadcast
    warpgate](items/Broadcast_warpgate.md).
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

@@ -16,4 +16,4 @@ This implant has no effect on any other weapon system.
 It will use 10 stamina points for a swing in either swing mode for any
 melee weapon.
 
-[category:Implants](category:Implants.md)
+<!--[category:Implants](category:Implants.md)-->

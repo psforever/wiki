@@ -34,4 +34,4 @@ Shadow Turrets can be detected by use of the
 will appear in a similar way as players wearing an [Infiltration
 Suit](../items/Infiltration_Suit.md).
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

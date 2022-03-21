@@ -97,4 +97,4 @@ series](Defense_Merit_Commendations.md#Empire_Defense_Merits)"
 of Merits.
 
 This Merit is awarded for killing Enemies while using any means
-necessary. [category:Merits](category:Merits.md)
+necessary. <!--[category:Merits](category:Merits.md)-->

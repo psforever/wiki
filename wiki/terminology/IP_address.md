@@ -5,4 +5,4 @@ logged in.
 for more information, visit
 [howstuffworks](http://computer.howstuffworks.com/question549.htm)
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

@@ -10,4 +10,4 @@ even against enemies who walk/move while crouched. There is a known bug
 in which enemy players who recently exited a vehicle (via bailing or
 dismounting) are not always detected with the implant.
 
-[Category:Implants](../Category:Implants.md)
+<!--[Category:Implants](../Category:Implants.md)-->

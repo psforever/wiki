@@ -51,7 +51,7 @@ In addition to the [Hand grenade](Hand_grenade.md) three-pack,
 **Jammer grenades** are also available in ammo boxes for use with the
 [Thumper](Thumper.md) and [Punisher](Punisher.md).
 
-[category:Common Pool Weapons](category:Common_Pool_Weapons.md)
+<!--[category:Common Pool Weapons](category:Common_Pool_Weapons.md)-->
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)-->

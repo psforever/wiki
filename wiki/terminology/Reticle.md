@@ -6,4 +6,4 @@ cone of fire and a realtime indicator of accuracy.
 In some situations, other information may be added, such as an altitude
 tape or vehicle heading indicator.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

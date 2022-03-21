@@ -1,4 +1,4 @@
-![](../images/ap9mmbullet.jpg "ap9mmbullet.jpg")
+![](../images/Ap9mmbullet.jpg "ap9mmbullet.jpg")
 
 |                          |                                                                                                                                                                                                                                                                                                      |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,5 +25,5 @@ Since AP 9mm Bullets are for use in small arms, they can pass through
 the energy shields of [BattleFrame
 Robotics](../vehicles/BattleFrame_Robotics.md).
 
-[Category:Game Items](../Category:Game_Items.md)
-[Category:Ammunition](../Category:Ammunition.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->
+<!--[Category:Ammunition](../Category:Ammunition.md)-->

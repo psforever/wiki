@@ -18,4 +18,4 @@ Acan is one of Voltan's Sub-Capitols.
 Acan has a Gun Tower to it's East, which is outside it's
 [SOI](../locations/Sphere_of_Influence.md). Acan is a Hack-and-Hold Facility.
 
-[Category:Facilities](../Category:Facilities.md)
+<!--[Category:Facilities](../Category:Facilities.md)-->

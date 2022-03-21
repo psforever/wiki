@@ -72,4 +72,4 @@ This continent is also refered to as
 - [Mekala](../facilities/Mekala.md)
 - [Tumas](../facilities/Tumas.md)
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

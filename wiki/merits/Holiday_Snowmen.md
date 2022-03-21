@@ -69,4 +69,4 @@ Each snowmen is in the [Spawn Room](../locations/Spawn_Room.md) of a Tower.
 - **[Solsar](../locations/Solsar.md)** - North [Hapi](../facilities/Hapi.md)
   Watch Tower
 
-[Category:Merits](Category:Merits.md)
+<!--[Category:Merits](Category:Merits.md)-->

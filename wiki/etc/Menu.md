@@ -97,4 +97,4 @@ Bandwidth Settings : Modem users should pick "Low". Other users should experimen
 
 **Article in progress**
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

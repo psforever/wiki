@@ -11,4 +11,4 @@ The terminal is also capable of spawning the
 Gunship](../vehicles/Galaxy_Gunship.md), and
 [Lodestar](../vehicles/Lodestar.md).
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

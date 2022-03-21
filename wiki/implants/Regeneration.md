@@ -10,4 +10,4 @@ Applicator](../weapons/Medical_Applicator.md)).
 Regeneration is represented on the [HUD](../etc/Heads-up_Display.md) as a
 heart-shaped icon.
 
-[category:Implants](category:Implants.md)
+<!--[category:Implants](category:Implants.md)-->

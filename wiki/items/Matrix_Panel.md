@@ -28,7 +28,7 @@ Spawn rooms that have upgraded pain fields from expert hackers show a
 special icon on the [Continental Map](../etc/Continental_Map.md) and
 will last for 30 minutes after the last boost.
 
-[category:Terminology](category:Terminology.md)
-[category:Locations](category:Locations.md)
+<!--[category:Terminology](category:Terminology.md)-->
+<!--[category:Locations](category:Locations.md)-->
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

@@ -49,6 +49,6 @@ terminal](equipment_terminal.md) until the character has
 achieved [Command Rank](terminology/Command_Rank.md) 2. This includes the VR
 Shooting range.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

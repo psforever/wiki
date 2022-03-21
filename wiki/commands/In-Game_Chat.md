@@ -277,4 +277,4 @@ It is possible to customize the color of chat messages you send.
 Please see [Color Codes](Color_Codes.md) for details on how to
 do this.
 
-[Category:Communication](Category:Communication.md)
+<!--[Category:Communication](Category:Communication.md)-->

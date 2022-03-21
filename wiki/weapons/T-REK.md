@@ -61,6 +61,6 @@ The primary fire of the T-REK contains 4 shots (similar to the
 - Vehicle speed is reduced
 - Decreased handling
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

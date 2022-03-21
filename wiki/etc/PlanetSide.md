@@ -256,4 +256,4 @@ Robotics](../vehicles/BattleFrame_Robotics.md) (BFR's).
 
 - [The Official _PlanetSide_ Website](http://www.planetside.com/)
 
-[Category:PlanetSide](Category:PlanetSide.md)
+<!--[Category:PlanetSide](Category:PlanetSide.md)-->

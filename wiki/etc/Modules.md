@@ -94,4 +94,4 @@ rules, in the same vein as [LLUs](../terminology/Lattice_Logic_Unit.md).
    Cradle](items/Module_Cradle.md). They will explode if they are out
    of their cradle for more than 15 minutes.
 
-[Category:Modules](Category:Modules.md)
+<!--[Category:Modules](Category:Modules.md)-->

@@ -83,4 +83,4 @@ to create specific colors is beyond the scope of this wiki. Please refer
 to tools such as the [W3 School's List of HTML Color
 Names](http://www.w3schools.com/tags/ref_colornames.asp).
 
-[Category:Commands](Category:Commands.md)
+<!--[Category:Commands](Category:Commands.md)-->

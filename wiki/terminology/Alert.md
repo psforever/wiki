@@ -8,4 +8,4 @@ Alerts are indications of enemy density within a friendly
 - Red Alert - Triggered when there are 60 or more enemy soldiers
   within an SOI at any time
 
-[Category:Terminology](../Category:Terminology.md)
+<!--[Category:Terminology](../Category:Terminology.md)-->

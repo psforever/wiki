@@ -14,5 +14,5 @@ Forums](http://comms.planetsidesyndicate.com/forumdisplay.php?f=23)
 [Concept Division
 Forums](http://comms.planetsidesyndicate.com/forumdisplay.php?f=24)
 
-[Category: Idealab](Category:_Idealab.md) [Category: Web
+<!--[Category: Idealab](Category:_Idealab.md)--> [Category: Web
 site](Category:_Web_site.md)

@@ -16,5 +16,5 @@ They come in two varieties:
   continental servers, and is only seen during a very intense
   three-way battle.
 
-[Category:Game Guides](Category:Game_Guides.md)
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->
+<!--[Category:Terminology](Category:Terminology.md)-->

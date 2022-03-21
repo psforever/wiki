@@ -5,4 +5,4 @@ by receiving /bug reports and subsequently working to help find out
 where a given problem/issue lies in order to resolve it in a future
 patch.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

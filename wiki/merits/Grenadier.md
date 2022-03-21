@@ -219,4 +219,4 @@ following:
 - [Plasma grenade](../weapons/Plasma_grenade.md)
 - [Fragmentation grenade](../weapons/Fragmentation_grenade.md)
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

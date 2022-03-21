@@ -343,4 +343,4 @@ ULTRA : United League of Terran Republic Alliances (TR)
 VC : [Victor Company](../outfits/Victor_Company.md) Oufit (NC) And [Vanu Corporation](../outfits/Vanu_Corporation.md) (VS)
 WNx : [Warrior Nation](../Warrior_Nation.md) Outfit (VS)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

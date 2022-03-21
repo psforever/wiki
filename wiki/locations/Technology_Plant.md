@@ -98,4 +98,4 @@ another on Level 2 for the Ground Vehicle creation pad.
 - [Amun](../facilities/Amun.md) (Sub-Capitol)
 - [Seth](../facilities/Seth.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

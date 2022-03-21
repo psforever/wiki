@@ -65,4 +65,4 @@ a devastating weapon.
 The weapon has a rare [known issue](../etc/Known_Issues.md) involving
 the bomblets not exploding properly.
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

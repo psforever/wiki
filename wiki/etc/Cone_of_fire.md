@@ -26,4 +26,4 @@ Managing your **Cone of Fire** is one of the basic skills in PlanetSide.
 - Fire in bursts, not continuously
 - When possible, crouch
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

@@ -59,4 +59,4 @@ include:
 Occupants of undetectable units are also undetectable (e.g. galaxy
 passengers)
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

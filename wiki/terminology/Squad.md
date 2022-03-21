@@ -29,5 +29,5 @@ Below is a picture of the mini-squad member list that appears on your
 
 ![Image:SquadList.JPG](../images/SquadList.jpg "Image:SquadList.JPG")
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

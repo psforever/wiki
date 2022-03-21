@@ -960,4 +960,4 @@ Description here
   <small>(pictures courtesy of GoHokieGo, TR Emerald)</small>
 - Peregrine
 
-[category:Strategy](category:Strategy.md)
+<!--[category:Strategy](category:Strategy.md)-->

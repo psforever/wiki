@@ -12,7 +12,7 @@ Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
 
 |                            |                                                              |
 | -------------------------- | ------------------------------------------------------------ |
-| **Certification Required** | [Reinforced Exo-Suit](<Reinforced_Exo-Suit_(Certification)>) |
+| **Certification Required** | [Reinforced Exo-Suit](../certifications/Reinforced_Exo-Suit_(Certification).md) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                 |
 | **Armor**                  | 200                                                          |
 | **Pistol Holsters**        | 2                                                            |
@@ -31,6 +31,6 @@ significant tradeoff in terms of mobility. Also, only
 Tech](../items/Core_Combat.md#Vehicles) vehicles, and [Sunderer
 variants](../vehicles/Sunderer.md) can be driven while wearing this armor.
 
-[category:armor](category:armor.md)
+<!--[category:armor](category:armor.md)-->
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

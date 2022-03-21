@@ -21,4 +21,4 @@ additions for everybody!
 
 Thank you and we’ll see you on the battlefield!
 
-[category:patches](category:patches.md)
+<!--[category:patches](category:patches.md)-->

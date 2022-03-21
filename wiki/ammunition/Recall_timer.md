@@ -14,4 +14,4 @@ outside of an SOI.
 
 These timers are also the time required to exit the PS client normally.
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

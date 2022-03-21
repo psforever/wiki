@@ -80,4 +80,4 @@ Planetside Syndicate Conference, organized by
 
 July 2005, Orlando, Fl.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

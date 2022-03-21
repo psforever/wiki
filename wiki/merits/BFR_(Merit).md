@@ -163,4 +163,4 @@ Robotic](../vehicles/BattleFrame_Robotics.md).
 Upon completion of the Basic level, the pilot will be able to acquire
 the Flight Variant BattleFrame Robotic.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

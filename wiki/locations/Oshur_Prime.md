@@ -71,4 +71,4 @@ with Oshur Prime as their theatre of operations.
 - Izha
 - Jamshid
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

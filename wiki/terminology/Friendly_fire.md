@@ -10,4 +10,4 @@ does not make members of the same team (Empire) immune to each others
 weapons. It is possible to damage and kill one's teammates. This is one
 of the features that makes PlanetSide more tactical.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

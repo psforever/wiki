@@ -15,5 +15,5 @@ Republic](../etc/Terran_Republic.md)'s anti-vehicular weapon, the
 [Lancer](../weapons/Lancer.md)'s rounds, killing a [MAX](../items/Mechanized_Assault_Exo-Suit.md)
 unit in 6 shots.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Ammunition](Category:Ammunition.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Ammunition](Category:Ammunition.md)-->

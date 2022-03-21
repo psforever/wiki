@@ -15,4 +15,4 @@ Vehicle Module to be acquired.
 This module appears as purple on the [Continental
 Map](Continental_Map.md).
 
-[Category:Modules](Category:Modules.md)
+<!--[Category:Modules](Category:Modules.md)-->

@@ -48,7 +48,7 @@ Note: [Radiator](Radiator.md) effects do not "stack."
 Overlapping irradiated areas always deal the same amount of damage over
 time, they do not double or triple the damage.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md) [Category:Core
 Combat](Category:Core_Combat.md)

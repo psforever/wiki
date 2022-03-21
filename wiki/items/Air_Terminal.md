@@ -16,4 +16,4 @@ Terminals](../locations/Dropship_Terminal.md) and at the
 - [Ancient Air Vehicle
   Terminal](Ancient_Air_Vehicle_Terminal.md)
 
-[category:Game Items](category:Game_Items.md)
+<!--[category:Game Items](category:Game_Items.md)-->

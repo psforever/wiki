@@ -216,4 +216,4 @@ This seven-level Merit is awarded for amassing kills with the
 [Boomer](</Adaptive_Construction_Engine#Remote-Detonated_Charge_(Boomer)>)
 mode of the [ACE](../weapons/Adaptive_Construction_Engine.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

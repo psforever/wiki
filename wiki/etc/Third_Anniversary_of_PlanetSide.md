@@ -102,4 +102,4 @@ restored first, and this process continued untill the vehicles first
 removed ([BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)) were
 restored again.
 
-[Category:Events](Category:Events.md)
+<!--[Category:Events](Category:Events.md)-->

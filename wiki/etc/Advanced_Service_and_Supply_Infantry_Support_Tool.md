@@ -37,4 +37,4 @@ Also, the Advanced Service and Supply Infantry Support Tool can revive
 if the user has the [Advanced Medical](../certifications/Advanced_Medical.md)
 certification. It takes 30 units of ammo to revive someone.
 
-[category:Idealab](category:Idealab.md)
+<!--[category:Idealab](category:Idealab.md)-->

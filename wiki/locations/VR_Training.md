@@ -68,4 +68,4 @@ Points](../terminology/Experience_Points.md), and it is quite easy to attain
 means you start active duty with ten [Certification
 points](../certifications/Certification_points.md) to spend, instead of seven.)
 
-[category:Locations](category:Locations.md)
+<!--[category:Locations](category:Locations.md)-->

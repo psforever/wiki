@@ -9,4 +9,4 @@ It is linked via [Lattice](terminology/Lattice.md) to the warpgate,
 
 Elevation: 64.0m
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

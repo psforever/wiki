@@ -18,4 +18,4 @@ There are no monoliths on the [Oshur](Oshur.md) [Battle
 Islands](Battle_Islands.md) or in the
 [caverns](Caverns.md).
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

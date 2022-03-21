@@ -23,7 +23,7 @@ carry supplies as well. The Deliverer also has the distinct advantage of
 being able to cross calm rivers and waterways and will float at the
 surface.
 
-[category:Game Items](category:Game_Items.md)
+<!--[category:Game Items](category:Game_Items.md)-->
 
-[Category:Vehicles](Category:Vehicles.md) [Category:Common Pool
+<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 Vehicles](Category:Common_Pool_Vehicles.md)

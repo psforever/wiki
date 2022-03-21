@@ -60,4 +60,4 @@ Ops Mercenary](merits/Black_Ops_Mercenary.md) Merit Commendation.
 awarded with the [Black Ops Hunter](merits/Black_Ops_Hunter.md) Merit
 Commendations.
 
-[Category:Terminology](../Category:Terminology.md)
+<!--[Category:Terminology](../Category:Terminology.md)-->

@@ -22,4 +22,4 @@ _Irkalla_ is the Hell-like underworld of Akkadian and Sumerian
 mythology. See the [Wikipedia](http://en.wikipedia.org/wiki/Irkalla)
 article.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

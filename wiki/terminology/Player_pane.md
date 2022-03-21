@@ -9,4 +9,4 @@ this pane the following functions are available:
 Please note, many of the functions in this panel can be duplicated via
 simple [Chat Commands](Commands.md).
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

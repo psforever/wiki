@@ -88,4 +88,4 @@ the Qualification level of the following merits:
 - [AMS Support](AMS_Support.md)
 - [Lodestar Support](Lodestar_Support.md)
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

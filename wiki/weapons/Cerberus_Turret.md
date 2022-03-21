@@ -39,4 +39,4 @@ Defender](../merits/Air_Defender.md) and
 [Engineering](<Engineering_(Merit)>)
 [Merits](../merits/Merit_Commendations.md).
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

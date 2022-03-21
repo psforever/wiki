@@ -60,4 +60,4 @@ building](HART_building.md).
 
 --source: Planetside In-game descriptions
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

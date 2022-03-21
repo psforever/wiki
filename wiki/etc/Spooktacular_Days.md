@@ -42,4 +42,4 @@ without need of the [certification](../certifications/Certification.md) on
 Now lets get prepared for some serious experience gain and have a
 haunting good time!
 
-[Category:Events](Category:Events.md)
+<!--[Category:Events](Category:Events.md)-->

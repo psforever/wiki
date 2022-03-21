@@ -13,4 +13,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Oro is a Hack and Hold Facility with a Gun Tower to its North West,
 inside its [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

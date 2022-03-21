@@ -76,4 +76,4 @@ Technician](http://planetside.station.sony.com/news_archive.vm?id=65061&month=02
   Technophobes are shortsighted, only seeing scarcity and survival of
   the fittest..."
 
-[Category:PlanetSide](Category:PlanetSide.md)
+<!--[Category:PlanetSide](Category:PlanetSide.md)-->

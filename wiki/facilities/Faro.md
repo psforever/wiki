@@ -19,4 +19,4 @@ Elevation: 56.7m
 **Faro** is the name of a Sky and Water god in African mythology. See
 [Wikipedia](http://en.wikipedia.org/wiki/Faro_%28mythology%29) article.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

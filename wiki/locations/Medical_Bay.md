@@ -13,4 +13,4 @@ the Advanced Medical Terminal and lockers, it isn't usable.
 The Medical Bay is accessable from the [Main
 lobby](Main_lobby.md) of the Bio Laboratory.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

@@ -23,5 +23,5 @@ Advanced Assault Vehicles include:
   Pool](../terminology/Common_Pool.md))
 - [Wasp](Wasp.md) ([Common Pool](../terminology/Common_Pool.md))
 
-[category:Terminology](category:Terminology.md)
-[category:Vehicles](category:Vehicles.md)
+<!--[category:Terminology](category:Terminology.md)-->
+<!--[category:Vehicles](category:Vehicles.md)-->

@@ -9,4 +9,4 @@ pod on any relatively flat ground outside of an [SOI](../locations/Sphere_of_Inf
 (noting that the SOI covers the entirety of a [continent
 locked](../etc/Continental_lock.md) by that empire).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

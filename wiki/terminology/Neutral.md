@@ -25,5 +25,5 @@ Occasionally a special in-game event will cause a base to go **neutral**
 without the base being drained first. [Black Ops](Black_Ops.md)
 can also hack a facility to turn it neutral.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

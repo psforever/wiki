@@ -16,4 +16,4 @@ to a creepy storage facility where players will find the bodies of those
 who have offended the Planetside Developers and are hung suspended in a
 viscous fluid, floating lifelessly until game world ends.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

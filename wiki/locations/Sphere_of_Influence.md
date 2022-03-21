@@ -49,4 +49,4 @@ the continent, regardless of location.
 
 Facility SOI are "x" in diameter. Tower SOI are "y" in diameter.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

@@ -39,4 +39,4 @@ Shots to kill (Average Spread in a Close to Medium Distance 5-15 m):
 [MedKits](MedKit.md), [Implants](../implants/Implants.md) or [Empire
 Incentives](../etc/Empire_Incentives.md) applied)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

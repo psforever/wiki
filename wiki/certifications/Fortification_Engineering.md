@@ -144,4 +144,4 @@ more efficiently, resulting in increased repair efficiency for
 [vehicles](../vehicles/Vehicle.md) (2x, from 32 to 64) over that of a
 standard engineer.
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

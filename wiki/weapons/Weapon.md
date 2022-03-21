@@ -545,6 +545,6 @@ slower bullets more. You may have to compensate for this.
 - [Weaponry Merit
   Commendations](../Weaponry_Merit_Commendations.md)
 
-[Category:Terminology](Category:Terminology.md)
-[Category:Weapons](Category:Weapons.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

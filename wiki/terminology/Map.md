@@ -16,4 +16,4 @@ screen, but has different features. This is the [Proximity
 Map](Proximity_Map.md), also called Proximity Radar or Radar
 Map.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

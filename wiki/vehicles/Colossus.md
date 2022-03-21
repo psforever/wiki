@@ -36,4 +36,4 @@ Only one gunner weapon can be used at a time.
 ![](../images/PSScreenShot0315.jpg "fig:PSScreenShot0315.jpg") Colossus (Classic
 model)\]\]
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

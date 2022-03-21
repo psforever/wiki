@@ -402,4 +402,4 @@ Like the Hacking Support, it can also be arranged into a "U" for
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

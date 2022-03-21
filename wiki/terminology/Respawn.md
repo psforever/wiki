@@ -26,4 +26,4 @@ Building](../locations/Module_Building.md) and [Redoubt
 Building](locations/Redoubt_Building.md) are available to spawn from, if
 your empire controls them.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

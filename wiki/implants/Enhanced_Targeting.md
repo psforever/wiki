@@ -18,4 +18,4 @@ of running out of Stamina.
 
 **Enhanced Targeting used to be called Advanced Targeting.**
 
-[category:Implants](category:Implants.md)
+<!--[category:Implants](category:Implants.md)-->

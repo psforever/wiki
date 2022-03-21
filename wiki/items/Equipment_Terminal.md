@@ -53,4 +53,4 @@ Combat](Core_Combat.md).
 There is a [known issue](../etc/Known_Issues.md) regarding hacked
 equipment terminals not functioning properly.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

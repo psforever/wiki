@@ -21,4 +21,4 @@ hosts a module benefit.
 lattice like the module benefit. The module icon will appear green over
 the base with such a link.
 
-[Category:Modules](Category:Modules.md)
+<!--[Category:Modules](Category:Modules.md)-->

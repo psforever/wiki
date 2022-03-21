@@ -44,6 +44,6 @@ if you want your gunner to do a manual reload.)
 [Flails](../items/Flail.md), and [Switchblades](../items/Switchblade.md)
 have empty trunks by default.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Items](Category:Game_Items.md) [Category:Game
 Guides](Category:Game_Guides.md)

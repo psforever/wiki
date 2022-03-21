@@ -23,4 +23,4 @@ the player can close the map and move around their current zone as
 normal. Moving to another zone or being killed will also result in the
 player being removed from the queue.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

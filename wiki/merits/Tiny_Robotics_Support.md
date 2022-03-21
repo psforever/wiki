@@ -407,4 +407,4 @@ Or the "T" of "Tiny":
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

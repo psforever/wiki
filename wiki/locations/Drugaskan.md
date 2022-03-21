@@ -14,4 +14,4 @@ Drugaskan is one of the six [Core Combat](../items/Core_Combat.md)
 
 [Category:Articles marked as
 stubs](Category:Articles_marked_as_stubs.md)
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

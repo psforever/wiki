@@ -4,7 +4,7 @@ reaches 10,000 [Outfit Points](../Outfit_Points.md).
 The Outfit Decal is shown on [Vehicles](../vehicles/Vehicle.md) that are
 owned by an [Outfit](../Outfit.md) member, and on each Outfit
 member's [armor](Armor.md).
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->
 
 ### Listing of Outfit Decals
 

@@ -66,4 +66,4 @@ post-[Bending](Bending.md).
 - [Ngaru](../facilities/Ngaru.md)
 - [Tara](../facilities/Tara.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

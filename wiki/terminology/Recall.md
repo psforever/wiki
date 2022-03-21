@@ -15,5 +15,5 @@ timer](ammunition/Recall_timer.md).
 A player can initiate a Recall by typing /recall or by selecting that
 option in their Esc [Menu](../etc/Menu.md).
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

@@ -94,4 +94,4 @@ These merits are awarded to characters playing on the
 [Werner](../etc/Werner.md) servers. The appropriate merit is awarded
 the first time the character logs into Gemini.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

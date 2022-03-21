@@ -8,4 +8,4 @@ soldier. Rockets are fed from the trunk of the Enforcer.
 The rockets are straight-firing unguided projectiles, equally dangerous
 to infantry and vehicles.
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

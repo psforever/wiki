@@ -213,4 +213,4 @@ This Merit is awarded for kills scored by Friendly Soldiers after they
 have Hotdropped out of your [Galaxy](../vehicles/Galaxy.md), [Galaxy
 Gunship](vehicles/Galaxy_Gunship.md), or [P../Phantasm.mdantasm.md).
 The tracker stops 5 minutes after the hotdrop or when the soldier dies,
-unless revived. [category:merits](category:merits.md)
+unless revived. <!--[category:merits](category:merits.md)-->

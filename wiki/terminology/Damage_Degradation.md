@@ -46,5 +46,5 @@ The following suffer from Damage Degradation:
 - [Spitfire](../weapons/Adaptive_Construction_Engine.md#Spitfire) and [Shadow
   Turrets](../weapons/Shadow_Turret.md)
 
-[Category: Terminology](Category:_Terminology.md) [Category:
+<!--[Category: Terminology](Category:_Terminology.md)--> [Category:
 Game Guides](Category:_Game_Guides.md)

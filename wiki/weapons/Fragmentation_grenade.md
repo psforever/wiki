@@ -30,6 +30,6 @@ hand-held three-pack, **Fragmentation grenades** are also available in
 ammo boxes for use with the [Thumper](Thumper.md) and
 [Punisher](Punisher.md).
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

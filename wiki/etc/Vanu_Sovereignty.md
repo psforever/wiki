@@ -1,1 +1,1 @@
-[Category:Factions](Category:Factions.md)
+<!--[Category:Factions](Category:Factions.md)-->

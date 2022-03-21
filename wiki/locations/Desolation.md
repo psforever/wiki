@@ -42,4 +42,4 @@ not modified by anything but [Modules](../etc/Modules.md).
 - [Izha](../facilities/Izha.md)
 - [Jamshid](../facilities/Jamshid.md)
 
-[category:Locations](category:Locations.md)
+<!--[category:Locations](category:Locations.md)-->

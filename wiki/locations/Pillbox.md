@@ -3,4 +3,4 @@ A **Pillbox** is a low solid structure similar to a
 underground protected space.Some versions are larger or smaller than
 others.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

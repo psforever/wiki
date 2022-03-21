@@ -21,4 +21,4 @@ Terminal](../items/Main_Terminal.md) (or a combination of all four).
 - [Technology Plant](Technology_Plant.md) lobbies contain all
   four structures in close proximity to each other.
 
-[category:Locations](category:Locations.md)
+<!--[category:Locations](category:Locations.md)-->

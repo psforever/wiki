@@ -7,4 +7,4 @@ Infantry and [MAX](Mechanized_Assault_Exo-Suit.md) Units.
 
 Repair Crystals have a clear/translucent color.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

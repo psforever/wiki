@@ -30,5 +30,5 @@ Also known as an [Ancient-Tech Turret](Ancient-Tech_Turret.md).
 There is a [known issue](../etc/Known_Issues.md) where friendly manned
 Ancient Sentry Turrets can appear enemy-controled.
 
-[Category:Game Items](../Category:Game_Items.md) [Category:Core
+<!--[Category:Game Items](../Category:Game_Items.md)--> [Category:Core
 Combat](../Category:Core_Combat.md)

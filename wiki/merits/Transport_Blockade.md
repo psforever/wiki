@@ -235,4 +235,4 @@ levels of the [Cavalry Driver](</Cavalry_Driver_(Merit)>) Merit
 Commendation.
 This is a mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

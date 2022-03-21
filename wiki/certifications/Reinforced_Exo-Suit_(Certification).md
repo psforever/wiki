@@ -13,4 +13,4 @@
 This certification is free for characters with the [Five Year Term of
 Service](../merits/Term_of_Service.md) award.
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

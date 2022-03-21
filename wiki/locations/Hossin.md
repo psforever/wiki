@@ -77,4 +77,4 @@ post-[Bending](Bending.md).
 - [Ghanon](../facilities/Ghanon.md)
 - [Mulac](../facilities/Mulac.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

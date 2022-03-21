@@ -34,6 +34,6 @@ clearly audible noise as it does so.
 (Note: This weapon is part of the soldier's armor and so cannot be
 looted.)
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:New
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:New
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

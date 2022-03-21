@@ -458,4 +458,4 @@ This can be a Weapon from one of the following classes:
 - [Heavy Assault](../certifications/Heavy_Assault.md)
 - [Anti-Vehicular](../certifications/Anti-Vehicular.md)
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

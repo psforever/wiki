@@ -87,4 +87,4 @@ Engineering](../certifications/Assault_Engineering.md) can also place spitfires
 just outside the doors, making for a nasty surprise when defenders try
 to push out.
 
-[Category:Strategy](Category:Strategy.md)
+<!--[Category:Strategy](Category:Strategy.md)-->

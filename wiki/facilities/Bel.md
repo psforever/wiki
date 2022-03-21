@@ -1,1 +1,1 @@
-[category:Facilities](category:Facilities.md)
+<!--[category:Facilities](category:Facilities.md)-->

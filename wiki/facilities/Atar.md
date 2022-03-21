@@ -20,4 +20,4 @@ time-consuming endevour for a protracted battle. Defenders also have the
 advantage of the bottlenecks created by the design of dropship center
 hallways.
 
-[Category:Facilities](../Category:Facilities.md)
+<!--[Category:Facilities](../Category:Facilities.md)-->

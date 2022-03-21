@@ -14,4 +14,4 @@ Darklight takes 3 stamina points to start up. You also cannot use it
 while in [Third person](../terminology/Third_person.md) view. Troops with
 Darklight activated will have the Darklight icon next to their name.
 
-[Category:Implants](Category:Implants.md)
+<!--[Category:Implants](Category:Implants.md)-->

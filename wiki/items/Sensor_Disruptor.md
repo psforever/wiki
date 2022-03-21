@@ -28,5 +28,5 @@ as well as on the continental map. As with all deployables, double
 clicking on it on the continental map will give you a pop-up asking if
 you wish to deconstruct it.
 
-[Category:Game Items](Category:Game_Items.md) [Category:Common
+<!--[Category:Game Items](Category:Game_Items.md)--> [Category:Common
 Pool](Category:Common_Pool.md)

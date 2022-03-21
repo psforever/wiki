@@ -15,4 +15,4 @@ Azeban has [Lattice](../terminology/Lattice.md) Links to:
   [Xelas](Xelas.md)
 - [Hossin](../locations/Hossin.md) Warpgate
 
-[Category:Facilities](../Category:Facilities.md)
+<!--[Category:Facilities](../Category:Facilities.md)-->

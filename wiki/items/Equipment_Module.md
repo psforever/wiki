@@ -14,4 +14,4 @@ beneficial [Module benefits](../etc/Module_benefit.md):
 This module appears blue on the [Continental
 Map](../etc/Continental_Map.md).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

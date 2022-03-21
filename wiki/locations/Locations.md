@@ -66,4 +66,4 @@ the [Spawn Room](Spawn_Room.md) and the
 - [Spawn Room](Spawn_Room.md)
 - [Vehicle Bay](Vehicle_Bay.md) (Technology Plant only)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

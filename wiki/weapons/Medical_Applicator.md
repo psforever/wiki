@@ -50,6 +50,6 @@ Secondary function will allow the user to heal himself.
    times. It takes 25 units of health canister supply to revive a
    fallen ally.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

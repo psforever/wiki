@@ -19,4 +19,4 @@ of the three.
 considered to have infinite NTU for this purpose, although the rate is
 still very slow.)
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

@@ -14,4 +14,4 @@ distinguished as consisting of "closed beta", when only those invited
 could participate in the testing, and "open beta", when anyone could
 sign up to test.
 
-[Category:Terminology](../Category:Terminology.md)
+<!--[Category:Terminology](../Category:Terminology.md)-->

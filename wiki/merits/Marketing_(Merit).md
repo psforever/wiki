@@ -38,4 +38,4 @@ This merit was awarded to players who participated in the filming of an
 in-game marketing movie on the [Test Server](../etc/Test_Server.md) for
 [The Bending](../etc/The_Bending.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

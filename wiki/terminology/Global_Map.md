@@ -69,4 +69,4 @@ jobs that the Global Map did just fine.
 - [Oshur](../locations/Oshur.md)
 - [The Bending](../etc/The_Bending.md)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

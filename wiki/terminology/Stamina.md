@@ -13,5 +13,5 @@ Jumping costs 10 stamina points.
 Stamina is shown as a teal bar in the [Bio
 pane](../etc/Heads-up_Display.md#Bio_Pane).
 
-[Category:Game Guides](Category:Game_Guides.md)
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->
+<!--[Category:Terminology](Category:Terminology.md)-->

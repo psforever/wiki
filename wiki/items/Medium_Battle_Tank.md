@@ -34,4 +34,4 @@ All Medium Battle Tanks are considered to be 'enclosed' for driver armor
 purposes, and so may not be driven while wearing the [Reinforced
 Exo-Suit](../armor/Reinforced_Exo-Suit.md).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

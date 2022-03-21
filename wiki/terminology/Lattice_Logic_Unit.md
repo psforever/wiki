@@ -44,4 +44,4 @@ carrying the LLU. You can drop the LLU (to give to another player) by
 pressing shift-G by default. Vehicles parked on top of an LLU in the
 field will be given a deconstruction warning.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

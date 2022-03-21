@@ -100,4 +100,4 @@ of [Sanctuary](Sanctuary.md) with
 - [Horus](Horus.md)
 - [Thoth](../facilities/Thoth.md) (Capitol)
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

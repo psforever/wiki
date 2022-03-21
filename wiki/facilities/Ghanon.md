@@ -14,4 +14,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Ghanon has an Air Tower to it's South East, which is outside it's
 [SOI](../locations/Sphere_of_Influence.md). Ghanon is a Hack-and-Hold Facility.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

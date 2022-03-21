@@ -22,6 +22,6 @@ However, the precision of the weapon somewhat makes up for this fact.
 The weapon is also fairly effective against vehicles if they are close
 enough.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Vanu
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
 Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

@@ -128,4 +128,4 @@ without shields is a sitting duck. So even if you don't kill them on a
 single pass, they will be effectively taken out of the battle so they
 can repair and let their shields regenerate.
 
-[Category:Strategy](Category:Strategy.md)
+<!--[Category:Strategy](Category:Strategy.md)-->

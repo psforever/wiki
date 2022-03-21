@@ -21,4 +21,4 @@ to mandate Ventrilo to be a member of the [outfit](../terminology/Outfit.md).
 
 - [The Ventrilo Home Page](http://www.ventrilo.com/)
 
-[category:Communication](category:Communication.md)
+<!--[category:Communication](category:Communication.md)-->

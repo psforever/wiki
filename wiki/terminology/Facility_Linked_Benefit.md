@@ -97,4 +97,4 @@ each type of benefit associated or linked to that base.
   Tank) Provides Access to [Advanced Assault
   vehicles](../vehicles/Advanced_Assault_vehicles.md)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

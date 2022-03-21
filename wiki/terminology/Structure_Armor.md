@@ -351,5 +351,5 @@ Aegis (Shield Upgrade)
 </tr>
 </table>
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

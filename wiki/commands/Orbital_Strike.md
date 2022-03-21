@@ -12,4 +12,4 @@ Device](../weapons/Command_Uplink_Device.md).
 - Command Rank 4 Radius: 10 meter
 - Command Rank 5 Radius: 20 meter
 
-[Category:Commands](Category:Commands.md)
+<!--[Category:Commands](Category:Commands.md)-->

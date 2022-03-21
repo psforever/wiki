@@ -23,4 +23,4 @@ _Marduk_ (mar'dook) was the name of a Mesopotamian god and the patron
 god of Babylon. See the [Wikipedia](http://en.wikipedia.org/wiki/Marduk)
 article.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

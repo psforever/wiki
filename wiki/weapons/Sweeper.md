@@ -43,6 +43,6 @@ Shots to kill (Close to Medium Range):
 [MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or [Empire
 Incentives](../etc/Empire_Incentives.md) applied)
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

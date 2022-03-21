@@ -42,6 +42,6 @@ quicker, using the [EMP](../commands/EMP.md) to clear mines, and using the
 [EMP](../commands/EMP.md) in conjuction with an [Armor
 Siphon](Armor_Siphon.md) to attack enemy [BFRs](../vehicles/BattleFrame_Robotics.md).
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

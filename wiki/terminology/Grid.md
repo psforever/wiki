@@ -13,4 +13,4 @@ is displayed in your [Proximity Map](Proximity_Map.md), and the
 locations of [squad](Squad.md) and [platoon](Platoon.md)
 members is displayed under their name on the [HUD](../etc/Heads-up_Display.md).
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

@@ -22,4 +22,4 @@ destroyed.
 This module appears as beige on the [Continental
 Map](Continental_Map.md).
 
-[Category:Modules](Category:Modules.md)
+<!--[Category:Modules](Category:Modules.md)-->

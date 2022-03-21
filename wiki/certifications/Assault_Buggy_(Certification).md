@@ -35,4 +35,4 @@ Due to the Open-Air Compartment, it is possible to drive all of these
 Exo-Suit](../armor/Reinforced_Exo-Suit.md). Additionally, the driver of
 these vehicles may bail out at any time.
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

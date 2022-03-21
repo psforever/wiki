@@ -228,4 +228,4 @@ Applicable Vehicles: [Basilisk](../vehicles/Basilisk.md),
 all [BFR](../vehicles/BattleFrame_Robotics.md) pilot weapons except the [Armor
 Siphon](../weapons/Armor_Siphon.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

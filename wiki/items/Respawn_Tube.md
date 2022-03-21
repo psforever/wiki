@@ -24,4 +24,4 @@ By entering a **respawn tube** a soldier can
 "[deconstruct](../terminology/Deconstruct.md)" and respawn at another [spawn
 point](spawn_point.md).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

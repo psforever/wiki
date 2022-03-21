@@ -21,5 +21,5 @@ Empire Home Continents are
 Historically the VS had Esamir and Amerish, the TR had Ceryshen and
 Forseral, and the NC had Solsar and Hossin.
 
-[Category:Locations](Category:Locations.md) [Category:Game
+<!--[Category:Locations](Category:Locations.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

@@ -24,4 +24,4 @@ the [Engineering](</Engineering_(Merit)>),
 Soldier](../merits/Universal_Soldier.md) [Merit
 Commendations](../merits/Merit_Commendations.md).
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

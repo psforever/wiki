@@ -11,4 +11,4 @@ will do very little damage to enemy troops.
 While AP is more effective than AI against vehicles, the specific
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) weapons class is a better
 choice for combatting heavy armor.
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

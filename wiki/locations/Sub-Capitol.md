@@ -35,4 +35,4 @@ Sub-Capitols.
   ([Cetan](../facilities/Cetan.md), [Mekala](../facilities/Mekala.md),
   [Sungrey](../Sungrey.md), [Qumu](../facilities/Qumu.md))
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

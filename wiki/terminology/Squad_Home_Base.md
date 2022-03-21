@@ -87,5 +87,5 @@ The Squad List has two columns: One displays which facility each Squad
 member is bound to, and the other is a checkbox that indicates if that
 Squad member is bound to their Home Base.
 
-[Category:Game Guides](Category:Game_Guides.md)
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->
+<!--[Category:Terminology](Category:Terminology.md)-->

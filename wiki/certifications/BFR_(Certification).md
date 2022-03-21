@@ -42,4 +42,4 @@ This [Certification](Certification.md) is required to obtain the
 [BFR Basic](</BFR_(Merit)>) [Merit
 Commendation](../merits/Merit_Commendations.md).
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

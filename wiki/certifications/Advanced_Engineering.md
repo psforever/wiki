@@ -12,4 +12,4 @@
 Engineering](Fortification_Engineering.md) at a 1 [certification
 point](certification_points.md) discount.
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

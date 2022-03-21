@@ -15,5 +15,5 @@ has contributed to the [Outfit](Outfit.md).
 
 Outfit Points are lost when leaving the Outfit.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

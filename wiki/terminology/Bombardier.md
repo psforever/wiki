@@ -20,4 +20,4 @@ In the [Liberator](../vehicles/Liberator.md), the bombardier has a secondary
 view mode, "bomber mode," allows him or her to swivel the camera in all
 directions below the aircraft for observation, but munitions cannot be
 dropped in this mode. The Vulture lacks this secondary mode.
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

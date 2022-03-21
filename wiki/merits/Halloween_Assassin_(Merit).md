@@ -90,4 +90,4 @@ Massacre](../etc/The_Chainblade_Massacre.md) [Event](Event.md)
 in 2006 or participated in enemy [Sanctuary](../locations/Sanctuary.md) raids
 around the same time.
 
-[Category:Merits](Category:Merits.md)
+<!--[Category:Merits](Category:Merits.md)-->

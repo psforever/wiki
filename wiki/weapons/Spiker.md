@@ -45,7 +45,7 @@ Tactics
 
 - [Elana](../etc/Elana.md)
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md) [Category:Core
 Combat](Category:Core_Combat.md)

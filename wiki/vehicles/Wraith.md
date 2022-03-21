@@ -33,6 +33,6 @@ personal [Inventory](../terminology/Inventory.md).
 The other Quad ATV variants are the [Fury](Fury.md) and the
 [Basilisk](Basilisk.md).
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Vehicles](Category:Vehicles.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 Vehicles](Category:Common_Pool_Vehicles.md)

@@ -13,4 +13,4 @@ The Maelstrom Capacitor Unit is the [ammunition](Ammunition.md)
 for the [Maelstrom](../Maelstrom.md). It can be acquired from any
 [equipment terminal](Equipment_Terminal.md).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

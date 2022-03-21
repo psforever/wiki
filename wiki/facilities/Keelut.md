@@ -8,4 +8,4 @@
 
 [Category:Articles marked as
 stubs](Category:Articles_marked_as_stubs.md)
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

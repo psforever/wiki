@@ -219,4 +219,4 @@ Turrets](../items/Ancient_Sentry_Turret.md) in the
 [Caverns](../locations/Caverns.md), or a [One-Manned Field
 Turret](../weapons/One-Manned_Field_Turret.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

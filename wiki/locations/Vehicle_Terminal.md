@@ -9,4 +9,4 @@ Mine](../weapons/Adaptive_Construction_Engine.md) and is therefore a common
 site for booby traps set by enemy
 [Cloakers](../items/Infiltration_Suit.md).
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

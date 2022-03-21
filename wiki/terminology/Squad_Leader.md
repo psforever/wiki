@@ -25,4 +25,4 @@ the [certifications](../certifications/Certifications.md) of each member of the
 squad. They are also the only member of the squad allowed to access the
 [Main Console](../items/Main_Terminal.md) at bases.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

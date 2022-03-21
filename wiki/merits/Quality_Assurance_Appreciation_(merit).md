@@ -47,4 +47,4 @@ Only four people have been awarded this merit.
 - ItZMuRdA (Emerald)
 - xxBigpappaNCxx ([Markov](../etc/Markov.md))
 
-[Category:Merits](Category:Merits.md)
+<!--[Category:Merits](Category:Merits.md)-->

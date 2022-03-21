@@ -10,4 +10,4 @@ Lists of patches: [chronological](../patches/Patches.md) and
 [numerical](:Category:Patches)
 
 [\*](category:Patches.md)
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

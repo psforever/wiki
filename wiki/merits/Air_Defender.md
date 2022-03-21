@@ -225,4 +225,4 @@ Turrets](../weapons/Cerberus_Turret.md), [BFR](../vehicles/BattleFrame_Robotics.
 Anti-Aircraft weapons, and the [flak](../weapons/Flak.md) cannon on
 upgraded [Wall Turrets](../items/Phalanx.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

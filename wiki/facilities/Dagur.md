@@ -5,4 +5,4 @@ Plant](../locations/Technology_Plant.md) on Northern
 Linked to [Andvari](Andvari.md), [Jarl](Jarl.md), and
 [Mani](Mani.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

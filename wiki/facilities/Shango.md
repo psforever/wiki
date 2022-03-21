@@ -12,4 +12,4 @@ Shango stands near a land bridge to [Pamba](Pamba.md)'s island,
 and the channel between them is a short traverse for amphibious and air
 vehicles.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

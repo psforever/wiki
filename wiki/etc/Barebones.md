@@ -108,4 +108,4 @@ key replies to /tell, and /s is for squad chat. There's a full list
 - You can tell rank by armor color. Brighter (more gold/red/green) is
   higher.
 
-[Category:Game Guides](../Category:Game_Guides.md)
+<!--[Category:Game Guides](../Category:Game_Guides.md)-->

@@ -10,5 +10,5 @@ ATVs.\]\]
 These light, fast, and maneuverable one-crew vehicles are available with
 the [ATV Certification.](<ATV_(Certification)>)
 
-[Category:Game Items](../Category:Game_Items.md) [Category:Ground
+<!--[Category:Game Items](../Category:Game_Items.md)--> [Category:Ground
 Vehicles](../Category:Ground_Vehicles.md)

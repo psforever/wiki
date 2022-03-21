@@ -56,7 +56,7 @@ There are many different waypoints in
   [Liberator](../vehicles/Liberator.md) bombing run. This will be
   color-coded and marked with the squad member's number.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->
 
 There are also 3 special waypoints that have unique differences from the
 ones listed above:

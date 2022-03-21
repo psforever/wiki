@@ -1211,5 +1211,5 @@ BFR shields take twice as long to regenerate while standing vs. while
 crouched. Once depleted, the shields do not start regenerating for \~2
 seconds.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

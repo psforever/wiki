@@ -24,5 +24,5 @@ Display](../etc/Heads-up_Display.md)
 
 ![Image:PlatoonList.JPG](../images/PlatoonList.jpg "Image:PlatoonList.JPG")
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

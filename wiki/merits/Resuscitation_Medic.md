@@ -318,4 +318,4 @@ the universal symbol for humanitarian aid:
 </tbody>
 </table>
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

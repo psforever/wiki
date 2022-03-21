@@ -278,4 +278,4 @@ closest to you to ensure you will hit it. It's embarrassing to watch all
 mountain, missing completely. The crosshair is accurate most of the
 time, but don't always trust it, especially on steep slopes.
 
-[Category:Strategy](../Category:Strategy.md)
+<!--[Category:Strategy](../Category:Strategy.md)-->

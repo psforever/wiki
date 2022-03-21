@@ -7,4 +7,4 @@ Scout](certifications/Air_Cavalry_Scout.md) which contains the
 [Mosquito](../vehicles/Mosquito.md) and [Air Cavalry
 Assault](../certifications/Air_Cavalry_Assault.md) which contains the
 [Reaver](../vehicles/Reaver.md).
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

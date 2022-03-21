@@ -10,4 +10,4 @@ is a moderately steep but not impassable descent to
 [Rehua](Rehua.md). This sloping area is heavily featured with
 small hills, valleys, boulders, and trees.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

@@ -39,6 +39,6 @@ At close range, the Spear will kill a soldier wearing
 [Eraser](../items/Eraser.md) and [Stinger](Stinger.md) function
 identically.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:New
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:New
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

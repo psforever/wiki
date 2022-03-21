@@ -10,4 +10,4 @@ strafe, and can travel over water. They include
 They are not to be confused with the [deliverer](../vehicles/Deliverer.md)
 and its variants, which can travel over water but cannot strafe.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

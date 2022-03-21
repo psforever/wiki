@@ -18,4 +18,4 @@ Bitol is also one of Voltan's Sub-Capitols.
 Bitol is a Hack-and-Hold Facility with an Air Tower to it's East, inside
 it's [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](../Category:Facilities.md)
+<!--[Category:Facilities](../Category:Facilities.md)-->

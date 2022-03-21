@@ -36,4 +36,4 @@ The Disruptor Mines count for the maximum number of mines that you can
 deploy, along with the High Explosive Mine. Their interference range is
 similar to their High Explosive counterparts.
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

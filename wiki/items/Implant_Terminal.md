@@ -32,4 +32,4 @@ remove them from the right pane.
 
 ### [Available Implants](implants/Implants.md)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

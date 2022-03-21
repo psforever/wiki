@@ -7,4 +7,4 @@ Rashnu is a [Hack-and-Hold](../terminology/Hack-and-Hold.md)
 Tower](../locations/Air_tower.md) to it's North, which is outside it's
 [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

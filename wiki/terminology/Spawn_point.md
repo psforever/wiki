@@ -6,4 +6,4 @@ and [AMSes](../vehicles/Advanced_Mobile_Station.md)
 
 Also called a Respawn point.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

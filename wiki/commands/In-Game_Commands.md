@@ -225,4 +225,4 @@ employees can use these commands_
   Commendation](../merits/Merit_Commendations.md) status.
 - **/suicide** - Kills your character.
 
-[category:Commands](category:Commands.md)
+<!--[category:Commands](category:Commands.md)-->

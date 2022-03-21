@@ -66,4 +66,4 @@ This continent is also refered to as
 - [Nerrivik](../facilities/Nerrivik.md) (Sub-Capitol)
 - [Pinga](../facilities/Pinga.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

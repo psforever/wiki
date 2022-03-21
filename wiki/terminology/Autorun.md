@@ -3,4 +3,4 @@ to run automatically without having to hold down the run button.
 
 The Default Autorun button is 'Q'.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

@@ -11,4 +11,4 @@ windows.
 
 See also: [Population lock](../terminology/Population_Lock.mdtion_lock.md)
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

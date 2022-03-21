@@ -244,4 +244,4 @@
 An eight-level Infantry Merit, obtained by amassing kills with the
 [Scorpion](../weapons/Scorpion.md) or [Dragon](../weapons/Dragon.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

@@ -26,9 +26,9 @@ The open cockpit of this vehicle will allow the driver to wear up to
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md).
 
 The **Skyguard** was introduced in release [1.5](1.md.5) in
-June, 2003. [category:Vehicles](category:Vehicles.md)
-[category:Ground Vehicles](category:Ground_Vehicles.md)
+June, 2003. <!--[category:Vehicles](category:Vehicles.md)-->
+<!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
 [category:Common Pool
 Vehicles](category:Common_Pool_Vehicles.md)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

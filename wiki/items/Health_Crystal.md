@@ -2,4 +2,4 @@
 restores the Health points of any infantry standing next to it at a rate
 similar to a [Medical Terminal](Medical_Terminal.md).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

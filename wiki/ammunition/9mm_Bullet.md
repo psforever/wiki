@@ -19,12 +19,12 @@ Suits](../items/Infiltration_Suit.md) as well as
 [Agile](../armor/Agile_Exo-Suit.md), and [Reinforced
 Exo-suits](../armor/Reinforced_Exo-Suit.md). Standard 9mm Ammo is
 ineffective at damaging armored targets. While engaging such targets,
-[Armor Piercing 9mm Bullets](Armour_Piercing_9mm_Bullet.md) should be
+[Armor Piercing 9mm Bullets](Armor_Piercing_9mm_Bullet.md) should be
 employed.
 
 Since 9mm Bullets are for use in small arms, they can pass through the
 energy shields of [BattleFrame
 Robotics](../vehicles/BattleFrame_Robotics.md).
 
-[Category:Game Items](../Category:Game_Items.md)
-[Category:Ammunition](../Category:Ammunition.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->
+<!--[Category:Ammunition](../Category:Ammunition.md)-->

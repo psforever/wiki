@@ -6,4 +6,4 @@ executing the command "/stats". The numbers shown represent the number
 of milliseconds (thousandths of a second) that it takes for your game
 client to receive an answer to a request.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

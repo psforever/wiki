@@ -29,4 +29,4 @@ The following "names" can be used with the "/who <name>" command:
 - **VS** - Lists the first 25 [VS](../etc/Vanu_Sovereignty.md) on your Continent
   (you must be VS)
 
-[Category:Commands](Category:Commands.md)
+<!--[Category:Commands](Category:Commands.md)-->

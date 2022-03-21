@@ -9,4 +9,4 @@ Terminal](Air_Terminal.md) Vehicle Terminals on the surface of
 Only [Mosquitos](../vehicles/Mosquito.md) can be acquired from these
 terminals.
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

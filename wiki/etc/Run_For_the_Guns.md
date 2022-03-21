@@ -38,4 +38,4 @@ each.
 Get out on the battlefield and run for the guns! Your Empire's arsenal
 could open up as never before!
 
-[Category:Events](Category:Events.md)
+<!--[Category:Events](Category:Events.md)-->

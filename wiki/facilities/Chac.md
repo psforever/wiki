@@ -13,4 +13,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Chac has an Air Tower to it's South East, which is outside it's
 [SOI](../locations/Sphere_of_Influence.md). Chac is a Hack-and-Hold Facility.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

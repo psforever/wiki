@@ -2,7 +2,7 @@
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Type**               | Equipment                                                                                                               |
 | **Provides Access To** | See below                                                                                                               |
-| **Pre-requisite**      | [Hacking](</Hacking_(Certification)>)                                                                                   |
+| **Pre-requisite**      | [Hacking](../certifications/Hacking_(Certification).md)>)                                                                                   |
 | **Required For**       | [Expert Hacking](Expert_Hacking.md), [Data Corruption](Data_Corruption.md), [Electronics Expert](Electronics_Expert.md) |
 | **Cert Point Cost**    | 2                                                                                                                       |
 
@@ -21,11 +21,11 @@ Terminals](../items/BFR_Shed.md) and [Advanced Medical
 Terminals](../items/Advanced_Medical_Terminal.md). [Main
 Consoles](../items/Main_Terminal.md) can also be hacked provided it is in
 a friendly facility with the [generator](../items/Generator.md) online
-and at least one active [spawn tube](spawn_tube.md).
+and at least one active [spawn tube](../items/Respawn_Tube.md).
 
-The [Jacking](</Jacking_(Merit)>) and [Hack Support
+The [Jacking](../merits/Jacking_(Merit).md) and [Hack Support
 Specialist](../merits/Hack_Support_Specialist.md) [Merit
 Commendations](../merits/Merit_Commendations.md) can only be obtained by
 use of this [Certification](Certification.md).
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

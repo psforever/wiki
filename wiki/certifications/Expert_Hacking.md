@@ -29,4 +29,4 @@ hackers](Advanced_Hacking.md), which includes the following:
 - Remove [viruses](../terminology/Virus.md) from infected equipment and
   deployables
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

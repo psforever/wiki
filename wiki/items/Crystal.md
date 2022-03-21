@@ -9,4 +9,4 @@ Several crystal structures exist:
 - [Weapon Energy Crystal](Weapon_Energy_Crystal.md) (yellow)
 - [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) (green)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

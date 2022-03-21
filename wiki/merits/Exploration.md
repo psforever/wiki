@@ -44,4 +44,4 @@ Islands](../locations/Battle_Islands.md).
 A list of the coordinates of each Monolith is available on the [Monolith
 Locations](../locations/Monolith_Locations.md) page.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

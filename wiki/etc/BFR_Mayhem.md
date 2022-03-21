@@ -48,4 +48,4 @@ Imprint was changed in a later patch to require 5 [Cavern
 Captures](Cavern_Captures.md) and 75 kills within the Caverns
 for all soldiers.)
 
-[Category:Events](../Category:Events.md)
+<!--[Category:Events](../Category:Events.md)-->

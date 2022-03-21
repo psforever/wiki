@@ -17,4 +17,4 @@ Freyr is a [Sub-Capitol](../locations/Sub-Capitol.md).
 **Freyr** is the name of one of the primary dieties in Norse mythology.
 See [Wikipedia](http://en.wikipedia.org/wiki/Freyr) article.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

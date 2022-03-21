@@ -12,4 +12,4 @@ consider themselve "ForumSiders." The humor behind this title implaies
 that the spend more time posting on the boards, then they do playing the
 game.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

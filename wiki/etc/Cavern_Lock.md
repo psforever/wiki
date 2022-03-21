@@ -10,4 +10,4 @@ benefits](module_benefit.md) to any
 These benefits will remain until the cavern is either unlocked or
 becomes inactive.
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

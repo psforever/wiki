@@ -23,4 +23,4 @@ _Enkidu_ appears in Sumerian mythology as a mythical wild-man raised by
 animals who adventures with Gilgamesh. See the
 [Wikipedia](http://en.wikipedia.org/wiki/Enkidu) article.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

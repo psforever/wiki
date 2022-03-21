@@ -13,4 +13,4 @@ receive a deconstruction warning message.
 
 Air Towers will both repair and rearm all air vehicles.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

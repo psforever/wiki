@@ -6,4 +6,4 @@ characters are now on the Gemini server. Character and outfit names with
 a "-J" on the end were names that already existed on Markov, and can
 still be seen on the Gemini server.
 
-[category:Servers](category:Servers.md)
+<!--[category:Servers](category:Servers.md)-->

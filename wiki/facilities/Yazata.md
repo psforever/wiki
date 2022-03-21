@@ -11,4 +11,4 @@ Yazata has [Lattice](../terminology/Lattice.md) Links to:
 Yazata is a Hack-and-Hold Facility and there are no Towers close to the
 base.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

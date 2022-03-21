@@ -20,6 +20,6 @@ be hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) or [Landing
 Pad](../items/Landing_Pad.md).
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Ammunition](Category:Ammunition.md) [Category:Game
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Ammunition](Category:Ammunition.md)--> [Category:Game
 Items](Category:Game_Items.md)

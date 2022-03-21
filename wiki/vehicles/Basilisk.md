@@ -20,6 +20,6 @@ The **Basilisk** is a fast All Terrain Vehicle (ATV) mounted with twin
 
 The twin 12mm rotary Chainguns are best suited for Anti-Infantry use.
 
-[Category:Game Items](../Category:Game_Items.md)
-[Category:Vehicles](../Category:Vehicles.md) [Category:Common Pool
+<!--[Category:Game Items](../Category:Game_Items.md)-->
+<!--[Category:Vehicles](../Category:Vehicles.md)--> [Category:Common Pool
 Vehicles](../Category:Common_Pool_Vehicles.md)

@@ -15,4 +15,4 @@ Each [PlanetSide](../etc/PlanetSide.md)/Station ([SOE](../etc/Sony_Online_Entert
 account may create as many as twenty-four characters on the PlanetSide
 [Server](Server.md).
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

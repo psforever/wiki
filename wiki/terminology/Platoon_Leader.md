@@ -6,4 +6,4 @@ to merge their [squads](Squad.md) with his to form a
 uppermost squad, followed by the first invited squad (or first to accept
 the invite) in the middle and most recently joined at the bottom.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

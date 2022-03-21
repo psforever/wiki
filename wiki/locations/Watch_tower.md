@@ -35,4 +35,4 @@ Watch towers have a sensor array on the roof, making them capable of
 sensing enemy presence, which will display on the [Tactical
 Overlay](../terminology/Tactical_Overlay.md).
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

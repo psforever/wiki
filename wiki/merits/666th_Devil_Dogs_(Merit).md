@@ -43,4 +43,4 @@ Conglomerate](../etc/New_Conglomerate.md) on
 Commendation](Merit_Commendations.md) from [SOE](../etc/Sony_Online_Entertainment.md)
 handed out by the great [Sporkfire](SporkFire.md) himself.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

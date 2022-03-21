@@ -25,4 +25,4 @@ soldier has the following abilities:
   Generator](../weapons/Aegis_Shield_Generator.md) to emit a [Pain
   Field](../terminology/Pain_Field.md) that damages friendly units.
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

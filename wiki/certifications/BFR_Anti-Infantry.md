@@ -31,4 +31,4 @@ pellets for medium range work. While the weapon is lethal to infantry
 targets, it lacks punch to beat quickly through heavy armored
 [vehicles](../vehicles/Vehicle.md).
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

@@ -28,4 +28,4 @@ key. Holding fire longer increases the throw distance.
 - ![Image:Frag-Hand-grenade-Icon.jpg](Frag-Hand-grenade-Icon.jpg "fig:Image:Frag-Hand-grenade-Icon.jpg")
   [Fragmentation grenade](Fragmentation_grenade.md)
 
-[category:Game Items](category:Game_Items.md)
+<!--[category:Game Items](category:Game_Items.md)-->

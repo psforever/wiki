@@ -12,4 +12,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Lahar is a Hack-and-Hold Facility and has a Gun Tower to thr South West,
 inside it's [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

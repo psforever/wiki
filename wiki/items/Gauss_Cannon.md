@@ -15,4 +15,4 @@ moving. With two of these weapons firing from a
 even challenge [Medium Battle Tanks](Medium_Battle_Tank.md) and
 have a good chance of winning.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

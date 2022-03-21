@@ -77,4 +77,4 @@ Republic](../etc/Terran_Republic.md) was granted
 done so that each empire can experience battles from a different
 perspective.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

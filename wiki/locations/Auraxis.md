@@ -40,4 +40,4 @@ In addition to these, each [Empire](../terminology/Empire.md) has its own
 [Sanctuary](Sanctuary.md) where weapons are disabled and enemy
 troops cannot enter.
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

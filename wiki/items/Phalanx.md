@@ -55,4 +55,4 @@ when infected, meaning they will only shoot
 [vehicles](../vehicles/Vehicle.md) and auto-running [MAX](Mechanized_Assault_Exo-Suit.md)
 Units.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

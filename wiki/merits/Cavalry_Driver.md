@@ -227,4 +227,4 @@ levels of the [Transport
 Blockade](</Transport_Blockade_(Merit)>) Merit Commendation.
 This is a mistake made by [SOE](../etc/Sony_Online_Entertainment.md).**
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

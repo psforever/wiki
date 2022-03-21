@@ -83,4 +83,4 @@ regardless of whether they are moving or not.
 
 - [Hapi](../facilities/Hapi.md) (Sub-Capitol)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

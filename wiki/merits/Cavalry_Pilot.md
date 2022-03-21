@@ -224,4 +224,4 @@ This Merit series is awarded for killing Enemies while piloting a
 [Wasp](../vehicles/Wasp.md). It is also awarded for killing enemies while
 gunning a [Galaxy Gunship](../vehicles/Galaxy_Gunship.md).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

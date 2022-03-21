@@ -39,4 +39,4 @@ Additionally, it is possible to manually deactivate one of the weapons,
 using them one at a time (one weapon must always remain active,
 however).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

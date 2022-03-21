@@ -15,5 +15,5 @@ used by the Ancient Tech [weapons](../weapons/Weapon.md) the
 Ancient Capacitor Unit is available at any [Equipment
 Terminal](../items/Equipment_Terminal.md).
 
-[Category:Game Items](../Category:Game_Items.md)
-[Category:Ammunition](../Category:Ammunition.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->
+<!--[Category:Ammunition](../Category:Ammunition.md)-->

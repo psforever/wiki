@@ -343,4 +343,4 @@ your [squad](Squad.md) that are on the same
 - [Battle Experience Points](Battle_Experience_Points.md)
 - [Support Experience Points](Support_Experience_Points.md)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

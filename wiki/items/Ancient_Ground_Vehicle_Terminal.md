@@ -6,4 +6,4 @@ Combat](Core_Combat.md) [Caverns](../locations/Caverns.md). They work
 the same as the Ground Vehicle Terminals on the surface of
 [Auraxis](../locations/Auraxis.md).
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

@@ -26,5 +26,5 @@ bar, if close enough, with black sections indicating damage. The Health
 of enemy soldiers can be seen with the [Enhanced
 Targeting](../implants/Enhanced_Targeting.md) Implant, as a red bar.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

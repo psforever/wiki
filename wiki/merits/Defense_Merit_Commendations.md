@@ -634,4 +634,4 @@ Auraxium](</Order_of_Empire_Defense_Auraxium_(Merit)>)
 <tr>
 <td width="450" colspan="2">
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

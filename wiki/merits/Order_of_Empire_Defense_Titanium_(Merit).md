@@ -111,4 +111,4 @@ of Commendations
 This Merit is awarded for killing Enemies while using any means
 necessary.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

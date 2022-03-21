@@ -40,4 +40,4 @@ Map](../terminology/Interstellar_Map.md).
 
 The words Planet and Continent are sometimes interchangable.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

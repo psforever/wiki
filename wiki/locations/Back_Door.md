@@ -20,4 +20,4 @@ This hallway, when populated with defenders, is impassable via
 conventional means, although it is sometimes susceptible to the [MAX
 Crash](../etc/MAX_Crash.md) rapid-advance tactic.
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

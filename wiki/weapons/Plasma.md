@@ -40,6 +40,6 @@ Though technically not plasma, taking burn damage from the
 shares the maximum of 2 instances of burn damage from the secondary fire
 mode. Soldiers burning from the Dragon will glow orange.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

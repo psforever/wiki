@@ -24,4 +24,4 @@ example:
 
 /em nod
 
-[Category:Commands](Category:Commands.md)
+<!--[Category:Commands](Category:Commands.md)-->

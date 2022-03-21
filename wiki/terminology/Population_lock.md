@@ -32,4 +32,4 @@ For 2005, population capacity was reduced to its current \~133 per side
 per continent, this created the side effect of more fights across the
 galaxy.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

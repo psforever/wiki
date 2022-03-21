@@ -22,4 +22,4 @@ Center](locations/Dropship_Center.md), or in
 - [Dropship Center Air Terminal
   Building](locations/Dropship_Center_Air_Terminal_Building.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

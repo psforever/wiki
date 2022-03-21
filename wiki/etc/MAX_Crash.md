@@ -11,4 +11,4 @@ Usually this requires a significant group, as the MAXes are unable to
 open locked [IFF](../terminology/IFF.md) panels or fire their weapons in
 auto-run mode.
 
-[category:Strategy](category:Strategy.md)
+<!--[category:Strategy](category:Strategy.md)-->

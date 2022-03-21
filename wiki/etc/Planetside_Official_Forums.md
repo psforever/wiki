@@ -15,4 +15,4 @@ At the moment, there have been two versions of the forum. Originally,
 there was a fairly basic BBcode board, and now there is the Lithium
 board.
 
-[category:Communication](category:Communication.md)
+<!--[category:Communication](category:Communication.md)-->

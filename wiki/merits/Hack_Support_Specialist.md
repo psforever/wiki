@@ -41,4 +41,4 @@ following Merits: [Locker Hack](Locker_Hack.md), [Hacking
 Support](Hacking_Support.md) and
 [Jacking](</Jacking_(Merit)>).
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

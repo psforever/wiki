@@ -65,4 +65,4 @@ This collection of Battle Islands is sometimes refered to as
 - [Izha](../facilities/Izha.md), [Desolation](Desolation.md)
 - [Jamshid](../facilities/Jamshid.md), [Desolation](Desolation.md)
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

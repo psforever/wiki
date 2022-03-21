@@ -10,4 +10,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 It is a [LLU](../terminology/Lattice_Logic_Unit.md) Facility and has a Gun Tower in the South
 East, inside of it's [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

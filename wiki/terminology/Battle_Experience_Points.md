@@ -24,4 +24,4 @@ ANT Runs : A soldier successfully refueling a facility using an [Advanced Nanite
 - [Command Experience Points](Command_Experience_Points.md)
 - [Support Experience Points](Support_Experience_Points.md)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

@@ -7,4 +7,4 @@ friendlies in the area get a footspeed increase.
 This module appears as orange on the [Continental
 Map](Continental_Map.md).
 
-[Category:Modules](Category:Modules.md)
+<!--[Category:Modules](Category:Modules.md)-->

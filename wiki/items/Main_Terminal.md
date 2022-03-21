@@ -34,6 +34,6 @@ Tube](Respawn_Tube.md) active and the
 
 The Main Terminal can not be destroyed.
 
-[category:Game Items](category:Game_Items.md)
-[category:Locations](category:Locations.md)
-[category:Terminology](category:Terminology.md)
+<!--[category:Game Items](category:Game_Items.md)-->
+<!--[category:Locations](category:Locations.md)-->
+<!--[category:Terminology](category:Terminology.md)-->

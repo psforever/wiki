@@ -21,4 +21,4 @@ appended.
 - [Markov Outfits](:Category:Markov_Outfits)
 - [Gemini Outfits](:Category:Gemini_Outfits)
 
-[category:Servers](category:Servers.md)
+<!--[category:Servers](category:Servers.md)-->

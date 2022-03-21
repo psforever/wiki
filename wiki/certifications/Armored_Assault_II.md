@@ -52,4 +52,4 @@ Robotics](</BFR_(Certification)>) Certifications.
 This Certification requires [Armored Assault
 I](Armored_Assault_I.md) in order to be obtainable.
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

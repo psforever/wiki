@@ -13,4 +13,4 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 Hurakan is a Hack-and-Hold Facility, and has a Watch Tower to it's
 North, outside of it's [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

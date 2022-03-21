@@ -20,4 +20,4 @@ in-game. A good place to start is evaluating your
 
 Go ruin someone's day.
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

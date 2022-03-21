@@ -31,4 +31,4 @@ occur on:
 - [Sanctuaries](../locations/Sanctuary.md)
 - [Searhus](../locations/Searhus.md)
 
-[Category:Weather](Category:Weather.md)
+<!--[Category:Weather](Category:Weather.md)-->

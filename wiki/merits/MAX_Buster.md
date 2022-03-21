@@ -188,4 +188,4 @@ The MAX Buster Merit is earned by destroying Enemies that are operating
 This Merit is a good complement to the
 [Anti-Armor](Anti-Armor.md) Merit.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

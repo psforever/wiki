@@ -38,6 +38,6 @@ At close range, the Eraser will kill a soldier wearing
 [Rexo](Rexo.md) armor in 5 shots. The [Spear](../weapons/Spear.md)
 and [Stinger](../weapons/Stinger.md) function identically.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Vanu
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Vanu
 Sovereignty Weapons](Category:Vanu_Sovereignty_Weapons.md)

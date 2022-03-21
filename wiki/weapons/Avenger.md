@@ -24,4 +24,4 @@ rate of fire is similar to a locked-down Dual Cycler MAX. It has
 unlimited ammunition, though it does have to reload after its clip has
 been depleted.
 
-[Category:Weapons](../Category:Weapons.md)
+<!--[Category:Weapons](../Category:Weapons.md)-->

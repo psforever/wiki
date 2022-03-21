@@ -691,4 +691,4 @@ Written by:
 
 (Astrala, TR on Werner. BR 12 when this guide was started, now at BR 15)
 
-[category: Strategy](category:_Strategy.md)
+<!--[category: Strategy](category:_Strategy.md)-->

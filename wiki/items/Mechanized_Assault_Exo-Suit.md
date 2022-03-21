@@ -56,4 +56,4 @@ _Vanu Sovereignty_ MAX Units are equipped with limited jump-jets. These
 jump jets draw power from an onboard MAX Capacitor. Once depleted, the
 capacitor will recharge.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

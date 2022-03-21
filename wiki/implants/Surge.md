@@ -9,4 +9,4 @@ Primarily useful for sprints from cover to cover, across open ground, or
 for dashing past entrenched defenders in [Towers](../locations/Towers.md) or
 [Back Door](../locations/Back_Door.md) Corridors.
 
-[category:Implants](category:Implants.md)
+<!--[category:Implants](category:Implants.md)-->

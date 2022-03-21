@@ -6,4 +6,4 @@ any decisions made by other CR5's.
 Verb: To counter-global. Example: "We were going to defend Amerish then
 somebody Bamelined to go to Cyssor"
 
-[Category:Terminology](../Category:Terminology.md)
+<!--[Category:Terminology](../Category:Terminology.md)-->

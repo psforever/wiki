@@ -37,4 +37,4 @@ possessed; in this case Assault Buggy,
 [Harasser](</Harasser_(Certification)>), or [Air Cavalry
 Scout](Air_Cavalry_Scout.md).
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

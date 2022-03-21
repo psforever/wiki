@@ -13,4 +13,4 @@ This [Certification](Certification.md) is required to obtain the
 Commendation](../merits/Merit_Commendations.md) for characters lacking the
 [Two Year Term of Service](../merits/Term_of_Service.md) award.
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

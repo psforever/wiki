@@ -27,4 +27,4 @@ Sensor Shield will not protect you if you take damage. It will also not
 protect you if you are within the [SOI](../locations/Sphere_of_Influence.md) of a base with
 Interlink benefits and you try to use an item
 ([weapons](:category:Weapons), [REKs](../weapons/Remote_Electronics_Kit.md), etc.).
-[category:Implants](category:Implants.md)
+<!--[category:Implants](category:Implants.md)-->

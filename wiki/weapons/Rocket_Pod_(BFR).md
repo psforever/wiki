@@ -19,6 +19,6 @@ rockets have an explosive warhead designed for flexible functionality,
 resulting in decent punch to heavy armor and quick kill times on
 encroaching infantry. The weapon has a straight-line trajectory.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:New
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:New
 Conglomerate Weapons](Category:New_Conglomerate_Weapons.md)

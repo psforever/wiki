@@ -18,4 +18,4 @@ Terminals are neutral, and thus everyone can use it without
 Note: Some Ancient Equipment Terminals are misplaced inside walls. These
 can still be used if you point your cursor at the top of the structure.
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

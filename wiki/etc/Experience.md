@@ -11,4 +11,4 @@ rewards.
 - [Support Experience Points](../terminology/Support_Experience_Points.md)
   (SEP)
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

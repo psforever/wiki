@@ -27,4 +27,4 @@ The Starfire has the Fastest Time to Kill of all three
 [Empires](../terminology/Empire.md) Anti Aircraft [MAXs](Mechanized_Assault_Exo-Suit.md) on
 most targets.
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

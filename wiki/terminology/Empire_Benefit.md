@@ -43,4 +43,4 @@ Empire recaptures and locks the continent for their own faction.
 
 These benefits are sometimes called Global Benefits.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

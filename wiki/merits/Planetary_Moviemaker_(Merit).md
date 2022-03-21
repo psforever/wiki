@@ -40,4 +40,4 @@ Forums.
 The assignment was to create a [PlanetSide](../etc/PlanetSide.md)
 movie.
 
-[Category:Merits](Category:Merits.md)
+<!--[Category:Merits](Category:Merits.md)-->

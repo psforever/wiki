@@ -29,4 +29,4 @@ Entry to the building is by [Zipline](../items/Zipline.md), or
 [Teleporter](../terminology/Teleporter.md) ring pairs. Navigation inside is
 also by Teleporter.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

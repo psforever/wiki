@@ -77,4 +77,4 @@ building in the **Dropship Center's** courtyard.
 
 - [Sobek](../facilities/Sobek.md) (Sub-Capitol)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

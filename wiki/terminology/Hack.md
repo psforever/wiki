@@ -23,4 +23,4 @@ long on the hack?"_
 
 See [Capturing Bases](../etc/Capturing_Bases.md).
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

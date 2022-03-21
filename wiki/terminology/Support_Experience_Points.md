@@ -42,4 +42,4 @@ separately to allow you to see how effective your support has been.
 - [Support Merit
   Commendations](../merits/Support_Merit_Commendations.md)
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

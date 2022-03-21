@@ -13,5 +13,5 @@ dislikes at the time. The most common use for meteors is to add
 atmosphere to a special [event](../etc/Events.md) or to generally annoy
 the players in a large battle.
 
-[Category:Weather](Category:Weather.md) [Category:Game
+<!--[Category:Weather](Category:Weather.md)--> [Category:Game
 Items](Category:Game_Items.md)

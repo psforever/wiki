@@ -11,4 +11,4 @@ minute timer for the Surface Facilities.
 
 These consoles do not spawn [LLUs](../terminology/Lattice_Logic_Unit.md).
 
-[Category:Game Items](../Category:Game_Items.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->

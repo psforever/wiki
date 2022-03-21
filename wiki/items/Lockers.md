@@ -62,4 +62,4 @@ Facility is hacked or when the Facility's
 resupply (Enemy Lockers are less conspicious to hack than enemy
 Equipment Terminals).
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

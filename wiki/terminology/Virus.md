@@ -50,4 +50,4 @@ infected so that it will hinder the enemy instead of helping them:
 - Enemy [Motion Sensors](Motion_Sensor.md) can be infected
   causing them to display friendly units as enemies on radar.
 
-[Category:Terminology](Category:Terminology.md)
+<!--[Category:Terminology](Category:Terminology.md)-->

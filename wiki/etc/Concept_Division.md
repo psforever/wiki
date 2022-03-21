@@ -102,4 +102,4 @@ to post in the Wishlist, Help Wanted, or Tutorials message boards.
 - Pyrotechnic
 - Piolet
 
-[Category:Idealab](Category:Idealab.md)
+<!--[Category:Idealab](Category:Idealab.md)-->

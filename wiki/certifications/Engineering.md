@@ -15,4 +15,4 @@ Support](../merits/Tiny_Robotics_Support.md) and [Universal
 Soldier](../merits/Universal_Soldier.md) [Merit
 Commendations](../merits/Merit_Commendations.md).
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

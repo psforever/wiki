@@ -9,4 +9,4 @@ of the door also so whenever someone steps through the door the boomers
 will go off and have the potential to take out a whole
 [squad](../terminology/Squad.md) (even a few [MAXes](../items/Mechanized_Assault_Exo-Suit.md)!).
 
-[category:Strategy](category:Strategy.md)
+<!--[category:Strategy](category:Strategy.md)-->

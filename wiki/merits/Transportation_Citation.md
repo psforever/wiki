@@ -207,4 +207,4 @@
 A five-level Vehicular Merit, obtained by amassing kills by running over
 infantry or ramming vehicles to death with ground vehicles.
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

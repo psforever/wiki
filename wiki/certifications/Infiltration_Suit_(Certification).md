@@ -21,4 +21,4 @@ will aid other players in detecting you. The Infiltration Suit provides
 no armor protection, doesn't allow the use of a rifle, and has a very
 small inventory.
 
-[Category:Certification](Category:Certification.md)
+<!--[Category:Certification](Category:Certification.md)-->

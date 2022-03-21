@@ -38,5 +38,5 @@ accessed by stepping into either the beam beneath the
 [Router](../vehicles/Router.md) itself, or the floating telepad dome at the
 other end. This link allows for two-way travel.
 
-[Category:Terminology](Category:Terminology.md) [Category:Game
+<!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 Guides](Category:Game_Guides.md)

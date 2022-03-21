@@ -25,8 +25,8 @@ can cross calm rivers and waterways by floating at the surface.
 **Introduced: May 27, 2004 with update version
 [2.7.6](2.md.7.6).**
 
-[category:Vehicles](category:Vehicles.md) [category:Ground
+<!--[category:Vehicles](category:Vehicles.md)--> [category:Ground
 Vehicles](category:Ground_Vehicles.md) [category:New
 Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

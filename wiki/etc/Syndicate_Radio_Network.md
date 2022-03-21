@@ -23,5 +23,5 @@ Participants: [Zatozia](Zatozia.md),
 [martyr](Martyr.md), [Rahl](user:Rahl.md),
 [Hayoo](Hayoo.md)
 
-[Category:Communication](Category:Communication.md)
-[Category:Web site](Category:Web_site.md)
+<!--[Category:Communication](Category:Communication.md)-->
+<!--[Category:Web site](Category:Web_site.md)-->

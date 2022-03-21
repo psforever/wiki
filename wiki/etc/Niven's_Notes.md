@@ -247,4 +247,4 @@ Some notes to help use it:
   is less tell-tale engine or rocket launch sounds to give the game
   away.
 
-[Category:Strategy](Category:Strategy.md)
+<!--[Category:Strategy](Category:Strategy.md)-->

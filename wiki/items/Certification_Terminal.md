@@ -20,4 +20,4 @@ time remaining until another cert may be forgotten is shown underneath.
 
 Certification Terminals can be destroyed as of [2.5.5](2.md.5.5)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->

@@ -540,4 +540,4 @@ use compatibility mode and/or other tricks.
 We appreciate your patience with this change and please make sure that
 you spread the word to all your fallen Vista and Windows 7 comrades!
 
-[category:Patches](category:Patches.md)
+<!--[category:Patches](category:Patches.md)-->

@@ -27,5 +27,5 @@ Shells](Shotgun_Shell.md).
 Because Shotgun Shells are only used in small arms, they can penetrate
 the shields of a [BattleFrame Robotic](../vehicles/BattleFrame_Robotics.md).
 
-[Category:Game Items](../Category:Game_Items.md)
-[Category:Ammunition](../Category:Ammunition.md)
+<!--[Category:Game Items](../Category:Game_Items.md)-->
+<!--[Category:Ammunition](../Category:Ammunition.md)-->

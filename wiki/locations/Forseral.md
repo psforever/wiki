@@ -65,4 +65,4 @@ post-[Bending](Bending.md).
 - [Anu](../facilities/Anu.md)
 - [Gwydion](../facilities/Gwydion.md) (Sub-Capitol)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

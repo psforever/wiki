@@ -142,4 +142,4 @@ Also see:
   Details about how to obtain the Support Merits and their
   requirments)
 
-[category:Merits](category:Merits.md)
+<!--[category:Merits](category:Merits.md)-->

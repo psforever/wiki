@@ -41,6 +41,6 @@ link from the Telepad to the Router. If the host
 [Router](../vehicles/Router.md) is hacked, the deployed telepad is
 destroyed.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

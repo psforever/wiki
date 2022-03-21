@@ -11,4 +11,4 @@
 Armored Assault I allows the soldier to pilot the
 [Lightning](../vehicles/Lightning.md), a small one-crew turreted tank.
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

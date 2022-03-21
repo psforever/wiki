@@ -31,4 +31,4 @@ whatever items were in your inventory at the time. Backpacks will
 [deconstruct](Deconstruct.md) more rapidly in areas with a
 larger number of people or activity going on.
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

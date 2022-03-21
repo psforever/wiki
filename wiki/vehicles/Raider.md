@@ -31,7 +31,7 @@ floating at the surface.
 released, however, due to complaints about this name, it was later
 changed to "Raider".**
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Vehicles](Category:Vehicles.md) [Category:Terran
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Terran
 Republic Vehicles](Category:Terran_Republic_Vehicles.md)
-[Category:Ground Vehicles](Category:Ground_Vehicles.md)
+<!--[Category:Ground Vehicles](Category:Ground_Vehicles.md)-->

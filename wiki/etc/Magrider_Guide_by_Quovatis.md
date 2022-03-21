@@ -421,4 +421,4 @@ You usually see them on bridges, but Mags can easily avoid bridges. Be
 aware that you can drive stright through a friendly TRAP as if it were
 not there.
 
-[category: Strategy](category:_Strategy.md)
+<!--[category: Strategy](category:_Strategy.md)-->

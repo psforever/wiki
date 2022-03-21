@@ -215,6 +215,6 @@ another BFR can be acquired. The timer is reduced to 15 minutes if a
 [Vehicle Module](../etc/Vehicle_Module.md) is installed, or the base is
 receiving a [Cavern Lock](../etc/Cavern_Lock.md) Benefit.
 
-[Category:Game Items](../Category:Game_Items.md)
-[Category:Vehicles](../Category:Vehicles.md) [Category:Ground
+<!--[Category:Game Items](../Category:Game_Items.md)-->
+<!--[Category:Vehicles](../Category:Vehicles.md)--> [Category:Ground
 Vehicles](../Category:Ground_Vehicles.md)

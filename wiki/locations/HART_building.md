@@ -6,4 +6,4 @@ Terminals](../items/Certification_Terminal.md),
 [Lockers](../items/Lockers.md), and [Equipment
 terminals](../items/Equipment_Terminal.md) inside.
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

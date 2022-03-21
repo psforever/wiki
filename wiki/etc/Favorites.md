@@ -36,4 +36,4 @@ contents can be replicated at will in the field. e.g. a trunk full of
 [Adaptive Construction Engines](../weapons/Adaptive_Construction_Engine.md)
 as a Wraith favorite.)
 
-[Category:Game Guides](Category:Game_Guides.md)
+<!--[Category:Game Guides](Category:Game_Guides.md)-->

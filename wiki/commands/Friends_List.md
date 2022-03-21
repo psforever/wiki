@@ -12,6 +12,6 @@ friends. The monitor button adds a monitor to your hud.
 
 ![The hud](Hud.md.gif "The hud")
 
-[category:Commands](category:Commands.md)
+<!--[category:Commands](category:Commands.md)-->
 
-[category:HUD](category:HUD.md)
+<!--[category:HUD](category:HUD.md)-->

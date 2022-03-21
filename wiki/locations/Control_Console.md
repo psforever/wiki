@@ -32,4 +32,4 @@ Benefits](../terminology/Facility_Linked_Benefit.md).
 ![](../images/Hacked_light.jpg "fig:Hacked_light.jpg") Warning Light: Control
 Console Hacked\]\]
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

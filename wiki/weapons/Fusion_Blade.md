@@ -44,4 +44,4 @@ and 6 Armor damage to all [armors](Armor.md) (Full Health and
 Armor, no [Implants](../implants/Implants.md) or
 [MedKits](../items/MedKit.md)).
 
-[Category:Weapons](Category:Weapons.md)
+<!--[Category:Weapons](Category:Weapons.md)-->

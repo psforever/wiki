@@ -7,4 +7,4 @@ Mountains to the South East, small lakes North and West just outside
 [SOI](../locations/Sphere_of_Influence.md), coastal waters on the South West SOI quadrant
 border.
 
-[Category:Facilities](../Category:Facilities.md)
+<!--[Category:Facilities](../Category:Facilities.md)-->

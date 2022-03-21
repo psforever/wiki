@@ -123,4 +123,4 @@ Noon NC attacks TR: NC captured the TR Capitol on
 1800  NC attacks VS: NC captured the VS Capitol on
 [Esamir](../locations/Esamir.md)
 
-[Category:Events](Category:Events.md)
+<!--[Category:Events](Category:Events.md)-->

@@ -80,4 +80,4 @@ including _Jeopardy! Online_ and _Cosmic Rift_
   Site](http://starwarsgalaxies.station.sony.com/)
 - [_PlanetSide_'s Official Site](http://planetside.station.sony.com/)
 
-[Category:PlanetSide](Category:PlanetSide.md)
+<!--[Category:PlanetSide](Category:PlanetSide.md)-->

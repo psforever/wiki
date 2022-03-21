@@ -34,4 +34,4 @@ heavily CE-ed entrance.
 
 The recharge time for an EMP is 20 minutes.
 
-[Category:Commands](Category:Commands.md)
+<!--[Category:Commands](Category:Commands.md)-->

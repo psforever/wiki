@@ -13,4 +13,4 @@ of the [Vehicle Terminal](Vehicle_Terminal.md). The land to the
 south and west is more flat, but the numerous rocks and trees make
 driving vehicles a bit troublesome.
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

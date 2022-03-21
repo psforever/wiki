@@ -11,4 +11,4 @@
 The Anti-Infantry configuration is designed to quickly take down soft
 targets in the form of foot soldiers.
 
-[Category:Certification](../Category:Certification.md)
+<!--[Category:Certification](../Category:Certification.md)-->

@@ -80,4 +80,4 @@ roof
 - [Mont](../facilities/Mont.md) (Sub-Capitol)
 - [Bastet](../facilities/Bastet.md)
 
-[Category:Locations](../Category:Locations.md)
+<!--[Category:Locations](../Category:Locations.md)-->

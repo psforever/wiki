@@ -90,6 +90,6 @@ The effects of hacking are temporary in all cases except the [Control
 Console](../locations/Control_Console.md), Enemy
 [Vehicles](../vehicles/Vehicle.md), and Enemy One-Manned Field Turrets.
 
-[Category:Game Items](Category:Game_Items.md)
-[Category:Weapons](Category:Weapons.md) [Category:Common Pool
+<!--[Category:Game Items](Category:Game_Items.md)-->
+<!--[Category:Weapons](Category:Weapons.md)--> [Category:Common Pool
 Weapons](Category:Common_Pool_Weapons.md)

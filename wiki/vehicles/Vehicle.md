@@ -390,5 +390,5 @@ sideways._
 - [Vehicular Merit
   Commendations](../Vehicular_Merit_Commendations.md)
 
-[category:Game Items](category:Game_Items.md)
+<!--[category:Game Items](category:Game_Items.md)-->
 [\*](category:Vehicles.md)

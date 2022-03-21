@@ -13,4 +13,4 @@ Zones in [PlanetSide](../etc/PlanetSide.md) are referred to as
 [Planets](../locations/Planet.md), [Continents](../locations/Continent.md), and
 [Caverns](../locations/Caverns.md).
 
-[category:Terminology](category:Terminology.md)
+<!--[category:Terminology](category:Terminology.md)-->

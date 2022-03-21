@@ -32,4 +32,4 @@ Tactics
 
 - [Tower defense/assault guide by DragonJTS](../etc/DragonJTS.md)
 
-[Category:Locations](Category:Locations.md)
+<!--[Category:Locations](Category:Locations.md)-->

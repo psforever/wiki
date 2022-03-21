@@ -16,4 +16,4 @@ given the dynamic way in which maximum render distance is determined by
 the game, and the added difficulty that micromanaging the independent
 zoom can entail.
 
-[category:Implants](category:Implants.md)
+<!--[category:Implants](category:Implants.md)-->

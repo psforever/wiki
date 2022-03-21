@@ -12,4 +12,4 @@ It has [Lattice](../Lattice.md) Links to:
 Izha is a [LLU](../Lattice_Logic_Unit.md) Facility, and has an Air Tower to the
 South East, outside of it's [SOI](../locations/Sphere_of_Influence.md).
 
-[Category:Facilities](Category:Facilities.md)
+<!--[Category:Facilities](Category:Facilities.md)-->

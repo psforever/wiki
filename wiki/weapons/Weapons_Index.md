@@ -146,4 +146,4 @@ The following is a listing of **[Weapons](Weapon.md)**,
 - [Ancient Capacitor Unit](../ammunition/Ancient_Capacitor_Unit.md)
 - [Maelstrom Capacitor Unit](../items/Maelstrom_Capacitor_Unit.md)
 
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Game Items](Category:Game_Items.md)-->
