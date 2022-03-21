@@ -13,7 +13,7 @@ anti-infantry weapon, but can kill armored vehicles with sustained fire. The
 boxes can be obtained from any [Equipment Terminal](Equipment_Terminal.md) to be
 hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
-[Repair/Rearm.md Silo](Repair_Rearm_Silo.md).
+[Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 
 

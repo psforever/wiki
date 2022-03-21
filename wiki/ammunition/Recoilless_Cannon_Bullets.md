@@ -14,7 +14,7 @@ platforms like the [Deliverer](../vehicles/Deliverer.md). The boxes can be
 obtained from any [Equipment Terminal](../items/Equipment_Terminal.md) to be
 hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
-[Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md) or
+[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) or
 [Landing Pad](../items/Landing_Pad.md).
 
 

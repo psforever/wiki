@@ -44,7 +44,7 @@ Laze Pointers may be obtained from the Flail itself, as well as all
 The Flail requires a [Vehicle Module](../etc/Vehicle_Module.md) lattice benefit,
 or linked [Cavern Lock Benefit](../etc/Cavern_Lock.md) in order to be
 purchasable on the surface. To recharge the Flail's capacitor, you must go to a
-[Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md) at a facility that has the
+[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) at a facility that has the
 [Vehicle Module](../etc/Vehicle_Module.md) benefit, or use a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) in the
 [Caverns](../locations/Caverns.md).

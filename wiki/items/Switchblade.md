@@ -32,7 +32,7 @@ strafe side to side and travel over water (but cannot deploy on water).
 
 The main drawback is the switchblade goes through ammo quickly. Unlike other
 vehicles, you can only get more ammo by going to a
-[Repair/Rearm.md Silo](Repair_Rearm_Silo.md) at a facility with a
+[Repair/Rearm Silo](Repair_Rearm_Silo.md) at a facility with a
 [Vehicle Module](../etc/Vehicle_Module.md) benefit, or if you are in the
 [caverns](../locations/Caverns.md), at a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md).

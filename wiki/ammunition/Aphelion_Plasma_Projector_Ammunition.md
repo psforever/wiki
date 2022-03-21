@@ -13,7 +13,7 @@ boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
 [BFR](../vehicles/BattleFrame_Robotics.md)'s [trunk](../terminology/Trunk.md) or
 acquired while in the BFR from a
-[Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md).
+[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
 
 

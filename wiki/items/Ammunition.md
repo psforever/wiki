@@ -16,7 +16,7 @@ on-board capacitors for ammunition that can only be refiled by an
 All ammunition native to your [empire](../terminology/Empire.md) can be obtained
 from any [Equipment Terminal](Equipment_Terminal.md). Vehicle ammunition is
 availible from the vehicle tab and can be manually loaded into a vehicle's
-trunk. [Repair/Rearm.md Silos](Repair_Rearm_Silo.md) and
+trunk. [Repair/Rearm Silos](Repair_Rearm_Silo.md) and
 [Landing Pads](Landing_Pad.md) distribute vehicle ammunition while you are
 inside a vehicle.
 

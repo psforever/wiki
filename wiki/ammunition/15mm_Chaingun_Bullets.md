@@ -14,7 +14,7 @@ suffer from somewhat severe damage reduction at longer distances. The boxes can
 be obtained from any [Equipment Terminal](../items/Equipment_Terminal.md) to be
 hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
-[Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md).
+[Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).
 
 
 

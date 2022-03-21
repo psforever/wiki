@@ -37,7 +37,7 @@ and will be destroyed with the Lodestar if still aboard.
 When landed, the Lodestar provides a mobile Repair/rearm.md station. Friendly
 vehicles simply drive (or hover) close to the Lodestar and they are
 autorepaired. They can also rearm their vehicle in the same way as can be done
-at the base's [Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md), making them
+at the base's [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md), making them
 very valuable for attacks on distant enemy bases. By piloting the lodestar and
 assisting others in this way, one can earn the
 [Lodestar Support](../merits/Lodestar_Support.md) merits.

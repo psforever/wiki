@@ -14,7 +14,7 @@ small quantity of rounds per box means that a Thunderer will need to reload
 regularly in the field. The boxes can be obtained from any
 [Equipment Terminal](Equipment_Terminal.md) to be hand-loaded into the vehicle's
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
-[Repair/Rearm.md Silo](Repair_Rearm_Silo.md).
+[Repair/Rearm Silo](Repair_Rearm_Silo.md).
 
 
 
