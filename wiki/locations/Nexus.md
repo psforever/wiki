@@ -1,5 +1,4 @@
-![](../images/NexusMap.jpg){ class="figure" } ![](../images/Nexus_Terrain.jpg){
-class="figure" }
+![](../images/NexusMap.jpg){ class="figure" } ![](../images/Nexus_Terrain.jpg){ class="figure" }
 
 |                                             |                                    |
 | ------------------------------------------- | ---------------------------------- |

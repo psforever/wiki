@@ -31,8 +31,7 @@ glue gun, 5 boxes of glue, and perhaps a medpack. This allows you to carry less
 glue in your infantry loadout, saving space for other things...
 
 ![ [Favorite](Favorites.md) for the
-[Magrider](../vehicles/Magrider.md)](../images/MagTrunk.jpg){
-class="figure" } If you do a lot of tank driving, you should have a favorite
+[Magrider](../vehicles/Magrider.md)](../images/MagTrunk.jpg){ class="figure" } If you do a lot of tank driving, you should have a favorite
 with a box of PPA ammo, a glue gun, a pulsar, glue, a REK (sometimes you might
 need to take a tower), and whatever else you can get in there. I prefer the
 [Pulsar](../weapons/Pulsar.md) to the [Lasher](../weapons/Lasher.md) because you
@@ -272,8 +271,7 @@ battle, and never repair.
 
 ![ gunner loadout.
 Replace the [CUD](../weapons/Command_Uplink_Device.md) with two more boxes of glue if not CR3 or above. More
-glue should always be in the trunk.](../images/MagGunnerLoadout.jpg){
-class="figure" } As stated before, ideally you need to be on voice comms with
+glue should always be in the trunk.](../images/MagGunnerLoadout.jpg){ class="figure" } As stated before, ideally you need to be on voice comms with
 your driver. You don't have time to type "I see a vanguard on the other hill,
 steady me for a second". If you know you will be gunning, your loadout should
 carry two boxes of rail beam ammo and one box of PPA. You should have a glue

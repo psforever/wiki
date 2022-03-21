@@ -1,6 +1,5 @@
 ![ Soldier equipped
-with a Punisher](../images/PSScreenShot0253.jpg){
-class="figure" }
+with a Punisher](../images/PSScreenShot0253.jpg){ class="figure" }
 
 <table>
 <caption><strong>Punisher</strong></caption>

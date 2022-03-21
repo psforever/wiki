@@ -141,8 +141,7 @@ The game is still being actively supported by
 released about once a month. These [patches](../terminology/Patch.md) usually
 focus on fixing in-game bugs and adding new content. PlanetSide also has a
 [Test Server](Test_Server.md) like other online games to test changes before
-they go onto live servers. ![box art.](../images/Core_Combat_Box.jpg){
-class="figure" }
+they go onto live servers. ![box art.](../images/Core_Combat_Box.jpg){ class="figure" }
 
 ### Core Combat
 

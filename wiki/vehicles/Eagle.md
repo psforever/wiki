@@ -20,8 +20,7 @@ flight variants can run and walk much faster than the ground variants, giving
 them the ability to flee relatively quickly when under attack.
 
 ![
-[VS](../etc/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){
-class="figure" }
+[VS](../etc/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){ class="figure" }
 
 ## Pilot Weapons
 

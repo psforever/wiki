@@ -1,6 +1,5 @@
 ![ and a
-[Vanguard](../vehicles/Vanguard.md) square off](../images/Prowler-Vanguard.jpg){
-class="figure" } The collective group term for the Empire Specific tanks
+[Vanguard](../vehicles/Vanguard.md) square off](../images/Prowler-Vanguard.jpg){ class="figure" } The collective group term for the Empire Specific tanks
 available through the
 [Armored Assault II](../certifications/Armored_Assault_II.md) Certification.
 

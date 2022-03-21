@@ -4,8 +4,7 @@ The Core Complex is the large crystaline structure located at the center of each
 of the [Core Combat](../items/Core_Combat.md) [Caverns](Caverns.md).
 
 At the center of this structre is a white column of light. Stepping into this
-beam of light is fatal, with two exceptions: ![](../images/Core_Beam.jpg){
-class="figure" }
+beam of light is fatal, with two exceptions: ![](../images/Core_Beam.jpg){ class="figure" }
 
 - Soldier is carrying an uncharged [Module](../etc/Modules.md). The beam will
   charge the module, ready for installation in a surface

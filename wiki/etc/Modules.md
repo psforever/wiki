@@ -1,8 +1,7 @@
 ![,
 [Speed](Speed_Module.md), and [Equipment Modules](../items/Equipment_Module.md)
 in their cradles in an [Interlink](../locations/Interlink.md)
-[Facility](../locations/Facilities.md)](../images/Modules_Interlink.jpg){
-class="figure" } Modules are devices that can be obtained from the
+[Facility](../locations/Facilities.md)](../images/Modules_Interlink.jpg){ class="figure" } Modules are devices that can be obtained from the
 [Module Buildings](../locations/Module_Building.md) in the
 [Caverns](../locations/Caverns.md) introduced by the expansion
 [Core Combat](../items/Core_Combat.md).

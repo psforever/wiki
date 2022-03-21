@@ -1,6 +1,5 @@
 ![ Field Turret, the
-[Osprey](Osprey.md)](../images/OspreyFront.jpg){
-class="figure" }
+[Osprey](Osprey.md)](../images/OspreyFront.jpg){ class="figure" }
 
 |                            |                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |

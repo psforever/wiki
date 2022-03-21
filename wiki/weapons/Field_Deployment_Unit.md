@@ -31,6 +31,4 @@ you show as a different color in the gameworld and on the
 double clicking on their icon on the continental map and selecting to
 deconstruct them.
 
-![](../images/FDU.jpg){ class="figure" } ![](../images/FDUConstructing.jpg){
-class="figure" } ![Soldier carrying 2 FDU's](../images/FDUCarry.jpg){
-class="figure" }
+![](../images/FDU.jpg){ class="figure" } ![](../images/FDUConstructing.jpg){ class="figure" } ![Soldier carrying 2 FDU's](../images/FDUCarry.jpg){ class="figure" }

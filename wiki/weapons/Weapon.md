@@ -1,6 +1,5 @@
 !['s empire-specific handheld
-weaponry.](../images/Tr_weapons.jpg){
-class="figure" } [Weapons](Weapon.md) are the bread and butter of the game
+weaponry.](../images/Tr_weapons.jpg){ class="figure" } [Weapons](Weapon.md) are the bread and butter of the game
 [PlanetSide](../etc/PlanetSide.md). They are practically essential to do
 anything in PlanetSide, as PlanetSide is a war simulator and weapons are the
 basis of any war. The weapons in PlanetSide are highly diversified, from grenade

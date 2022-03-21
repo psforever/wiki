@@ -1,7 +1,6 @@
 ![
 [Vanguard](Vanguard.md)
-[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){
-class="figure" } [Vehicles](Vehicle.md) are an essential part to
+[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" } [Vehicles](Vehicle.md) are an essential part to
 [PlanetSide](../etc/PlanetSide.md) as they are the main mode of transport
 between [facilities](../locations/Facilities.md) and are the most powerful units
 on the battlefield. In PlanetSide, there are many different types of vehicles,
@@ -78,8 +77,7 @@ Flight-Variant BFRs ([Invader](../items/Invader.md), [Eclipse](Eclipse.md), or
 ### Vehicle Terminal
 
 ![ is a vehicle which requires a
-[Technology Plant](../locations/Technology_Plant.md).](../images/NCmag.jpg){
-class="figure" } Once a player has the correct certification, a player can
+[Technology Plant](../locations/Technology_Plant.md).](../images/NCmag.jpg){ class="figure" } Once a player has the correct certification, a player can
 purchase the vehicle from a friendly or hacked
 [Vehicle Terminal](../locations/Vehicle_Terminal.md). However, some Vehicle
 Terminals are restricted to either air or ground vehicles, and some vehicles can
@@ -239,8 +237,7 @@ and instead rely only on this control set to control the BFR's.
 
 These are the default BFR Controls.
 ![,
-a [BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.](../images/Eagle2.jpg){
-class="figure" }
+a [BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.](../images/Eagle2.jpg){ class="figure" }
 
 |                         |                      |                      |
 | ----------------------- | -------------------- | -------------------- |

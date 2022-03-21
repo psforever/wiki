@@ -31,5 +31,4 @@ Hacking an enemy base will also disrupt their
 [Facility Linked Benefits](../terminology/Facility_Linked_Benefit.md).
 
 ![ Warning Light: Control
-Console Hacked](../images/Hacked_light.jpg){
-class="figure" }
+Console Hacked](../images/Hacked_light.jpg){ class="figure" }

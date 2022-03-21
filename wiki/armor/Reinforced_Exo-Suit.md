@@ -1,17 +1,14 @@
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCRexoArmors.jpg){
-class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCRexoArmors.jpg){ class="figure" }
 
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRRexoArmors2.jpg){
-class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRRexoArmors2.jpg){ class="figure" }
 
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_Rexos.jpg){
-class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_Rexos.jpg){ class="figure" }
 
 |                            |                                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------- |

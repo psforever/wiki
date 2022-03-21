@@ -1,16 +1,13 @@
 ![ weaponry. Damage indicated is one shot
-fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){
-class="figure" }
+fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){ class="figure" }
 ![
 weaponry, including the medium assault pistols [Eraser](../items/Eraser.md),
 [Stinger](../weapons/Stinger.md), and [Spear](../weapons/Spear.md) in green.
 Damage indicated is one shot fired on a [Cloaker](../armor/Infiltration_Suit.md)
-([Pulsar](../weapons/Pulsar.md) figures are not current)](../images/MA_DD.jpg){
-class="figure" }
+([Pulsar](../weapons/Pulsar.md) figures are not current)](../images/MA_DD.jpg){ class="figure" }
 ![ weaponry. Damage indicated is one shot
 fired on a [Cloaker](../armor/Infiltration_Suit.md) ([Lasher](../weapons/Lasher.md) figures not
-current)](../images/HA_DD.jpg){
-class="figure" }
+current)](../images/HA_DD.jpg){ class="figure" }
 
 [Damage Degradation](Damage_Degradation.md) refers to the loss of power of some
 weapons at increasing distance. For these weapons, your shots will do less

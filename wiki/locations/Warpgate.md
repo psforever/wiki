@@ -1,5 +1,4 @@
-![](../images/Warp.jpg){ class="figure" } ![](../images/Biwarp.jpg){
-class="figure" } A Warpgate is a gigantic, hemispherically-shaped ancient
+![](../images/Warp.jpg){ class="figure" } ![](../images/Biwarp.jpg){ class="figure" } A Warpgate is a gigantic, hemispherically-shaped ancient
 artifact used to teleport individuals and vehicles from one
 [continent](../locations/Continent.md) to another. There are 3 to 4 warpgates
 located on each continent and [sanctuary](../locations/Sanctuary.md), each

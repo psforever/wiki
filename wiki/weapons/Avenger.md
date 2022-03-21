@@ -1,9 +1,8 @@
-![](../images/Avenger.jpg){ class="figure" } ![](../images/AvengerInside.jpg){
-class="figure" }
+![](../images/Avenger.jpg){ class="figure" } ![](../images/AvengerInside.jpg){ class="figure" }
 
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advance../certifications/Advanced_Engineering.md_Engineering.md) |
+| **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced_Engineering](../certifications/Advanced_Engineering.md)) |
 | **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                         |
 | **Primary Mode**           | Upgraded Cycler                                                                                                                      |
 | **Secondary Mode**         | \-                                                                                                                                   |

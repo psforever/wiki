@@ -1,6 +1,5 @@
 ![
-has been infected with a virus](../images/InfectedFacilityLighting.jpg){
-class="figure" }
+has been infected with a virus](../images/InfectedFacilityLighting.jpg){ class="figure" }
 
 A Virus is a corrupted data stream injected into base objects and deployables by
 the [T-REK](../weapons/T-REK.md). A Virus can be removed from an object by an

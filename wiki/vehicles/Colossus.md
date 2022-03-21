@@ -1,6 +1,5 @@
 ![ of the
-[Terran Republic](../etc/Terran_Republic.md)](../images/Colussus.jpg){
-class="figure" }
+[Terran Republic](../etc/Terran_Republic.md)](../images/Colussus.jpg){ class="figure" }
 
 Gunner variants have, in addition the the pilot weapons, an extra gunner pod on
 their backs where a second soldier can mount a secondary gun mounted atop the

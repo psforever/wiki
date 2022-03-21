@@ -1,8 +1,7 @@
 ![](../images/Cloaker_firing.jpg){ class="figure" }
 
 ![Infiltrator coming
-out of the [Implant Terminal](../items/Implant_Terminal.md)](../images/TRInfilPicture.jpg){
-class="figure" }
+out of the [Implant Terminal](../items/Implant_Terminal.md)](../images/TRInfilPicture.jpg){ class="figure" }
 
 ![Infiltrator](../images/NCInfiltrationSuit.jpg){ class="figure" }
 

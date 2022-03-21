@@ -1,6 +1,5 @@
 ![ AI
-[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/PSScreenShot0320.jpg){
-class="figure" }
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/PSScreenShot0320.jpg){ class="figure" }
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,6 +1,5 @@
 ![
-[Hand grenade](Hand_grenade.md)](../images/Plasma-Hand-grenade.jpg){
-class="figure" }
+[Hand grenade](Hand_grenade.md)](../images/Plasma-Hand-grenade.jpg){ class="figure" }
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |

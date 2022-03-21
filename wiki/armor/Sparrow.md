@@ -1,6 +1,5 @@
 !['s Anti-Aircraft
-[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/SparrowPicture.jpg){
-class="figure" }
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/SparrowPicture.jpg){ class="figure" }
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |

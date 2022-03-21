@@ -1,5 +1,4 @@
-![in [Sanctuary](../locations/Sanctuary.md)](../images/VR_bldg.jpg){
-class="figure" } The VR Training area can be found in
+![in [Sanctuary](../locations/Sanctuary.md)](../images/VR_bldg.jpg){ class="figure" } The VR Training area can be found in
 [Sanctuary](../locations/Sanctuary.md), in the same building as the spawn tubes.
 The area is divided in to two sections; the Shooting Range and Driving Area.
 

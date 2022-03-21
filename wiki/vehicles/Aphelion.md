@@ -1,6 +1,5 @@
 !['s Gunner Variant
-[BFR](BattleFrame_Robotics.md)](../images/AphelionPicture.jpg){
-class="figure" }
+[BFR](BattleFrame_Robotics.md)](../images/AphelionPicture.jpg){ class="figure" }
 
 The Aphelion is the gunner variant of
 [BattleFrame Robotics](BattleFrame_Robotics.md) developed by the

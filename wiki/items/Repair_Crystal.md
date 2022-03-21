@@ -1,6 +1,5 @@
 ![ in
-[Adlivun](../locations/Adlivun.md)](../images/ArmorRepairCrystal.jpg){
-class="figure" }
+[Adlivun](../locations/Adlivun.md)](../images/ArmorRepairCrystal.jpg){ class="figure" }
 
 The Repair Crystal functions similarly to the
 [Health Crystal](Health_Crystal.md), but restores the armor points of Infantry

@@ -1,6 +1,5 @@
 ![ soldier defends a
-[Control Console](../locations/Control_Console.md) with his Maelstrom](../images/Maelstrom.jpg){
-class="figure" }
+[Control Console](../locations/Control_Console.md) with his Maelstrom](../images/Maelstrom.jpg){ class="figure" }
 
 |                            |                                                                  |
 | -------------------------- | ---------------------------------------------------------------- |

@@ -1,6 +1,5 @@
 !['s Anti-Vehicle
-[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/CometPicture.jpg){
-class="figure" }
+[MAX](../armor/Mechanized_Assault_Exo-Suit.md)](../images/CometPicture.jpg){ class="figure" }
 
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |

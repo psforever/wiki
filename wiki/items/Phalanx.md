@@ -1,9 +1,8 @@
 ![](../images/PSScreenShot0287.jpg){ class="figure" }
 ![](../images/UpgradingPhalanx.jpg){ class="figure" }
-![](../images/AAPhalanx.jpg){ class="figure" } ![](../images/AVPhalanx.jpg){
-class="figure" } **Phalanx wall turrets** are the only fixed weapons and
+![](../images/AAPhalanx.jpg){ class="figure" } ![](../images/AVPhalanx.jpg){ class="figure" } **Phalanx wall turrets** are the only fixed weapons and
 non-passive defensive installations of
-[surface bases](../locations/Facilities.md#Surface_Bases) and gun and air
+[surface bases](../locations/Facilities.md#surface-bases) and gun and air
 [towers](../locations/Towers.md).
 
 When unmanned, the **Phalanx** can track and fire upon larger

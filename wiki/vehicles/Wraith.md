@@ -1,5 +1,4 @@
-![](../images/Wraiths.jpg){ class="figure" } ![Wraith](../images/Wraith.jpg){
-class="figure" }
+![](../images/Wraiths.jpg){ class="figure" } ![Wraith](../images/Wraith.jpg){ class="figure" }
 
 |                            |                                                                                                           |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |

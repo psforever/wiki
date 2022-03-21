@@ -1,7 +1,6 @@
 ![ Peregrine with dual
 [Anti-Tank Machine Guns](../weapons/Anti-Tank_Machine_Gun.md) and a
-[Particle Cannon](../weapons/Particle_Cannon.md)](../images/NC_Peregrine.jpg){
-class="figure" }
+[Particle Cannon](../weapons/Particle_Cannon.md)](../images/NC_Peregrine.jpg){ class="figure" }
 
 The **Peregrine** is the gunner variant of
 [BattleFrame Robotics](BattleFrame_Robotics.md) developed by the
@@ -38,8 +37,7 @@ is possible to manually deactivate one of the weapons, using them one at a time
 ![-[jacked](../terminology/Jack.md)
 Peregrine, operating with a full crew of pilot and gunner. Equipped with two
 [Hammers](../items/Hammer.md) and a
-[Particle Cannon](../weapons/Particle_Cannon.md)](../images/Peregrine_VS.jpg){
-class="figure" }
+[Particle Cannon](../weapons/Particle_Cannon.md)](../images/Peregrine_VS.jpg){ class="figure" }
 
 ## **Gunner Weapons**
 

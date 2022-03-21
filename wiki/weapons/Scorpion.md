@@ -1,6 +1,5 @@
 ![ Soldier launching a
-[Scorpion Missile](../ammunition/Scorpion_Missile.md)](../images/Scorpion.jpg){
-class="figure" }
+[Scorpion Missile](../ammunition/Scorpion_Missile.md)](../images/Scorpion.jpg){ class="figure" }
 
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |

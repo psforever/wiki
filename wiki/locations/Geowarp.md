@@ -1,6 +1,4 @@
-![](../images/Activegeo.jpg){ class="figure" } ![](../images/Inactivegeo.jpg){
-class="figure" } ![[Cavern](Caverns.md)](../images/Caverngeo.jpg){
-class="figure" } Geowarps are similar to [warpgate](Warpgate.md)'s ability to
+![](../images/Activegeo.jpg){ class="figure" } ![](../images/Inactivegeo.jpg){ class="figure" } ![[Cavern](Caverns.md)](../images/Caverngeo.jpg){ class="figure" } Geowarps are similar to [warpgate](Warpgate.md)'s ability to
 transport you from planet to planet, but geowarps teleport you to the
 [Caverns](Caverns.md). A player may [broadcast](../terminology/Broadcast.md) to
 these gates just as they can a warpgate. Teleporting directly into the caves

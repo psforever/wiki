@@ -4,8 +4,7 @@ Armor](../images/PSScreenShot0317.jpg){ class="figure" }
 Standard Armor](../images/NCStandardExoSuit.jpg){ class="figure" }
 ![
 [Standard Exo-Suit](Standard_Exo-Suit.md) at, from left to right,
-[Battle Rank](../terminology/Battle_Rank.md) 1, 7 and 14.](../images/VS_Standards.jpg){
-class="figure" }
+[Battle Rank](../terminology/Battle_Rank.md) 1, 7 and 14.](../images/VS_Standards.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |

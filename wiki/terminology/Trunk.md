@@ -1,6 +1,5 @@
 ![ trunk filled with ammunition and
-extra repair gear.](../images/MagTrunk.jpg){
-class="figure" }
+extra repair gear.](../images/MagTrunk.jpg){ class="figure" }
 
 Similar to a soldier's [Inventory](Inventory.md), trunks are the compartments in
 [vehicles](category:_Vehicles.md) for storing
