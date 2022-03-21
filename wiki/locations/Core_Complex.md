@@ -1,6 +1,8 @@
-![](../images/Core_Complex.jpg){ class="figure" } The Core Complex is the
+![](../images/Core_Complex.jpg){ class="figure" }
+
+The Core Complex is the
 large crystaline structure located at the center of each of the
-[Core Combat](../items/Core_Combat.md) [CavCaverns.mdrns.md).
+[Core Combat](../items/Core_Combat.md) [Caverns](Caverns.md).
 
 At the center of this structre is a white column of light. Stepping into this
 beam of light is fatal, with two exceptions:
