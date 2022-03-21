@@ -1,4 +1,4 @@
-![](images/SparrowPicture.jpg "fig:SparrowPicture.jpg")'s Anti-Aircraft
+![](../images/SparrowPicture.jpg "fig:SparrowPicture.jpg")'s Anti-Aircraft
 [MAX](Mechanized_Assault_Exo-Suit.md)\]\]
 
 |                            |                                                                                                  |

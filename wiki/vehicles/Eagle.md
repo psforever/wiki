@@ -1,4 +1,4 @@
-![](images/EagleFV.jpg "fig:EagleFV.jpg") [Eagle](Eagle.md)\]\] The
+![](../images/EagleFV.jpg "fig:EagleFV.jpg") [Eagle](Eagle.md)\]\] The
 **Eagle** is the flight variant of [BattleFrame
 Robotics](BattleFrame_Robotics.md) developed by the [New
 Conglomerate](../etc/New_Conglomerate.md).

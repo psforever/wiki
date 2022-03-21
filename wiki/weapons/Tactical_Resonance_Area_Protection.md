@@ -1,4 +1,4 @@
-![](images/TRAP.jpg "fig:TRAP.jpg") entrace\]\]
+![](../images/TRAP.jpg "fig:TRAP.jpg") entrace\]\]
 
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |

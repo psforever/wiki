@@ -1,4 +1,4 @@
-![](images/Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
+![](../images/Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
 [Speed](Speed_Module.md), and [Equipment
 Modules](../items/Equipment_Module.md) in their cradles in an
 [Interlink](../terminology/Interlink.md) [Facility](../locations/Facilities.md)\]\]
@@ -47,7 +47,7 @@ minutes, killing the carrier and anything nearby.
 
 ## Available Modules
 
-![](images/Shield_module.jpg "fig:Shield_module.jpg")\]\] Currently, six types
+![](../images/Shield_module.jpg "fig:Shield_module.jpg")\]\] Currently, six types
 of modules are available to be installed (map icon color is listed):
 
 - [Equipment Module](../items/Equipment_Module.md) (blue)

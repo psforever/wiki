@@ -1,4 +1,4 @@
-![](images/OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
+![](../images/OspreyFront.jpg "fig:OspreyFront.jpg") Field Turret, the
 [Osprey](Osprey.md)\]\]
 
 |                            |                                                                                                                         |

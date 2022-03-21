@@ -1,8 +1,8 @@
-![](images/AmerishContinentMap.jpg "AmerishContinentMap.jpg")
+![](../images/AmerishContinentMap.jpg "AmerishContinentMap.jpg")
 
 ## Continental Data
 
-![](images/Amerish_Terrain.jpg "Amerish_Terrain.jpg")
+![](../images/Amerish_Terrain.jpg "Amerish_Terrain.jpg")
 
 |                   |                                                                         |
 | ----------------- | ----------------------------------------------------------------------- |

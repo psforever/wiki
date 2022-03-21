@@ -1,4 +1,4 @@
-![](images/Leza_Mukuru_Map.jpg "Leza_Mukuru_Map.jpg")
+![](../images/Leza_Mukuru_Map.jpg "Leza_Mukuru_Map.jpg")
 
 [Bio Lab](Bio_Lab.md) Mukuru is situated alone on a small island
 in Southwest [Cyssor](../locations/Cyssor.md), which it shares only with its

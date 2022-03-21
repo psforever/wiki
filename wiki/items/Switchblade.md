@@ -1,4 +1,4 @@
-![](images/SwitchbladePicture.jpg "fig:SwitchbladePicture.jpg") Switchblade\]\]
+![](../images/SwitchbladePicture.jpg "fig:SwitchbladePicture.jpg") Switchblade\]\]
 
 |                            |                                                                       |
 | -------------------------- | --------------------------------------------------------------------- |

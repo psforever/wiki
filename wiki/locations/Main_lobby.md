@@ -1,4 +1,4 @@
-![](images/InterlinkMainLobby.jpg "fig:InterlinkMainLobby.jpg")\]\]
+![](../images/InterlinkMainLobby.jpg "fig:InterlinkMainLobby.jpg")\]\]
 
 Generally, the Lobby is the room immediately inside the main entrance
 from a [facility](Facility.md)'s

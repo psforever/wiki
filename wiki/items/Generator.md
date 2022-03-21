@@ -1,5 +1,5 @@
-![](images/Generator.jpg "fig:Generator.jpg")\]\]
-![](images/Power_light.jpg "fig:Power_light.jpg") Warning Light: Generator
+![](../images/Generator.jpg "fig:Generator.jpg")\]\]
+![](../images/Power_light.jpg "fig:Power_light.jpg") Warning Light: Generator
 Destroyed\]\]
 
 The **generator** converts the [NTUs](NTU.md) of a base into

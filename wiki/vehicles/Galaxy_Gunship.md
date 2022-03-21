@@ -1,5 +1,5 @@
-![](images/GalGunshipFront.jpg "fig:GalGunshipFront.jpg") Galaxy Gunship\]\]
-![](images/GalGunShipRear.jpg "fig:GalGunShipRear.jpg")
+![](../images/GalGunshipFront.jpg "fig:GalGunshipFront.jpg") Galaxy Gunship\]\]
+![](../images/GalGunShipRear.jpg "fig:GalGunShipRear.jpg")
 
 |                            |                                                                                                |
 | -------------------------- | ---------------------------------------------------------------------------------------------- |

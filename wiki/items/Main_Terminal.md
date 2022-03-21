@@ -1,4 +1,4 @@
-![](images/Main_Term.jpg "Main_Term.jpg")
+![](../images/Main_Term.jpg "Main_Term.jpg")
 
 The **Main terminal** of each [Facility](../locations/Facilities.md) is located
 in the [main lobby](../locations/Main_lobby.md).

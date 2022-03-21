@@ -1,5 +1,5 @@
-![](images/Telepad.jpg "fig:Telepad.jpg")
-![](images/Telepad_deployed.jpg "fig:Telepad_deployed.jpg") telepad with its
+![](../images/Telepad.jpg "fig:Telepad.jpg")
+![](../images/Telepad_deployed.jpg "fig:Telepad_deployed.jpg") telepad with its
 [Router](../vehicles/Router.md) in the background\]\]
 
 |                            |                                                          |

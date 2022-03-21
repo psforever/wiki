@@ -1,5 +1,5 @@
-![](images/Drugaskan.jpg "fig:Drugaskan.jpg")
-![](images/DrugaskanMap.jpg "fig:DrugaskanMap.jpg")
+![](../images/Drugaskan.jpg "fig:Drugaskan.jpg")
+![](../images/DrugaskanMap.jpg "fig:DrugaskanMap.jpg")
 
 Drugaskan is one of the six [Core Combat](../items/Core_Combat.md)
 [Caverns](Caverns.md).

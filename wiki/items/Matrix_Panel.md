@@ -1,4 +1,4 @@
-![](images/Matrix_Panel.jpg "Matrix_Panel.jpg")
+![](../images/Matrix_Panel.jpg "Matrix_Panel.jpg")
 
 Allows a soldier to [bind](Bind.md) to a location as a [spawn
 point](spawn_point.md) after death or

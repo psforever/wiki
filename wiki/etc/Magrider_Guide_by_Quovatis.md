@@ -20,7 +20,7 @@ it is the only tank that can travel over water. This is a big advantage.
 
 ## Driver Setup
 
-![](images/magdriverloadout.jpg "fig:magdriverloadout.JPG") driver loadout\]\]
+![](../images/magdriverloadout.jpg "fig:magdriverloadout.JPG") driver loadout\]\]
 When you acquire your [Magrider](../Magrider.md) you should have a
 favorite with 4 boxes of PPA and 2 boxes of Rail Beam ammo. This should
 be your normal loadout, as the PPA goes through ammo quickly. However,
@@ -30,7 +30,7 @@ much. Your favorite should also have a spare glue gun, 5 boxes of glue,
 and perhaps a medpack. This allows you to carry less glue in your
 infantry loadout, saving space for other things...
 
-![](images/MagTrunk.jpg "fig:MagTrunk.JPG") [Favorite](Favorites.md)
+![](../images/MagTrunk.jpg "fig:MagTrunk.JPG") [Favorite](Favorites.md)
 for the [Magrider](../Magrider.md)\]\] If you do a lot of tank
 driving, you should have a favorite with a box of PPA ammo, a glue gun,
 a pulsar, glue, a REK (sometimes you might need to take a tower), and
@@ -295,7 +295,7 @@ straight into the battle, and never repair.
 
 ## Gunner Guide
 
-![](images/MagGunnerLoadout.jpg "fig:MagGunnerLoadout.JPG") gunner loadout.
+![](../images/MagGunnerLoadout.jpg "fig:MagGunnerLoadout.JPG") gunner loadout.
 Replace the [CUD](CUD.md) with two more boxes of glue if not CR3
 or above. More glue should always be in the trunk.\]\] As stated before,
 ideally you need to be on voice comms with your driver. You don't have

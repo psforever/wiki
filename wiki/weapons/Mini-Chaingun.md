@@ -1,4 +1,4 @@
-![](images/MCG.jpg "fig:MCG.jpg") Soldier equipped with a Mini-Chaingun\]\]
+![](../images/MCG.jpg "fig:MCG.jpg") Soldier equipped with a Mini-Chaingun\]\]
 
 |                            |                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------- |

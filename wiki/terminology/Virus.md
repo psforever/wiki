@@ -1,4 +1,4 @@
-![](images/InfectedFacilityLighting.jpg "fig:InfectedFacilityLighting.jpg") has
+![](../images/InfectedFacilityLighting.jpg "fig:InfectedFacilityLighting.jpg") has
 been infected with a virus\]\]
 
 A Virus is a corrupted data stream injected into base objects and

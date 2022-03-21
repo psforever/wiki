@@ -1,4 +1,4 @@
-![](images/CometPicture.jpg "fig:CometPicture.jpg")'s Anti-Vehicle
+![](../images/CometPicture.jpg "fig:CometPicture.jpg")'s Anti-Vehicle
 [MAX](Mechanized_Assault_Exo-Suit.md)\]\]
 
 |                            |                                                                                                |

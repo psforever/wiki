@@ -1,4 +1,4 @@
-![](images/AscensionMap.jpg "fig:AscensionMap.jpg")
+![](../images/AscensionMap.jpg "fig:AscensionMap.jpg")
 [thumb](image:Ascension_Terrain.jpg)
 
 |                      |                                       |

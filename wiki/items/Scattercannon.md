@@ -1,4 +1,4 @@
-![](images/PSScreenShot0258.jpg "fig:PSScreenShot0258.jpg") ScatterCannon MAX
+![](../images/PSScreenShot0258.jpg "fig:PSScreenShot0258.jpg") ScatterCannon MAX
 Unit\]\]
 
 |                            |                                                                                                  |

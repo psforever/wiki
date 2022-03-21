@@ -1,4 +1,4 @@
-![](images/DisruptorMine.jpg "DisruptorMine.jpg")
+![](../images/DisruptorMine.jpg "DisruptorMine.jpg")
 
 |                            |                                                                       |
 | -------------------------- | --------------------------------------------------------------------- |

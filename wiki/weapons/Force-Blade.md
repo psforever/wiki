@@ -1,4 +1,4 @@
-![](images/Forceblade.jpg "Forceblade.jpg")
+![](../images/Forceblade.jpg "Forceblade.jpg")
 
 |                            |                                                    |
 | -------------------------- | -------------------------------------------------- |

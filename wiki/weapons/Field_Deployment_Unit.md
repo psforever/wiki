@@ -1,4 +1,4 @@
-![](images/FDUInventory.jpg "FDUInventory.jpg")
+![](../images/FDUInventory.jpg "FDUInventory.jpg")
 
 |                            |                                                                                                                                                               |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -31,8 +31,8 @@ Map](../etc/Continental_Map.md). They can also be deconstructed by
 double clicking on their icon on the continental map and selecting to
 deconstruct them.
 
-![](images/FDU.jpg "fig:FDU.jpg")
-![](images/FDUConstructing.jpg "fig:FDUConstructing.jpg")
-![](images/FDUCarry.jpg "fig:FDUCarry.jpg") Soldier carrying 2 FDU's\]\]
+![](../images/FDU.jpg "fig:FDU.jpg")
+![](../images/FDUConstructing.jpg "fig:FDUConstructing.jpg")
+![](../images/FDUCarry.jpg "fig:FDUCarry.jpg") Soldier carrying 2 FDU's\]\]
 
 [Category:Weapons](Category:Weapons.md)

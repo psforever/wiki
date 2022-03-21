@@ -11,7 +11,7 @@ Map](../terminology/Interstellar_Map.md).
 The basic view (by default: "M") shows the continent as a whole. The
 features of the basic view are as follows:
 
-![](images/ContMapExp.jpg "ContMapExp.jpg")
+![](../images/ContMapExp.jpg "ContMapExp.jpg")
 
 ### Facility Information
 

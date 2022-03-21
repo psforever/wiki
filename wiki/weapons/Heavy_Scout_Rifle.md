@@ -1,4 +1,4 @@
-![](images/HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
+![](../images/HSR.jpg "fig:HSR.jpg") soldier displays an HSR\]\]
 
 |                            |                               |
 | -------------------------- | ----------------------------- |

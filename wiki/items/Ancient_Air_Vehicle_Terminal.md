@@ -1,4 +1,4 @@
-![](images/AncientAirTerm.jpg "fig:AncientAirTerm.jpg")s in
+![](../images/AncientAirTerm.jpg "fig:AncientAirTerm.jpg")s in
 [Adlivun](../locations/Adlivun.md)\]\]
 
 The Air Vehicle Terminal in the [Core Combat](Core_Combat.md)

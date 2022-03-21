@@ -1,4 +1,4 @@
-![](images/ATV_gang.jpg "fig:ATV_gang.jpg")s forms a "Biker gang" with copious
+![](../images/ATV_gang.jpg "fig:ATV_gang.jpg")s forms a "Biker gang" with copious
 ATVs.\]\]
 
 ## All-Terrain Vehicles

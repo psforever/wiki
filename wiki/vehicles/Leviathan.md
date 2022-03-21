@@ -1,4 +1,4 @@
-![](images/LeviathanFront.jpg "fig:LeviathanFront.jpg") Leviathan\]\]
+![](../images/LeviathanFront.jpg "fig:LeviathanFront.jpg") Leviathan\]\]
 
 |                            |                                                                                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |

@@ -54,7 +54,7 @@ will also get health, armor, and stamina regeneration while carrying it.
 
 ## The Rabbit Status
 
-![](images/RabbitWindow.png "fig:RabbitWindow.png") window showing the score
+![](../images/RabbitWindow.png "fig:RabbitWindow.png") window showing the score
 and other information.\]\] The Rabbit Status Window will appear on the
 screen for all players while they are on the zone that is hosting the
 Rabbit event. Score points for your [empire](Empire.md) by

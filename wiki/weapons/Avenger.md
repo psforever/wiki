@@ -1,5 +1,5 @@
-![](images/Avenger.jpg "fig:Avenger.jpg")
-![](images/AvengerInside.jpg "fig:AvengerInside.jpg")
+![](../images/Avenger.jpg "fig:Avenger.jpg")
+![](../images/AvengerInside.jpg "fig:AvengerInside.jpg")
 
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |

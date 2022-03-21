@@ -1,5 +1,5 @@
-![](images/VehicleBayExterior.jpg "fig:VehicleBayExterior.jpg") from the
-outside\]\] ![](images/VehicleBayInterior.jpg "fig:VehicleBayInterior.jpg")
+![](../images/VehicleBayExterior.jpg "fig:VehicleBayExterior.jpg") from the
+outside\]\] ![](../images/VehicleBayInterior.jpg "fig:VehicleBayInterior.jpg")
 from the inside\]\] Only [Technology
 Plants](Technology_Plant.md) feature **Vehicle Bays**. The
 Vehicle Bay is in the basement, and is a large room with a [Vehicle

@@ -1,4 +1,4 @@
-![`Starfire_MAX.jpg`](images/Starfire_MAX.jpg "Starfire_MAX.jpg")
+![`Starfire_MAX.jpg`](../images/Starfire_MAX.jpg "Starfire_MAX.jpg")
 
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |

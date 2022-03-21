@@ -1,4 +1,4 @@
-![](images/Air.jpg "fig:Air.jpg") Air Tower\]\]
+![](../images/Air.jpg "fig:Air.jpg") Air Tower\]\]
 
 In addition to the standard features found in all
 [Towers](Towers.md), the Air Tower is equipped with two

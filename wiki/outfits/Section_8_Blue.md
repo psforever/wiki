@@ -1,4 +1,4 @@
-![](images/Section_8.png "Section_8.png")
+![](../images/Section_8.png "Section_8.png")
 
 Section 8 Blue was originally formed as [Terran
 Republic](../etc/Terran_Republic.md) Outfit Section 8 on the

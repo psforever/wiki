@@ -1,4 +1,4 @@
-![](images/Tr_weapons.jpg "fig:Tr_weapons.jpg")'s empire-specific handheld
+![](../images/Tr_weapons.jpg "fig:Tr_weapons.jpg")'s empire-specific handheld
 weaponry.\]\] [Weapons](Weapon.md) are the bread and butter of
 the game [PlanetSide](../etc/PlanetSide.md). They are practically
 essential to do anything in PlanetSide, as PlanetSide is a war simulator

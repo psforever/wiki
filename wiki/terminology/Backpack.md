@@ -1,6 +1,6 @@
 The term **backpack** can refer to several things:
 
-![](images/NCBackpack2.jpg "fig:NCBackpack2.jpg") CR5's
+![](../images/NCBackpack2.jpg "fig:NCBackpack2.jpg") CR5's
 [backpack](Backpack.md)\]\]
 
 1. A character's [Inventory](Inventory.md).

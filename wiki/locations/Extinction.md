@@ -1,5 +1,5 @@
-![](images/ExtinctionMap.jpg "fig:ExtinctionMap.jpg")
-![](images/Extinction_Terrain.jpg "fig:Extinction_Terrain.jpg")
+![](../images/ExtinctionMap.jpg "fig:ExtinctionMap.jpg")
+![](../images/Extinction_Terrain.jpg "fig:Extinction_Terrain.jpg")
 
 |                       |                                                                         |
 | --------------------- | ----------------------------------------------------------------------- |

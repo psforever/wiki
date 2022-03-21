@@ -1,4 +1,4 @@
-![](images/DesolationMap.jpg "fig:DesolationMap.jpg")![](images/Desolation_Terrain.jpg "fig:Desolation_Terrain.jpg")
+![](../images/DesolationMap.jpg "fig:DesolationMap.jpg")![](../images/Desolation_Terrain.jpg "fig:Desolation_Terrain.jpg")
 
 |                              |                                                     |
 | ---------------------------- | --------------------------------------------------- |

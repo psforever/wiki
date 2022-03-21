@@ -1,4 +1,4 @@
-![](images/Sweeper.jpg "fig:Sweeper.jpg") Soldier fields the Sweeper
+![](../images/Sweeper.jpg "fig:Sweeper.jpg") Soldier fields the Sweeper
 Shotgun\]\]
 
 |                            |                                                                                                      |

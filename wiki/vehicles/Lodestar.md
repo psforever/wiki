@@ -1,4 +1,4 @@
-![](images/Lodestar.jpg "Lodestar.jpg")
+![](../images/Lodestar.jpg "Lodestar.jpg")
 
 |                            |                                                     |
 | -------------------------- | --------------------------------------------------- |
@@ -14,7 +14,7 @@
 
 **Lodestar**
 
-![](images/Lodestar_NC.jpg "fig:Lodestar_NC.jpg") Lodestar carries an
+![](../images/Lodestar_NC.jpg "fig:Lodestar_NC.jpg") Lodestar carries an
 [AMS](Advanced_Mobile_Station.md)\]\] The **Lodestar** is a massive, shoebox shaped
 aircraft designed to carry any vehicle and also act as a remote
 Repair/rearm.md station. Infantry may not be directly transported by the

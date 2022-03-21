@@ -1,4 +1,4 @@
-![](images/AncientGroundTerminal.jpg "fig:AncientGroundTerminal.jpg") in
+![](../images/AncientGroundTerminal.jpg "fig:AncientGroundTerminal.jpg") in
 [Adlivun](../locations/Adlivun.md)\]\]
 
 The Ground Vehicle Terminals can be found in the [Core

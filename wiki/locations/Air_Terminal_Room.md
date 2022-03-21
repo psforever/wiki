@@ -1,4 +1,4 @@
-![](images/TechAirVehRoom.jpg "fig:TechAirVehRoom.jpg") at a [Technology
+![](../images/TechAirVehRoom.jpg "fig:TechAirVehRoom.jpg") at a [Technology
 Plant](Technology_Plant.md)\]\] Only [Technology
 Plants](Technology_Plant.md) have an **Air Terminal Room**. The
 Air Terminal Room in on Floor 3, the same Floor where the [Control

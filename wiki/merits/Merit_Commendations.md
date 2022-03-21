@@ -1,6 +1,6 @@
 # Introduction to Merit Commendations
 
-![](images/Achievements_pane.jpg "Achievements_pane.jpg")
+![](../images/Achievements_pane.jpg "Achievements_pane.jpg")
 
 Merit Commendations are awards for certain activities done within the
 game. This includes:
@@ -46,28 +46,28 @@ At present, there are six categories of Merit Commendations:
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](images/SupportMeritThumb.png "fig:SupportMeritThumb.png")\]\]
+![](../images/SupportMeritThumb.png "fig:SupportMeritThumb.png")\]\]
 
 </td>
 <td width="170" align="center" valign="top">
 
 <b></b>
-![](images/VehMeritThumb.png "fig:VehMeritThumb.png")\]\] <b></b>
-![](images/DefenseMeritThumb.png "fig:DefenseMeritThumb.png")\]\]
+![](../images/VehMeritThumb.png "fig:VehMeritThumb.png")\]\] <b></b>
+![](../images/DefenseMeritThumb.png "fig:DefenseMeritThumb.png")\]\]
 
 </td>
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](images/WeaponryMeritThumb2.png "fig:WeaponryMeritThumb2.png")\]\]
+![](../images/WeaponryMeritThumb2.png "fig:WeaponryMeritThumb2.png")\]\]
 
 </td>
 <td width="190" align="center" valign="top">
 
 <b></b>
-![](images/ActivityMeritThumbnail_copy.png "fig:ActivityMeritThumbnail_copy.png")\]\]
+![](../images/ActivityMeritThumbnail_copy.png "fig:ActivityMeritThumbnail_copy.png")\]\]
 <b></b>
-![](images/Exclusive_Merit_Commendation.png "fig:Exclusive_Merit_Commendation.png")\]\]
+![](../images/Exclusive_Merit_Commendation.png "fig:Exclusive_Merit_Commendation.png")\]\]
 
 </td>
 </tr>

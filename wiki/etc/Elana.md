@@ -2,7 +2,7 @@
 
 ## [Spiker](../weapons/Spiker.md)
 
-![](images/Elana_potato.jpg "fig:Elana_potato.jpg") in the
+![](../images/Elana_potato.jpg "fig:Elana_potato.jpg") in the
 [Generator](../items/Generator.md) room\]\]
 
 <h3>
@@ -42,7 +42,7 @@ before an enemy even knows you are there.
 
 ### Kill whoring
 
-![](images/Elana_sweeper.jpg "fig:Elana_sweeper.jpg") and a
+![](../images/Elana_sweeper.jpg "fig:Elana_sweeper.jpg") and a
 [Thumper](../weapons/Thumper.md) in a [Bio
 Laboratory](../locations/Bio_Laboratory.md)\]\]
 

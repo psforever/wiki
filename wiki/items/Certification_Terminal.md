@@ -1,4 +1,4 @@
-![](images/Cert_term.jpg "Cert_term.jpg")
+![](../images/Cert_term.jpg "Cert_term.jpg")
 
 Located on each [Empire](../terminology/Empire.md)'s
 [Sanctuary](../locations/Sanctuary.md) and in [Bio Lab](Bio_Lab.md)

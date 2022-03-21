@@ -1,4 +1,4 @@
-![](images/Weapon_crystal.jpg "Weapon_crystal.jpg")
+![](../images/Weapon_crystal.jpg "Weapon_crystal.jpg")
 
 Weapon Crystals restore energy to the [Core
 Combat](Core_Combat.md) Ancient Tech weapons:

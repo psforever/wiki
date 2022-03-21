@@ -1,4 +1,4 @@
-![](images/Shango_Map.jpg "fig:Shango_Map.jpg") [Bio
+![](../images/Shango_Map.jpg "fig:Shango_Map.jpg") [Bio
 Laboratory](../locations/Bio_Laboratory.md) on SE [Cyssor](../locations/Cyssor.md)
 
 [Lattice](../terminology/Lattice.md) links:

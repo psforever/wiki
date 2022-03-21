@@ -1,6 +1,6 @@
-![](images/AegisGenerator.jpg "fig:AegisGenerator.jpg")
-![](images/AegisAmmo.jpg "fig:AegisAmmo.jpg")
-![](images/AegisInfo.jpg "fig:AegisInfo.jpg")
+![](../images/AegisGenerator.jpg "fig:AegisGenerator.jpg")
+![](../images/AegisAmmo.jpg "fig:AegisAmmo.jpg")
+![](../images/AegisInfo.jpg "fig:AegisInfo.jpg")
 
 |                            |                                                                                                  |
 | -------------------------- | ------------------------------------------------------------------------------------------------ |

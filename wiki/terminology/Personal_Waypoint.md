@@ -1,4 +1,4 @@
-![](images/Personal_waypoint.jpg "fig:Personal_waypoint.jpg") [Gun
+![](../images/Personal_waypoint.jpg "fig:Personal_waypoint.jpg") [Gun
 tower](../locations/Gun_tower.md) \]\] Players can set a single Personal
 Waypoint on the [Continental Map](../etc/Continental_Map.md) to aid
 with navigation.

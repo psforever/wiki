@@ -1,4 +1,4 @@
-![](images/AphelionPicture.jpg "fig:AphelionPicture.jpg")'s Gunner Variant
+![](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg")'s Gunner Variant
 [BFR](BattleFrame_Robotics.md)\]\]
 
 The Aphelion is the gunner variant of [BattleFrame
@@ -45,7 +45,7 @@ Only one gunner weapon can be used at a time.
 
 ## History
 
-![](images/Aphelions.jpg "fig:Aphelions.jpg")\]\] The currently-fielded unit
+![](../images/Aphelions.jpg "fig:Aphelions.jpg")\]\] The currently-fielded unit
 named "Aphelion" varies from the pictured unit. When introduced, the
 two-man version of the [VS](../etc/Vanu_Sovereignty.md) battleframe was named the
 **Orion**. It was renamed "Aphelion" in patch [3.2.6](3.md.2.6),

@@ -1,9 +1,9 @@
 ## **The ArmorDeth Ant Trap & The ArmorDeth AMS Trap**
 
-![](images/Armordeth_ANT_Trap.jpg "fig:Armordeth_ANT_Trap.jpg") Trap nears
+![](../images/Armordeth_ANT_Trap.jpg "fig:Armordeth_ANT_Trap.jpg") Trap nears
 completion at a [Searhus](../locations/Searhus.md) [Back
 Door](../locations/Back_Door.md)\]\]
-![](images/ANT_Trap_Above.jpg "fig:ANT_Trap_Above.jpg") Trap nears completion
+![](../images/ANT_Trap_Above.jpg "fig:ANT_Trap_Above.jpg") Trap nears completion
 at a [Searhus](../locations/Searhus.md) [Back Door](../locations/Back_Door.md)\]\]
 What is it? Well after watching all my
 [CE](../certifications/Combat_Engineering.md) get [EMP](../commands/EMP.md)'ed over

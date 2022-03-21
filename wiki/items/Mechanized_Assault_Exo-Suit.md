@@ -17,7 +17,7 @@ to all three types of MAX armor at a reduced cost.
 
 ## [New Conglomerate](../etc/New_Conglomerate.md)
 
-![](images/NCMAXArmors2.jpg "fig:NCMAXArmors2.jpg") MAX Armor at, from left to
+![](../images/NCMAXArmors2.jpg "fig:NCMAXArmors2.jpg") MAX Armor at, from left to
 right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 Anti-Infantry: [Scattercannon](Scattercannon.md)
 Anti-Vehicle: [Falcon](Falcon.md)
@@ -29,7 +29,7 @@ Shield is active.
 
 ## [Terran Republic](../etc/Terran_Republic.md)
 
-![](images/TRMAXArmor2.jpg "fig:TRMAXArmor2.jpg") MAX Armor at, from left to
+![](../images/TRMAXArmor2.jpg "fig:TRMAXArmor2.jpg") MAX Armor at, from left to
 right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 Anti-Infantry: [Dual-Cycler](Dual-Cycler.md)
 Anti-Vehicle: [Pounder](Pounder.md)
@@ -47,7 +47,7 @@ active will glow red.
 
 ## [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
 
-![](images/VS_MAXs.jpg "fig:VS_MAXs.jpg") MAX Armor at, from left to right,
+![](../images/VS_MAXs.jpg "fig:VS_MAXs.jpg") MAX Armor at, from left to right,
 [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\] Anti-Infantry:
 [Quasar](Quasar.md)
 Anti-Vehicle: [Comet](Comet.md)

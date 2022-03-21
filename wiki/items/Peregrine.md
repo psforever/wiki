@@ -1,4 +1,4 @@
-![](images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg") Peregrine with dual
+![](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg") Peregrine with dual
 [Anti-Tank Machine Guns](../weapons/Anti-Tank_Machine_Gun.md) and a
 [Particle Cannon](weapons/Particle_Cannon.md)\]\]
 
@@ -35,7 +35,7 @@ Additionally, it is possible to manually deactivate one of the weapons,
 using them one at a time (one weapon must always remain active,
 however).
 
-![](images/Peregrine_VS.jpg "fig:Peregrine_VS.jpg")-[jacked](../terminology/Jack.md)
+![](../images/Peregrine_VS.jpg "fig:Peregrine_VS.jpg")-[jacked](../terminology/Jack.md)
 Peregrine, operating with a full crew of pilot and gunner. Equipped with
 two [Hammers](Hammer.md) and a [Particle
 Cannon](weapons/Particle_Cannon.md)\]\]

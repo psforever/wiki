@@ -1,5 +1,5 @@
-![](images/SearhusMap.jpg "fig:SearhusMap.jpg")
-![](images/Searhus_Terrain.jpg "fig:Searhus_Terrain.jpg")
+![](../images/SearhusMap.jpg "fig:SearhusMap.jpg")
+![](../images/Searhus_Terrain.jpg "fig:Searhus_Terrain.jpg")
 
 ## Continental Data
 

@@ -1,4 +1,4 @@
-![](images/Airterm.jpg "fig:Airterm.jpg") ![](images/Ground.jpg "fig:Ground.jpg") The
+![](../images/Airterm.jpg "fig:Airterm.jpg") ![](../images/Ground.jpg "fig:Ground.jpg") The
 [Vehicle Terminal](Vehicle_Terminal.md) is where you can spawn
 [vehicles](category:_Vehicles.md) for use. It is typically located in
 the [courtyard](Courtyard.md) of a

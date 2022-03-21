@@ -1,4 +1,4 @@
-![](images/PSScreenShot0320.jpg "fig:PSScreenShot0320.jpg") AI
+![](../images/PSScreenShot0320.jpg "fig:PSScreenShot0320.jpg") AI
 [MAX](Mechanized_Assault_Exo-Suit.md)\]\]
 
 |                            |                                                                                                  |

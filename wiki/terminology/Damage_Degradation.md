@@ -1,10 +1,10 @@
-![](images/SA_DD.jpg "fig:SA_DD.jpg") weaponry. Damage indicated is one shot
+![](../images/SA_DD.jpg "fig:SA_DD.jpg") weaponry. Damage indicated is one shot
 fired on a [Cloaker](Cloaker.md)\]\]
-![](images/MA_DD.jpg "fig:MA_DD.jpg") weaponry, including the medium assault
+![](../images/MA_DD.jpg "fig:MA_DD.jpg") weaponry, including the medium assault
 pistols [Eraser](../items/Eraser.md), [Stinger](../weapons/Stinger.md), and
 [Spear](../weapons/Spear.md) in green. Damage indicated is one shot fired
 on a [Cloaker](Cloaker.md) ([Pulsar](../weapons/Pulsar.md) figures
-are not current)\]\] ![](images/HA_DD.jpg "fig:HA_DD.jpg") weaponry. Damage
+are not current)\]\] ![](../images/HA_DD.jpg "fig:HA_DD.jpg") weaponry. Damage
 indicated is one shot fired on a [Cloaker](Cloaker.md)
 ([Lasher](../weapons/Lasher.md) figures not current)\]\]
 

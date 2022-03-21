@@ -1,4 +1,4 @@
-![](images/Apshotgunshell.jpg "Apshotgunshell.jpg")
+![](../images/Apshotgunshell.jpg "Apshotgunshell.jpg")
 
 |                          |                                                                                   |
 | ------------------------ | --------------------------------------------------------------------------------- |

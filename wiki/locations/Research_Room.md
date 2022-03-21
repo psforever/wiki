@@ -1,4 +1,4 @@
-![](images/BioLabResearchRoom.jpg "fig:BioLabResearchRoom.jpg")\]\] The
+![](../images/BioLabResearchRoom.jpg "fig:BioLabResearchRoom.jpg")\]\] The
 Research Room can only be found in [Bio
 Laboratories](Bio_Laboratory.md) behind the [Spawn
 Room](Spawn_Room.md).

@@ -1,4 +1,4 @@
-![](images/Speed_module.jpg "fig:Speed_module.jpg") Installing this
+![](../images/Speed_module.jpg "fig:Speed_module.jpg") Installing this
 [module](Modules.md) provides the [module
 benefit](Module_benefit.md) of significantly reducing the
 respawn delay at the [facility](Facility.md). Additionally, all

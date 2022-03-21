@@ -1,5 +1,5 @@
-![](images/Gunuku.jpg "fig:Gunuku.jpg")
-![](images/Gunuku_map.jpg "fig:Gunuku_map.jpg") Gunuku is
+![](../images/Gunuku.jpg "fig:Gunuku.jpg")
+![](../images/Gunuku_map.jpg "fig:Gunuku_map.jpg") Gunuku is
 [Cyssor](../locations/Cyssor.md)'s [Dropship
 Center](../locations/Dropship_Center.md). It is located in [map
 grid](map_grid.md) **M10**.

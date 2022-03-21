@@ -1,5 +1,5 @@
-![](images/EsamirMap.jpg "fig:EsamirMap.jpg")
-![](images/Esamir_Terrain.jpg "fig:Esamir_Terrain.jpg")
+![](../images/EsamirMap.jpg "fig:EsamirMap.jpg")
+![](../images/Esamir_Terrain.jpg "fig:Esamir_Terrain.jpg")
 
 ## Continental Data
 
@@ -90,8 +90,8 @@ This continent is also refered to as
 
 ### Land Bridges
 
-![](images/Esa_landbridge_map.jpg "fig:Esa_landbridge_map.jpg")
-![](images/Esa_landbridge_aerial.jpg "fig:Esa_landbridge_aerial.jpg")
+![](../images/Esa_landbridge_map.jpg "fig:Esa_landbridge_map.jpg")
+![](../images/Esa_landbridge_aerial.jpg "fig:Esa_landbridge_aerial.jpg")
 
 Esamir has two distinct land bridge areas; paths where vehicles can ford
 bodies of water with little risk of engine swamping.

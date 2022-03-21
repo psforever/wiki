@@ -1,4 +1,4 @@
-![](images/InterstellarMap.jpg "fig:InterstellarMap.jpg") Overhead Map of the
+![](../images/InterstellarMap.jpg "fig:InterstellarMap.jpg") Overhead Map of the
 [planets](../locations/Planet.md) and of Auraxian space, showing the
 [Galactic Lattice](Galactic_Lattice.md) network between the
 worlds and their [continents](../locations/Continent.md). Accessed with the

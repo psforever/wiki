@@ -1,4 +1,4 @@
-![](images/Stonehenge.jpg "Stonehenge.jpg")
+![](../images/Stonehenge.jpg "Stonehenge.jpg")
 
 Location: [Ishundar](Ishundar.md)
 

@@ -1,4 +1,4 @@
-![](images/TeamSpeak.jpg "fig:TeamSpeak.jpg") [Teamspeak](Teamspeak.md)
+![](../images/TeamSpeak.jpg "fig:TeamSpeak.jpg") [Teamspeak](Teamspeak.md)
 is a voice communications program. It is often used for online first
 person shooters to communicate with players on the same team as you,
 usually through use of a headset or microphone. By using Teamspeak,

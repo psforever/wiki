@@ -1,4 +1,4 @@
-![](images/Router.jpg "fig:Router.jpg") Router\]\]
+![](../images/Router.jpg "fig:Router.jpg") Router\]\]
 
 |                            |                                                                       |
 | -------------------------- | --------------------------------------------------------------------- |

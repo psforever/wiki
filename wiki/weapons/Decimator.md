@@ -1,4 +1,4 @@
-![](images/PSScreenShot0246.jpg "fig:PSScreenShot0246.jpg") Soldier carrying a
+![](../images/PSScreenShot0246.jpg "fig:PSScreenShot0246.jpg") Soldier carrying a
 Decimator\]\]
 
 |                            |                                     |

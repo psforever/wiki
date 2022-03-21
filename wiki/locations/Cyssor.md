@@ -1,8 +1,8 @@
-![](images/CyssorContinentalMap.jpg "CyssorContinentalMap.jpg")
+![](../images/CyssorContinentalMap.jpg "CyssorContinentalMap.jpg")
 
 ## Continental Data
 
-![](images/Cyssor_Terrain.jpg "Cyssor_Terrain.jpg")
+![](../images/Cyssor_Terrain.jpg "Cyssor_Terrain.jpg")
 
 |                                      |                                          |
 | ------------------------------------ | ---------------------------------------- |

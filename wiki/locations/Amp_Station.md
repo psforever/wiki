@@ -14,7 +14,7 @@
 
 ## Description
 
-![](images/Ampstation.jpg "Ampstation.jpg")
+![](../images/Ampstation.jpg "Ampstation.jpg")
 
 [Amp Station](Amp_Station.md)
 [facilities](Facilities.md) are one of the most valuable

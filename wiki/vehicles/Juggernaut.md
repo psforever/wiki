@@ -1,5 +1,5 @@
-![](images/JuggernautFront.jpg "fig:JuggernautFront.jpg") Juggernaut\]\]
-![](images/Juggernaut.jpg "fig:Juggernaut.jpg")
+![](../images/JuggernautFront.jpg "fig:JuggernautFront.jpg") Juggernaut\]\]
+![](../images/Juggernaut.jpg "fig:Juggernaut.jpg")
 
 |                            |                                                                                                                                                     |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |

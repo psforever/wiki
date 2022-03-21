@@ -1,4 +1,4 @@
-![](images/PounderPicture.jpg "fig:PounderPicture.jpg") Anti-Vehicle
+![](../images/PounderPicture.jpg "fig:PounderPicture.jpg") Anti-Vehicle
 [MAX](Mechanized_Assault_Exo-Suit.md)\]\]
 
 |                            |                                                                                                |

@@ -1,7 +1,7 @@
-![](images/VS_Eclipse.jpg "fig:VS_Eclipse.jpg") Eclipse with dual [Pulsed
+![](../images/VS_Eclipse.jpg "fig:VS_Eclipse.jpg") Eclipse with dual [Pulsed
 Particle Accelerators](<Pulsed_Particle_Accelerator_(BFR)>)\]\]
 
-![](images/Eclipse.jpg "fig:Eclipse.jpg")'s [Terran](../etc/Terran_Republic.md) Eclipse\]\]
+![](../images/Eclipse.jpg "fig:Eclipse.jpg")'s [Terran](../etc/Terran_Republic.md) Eclipse\]\]
 
 The **Eclipse** is the flight variant of [BattleFrame
 Robotics](BattleFrame_Robotics.md) developed by the [Vanu

@@ -1,4 +1,4 @@
-![](images/Wraiths.jpg "fig:Wraiths.jpg") ![](images/Wraith.jpg "fig:Wraith.jpg")
+![](../images/Wraiths.jpg "fig:Wraiths.jpg") ![](../images/Wraith.jpg "fig:Wraith.jpg")
 Wraith\]\]
 
 |                            |                                                                                                             |

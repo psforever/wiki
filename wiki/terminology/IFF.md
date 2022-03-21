@@ -1,4 +1,4 @@
-![](images/IFF_small.jpg "IFF_small.jpg")
+![](../images/IFF_small.jpg "IFF_small.jpg")
 
 **IFF** stands for "Identify Friend from Foe". Objects that use this
 technology differentiate between enemies and friendlies, allowing

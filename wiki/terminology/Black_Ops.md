@@ -1,6 +1,6 @@
-![](images/BO_Soldiers.jpg "fig:BO_Soldiers.jpg")\]\]
-![](images/BO_Phantasm.jpg "fig:BO_Phantasm.jpg")\]\]
-![](images/BO_Hacked_Facility.jpg "fig:BO_Hacked_Facility.jpg") that is hacked
+![](../images/BO_Soldiers.jpg "fig:BO_Soldiers.jpg")\]\]
+![](../images/BO_Phantasm.jpg "fig:BO_Phantasm.jpg")\]\]
+![](../images/BO_Hacked_Facility.jpg "fig:BO_Hacked_Facility.jpg") that is hacked
 by Black Ops, as seen on the [continental
 map](../etc/Continental_Map.md)\]\]
 

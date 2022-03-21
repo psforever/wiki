@@ -1,8 +1,8 @@
-![](images/IshundarMap.jpg "IshundarMap.jpg")
+![](../images/IshundarMap.jpg "IshundarMap.jpg")
 
 ## Continental Data
 
-![](images/Ishundar_Terrain.jpg "Ishundar_Terrain.jpg")
+![](../images/Ishundar_Terrain.jpg "Ishundar_Terrain.jpg")
 
 |                   |                                                                       |
 | ----------------- | --------------------------------------------------------------------- |

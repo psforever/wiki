@@ -1,4 +1,4 @@
-![](images/Frag_Hand_grenade.jpg "fig:Frag_Hand_grenade.jpg")\]\]
+![](../images/Frag_Hand_grenade.jpg "fig:Frag_Hand_grenade.jpg")\]\]
 
 |                            |                                         |
 | -------------------------- | --------------------------------------- |

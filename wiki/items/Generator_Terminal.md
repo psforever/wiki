@@ -1,4 +1,4 @@
-![](images/GenTerm.jpg "fig:GenTerm.jpg") room\]\]
+![](../images/GenTerm.jpg "fig:GenTerm.jpg") room\]\]
 
 The [Generator Terminal](Generator_Terminal.md) is located at
 the entrance of the [Generator](Generator.md) of each

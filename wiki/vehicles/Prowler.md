@@ -1,4 +1,4 @@
-![](images/ProwlerPicture.jpg "fig:ProwlerPicture.jpg")'s [Medium Battle
+![](../images/ProwlerPicture.jpg "fig:ProwlerPicture.jpg")'s [Medium Battle
 Tank](../items/Medium_Battle_Tank.md)\]\]
 
 |                            |                                                                                                                       |

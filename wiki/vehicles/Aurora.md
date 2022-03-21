@@ -1,4 +1,4 @@
-![](images/VSAurora.jpg "fig:VSAurora.jpg") Aurora\]\]
+![](../images/VSAurora.jpg "fig:VSAurora.jpg") Aurora\]\]
 
 |                            |                                         |
 | -------------------------- | --------------------------------------- |

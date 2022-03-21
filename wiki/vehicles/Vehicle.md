@@ -1,4 +1,4 @@
-![](images/Vanguard_threefourths.jpg "fig:Vanguard_threefourths.jpg")
+![](../images/Vanguard_threefourths.jpg "fig:Vanguard_threefourths.jpg")
 [Vanguard](vehicles/Vanguard.md) [Medium Battle
 Tank](../items/Medium_Battle_Tank.md).\]\] [Vehicles](Vehicle.md)
 are an essential part to [PlanetSide](../etc/PlanetSide.md) as they are
@@ -80,7 +80,7 @@ Flight-Variant BFRs ([Invader](../items/Invader.md), [Eclipse](Eclipse.md), or [
 
 ### Vehicle Terminal
 
-![](images/NCmag.jpg "fig:NCmag.jpg") is a vehicle which requires a [Technology
+![](../images/NCmag.jpg "fig:NCmag.jpg") is a vehicle which requires a [Technology
 Plant](../locations/Technology_Plant.md).\]\] Once a player has the correct
 certification, a player can purchase the vehicle from a friendly or
 hacked [Vehicle Terminal](locations/Vehicle_Terminal.md). However, some
@@ -245,7 +245,7 @@ These controls are used only for BFR's. BFR's do not use the Vehicle
 Control set and instead rely only on this control set to control the
 BFR's.
 
-These are the default BFR Controls. ![](images/Eagle2.jpg "fig:Eagle2.jpg"), a
+These are the default BFR Controls. ![](../images/Eagle2.jpg "fig:Eagle2.jpg"), a
 [BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.\]\]
 
 |                         |                      |                      |
@@ -332,7 +332,7 @@ are as follows:
 - [Air Defender](../merits/Air_Defender.md) (Skyguard)
 - [Cavalry Pilot](../merits/Cavalry_Pilot.md) (Galaxy Gunship)
 
-![](images/Galaxy_Side.jpg "fig:Galaxy_Side.jpg") troop transport.\]\]
+![](../images/Galaxy_Side.jpg "fig:Galaxy_Side.jpg") troop transport.\]\]
 
 ### Passenger Slots
 

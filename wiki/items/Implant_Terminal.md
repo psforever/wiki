@@ -1,4 +1,4 @@
-![](images/PSScreenShot0282.jpg "fig:PSScreenShot0282.jpg") The Implant
+![](../images/PSScreenShot0282.jpg "fig:PSScreenShot0282.jpg") The Implant
 Terminal inserts cybernetic devices called
 [Implants](implants/Implants.md) into various points, or slots, of a
 soldier's body.

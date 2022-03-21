@@ -1,4 +1,4 @@
-![](images/PlanetSide_box.jpg "fig:PlanetSide_box.jpg")
+![](../images/PlanetSide_box.jpg "fig:PlanetSide_box.jpg")
 [PlanetSide](PlanetSide.md) is one of the first
 Massively-Multiplayer Online First Person Shooters (MMOFPS), and was
 published and developed by [Sony Online
@@ -154,7 +154,7 @@ released about once a month. These [patches](terminology/Patch.md) usually
 focus on fixing in-game bugs and adding new content. PlanetSide also has
 a [Test Server](Test_Server.md) like other online games to test
 changes before they go onto live servers.
-![](images/Core_Combat_Box.jpg "fig:Core_Combat_Box.jpg") box art.\]\]
+![](../images/Core_Combat_Box.jpg "fig:Core_Combat_Box.jpg") box art.\]\]
 
 ### Core Combat
 
@@ -234,7 +234,7 @@ their own. The warpgates still funcioned under the normal
 [lattice](../terminology/Lattice.md), but the skies were different. Also,
 [Oshur](locations/Oshur.md) was removed completely, and in its place were
 the [Battle Islands](../locations/Battle_Islands.md).
-![](images/Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]
+![](../images/Aftershock_Box.jpg "fig:Aftershock_Box.jpg") box art.\]\]
 
 ### Aftershock
 

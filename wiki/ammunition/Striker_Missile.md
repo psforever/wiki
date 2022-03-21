@@ -1,4 +1,4 @@
-![](images/Strikermissle.jpg "Strikermissle.jpg")
+![](../images/Strikermissle.jpg "Strikermissle.jpg")
 
 |                          |                                       |
 | ------------------------ | ------------------------------------- |

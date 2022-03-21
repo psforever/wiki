@@ -1,4 +1,4 @@
-![](images/Lancer.jpg "fig:Lancer.jpg") Soldier firing a Lancer\]\]
+![](../images/Lancer.jpg "fig:Lancer.jpg") Soldier firing a Lancer\]\]
 
 |                            |                                           |
 | -------------------------- | ----------------------------------------- |

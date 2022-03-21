@@ -1,4 +1,4 @@
-![](images/Hart.jpg "fig:Hart.jpg")
+![](../images/Hart.jpg "fig:Hart.jpg")
 ![Image:HART-Icon.jpg](HART-Icon.jpg "fig:Image:HART-Icon.jpg") The
 **HART**, or **High Altitude Rapid Transport** shuttle, is a large
 passenger spacecraft that makes regular flights at three minute

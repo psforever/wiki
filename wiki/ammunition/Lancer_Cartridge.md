@@ -1,4 +1,4 @@
-![](images/Lancercartridge.jpg "Lancercartridge.jpg")
+![](../images/Lancercartridge.jpg "Lancercartridge.jpg")
 
 |                          |                                                    |
 | ------------------------ | -------------------------------------------------- |

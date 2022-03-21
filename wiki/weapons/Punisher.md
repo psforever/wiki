@@ -1,4 +1,4 @@
-![](images/PSScreenShot0253.jpg "fig:PSScreenShot0253.jpg") Soldier equipped
+![](../images/PSScreenShot0253.jpg "fig:PSScreenShot0253.jpg") Soldier equipped
 with a Punisher\]\]
 
 <table>

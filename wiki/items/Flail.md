@@ -1,4 +1,4 @@
-![](images/FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its Dispersion
+![](../images/FlailPicture.jpg "fig:FlailPicture.jpg") Flail firing its Dispersion
 Cannon\]\]
 
 |                            |                                                                       |

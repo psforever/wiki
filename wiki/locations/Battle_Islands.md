@@ -1,4 +1,4 @@
-![](images/BIMap.jpg "BIMap.jpg")
+![](../images/BIMap.jpg "BIMap.jpg")
 
 ## Description
 

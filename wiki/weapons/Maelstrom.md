@@ -1,4 +1,4 @@
-![](images/Maelstrom.jpg "fig:Maelstrom.jpg") soldier defends a [Control
+![](../images/Maelstrom.jpg "fig:Maelstrom.jpg") soldier defends a [Control
 Console](../locations/Control_Console.md) with his Maelstrom\]\]
 
 |                            |                                                         |

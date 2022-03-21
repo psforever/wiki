@@ -1,4 +1,4 @@
-![](images/FalconMAX.jpg "fig:FalconMAX.jpg")s Anti-Vehicular
+![](../images/FalconMAX.jpg "fig:FalconMAX.jpg")s Anti-Vehicular
 [MAX](Mechanized_Assault_Exo-Suit.md)\]\]
 
 |                            |                                                                                                |

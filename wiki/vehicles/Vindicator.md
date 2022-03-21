@@ -1,5 +1,5 @@
-![](images/VindicatorFront.jpg "fig:VindicatorFront.jpg") Vindicator\]\]
-![](images/VindicatorRear.jpg "fig:VindicatorRear.jpg")
+![](../images/VindicatorFront.jpg "fig:VindicatorFront.jpg") Vindicator\]\]
+![](../images/VindicatorRear.jpg "fig:VindicatorRear.jpg")
 
 |                            |                                                                                                                                                             |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |

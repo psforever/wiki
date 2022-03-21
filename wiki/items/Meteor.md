@@ -1,4 +1,4 @@
-![](images/Meteor.jpg "fig:Meteor.jpg")\]\]
+![](../images/Meteor.jpg "fig:Meteor.jpg")\]\]
 
 [Meteors](Meteor.md) are rare phenomena that can occur on any
 [continent](../locations/Continent.md). They are large rocks that hit the

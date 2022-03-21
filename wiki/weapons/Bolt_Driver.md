@@ -1,4 +1,4 @@
-![](images/Bolt_driver.jpg "fig:Bolt_driver.jpg") [Rexo](Rexo.md)
+![](../images/Bolt_driver.jpg "fig:Bolt_driver.jpg") [Rexo](Rexo.md)
 wields a Bolt Driver in [Byblos](../locations/Byblos.md)\]\]
 
 |                            |                               |

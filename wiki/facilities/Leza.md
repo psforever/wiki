@@ -1,4 +1,4 @@
-![](images/Leza_Mukuru_Map.jpg "Leza_Mukuru_Map.jpg")
+![](../images/Leza_Mukuru_Map.jpg "Leza_Mukuru_Map.jpg")
 
 [Tech Plant](Tech_Plant.md) Leza shares on an island in the
 Southwest corner of [Cyssor](../locations/Cyssor.md) with a

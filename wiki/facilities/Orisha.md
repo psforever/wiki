@@ -1,4 +1,4 @@
-![](images/Orisha_Map.jpg "Orisha_Map.jpg")
+![](../images/Orisha_Map.jpg "Orisha_Map.jpg")
 
 [Cyssor](../locations/Cyssor.md)'s Southeast-most [Technology
 Plant](../locations/Technology_Plant.md)

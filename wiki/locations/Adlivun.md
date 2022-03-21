@@ -1,5 +1,5 @@
-![](images/Adlivun.jpg "fig:Adlivun.jpg")\]\]
-![](images/AdlivunMap.jpg "fig:AdlivunMap.jpg") Adlivun is one of the six [Core
+![](../images/Adlivun.jpg "fig:Adlivun.jpg")\]\]
+![](../images/AdlivunMap.jpg "fig:AdlivunMap.jpg") Adlivun is one of the six [Core
 Combat](../items/Core_Combat.md) [Caverns](Caverns.md).
 Characterized by a large frozen lake and a large island in the middle,
 Adlivun is a surprisingly difficult place for troops to navigate. With

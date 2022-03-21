@@ -1,4 +1,4 @@
-![](images/Sancvilla.jpg "fig:Sancvilla.jpg") [Sanctuary](../Sanctuary.md)
+![](../images/Sancvilla.jpg "fig:Sancvilla.jpg") [Sanctuary](../Sanctuary.md)
 Villa \]\] A Sanctuary Villa is a homebase located near a
 [warpgate](Warpgate.md). Each Villa is made up of 1 [HART
 building](HART_building.md), 3 [Respawn

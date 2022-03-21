@@ -14,7 +14,7 @@
 
 ## Description
 
-![](images/Dropship.jpg "Dropship.jpg")
+![](../images/Dropship.jpg "Dropship.jpg")
 
 **Dropship Centers** are some of the rarest and most powerful
 [bases](Facilities.md) on a [planet](Planet.md). There

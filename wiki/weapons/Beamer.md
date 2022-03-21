@@ -1,4 +1,4 @@
-![](images/PSScreenShot0293.jpg "fig:PSScreenShot0293.jpg") Soldier holding a
+![](../images/PSScreenShot0293.jpg "fig:PSScreenShot0293.jpg") Soldier holding a
 Beamer\]\]
 
 |                            |                                         |

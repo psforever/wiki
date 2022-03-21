@@ -1,4 +1,4 @@
-![](images/Lockers_biolab.jpg "fig:Lockers_biolab.jpg") Medical Bay\]\]
+![](../images/Lockers_biolab.jpg "fig:Lockers_biolab.jpg") Medical Bay\]\]
 ![](Locker-Contents.jpg "fig:Locker-Contents.jpg")s\]\]
 
 Lockers are personal storage locations within every

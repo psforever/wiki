@@ -27,7 +27,7 @@ Below is a picture of the mini-squad member list that appears on your
 [Heads-up Display](../etc/Heads-up_Display.md)
 [HUD](Acronyms_and_Slang.md).
 
-![Image:SquadList.JPG](images/SquadList.jpg "Image:SquadList.JPG")
+![Image:SquadList.JPG](../images/SquadList.jpg "Image:SquadList.JPG")
 
 [Category:Terminology](Category:Terminology.md) [Category:Game
 Guides](Category:Game_Guides.md)

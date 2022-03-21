@@ -1,4 +1,4 @@
-![](images/PSScreenShot0256.jpg "PSScreenShot0256.jpg")
+![](../images/PSScreenShot0256.jpg "PSScreenShot0256.jpg")
 
 |                            |                                     |
 | -------------------------- | ----------------------------------- |

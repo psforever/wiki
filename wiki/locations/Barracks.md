@@ -1,4 +1,4 @@
-![](images/Barracksdownstairs.jpg "fig:Barracksdownstairs.jpg") barracks\]\]
+![](../images/Barracksdownstairs.jpg "fig:Barracksdownstairs.jpg") barracks\]\]
 This room is typically located one level beneath the
 [lounge](../merits/Lounge.md) in all [facilities](Facilities.md)
 (excluding [Bio Labs](Bio_Laboratory.md), which have a [Research

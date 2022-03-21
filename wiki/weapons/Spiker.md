@@ -1,4 +1,4 @@
-![](images/SpikerPicture.jpg "fig:SpikerPicture.jpg") Soldier is loading his
+![](../images/SpikerPicture.jpg "fig:SpikerPicture.jpg") Soldier is loading his
 Spiker\]\]
 
 |                            |                                                                    |

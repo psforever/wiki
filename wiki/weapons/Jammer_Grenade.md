@@ -1,4 +1,4 @@
-![](images/Jammer_grenade.jpg "fig:Jammer_grenade.jpg")\]\]
+![](../images/Jammer_grenade.jpg "fig:Jammer_grenade.jpg")\]\]
 
 |                            |                                         |
 | -------------------------- | --------------------------------------- |

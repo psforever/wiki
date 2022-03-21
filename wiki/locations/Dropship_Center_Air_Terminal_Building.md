@@ -1,4 +1,4 @@
-![](images/DCAirTerminal.jpg "DCAirTerminal.jpg")
+![](../images/DCAirTerminal.jpg "DCAirTerminal.jpg")
 
 As the name says, this Air Terminal Building can only be found in the
 [Courtyard](Courtyard.md) of a [Dropship

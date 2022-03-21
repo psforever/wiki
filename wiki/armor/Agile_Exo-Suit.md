@@ -1,16 +1,16 @@
-![](images/NCAgileArmors2.jpg "fig:NCAgileArmors2.jpg") [Agile
+![](../images/NCAgileArmors2.jpg "fig:NCAgileArmors2.jpg") [Agile
 Exo-Suit](Agile_Exo-Suit.md) at, from left to right, [Battle
 Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 
-![](images/TRAgileArmor2.jpg "fig:TRAgileArmor2.jpg") [Agile
+![](../images/TRAgileArmor2.jpg "fig:TRAgileArmor2.jpg") [Agile
 Exo-Suit](Agile_Exo-Suit.md) at, from left to right, [Battle
 Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 
-![](images/VS_Agiles.jpg "fig:VS_Agiles.jpg") [Agile
+![](../images/VS_Agiles.jpg "fig:VS_Agiles.jpg") [Agile
 Exo-Suit](Agile_Exo-Suit.md) at, from left the right, [Battle
 Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 
-![](images/Agile_Inventory.jpg "fig:Agile_Inventory.jpg"), [Medical
+![](../images/Agile_Inventory.jpg "fig:Agile_Inventory.jpg"), [Medical
 Applicator](../weapons/Medical_Applicator.md), [BANK](../weapons/Body_Armor_Nano_Kit.md),
 [REK](../weapons/Remote_Electronics_Kit.md), and [CUD](CUD.md)\]\]
 

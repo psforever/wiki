@@ -1,4 +1,4 @@
-![](images/MassOS.jpg "fig:MassOS.jpg") at the same time \]\] The Orbital
+![](../images/MassOS.jpg "fig:MassOS.jpg") at the same time \]\] The Orbital
 Strike is an Ion Beam of focused energy launched from the respective
 [Empires](../terminology/Empires.md) [Orbital
 Platform](locations/Orbital_Platform.md). Orbital Strikes are the most

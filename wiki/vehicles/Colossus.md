@@ -1,4 +1,4 @@
-![](images/Colussus.jpg "fig:Colussus.jpg") of the [Terran
+![](../images/Colussus.jpg "fig:Colussus.jpg") of the [Terran
 Republic](../etc/Terran_Republic.md)\]\]
 
 Gunner variants have, in addition the the pilot weapons, an extra gunner
@@ -33,7 +33,7 @@ The gunner weapons available to the Colossus are
 
 Only one gunner weapon can be used at a time.
 
-![](images/PSScreenShot0315.jpg "fig:PSScreenShot0315.jpg") Colossus (Classic
+![](../images/PSScreenShot0315.jpg "fig:PSScreenShot0315.jpg") Colossus (Classic
 model)\]\]
 
 [Category:Game Items](Category:Game_Items.md)

@@ -1,4 +1,4 @@
-![](images/RaiderPicture.jpg "fig:RaiderPicture.jpg") Raider\]\]
+![](../images/RaiderPicture.jpg "fig:RaiderPicture.jpg") Raider\]\]
 
 |                            |                                                              |
 | -------------------------- | ------------------------------------------------------------ |

@@ -1,4 +1,4 @@
-![](images/Rocklet_Rifle.jpg "Rocklet_Rifle.jpg")
+![](../images/Rocklet_Rifle.jpg "Rocklet_Rifle.jpg")
 
 |                            |                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------ |

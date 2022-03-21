@@ -5,7 +5,7 @@
 on this page no longer exists in game (as of Version
 [3.12.12](3.md.12.12), April 20 2007)**
 
-![](images/Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
+![](../images/Sunderer.jpg "fig:Sunderer.jpg") Sunderer\]\]
 
 |                            |                                                                                                      |
 | -------------------------- | ---------------------------------------------------------------------------------------------------- |

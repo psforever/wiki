@@ -22,7 +22,7 @@ Here is a picture of the platoon list in the [Heads-up
 Display](../etc/Heads-up_Display.md)
 ([HUD](Acronyms_and_Slang.md))
 
-![Image:PlatoonList.JPG](images/PlatoonList.jpg "Image:PlatoonList.JPG")
+![Image:PlatoonList.JPG](../images/PlatoonList.jpg "Image:PlatoonList.JPG")
 
 [Category:Terminology](Category:Terminology.md) [Category:Game
 Guides](Category:Game_Guides.md)

@@ -1,4 +1,4 @@
-![](images/ArmorRepairCrystal.jpg "fig:ArmorRepairCrystal.jpg") in
+![](../images/ArmorRepairCrystal.jpg "fig:ArmorRepairCrystal.jpg") in
 [Adlivun](../locations/Adlivun.md)\]\]
 
 The Repair Crystal functions similarly to the [Health

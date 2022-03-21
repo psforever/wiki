@@ -1,4 +1,4 @@
-![](images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
+![](../images/Scorpion.jpg "fig:Scorpion.jpg") Soldier launching a [Scorpion
 Missile](ammunition/Scorpion_Missile.md)\]\]
 
 |                            |                                          |
