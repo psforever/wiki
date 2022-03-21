@@ -5,7 +5,7 @@ Sons of Vanu plays on the Emerald server.
 member of the United Vanu Alliance,
 [www.commandrank5.com](http://www.commandrank5.com)
 
-_Sons of Vanu: A History, by [Rahl](user:Rahl.md)_
+_Sons of Vanu: A History, by Rahl_
 
 Late in the Beta testing of the game I was leading squads a lot. One night I had
 a particularly awesome squad. We just clicked and had a great time. We started

@@ -32,7 +32,7 @@ over an enemy base. Your [Battle Rank](../terminology/Battle_Rank.md) (BR)
 increases the more BEP you collect.
 
 With each Battle Rank you gain one
-[certification point](certification_points.md) to invest into your abilities
+[certification point](../certifications/Certification_points.md) to invest into your abilities
 like piloting certain [vehicles](category:_Vehicles.md) or using particular
 weapons. Also with Battle Rank 6, 12 and 18 you can add
 [Implants](../implants/Implants.md) to yourself that also provide new abilities.
@@ -125,8 +125,8 @@ gun") to repair things and have Nanite Canisters in your inventory.
 #### Like to be a foot soldier? (Grunt)
 
 If you feel more like fighting close combat, get a good armor certificate, like
-the [reinforced Exo-Suit](reinforced_Exo-Suit.md) (3 CP) plus some weapons
-certifications, like [Medium%20Assault](Medium.md%20Assault) (2 CP) and possibly
+the [reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) (3 CP) plus some weapons
+certifications, like [Medium Assault](../certifications/Medium_Assault.md) (2 CP) and possibly
 some extra weapons certs like [Heavy](../certifications/Heavy_Assault.md) or
 [Special Assault](../certifications/Special_Assault.md),
 [Sniping](../certifications/Sniping.md) or
@@ -202,9 +202,9 @@ This will get you either
 
 Bases can be confusing. After 3 weeks, I still havent memorized every single
 base layout. There are [Amp Stations](../locations/Amp_Station.md),
-[Bio Labs](Bio_Lab.md), [Tech Plants](Tech_Plant.md),
+[Bio Labs](../locations/Bio_Laboratory.md), [Tech Plants](../locations/Technology_Plant.md),
 [Dropship Centers](../locations/Dropship_Center.md), and
-[Interlink Facilities](../terminology/Interlink.md), each having a different
+[Interlink Facilities](../locations/Interlink.md), each having a different
 layouts and multiple stories. So I often finding myself wandering through the
 corridors, not ending up where I want to. The map only offers limited
 orientation because it only shows the level you are currently on.

@@ -1,9 +1,9 @@
-Bitol is one of the three [Bio Laboratories](Bio_Laboratory.md) on
+Bitol is one of the three [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Hossin](../locations/Hossin.md) and is in the South inside grids K14 and L14.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Voltan](Voltan.md)
+- [Interlink Facility](../locations/Interlink.md) [Voltan](Voltan.md)
   ([Capitol](../locations/Capitol.md))
 - [Amp Station](../locations/Amp_Station.md) [Ixtab](Ixtab.md)
   ([Sub-Capitol](../locations/Sub-Capitol.md))

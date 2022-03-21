@@ -9,7 +9,7 @@
 **Hacking**
 
 The **hacking** [certification](Certification.md) reduces the time needed to
-spend on [hacking](terminology/Hack.md) objects with a
+spend on [hacking](../terminology/Hack.md) objects with a
 [REK](../weapons/Remote_Electronics_Kit.md). It also grants the ability to hack
 [Certification Terminals](../items/Certification_Terminal.md),
 [Lockers](../items/Lockers.md),

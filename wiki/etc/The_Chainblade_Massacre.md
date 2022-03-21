@@ -1,4 +1,4 @@
-The Chainblade Massacre is an [Event](Event.md) held during the Halloween period
+The Chainblade Massacre is an [Event](Events.md) held during the Halloween period
 (October/November) of 2006-2008.
 
 Assassins were present and merits handed out only during the 2006 event, though
@@ -49,7 +49,7 @@ Come join the battle and the ghoulish fun.
 
 Off in the distance, you hear a voice yelling, "Stop him! He's one of them!"
 
-Within the [Terran Republic](../etc/Terran_Republic.md) a secret assassination
+Within the [Terran Republic](Terran_Republic.md) a secret assassination
 organization formed up after a difference of opinions about empire assault
 tactics and other confidential matters. This organization vowed to take down
 high officials not only in the Terran Republic but within the other empires as

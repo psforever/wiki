@@ -37,7 +37,7 @@ used to link two continents together.
 
 ### Population Locks
 
-On the Global Map, [Population Locks](Population_Lock.mdere very obvious to the
+On the Global Map, [Population Locks](Population_Lock.md) were very obvious to the
 user, as a population indicator for the player's [Empire](Empire.md) was placed
 on every continent in Auraxis that made it obvious to the player whether or not
 they could go to that continent due to population. However, with the

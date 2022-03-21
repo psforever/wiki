@@ -28,12 +28,12 @@
 **Light Scout**
 
 This "package deal" [certification](Certification.md) equates to
-[Assault Buggy](<Assault_Buggy_(Certification).md>) certification with the
+[Assault Buggy](Assault_Buggy_(Certification).md) certification with the
 addition of the [Mosquito](../vehicles/Mosquito.md) for a 1-point discount.
 
 This cert cannot be purchased if a conflicting certification is already
 possessed; in this case Assault Buggy,
-[Harasser](<Harasser_(Certification).md>), or
+[Harasser](Harasser_(Certification).md), or
 [Air Cavalry Scout](Air_Cavalry_Scout.md).
 
 <!--[Category:Certification](Category:Certification.md)-->

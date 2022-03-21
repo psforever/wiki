@@ -60,7 +60,7 @@ bubble.
 [Electronics Experts](../certifications/Electronics_Expert.md) can remove an
 enemy virus from the Aegis and also use their [REK](Remote_Electronics_Kit.md)
 to hack a friendly Aegis to provide a short-ranged
-[Interlink](../terminology/Interlink.md) benefit around it for friendly units.
+[Interlink](../locations/Interlink.md) benefit around it for friendly units.
 However, the radar is only active for friendly units that are inside the
 cloaking sphere of the Aegis. Like the ammunition upgrade, the radar eventually
 wears off over time and will need to be re-upgraded for continual use.

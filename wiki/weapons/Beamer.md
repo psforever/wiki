@@ -26,7 +26,7 @@ tendency to light a target up more than damage it.
 
 Since then, the Beamer has been powered up considerably, giving it a respectable
 damage output coupled with a small cone of fire and low bloom. The
-armor-piercing mode has a slightly bigger [Cone of Fire](../etc/Cone_of_fire.md)
+armor-piercing mode has a slightly bigger [Cone of Fire](../terminology/Cone_of_fire.md)
 than the standard mode.
 
 Shots to kill (Average on a close to medium range):

@@ -42,7 +42,7 @@ Originally, the name "Juggernaut" was given to the Terran Republic's gunner
 variant [BFR](BattleFrame_Robotics.md), which is now known as the
 [Colossus](Colossus.md).
 
-[category:Terran Republic Vehicles](category:Terran_Republic_Vehicles.md)
+<!--[category:Terran Republic Vehicles](category:Terran_Republic_Vehicles.md)-->
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Ground

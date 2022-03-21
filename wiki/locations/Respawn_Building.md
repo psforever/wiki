@@ -3,7 +3,7 @@
 [Respawn Buildings](Respawn_Building.md) placed close to the
 [HART building](HART_building.md). These locations are where any player spawns
 upon entering Sanctuary; from character creation, via
-[Recall](terminology/Recall.md), exiting [VR Training](VR_Training.md), or the
+[Recall](../terminology/Recall.md), exiting [VR Training](VR_Training.md), or the
 unlikely event of death while still in Sanctuary.
 
 Inside each building are 6 [Respawn tubes](../items/Respawn_Tube.md) and several

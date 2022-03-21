@@ -64,14 +64,14 @@ Features and Landmarks:
 
 ### Interlink Facilities
 
-- [Irkalla](facilities/Irkalla.md)
+- [Irkalla](../facilities/Irkalla.md)
 - [Neti](../facilities/Neti.md)
 
 ### Technology Plants
 
 - [Baal](../facilities/Baal.md)
 - [Girru](../facilities/Girru.md)
-- [Kusag](../Kusag.md)
+- [Kusag](../facilities/Kusag.md)
 - [Marduk](../facilities/Marduk.md)
 
 <!--[Category:Locations](Category:Locations.md)-->

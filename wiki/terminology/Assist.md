@@ -1,8 +1,3 @@
-_This article is about the game's tracking method for support players to count
-towards Support Merit Commendations. To see the Idealab concept with ASSIST as
-an acronym, see
-[Advanced Service and Supply Infantry Support Tool](../etc/Advanced_Service_and_Supply_Infantry_Support_Tool.md)._
-
 [Assists](Assist.md) are [Planetside](../etc/PlanetSide.md)'s method for
 tracking [Support Experience Points](Support_Experience_Points.md) and how
 support character gain [Merits](../merits/Merit_Commendations.md). An assist is

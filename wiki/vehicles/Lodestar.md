@@ -26,7 +26,7 @@ survival, although the Lodestar does have an
 [Afterburner](../terminology/Afterburner.md).
 
 Vehicles in transit may Hotdrop in a similar manner to infantry in a
-[Galaxy](Galaxy.md), (Default 'Alt-G') but must take extra care to ensure the
+[Galaxy](Galaxy.md) , (Default 'Alt-G') but must take extra care to ensure the
 landing area is flat and driveable. Vehicles landing on rooftops, walls,
 walkways and railings face massive damage and desconstruction.
 
@@ -55,4 +55,4 @@ The Lodestar's apparent namesake is the
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 
 Vehicles](Category:Common_Pool_Vehicles.md)
-[Category:Air Vehicles](Category:Air_Vehicles.md)
+<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->

@@ -12,7 +12,7 @@
 
 |                            |                                                                                   |
 | -------------------------- | --------------------------------------------------------------------------------- |
-| **Certification Required** | [Reinforced Exo-Suit](<../certifications/Reinforced_Exo-Suit_(Certification).md>) |
+| **Certification Required** | [Reinforced Exo-Suit](../certifications/Reinforced_Exo-Suit_(Certification).md) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                      |
 | **Armor**                  | 200                                                                               |
 | **Pistol Holsters**        | 2                                                                                 |

@@ -34,7 +34,7 @@ This continent is also refered to as
 
 ---
 
---source: Planetside In-game descriptions, pre- and post-[Bending](Bending.md).
+--source: Planetside In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 
@@ -53,7 +53,7 @@ This continent is also refered to as
 
 - [Bel](../facilities/Bel.md)
 
-### [Interlink Facilities](Interlink_Facilities.md)
+### [Interlink Facilities](Interlink.md)
 
 - [Caer](../facilities/Caer.md) (Sub-Capitol)
 - [Dagda](../facilities/Dagda.md)

@@ -4,7 +4,7 @@
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Neti](Neti.md)
+- [Interlink Facility](../locations/Interlink.md) [Neti](Neti.md)
 - [Amp Station](../locations/Amp_Station.md) [Enkidu](Enkidu.md)
 - A [Broadcast](../terminology/Broadcast.md)
   [Warpgate](../locations/Warpgate.md)

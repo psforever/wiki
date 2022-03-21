@@ -66,7 +66,7 @@ list of currently known bugs and ways to work around them.`
 - [Enhanced Targeting](../implants/Enhanced_Targeting.md) Bug
   - Description: The Enhanced Targeting [implant](../implants/Implants.md) will
     sometimes show an enemy [vehicle](../vehicles/Vehicle.md) or
-    [Wall Turret](Phalanx_Turret.md) as having almost no health left, while in
+    [Wall Turret](../items/Phalanx.md) as having almost no health left, while in
     fact they are at full health. This sometimes happens when the vehicle is
     damaged, goes out of draw distance to repair, and then draws again at a
     later time. You will see the health it had the last time you saw the

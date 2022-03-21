@@ -12,7 +12,7 @@ effectiveness in the field.
 
 Each type of armor has its own
 [certification](../certifications/Certifications.md), although the
-[Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) certification gives
+[Uni-MAX](../certifications/Uni-MAX_(Certification).md) certification gives
 access to all three types of MAX armor at a reduced cost.
 
 ## [New Conglomerate](../etc/New_Conglomerate.md)
@@ -32,7 +32,7 @@ right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25\]\]
 Anti-Infantry: [Dual-Cycler](Dual-Cycler.md) Anti-Vehicle: [Pounder](Pounder.md)
 Anti-Aircraft: [Burster](Burster.md) _Terran Republic_ MAX Units have 2 special
 abilities. The first is the ability to "lock down", doubling their rate of fire
-and reducing the [Cone of fire](../etc/Cone_of_fire.md) at the cost of no
+and reducing the [Cone of fire](../terminology/Cone_of_fire.md) at the cost of no
 movement. Aiming is possible, but the range of pivot is extremely reduced. The
 second is "overdrive" which, similar to the NC and VS MAXes, works off
 capacitor. When active, the MAX can fire at 1.5x the normal rate and still move

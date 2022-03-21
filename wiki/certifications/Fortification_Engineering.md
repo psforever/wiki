@@ -126,7 +126,7 @@ The Deployable numbers will be upgraded to:
 
 - [Spitfire Turret](#Spitfire) : From 10 to 15
 - [Boomer](#Boomer) : From 20 to 25
-- [Motion Sensor](#Motion_Sensor) : From 20 to 25
+- [Motion Sensor](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm) : From 20 to 25
 - [Heavy Explosive Mine](#HEMine) : From 20 to 25
 
 ## Increased Repair Efficiency

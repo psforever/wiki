@@ -1,11 +1,11 @@
 ![](../images/VehicleBayExterior.jpg "fig:VehicleBayExterior.jpg") from the
 outside\]\] ![](../images/VehicleBayInterior.jpg "fig:VehicleBayInterior.jpg")
-from the inside\]\] Only [Technology Plants](Technology_Plant.md) feature
+from the inside\]\] Only [Technology Plants](../locations/Technology_Plant.md) feature
 **Vehicle Bays**. The Vehicle Bay is in the basement, and is a large room with a
-[Vehicle Terminal](../Vehicle_Terminal.md). Only
+[Vehicle Terminal](../locations/Vehicle_Terminal.md). Only
 [Ground Vehicles](:category:Ground_Vehicles) can be purchased there.
 
-Once a [vehicle](../Vehicle.md) is created it is
+Once a [vehicle](../vehicles/Vehicle.md) is created it is
 [auto-driven](../terminology/Auto-drive.md) through a tunnel into the
 [Courtyard](Courtyard.md).
 

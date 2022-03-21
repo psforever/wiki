@@ -1,6 +1,6 @@
 **Voltan** is one of the [Capitol](../locations/Capitol.md) of
 [Hossin](../locations/Hossin.md), one of three
-[Interlink Facilities](../terminology/Interlink.md).
+[Interlink Facilities](../locations/Interlink.md).
 
 Located in grids K13 and L13
 

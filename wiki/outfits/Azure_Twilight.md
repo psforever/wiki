@@ -5,7 +5,7 @@ traverse [Ishundar](../locations/Ishundar.md)\]\] Azure Twilight is
 the [Galaxy](../vehicles/Galaxy.md) for coordinated attacks and powerful
 [MAX](../items/Mechanized_Assault_Exo-Suit.md) crash teams.
 
-[Francko](user:Francko.md), their outfit leader, is a talented Vanu
+Francko, their outfit leader, is a talented Vanu
 [CR5](../terminology/Command_Rank.md) and can be reached in game most evenings
 for more information about the outfit.
 

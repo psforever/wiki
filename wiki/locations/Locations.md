@@ -53,8 +53,8 @@ Locations like the [Spawn Room](Spawn_Room.md) and the
 - [Dropship Center Air Terminal Building](Dropship_Center_Air_Terminal_Building.md)
   ([Dropship Center](Dropship_Center.md) only)
 - [Generator](../items/Generator.md)
-- [Lounge](../Lounge.md)
-- [Main lobby](../Main_lobby.md)
+- Lounge
+- [Main lobby](Main_lobby.md)
 - [Medical Bay](Medical_Bay.md) ([Bio Laboratory](Bio_Laboratory.md) only)
 - [Research Room](Research_Room.md) (Bio Laboratory only)
 - [Spawn Room](Spawn_Room.md)

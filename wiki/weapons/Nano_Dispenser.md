@@ -21,9 +21,9 @@ or _repair gun_) allows for field repair of all "destroyable" equipment, i.e.,
 [medical terminals](../items/Medical_Terminal.md),
 [certification terminals](../items/Certification_Terminal.md),
 [vehicle terminals](../locations/Vehicle_Terminal.md),
-[respawn tubes](../items/Respawn_Tube.md), [TRAPs](TRAP.md),
+[respawn tubes](../items/Respawn_Tube.md), [TRAPs](Tactical_Resonance_Area_Protection.md),
 [Aegis Shield Generators](Aegis_Shield_Generator.md),
-[Motion Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm),
+[Motion Sensors](Adaptive_Construction_Engine.md#motion-sensor-alarm),
 [Sensor Disruptors](../items/Sensor_Disruptor.md),
 [implant terminals](../items/Implant_Terminal.md), and
 [generators](../items/Generator.md). Just be sure to carry an extra ammo

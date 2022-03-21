@@ -61,21 +61,19 @@
 </tbody>
 </table>
 
-### [PlanetSide Universe](PlanetSide_Universe.md) [Mobilization](../etc/Mobilization.md): [Alpha](Mobilization_Alpha.md)
+### PlanetSide_Universe Mobilization: Alpha
 
-Awarded on Nov 20 2004 and Feb 24 2005 to attendees of the event by
-[Sporkfire](Sporkfire.md).
+Awarded on Nov 20 2004 and Feb 24 2005 to attendees of the event by Sporkfire.
 
-Planetside Universe-endorsed Planetside Conference, organized by
-[Triggar](user:Triggar.md).
+Planetside Universe-endorsed Planetside Conference, organized by Triggar.
 
 August 2004, Orlando, Fl.
 
-### [Planetside Syndicate](Planetside_Syndicate.md) [Mobilization](../etc/Mobilization.md): [Bravo](Mobilization_Bravo.md)
+### [Planetside Syndicate](../etc/PlanetSide_Syndicate.md) Mobilization: Bravo
 
-Awarded to attendees of this event by [Zatozia](Zatozia.md).
+Awarded to attendees of this event by Zatozia.
 
-Planetside Syndicate Conference, organized by [Triggar](user:Triggar.md).
+Planetside Syndicate Conference, organized by Triggar.
 
 July 2005, Orlando, Fl.
 

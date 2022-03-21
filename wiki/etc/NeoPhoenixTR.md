@@ -33,8 +33,7 @@ preaching about this.
 
 I go by the alias
 [NeoPhoenixTR](http://www.planetsidestats.net/players.php?world_id=15&char_id=751022)(NeoPhoenixTE
-on the [forums](http://comms.planetsidesyndicate.com/member.php?userid=144),
-[Wiki](user:NeoPhoenixTE.md), and the rest of the net), and my main character is
+on the [forums](http://comms.planetsidesyndicate.com/member.php?userid=144), and the rest of the net), and my main character is
 an [Emerald](Emerald.md) [TR](Terran_Republic.md)
 [CR5](../terminology/Command_Rank.md). I have been playing PlanetSide for nearly
 two years now, but have always been mediocre at shooter games overall. My
@@ -177,8 +176,8 @@ side?
 The following certs are nowhere close to required, but can make a dedicated BFR
 Hunter's life easier:
 
-- [ATV](<../certifications/ATV_(Certification).md>)
-- [Harasser](<../certifications/Harasser_(Certification).md>)
+- [ATV](../certifications/ATV_(Certification).md)
+- [Harasser](../certifications/Harasser_(Certification).md)
 
 ATV and Harasser serve as a way to keep yourself from _ever_ waiting at a
 vehicle pad. Though these vehicles are not as effective as Air Cavalry for

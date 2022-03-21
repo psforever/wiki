@@ -24,7 +24,7 @@ The Flight Variant of the Peregrine is the [Eagle](Eagle.md).
 The pilot weapons available to the Peregrine are:
 
 - The [Hammer](../items/Hammer.md) (Anti-Infantry)
-- The [Sparrow](<Sparrow_(BFR).md>) Missile Pod (Anti-Aircraft)
+- The [Sparrow](../items/Sparrow_(BFR).md) Missile Pod (Anti-Aircraft)
 - The [Anti-Tank Machine Gun](../weapons/Anti-Tank_Machine_Gun.md)
   (Anti-Vehicular)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
@@ -44,7 +44,7 @@ Peregrine, operating with a full crew of pilot and gunner. Equipped with two
 The gunner weapons available to the Peregrine are
 
 - The [Particle Cannon](../weapons/Particle_Cannon.md) (Anti-Vehicular)
-- The [Rocket Pod](<Rocket_Pod_(BFR).md>) (Anti-Infantry)
+- The [Rocket Pod](../items/Rocket_Pod_(BFR).md) (Anti-Infantry)
 
 Only one gunner weapon can be used at a time.
 

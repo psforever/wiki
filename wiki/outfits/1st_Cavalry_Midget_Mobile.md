@@ -11,7 +11,7 @@ and skills. Together, we form an unparalleled small force capable of tackling
 enormous challenges, whilst maintaining a calm, professional and engaging
 environment that promotes fun, teamwork and fair play.
 
-Current Outfit Leader: [Fayaz](user:Fayaz.md)
+Current Outfit Leader: Fayaz
 
 Past Outfit Leaders: Fidelio, Xenetic
 

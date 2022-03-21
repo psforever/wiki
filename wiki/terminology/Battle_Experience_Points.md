@@ -5,7 +5,7 @@ in [Battle Rank](Battle_Rank.md).
 
 There are four principle ways to earn Battle Experience Points:
 
-Kills : Killing enemies earns experience, based on how long they have been alive
+Kills: Killing enemies earns experience, based on how long they have been alive
 (longer equals more BEP, although there is a cap) and what sort of
 armor/vehicles they are using (bigger equals more BEP). A trooper fresh out of
 the respawn tube who hasn't had time to equip anything is worth 1 BEP, whereas a
@@ -19,19 +19,16 @@ driving will also earn you experience (driver and all gunners share the
 experience, but not passengers), whether you are in a [Squad](Squad.md) together
 or not.
 
-<!-- -->
-
-Facility Captures : The formula used to calculate this amount is complex, and is
+Facility Captures: The formula used to calculate this amount is complex, and is
 based on how many unique enemies and squadmates were within the
 [SOI](../locations/Sphere_of_Influence.md) during the ten minutes prior to and
 during the hack itself and for how long. This figure caps at 2250 BEP per
-capture. See
+capture.
+<!-- See
 [this link](http://forums.station.sony.com/ps/posts/list.m?topic_id=22100000022)
-for a more detailed explaination.
+for a more detailed explaination. -->
 
-<!-- -->
-
-Training : Experimenting with new things earns experience. Usually only relevant
+Training: Experimenting with new things earns experience. Usually only relevant
 to very new soldiers, any object with a hovering gold/yellow exclamation mark
 logo above it will generate a pop-up window explanation and some BEP upon closer
 inspection. This rarely goes over 200 BEP a time, but can be helpful at early
@@ -40,11 +37,9 @@ continent for the first time, using a looted gun for the first time, discovering
 [Monoliths](../items/Monolith.md) and so on, but are only ever awarded once.
 (See the Character Info 'Training' tab to keep track of these.)
 
-<!-- -->
-
-ANT Runs : A soldier successfully refueling a facility using an
+ANT Runs: A soldier successfully refueling a facility using an
 [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md) (or
-[BFR](../BattleFrame_Robotics.md) [NTU Siphon](../weapons/NTU_Siphon.md)) earns
+[BFR](../vehicles/BattleFrame_Robotics.md) [NTU Siphon](../weapons/NTU_Siphon.md)) earns
 experience. The experience gained varies depending how
 muc../items/NTU.md./NTU.md) the base requires to reach 100% capacity, and is
 rationed out to the ANT owner in 20 BEP ticks during refueling. Squad mates

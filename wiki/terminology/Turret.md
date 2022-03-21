@@ -7,8 +7,8 @@ There are several kinds of Turrets in Planetside:
 - [Ancient Sentry Turret](../items/Ancient_Sentry_Turret.md) - found in all
   [Caverns](../locations/Caverns.md)
 - [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md) - an
-  [empire](Empire.md)-specific deployable turret created by an [FDU](FDU.md)
-- [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret) -
+  [empire](Empire.md)-specific deployable turret created by an [FDU](../weapons/Field_Deployment_Unit.md)
+- [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) -
   a deployable turret created by an
   [ACE](../weapons/Adaptive_Construction_Engine.md)
 - [Shadow Turret](../weapons/Shadow_Turret.md) - a cloaked version of the

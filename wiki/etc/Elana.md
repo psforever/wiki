@@ -7,7 +7,7 @@
 
 <h3>
 
-Tactics (by [Elana](User:Elana.md))
+Tactics (by Elana)
 
 </h3>
 

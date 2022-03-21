@@ -46,7 +46,7 @@ There are many different waypoints in [PlanetSide](../etc/PlanetSide.md):
 
 - **Laze Pointer Waypoint**: With the
   [Laze Pointer](../weapons/Laze_Pointer.md), any soldier can set a temporary
-  waypoint for use as a target for a [Flail](../items/Flail.md) or a
+  waypoint for use as a target for a [Flail](../vehicles/Flail.md) or a
   [Liberator](../vehicles/Liberator.md) bombing run. This will be color-coded
   and marked with the squad member's number.
 

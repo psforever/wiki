@@ -29,7 +29,7 @@ Securing the hack
 </h3>
 
 Ultimately, control of a base comes down to controlling
-[spawn points](spawn_point.md). If you can [spawn](Spawn.md) at a base and the
+[spawn points](../terminology/Spawn_point.md). If you can [spawn](../terminology/Respawn.md) at a base and the
 enemy cannot, you will win most of the time. It is possible for well coordinated
 forces to retake a CC without having a nearby spawn point but it is far more
 difficult to do so.

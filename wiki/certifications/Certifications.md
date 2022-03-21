@@ -62,7 +62,7 @@ Advanced Engineering 5 Combat Engineering
 
 Hacking 3
 
-Advanced Hacking 2 [Hacking](Hacking.md)
+Advanced Hacking 2 Hacking
 
 [Expert Hacking](Expert_Hacking.md) 2 Advanced Hacking
 
@@ -90,7 +90,7 @@ Cost Pre-Requisite
 
 [ATV](../vehicles/ATV.md) 1
 
-[Assault Buggy](<Assault_Buggy_(Certification).md>) 3
+[Assault Buggy](Assault_Buggy_(Certification).md) 3
 
 [Armored Assault I](Armored_Assault_I.md) 2
 
@@ -106,7 +106,7 @@ Cost Pre-Requisite
 [BFR Anti-Infantry](BFR_Anti-Infantry.md) 1
 [BFR](../vehicles/BattleFrame_Robotics.md)
 
-[Flail](../items/Flail.md) 1 [Armored Assault II](Armored_Assault_II.md)
+[Flail](../vehicles/Flail.md) 1 [Armored Assault II](Armored_Assault_II.md)
 
 [Galaxy Gunship](../vehicles/Galaxy_Gunship.md) 2 [Air Support](Air_Support.md)
 

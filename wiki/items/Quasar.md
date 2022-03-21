@@ -2,7 +2,7 @@
 
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
+| **Certification Required** | [Anti-Infantry MAX](../certifications/Anti-Infantry_MAX_(Certification).md) or [Uni-MAX](../certifications/Uni-MAX_(Certification).md) |
 | **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Standard Bolts                                                                                                                             |
@@ -14,7 +14,7 @@
 **Quasar**
 
 The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
-[Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>)—the
+[Anti-Infantry MAX](../certifications/Anti-Infantry_MAX_(Certification).md)—the
 **Quasar**—rapidly fires energy bolts similar to the
 [Pulsar](../weapons/Pulsar.md) rifle. While definitely best-suited for an
 Anti-Infantry role, its Secondary Fire does better against armored targets, like

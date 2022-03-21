@@ -14,7 +14,7 @@ status.
 A continent can be reached by traveling through the [warpgates](Warpgate.md) or
 [broadcast warpgates](../items/Broadcast_warpgate.md), and via the
 [HART Shuttle](../terminology/HART.md) system located in each Empire's
-[Sanctuary](Sanctuary.md). It can also be reached by selecting
+[Sanctuary](../locations/Sanctuary.md). It can also be reached by selecting
 [Instant Action](../terminology/Instant_Action.md) from your Esc
 [Menu](../etc/Menu.md).
 

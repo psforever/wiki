@@ -15,7 +15,7 @@ equipped with the Fusion Blade in Secondary Mode\]\]
 
 **Fusion Blade**
 
-**Only attendees of the 2007, 2009-2011 Las Vegas [Fan Faires](Fan_Faire.md) and
+**Only attendees of the 2007, 2009-2011 Las Vegas Fan Faires and
 [Black Ops](../terminology/Black_Ops.md) can currently obtain the Fusion Blade**
 
 The Fusion Blade was awarded to attendees of the 2007, 2009-2011 Las Vegas Fan
@@ -38,7 +38,7 @@ sound when in Secondary Mode. The damage for both modes is the same and the only
 difference between the two modes is the speed of the slashes.
 
 In both modes, the Fusion Blade will deal 19 [Health](../terminology/Health.md)
-and 6 Armor damage to all [armors](Armor.md) (Full Health and Armor, no
+and 6 Armor damage to all [armors](../armor/Armor_Index.md) (Full Health and Armor, no
 [Implants](../implants/Implants.md) or [MedKits](../items/MedKit.md)).
 
 <!--[Category:Weapons](Category:Weapons.md)-->

@@ -39,7 +39,7 @@ has the [Darklight](../implants/Darklight.md)
 [cloaked](../items/Infiltration_Suit.md) enemies at a longer range than normal,
 providing excellent side defense.
 
-[category:New Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md)
+<!--[category:New Conglomerate Vehicles](category:New_Conglomerate_Vehicles.md)-->
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Ground

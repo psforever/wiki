@@ -2,7 +2,7 @@ Sungrey is one of the two [Amp Stations](../locations/Amp_Station.md) on
 [Amerish](../locations/Amerish.md). Sungrey is located in North Amerish in grid
 L7 and has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Qumu](Qumu.md)
+- [Interlink Facility](../locations/Interlink.md) [Qumu](Qumu.md)
 - [Technology Plant](../locations/Technology_Plant.md) [Tumas](Tumas.md)
 - [Dropship Center](../locations/Dropship_Center.md) [Azeban](Azeban.md)
 - Amerish's Center Broadcast Warpgate

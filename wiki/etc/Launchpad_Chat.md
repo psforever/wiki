@@ -15,7 +15,7 @@ often frequent the Emerald chat room as well.
 
 The customer service staff are all moderators and thats who you usualy find in
 the chat room. Usualy around the time of a playtest the producer
-([Zatozia](Zatozia.md)) and sometimes a quality assurance team member will
+(Zatozia) and sometimes a quality assurance team member will
 arrive to talk to the players before the play test. Also when major events
 happen on the servers members of the team can sometimes be found here.
 

@@ -1,11 +1,11 @@
 ![](../images/LLU.jpg "fig:LLU.jpg")\]\] The **LLU** (Lattice Logic Unit) is a
 small, spherical shaped object which spawns within special bases (called LLU
-[bases](Facility.md)) in a space called the
+[bases](../locations/Facilities.md)) in a space called the
 [Lattice Logic Unit Socket](../locations/Lattice_Logic_Unit_Socket.md) when that
 base is hacked.
 
 The [LLU](Lattice_Logic_Unit.md) must be delivered to the specified friendly
-[facility](Facility.md) (indicated by the [Lattice](../Lattice.md) link flashing
+[facility](../locations/Facilities.md) (indicated by the [Lattice](Lattice.md) link flashing
 on the [Continental Map](../etc/Continental_Map.md) screen) within 15 minutes
 for the hack to succeed. If the LLU contacts water, the hack is canceled. If you
 are the LLU runner, the destination base will have a reddish

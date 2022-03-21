@@ -14,8 +14,8 @@ buildings, terminals, and vital functions.
 - [Amp Station](Amp_Station.md)
 - [Bio Laboratory](Bio_Laboratory.md)
 - [Dropship Center](Dropship_Center.md)
-- [Interlink Facility](../terminology/Interlink.md)
-- [Technology Plant](Technology_Plant.md)
+- [Interlink Facility](Interlink.md)
+- [Technology Plant](../locations/Technology_Plant.md)
 
 ### Cavern Facilities
 
@@ -35,7 +35,7 @@ buildings, terminals, and vital functions.
 ### General Base Features
 
 - [BFR Shed](../items/BFR_Shed.md)
-- [Control Console](Control_Console.md)
+- [Control Console](../locations/Control_Console.md)
 - [Courtyard](Courtyard.md)
 - [Equipment terminal](../items/Equipment_Terminal.md)
 - [Generator](../items/Generator.md)
@@ -50,7 +50,7 @@ buildings, terminals, and vital functions.
 - [Phalanx Wall Turrets](../items/Phalanx.md)
 - [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md)
 - [Respawn tubes](../items/Respawn_Tube.md)
-- [Vehicle Terminal](Vehicle_Terminal.md)
+- [Vehicle Terminal](../locations/Vehicle_Terminal.md)
 
 ### Specific Base Features
 
@@ -59,7 +59,7 @@ buildings, terminals, and vital functions.
 - [Certification Terminal](../items/Certification_Terminal.md) (Bio Laboratory
   and Sanctuary only)
 - [Implant Terminal](../items/Implant_Terminal.md) (Bio Laboratory and
-  [Sanctuary](Sanctuary.md) only)
+  [Sanctuary](../locations/Sanctuary.md) only)
 - [Lattice Logic Unit Socket](Lattice_Logic_Unit_Socket.md)
   ([LLU](../terminology/Lattice_Logic_Unit.md) Facilities only)
 
@@ -120,7 +120,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Bomazi](../facilities/Bomazi.md)
 - [Chuku](../facilities/Chuku.md)
 - [Ekera](../facilities/Ekera.md)
-- [Faro](../Faro.md)
+- [Faro](../facilities/Faro.md)
 - [Gunuku](../facilities/Gunuku.md)
 - [Honsi](Honsi.md)
 - [Itan](../facilities/Itan.md)
@@ -206,7 +206,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 
 #### [Ascension](Oshur.md#Ascension)
 
-- [Rashnu](../etc/Rashnu.md)
+- [Rashnu](../facilities/Rashnu.md)
 - [Sraosha](../facilities/Sraosha.md)
 - [Zal](../facilities/Zal.md)
 
@@ -271,8 +271,8 @@ Capturable Facilities: 36
 - [AT Plant](AT_Plant.md) Southeast, Adlivun
 - [Module Building](Module_Building.md) Northeast
 - [Module Building](Module_Building.md) Southwest
-- [Redoubt](Redoubt.md) Northwest, Adlivun
-- [Redoubt](Redoubt.md) Southeast, Adlivun
+- [Redoubt](Redoubt_Building.md) Northwest, Adlivun
+- [Redoubt](Redoubt_Building.md) Southeast, Adlivun
 
 ### [Annwn](Annwn.md)
 
@@ -282,8 +282,8 @@ Capturable Facilities: 36
 - [AT Plant](AT_Plant.md) Southeast, Annwn
 - [Module Building](Module_Building.md) Northwest
 - [Module Building](Module_Building.md) Southeast
-- [Redoubt](Redoubt.md) Northwest, Annwn
-- [Redoubt](Redoubt.md) Southeast, Annwn
+- [Redoubt](Redoubt_Building.md) Northwest, Annwn
+- [Redoubt](Redoubt_Building.md) Southeast, Annwn
 
 ### [Byblos](Byblos.md)
 
@@ -293,8 +293,8 @@ Capturable Facilities: 36
 - [AT Plant](AT_Plant.md) South, Byblos
 - [Module Building](Module_Building.md) North, Byblos
 - [Module Building](Module_Building.md) South, Byblos
-- [Redoubt](Redoubt.md) North, Byblos
-- [Redoubt](Redoubt.md) South, Byblos
+- [Redoubt](Redoubt_Building.md) North, Byblos
+- [Redoubt](Redoubt_Building.md) South, Byblos
 
 ### [Drugaskan](Drugaskan.md)
 
@@ -304,8 +304,8 @@ Capturable Facilities: 36
 - [AT Plant](AT_Plant.md) South, Drugaskan
 - [Module Building](Module_Building.md) North, Drugaskan
 - [Module Building](Module_Building.md) South, Drugaskan
-- [Redoubt](Redoubt.md) North, Drugaskan
-- [Redoubt](Redoubt.md) South, Drugaskan
+- [Redoubt](Redoubt_Building.md) North, Drugaskan
+- [Redoubt](Redoubt_Building.md) South, Drugaskan
 
 ### [Hunhau](Hunhau.md)
 
@@ -315,8 +315,8 @@ Capturable Facilities: 36
 - [AT Plant](AT_Plant.md) South, Hunhau
 - [Module Building](Module_Building.md) North, Hunhau
 - [Module Building](Module_Building.md) South, Hunhau
-- [Redoubt](Redoubt.md) North, Hunhau
-- [Redoubt](Redoubt.md) South, Hunhau
+- [Redoubt](Redoubt_Building.md) North, Hunhau
+- [Redoubt](Redoubt_Building.md) South, Hunhau
 
 ### [Supai](Supai.md)
 
@@ -326,7 +326,7 @@ Capturable Facilities: 36
 - [AT Plant](AT_Plant.md) South, Supai
 - [Module Building](Module_Building.md) North, Supai
 - [Module Building](Module_Building.md) South, Supai
-- [Redoubt](Redoubt.md) North, Supai
-- [Redoubt](Redoubt.md) South, Supai
+- [Redoubt](Redoubt_Building.md) North, Supai
+- [Redoubt](Redoubt_Building.md) South, Supai
 
 <!--[Category:Locations](Category:Locations.md)-->

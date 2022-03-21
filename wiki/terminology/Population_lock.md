@@ -5,7 +5,7 @@ capacity for each world is figured to be roughly 500-550 players.
 If a continent is [pop locked](Acronyms_and_Slang.md), any player warping to the
 planet via a [warpgate](../locations/Warpgate.md) or
 [broadcast warpgate](../items/Broadcast_warpgate.md) will enter the
-[warp queue](warp_queue.md) until such time as server slots are freed up.
+[warp queue](Warp_queue.md) until such time as server slots are freed up.
 
 Each Empire is currently allowed roughly 133 troops per continent, or 13 full
 [squads](Squad.md).

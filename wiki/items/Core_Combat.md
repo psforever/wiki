@@ -96,7 +96,7 @@ There are two methods of transportation unique to the caverns. These are
 
 ## Vehicles
 
-- [Flail](Flail.md)
+- [Flail](../vehicles/Flail.md)
 - [Router](../vehicles/Router.md)
 - [Switchblade](Switchblade.md)
 

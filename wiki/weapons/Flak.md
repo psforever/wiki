@@ -29,10 +29,10 @@ Used by:
 
 - [Burster](../items/Burster.md) Anti Air MAX
   ([Terran Republic](../etc/Terran_Republic.md))
-- [Skyguard](../items/Skyguard.md) Medium Buggy
+- [Skyguard](../vehicles/Skyguard.md) Medium Buggy
   ([Common Pool](../terminology/Common_Pool.md))
 - [Invader](../items/Invader.md), [Colossus](../vehicles/Colossus.md)
-  [Burster](<Burster_(BFR).md>) [BFR](../vehicles/BattleFrame_Robotics.md)
+  [Burster](../items/Burster_(BFR).md) [BFR](../vehicles/BattleFrame_Robotics.md)
   Weapon ([Terran Republic](../etc/Terran_Republic.md))
 - [Rocklet Rifle](Rocklet_Rifle.md) loaded with
   [Fragmentation Grenade Pack](../items/Fragmentation_Grenade_Pack.md)

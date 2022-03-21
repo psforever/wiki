@@ -42,12 +42,12 @@ The T-REK is also capable of infecting enemy equipment with a virus, turning it
 against their former owners. The following equipment can be infected so that it
 will hinder the enemy instead of helping them:
 
-- Enemy [Spitfire Turrets](Spitfire_Turret.md) and
+- Enemy [Spitfire Turrets](Adaptive_Construction_Engine.md#spitfire-turret) and
   [Wall Turrets](../items/Phalanx.md) can be infected, causing them to attack
   their own Empire
 - Enemy [Aegis Shield Generators](Aegis_Shield_Generator.md) can be infected so
   that they emit a [Pain Field](../terminology/Pain_Field.md)
-- Enemy [Motion Sensors](Motion_Sensor.md) can be infected causing them to
+- Enemy [Motion Sensors](Adaptive_Construction_Engine.md#motion-sensor-alarm) can be infected causing them to
   display friendly units as enemies on radar.
 
 The primary fire of the T-REK contains 4 shots (similar to the

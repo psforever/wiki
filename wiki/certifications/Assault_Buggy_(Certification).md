@@ -27,7 +27,7 @@
 
 **Assault Buggy**
 
-The [Skyguard](../items/Skyguard.md) requires a
+The [Skyguard](../vehicles/Skyguard.md) requires a
 [Technology Plant](../locations/Technology_Plant.md) in order to be purchasable.
 
 Due to the Open-Air Compartment, it is possible to drive all of these

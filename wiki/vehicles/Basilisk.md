@@ -4,7 +4,7 @@
 | -------------------------- | ------------------------------------------------------------------- |
 | **Type**                   | ATV                                                                 |
 | **Role**                   | Rapid Response/Escort                                               |
-| **Certification Required** | [ATV](<../certifications/ATV_(Certification).md>)                   |
+| **Certification Required** | [ATV](../certifications/ATV_(Certification).md)                   |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                        |
 | **Primary Weapon**         | 2 12mm Rotary Chainguns                                             |
 | **Secondary Weapon**       | \-                                                                  |

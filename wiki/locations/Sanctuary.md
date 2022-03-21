@@ -27,7 +27,7 @@ Are you in need of hands-on training with any of the weapons or vehicles
 available to your Empire? Go to [VR training](VR_Training.md) around the corner
 from the [Respawn Building](Respawn_Building.md) doors.
 
-And finally, there are three [Villas](Villa.md) around your Sanctuary island.
+And finally, there are three [Villas](Sanctuary_Villa.md) around your Sanctuary island.
 Sometimes it's convenient to meet a friend at one of those Villas. To get there
 easily, step into one of the [teleporters](../terminology/Teleporter.md) near
 the [HART Shuttle building](HART_building.md).

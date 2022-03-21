@@ -1,7 +1,7 @@
 Installing this [module](Modules.md) provides the
 [module benefit](Module_benefit.md) of allowing the purchase, repair, and
 capacitor recharging of [Ancient-Tech](../terminology/Ancient_Technology.md)
-vehicles: [Flail](../items/Flail.md) and [Switchblade](../items/Switchblade.md).
+vehicles: [Flail](../vehicles/Flail.md) and [Switchblade](../items/Switchblade.md).
 The vehicles can repair at the
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) and can recharge their
 capacitors at either [Landing Pads](../items/Landing_Pad.md) or Repair/Rearm

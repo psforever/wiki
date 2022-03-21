@@ -210,7 +210,7 @@
 </table>
 
 This Merit is awarded for kills scored by Friendly Soldiers after they have
-passed through a [Router](../vehicles/Router.md) [Telepad](../Telepad.md) that
+passed through a [Router](../vehicles/Router.md) [Telepad](../weapons/Telepad.md) that
 you deployed.
 
 <!--[category:merits](category:merits.md)-->

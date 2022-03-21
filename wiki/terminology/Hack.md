@@ -7,7 +7,7 @@ A facility's [Control Console](../locations/Control_Console.md) must be
 **hacked** for the base and its benefits to switch to your Empire.
 
 Any soldier can hack if they have the REK. A soldier with the
-[Hacking](<../certifications/Hacking_(Certification).md>) certification will be
+[Hacking](../certifications/Hacking_(Certification).md) certification will be
 able to hack faster, and
 [Advanced Hacking](../certifications/Advanced_Hacking.md) even more quickly.
 

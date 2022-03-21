@@ -13,7 +13,7 @@
 | [Towers](Towers.md):             | 18                                                                                  |
 | Active [Warpgates](Warpgate.md): | 4                                                                                   |
 | Active [Geowarps](Geowarp.md):   | 1                                                                                   |
-| [Capitol](Capitol.md):           | [Interlink Facility](../terminology/Interlink.md) [Voltan](../facilities/Voltan.md) |
+| [Capitol](Capitol.md):           | [Interlink Facility](Interlink.md) [Voltan](../facilities/Voltan.md) |
 
 ## Description
 
@@ -28,7 +28,7 @@ easiest, much to their later dismay.
 The [continent](Continent.md) is divided by a river in the center which splits
 and surrounds an island on its way through the continent. On this island is the
 [Capitol](Capitol.md) of Hossin, [Voltan](../facilities/Voltan.md), an
-[Interlink Facility](../terminology/Interlink.md).
+[Interlink Facility](Interlink.md).
 
 Hossin is a [Home Continent](Home_Continent.md). A [Sanctuary](Sanctuary.md)
 warpgate links to the [Mulac](../facilities/Mulac.md) Technology Plant in the
@@ -43,7 +43,7 @@ empire sanctuary links.
 This continent is also refered to as
 [Hos](../terminology/Acronyms_and_Slang.md).
 
-Source: PlanetSide In-game descriptions, pre- and post-[Bending](Bending.md).
+Source: PlanetSide In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 
@@ -51,17 +51,17 @@ Source: PlanetSide In-game descriptions, pre- and post-[Bending](Bending.md).
 
 - [Ixtab](../facilities/Ixtab.md) ([Sub-Capitol](Sub-Capitol.md))
 
-### [Bio Laboratories](Bio_Laboratories.md)
+### [Bio Laboratories](Bio_Laboratory.md)
 
 - [Acan](../facilities/Acan.md) (Sub-Capitol)
 - [Bitol](../facilities/Bitol.md) (Sub-Capitol)
 - [Zotz](../facilities/Zotz.md)
 
-### [Dropship Centers](Dropship_Centers.md)
+### [Dropship Centers](Dropship_Center.md)
 
 - [Naum](../facilities/Naum.md) (Sub-Capitol)
 
-### [Interlink Facilities](Interlink_Facilities.md)
+### [Interlink Facilities](Interlink.md)
 
 - [Hurakan](../facilities/Hurakan.md)
 - [Kisin](../facilities/Kisin.md)

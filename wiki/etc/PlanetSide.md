@@ -128,7 +128,7 @@ system. Players can gain
 [Battle Experience Points](../terminology/Battle_Experience_Points.md) to gain
 [Battle Ranks](../terminology/Battle_Rank.md) which can be used to get
 [certifications](../certifications/Certification.md),
-[implants](../implants/Implants.md), and [uniform upgrades](uniform_upgrade.md).
+[implants](../implants/Implants.md), and uniform upgrades.
 Also, through leading, a player can gain
 [Command Experience Points](../terminology/Command_Experience_Points.md) to gain
 [Command Ranks](../terminology/Command_Rank.md), which give the players
@@ -138,7 +138,7 @@ different command related abilities.
 
 The game is still being actively supported by
 [Sony Online Entertainment](Sony_Online_Entertainment.md), with a patch being
-released about once a month. These [patches](terminology/Patch.md) usually focus
+released about once a month. These [patches](../terminology/Patch.md) usually focus
 on fixing in-game bugs and adding new content. PlanetSide also has a
 [Test Server](Test_Server.md) like other online games to test changes before
 they go onto live servers.
@@ -189,11 +189,11 @@ timer to when they will be opened.
 #### Ancient Modules
 
 With these caverns came the addition of [modules](Modules.md). These are
-powerful tools, which, when installed in a surface [facility](Facility.md),
+powerful tools, which, when installed in a surface [facility](../locations/Facilities.md),
 grant that facility and all other friendly facilities in the lattice certain
 benefits. The six types of modules are
 [equipment](../items/Equipment_Module.md), [health](../items/Health_Module.md),
-[pain](../etc/Pain_Module.md), [shield](../items/Shield_Module.md),
+[pain](Pain_Module.md), [shield](../items/Shield_Module.md),
 [speed](Speed_Module.md), and [vehicle](Vehicle_Module.md).
 
 #### Criticism
@@ -236,7 +236,6 @@ Aftershock marked the introduction of a new gameplay element,
 - [Core Combat](../items/Core_Combat.md)
 - [Events](Events.md)
 - [Patches](../patches/Patches.md)
-- [PlanetSide Next](PlanetSide_Next.md)
 
 ## External Links
 

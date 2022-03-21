@@ -12,7 +12,7 @@ or accepting [platoon](Platoon.md) invites.
 The Squad Leader gains [Battle Experience Points](Battle_Experience_Points.md)
 for kills as any other member of the squad, but gains
 [Command Experience Points](Command_Experience_Points.md) instead of Battle
-Experience during [facility](Facility.md) captures. Only the squad leader gains
+Experience during [facility](../locations/Facilities.md) captures. Only the squad leader gains
 CEP in this way; all other squad members gain BEP during captures, as normal.
 
 The Squad Leader also has access to list the squad in the players menu with a

@@ -1,5 +1,5 @@
 A Sub-Capitol is any one of four [facilities](Facilities.md) located on each
-[Empire](../terminology/Empire.md)'s home [continents](Continent.md) which is
+[Empire](../terminology/Empire.md)'s home [continents](../locations/Continent.md) which is
 connected via a green lattice link to the [capitol](Capitol.md) facility.
 [Sub-Capitols](Sub-Capitol.md) play an important role in the capture of capitol
 [bases](Facilities.md) as they are the only way to disable the facility's
@@ -30,6 +30,6 @@ can you disable this shield. The only way to successfully hack the
   [Freyr](../facilities/Freyr.md), [Mani](../facilities/Mani.md))
 - [Amerish](Amerish.md): [Verica](../facilities/Verica.md)
   ([Cetan](../facilities/Cetan.md), [Mekala](../facilities/Mekala.md),
-  [Sungrey](../Sungrey.md), [Qumu](../facilities/Qumu.md))
+  [Sungrey](../facilities/Sungrey.md), [Qumu](../facilities/Qumu.md))
 
 <!--[Category:Locations](Category:Locations.md)-->

@@ -1,4 +1,4 @@
-Hurakan is one of the three [Interlink Facilities](../terminology/Interlink.md)
+Hurakan is one of the three [Interlink Facilities](../locations/Interlink.md)
 on [Hossin](../locations/Hossin.md). It is in the South West, in grid E13.
 
 It has [Lattice](../terminology/Lattice.md) Links to:

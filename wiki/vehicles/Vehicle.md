@@ -1,5 +1,5 @@
 ![](../images/Vanguard_threefourths.jpg "fig:Vanguard_threefourths.jpg")
-[Vanguard](../vehicles/Vanguard.md)
+[Vanguard](Vanguard.md)
 [Medium Battle Tank](../items/Medium_Battle_Tank.md).\]\] [Vehicles](Vehicle.md)
 are an essential part to [PlanetSide](../etc/PlanetSide.md) as they are the main
 mode of transport between [facilities](../locations/Facilities.md) and are the
@@ -11,7 +11,7 @@ Planetside currently has 38 different ground and air vehicles (not including
 [HART](../terminology/HART.md) shuttles and [Drop Pods](../items/Drop_Pod.md)),
 each with radically different attributes. Almost every vehicle has at least one
 type of onboard weapons system - the exceptions are the
-[AMS](../vehicles/Advanced_Mobile_Station.mdvehicles/Advanced_Nanite_Transport.mdnsport.md),
+[AMS](Advanced_Mobile_Station.md),
 [Lodestar](Lodestar.md), [Phantasm](Phantasm.md), [Router](Router.md), and
 [Wraith](Wraith.md) (though all have important capabilities). Some vehicles are
 only available to members of a particular [Empire](../terminology/Empire.md),
@@ -38,13 +38,13 @@ certification management is important when applying for certain vehicles.
 The list of vehicular certifications is as follows:
 
 - [ATV](ATV.md)
-  - [Switchblade](<../certifications/Switchblade_(Certification).md>)
+  - [Switchblade](../certifications/Switchblade_(Certification).md)
 - [Harasser](Harasser.md)
 - [Light Scout](../certifications/Light_Scout.md)
-- [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>)
+- [Assault Buggy](../certifications/Assault_Buggy_(Certification).md)
 - [Armored Assault I](../certifications/Armored_Assault_I.md)
   - [Armored Assault II](../certifications/Armored_Assault_II.md)
-    - [Flail](../items/Flail.md)
+    - [Flail](Flail.md)
     - [BattleFrame Robotics](BattleFrame_Robotics.md)
       - [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)
       - [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)
@@ -57,9 +57,9 @@ The list of vehicular certifications is as follows:
   - [Air Cavalry, Interceptor](../certifications/Air_Cavalry_Interceptor.md)
     (Light Scout can be used in place of Air Cavalry, Scout as a pre-requisite)
 - [Air Support](../certifications/Air_Support.md)
-  - [Galaxy Gunship](<../certifications/Galaxy_Gunship_(Certification).md>)
-- [Phantasm](<../certifications/Phantasm_(Certification).md>) (requires
-  [Infiltration Suit](<../certifications/Infiltration_Suit_(Certification).md>))
+  - [Galaxy Gunship](../certifications/Galaxy_Gunship_(Certification).md)
+- [Phantasm](../certifications/Phantasm_(Certification).md) (requires
+  [Infiltration Suit](../certifications/Infiltration_Suit_(Certification).md))
 
 In addition, any player has access to the
 [Advanced Nanite Transport](Advanced_Nanite_Transport.md).
@@ -74,7 +74,7 @@ The vehicles and their requirements are listed below:
 
 [Vulture](Vulture.md) : [Bomber Ace Bronze](../merits/Bomber_Ace.md)
 Flight-Variant BFRs ([Invader](../items/Invader.md), [Eclipse](Eclipse.md), or
-[Eagle](Eagle.md)) : [BFR Basic]../merits/BFR\_(Merit).md)
+[Eagle](Eagle.md)) : [BFR Basic](../merits/BFR_(Merit).md)
 
 ### Vehicle Terminal
 
@@ -91,13 +91,13 @@ in which the timer is reduced to 2:30.
 In short, vehicles that are under
 [Air Cavalry Scout](../certifications/Air_Cavalry_Scout.md),
 [Air Cavalry Assault](../certifications/Air_Cavalry_Assault.md), the
-[Liberator](Liberator.md) and the [Vulture](Vulture.md) from
+[Liberator](Liberator.md)  and the [Vulture](Vulture.md) from
 [Air Support](../certifications/Air_Support.md) and the [Phantasm](Phantasm.md)
 can be purchased at Air Vehicle Terminals. All of the above vehicles as well as
-the [Galaxy](Galaxy.md), [Galaxy Gunship](Galaxy_Gunship.md) and
+the [Galaxy](Galaxy.md) , [Galaxy Gunship](Galaxy_Gunship.md) and
 [Lodestar](Lodestar.md) from [Air Support](../certifications/Air_Support.md) can
 be purchased at a Dropship Vehicle Terminal. [BFR](BattleFrame_Robotics.md)'s
-can only be purchased at [BFR Terminals](BFR_Terminals.md). Any other vehicle
+can only be purchased at [BFR Terminals](../items/BFR_Shed.md). Any other vehicle
 can be purchased from a Ground Vehicle Terminal.
 
 However, there are still some other restrictions. Certain vehicles require a
@@ -111,9 +111,9 @@ The vehicles that are restricted by this are:
 - [Liberator](Liberator.md)
 - [Vulture](Vulture.md)
 - [Magrider](Magrider.md)
-- [Vanguard](../vehicles/Vanguard.md)
+- [Vanguard](Vanguard.md)
 - [Prowler](Prowler.md)
-- [Skyguard](../items/Skyguard.md)
+- [Skyguard](Skyguard.md)
 - [Wasp](Wasp.md)
 - [Phantasm](Phantasm.md)
 
@@ -125,7 +125,7 @@ installed. Alternately, these vehicles can always be purchased in any of the six
 vehicles under this restriction are:
 
 - [Switchblade](../items/Switchblade.md)
-- [Flail](../items/Flail.md)
+- [Flail](Flail.md)
 
 ### Armor Requirements
 
@@ -145,16 +145,16 @@ vehicles" are:
 - [Marauder](Marauder.md)
 - [Thresher](Thresher.md)
 - [Enforcer](Enforcer.md)
-- [Skyguard](../items/Skyguard.md)
+- [Skyguard](Skyguard.md)
 - [Harasser](Harasser.md)
 - [Fury](Fury.md)
 - [Basilisk](Basilisk.md)
 - [Wraith](Wraith.md)
 - [Switchblade](../items/Switchblade.md)
 - [Router](Router.md)
-- [Flail](../items/Flail.md)
+- [Flail](Flail.md)
 - [Leviathan](Leviathan.md)
-- [Vindicator](../Vindicator.md)
+- [Vindicator](Vindicator.md)
 - [Juggernaut](Juggernaut.md)
 
 All other vehicles are considered to be closed cockpit vehicles.
@@ -279,9 +279,9 @@ After an [Advanced Nanite Transport](Advanced_Nanite_Transport.md) has gone to a
 [warpgate](../locations/Warpgate.md) and gathered [NTU](../items/NTU.md)'s, a
 gray bar which reads "NTU Level" shows up on the bottom toolbar. This denotes
 how many NTU's are stored on the ANT that are ready to be transferred to an
-[NTU Silo](../locations/NTU_Silo.md) at a [facility](Facility.md). Also, the
-[Mosquito](Mosquito.md), [Reaver](Reaver.md), [Vulture](Vulture.md),
-[Galaxy](Galaxy.md), [Phantasm](Phantasm.md), and [Lodestar](Lodestar.md) all
+[NTU Silo](../locations/NTU_Silo.md) at a [facility](../locations/Facilities.md). Also, the
+[Mosquito](Mosquito.md) , [Reaver](Reaver.md), [Vulture](Vulture.md),
+[Galaxy](Galaxy.md) , [Phantasm](Phantasm.md), and [Lodestar](Lodestar.md) all
 have [Afterburners](../terminology/Afterburner.md), which is denoted on the HUD
 by a green bar which reads "Afterburners".
 
@@ -308,7 +308,7 @@ important slot, generally a driver's weapons, if he has any at all, are weaker
 than a gunner's weapons. Thus, it is important for the gunner and the driver to
 coordinate to get the most kills. Also, many of the best driver/gunner
 combinations use a Voice Over IP program such as
-[Teamspeak](../etc/TeamSpeak.md) or [Ventrilo](../Ventrilo.md).
+[Teamspeak](../etc/TeamSpeak.md) or [Ventrilo](../etc/Ventrilo.md).
 
 #### Merits Through Gunning
 
@@ -316,7 +316,7 @@ By gunning for a vehicle, a player can get certain merits. These merits are as
 follows:
 
 - [Ground Gunner](../merits/Ground_Gunner.md) (most ground vehicles)
-- [Bombardier]../merits/Bombardier\_(Merit).md) (Liberator and Vulture)
+- [Bombardier](../merits/Bombardier_(Merit).md) (Liberator and Vulture)
 - [Air Defender](../merits/Air_Defender.md) (Skyguard)
 - [Cavalry Pilot](../merits/Cavalry_Pilot.md) (Galaxy Gunship)
 
@@ -335,8 +335,8 @@ vehicle yet.
 ### MAX Passenger Slots
 
 The [Leviathan](Leviathan.md),
-[Juggernaut](Juggernaut.md),[Vindicator](../Vindicator.md), and
-[Galaxy](Galaxy.md) have two positions which can be occupied by players wearing
+[Juggernaut](Juggernaut.md),[Vindicator](Vindicator.md), and
+[Galaxy](Galaxy.md)  have two positions which can be occupied by players wearing
 [MAX](../items/Mechanized_Assault_Exo-Suit.md) Armor. Players wearing a
 [Infiltration Suit](../items/Infiltration_Suit.md),
 [Standard Exo-Suit](../armor/Standard_Exo-Suit.md),
@@ -347,7 +347,7 @@ in the middle.
 
 ### Vehicle Bay
 
-Both the [Galaxy](Galaxy.md) and the [Lodestar](Lodestar.md) have a vehicle bay
+Both the [Galaxy](Galaxy.md)  and the [Lodestar](Lodestar.md) have a vehicle bay
 which can transport smaller ground vehicles in the air. The [Galaxy](Galaxy.md)
 has a much smaller vehicle bay and can therefore only transport certain
 vehicles. These vehicles are:
@@ -361,7 +361,7 @@ vehicles. These vehicles are:
 - [Enforcer](Enforcer.md)
 - [Marauder](Marauder.md)
 - [Thresher](Thresher.md)
-- [Skyguard](../items/Skyguard.md)
+- [Skyguard](Skyguard.md)
 - [Lightning](Lightning.md)
 
 A [Lodestar](Lodestar.md) can carry any ground vehicle, including
@@ -373,7 +373,7 @@ strafe into the Lodestar sideways._
 ## See Also
 
 - [Vehicle Index](category:_Vehicles.md)
-- [Vehicular Merit Commendations](../Vehicular_Merit_Commendations.md)
+- [Vehicular Merit Commendations](../merits/Vehicular_Merit_Commendations.md)
 
 <!--[category:Game Items](category:Game_Items.md)-->
 

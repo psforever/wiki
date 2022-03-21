@@ -7,7 +7,7 @@ The following vehicles can be "deployed":
 
 [Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md) (AMS) :
 Deploying the AMS engages its cloak bubble and allows soldiers to
-[spawn](Spawn.md), [deconstruct](terminology/Deconstruct.md), use the
+[spawn](Respawn.md), [deconstruct](Deconstruct.md), use the
 [Equipment../Equipment_Terminal.md_Terminal.md) and bind. Undeploying reverses
 the procedure and allows the AMS to be driven again.
 [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md) (ANT) :
@@ -15,7 +15,7 @@ When deployed in a [Warpgate](../locations/Warpgate.md) or
 [Geowarp](../locations/Geowarp.md) bubble, the ANT gathers
 [NTUs](../items/NTU.md). When deployed near an
 [NTU Silo](../locations/NTU_Silo.md), the NTUs are transfered to the silo,
-powering the [facility](Facility.md). [Flail](../items/Flail.md) : Deploying the
+powering the [facility](../locations/Facilities.md). [Flail](../vehicles/Flail.md) : Deploying the
 Flail allows its Dispersion Cannon to be used. [Router](../vehicles/Router.md) :
 Deploying the Router allows a [telepad](../weapons/Telepad.md) to be deployed
 and allows the link to be established. [Switchblade](../items/Switchblade.md) :

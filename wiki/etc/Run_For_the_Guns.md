@@ -13,7 +13,7 @@ Starting On Saturday, November 27 at 4 PM Local Server Time, a
 minutes. When the Monolith spawns, that continent will go completely neutral.
 Players must deliver the Monolith Unit to that
 [continent](../locations/Continent.md)'s [Capitol](../locations/Capitol.md)
-[facility](Facility.md). In order to successfully deliver the MU, the capitol
+[facility](../locations/Facilities.md). In order to successfully deliver the MU, the capitol
 must be controlled by the same [Empire](../terminology/Empire.md) as the player
 attempting to deliver it.
 

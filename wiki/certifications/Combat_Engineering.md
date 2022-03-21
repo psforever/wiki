@@ -16,7 +16,7 @@ repairing [MAXes](../items/Mechanized_Assault_Exo-Suit.md), equipment, and
 [vehicles](../vehicles/Vehicle.md) is increased over that of standard engineers
 (repairing 14 instead of 12 for MAXs, 48 instead of 32 for vehicles).
 
-This [Certification](../certifications/Certification.md) is recommended to
+This [Certification](Certification.md) is recommended to
 obtain the [Engineering]../merits/Engineering\_(Merit).md),
 [Saboteur](../merits/Saboteur.md), and
 [Universal Soldier](../merits/Universal_Soldier.md)

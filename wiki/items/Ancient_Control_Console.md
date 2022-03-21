@@ -1,4 +1,4 @@
-![](AT-CC.jpg "fig:AT-CC.jpg") Control Console\]\]
+![](../images/AT-CC.jpg "fig:AT-CC.jpg") Control Console\]\]
 
 The Ancient Control Console is the
 [Control Console](../locations/Control_Console.md) of a

@@ -5,7 +5,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Gunship                                                                                                              |
 | **Role**                   | Attack                                                                                                                     |
-| **Certification Required** | [Galaxy Gunship](<../certifications/Galaxy_Gunship_(Certification).md>)                                                    |
+| **Certification Required** | [Galaxy Gunship](../certifications/Galaxy_Gunship_(Certification).md)                                                    |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                               |
 | **Primary Weapon**         | Three 35mm Chainguns                                                                                                       |
 | **Secondary Weapon**       | Two [Ground Pounder](../terminology/Ground_Pounder.md) Mortar Launchers                                                    |
@@ -16,7 +16,7 @@
 
 **Galaxy Gunship**
 
-The Galaxy Gunship is a modified [Galaxy](Galaxy.md) airframe with heavy guns,
+The Galaxy Gunship is a modified [Galaxy](Galaxy.md)  airframe with heavy guns,
 and more armor. The gunship takes only 75% of all damage incident on it, making
 its effective armor much stronger than the regular Galaxy without increasing
 repair time much.
@@ -35,5 +35,5 @@ The Galaxy Gunship can only be purchased at a
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 
 Vehicles](Category:Common_Pool_Vehicles.md)
-[Category:Air Vehicles](Category:Air_Vehicles.md)
-[Category:Game Items](Category:Game_Items.md)
+<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->
+<!--[Category:Game Items](Category:Game_Items.md)-->

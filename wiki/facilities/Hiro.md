@@ -3,7 +3,7 @@ Hiro is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md) on
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Laka](Laka.md)
+- [Interlink Facility](../locations/Interlink.md) [Laka](Laka.md)
 - [Amp Station](../locations/Amp_Station.md) [Matagi](Matagi.md)
 - [Technology Plant](../locations/Technology_Plant.md) [Karihi](Karihi.md)
 

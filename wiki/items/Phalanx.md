@@ -9,7 +9,7 @@ the only fixed weapons and non-passive defensive installations of
 When unmanned, the **Phalanx** can track and fire upon larger
 [vehicles](../vehicles/Vehicle.md) and aircraft, as well as
 [MAX](Mechanized_Assault_Exo-Suit.md) units (only if they are in run mode).
-[ATVs](<../certifications/ATV_(Certification).md>),
+[ATVs](../certifications/ATV_(Certification).md),
 [Harassers](../vehicles/Harasser.md), and [Mosquitos](../vehicles/Mosquito.md)
 are invisible to **Phalanx** turrets. An active unmanned **Phalanx** will return
 fire if fired upon and is less than 50% damaged. It is extremely accurate when
@@ -18,7 +18,7 @@ unmanned, but its rate of fire is about one-third of it is when manned.
 When manned, the **Phalanx** offers a very high rate of fire, unlimited
 ammunition, 360° rotation, a range of 400m, and a fairly high firing angle which
 allows it to target aircraft. Unfortunately, it has a large
-[cone of fire](../etc/Cone_of_fire.md), making it inaccurate at long ranges. It
+[cone of fire](../terminology/Cone_of_fire.md), making it inaccurate at long ranges. It
 can also be destroyed easily, taking only a few tank rounds to make it
 inoperable.
 
@@ -35,9 +35,9 @@ The **Phalanx** can be upgraded by soldiers having the
 [Fortification Engineering](../certifications/Fortification_Engineering.md)
 certification to fire either Anti-Aircraft or Anti-Armor rounds in addition to
 the standard rounds. The Anti-Aircraft Flak Cannon rounds are similar to the
-[flak](../weapons/Flak.md) rounds of the [skyguard](Skyguard.md), but fires at a
+[flak](../weapons/Flak.md) rounds of the [skyguard](../vehicles/Skyguard.md), but fires at a
 slightly slower rate. The Anti-Armor Twin-Cannons rounds are similar to the rate
-of fire and trajectory of the [prowler](../Prowler.md) main gun, but the damage
+of fire and trajectory of the [prowler](../vehicles/Prowler.md) main gun, but the damage
 is not as great. Kills made with the flak cannon also count towards the
 [Air Defender](../merits/Air_Defender.md)
 [merit](../merits/Merit_Commendations.md). Upgrades are done with the

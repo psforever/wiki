@@ -5,7 +5,7 @@ can travel over water. They include
 - The [Magrider](../vehicles/Magrider.md)
 - The [Switchblade](../items/Switchblade.md)
 - The [Router](../vehicles/Router.md)
-- The [Flail](../items/Flail.md)
+- The [Flail](../vehicles/Flail.md)
 
 They are not to be confused with the [deliverer](../vehicles/Deliverer.md) and
 its variants, which can travel over water but cannot strafe.

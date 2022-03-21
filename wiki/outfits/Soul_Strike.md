@@ -1,7 +1,7 @@
 ![](../images/Decoys_memorial1.jpg "fig:Decoys_memorial1.jpg") Soul_Strike is a
 mid-sized [outfit](../terminology/Outfit.md) that fights for the
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) on the
-[Emerald](../etc/Emerald.md) [Server](Server.md). They also have alt chapters on
+[Emerald](../etc/Emerald.md) Server. They also have alt chapters on
 [New Conglomerate](../etc/New_Conglomerate.md)-[Markov](../etc/Markov.md) and
 [Terran Republic](../etc/Terran_Republic.md)-[Werner](../etc/Werner.md).
 

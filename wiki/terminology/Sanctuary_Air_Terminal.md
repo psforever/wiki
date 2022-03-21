@@ -1,4 +1,4 @@
-All of the [empire](Empire.md) [Sanctuaries](../Sanctuary.md) contain a unique
+All of the [empire](Empire.md) [Sanctuaries](../locations/Sanctuary.md) contain a unique
 type of [Air Terminal](../items/Air_Terminal.md). This vehicular terminal is
 identical, in appearance, to the terminals found in most
 [Facilities](../locations/Facilities.md) except for the logo of a

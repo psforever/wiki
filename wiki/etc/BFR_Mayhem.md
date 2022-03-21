@@ -1,4 +1,4 @@
-**BFR Mayhem** was PlanetSide's first play [Event](../Event.md), marking the
+**BFR Mayhem** was PlanetSide's first play [Event](Events.md), marking the
 introduction of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) into
 the game.
 
@@ -22,11 +22,11 @@ the Capitol. (This requires holding two
 find the Monolith, capture the Capitol, and move the Monolith Unit to the
 Capitol.
 
-Winners of the event for each [Server](:Category:Servers) were posted on the
+Winners of the event for each Server were posted on the
 main forums. The prizes were as follows:
 
 - 1st place: Only 5 [Cavern Captures](Cavern_Captures.md) required for a soldier
-  to get their [BFR Imprint](terminology/BFR_Imprint.md)
+  to get their [BFR Imprint](../terminology/BFR_Imprint.md)
 
 <!-- -->
 

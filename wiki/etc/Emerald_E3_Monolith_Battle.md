@@ -1,5 +1,5 @@
 "On May 18th through May 20th on the [Emerald](Emerald.md) server, the
-[Monolith](../items/Monolith.md) [Event](../Event.md) will make its return. Only
+[Monolith](../items/Monolith.md) [Event](Events.md) will make its return. Only
 this time the event will be running live from the Electronic Entertainment Expo
 (E3)!
 
@@ -19,8 +19,8 @@ Expect the event to be run sometime throughout the following time periods:
 
 9:00am 4:00pm (EDT)
 
-Note that this [Event](../Event.md) is only going to run on the
-[Emerald](Emerald.md) [Server](Server.md) due to the time constraints."
+Note that this [Event](Events.md) is only going to run on the
+[Emerald](Emerald.md) Server due to the time constraints."
 
 Information about the Event released by [SOE](Sony_Online_Entertainment.md) so
 far.

@@ -9,13 +9,13 @@ possible, however. When broadcasting from a warpgate to a geowarp you must first
 exit the warp bubble, then re-enter it and travel through the central beam to
 teleport to the linked cavern.
 
-Every planet possesses two [Geowarps](Geowarp.md) (except for the
+Every planet possesses two [Geowarps](../locations/Geowarp.md) (except for the
 [Oshur](Oshur.md) [Battle Islands](Battle_Islands.md), which only contain one
-[Geowarp](Geowarp.md) located on [Nexus](Nexus.md), but it is presently always
+[Geowarp](../locations/Geowarp.md) located on [Nexus](Nexus.md), but it is presently always
 inactive), and two [caverns](Caverns.md) are open at any time, meaning that 11
-[geowarps](Geowarp.md) will be inactive at any given time (2 caverns x 4
-geowarps per cavern - 9 planets x 2 [geowarps](Geowarp.md) per planet + 1
-geowarp on [Nexus](Nexus.md) = 11 inactive [geowarps](Geowarp.md)).
+[geowarps](../locations/Geowarp.md) will be inactive at any given time (2 caverns x 4
+geowarps per cavern - 9 planets x 2 [geowarps](../locations/Geowarp.md) per planet + 1
+geowarp on [Nexus](Nexus.md) = 11 inactive [geowarps](../locations/Geowarp.md)).
 
 However, the programming intentionally makes it so that all the
 "[Neutral](../terminology/Neutral_Continent.md)" continents are always linked to

@@ -4,7 +4,7 @@ South of Amerish.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Cetan](Cetan.md)
+- [Interlink Facility](../locations/Interlink.md) [Cetan](Cetan.md)
   (Sub-Capitol)
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Kyoi](Kyoi.md) (Sub-Capitol)
 - Bio Laboratory [Ikanam](Ikanam.md)

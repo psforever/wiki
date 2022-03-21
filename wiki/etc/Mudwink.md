@@ -113,6 +113,6 @@ verdict. Good luck with the new tool.
 
 Enjoy the firepower TR and happy hunting.
 
---[Mudwink](User:Mudwink.md) 13:40, 31 October 2007 (EDT)Mudwink
+--Mudwink 13:40, 31 October 2007 (EDT)Mudwink
 
 <!--[Category:Strategy](Category:Strategy.md)-->

@@ -8,7 +8,7 @@ copious ATVs.\]\]
 - [Wraith](Wraith.md)
 
 These light, fast, and maneuverable one-crew vehicles are available with the
-[ATV Certification.](<../certifications/ATV_(Certification).md>)
+[ATV Certification.](../certifications/ATV_(Certification).md)
 
 <!--[Category:Game Items](../Category:Game_Items.md)--> [Category:Ground
 

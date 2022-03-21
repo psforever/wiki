@@ -33,7 +33,7 @@ building. You'll see a set of three doors up some stairs; head into any of them.
 Choose 1 or 2 (do both). Every new item you <i>equip</i> gives you a number of
 [Experience Points](../terminology/Experience_Points.md)- anywhere between 50
 and 200. So equip every [weapon](../weapons/Weapons_Index.md) and support item
-you can, fire them if you want to. Putting on [Rexo](Rexo.md) armor makes this
+you can, fire them if you want to. Putting on [Rexo](../armor/Reinforced_Exo-Suit.md) armor makes this
 process faster.
 
 - Don't forget, each [MAX Armor](../items/Mechanized_Assault_Exo-Suit.md) has
@@ -45,7 +45,7 @@ To leave VR, hop into one of those prism-looking beams.
 Same goes for vehicles; you'll spawn next to the ground vehicle pad. Drive
 everything. If it has a gunner spot, park and hop in the gunner slot too.
 
-When you're done, visit the [BFR](../BattleFrame_Robotics.md) shack (just a
+When you're done, visit the [BFR](../vehicles/BattleFrame_Robotics.md) shack (just a
 touch northeast of the vehicle pad) and use both battle frames. if you want to
 switch out weapons, walk it over to the rearm silo behind the ground vehicle pad
 you were just using, it's on the hill to the east of the vehicle-pad.
@@ -75,7 +75,7 @@ then the number key, and you're good to go.
 
 If you know where you want to go, get on the [HART](../terminology/HART.md) when
 it comes in (every 5 minutes). You'll hear it. If you don't, hit escape and use
-"instant action." That will [spawn](Spawn.md) you at a facility near a hotspot,
+"instant action." That will [spawn](../terminology/Respawn.md) you at a facility near a hotspot,
 putting your personal (white) waypoint on where it thinks the fight is. This
 isn't 100% accurate, because humans are unpredictable, but it usually will get
 you some action.

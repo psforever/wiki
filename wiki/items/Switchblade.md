@@ -5,7 +5,7 @@ Switchblade\]\]
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Type**                   | Rapid Assault                                                                                       |
 | **Role**                   | Rapid Response/Escort                                                                               |
-| **Certification Required** | [Switchblade](<../certifications/Switchblade_(Certification).md>)                                   |
+| **Certification Required** | [Switchblade](../certifications/Switchblade_(Certification).md)                                   |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) ([Ancient-Tech](../terminology/Ancient_Technology.md)) |
 | **Primary Weapon**         | Forward firing Scythe Energy Cannon                                                                 |
 | **Deployed**               | 360 degrees firing Scythe Energy Cannon with increased Rate of Fire                                 |
@@ -37,11 +37,10 @@ vehicles, you can only get more ammo by going to a
 [caverns](../locations/Caverns.md), at a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md).
 
-<!--[category:Vehicles](category:Vehicles.md)--> [category:Ground
-
-Vehicles](category:Ground_Vehicles.md)
-[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)
-[category:Ancient Tech Vehicles](category:Ancient_Tech_Vehicles.md)
-[category:Core Combat](category:Core_Combat.md)
+<!--[category:Vehicles](category:Vehicles.md)-->
+<!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
+<!--[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)-->
+<!--[category:Ancient Tech Vehicles](category:Ancient_Tech_Vehicles.md)-->
+<!--[category:Core Combat](category:Core_Combat.md)-->
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

@@ -9,7 +9,7 @@ The Redoubt Building features:
 - [Ancient Equipment Terminals](../items/Ancient_Equipment_Terminal.md)
 - [Teleporters](../terminology/Teleporter.md)
 - [Health Crystal](../items/Health_Crystal.md)
-- [Repair Crystal](../Repair_Crystal.md)
+- [Repair Crystal](../items/Repair_Crystal.md)
 - [Weapon Energy Crystal](../items/Weapon_Energy_Crystal.md)
 
 <!--[Category:Locations](Category:Locations.md)-->

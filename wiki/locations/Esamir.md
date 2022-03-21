@@ -12,11 +12,11 @@
 | [Facilities](Facilities.md):     | 13                                                                    |
 | [Towers](Towers.md):             |                                                                       |
 | Active [Warpgates](Warpgate.md): | 4                                                                     |
-| Capitol:                         | [Technology Plant](Technology_Plant.md) [Eisa](../facilities/Eisa.md) |
+| Capitol:                         | [Technology Plant](../locations/Technology_Plant.md) [Eisa](../facilities/Eisa.md) |
 
 ## Description
 
-One of two 'white' [continents](Continent.md), **Esamir** is currently the
+One of two 'white' [continents](../locations/Continent.md), **Esamir** is currently the
 largest planet/continent being fought over in the Auraxian Civil War.
 
 According to game lore, Esamir was the last continent to be mapped by the
@@ -40,8 +40,8 @@ here, with the [Capitol](Capitol.md), [Eisa](../facilities/Eisa.md) located on a
 frozen island in the central sea, surrounded by its
 [Sub-Capitols](Sub-Capitol.md).
 
-A [Sanctuary](Sanctuary.md) warpgate links to the
-[Helheim](../facilities/Helheim.md) [Technology Plant](Technology_Plant.md) in
+A [Sanctuary](../locations/Sanctuary.md) warpgate links to the
+[Helheim](../facilities/Helheim.md) [Technology Plant](../locations/Technology_Plant.md) in
 the south east. The continent's other [Warpgates](Warpgate.md) link from
 [Ran](../facilities/Ran.md) to [Marduk](../facilities/Marduk.md),
 [Ishundar](Ishundar.md); [Nott](../facilities/Nott.md) to

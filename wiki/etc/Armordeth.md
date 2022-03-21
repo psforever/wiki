@@ -31,12 +31,12 @@ Lets go over the game plan, it's very simple.
 
 <!-- -->
 
-1. [Boomers](../Boomer.md)! Deploy all twenty boomers around the ANT and mine
+1. [Boomers](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer)! Deploy all twenty boomers around the ANT and mine
    field. Store the sticks in your locker or place them in a stairwell.
 
 ### Inside
 
-1. CE's, place a [Motion Sensor](Motion_Sensor.md) right on the backdoor in the
+1. CE's, place a [Motion Sensor](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm) right on the backdoor in the
    middle. So you open the door, look up and place the motion sensor. You can
    not pass the sensor without crouching under it as an Agile (NOTE - Reinforced
    and MAXES cannot pass). **UPDATE** _- Place a spitfire right below the motion

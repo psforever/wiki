@@ -1,5 +1,3 @@
-![](../images/Section_8.png "Section_8.png")
-
 Section 8 Blue was originally formed as
 [Terran Republic](../etc/Terran_Republic.md) Outfit Section 8 on the
 [Markov](../etc/Markov.md) Server by ColonelOneil and DocGoodwrench on Dec

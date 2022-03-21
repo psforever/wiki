@@ -2,7 +2,7 @@
 ![](../images/Gunuku_map.jpg "fig:Gunuku_map.jpg") Gunuku is
 [Cyssor](../locations/Cyssor.md)'s
 [Dropship Center](../locations/Dropship_Center.md). It is located in
-[map grid](map_grid.md) **M10**.
+[map grid](../terminology/Map_grid.md) **M10**.
 
 The facility is located on a central island of Cyssor, surrounded by the Cyssor
 river that divides a large chunk of the continent. Bridge access is in the north

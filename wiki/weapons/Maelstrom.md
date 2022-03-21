@@ -23,10 +23,10 @@ target as long as it remains in contact.
 
 The secondary mode launches a Chain-Lash grenade that explodes on contacting any
 soldier or vehicle, then attempts to "Lash" other nearby targets, much the same
-as the [Lasher](Lasher.md). Unlike the Lasher, the lash from a
-[Maelstrom](Maelstrom.md) will hit anyone within (Approx.) 5m of the person hit,
+as the [Lasher](Lasher.md) . Unlike the Lasher, the lash from a
+[Maelstrom](Maelstrom.md)  will hit anyone within (Approx.) 5m of the person hit,
 meaning it has the capability to lash all people within (approx.) 5m of anyone
-who has been lashed (The [Lasher](Lasher.md) merely hits anyone within 5m of the
+who has been lashed (The [Lasher](Lasher.md)  merely hits anyone within 5m of the
 orb itself, it cannot jump from person to person). It takes 5 grenades to kill a
 soldier wearing a [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md). Be
 prepared to get plenty of [Grief points](../terminology/Grief_points.md) if you

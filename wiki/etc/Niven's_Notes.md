@@ -75,7 +75,7 @@ use it:
 <!-- -->
 
 - **Run And Gun**: The Striker has no appreciable
-  [Cone of Fire](Cone_of_fire.md) bloom, and can be used just as effectively
+  [Cone of Fire](../terminology/Cone_of_fire.md) bloom, and can be used just as effectively
   while running and strafing, as crouching, so if you _have_ been spotted, you
   can make it more difficult for them to return fire. If you drive a vehicle
   off, but fail to kill it, relocate to a new position as soon as is practical;

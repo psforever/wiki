@@ -6,7 +6,7 @@ Annwn is one of the six [Core Combat](../items/Core_Combat.md)
 and cyan [ziplines](../items/Zipline.md).
 
 This cavern is drastically different from other caverns, as it's laid out
-vertically instead of horizontally. The [Redoubts](Redoubt.md) and
+vertically instead of horizontally. The [Redoubts](Redoubt_Building.md) and
 [AT Plants](AT_Plant.md) are on the floor, while the
 [Module Buildings](Module_Building.md) are near the top. The
 [Core Complex](Core_Complex.md) lies right in the middle. Buildings and rock

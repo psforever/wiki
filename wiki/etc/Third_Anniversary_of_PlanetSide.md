@@ -1,5 +1,5 @@
 To celebrate the Third Anniversary of [PlanetSide](PlanetSide.md), an
-[Event](Event.md) was held from May 19 to May 26, 2006.
+[Event](Events.md) was held from May 19 to May 26, 2006.
 
 This event was preceded by a series of [meteor](../items/Meteor.md) showers and
 earthquakes that were experienced across the different
@@ -76,18 +76,18 @@ So far, the following vehicles can no longer be constructed:
 - [Prowler](../vehicles/Prowler.md)
 - [Magrider](../vehicles/Magrider.md)
 - [Aurora](../vehicles/Aurora.md)
-- [Thunderer](../Thunderer.md)
+- [Thunderer](../vehicles/Thunderer.md)
 - [Raider](../vehicles/Raider.md)
 - [Enforcer](../vehicles/Enforcer.md)
-- [Thresher](../Thresher.md)
+- [Thresher](../vehicles/Thresher.md)
 - [Marauder](../vehicles/Marauder.md)
 - [Reaver](../vehicles/Reaver.md)
 - [Liberator](../vehicles/Liberator.md)
 - [Vulture](../vehicles/Vulture.md)
 - [Mosquito](../vehicles/Mosquito.md)
-- [Skyguard](../items/Skyguard.md)
+- [Skyguard](../vehicles/Skyguard.md)
 - [Switchblade](../items/Switchblade.md)
-- [Flail](../items/Flail.md)
+- [Flail](../vehicles/Flail.md)
 - [Fury](../vehicles/Fury.md)
 - [Basilisk](../vehicles/Basilisk.md)
 - [Lightning](../vehicles/Lightning.md)

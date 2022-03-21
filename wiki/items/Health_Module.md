@@ -1,5 +1,5 @@
 Installing this [module](../etc/Modules.md) provides the
-[module benefit](module_benefit.md) of allowing soldiers that spawn to do so
+[module benefit](../etc/Module_benefit.md) of allowing soldiers that spawn to do so
 with 120 health instead of 100. Additionally, friendly soldiers in the
 [Sphere of Influence](../locations/Sphere_of_Influence.md) slowly regenerate
 health over time, up to the maximum of 120, even if they started with only 100

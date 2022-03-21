@@ -6,7 +6,7 @@ the [T-REK](../weapons/T-REK.md). A Virus can be removed from an object by an
 [expert hacker](../certifications/Expert_Hacking.md) using a
 [REK](../weapons/Remote_Electronics_Kit.md).
 
-The [T-REK](../weapons/T-REK.md) may be used to infect [facility](Facility.md)
+The [T-REK](../weapons/T-REK.md) may be used to infect [facility](../locations/Facilities.md)
 systems by uploading a virus into the
 [Main Terminal](../items/Main_Terminal.md). The possible viruses for the Main
 Terminal and duration are listed below.
@@ -40,12 +40,12 @@ Viruses can also be uploaded into enemy equipment, turning it against their
 former owners for up to 15 minutes. The following equipment can be infected so
 that it will hinder the enemy instead of helping them:
 
-- Enemy [Spitfire Turrets](Spitfire_Turret.md) and
+- Enemy [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and
   [Wall Turrets](../items/Phalanx.md) can be infected, causing them to attack
   their own Empire
 - Enemy [Aegis Shield Generators](../weapons/Aegis_Shield_Generator.md) can be
   infected so that they emit a [Pain Field](Pain_Field.md)
-- Enemy [Motion Sensors](Motion_Sensor.md) can be infected causing them to
+- Enemy [Motion Sensors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm) can be infected causing them to
   display friendly units as enemies on radar.
 
 <!--[Category:Terminology](Category:Terminology.md)-->

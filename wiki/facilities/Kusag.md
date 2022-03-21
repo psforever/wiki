@@ -4,9 +4,9 @@ P10 and Q10.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](terminology/Interlink.md)
-  [Irkalla](facilities/Irkalla.md)
-- [Bio Laboratory](../locations/Bio_Laboratory.md) [Lahar](../Lahar.md)
+- [Interlink Facility](../locations/Interlink.md)
+  [Irkalla](Irkalla.md)
+- [Bio Laboratory](../locations/Bio_Laboratory.md) [Lahar](Lahar.md)
 - [Amp Station](../locations/Amp_Station.md) [Enkidu](Enkidu.md)
 - A Broadcast [Warpgate](../locations/Warpgate.md)
 

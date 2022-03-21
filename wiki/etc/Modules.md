@@ -1,6 +1,6 @@
 ![](../images/Modules_Interlink.jpg "fig:Modules_Interlink.jpg"),
 [Speed](Speed_Module.md), and [Equipment Modules](../items/Equipment_Module.md)
-in their cradles in an [Interlink](../terminology/Interlink.md)
+in their cradles in an [Interlink](../locations/Interlink.md)
 [Facility](../locations/Facilities.md)\]\] Modules are devices that can be
 obtained from the [Module Buildings](../locations/Module_Building.md) in the
 [Caverns](../locations/Caverns.md) introduced by the expansion
@@ -8,7 +8,7 @@ obtained from the [Module Buildings](../locations/Module_Building.md) in the
 
 When installed inside a surface base [facility](../locations/Facilities.md),
 modules grant the facility and the controlling empire a
-[module benefit](../etc/Module_benefit.md) (apart from
+[module benefit](Module_benefit.md) (apart from
 [Facility Linked Benefits](../terminology/Facility_Linked_Benefit.md)),
 depending on the type of module installed.
 
@@ -71,7 +71,7 @@ the same vein as [LLUs](../terminology/Lattice_Logic_Unit.md).
    [hack](../terminology/Hack.md).
 2. Once installed at a facility, modules can only be stolen by enemies if one of
    two things happen.
-   1. If the [facility](Facility.md)'s
+   1. If the [facility](../locations/Facilities.md)'s
       [Control Console](../locations/Control_Console.md) is
       [hacked](../terminology/Hack.md).
    2. If the facility's [generator](../items/Generator.md) is destroyed.

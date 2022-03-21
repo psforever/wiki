@@ -1,8 +1,8 @@
-In this [Event](Event.md), [Monoliths](../items/Monolith.md) were spawned on
+In this [Event](Events.md), [Monoliths](../items/Monolith.md) were spawned on
 each planet (not including the battle islands). Whichever
 [Empire](../terminology/Empire.md) delivered the most
 [Monolith](../items/Monolith.md) Units to the [Capitol](../locations/Capitol.md)
-[Facilities](Facility.md) of each [Continent](../locations/Continent.md) will
+[Facilities](../locations/Facilities.md) of each [Continent](../locations/Continent.md) will
 gained the advantage when the revamped [lattice](../terminology/Lattice.md) went
 live online by being granted a lock on each of the four neutral continents and
 enjoying the benefits of each:

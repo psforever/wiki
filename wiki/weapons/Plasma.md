@@ -22,7 +22,7 @@ These aggravated-damage plasma fields are
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) in nature, being
 distributed by the orbs of the [Starfire](../items/Starfire.md) and
 [Comet](../items/Comet.md) [MAXes](../items/Mechanized_Assault_Exo-Suit.md), as
-well as the [Starfire BFR Weapon](<Starfire_(BFR).md>) of the
+well as the [Starfire BFR Weapon](../items/Starfire_(BFR).md) of the
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md). Soldiers taking damage from this
 type of plasma glow purple.
 

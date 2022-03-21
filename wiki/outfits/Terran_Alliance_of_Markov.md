@@ -8,13 +8,13 @@ Current Outfit Roster:
 - 42nd Fire Ant Brigade
 - Black Beret Armoured Corps
 - Cosmocratories
-- [Crimson Legion/Tunnel Ratz](Crimson_Legion/Tunnel_Ratz)
+- [Crimson Legion/Tunnel Ratz](Crimson_Legion_Tunnel_Ratz.md)
 - FEAR
 - [Killer Disturbed Legion](Killer_Disturbed_Legion.md)
 - Mercenaries
 - Obsidian Empire
 - UNiQue
-- [USA](../USA.md)
+- USA
 - [Users Suck Kill Them All](Users_Suck_Kill_Them_All.md)
 - Veritas Saints
 - Wolf's Rangers

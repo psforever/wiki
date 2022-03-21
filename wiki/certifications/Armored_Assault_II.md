@@ -44,8 +44,8 @@ If a soldier can manage to acquire an enemy tank in this class, either by
 [Empire Benefits](../terminology/Empire_Benefit.md), this
 [Certification](Certification.md) will also allow driving of the enemy tank.
 
-This Certification is a pre-requisite to the [Flail](<Flail_(Certification).md>)
-and [BattleFrame Robotics](<BFR_(Certification).md>) Certifications.
+This Certification is a pre-requisite to the [Flail](Flail_(Certification).md)
+and [BattleFrame Robotics](BFR_(Certification).md) Certifications.
 
 This Certification requires [Armored Assault I](Armored_Assault_I.md) in order
 to be obtainable.

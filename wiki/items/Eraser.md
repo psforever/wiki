@@ -17,7 +17,7 @@
 
 The **Eraser** is a powerful
 [Medium Assault](../certifications/Medium_Assault.md) pistol. It deals a good
-bit of damage per hit with a tight [cone of fire](../etc/Cone_of_fire.md), but
+bit of damage per hit with a tight [cone of fire](../terminology/Cone_of_fire.md), but
 small clip size. It also suffers severe
 [Damage Degradation](../terminology/Damage_Degradation.md) (see graph at right),
 making it relatively worthless at targets over 50 meters away.

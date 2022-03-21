@@ -2,11 +2,11 @@
 
 |                                                                       |                                                                 |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [Control Console](Control_Console.md):                                | Basement                                                        |
+| [Control Console](../locations/Control_Console.md):                                | Basement                                                        |
 | [Generator](../items/Generator.md):                                   | Basement                                                        |
 | [Spawn room](Spawn_Room.md):                                          | Level 1                                                         |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Air):                        | Courtyard                                                       |
-| [Vehicle Terminal](Vehicle_Terminal.md) (Ground):                     | Courtyard                                                       |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air):                        | Courtyard                                                       |
+| [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Ground):                     | Courtyard                                                       |
 | [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:    | Air Vehicle Terminal Room                                       |
 | [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | [Vehicle](../vehicles/Vehicle.md) Repair (benefit icon: wrench) |
 | [Wall Turrets](../items/Phalanx.md):                                  | 8                                                               |
@@ -27,7 +27,7 @@ non-[Ancient Tech](../terminology/Ancient_Technology.md) ground or air
 [Repair/Rearm.md Landing Pad](../items/Landing_Pad.md) (ancient tech vehicles
 require a [Vehicle Module](../etc/Vehicle_Module.md) for this function). The
 **Dropship Center** is also the largest of all [facilities](Facilities.md) and
-the only location (other than your [sanctuary](Sanctuary.md)) capable of
+the only location (other than your [sanctuary](../locations/Sanctuary.md)) capable of
 spawning the gigantic [Galaxy](../vehicles/Galaxy.md),
 [Galaxy Gunship](../vehicles/Galaxy_Gunship.md), and
 [Lodestar](../vehicles/Lodestar.md) aircraft. The dropship air vehicle pad is

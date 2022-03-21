@@ -15,7 +15,7 @@
 
 **Vulture**
 
-This close-support bomber is a modified [Liberator](Liberator.md) airframe. It
+This close-support bomber is a modified [Liberator](Liberator.md)  airframe. It
 has a smaller payload but improved speed and handling, as well as afterburners.
 It lacks the pilot's downward-facing 'bomber mode' camera and cannot equip
 anti-infantry cluster bombs.
@@ -54,7 +54,6 @@ link or [Sanctuary](../locations/Sanctuary.md) vehicle pad in order to be
 purchasable.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->
-<!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
-
-Vehicles](Category:Common_Pool_Vehicles.md)
-[Category:Air Vehicles](Category:Air_Vehicles.md)
+<!--[Category:Vehicles](Category:Vehicles.md)-->
+<!--[Category:Common Pool Vehicles](Category:Common_Pool_Vehicles.md)-->
+<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->

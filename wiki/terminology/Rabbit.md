@@ -6,7 +6,7 @@ appears at a random location on a designated continent. A message will be
 displayed in the chat area announcing where, and the location of the Rabbit ball
 will be displayed on your map by an orange [waypoint](Waypoint.md). Kills made
 in close proximity to the rabbit ball will be rewarded with an extra 25%
-[experience point](BEP.md) bonus to the killer and those in his/her
+[experience point](Battle_Experience_Points.md) bonus to the killer and those in his/her
 [squad](Squad.md), which is added to any
 [empire incentive](../etc/Empire_Incentives.md) already in place.
 
@@ -18,7 +18,7 @@ before any other empire can reach the same point goal.
 
 Any player of any empire can pick up the Rabbit ball. That player can also get
 into a friendly ground [vehicle](../vehicles/Vehicle.md), subject to the same
-vehicle restrictions as an [LLU](Lattice_Logic_Unit.md) or [Module](Module.md)
+vehicle restrictions as an [LLU](Lattice_Logic_Unit.md) or [Module](../etc/Modules.md)
 carrier. However, there are additional restrictions for the Rabbit ball carrier.
 
 The Rabbit ball carrier cannot enter the following areas:
@@ -44,7 +44,7 @@ the empire that has taken the Rabbit ball, or the first empire if it gets the
 Rabbit ball back.
 
 The player who is carrying the rabbit ball is immune to friendly fire and
-receives 100 [BEP](BEP.md) for each point scored. The player will also get
+receives 100 [BEP](Battle_Experience_Points.md) for each point scored. The player will also get
 health, armor, and stamina regeneration while carrying it.
 
 <font size="1">\*Needs confirmation</font>

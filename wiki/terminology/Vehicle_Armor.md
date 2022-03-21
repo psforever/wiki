@@ -1,4 +1,4 @@
-Each [vehicle](../Vehicle.md) in [Planetside](../etc/PlanetSide.md) has a
+Each [vehicle](../vehicles/Vehicle.md) in [Planetside](../etc/PlanetSide.md) has a
 different armor value. [Weapons](../weapons/Weapon.md) do different amounts of
 damage to each vehicle, depending on the type of vehicle targeted. For example,
 the [Lancer](../weapons/Lancer.md) does 175 damage to ground vehicles but only
@@ -239,7 +239,7 @@ armor.
 <tr>
 <td align="center">
 
-[Flail](../items/Flail.md)
+[Flail](../vehicles/Flail.md)
 
 </td>
 <td align="center">
@@ -815,7 +815,7 @@ armor.
 <tr>
 <td align="center">
 
-[Skyguard](../items/Skyguard.md)
+[Skyguard](../vehicles/Skyguard.md)
 
 </td>
 <td align="center">
@@ -975,7 +975,7 @@ armor.
 <tr>
 <td align="center">
 
-[Vindicator](../Vindicator.md)
+[Vindicator](Vindicator.md)
 
 </td>
 <td align="center">

@@ -7,7 +7,7 @@
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)        |
 | **Primary Mode**           | Stream                                              |
 | **Secondary Mode**         | Sunburst explosion                                  |
-| **Ammunition**             | [Incendiary Gel](../items/Incendiary_Gel.md)        |
+| **Ammunition**             | [Incendiary Gel](../ammunition/Incendiary_Gel.md)        |
 | **Range**                  | 12 meters                                           |
 | **Inventory Dimensions**   | 3 x 9 (Rifle Holster)                               |
 | **Magazine Capacity**      | 100                                                 |

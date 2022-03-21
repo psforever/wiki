@@ -72,7 +72,7 @@ At present, there are six categories of Merit Commendations:
 ## Unique Kills
 
 In order for a kill to count towards a certain Merit Commendation it must be a
-[Unique Kill](Unique_Kill.md).
+[Unique Kill](../terminology/Unique_kill.md).
 
 ## Merit Commendation Streaks
 
@@ -83,10 +83,10 @@ Said streaks require you to kill a certain amount of people without dying.
 
 - Example:
 
-The [Heavy Assault](<Heavy_Assault_(Merit).md>) Platinum Merit Commendation
+The [Heavy Assault](Heavy_Assault_(Merit).md) Platinum Merit Commendation
 requires 8,000 kills to Qualify for it. After you have achieved those 8,000
 kills the game will flag you as Qualified and you will have to kill 12 Enemy
-Soldiers ([Unique Kills](Unique_Kill.md)) to obtain the Heavy Assault Platinum
+Soldiers ([Unique Kills](../terminology/Unique_kill.md)) to obtain the Heavy Assault Platinum
 Merit. You don't have to complete the streak in the same session, however, you
 can work on it until you complete it. Streak kills are also saved if you logout,
 meaning that if you have 8 kills for the Heavy Assault Platinum streak, and you
@@ -100,7 +100,7 @@ the Merit that you are working on.
 
 - Example:
 
-You are working on [Basic Weapons](<Basic_Weapons_(Merit).md>) Silver streak,
+You are working on [Basic Weapons](Basic_Weapons_(Merit).md) Silver streak,
 which requires 4 kills and it takes you 50 kills until you finally get 4 in one
 life, then you will only have to get 50 kills to qualify for Basic Weapons Gold,
 instead of 100.

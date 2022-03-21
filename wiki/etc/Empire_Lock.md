@@ -9,6 +9,6 @@ Empire Lock status can be viewed from the
 [Interstellar Map](../terminology/Interstellar_Map.md) as a padlock symbol on
 one of the side windows.
 
-See also: [Population lock](../terminology/Population_Lock.mdtion_lock.md)
+See also: [Population lock](../terminology/Population_Lock.md)
 
 <!--[Category:Game Guides](Category:Game_Guides.md)-->

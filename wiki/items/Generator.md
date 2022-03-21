@@ -28,7 +28,7 @@ The generator room is also one of the areas protected by a
 [Lattice Benefit](../terminology/Facility_Linked_Benefit.md), or from a
 [Cavern Lock](../etc/Cavern_Lock.md) Benefit. An
 [Expert Hacker](../certifications/Expert_Hacking.md) can also hack into the
-[Generator Terminal](../items/Generator_Terminal.md) to create or increase a
+[Generator Terminal](Generator_Terminal.md) to create or increase a
 pain field in the generator room.
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

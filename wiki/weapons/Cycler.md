@@ -6,7 +6,7 @@
 | **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                             |
 | **Primary Mode**           | Rapid Fire                                                                                               |
 | **Secondary Mode**         | \-                                                                                                       |
-| **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](Armour_Piercing_9mm_Bullet.md)) |
+| **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
 | **Range**                  | 200m                                                                                                     |
 | **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                    |
 | **Magazine Capacity**      | 50                                                                                                       |

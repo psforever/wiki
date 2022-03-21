@@ -5,7 +5,7 @@ It's elevation is 239.1 meters.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Oro](Oro.md)
+- [Interlink Facility](../locations/Interlink.md) [Oro](Oro.md)
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Hiro](Hiro.md)
 - Bio Laboratory [Akua](Akua.md)
 

@@ -19,7 +19,7 @@ is an adaptation of the similarly named [VS](../etc/Vanu_Sovereignty.md)
 guide in flight projectiles to the currently painted target. Each energy sphere
 has an outer plasmoid mass that continues to eat away at the target after the
 initial explosive impact. It has no splash damage and does significantly less
-damage than the [Starfire](../items/Starfire.md)
+damage than the [Starfire](Starfire.md)
 [MAX](Mechanized_Assault_Exo-Suit.md). It does a fair ammount of damage to
 ground vehicles as well if you can hit them.
 

@@ -24,7 +24,7 @@ use any of these turrets at any time, and they do not need to be
 unmanned), though the turrets will slowly repair themselves automatically at all
 times.
 
-Also known as an [Ancient-Tech Turret](Ancient-Tech_Turret.md).
+Also known as an Ancient-Tech Turret.
 
 There is a [known issue](../etc/Known_Issues.md) where friendly manned Ancient
 Sentry Turrets can appear enemy-controled.

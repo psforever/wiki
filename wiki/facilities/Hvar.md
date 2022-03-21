@@ -1,5 +1,5 @@
 Hvar is [Extinction](../locations/Oshur.md#Extinction)'s only
-[Interlink Facility](../terminology/Interlink.md) and is in the North East
+[Interlink Facility](../locations/Interlink.md) and is in the North East
 inside grids F8, F9, G8 and G9.
 
 It is [Lattice](../terminology/Lattice.md) Linked to:

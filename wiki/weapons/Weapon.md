@@ -69,7 +69,7 @@ slot 3. These are smaller weapons, as the pistol holster is only 3x3. The
 weapons that use the pistol holster are:
 
 - All Empire-Specific pistols
-- [AMP](AMP.md)
+- [AMP](Automatic_Machine_Pistol.md)
 - [Spiker](Spiker.md)
 - Hand-Held Grenades
 
@@ -117,7 +117,7 @@ The exceptions to this rule are
 [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) weapons. The [Beamer](Beamer.md)
 and the [Pulsar](Pulsar.md) have an inherent AP mode which allows the user to
 switch to armor piecing on the fly without worrying about different ammo types.
-The [Lasher](Lasher.md) and the
+The [Lasher](Lasher.md)  and the
 [Ancient Technology](../terminology/Ancient_Technology.md) weapons are already
 effective against all type of enemies without different ammunition types or
 firing modes designed specifically for them.
@@ -132,7 +132,7 @@ weapon has a role on the battlefield.
 
 The combat knives of PlanetSide are the [Chainblade](../items/Chainblade.md),
 [Mag-Cutter](Mag-Cutter.md), and [Force-Blade](Force-Blade.md). Knives are
-generally a soldier's last resort, although many [Infiltrators](Infiltrator.md)
+generally a soldier's last resort, although many [Infiltrators](../items/Infiltration_Suit.md)
 do use the combat knives as primary weapons, usually with the help of the
 [Melee Booster](../implants/Melee_Booster.md) implant. Also, all knives have a
 Force Attack funcion which allows them to become much more powerful, but it
@@ -151,7 +151,7 @@ the [Standard Assault](../certifications/Standard_Assault.md) certification.
 #### Pistols
 
 Pistols are generally used as back up weapons, although
-[Infiltrators](Infiltrator.md) are forced to use these as weapons if they do not
+[Infiltrators](../items/Infiltration_Suit.md) are forced to use these as weapons if they do not
 use the Combat Knife or the
 [Adaptive Construction Engine](Adaptive_Construction_Engine.md). Also, many
 soldiers use pistols as a back up weapon, since many of them use the same ammo
@@ -162,7 +162,7 @@ classes of pistols, long range pistols and short range pistols. Also, when a
 player spawns, they will have their Empire-specific pistol with them.
 
 Short range pistols are what Infiltrators tend to like to use. These are the
-[AMP](AMP.md) and the [Mag-Scatter](Mag-Scatter.md). These weapons are designed
+[AMP](Automatic_Machine_Pistol.md) and the [Mag-Scatter](Mag-Scatter.md). These weapons are designed
 to be close range, so, naturally, the Infiltrator, as a generally close range
 class, can use this to their advantage. Also, many Snipers and Medium Assault
 users like to take one of these weapons as a close range weapon rather than
@@ -213,7 +213,7 @@ friendly due to this. However, even veteran characters use these weapons. These
 weapons are the [Cycler](Cycler.md), [Gauss](Gauss.md), and [Pulsar](Pulsar.md).
 While these weapons can all be fired in fully automatic, this can only be
 reliably used in close range combat. For longer range combat, burst firing is
-preferable to keep the [Cone of fire](../etc/Cone_of_fire.md) under control.
+preferable to keep the [Cone of fire](../terminology/Cone_of_fire.md) under control.
 
 #### Punisher
 
@@ -264,7 +264,7 @@ very low time to kill in close range combat.
 
 #### Lasher
 
-The [Lasher](Lasher.md) is the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
+The [Lasher](Lasher.md)  is the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
 Heavy Assault weapon. The Lasher features a "lash" which does damage to all
 surrounding targets after a Lasher orb hits the ground, an enemy, or anything.
 This makes the Lasher quite an effective indoor room clearer, as the wall and
@@ -303,7 +303,7 @@ crouch, even in close range combat to minimize the cone of fire.
 
 #### Maelstrom
 
-The [Maelstrom](Maelstrom.md) is an
+The [Maelstrom](Maelstrom.md)  is an
 [Ancient Technology](../terminology/Ancient_Technology.md)
 [Heavy Assault](../certifications/Heavy_Assault.md) weapon. The Maelstrom is an
 incredibly versatile weapon which has both potential for anti-personnel and
@@ -311,7 +311,7 @@ anti-armor use. In primary mode, a vortex whip comes out of the end of the
 Maelstrom, which, while it does not do as much damage as the normal
 [Heavy Assault](../certifications/Heavy_Assault.md) weaponry, can be used if
 needed. The secondary mode fires a grenade which does quite a bit of damage and
-can lash, similarily to the [Lasher](Lasher.md), through walls and around
+can lash, similarily to the [Lasher](Lasher.md) , through walls and around
 corners. The final mode is the same as the secondary mode, except there is a
 two-second fuse on the grenade, which allows the weapon to be used as Special
 Assault.
@@ -501,7 +501,7 @@ well.
 
 ### Long Range Combat
 
-In long range combat, [cone of fire](../etc/Cone_of_fire.md) management becomes
+In long range combat, [cone of fire](../terminology/Cone_of_fire.md) management becomes
 incredibly important. Generally speaking, fully automatic fire is never
 recommended for long range combat, as the cone of fire blooms far too much to be
 useful. Also, at these long ranges, it is important to remember that gravity
@@ -511,7 +511,7 @@ to compensate for this.
 ## See Also
 
 - [Weapons Index](Weapons_Index.md)
-- [Weaponry Merit Commendations](../Weaponry_Merit_Commendations.md)
+- [Weaponry Merit Commendations](../merits/Weaponry_Merit_Commendations.md)
 
 <!--[Category:Terminology](Category:Terminology.md)-->
 <!--[Category:Weapons](Category:Weapons.md)--> [Category:Game

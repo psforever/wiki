@@ -7,7 +7,7 @@ well as receive information regarding the current battle.
 The main interface of the in-game chat system. This is where all communication
 is sent and received.
 
-(See Also: [HUD Chat Pane](../etc/Heads-up_Display.md#Status_&_Chat_Pane))
+(See Also: [HUD Chat Pane](../etc/Heads-up_Display.md#status--chat-pane-onoff))
 
 ## Sections
 
@@ -69,7 +69,7 @@ These messages are color-coded per empire.
 
 - White Name - This can occur if a player is killed by projectiles that are not
   "owned" by anyone. This can occur with slow projectiles like
-  [Flail](../items/Flail.md) projectiles and
+  [Flail](../vehicles/Flail.md) projectiles and
   [Orbital Strikes](Orbital_Strike.md) when the player that fired them logs off
   before the projectile hits. Being killed by a flail weapon directly (before it
   hits the ground) will also result in white killspam. Special CSR abilities
@@ -160,7 +160,7 @@ information about each.
   unlimited range.
 - Command - <font color="#80FFD4">Teal</font> - Channel used by soldiers of the
   same [Command Rank](../terminology/Command_Rank.md) (Command Rank 2 or above),
-  as well as continental and global messages sent by friendly [CR5s](CR5.md),
+  as well as continental and global messages sent by friendly CR5s,
   with range varying on command rank. Situation Reports, reports that a
   Commander can send to Commanders that are one level above him, also use this
   color.
@@ -172,7 +172,7 @@ information about each.
     continent
   - Command Rank 5 - Global range, seen by all CR5 soldiers on the server
 - CSR World Broadcast - <font color="#FF8080">Red</font> - **This channel can
-  only be used by [CSRs](CSR.md)**, yet can be seen by all players of all
+  only be used by CSRs**, yet can be seen by all players of all
   empires on the same server.
   - CSR Tell - Used by CSRs for private communication between the CSR and
     player, similar to the regular tell, except for its color and tag.

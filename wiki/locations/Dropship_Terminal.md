@@ -13,7 +13,7 @@ type of pad is the only place the three largest aircraft can be spawned.
 This terminal will not create ground vehicles.
 
 They can only be found at a [Dropship Center](../locations/Dropship_Center.md),
-or in [Sanctuary](Sanctuary.md).
+or in [Sanctuary](../locations/Sanctuary.md).
 
 **See also:**
 

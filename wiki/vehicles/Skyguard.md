@@ -4,7 +4,7 @@
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Assault Buggy                                                                                                                       |
 | **Role**                   | Anti-Aircraft                                                                                                                             |
-| **Certification Required** | [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>) or [Light Scout](../certifications/Light_Scout.md)                  |
+| **Certification Required** | [Assault Buggy](../certifications/Assault_Buggy_(Certification).md) or [Light Scout](../certifications/Light_Scout.md)                  |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                                              |
 | **Primary Weapon**         | [Flak](../weapons/Flak.md) Cannon                                                                                                         |
 | **Secondary Weapon**       | 12mm machine gun                                                                                                                          |
@@ -31,6 +31,6 @@ June, 2003.
 
 <!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
 
-[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)
+<!--[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)-->
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

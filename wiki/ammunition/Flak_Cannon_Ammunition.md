@@ -1,6 +1,6 @@
 |                                                 |                                              |
 | ----------------------------------------------- | -------------------------------------------- |
-| **Used by**                                     | [Skyguard](../items/Skyguard.md)             |
+| **Used by**                                     | [Skyguard](../vehicles/Skyguard.md)             |
 | **Empire**                                      | [Common Pool](../terminology/Common_Pool.md) |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
 | **Quantity per box**                            | 200 Rounds                                   |

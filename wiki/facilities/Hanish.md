@@ -5,7 +5,7 @@ on [Ishundar](../locations/Ishundar.md) and is in the north inside
 It has [Lattice](../terminology/Lattice.md) Links to:
 
 - [Technology Plant](../locations/Technology_Plant.md) [Girru](Girru.md)
-- [Interlink Facility](../terminology/Interlink.md) [Irkalla](Irkalla.md)
+- [Interlink Facility](../locations/Interlink.md) [Irkalla](Irkalla.md)
 - Bio Laboratory [Dagon](Dagon.md)
 - [Dropship Center](../locations/Dropship_Center.md) [Akkan](Akkan.md)
 - A [Geowarp](../locations/Geowarp.md)

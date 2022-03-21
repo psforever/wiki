@@ -35,7 +35,7 @@ still has the tallest mountain on the planet. Commanders will recognize the many
 traffic flow bottlenecks and the centrally located
 [Dropship Center](Dropship_Center.md) in the middle of Cyssor.
 
-[Continent Locking](Continent_lock.md) Cyssor grants a +10% armor bonus to all
+[Continent Locking](../etc/Continental_lock.md) Cyssor grants a +10% armor bonus to all
 vehicles of given empire.
 
 ---

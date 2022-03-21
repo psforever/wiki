@@ -8,7 +8,7 @@ Friendly units are displayed in Green. Enemy Units are displayed in Red.
 
 Depending on certain variables such as
 [Motion Sensors](../weapons/Adaptive_Construction_Engine.md#Motion_Sensor_Alarm)
-or control of an [Interlink Facility](Interlink.md), some Enemy units may or may
+or control of an [Interlink Facility](../locations/Interlink.md), some Enemy units may or may
 not show up on your Radar.
 
 When you are outdoors, by default, your Proximity Map displays a map 200m in
@@ -42,7 +42,7 @@ You can toggle the Map on and off from your Soldier Management Bar, located at
 the bottom right of your HUD.
 
 The **Proximity Map** is also called the Proximity Radar, Radar Map, or,
-incorrectly, the [Overhead Map](terminology/Overhead_Map.md).
+incorrectly, the [Overhead Map](Overhead_Map.md).
 
 <!--[Category:Terminology](Category:Terminology.md)--> [Category:Game
 

@@ -1,7 +1,7 @@
 Kyoi is one of the four Bio Laboratories on [Amerish](../locations/Amerish.md).
 It is located in the very South East of Amerish, in grid N15.
 
-Kyoi has [Lattice](../Lattice.md) Links to:
+Kyoi has [Lattice](../terminology/Lattice.md) Links to:
 
 - [Technology Plant](../locations/Technology_Plant.md) [Heyoka](Heyoka.md)
 - Technology Plant [Mekala](Mekala.md)

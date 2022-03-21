@@ -150,6 +150,6 @@
 
 This [Merit](Merit_Commendations.md) is awarded for killing players that are
 [Black Ops](../terminology/Black_Ops.md), and does not have a
-[unique kill](unique_kill.md) requirement.
+[unique kill](../terminology/Unique_kill.md) requirement.
 
 <!--[Category:Merits](../Category:Merits.md)-->

@@ -17,7 +17,7 @@ Equipment:
 
 Vehicles:
 
-- [Flail](../items/Flail.md)
+- [Flail](../vehicles/Flail.md)
 - [Router](../vehicles/Router.md)
 - [Switchblade](../items/Switchblade.md)
 

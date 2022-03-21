@@ -18,7 +18,7 @@ explosive impact, the weapon leaves behind a plasma field for a relatively long
 time. Anything stepping into the plasma field will take minor armor damage.
 Soldiers wearing an [Infiltration Suit](../items/Infiltration_Suit.md) when hit
 will be visible similar to being hit by
-[Plasma grenades](../weapons/Plasma_grenade.md). While the initial explosive
+[Plasma grenades](Plasma_grenade.md). While the initial explosive
 impact is not as great as the other
 [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md) gunner weapons, the
 lingering plasma field can be used as an area control weapon. The weapon is also

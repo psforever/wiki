@@ -1,9 +1,9 @@
 ![](../images/Matrix_Panel.jpg "Matrix_Panel.jpg")
 
-Allows a soldier to [bind](Bind.md) to a location as a
+Allows a soldier to [bind](../terminology/Matrix.md) to a location as a
 [spawn point](../terminology/Spawn_point.md) after death or
 [deconstruction](../terminology/Deconstruct.md). Matrix Panels are located on
-the side of [respawn tubes](../items/Respawn_Tube.md) and on the front of
+the side of [respawn tubes](Respawn_Tube.md) and on the front of
 [AMSes](../vehicles/Advanced_Mobile_Station.md). They are also located in other
 various locations of a base, such as the
 [main lobby](../locations/Main_lobby.md), basement areas, and the air vehicle

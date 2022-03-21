@@ -14,7 +14,7 @@ activities, as without it, soldiers would die far too quickly to be effective.
 
 Two of the most basic support activies, but possibly two of the most important.
 Without this, soldiers would not last more than two duels, as their
-[health](../terminology/Health.md) and [armor](Armor.md) would be far too low to
+[health](../terminology/Health.md) and [armor](../armor/Armor_Index.md) would be far too low to
 go on. This is where the medic and engineer come in to heal and repair a soldier
 to help him fight far longer than he would normally be able to.
 
@@ -38,14 +38,14 @@ boost his armor up as well.
 Available [Merit Commendations](../merits/Merit_Commendations.md):
 
 - [Combat Resuscitation](../merits/Combat_Resuscitation.md)
-- [Resuscitation Medic](../locations/Resuscitation_Medic.md)
+- [Resuscitation Medic](../merits/Resuscitation_Medic.md)
 
 ## Equipment Support
 
 Equipment Support involves using a
 [Nano Dispenser](../weapons/Nano_Dispenser.md) from the Engineering
 certification to repair [vehicles](../vehicles/Vehicle.md),
-[Phalanx](../items/Phalanx.md) turrets, and [Spitfires](Spitfire.md). Generally,
+[Phalanx](../items/Phalanx.md) turrets, and [Spitfires](../weapons/Adaptive_Construction_Engine.md#spitfire-turret). Generally,
 it is more difficult to find dedicated Equipment supporters in the field since
 Nano Dispensers are harder to carry since a player has to sacrifice an entire
 rifle slot, as opposed to a
@@ -62,7 +62,7 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 
 Hacking Support involves using a
 [Remote Electronics Kit](../weapons/Remote_Electronics_Kit.md) along with the
-[Hacking](<../certifications/Hacking_(Certification).md>) or
+[Hacking](../certifications/Hacking_(Certification).md) or
 [Advanced Hacking](../certifications/Advanced_Hacking.md) to hack enemy
 terminals for your [Empire](../terminology/Empire.md) to use for a short amount
 of time. This type of support is invaluable as soldiers who are caught deep
@@ -73,7 +73,7 @@ friendly hacker to convert an
 Available [Merit Commendations](../merits/Merit_Commendations.md):
 
 - [Hacking Support](../merits/Hacking_Support.md)
-- [Locker Safe Cracker](Locker_Safe_Cracker.md)
+- Locker Safe Cracker
 
 ## Vehicular Support
 
@@ -118,7 +118,7 @@ Available [Merit Commendations](../merits/Merit_Commendations.md):
 When a [vehicle](../vehicles/Vehicle.md) is heavily damaged and far into enemy
 territory without an Engineer nearby to repair him, the
 [Lodestar](../vehicles/Lodestar.md) is where he turns. A floating
-[repair silo](repair_silo.md), the lodestar provides much needed repairs to
+[repair silo](../items/Repair_Rearm_Silo.md), the lodestar provides much needed repairs to
 vehicles who would be long gone without it. A powerful support tool in the right
 hand, the Lodestar fills a vital role in [PlanetSide](PlanetSide.md).
 

@@ -9,7 +9,7 @@ Below are the times the events will be run on the servers:
 
 **[Werner](Werner.md) 11:00 am Pacific Time (7:00 pm UK, -7.00 UTC)**
 
-**[Emerald](../etc/Emerald.md) 4:00 pm Pacfic Time (7:00 pm East Coast, -7.00
+**[Emerald](Emerald.md) 4:00 pm Pacfic Time (7:00 pm East Coast, -7.00
 UTC)**
 
 **[Markov](Markov.md) 7:00 pm Pacific Time (-7.00 UTC)**

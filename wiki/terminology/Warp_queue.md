@@ -1,6 +1,6 @@
 Any [characters](Character.md) trying to enter a [zone](Zone.md) currently under
-[population lock](terminology/Population_Lock.mdtion_lock.md) via a
-[warpgate](../Warpgate.md), [geowarp](../locations/Geowarp.md), or the
+[population lock](Population_Lock.md) via a
+[warpgate](../locations/Warpgate.md), [geowarp](../locations/Geowarp.md), or the
 [HART](HART.md) shuttle, rather than immediately being transported to the target
 continent will be placed in the **Warp Queue**.
 

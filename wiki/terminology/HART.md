@@ -1,5 +1,5 @@
 ![](../images/Hart.jpg "fig:Hart.jpg")
-![Image:HART-Icon.jpg](HART-Icon.jpg "fig:Image:HART-Icon.jpg") The **HART**, or
+![Image:HART-Icon.jpg](../images/HART-Icon.jpg "fig:Image:HART-Icon.jpg") The **HART**, or
 **High Altitude Rapid Transport** shuttle, is a large passenger spacecraft that
 makes regular flights at three minute intervals to any of the ten
 [planets](../locations/Planet.md) and their
@@ -11,7 +11,7 @@ Boarding a HART will present you with a [Interstellar Map](Interstellar_Map.md)
 where you can select your launch destination; you will then descend via
 [Drop Pod](../items/Drop_Pod.md) to the target you selected.
 
-If you opt to drop into a [Poplocked](Population_Lock.md
+If you opt to drop into a [Poplocked](Population_Lock.md)
 [planet](../locations/Planet.md), you will be entered in a
 [queue](Warp_queue.md), and you will automatically drop when a position becomes
 open.

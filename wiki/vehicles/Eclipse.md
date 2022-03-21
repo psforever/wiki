@@ -1,5 +1,5 @@
 ![](../images/VS_Eclipse.jpg "fig:VS_Eclipse.jpg") Eclipse with dual
-[Pulsed Particle Accelerators](<../items/Pulsed_Particle_Accelerator_(BFR).md>)\]\]
+[Pulsed Particle Accelerators](../items/Pulsed_Particle_Accelerator_(BFR).md)\]\]
 
 ![](../images/Eclipse.jpg "fig:Eclipse.jpg")'s
 [Terran](../etc/Terran_Republic.md) Eclipse\]\]
@@ -31,9 +31,9 @@ The Pilot Weapons available to the Eclipse are
 
 - The [Continuous Laser](../weapons/Continuous_Laser.md) (Anti-Infantry)
 - The
-  [Pulsed Particle Accelerator](<../items/Pulsed_Particle_Accelerator_(BFR).md>)
+  [Pulsed Particle Accelerator](../items/Pulsed_Particle_Accelerator_(BFR).md)
   (Anti-Vehicular)
-- The [Starfire](<../items/Starfire_(BFR).md>) (Anti-Aircraft)
+- The [Starfire](../items/Starfire_(BFR).md) (Anti-Aircraft)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
 - The [Armor Siphon](../weapons/Armor_Siphon.md) (Anti-Vehicular)
 

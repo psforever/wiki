@@ -223,7 +223,7 @@ Fire then repaired by you. These include:
 
 - [Phalanx](../items/Phalanx.md) Wall Turrets (manned or unmanned)
 - All [Vehicles](../vehicles/Vehicle.md)
-- [Spitfire Turrets](../Spitfire_Turret.md)
+- [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret)
 - [Cerberus Turrets](../weapons/Cerberus_Turret.md)
 - [Shadow Turrets](../weapons/Shadow_Turret.md)
 - [One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md)

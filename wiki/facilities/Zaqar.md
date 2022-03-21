@@ -3,7 +3,7 @@ Zaqar is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md) on
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Neti](Neti.md)
+- [Interlink Facility](../locations/Interlink.md) [Neti](Neti.md)
 - [Amp Station](../locations/Amp_Station.md) [Enkidu](Enkidu.md)
 
 It is a [LLU](../terminology/Lattice_Logic_Unit.md) Facility and has a Gun Tower

@@ -6,7 +6,7 @@
 | -------------------------- | ----------------------------------------------------------- |
 | **Type**                   | Cloaked Aircraft                                            |
 | **Role**                   | Stealth                                                     |
-| **Certification Required** | [Phantasm](<../certifications/Phantasm_(Certification).md>) |
+| **Certification Required** | [Phantasm](../certifications/Phantasm_(Certification).md) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                |
 | **Primary Weapon**         | \-                                                          |
 | **Secondary Weapon**       | \-                                                          |
@@ -41,7 +41,7 @@ vehicle, then get in again.
 
 The Phantasm has the greatest sustainable speed of any aircraft in the game.
 Over reasonable distances, it is the only aircraft other than the
-[Wasp](Wasp.md) that can outrun a [Mosquito](Mosquito.md) if the afterburner is
+[Wasp](Wasp.md) that can outrun a [Mosquito](Mosquito.md)  if the afterburner is
 applied optimally. The trade-off is that the Phantasm has very poor acceleration
 and deceleration, thus changes in speed must be planned well in advance
 (especially when preparing to land).
@@ -50,9 +50,9 @@ Lock-on weapons are ineffective against the Phantasm while cloaked, though
 [Flak](../weapons/Flak.md) will still explode in proximity to it. Automated
 defense systems will not fire on a cloaked phantasm. An enemy cloaked phantasm
 inside the [SOI](../locations/Sphere_of_Influence.md) of a base with
-[interlink](../terminology/Interlink.md)
+[interlink](../locations/Interlink.md)
 [benefits](../terminology/Facility_Linked_Benefit.md) will show up on the
-[proximity map](../Proximity_Map.md) of friendly players.
+[proximity map](../terminology/Proximity_Map.md) of friendly players.
 
 The pilot can wear up to [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) armor, and
 can earn the [Galaxy Support Pilot](../merits/Galaxy_Support_Pilot.md)
@@ -63,4 +63,4 @@ bail from the aircraft.
 <!--[Category:Vehicles](Category:Vehicles.md)--> [Category:Common Pool
 
 Vehicles](Category:Common_Pool_Vehicles.md)
-[Category:Air Vehicles](Category:Air_Vehicles.md)
+<!--[Category:Air Vehicles](Category:Air_Vehicles.md)-->

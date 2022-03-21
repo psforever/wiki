@@ -27,9 +27,9 @@ lacking.
 
 ## Defending
 
-First and foremost, CE is key. Place [boomers](Boomer.md) on the inside door,
+First and foremost, CE is key. Place [boomers](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer) on the inside door,
 one each, and an alarm near the [CC](../locations/Control_Console.md). Heavily
-mine the outside. [Spits](Spitfire.md) and alarms aren’t too useful outside, as
+mine the outside. [Spits](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and alarms aren’t too useful outside, as
 vehicles will probably show up early, and then easily destroy them, without
 taking much damage. Mines, however, will wreak havoc on them. A very deadly
 combo is a combination of [Disruptor Mines](../weapons/Disruptor_Mine.md)
@@ -49,7 +49,7 @@ landings, aim at the ground floor, and fire (after making sure it’s clear of
 friendlies). Standard weaponry is all that’s needed for taking out air droppers.
 However, despite this, once the tower has troops inside, it’s near impossible to
 beat them back without outside support. in a heavily forested area, a
-[TRAP](TRAP.md) may be able to bottleneck people, but in an open space the high
+[TRAP](../weapons/Tactical_Resonance_Area_Protection.md) may be able to bottleneck people, but in an open space the high
 influence radius makes it little more then a target.
 [Cerberus turrets](../weapons/Cerberus_Turret.md) placed on the roof/ground may
 help prevent mossies campers, but will do little to stop droppers and ground

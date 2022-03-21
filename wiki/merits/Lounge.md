@@ -1,5 +1,5 @@
 ![](../images/TRLounge.jpg "fig:TRLounge.jpg") Lounge\]\] Sometimes called the
-Kitchen, this room is typically adjacent to the [respawn room](respawn_room.md)
+Kitchen, this room is typically adjacent to the [respawn room](../locations/Spawn_Room.md)
 in a [facility](../locations/Facilities.md).
 
 The lounge contains a dining table, food storage unit, a sink, cabinets, sofa,

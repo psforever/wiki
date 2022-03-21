@@ -8,7 +8,7 @@ alphabetically.
 ## Guides by Author
 
 - [armordeth](Armordeth.md)
-- [Astrala](Astrala.md%27s_Guide_to_Planetside)
+- [Astrala](Astrala's_Guide_to_Planetside.md)
 - [Caudice](Caudice.md)
 - [DragonJTS](DragonJTS.md)
 - [elana](Elana.md)
@@ -16,7 +16,7 @@ alphabetically.
 - [Mudwink](Mudwink.md)
 - [JamQ](JamQ.md)
 - [martyr](Martyr.md)
-- [Niven](Niven.md's_Notes)
+- [Niven](Niven's_Notes.md)
 - [NeoPhoenixTE/TR](NeoPhoenixTR.md)
 - [Minignus](Minignus_infiltrator_startup.md)
 - [Quovatis](Magrider_Guide_by_Quovatis.md)
@@ -42,12 +42,12 @@ alphabetically.
 
 ### Infiltration
 
-- [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside)
+- [Astrala%27s_Guide_to_Planetside](Astrala's_Guide_to_Planetside.md)
 - [Minignus' Guide for the starting Infiltrator](Minignus_infiltrator_startup.md)
 
 ### Vehicles
 
-- [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside)
+- [Astrala%27s_Guide_to_Planetside](Astrala's_Guide_to_Planetside.md)
 - [Bombing Guide by Quovatis](Bombing_Guide_by_Quovatis.md)
 - [NeoPhoenixTR's BFR Hunters' Handbook](NeoPhoenixTR.md)
 - [Elana's Guide to Vulturing](Elana.md)
@@ -55,7 +55,7 @@ alphabetically.
 
 ### MAX armor suits
 
-- [Astrala%27s_Guide_to_Planetside](Astrala.md%27s_Guide_to_Planetside): AA
+- [Astrala%27s_Guide_to_Planetside](Astrala's_Guide_to_Planetside.md): AA
   [MAX](../items/Mechanized_Assault_Exo-Suit.md) ([TR](Terran_Republic.md)
   [Burster](../items/Burster.md) Config)
 - [Mudwink's TR MAX Highlights](Mudwink.md):
@@ -63,7 +63,7 @@ alphabetically.
 ### Weaponry
 
 - [Elana](Elana.md)'s guide to spikering.
-- [Niven's Notes: Striker](Niven.md's_Notes#Niven's_Notes:_Striker)
+- [Niven's Notes: Striker](Niven's_Notes.md#nivens-notes-striker)
 - [Minignus' Grunt Help](Minignus_grunt_help.md)
 
 [\*](category:Strategy.md)

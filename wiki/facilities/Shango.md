@@ -4,7 +4,7 @@
 
 [Lattice](../terminology/Lattice.md) links:
 
-- [Orisha](Orisha.md), [Tech Plant](Tech_Plant.md)
+- [Orisha](Orisha.md), [Tech Plant](../locations/Technology_Plant.md)
 - [Itan](Itan.md), [Bio Laboratory](../locations/Bio_Laboratory.md)
 - [Pamba](Pamba.md), [Amp Station](../locations/Amp_Station.md)
 - [Geowarp](../locations/Geowarp.md)

@@ -5,7 +5,7 @@ Dispersion Cannon\]\]
 | -------------------------- | --------------------------------------------------------------------------------------------------- |
 | **Type**                   | Heavy Artillery                                                                                     |
 | **Role**                   | Attack/Defense                                                                                      |
-| **Certification Required** | [Flail](<../certifications/Flail_(Certification).md>)                                               |
+| **Certification Required** | [Flail](../certifications/Flail_(Certification).md)                                               |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md) ([Ancient Tech](../terminology/Ancient_Technology.md)) |
 | **Primary Weapon**         | Dispersion Cannon                                                                                   |
 | **Occupants**              | 1 (Driver)                                                                                          |
@@ -38,22 +38,21 @@ information like the [laze pointer](../weapons/Laze_Pointer.md). Note however,
 that you will be targeting the feet of your own squad member!
 
 Laze Pointers may be obtained from the Flail itself, as well as all
-[Equipment terminals](Equipment_Terminal.md), and do not require any special
+[Equipment terminals](../items/Equipment_Terminal.md), and do not require any special
 [Certifications](../certifications/Certifications.md) to use.
 
 The Flail requires a [Vehicle Module](../etc/Vehicle_Module.md) lattice benefit,
 or linked [Cavern Lock Benefit](../etc/Cavern_Lock.md) in order to be
 purchasable on the surface. To recharge the Flail's capacitor, you must go to a
-[Repair/Rearm.md Silo](Repair_Rearm_Silo.md) at a facility that has the
+[Repair/Rearm.md Silo](../items/Repair_Rearm_Silo.md) at a facility that has the
 [Vehicle Module](../etc/Vehicle_Module.md) benefit, or use a
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) in the
 [Caverns](../locations/Caverns.md).
 
-<!--[category:Vehicles](category:Vehicles.md)--> [category:Ground
-
-Vehicles](category:Ground_Vehicles.md)
-[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)
-[category:Ancient Tech Vehicles](category:Ancient_Tech_Vehicles.md)
-[category:Core Combat](category:Core_Combat.md)
+<!--[category:Vehicles](category:Vehicles.md)-->
+<!--[category:Ground Vehicles](category:Ground_Vehicles.md)-->
+<!--[category:Common Pool Vehicles](category:Common_Pool_Vehicles.md)-->
+<!--[category:Ancient Tech Vehicles](category:Ancient_Tech_Vehicles.md)-->
+<!--[category:Core Combat](category:Core_Combat.md)-->
 
 <!--[Category:Game Items](Category:Game_Items.md)-->

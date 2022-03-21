@@ -15,7 +15,7 @@ Bolt Ammunition is large caliber ammunition for use in the
 larger than regular rifle or pistol ammunition, and as such, it causes more
 damage to all targets. Furthermore, because of it's increased power over regular
 ammunition, weapons firing bolt ammunition have a large increase in
-[cone of fire](../etc/Cone_of_fire.md) after each shot.
+[cone of fire](../terminology/Cone_of_fire.md) after each shot.
 
 Since Bolt Ammunition is for use in small arms, it can pass though the energy
 shields of [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md).

@@ -3,7 +3,7 @@
 | **Type**               | Armor                                              |
 | **Provides Access To** | [Infiltration Suit](../items/Infiltration_Suit.md) |
 | **Pre-requisite**      | \-                                                 |
-| **Required For**       | [Phantasm](<Phantasm_(Certification).md>)          |
+| **Required For**       | [Phantasm](Phantasm_(Certification).md)          |
 | **Cert Point Cost**    | 2                                                  |
 | **Protection**         | 0                                                  |
 | **Holsters**           | 1 Pistol                                           |

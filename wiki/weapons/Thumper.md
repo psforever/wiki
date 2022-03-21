@@ -23,7 +23,7 @@ primary detonate on contact mode, as well as a secondary two-second- fuse mode
 that also detonates upon striking an enemy.
 
 Ideal uses for the thumper are in [Back Door](../locations/Back_Door.md) or
-[Tower](../Towers.md) defense. The two-second-fuse setting allows the user to
+[Tower](../locations/Towers.md) defense. The two-second-fuse setting allows the user to
 fire around corners, saturating a target or area without visual contact. In
 addition, when loaded with a supply of [Jammer grenades](Jammer_Grenade.md),
 they can be quite handy eliminating minefields on

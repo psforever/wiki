@@ -14,7 +14,7 @@ PlanetSide.
 To find a complete listing by revision number, view the Patches category, linked
 at bottom.
 
-[Unnumbered Patches](../merits/Unnumbered_Patches.md)
+[Unnumbered Patches](Unnumbered_Patches.md)
 
 ## 2003
 
@@ -26,7 +26,7 @@ at bottom.
   [Implant](../implants/Implants.md) confirmation removed.
   [Tells](../commands/Tell.md) no longer case sensitive.
 - [1.2](1.2.md) - [Zone](../terminology/Zone.md) crash fixes, weather tweaks,
-  and [Server](Server.md) listing tweaks added. Base kill
+  and Server listing tweaks added. Base kill
   [Experience](../etc/Experience.md) doubled from 50 to 100.
 - [1.3](1.3.md) - Zone and game crash fixes
 
@@ -34,7 +34,7 @@ at bottom.
 
 - [1.4](1.4.md) - Vehicle Queues, Population Lock indicators, and Bandwidth
   settings. Other minor tweaks.
-- [1.5](1.5.md) - [Skyguard](../items/Skyguard.md),
+- [1.5](1.5.md) - [Skyguard](../vehicles/Skyguard.md),
   [Liberator](../vehicles/Liberator.md)
   _[Certification](../certifications/Certification.md)_, and
   [Orbital Strikes](../commands/Orbital_Strike.md)/[EMPs](../commands/EMP.md) go
@@ -43,13 +43,13 @@ at bottom.
 
 ### July
 
-- [Liberator Patch](../merits/Unnumbered_Patches.md#Liberator_.287-3-03.29) -
+- [Liberator Patch](Unnumbered_Patches.md#liberator-7-3-03) -
   [Liberator](../vehicles/Liberator.md) goes live and is available for purchase!
   Door bug fixes.
 
 ### August
 
-- [LLU Patch](../merits/Unnumbered_Patches.md#LLU_Goes_Live_-_August_14.2C_2003) -
+- [LLU Patch](Unnumbered_Patches.md#llu-goes-live---august-14-2003) -
   LLU capture system goes live! [Lasher](../weapons/Lasher.md) and
   [Starfire](../items/Starfire.md) damage degredation tweaks,
   [Basilisk](../vehicles/Basilisk.md) and [Wraith](../vehicles/Wraith.md)
@@ -128,7 +128,7 @@ at bottom.
   [AMS](../vehicles/Advanced_Mobile_Station.md) design go live!
   [Tower](../locations/Towers.md) [SOIs](../locations/Sphere_of_Influence.md)
   visible at all map zoom levels, and session stats (K/D,
-  [BEP](../Battle_Experience_Points.md)/[CEP](../CEP.md), time) available
+  [BEP](../terminology/Battle_Experience_Points.md)/[CEP](../terminology/Command_Experience_Points.md), time) available
 
 ### June
 
@@ -153,7 +153,7 @@ at bottom.
   [LLU](../terminology/Lattice_Logic_Unit.md)
   [sub-capitols](../locations/Sub-Capitol.md) linked only by
   [Capitol](../locations/Capitol.md) spawn LLUs again.
-  [Striker](../weapons/Striker.md), [Radar](Radar.md),
+  [Striker](../weapons/Striker.md), Radar,
   [Outfit](../terminology/Outfit.md) invitation and "turn left" keymapping fix.
 - [2.9.8](2.9.8.md) - [MA](../certifications/Medium_Assault.md) damage
   degredation extended. [Starfire](../items/Starfire.md) and
@@ -197,7 +197,7 @@ at bottom.
   Cavern resecures count towards [BFR Imprint](../terminology/BFR_Imprint.md)
   every 20 minutes.
 - [3.0.29](3.0.29.md) - [BFR](../vehicles/BattleFrame_Robotics.md) Cert split
-  into basic [BFR](<../certifications/BFR_(Certification).md>),
+  into basic [BFR](../certifications/BFR_(Certification).md),
   [BFR AI](../certifications/BFR_Anti-Infantry.md), and
   [BFR AA](../certifications/BFR_Anti-Aircraft.md) certs. Round 2 of BFR nerfs.
 - [3.0.29.1](3.0.29.1.md) - [TR Gunner Mortar](../vehicles/Colossus.md) cert
@@ -228,8 +228,8 @@ at bottom.
   and [Fury](../vehicles/Fury.md) rocket tweaks
 - [3.2.12](3.2.12.md) - [Battle Rank](../terminology/Battle_Rank.md) 23 goes
   live! [ATV](../vehicles/ATV.md) and [Harasser](../vehicles/Harasser.md) now
-  only 1 cert point. [BFR](<../certifications/BFR_(Certification).md>) upped to
-  4, [Uni-MAX](<Uni-MAX_(Certification).md>) upped to 6, and
+  only 1 cert point. [BFR](../certifications/BFR_(Certification).md) upped to
+  4, [Uni-MAX](../certifications/Uni-MAX_(Certification).md) upped to 6, and
   [Air Cavalry](../terminology/Air_Cavalry.md) upped to 6 cert points.
   [Switchblade](../items/Switchblade.md) buffs.
 - [3.3.7](3.3.7.md) - [ANT](../vehicles/Advanced_Nanite_Transport.md) tweaks,
@@ -246,7 +246,7 @@ at bottom.
 - [3.3.10](3.3.10.md) - [Aphelion](../vehicles/Aphelion.md) Plasma Mortar burn
   framerate tweak
 - [3.4.5](3.4.5.md) - New Global Lattice with
-  [Empire Benefits](Empire_Benefits.md) go live!
+  [Empire Benefits](../terminology/Empire_Benefit.md) go live!
   [Broadcast warpgate](../items/Broadcast_warpgate.md) mechanics revision, /who
   cr, and [Air Cavalry](../terminology/Air_Cavalry.md) certification split, and
   new [Lasher](../weapons/Lasher.md) orb effect implemented. Multitude of bug
@@ -287,7 +287,7 @@ at bottom.
   [BFR](../vehicles/BattleFrame_Robotics.md) and Tank favorites hotfix.
   [Laze](../weapons/Laze_Pointer.md) fix. Crash to desktop hotfix.
 - [3.6.8](3.6.8.md) - Two-year [Term of Service](../merits/Term_of_Service.md)
-  Merit and [Heavy Sniper](Heavy_Sniper.md) Rifle live! Avatar,
+  Merit and Heavy Sniper Rifle live! Avatar,
   [CE](../certifications/Combat_Engineering.md),
   [Monolith](../items/Monolith.md), Ground Vehicle, and reticle fixes. Squad
   experience revisions.
@@ -351,7 +351,7 @@ at bottom.
 - [3.10.0](3.10.0.md) - Added
   [Tactical Overlay](../terminology/Tactical_Overlay.md),
   [Certification](../certifications/Certification.md) timer reduced from 24 to 6
-  hours, [Buggy](<../certifications/Assault_Buggy_(Certification).md>) and
+  hours, [Buggy](../certifications/Assault_Buggy_(Certification).md) and
   [ATV](../vehicles/ATV.md) improvements, holiday decorations.
 - [3.10.2](3.10.2.md) - [Enhanced Targeting](../implants/Enhanced_Targeting.md)
   can now see BFR shield health; multiple changes to Flight
@@ -410,7 +410,7 @@ at bottom.
   hack detection added and changes to the [Pounder](../items/Pounder.md)
   [MAX](../items/Mechanized_Assault_Exo-Suit.md).
 - [3.11.28](3.11.28.md) - Setting changes for the Special Event
-  "[Blast Into Battle, Double Time](Blast_Into_Battle.md,_Double_Time)".
+  "[Blast Into Battle, Double Time](../etc/Blast_Into_Battle,_Double_Time.md)".
 
 ### December
 
@@ -424,7 +424,7 @@ at bottom.
 
 - [3.12.04](3.12.04.md) - New
   [Combat Engineering](../certifications/Combat_Engineering.md) deployables
-- [April Fool's Patch](../merits/Unnumbered_Patches.md#Game_Update_.2803.2F30.2F2007.29) -
+- [April Fool's Patch](Unnumbered_Patches.md#game-update-03302007) -
   Undocumented addition of Cake, Pie, and Doughnut Box graphics to replace
   [NC](../etc/New_Conglomerate.md), [TR](../etc/Terran_Republic.md), and
   [VS](../etc/Vanu_Sovereignty.md) [backpacks](../terminology/Backpack.md)
@@ -436,7 +436,7 @@ at bottom.
 
 ### May
 
-- [Anniversary Update](<Unnumbered_Patches#Anniversary_2007_Update_(5/18/2007).md>) -
+- [Anniversary Update](Unnumbered_Patches.md#anniversary-2007-update-5182007) -
   Added [Dragon](../weapons/Dragon.md), [Scorpion](../weapons/Scorpion.md),
   [Stinger](../weapons/Stinger.md), [Eraser](../items/Eraser.md), and
   [Spear](../weapons/Spear.md)
@@ -552,7 +552,7 @@ at bottom.
 
 - [3.15.44](3.15.44.md) -Valentine's day patch changing
   [VR Training](../locations/VR_Training.md) characters' names, and awarding a
-  [special merit](Ball_.md&_Chain).
+  [special merit](../merits/Ball_&_Chain.md).
 - [3.15.45](3.15.45.md) -Removed Valentine's day event
 - [3.15.46](3.15.46.md) -Every character received a free
   [certification](../certifications/Certification.md) reset
@@ -584,27 +584,27 @@ at bottom.
 
 ### August
 
-- [Server Merge patch](<Unnumbered_Patches#Server_Merge_and_Lasher_nerf_(08/25/2009).md>)
+- [Server Merge patch](Unnumbered_Patches.md#server-merge-and-lasher-nerf-08252009)
   -Merged [Gemini](../etc/Gemini.md) and [Werner](../etc/Werner.md),
   [Lasher](../weapons/Lasher.md) nerf.
 
 ### October
 
-- [Unnumbered Patch](../merits/Unnumbered_Patches.md) (10/15/09) -Fixed bug with
+- [Unnumbered Patch](Unnumbered_Patches.md) (10/15/09) -Fixed bug with
   five year [Term of Service](../merits/Term_of_Service.md) awards and
-  dramatically increased [BEP](../Battle_Experience_Points.md) and
+  dramatically increased [BEP](../terminology/Battle_Experience_Points.md) and
   [CEP](../terminology/Command_Experience_Points.md) awarded for facility
   captures.
-- [Unnumbered Patch](../merits/Unnumbered_Patches.md) (10/22/09) - Halloween
+- [Unnumbered Patch](Unnumbered_Patches.md) (10/22/09) - Halloween
   Event, The Spooktacular Bonus Experience Days
 
 ### November
 
-- [Unnumbered Patch](../merits/Unnumbered_Patches.md) (11/03/09) - Changes
+- [Unnumbered Patch](Unnumbered_Patches.md) (11/03/09) - Changes
   [Spooktacular Days](../etc/Spooktacular_Days.md) [event](../etc/Events.md)
   settings back to normal
 
 ### December
 
-- [Unnumbered Patch](../merits/Unnumbered_Patches.md) (12/09/09) - Game client
+- [Unnumbered Patch](Unnumbered_Patches.md) (12/09/09) - Game client
   now supports Windows Vista and Windows 7 by default

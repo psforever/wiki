@@ -29,7 +29,7 @@ and two of its sub-capitols rises high above the rest of the continent.
 
 Ceryshen is a [Home Continent](Home_Continent.md). See
 [Home Continent](Home_Continent.md) for the current empire
-[Sanctuary](Sanctuary.md) links.
+[Sanctuary](../locations/Sanctuary.md) links.
 
 This continent is also refered to as
 [Cery](../terminology/Acronyms_and_Slang.md).

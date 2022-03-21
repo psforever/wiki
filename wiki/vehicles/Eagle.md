@@ -27,7 +27,7 @@ them the ability to flee relatively quickly when under attack.
 The pilot weapons available to the Eagle are
 
 - The [Hammer](../items/Hammer.md) (Anti-Infantry)
-- The [Sparrow](<../items/Sparrow_(BFR).md>) Missile Pod (Anti-Aircraft)
+- The [Sparrow](../items/Sparrow_(BFR).md) Missile Pod (Anti-Aircraft)
 - The [Anti-Tank Machine Gun](../weapons/Anti-Tank_Machine_Gun.md)
   (Anti-Vehicular)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)

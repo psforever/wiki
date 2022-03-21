@@ -17,7 +17,7 @@ is a prerequisite for another certification you have, both will be forgotten
 automatically.
 
 _Example: If you "forget" [Armored Assault I](Armored_Assault_I.md);
-[Armored Assault II](Armored_Assault_II.md), [Flail](../items/Flail.md),
+[Armored Assault II](Armored_Assault_II.md), [Flail](../vehicles/Flail.md),
 [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md),
 [BFR Anti-Infantry](BFR_Anti-Infantry.md) and
 [BFR Anti-Aircraft](BFR_Anti-Aircraft.md) will also be forgotten if you have

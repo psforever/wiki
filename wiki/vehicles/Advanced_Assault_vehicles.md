@@ -6,12 +6,12 @@ lower-tech counterpart [vehicles](category:_Vehicles.md).
 
 Advanced Assault Vehicles include:
 
-- [Liberator](Liberator.md) ([Common Pool](../terminology/Common_Pool.md))
+- [Liberator](Liberator.md)  ([Common Pool](../terminology/Common_Pool.md))
 - [Magrider](Magrider.md) ([Vanu Sovereignty](../etc/Vanu_Sovereignty.md))
 - [Phantasm](Phantasm.md) ([Common Pool](../terminology/Common_Pool.md))
 - [Prowler](Prowler.md) ([Terran Republic](../etc/Terran_Republic.md))
 - [Reaver](Reaver.md) ([Common Pool](../terminology/Common_Pool.md))
-- [Skyguard](../items/Skyguard.md)
+- [Skyguard](Skyguard.md)
   ([Common Pool](../terminology/Common_Pool.md))
 - [Vanguard](Vanguard.md) ([New Conglomerate](../etc/New_Conglomerate.md))
 - [Vulture](Vulture.md) ([Common Pool](../terminology/Common_Pool.md))

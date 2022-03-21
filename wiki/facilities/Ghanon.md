@@ -6,7 +6,7 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 - [Amp Station](../locations/Amp_Station.md) [Ixtab](Ixtab.md)
   ([Sub-Capitol](../locations/Sub-Capitol.md))
-- [Interlink Facility](../terminology/Interlink.md) [Hurakan](Hurakan.md)
+- [Interlink Facility](../locations/Interlink.md) [Hurakan](Hurakan.md)
 - Interlink Facility [Kisin](Kisin.md)
 - [Amerish](../locations/Amerish.md) [Warpgate](../locations/Warpgate.md)
 

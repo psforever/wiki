@@ -98,7 +98,7 @@ Facilities. \*[The Bending](The_Bending.md) (Aug.
 (July 29 2005) \*[Martial Law](Martial_Law.md) (April
 1 2006) \*[Third Anniversary of PlanetSide](Third_Anniversary_of_PlanetSide.md)
 (May 19-May
-26 2006) \*[Blast Into Battle, Double Time](Blast_Into_Battle.md,_Double_Time)
+26 2006) \*[Blast Into Battle, Double Time](Blast_Into_Battle,_Double_Time.md)
 (July 27-August 8 2006) \*[The Chainblade Massacre](The_Chainblade_Massacre.md)
 (October/November 2006-2008,
 Halloween) \*[Spooktacular Days](Spooktacular_Days.md) (October 22nd - November

@@ -1,4 +1,4 @@
-![](Watch-tower.jpg "fig:Watch-tower.jpg") Watch Tower on
+![](../images/Watch-tower.jpg "fig:Watch-tower.jpg") Watch Tower on
 [Cyssor](Cyssor.md)\]\]
 
 ## Distinctive features
@@ -6,7 +6,7 @@
 - Five floors
 - No [Phalanx](../items/Phalanx.md) roof turrets
 - Second floor exterior catwalk
-- [Control Console](Control_Console.md) on level three
+- [Control Console](../locations/Control_Console.md) on level three
 - Roof sensor cluster with four vertical aerials
 
 ## Description
@@ -23,7 +23,7 @@ directly, though it is still rare to find a [VS](../etc/Vanu_Sovereignty.md)
 given level surrounding terrain.
 
 As is the case with all [Towers](Towers.md), the [Spawn Room](Spawn_Room.md) in
-Watch Towers include two [Spawn tubes](Spawn_tube.md), three
+Watch Towers include two [Spawn tubes](../items/Respawn_Tube.md) , three
 [Equipment Terminals](../items/Equipment_Terminal.md), and two banks of
 [Lockers](../items/Lockers.md).
 

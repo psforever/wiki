@@ -7,7 +7,7 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 - [Amp Station](../locations/Amp_Station.md) [Ixtab](Ixtab.md)
   ([Sub-Capitol](../locations/Sub-Capitol.md))
 - [Technology Plant](../locations/Technology_Plant.md) [Chac](Chac.md)
-- [Interlink Facility](../terminology/Interlink.md) [Kisin](Kisin.md)
+- [Interlink Facility](../locations/Interlink.md) [Kisin](Kisin.md)
 - Interlink Facility [Voltan](Voltan.md) ([Capitol](../locations/Capitol.md))
 
 Acan is one of Voltan's Sub-Capitols.

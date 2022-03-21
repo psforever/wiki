@@ -6,13 +6,13 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Acan](Acan.md) (Sub-Capitol)
 - [Technology Plant](../locations/Technology_Plant.md) [Ghanon](Ghanon.md)
-- [Interlink Facility](terminology/Interlink.md) [Voltan](Voltan.md) (Capitol)
+- [Interlink Facility](../locations/Interlink.md) [Voltan](Voltan.md) (Capitol)
 - Bio Laboratory [Bitol](Bitol.md) (Sub-Capitol)
 
 Ixtab is one of Voltan's Sub-Capitols.
 
 Ixtab has a Gun Tower to it's East, which is partially inside Ixtab's
 [SOI](../locations/Sphere_of_Influence.md). Ixtab is a
-[LLU](../Lattice_Logic_Unit.md) Facility.
+[LLU](../terminology/Lattice_Logic_Unit.md) Facility.
 
 <!--[Category:Facilities](Category:Facilities.md)-->

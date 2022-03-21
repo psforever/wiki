@@ -49,7 +49,7 @@ season.
 **Gingerbread Men Locations:**
 
 - **[Ascension](../locations/Ascension.md)**
-  - [Rashnu](../etc/Rashnu.md) - In the middle of the room surrounding the
+  - [Rashnu](../facilities/Rashnu.md) - In the middle of the room surrounding the
     [Control Console](../locations/Control_Console.md)
   - [Sraosha](../facilities/Sraosha.md) -
     [Control Console](../locations/Control_Console.md)
@@ -63,7 +63,7 @@ season.
   - [Jamshid](../facilities/Jamshid.md) - Basement
 - **[Extinction](../locations/Extinction.md)**
   - [Hvar](../facilities/Hvar.md) - [Generator](../items/Generator.md)
-  - [Mithra](../facilities/Mithra.md) - [Main Lobby](main_lobby.md)
+  - [Mithra](../facilities/Mithra.md) - [Main Lobby](../locations/Main_lobby.md)
   - [Yazata](../facilities/Yazata.md) -
     [Medical Bay](../locations/Medical_Bay.md)
 - **[Nexus](../locations/Nexus.md)**

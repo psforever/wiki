@@ -7,7 +7,7 @@ Aerial Combat, Sabotage, etc.) Outfits have the ability to earn
 Points it may attain an Outfit Decal for use on
 [vehicles](../vehicles/Vehicle.md) and armor owned by it's members. Outfit chat
 is accessed by typing "/o" in front of your message. Other Communication
-Commands can be found under the [Commands](Commands.md) Section.
+Commands can be found under the [Commands](../commands/Chat_Commands.md) Section.
 
 Outfits are also exempt from gaining [Grief points](Grief_points.md) for
 friendly fire incidents among its members.
@@ -53,7 +53,5 @@ Outfit._
 - **7. Non-Officer Rank 2**
 - **8. Non-Officer Rank 1**
 
-For information on specific Outfits, see
-[Outfits](../outfits/List_of_Outfits.md)
 
-[\*](Category:Outfits.md)
+<!--[\*](Category:Outfits.md)-->

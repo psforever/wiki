@@ -16,7 +16,7 @@ designate it as the Squad's Home Base. The home base will be designated on the
 planetary and overhead proximity maps by a recognizable [waypoint](Waypoint.md)
 marker (This waypoint is toggleable, just like other waypoints). When a
 Squad/Platoon Member enters the facility's SOI, they will be asked if they would
-like to bind to it. This bind will replace the soldier's [bind](Bind.md) point
+like to bind to it. This bind will replace the soldier's [bind](Matrix.md) point
 with a new bind point to the Home Base.
 
 When a Commander wants to recall his troops to the home facility, he must go to
@@ -30,7 +30,7 @@ this option but will be notified that their leader has issued the command.
 Followers will have 60 seconds to accept the recall order and must exit any
 vehicles before they can. If they accept, all implants will be deactivated and
 weapons holstered and soldiers will begin the countdown to rematrix to the
-[spawn tubes](spawn_tube.md) of that location.
+[spawn tubes](../items/Respawn_Tube.md) of that location.
 
 Similar to a recall to Sanctuary, if a follower takes damage or takes any action
 other than typing or viewing the map, the recall countdown will be cancelled. If

@@ -29,7 +29,7 @@ However, the four small islands off the coasts can be used for alternate paths,
 making for elements of unpredictability and ambush.
 
 This continent is permanently connected to an
-[Empire](../terminology/Empire.md)'s [Sanctuary](Sanctuary.md) via a link with
+[Empire](../terminology/Empire.md)'s [Sanctuary](../locations/Sanctuary.md) via a link with
 the [Bio Laboratory](Bio_Laboratory.md) [Ikanam](../facilities/Ikanam.md), and
 is the Home Continent for that empire. See [Home Continent](Home_Continent.md)
 for the current empire sanctuary links.

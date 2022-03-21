@@ -6,7 +6,7 @@ For every 100
 is awarded 1 Outfit Point.
 
 When an Outfit reaches 10.000 Outfit Points, it can select an
-[Outfit Decal](terminology/Outfit_Decal.md).
+[Outfit Decal](Outfit_Decal.md).
 
 Outfit Points don't do anything for the Player, except show how much he has
 contributed to the [Outfit](Outfit.md).

@@ -1,4 +1,4 @@
-![](Thoth-solsar.jpg "fig:Thoth-solsar.jpg") on [Solsar](Solsar.md) with
+![](../images/Thoth-solsar.jpg "fig:Thoth-solsar.jpg") on [Solsar](Solsar.md) with
 [Force Dome](../items/Force_Dome.md) activated\]\] One [facilty](Facilities.md)
 on each [Empire](../terminology/Empire.md)'s Home [continent](Continent.md) is
 designated as the **Capitol**. During the [Post-Bending](../etc/The_Bending.md)
@@ -35,7 +35,7 @@ capitol, or in close proximity of one, regardless of the
   [Bitol](../facilities/Bitol.md), [Naum](../facilities/Naum.md))
 - [Forseral](Forseral.md): [Neit](../facilities/Neit.md)
   ([Ogma](../facilities/Ogma.md), [Pwyll](../facilities/Pwyll.md),
-  [Gwydion](../facilities/Gwydion.md), [Caer](facilities/Caer.md))
+  [Gwydion](../facilities/Gwydion.md), [Caer](../facilities/Caer.md))
 - [Ceryshen](Ceryshen.md): [Anguta](../facilities/Anguta.md)
   ([Sedna](../facilities/Sedna.md), [Nerrivik](../facilities/Nerrivik.md),
   [Akna](../facilities/Akna.md), [Tootega](../facilities/Tootega.md))

@@ -4,7 +4,7 @@ by allowing forces to teleport from one warpgate to another along the
 [Galactic Lattice](../terminology/Galactic_Lattice.md) and
 [Continental Lattice](../terminology/Lattice.md).
 
-These gates are actived by a [locked continent](continent_lock.md) or an
+These gates are actived by a [locked continent](../etc/Continental_lock.md) or an
 Empire's [Sanctuary](../locations/Sanctuary.md). Any warpgate physically linked
 to this continent becomes broadcast-capable.
 

@@ -1,10 +1,10 @@
-![](AT-CC.jpg "fig:AT-CC.jpg") Control Console\]\]
+![](../images/AT-CC.jpg "fig:AT-CC.jpg") Control Console\]\]
 ![](../images/Basecc.jpg "fig:Basecc.jpg") Control Console\]\]
 ![](../images/Tower_CC.jpg "fig:Tower_CC.jpg") Controle Console\]\] One control
 console (CC) is located in each base and in each tower. Using a
 [REK](../weapons/Remote_Electronics_Kit.md), you can hack the console. The time
 this takes depends on which level of the
-[Hacking](<../certifications/Hacking_(Certification).md>) tree you are certed
+[Hacking](../certifications/Hacking_(Certification).md) tree you are certed
 in.
 
 - No Hacking [certification](../certifications/Certification.md): 60 seconds

@@ -1,5 +1,5 @@
 Governs how quickly one can [respawn](Respawn.md) at a
-[respawn point](spawn_point.md) after death. The lowest a timer may go is 1
+[respawn point](Spawn_point.md) after death. The lowest a timer may go is 1
 second. The greatest a timer may go is 1 minute. Respawning at the
 [Sanctuary](../locations/Sanctuary.md) always has a spawn timer of zero.
 

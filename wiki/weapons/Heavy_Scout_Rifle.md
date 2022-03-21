@@ -20,7 +20,7 @@ The **Heavy Scout Rifle**, commonly called the **HSR** was introduced in May
 2005 in patch [3.6.8](../patches/3.6.8.md). The rifle fires the same
 [Bolt](../ammunition/Bolt.md) ammunition as the [Bolt Driver](Bolt_Driver.md)
 and has a 10 round magazine. The HSR does far less damage than the Bolt Driver,
-but the 10 round clip, faster [Cone of Fire](../etc/Cone_of_fire.md) recovery,
+but the 10 round clip, faster [Cone of Fire](../terminology/Cone_of_fire.md) recovery,
 and faster rate of fire are advantages in some situations. The HSR also has a
 slightly larger cone of fire than the Bolt Driver making it a little less
 accurate at longer ranges.

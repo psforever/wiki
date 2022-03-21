@@ -1,6 +1,6 @@
 |                                                 |                                                                                              |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| **Used by**                                     | [Peregrine](../vehicles/Peregrine.md) using the [Rocket Pod](<../items/Rocket_Pod_(BFR).md>) |
+| **Used by**                                     | [Peregrine](../vehicles/Peregrine.md) using the [Rocket Pod](../items/Rocket_Pod_(BFR).md) |
 | **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md)                                               |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                          |
 | **Quantity per box**                            | 275 Rockets                                                                                  |

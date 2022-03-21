@@ -1,9 +1,9 @@
 **Support Experience** (**SEP**) went live in Patch [3.7.3](../patches/3.7.3.md)
 and is awarded for Kills that a Friendly Soldier makes after you have Supported
-him. It is [Battle Experience](BEP.md) awarded for Support activities. "Support"
+him. It is [Battle Experience](Battle_Experience_Points.md) awarded for Support activities. "Support"
 includes:
 
-- Repairing [armor](Armor.md) (infantry or vehicles) that then scores kills
+- Repairing [armor](../armor/Armor_Index.md) (infantry or vehicles) that then scores kills
 - Repairing any kind of [turret](Turret.md) that then score kills
 - Healing damage to a soldier that then scores kills
 - Reviving a dead soldier that then scores kills
@@ -23,7 +23,7 @@ includes:
   [vehicles](../vehicles/Vehicle.md) either repair or rearm at and then score
   kills
 
-Unlike base capture or kill [BEP](BEP.md), you will not be notified immediately
+Unlike base capture or kill [BEP](Battle_Experience_Points.md), you will not be notified immediately
 on receiving Support Experience. Instead, you will receive occasional messages
 in your chat box about your "Support Activity". This experience is considered to
 be BEP when it is rewarded.

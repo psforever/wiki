@@ -4,7 +4,7 @@ Amerish, in grid G15.
 
 Ikanam has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Cetan](Cetan.md)
+- [Interlink Facility](../locations/Interlink.md) [Cetan](Cetan.md)
 - [Technology Plant](../locations/Technology_Plant.md) [Heyoka](Heyoka.md)
 - A [Sanctuary](../locations/Sanctuary.md) Warpgate
 - A [Geowarp](../locations/Geowarp.md)

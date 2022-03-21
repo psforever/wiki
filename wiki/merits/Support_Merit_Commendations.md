@@ -619,7 +619,7 @@ thankless job of supporting the empire, including:
 <tr>
 <td rowspan="2">
 
-[Engineering](<Engineering_(Merit).md>)
+[Engineering](Engineering_(Merit).md)
 
 </td>
 <td class="mit">

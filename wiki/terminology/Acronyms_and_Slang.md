@@ -44,8 +44,8 @@ AA : Anti Aircraft ([MAXes](../items/Mechanized_Assault_Exo-Suit.md),
 [BFRs](../vehicles/BattleFrame_Robotics.md),
 [Wall Turrets](../items/Phalanx.md),
 [Cerberus Turrets](../weapons/Cerberus_Turret.md), and
-[Skyguards](../items/Skyguard.md).) Aircav : [Air Cavalry](Air_Cavalry.md) ammo
-: Short for ammunition. AMS :
+[Skyguards](../vehicles/Skyguard.md).) Aircav : [Air Cavalry](Air_Cavalry.md)
+ammo : Short for ammunition. AMS :
 [Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md). Name for the
 mobile spawn point vehicle. ANT :
 [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md). The
@@ -58,8 +58,9 @@ mission to refill depleted or critical [NTU Silos](../locations/NTU_Silo.md),
 often utilizing a [Galaxy](../vehicles/Galaxy.md) or
 [Lodestar](../vehicles/Lodestar.md) to speed up the travel to and from
 [Warpgates](../locations/Warpgate.md). Assfire : Refers to the
-[Starfire MAX](../items/Starfire.md) AT : [Ancient-Tech](Ancient_Technology.md).
-Having to do with [Core Combat](../items/Core_Combat.md) assets. AV :
+[Starfire MAX](../items/Starfire.md) AT :
+[Ancient-Tech](Ancient_Technology.md) . Having to do with
+[Core Combat](../items/Core_Combat.md) assets. AV :
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) certification, MAXes, or
 [weapons](../weapons/Weapon.md).
 
@@ -90,7 +91,8 @@ work in pairs, but rarely in groups of 3 or more. Biffer : BFR
 term for a New Conglomerate player at BR14 to BR24. Refers to the predominately
 yellow armor suit. Bluebie : Slang term for a (often new) New Conglomerate
 player, BR1 to BR6. It is a reference to the predominately blue armor suit.
-[Boomer](../Boomer.md) : Remotely detonated charge created from an
+[Boomer](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer)
+: Remotely detonated charge created from an
 [ACE](../weapons/Adaptive_Construction_Engine.md) and planted by
 [Combat Engineers](../certifications/Combat_Engineering.md). BR :
 [Battle Rank](Battle_Rank.md). See CR. Brick : Slang for the
@@ -113,7 +115,7 @@ you collect from being a [squad](Squad.md) leader. CE :
 in the field for Mines, Spitfire turrrets. ("Get some CE down at this base
 please!") Cloaker : Player who uses the
 [Infiltration Suit](../items/Infiltration_Suit.md) CoF : System used to
-determine where shots are fired. See [Cone of fire](../etc/Cone_of_fire.md) Cerb
+determine where shots are fired. See [Cone of fire](Cone_of_fire.md) Cerb
 / Cerbs : [Cerberus Turrets](../weapons/Cerberus_Turret.md) Cert :
 [Certifications](../certifications/Certifications.md) Chair :
 [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md) ("Deploy more
@@ -207,7 +209,7 @@ Hack : Hacking a continent with little to no resistance from the enemy. Glue :
 [Armor Canisters](../items/Armor_Canister.md) for armor or vehicular repair.
 Also the act of repairing. ("I'm going to glue the gen.") GlueGun : Referring to
 the [Nano Dispenser](../weapons/Nano_Dispenser.md) Granny Hacking : Hacking
-without the [Hacking](<../certifications/Hacking_(Certification).md>) or
+without the [Hacking](<Hacking_(Certification).mdd>>) or
 [Advanced Hacking](../certifications/Advanced_Hacking.md) abilities. Grunt :
 See: [Infantry](Infantry.md)
 
@@ -215,16 +217,16 @@ See: [Infantry](Infantry.md)
 
 HA : [Heavy Assault](../certifications/Heavy_Assault.md) certification or
 [weapon](../weapons/Weapon.md). Hax0r , Haxxor , Haxx0r : An Advanced Hacker or
-someone that uses illegal hacks. HART : Refers to the [HART shuttle](HART.md),
-its drop pods, its [launch building](../locations/HART_building.md), or that
-mode of transportation in general. "I'm going to HART in rather than use the
-warpgates." Hotdrop : The act of flying over a base, tower, or any other
-location where the "LZ" (landing zone, dropzone) is otherwise "hot" (under fire)
-and unavailable for landing and dropping the contents of a
-[Galaxy](../vehicles/Galaxy.md) or [Lodestar](../vehicles/Lodestar.md) Har/Harry
-: [Harrasser](Harrasser.md) vehicle. HUD :
-[Heads-up Display](../etc/Heads-up_Display.md) Hunter : Short form of
-[BFR Hunter](Acronyms_and_Slang.md#BFRHunter)
+someone that uses illegal hacks. HART : Refers to the
+[HART shuttle](HART.md), its drop pods, its
+[launch building](../locations/HART_building.md), or that mode of transportation
+in general. "I'm going to HART in rather than use the warpgates." Hotdrop : The
+act of flying over a base, tower, or any other location where the "LZ" (landing
+zone, dropzone) is otherwise "hot" (under fire) and unavailable for landing and
+dropping the contents of a [Galaxy](../vehicles/Galaxy.md) or
+[Lodestar](../vehicles/Lodestar.md) Har/Harry : [Harrasser](Harrasser.md)
+vehicle. HUD : [Heads-up Display](../etc/Heads-up_Display.md) Hunter : Short
+form of [BFR Hunter](Acronyms_and_Slang.md#BFRHunter)
 
 ## I
 
@@ -262,7 +264,7 @@ vehicles/Galaxy.mdGalaxy.md). This drop would then be followed by a
 : Player whose only purpose of the game is (or appears to be) the rapid increase
 of their kill count, whether highly skilled at it or not. Kitchen (aka Barracks)
 : Refers to the [lounge](../merits/Lounge.md) that is behind the
-[spawn room](spawn_room.md) KS : Kill Steal, someone taking the kill after you
+[spawn room](Spawn_Room.md) KS : Kill Steal, someone taking the kill after you
 did most of the work for it. KSer : Kill Stealer, someone who takes the last hit
 and is awarded the kill after you did all the damage to the target. KK : Ok.
 
@@ -270,13 +272,13 @@ and is awarded the kill after you did all the damage to the target. KK : Ok.
 
 laze : to mark a location with the [Laze Pointer](../weapons/Laze_Pointer.md).
 LD : Linkdead; lost connection to server. LFS, LFSM, LFO, LFP : Looking For
-[Squad](Squad.md), Looking for Squad Members, Looking For [Outfit](Outfit.md),
-Looking for [Platoon](../Platoon.md Lib/Libby :
+[Squad](Squad.md), Looking for Squad Members, Looking For
+[Outfit](Outfit.md), Looking for [Platoon](Platoon.md Lib/Libby :
 [Liberator](../vehicles/Liberator.md) Lith : [Monolith](../items/Monolith.md).
 Litterbox/Sandbox : [Lodestar](../vehicles/Lodestar.md). LLU :
-[Lattice Logic Unit](Lattice_Logic_Unit.md). Capture the flag element of
-Planetside. LoS : Line of Sight. "I almost had the kill until a friendly stepped
-in my LoS, getting me grief."
+[Lattice Logic Unit](Lattice_Logic_Unit.md). Capture the flag
+element of Planetside. LoS : Line of Sight. "I almost had the kill until a
+friendly stepped in my LoS, getting me grief."
 
 ## M
 
@@ -310,12 +312,12 @@ omw : On my way. otw : On the way. OS :
 
 ## P
 
-pinvite : [Platoon](Platoon.md) Invite PJ , PJ's , Pajamas : Refers to the
-[Standard Exo-Suit](../armor/Standard_Exo-Suit.md). PK : Player Kill. When one
-kills another player, but this more often used in par to "TK". PKer : Someone
-who makes a habit of killing others. This is often used in place of TKer. pl :
-[Platoon Leader](Platoon_Leader.md) poplock, pop lock : [Population
-lock](Population_Lock.md Potato : The [Spiker](../Spiker.md) present :
+pinvite : [Platoon](Platoon.md) Invite PJ , PJ's , Pajamas :
+Refers to the [Standard Exo-Suit](../armor/Standard_Exo-Suit.md). PK : Player
+Kill. When one kills another player, but this more often used in par to "TK".
+PKer : Someone who makes a habit of killing others. This is often used in place
+of TKer. pl : [Platoon Leader](Platoon_Leader.md) poplock, pop lock :
+[Population lock](Population_Lock.md Potato : The [Spiker](Spiker.md) present :
 [High Explosive Mine](High_Explosive_Mine.md) ("I left some presents by the
 [BD](../locations/Back_Door.md).") PS :
 [Personal Shield](../implants/Personal_Shield.md),
@@ -348,15 +350,15 @@ objectives are unclear, or you just don't know the guy, a stranger to you.
 _"What's this so-n-so scrub doing?"_ SEP :
 [Support Experience Points](Support_Experience_Points.md), Experience points you
 gain from Support activities SG : Refers to either the Sturmgrenadier or Serious
-Gamers outfit, or the [Skyguard](../items/Skyguard.md) Anti-Aircraft Buggy.
+Gamers outfit, or the [Skyguard](../vehicles/Skyguard.md) Anti-Aircraft Buggy.
 Skeets, Skeeter, Mossies : Common referrences to the
 [Mosquito](../vehicles/Mosquito.md) aircraft. Skillfire : Refers to the
 [Starfire MAX](../items/Starfire.md) Skillguard : Refers to the
-[Skyguard anti-air vehicle](../items/Skyguard.md) Skycoffin : A derogatory term
-for the [Skyguard](../items/Skyguard.md) Anti-aircraft buggy softy/softies/soft
-target : [Infantry](Infantry.md) players not currently manning a vehicle or
-using a [MAX](../items/Mechanized_Assault_Exo-Suit.md). sl :
-[Squad Leader](Squad_Leader.md) slider : [Magrider](../vehicles/Magrider.md).
+[Skyguard anti-air vehicle](../vehicles/Skyguard.md) Skycoffin : A derogatory
+term for the [Skyguard](../vehicles/Skyguard.md) Anti-aircraft buggy
+softy/softies/soft target : [Infantry](Infantry.md) players not currently
+manning a vehicle or using a [MAX](../items/Mechanized_Assault_Exo-Suit.md). sl
+: [Squad Leader](Squad_Leader.md) slider : [Magrider](../vehicles/Magrider.md).
 SOI : Sphere of Influence([SOI](../locations/Sphere_of_Influence.md)) around
 towers and bases. SOL : [Solsar](../locations/Solsar.md). Also a crude way of
 denoting bad luck. Spam : The act of firing constantly at a target, often to the
@@ -371,13 +373,13 @@ main force. SplatMAX, SplatterMAX : Common referrence to the
 [NC](../etc/New_Conglomerate.md) Anti Infantry
 [MAX](../items/Mechanized_Assault_Exo-Suit.md), the
 [Scattercannon](../items/Scattercannon.md) . Spit/Spitter :
-[Spitfire Turrets](../Spitfire_Turret.md) Sqd : [Squad](Squad.md) Squids/
-Squidies : Pilot term for [infantry](Infantry.md) on the ground. "Enemy squid
-with AA". Squishy : Common reference to a non-MAX soldier. Usage "One squishy
-spot left in Gal!" Stone : Another name for [Monolith](../items/Monolith.md)
-Strafemonkey : An insult often uttered by players frusturated by the excessive
-use of strafe tactics by a [Heavy Assault](../certifications/Heavy_Assault.md)
-weilding opponent. Sundy : [Sunderer](../vehicles/Sunderer.md) variants
+[Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) Sqd : [Squad](Squad.md) Squids/ Squidies
+: Pilot term for [infantry](Infantry.md) on the ground. "Enemy squid with AA".
+Squishy : Common reference to a non-MAX soldier. Usage "One squishy spot left in
+Gal!" Stone : Another name for [Monolith](../items/Monolith.md) Strafemonkey :
+An insult often uttered by players frusturated by the excessive use of strafe
+tactics by a [Heavy Assault](../certifications/Heavy_Assault.md) weilding
+opponent. Sundy : [Sunderer](../vehicles/Sunderer.md) variants
 
 ## T
 
@@ -441,11 +443,12 @@ and have them beat on the VS at Ogma for a bit."_
 ## Outfit Acronyms
 
 666th : [666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs")
-[Outfit](Outfit.md) ([NC](../etc/New_Conglomerate.md)) 88s : Crazy 88s Outfit
-(NC) AC : Ahriman Corps Outfit ([VS](../etc/Vanu_Sovereignty.md)) AT : Azure
-Twilight Outfit (VS) AO : Adrenaline Ops Outfit (VS) CS : Central Spike Outfit
-(VS) DD's : [666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs")
-Outfit (NC) DS : [Dark Skyes](../outfits/Dark_Skyes.md) (TR) DT :
+[Outfit](Outfit.md) ([NC](../etc/New_Conglomerate.md)) 88s :
+Crazy 88s Outfit (NC) AC : Ahriman Corps Outfit
+([VS](../etc/Vanu_Sovereignty.md)) AT : Azure Twilight Outfit (VS) AO :
+Adrenaline Ops Outfit (VS) CS : Central Spike Outfit (VS) DD's :
+[666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs") Outfit (NC) DS :
+[Dark Skyes](../outfits/Dark_Skyes.md) (TR) DT :
 [Delta Triad](../outfits/Delta_Triad.md) Outfit (VS) FC :
 [Future Crew](../outfits/Future_Crew.md) Outfit (VS) HG : Hired Guns Outfit (NC)
 Ht : Refers to the Hostile Takeover Outfit (NC) KOJ:
@@ -459,6 +462,6 @@ DEAD Outfit (TR) TRx :
 (TR) ULTRA : United League of Terran Republic Alliances (TR) VC :
 [Victor Company](../outfits/Victor_Company.md) Oufit (NC) And
 [Vanu Corporation](../outfits/Vanu_Corporation.md) (VS) WNx :
-[Warrior Nation](../Warrior_Nation.md) Outfit (VS)
+[Warrior Nation](Warrior_Nation.md) Outfit (VS)
 
 <!--[category:Terminology](category:Terminology.md)-->

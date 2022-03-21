@@ -13,7 +13,7 @@
 
 **Jammer Grenade**
 
-![Image:Jammer-Hand-grenade-Icon.jpg](Jammer-Hand-grenade-Icon.jpg "Image:Jammer-Hand-grenade-Icon.jpg")
+![Image:Jammer-Hand-grenade-Icon.jpg](../images/Jammer-Hand-grenade-Icon.jpg "Image:Jammer-Hand-grenade-Icon.jpg")
 
 **Jammer grenades** cause electomagnetic interference explosions. This
 interference has the following effects:
@@ -22,16 +22,16 @@ interference has the following effects:
 - Causes the following to cease functioning for a short time:
   - [Proximity Map](../terminology/Proximity_Map.md) radar.
   - Vehicle weapons (except [BFRs](../vehicles/BattleFrame_Robotics.md))
-  - [Spitfire](Adaptive_Construction_Engine.md#Spitfire_Turret),
+  - [Spitfire](Adaptive_Construction_Engine.md#spitfire-turret),
     [Cerberus](Cerberus_Turret.md), [Shadow](Shadow_Turret.md),
     [Phalanx](../items/Phalanx.md), [OMFT](One-Manned_Field_Turret.md) and
     manned [Ancient Sentry Turrets](../items/Ancient_Sentry_Turret.md).
-  - [Motion Sensors](Adaptive_Construction_Engine.md#Motion_Sensor_Alarm) and
+  - [Motion Sensors](Adaptive_Construction_Engine.md#motion-sensor-alarm) and
     [Sensor Disruptors](../items/Sensor_Disruptor.md).
 - Causes
-  [High Explosive Mines](Adaptive_Construction_Engine.md#High_Explosive_Mine),
+  [High Explosive Mines](Adaptive_Construction_Engine.md#high-explosive-mine),
   [Disruptor Mines](Disruptor_Mine.md), and
-  [Boomers](<Adaptive_Construction_Engine#Remote-Detonated_Charge_(Boomer)>) to
+  [Boomers](Adaptive_Construction_Engine.md#remote-detonated-charge-boomer) to
   detonate.
 - Causes deployed [Aegis Shield Generators](Aegis_Shield_Generator.md) and
   [AMSes](../vehicles/Advanced_Mobile_Station.md) to temporarily decloak.

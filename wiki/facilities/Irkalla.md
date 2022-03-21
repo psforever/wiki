@@ -1,4 +1,4 @@
-**Irkalla** is one of the two [Interlink Facilities](terminology/Interlink.md)
+**Irkalla** is one of the two [Interlink Facilities](../locations/Interlink.md)
 on [Ishundar](../locations/Ishundar.md) and is to the northeast inside grid L8.
 
 It has [Lattice](../terminology/Lattice.md) Links to:

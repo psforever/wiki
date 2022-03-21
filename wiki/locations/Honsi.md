@@ -8,7 +8,7 @@ South West Honsi Gun Tower.
 
 Elevation: 89.0m
 
-Honsi is linked to the [Technology Plant](Technology_Plant.md)
+Honsi is linked to the [Technology Plant](../locations/Technology_Plant.md)
 [Faro](../facilities/Faro.md) and the [Amp Station](Amp_Station.md)
 [Nzame](../facilities/Nzame.md).
 

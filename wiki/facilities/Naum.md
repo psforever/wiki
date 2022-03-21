@@ -4,13 +4,13 @@ grid N12.
 
 It has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Voltan](Voltan.md)
+- [Interlink Facility](../locations/Interlink.md) [Voltan](Voltan.md)
   ([Capitol](../locations/Capitol.md))
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Zotz](Zotz.md)
 - Bio Laboratory [Bitol](Bitol.md) ([Sub-Capitol](../locations/Sub-Capitol.md))
 - Bio Laboratory [Acan](Acan.md) (Sub-Capitol)
 - [Technology Plant](../locations/Technology_Plant.md)
-  [Mulac](facilities/Mulac.md)
+  [Mulac](Mulac.md)
 - A [Geowarp](../locations/Geowarp.md)
 
 Naum is one of Voltan's Sub-Capitols.

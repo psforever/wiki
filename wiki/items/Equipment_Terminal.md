@@ -4,7 +4,7 @@
 [weapons](../weapons/Weapons_Index.md), ammunition,
 [armor](../armor/Armor_Index.md), support equipment, and vehicle ordnance.
 [Ancient-Tech](../terminology/Ancient_Technology.md) weaponry can also be
-acquired if an [Equipment Module](../items/Equipment_Module.md) is installed or
+acquired if an [Equipment Module](Equipment_Module.md) is installed or
 a [Cavern Lock](../etc/Cavern_Lock.md) is linked through the
 [lattice](../terminology/Lattice.md).
 
@@ -20,7 +20,7 @@ or AMS, supplies two on either side of the vehicle. The
 All base [facilities](../locations/Facilities.md) provide equipment terminals in
 the [Respawn rooms](../locations/Spawn_Room.md) and the
 [main lobby](../locations/Main_lobby.md).
-[Interlink Facilities](../terminology/Interlink.md) and
+[Interlink Facilities](../locations/Interlink.md) and
 [Dropship Centers](../locations/Dropship_Center.md) contain extra teriminals on
 the top level in the alcove beneath the radar dish.
 

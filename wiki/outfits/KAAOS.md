@@ -22,7 +22,7 @@ promised the BFRs demise.
 On October 8th, 2005, KAAOS publically announced it's retirement from the game.
 A few members of the outfit are still around, but none of them really having the
 same effect as KAAOS had before. A few of the members have moved on to other
-[outfits](List_of_Outfit.md), while others have decided to stay loyal to the
+outfits, while others have decided to stay loyal to the
 KAAOS name and wear the tag until the very end of PlanetSide.
 
 Main KAAOS Webpage: <http://www.kaaos.com> Main KAAOS Forums:

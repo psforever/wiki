@@ -3,7 +3,7 @@ have a few options.
 
 ## Method One
 
-Fully uninstall [PlanetSide](PlanetSide.md) & [Launchpad](Launchpad.md) then
+Fully uninstall [PlanetSide](PlanetSide.md) & Launchpad then
 download the
 [Grey Falcon Planetside Installer](http://www.greyfalcon.net/psinstall.exe) then
 when it asks you do you want to install it to the default location click on

@@ -8,7 +8,7 @@ automatically. Some weapons can use multiple types of ammunition (like
 
 Vehicle ammunition is normally stored in the [trunk](../terminology/Trunk.md) of
 the vehicle and supplied to the appropriate weapon automatically. The
-[Flail](Flail.md) and [Switchblade](Switchblade.md) are the exceptions, using
+[Flail](../vehicles/Flail.md) and [Switchblade](Switchblade.md) are the exceptions, using
 on-board capacitors for ammunition that can only be refiled by an
 [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) or
 [Vehicle Module](../etc/Vehicle_Module.md) [benefit](../etc/Module_benefit.md).

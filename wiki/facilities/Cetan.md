@@ -1,4 +1,4 @@
-Cetan is one of the two [Interlink Facilities](../terminology/Interlink.md) on
+Cetan is one of the two [Interlink Facilities](../locations/Interlink.md) on
 [Amerish](../locations/Amerish.md). It lies in the South West inside grid I14.
 
 It has [Lattice](../terminology/Lattice.md) Links to:

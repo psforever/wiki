@@ -1,5 +1,5 @@
 [Auraxis](Auraxis.md) is the name of the "construct" in which
-[PlanetSide's story](Planetside_Backstory.md) play takes place. Initially, it
+[PlanetSide's story](../etc/PlanetSide_Backstory.md) play takes place. Initially, it
 was a planet-like body of ten [continents](Continent.md) colonized by the
 [Terran Republic](../etc/Terran_Republic.md). After
 [The Bending](../etc/The_Bending.md) however, it became a set of interconnected

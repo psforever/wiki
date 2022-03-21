@@ -1,6 +1,6 @@
 A [revive](Revive.md) allows a soldier whose [health](Health.md) has hit 0 to be
 brought back into combat without the need of being
-[respawned](terminology/Respawn.md). This allows for a soldier to get back into
+[respawned](Respawn.md). This allows for a soldier to get back into
 the combat more quickly, and it also allows a soldier to avoid having his
 respawn time lengethening due to frequent deaths. However, a soldier who is
 revived has the same [stamina](Stamina.md) and armor as when they died, so

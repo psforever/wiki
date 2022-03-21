@@ -23,7 +23,7 @@ However, if a Soldier can manage to get close enough to use it, it does do a
 considerable amount of damage, particularly in secondary mode, with the aid of a
 [Melee Booster](../implants/Melee_Booster.md) implant.
 
-Many [Infiltrators](Infiltrator.md) use this weapon exclusively, as it requires
+Many [Infiltrators](../items/Infiltration_Suit.md) use this weapon exclusively, as it requires
 no ammo, and no holster space, only a steely nerve.
 
 Secondary mode activates the powered force edge of the blade, doubling the

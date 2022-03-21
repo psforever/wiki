@@ -4,7 +4,7 @@ in grids I6 and I7.
 
 Onatha has [Lattice](../terminology/Lattice.md) Links to:
 
-- [Interlink Facility](../terminology/Interlink.md) [Qumu](Qumu.md)
+- [Interlink Facility](../locations/Interlink.md) [Qumu](Qumu.md)
 - [Technology Plant](../locations/Technology_Plant.md) [Tumas](Tumas.md)
 - [Searhus](../locations/Searhus.md) Warpgate
 

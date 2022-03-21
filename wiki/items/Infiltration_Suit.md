@@ -7,7 +7,7 @@ Infiltrator\]\]
 
 |                            |                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------- |
-| **Certification Required** | [Infiltration Suit](<../certifications/Infiltration_Suit_(Certification).md>) |
+| **Certification Required** | [Infiltration Suit](../certifications/Infiltration_Suit_(Certification).md) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                  |
 | **Armor**                  | 0                                                                             |
 | **Pistol Holsters**        | 1                                                                             |

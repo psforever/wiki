@@ -2,7 +2,7 @@ Tower description
 
 ## General Tower Features
 
-- [Control Console](Control_Console.md)
+- [Control Console](../locations/Control_Console.md)
 - [Equipment Terminals](../items/Equipment_Terminal.md)
 - [IFF Door Locks](../terminology/IFF.md)
 - [Lockers](../items/Lockers.md)

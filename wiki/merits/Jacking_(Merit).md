@@ -216,7 +216,7 @@ This Merit is awarded for using the
 [Advanced Hacking](../certifications/Advanced_Hacking.md) or
 [Expert Hacking](../certifications/Expert_Hacking.md)
 [Certifications](../certifications/Certification.md) to
-[jack](terminology/Jack.md) enemy [vehicles](../vehicles/Vehicle.md). The
+[jack](../terminology/Jack.md) enemy [vehicles](../vehicles/Vehicle.md). The
 vehicle must have a current owner for it to count towards the merit.
 
 Multiple levels of the award can be arranged to form a "J" for Jacking:

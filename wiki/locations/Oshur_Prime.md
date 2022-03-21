@@ -31,7 +31,7 @@ base runs out of [NTU](../items/NTU.md) as there are no active
 
 ## Future of Oshur Prime
 
-On 9-02-05 [Zatozia](Zatozia.md) said on the
+On 9-02-05 Zatozia said on the
 [Official Forums](http://psforums.station.sony.com/ps/board/message?board.id=psdiscussion&message.id=691905#M691905):
 
 "When we mentioned bringing Oshur back in the past, it was still in the idea
@@ -41,7 +41,7 @@ being put into version 3.9 release. We hope to work the plans for returning
 Oshur after 3.9 has been completed and pushed live. We will keep you updated on
 it when we can."
 
-On 08 Aug 2006, [Outfit Wars](Outfit_Wars.md) were announced, with Oshur Prime
+On 08 Aug 2006, Outfit Wars were announced, with Oshur Prime
 as their theatre of operations.
 
 ## [Facilities](Facilities.md)
@@ -60,7 +60,7 @@ as their theatre of operations.
 
 - Atar
 
-### [Interlink Facilities](../terminology/Interlink.md)
+### [Interlink Facilities](Interlink.md)
 
 - Hvar
 

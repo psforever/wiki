@@ -1,4 +1,4 @@
-![](../images/Maelstrom_ammo.jpg "Maelstrom_ammo.JPG")
+![](../images/Maelstrom_ammo.jpg "Maelstrom_ammo.jpg")
 
 |                          |                                                             |
 | ------------------------ | ----------------------------------------------------------- |

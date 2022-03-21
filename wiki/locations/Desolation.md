@@ -33,11 +33,11 @@ vehicles do not operate here. Not permitted are
 
 All three bases on this island are
 [LLU](../terminology/Lattice_Logic_Unit.md)-capture
-[Technology Plants](Technology_Plant.md). The lack of a
+[Technology Plants](../locations/Technology_Plant.md). The lack of a
 [Bio Laboratory](Bio_Laboratory.md) here means that spawn times are not modified
 by anything but [Modules](../etc/Modules.md).
 
-### [Technology Plants](Technology_Plant.md)
+### [Technology Plants](../locations/Technology_Plant.md)
 
 - [Dahaka](../facilities/Dahaka.md)
 - [Izha](../facilities/Izha.md)

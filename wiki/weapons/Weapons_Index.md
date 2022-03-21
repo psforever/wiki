@@ -51,7 +51,7 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 
 - [Jackhammer](Jackhammer.md)
 - [Lasher](Lasher.md)
-- [Maelstrom](Maelstrom.md) (See: [Core Combat](../items/Core_Combat.md))
+- [Maelstrom](Maelstrom.md)  (See: [Core Combat](../items/Core_Combat.md))
 - [Mini-Chaingun (MCG)](Mini-Chaingun.md)
 
 ### Anti-Vehicular Weapons
@@ -116,7 +116,7 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 - [10mm Multi-Phase](../ammunition/10mm_Multi-Phase.md)
 - [Armor Piercing 9mm Bullet](../ammunition/Armor_Piercing_9mm_Bullet.md)
 - [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md)
-- [High Caliber Bolt](High_Caliber_Bolt.md)
+- [High Caliber Bolt](../ammunition/Bolt.md)
 - [Shotgun Shell](../ammunition/Shotgun_Shell.md)
 
 ### [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)

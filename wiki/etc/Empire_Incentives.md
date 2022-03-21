@@ -24,7 +24,7 @@ The percentage levels and bonuses are:
 </td>
 <td align="center">
 
-<b>[Experience](BEP.md) Bonus</b>
+<b>[Experience](../terminology/Battle_Experience_Points.md) Bonus</b>
 
 </td>
 <td align="center">

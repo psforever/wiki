@@ -7,7 +7,7 @@ within all [Respawn rooms](../locations/Spawn_Room.md) (including
 rooms). [Aegis Shield Generators](../weapons/Aegis_Shield_Generator.md) can also
 have pain fields if infected by an enemy [Virus](Virus.md).
 
-The [Pain Field](Pain_Field.md) at a surface [facility](Facility.md) can be
+The [Pain Field](Pain_Field.md) at a surface [facility](../locations/Facilities.md) can be
 enhanced in two ways. The first is by the addition of a
 [Pain Module](../etc/Pain_Module.md) [benefit](../etc/Module_benefit.md) to the
 facility. The second is by upgrades made by

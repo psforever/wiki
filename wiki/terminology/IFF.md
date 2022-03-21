@@ -4,14 +4,14 @@
 differentiate between enemies and friendlies, allowing friendlies to activate
 and use its benefits but disallowing enemies. Objects which use IFF are:
 
-- Exterior [tower](Tower.md) and [facility](Facility.md) doors, as well as
+- Exterior [tower](../locations/Towers.md) and [facility](../locations/Facilities.md) doors, as well as
   [Control Console](../locations/Control_Console.md),
-  [generator](../items/Generator.md), and [spawn room](spawn_room.md) doors.
+  [generator](../items/Generator.md), and [spawn room](../locations/Spawn_Room.md) doors.
 - [Equipment terminals](../items/Equipment_Terminal.md)
-- [Medical terminals](Medical_terminal.md)
+- [Medical terminals](../items/Medical_Terminal.md)
 - [Lockers](../items/Lockers.md)
 - [Vehicles](../vehicles/Vehicle.md)
-- [Spawn tubes](Spawn_tube.md)
+- [Spawn tubes](../items/Respawn_Tube.md)
 - Facility [Main terminals](../items/Main_Terminal.md)
 
 Most IFF objects can be [hacked](Hack.md), temporarily disabling the IFF lock on

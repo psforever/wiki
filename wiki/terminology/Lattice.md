@@ -6,7 +6,7 @@ next available for capture by each Empire. The network can be viewed on each
 continent's [Continental Map](../etc/Continental_Map.md) view.
 
 In addition, [Facility Linked Benefits](Facility_Linked_Benefit.md) and
-[module benefits](module_benefit.md) are shared along unbroken chains in the
+[module benefits](../etc/Module_benefit.md) are shared along unbroken chains in the
 lattice. Any disruption in this chain, be it a destroyed
 [generator](../items/Generator.md), enemy hack, or a base turning neutral, will
 break this link and sever the benefit.
@@ -14,7 +14,7 @@ break this link and sever the benefit.
 Lattice can also refer to the [Galactic Lattice](Galactic_Lattice.md), the
 interstellar network tying all the [planets](../locations/Planet.md) and
 continents together. This can be viewed from the
-[Interstellar Map](terminology/Interstellar_Map.md) screen.
+[Interstellar Map](Interstellar_Map.md) screen.
 
 ## Lattice Colors and their Meaning
 

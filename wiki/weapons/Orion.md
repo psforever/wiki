@@ -15,7 +15,7 @@
 **Orion**
 
 The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) Variant of the
-[One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md), and is
+[One-Manned Field Turrets](One-Manned_Field_Turret.md), and is
 deployed by use of the [Field Deployment Unit](Field_Deployment_Unit.md). It is
 an adaptation of the [Quasar](../items/Quasar.md)
 [MAX](../items/Mechanized_Assault_Exo-Suit.md) weapon, firing a mixture of

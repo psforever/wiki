@@ -18,7 +18,7 @@ The [Heavy Scout Rifle](../weapons/Heavy_Scout_Rifle.md) is also available for
 free for characters that have been registered for more than two years.
 
 This [Certification](Certification.md) is required to obtain the
-[Sniper](<../merits/Sniper_(Merit).md>)
+[Sniper](../merits/Sniper_(Merit).md)
 [Merit Commendation](../merits/Merit_Commendations.md) if your character is less
 than two years old.
 

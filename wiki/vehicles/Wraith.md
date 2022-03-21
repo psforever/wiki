@@ -5,7 +5,7 @@
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |
 | **Type**                   | ATV                                                                                                       |
 | **Role**                   | Recon                                                                                                     |
-| **Certification Required** | [ATV](<../certifications/ATV_(Certification).md>)                                                         |
+| **Certification Required** | [ATV](../certifications/ATV_(Certification).md)                                                         |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                              |
 | **Primary Weapon**         | \-                                                                                                        |
 | **Secondary Weapon**       | \-                                                                                                        |

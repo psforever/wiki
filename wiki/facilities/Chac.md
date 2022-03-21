@@ -6,7 +6,7 @@ It has [Lattice](../terminology/Lattice.md) Links to:
 
 - [Bio Laboratory](../locations/Bio_Laboratory.md) [Acan](Acan.md)
   ([Sub-Capitol](../locations/Sub-Capitol.md))
-- [Interlink Facility](../terminology/Interlink.md) [Kisin](Kisin.md)
+- [Interlink Facility](../locations/Interlink.md) [Kisin](Kisin.md)
 - A Broadcast [Warpgate](../locations/Warpgate.md)
 
 Chac has an Air Tower to it's South East, which is outside it's

@@ -11,7 +11,7 @@ and able to try new things. They hold regular "theme" nights, where a particular
 certification or operation is focused on, but otherwise leave themselves open to
 whatever task will help the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
 
-The current Outfit Leader is [Wrathchild-K](User:Wrathchild.md). He is the
+The current Outfit Leader is Wrathchild-K. He is the
 fourth Leader in the Outfit's history.
 
 The **Celestial Fire** website can be found at

@@ -1,4 +1,4 @@
-Neti is one of the two [Interlink Facilities](../terminology/Interlink.md) on
+Neti is one of the two [Interlink Facilities](../locations/Interlink.md) on
 [Ishundar](../locations/Ishundar.md) and is in the South inside grids J14 and
 J15.
 

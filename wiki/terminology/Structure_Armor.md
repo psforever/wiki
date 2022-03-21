@@ -1,4 +1,4 @@
-Certain [facility](Facility.md) objects are destroyable, draining
+Certain [facility](../locations/Facilities.md) objects are destroyable, draining
 [NTU](../items/NTU.md) to repair. The following is a list of the armor values of
 non-[vehicle](../vehicles/Vehicle.md) objects and their repair time if they are
 a repairable base object.
@@ -301,7 +301,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[TRAP](TRAP.md)
+[TRAP](../weapons/Tactical_Resonance_Area_Protection.md)
 
 </td>
 <td align="center">

@@ -27,7 +27,7 @@ this island.
 As is the case with all [Battle Islands](Battle_Islands.md), heavy weapons and
 vehicles do not operate here. Not permitted are
 [Heavy Assault](../certifications/Heavy_Assault.md) weapons,
-[Reavers](../vehicles/Reaver.md), [Artillery](terminology/Artillery.md),
+[Reavers](../vehicles/Reaver.md), [Artillery](../terminology/Artillery.md),
 [BFRs](../vehicles/BattleFrame_Robotics.md),
 [Medium Battle Tanks](../items/Medium_Battle_Tank.md) and Empire Specific
 [Deliverer](../vehicles/Deliverer.md) variants.

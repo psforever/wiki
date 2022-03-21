@@ -17,7 +17,7 @@ two boomers near the top of the terminal on the side. Other weapons will have a
 very hard time damaging the terminal as the hitbox is so small.
 
 Note: To hack an Implant Terminal using the
-[Hacking](<../certifications/Hacking_(Certification).md>)
+[Hacking](../certifications/Hacking_(Certification).md)
 [Certification](../certifications/Certification.md), stand at the front of the
 terminal and point your [REK](../weapons/Remote_Electronics_Kit.md) near the top
 of the device to start hacking.

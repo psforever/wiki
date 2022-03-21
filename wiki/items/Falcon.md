@@ -3,7 +3,7 @@
 
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **Certification Required** | [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
+| **Certification Required** | [Anti-Vehicle MAX](../certifications/Anti-Vehicle_MAX_(Certification).md) or [Uni-MAX](../certifications/Uni-MAX_(Certification).md) |
 | **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                           |
 | **Armor**                  | 650                                                                                                                                      |
 | **Primary Mode**           | Normal fire                                                                                                                              |
@@ -15,7 +15,7 @@
 **Falcon**
 
 The [New Conglomerate](../etc/New_Conglomerate.md)'s
-[Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) is
+[Anti-Vehicle MAX](../certifications/Anti-Vehicle_MAX_(Certification).md) is
 armed with a powerful rocket launcher. Although the **Falcon** is dumb-fire mode
 only, its quick rate of fire and strong ammunition make it a formidable
 opponent.

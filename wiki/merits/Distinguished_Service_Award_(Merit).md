@@ -93,7 +93,7 @@
 </table>
 
 The fourth stage of the
-"[Empire Defense series](../merits/Defense_Merit_Commendations.md#Empire_Defense_Merits)"
+"[Empire Defense series](Defense_Merit_Commendations.md#Empire_Defense_Merits)"
 merits.
 
 This Merit is awarded for killing Enemies while using any means necessary.

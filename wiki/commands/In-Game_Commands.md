@@ -178,7 +178,7 @@ _[Command Rank](../terminology/Command_Rank.md) 5 ONLY:_
 - **/ia - /instantaction** - Activates countdown timer for Instant Action
 - **/[ignore](../terminology/Ignore.md) \[add/remove\] <playername>** - Ignore a
   player.
-- **/incentives** - Returns the empire [incentives](../Incentives.md) for the
+- **/incentives** - Returns the empire [incentives](../terminology/Incentives.md) for the
   current zone.
 - **/loc** - Returns your current location in X,Y,Z coordinates.
 - **/log** - Set chat logging state. If logging is turned on, all chat messages
@@ -204,7 +204,7 @@ _[Command Rank](../terminology/Command_Rank.md) 5 ONLY:_
 
 ## Restricted Commands
 
-_Only [CSRs](CSR.md) and other authorized
+_Only CSRs and other authorized
 [SOE](../etc/Sony_Online_Entertainment.md) employees can use these commands_
 
 - **/create <name>** - Create specified [vehicle](../vehicles/Vehicle.md).

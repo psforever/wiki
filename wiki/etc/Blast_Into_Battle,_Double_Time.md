@@ -1,5 +1,5 @@
 **_Special Event:_**
-[Blast Into Battle, Double Time](Blast_Into_Battle.md,_Double_Time)
+[Blast Into Battle, Double Time](Blast_Into_Battle,_Double_Time.md)
 
 This was an event that was held from July 27 to August 8, 2006.
 
@@ -22,7 +22,7 @@ The following features/settings changes are added for the Event.
   - Soldiers using your [Router](../vehicles/Router.md) and Telepad
 - [Implant](../implants/Implants.md)
   [certifications](../certifications/Certification.md) have been reduced from
-  [Battle Ranks](terminology/Battle_Rank.md) 6, 12 and 18 allowing you to now
+  [Battle Ranks](../terminology/Battle_Rank.md) 6, 12 and 18 allowing you to now
   play with two Implants at Battle Ranks 6 and another at Battle Rank 7
 - Increased the [HART](../terminology/HART.md) docking time making it easier for
   those who continually miss the flight

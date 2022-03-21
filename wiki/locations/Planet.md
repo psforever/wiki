@@ -1,4 +1,4 @@
-There were once ten [continents](Continent.md) on a single planet named
+There were once ten [continents](../locations/Continent.md) on a single planet named
 [Auraxis](Auraxis.md), but after [The Bending](../etc/The_Bending.md), these
 continents were pushed through dimensional rifts outward into the galaxy to ten
 unique planets. These planets, and their continents, remain connected to one
@@ -14,7 +14,7 @@ Each continent, and the planet it is located on, can be reached by traveling
 through a continent's [warpgates](Warpgate.md) or
 [broadcast warpgates](../items/Broadcast_warpgate.md), or via the
 [HART Shuttle](../terminology/HART.md) system located in each Empire's
-[Sanctuary](Sanctuary.md). It can also be reached by selecting
+[Sanctuary](../locations/Sanctuary.md). It can also be reached by selecting
 [Instant Action](../terminology/Instant_Action.md) from your Esc
 [Menu](../etc/Menu.md).
 

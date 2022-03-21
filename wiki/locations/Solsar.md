@@ -13,7 +13,7 @@
 | [Towers](Towers.md):             | 18                                                                              |
 | Active [Warpgates](Warpgate.md): | 4                                                                               |
 | Active [Geowarps](Geowarp.md):   | 1                                                                               |
-| [Capitol](Capitol.md):           | [Interlink Facility](../terminology/Interlink.md) [Hapi](../facilities/Hapi.md) |
+| [Capitol](Capitol.md):           | [Interlink Facility](Interlink.md) [Hapi](../facilities/Hapi.md) |
 
 ## Description
 
@@ -26,7 +26,7 @@ bases more defensible to standard massed armor attacks.
 
 ---
 
-Source: Planetside In-game descriptions, pre- and post-[Bending](Bending.md).
+Source: Planetside In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
 
 This continent is also refered to as
 [Sol](../terminology/Acronyms_and_Slang.md). Solsar is a
@@ -41,7 +41,7 @@ empire sanctuary links.
 - [Mont](../facilities/Mont.md) ([Sub-Capitol](Sub-Capitol.md))
 - [Bastet](../facilities/Bastet.md)
 
-### [Bio Laboratories](Bio_Laboratories.md)
+### [Bio Laboratories](Bio_Laboratory.md)
 
 - [Aton](../facilities/Aton.md)
 - [Horus](Horus.md)
@@ -51,7 +51,7 @@ empire sanctuary links.
 
 - [Sobek](../facilities/Sobek.md) (Sub-Capitol)
 
-### [Interlink Facilities](Interlink_Facilities.md)
+### [Interlink Facilities](Interlink.md)
 
 - [Hapi](../facilities/Hapi.md) (Sub-Capitol)
 

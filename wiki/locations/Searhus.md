@@ -30,7 +30,7 @@ Beware the lava pools! They are extremely unforgiving.
 
 ---
 
---source: Planetside In-game descriptions, pre- and post-[Bending](Bending.md).
+--source: Planetside In-game descriptions, pre- and post-[Bending](../etc/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 
@@ -40,7 +40,7 @@ Beware the lava pools! They are extremely unforgiving.
 - [Pele](../facilities/Pele.md)
 - [Rehua](../facilities/Rehua.md)
 
-### [Bio Laboratories](Bio_Laboratories.md)
+### [Bio Laboratories](Bio_Laboratory.md)
 
 - [Akua](../facilities/Akua.md)
 - [Drakulu](../facilities/Drakulu.md)
@@ -49,9 +49,9 @@ Beware the lava pools! They are extremely unforgiving.
 
 ### [Dropship Centers](Dropship_Center.md)
 
-- [Sina](../Sina.md)
+- [Sina](../facilities/Sina.md)
 
-### [Interlink Facilities](Interlink_Facilities.md)
+### [Interlink Facilities](Interlink.md)
 
 - [Laka](../facilities/Laka.md)
 - [Oro](../facilities/Oro.md)

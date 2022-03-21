@@ -9,7 +9,7 @@
 | **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                               |
 | **Primary Weapon**         | Dual 100mm Cannons                                                                                                         |
 | **Secondary Weapon**       | Dual 15mm Rotary Chainguns                                                                                                 |
-| **Ammunition**             | [100mm Tank Shells](<Tank_Shell_(100mm).md>) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md)           |
+| **Ammunition**             | [100mm Tank Shells](../ammunition/Tank_Shell_(100mm).md) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md)           |
 | **Occupants**              | 3 (Driver and 2 Gunners)                                                                                                   |
 | **Handling**               | Good                                                                                                                       |
 | **Top speed**              | 57 kph                                                                                                                     |

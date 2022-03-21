@@ -53,7 +53,7 @@ is cover nearby.
 
 For low altitude bombing you want to fly as low as possible to the ground to
 avoid being seen by the enemy. You want to fly just high enough as to not set
-off any [mines](../weapons/Adaptive_Construction_Engine.md#High_Explosive_Mine)
+off any [mines](../weapons/Adaptive_Construction_Engine.md#high-explosive-mine)
 on the ground. Approach your target from the flanks or rear. You only want to
 take enemy fire on your exit and not your entrance. As you approach, gain enough
 height so that the bombing icon is illuminated and level out. After you pass the
@@ -204,7 +204,7 @@ The biggest difference is that you need to slow down over a target to allow
 enough bombs to be dropped to kill it. You can then quickly accelerate by
 afterburning away to safety. Due to the small splash radius, you must really fly
 directly over the target. A Vulture bomb will only kill a soldier wearing
-[Rexo](Rexo.md) armor if it lands within 1-2 meters of him.
+[Rexo](../armor/Reinforced_Exo-Suit.md) armor if it lands within 1-2 meters of him.
 
 ## Which Bombs to Use
 

@@ -13,10 +13,10 @@ the number and activities of combatants within the sphere. If that person is in
 a [squad](../terminology/Squad.md), the rest of the squad members on the same
 continent also share in the reward.
 
-[Spitfires](Spitfire.md#Spitfire_Turret),
-[Motion Detectors](../weapons/Adaptive_Construction_Engine.md#Motion_Sensor_Alarm),
+[Spitfires](../weapons/Adaptive_Construction_Engine.md#spitfire-turret),
+[Motion Detectors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm),
 [Aegis Shield Generators](../weapons/Aegis_Shield_Generator.md),
-[TRAPs](TRAP.md), and [Cerberus Turrets](../weapons/Cerberus_Turret.md) cannot
+[TRAPs](../weapons/Tactical_Resonance_Area_Protection.md), and [Cerberus Turrets](../weapons/Cerberus_Turret.md) cannot
 be deployed in an enemy SOI (though spitfires can if the user has the
 [Assault Engineering](../certifications/Assault_Engineering.md)
 [Certification](../certifications/Certification.md)).
@@ -32,7 +32,7 @@ is coded as yellow, orange, or red depending on the size of the enemy presence.
 
 While players are inside a friendly SOI, they will be affected by the benefits
 that that facility provides, as well as any linked benefits that facility might
-have. [Module](Module.md) benefits that are in place at that facility will also
+have. [Module](../etc/Modules.md) benefits that are in place at that facility will also
 be triggered for players inside its SOI.
 
 Any player may also use the

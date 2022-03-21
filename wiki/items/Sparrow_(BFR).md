@@ -13,11 +13,11 @@
 
 **Sparrow (BFR)**
 
-The Sparrow Missile Pod is the application of the [Sparrow](../items/Sparrow.md)
+The Sparrow Missile Pod is the application of the [Sparrow](Sparrow.md)
 [MAX](Mechanized_Assault_Exo-Suit.md) Anti-Aircraft weapons platform to the
 [Peregrine](../vehicles/Peregrine.md). The system has been adapted for rapid
 fire release of its clip of missiles, but at the cost of significantly less
-damage per missile than the [Sparrow](../items/Sparrow.md)
+damage per missile than the [Sparrow](Sparrow.md)
 [MAX](Mechanized_Assault_Exo-Suit.md). Unique among the
 [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md) weapons, the Sparrow
 has splash damage, making it more useful against light infantry than the others.

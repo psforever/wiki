@@ -1,11 +1,11 @@
 ![](../images/SA_DD.jpg "fig:SA_DD.jpg") weaponry. Damage indicated is one shot
-fired on a [Cloaker](Cloaker.md)\]\] ![](../images/MA_DD.jpg "fig:MA_DD.jpg")
+fired on a [Cloaker](../items/Infiltration_Suit.md)\]\] ![](../images/MA_DD.jpg "fig:MA_DD.jpg")
 weaponry, including the medium assault pistols [Eraser](../items/Eraser.md),
 [Stinger](../weapons/Stinger.md), and [Spear](../weapons/Spear.md) in green.
-Damage indicated is one shot fired on a [Cloaker](Cloaker.md)
+Damage indicated is one shot fired on a [Cloaker](../items/Infiltration_Suit.md)
 ([Pulsar](../weapons/Pulsar.md) figures are not current)\]\]
 ![](../images/HA_DD.jpg "fig:HA_DD.jpg") weaponry. Damage indicated is one shot
-fired on a [Cloaker](Cloaker.md) ([Lasher](../weapons/Lasher.md) figures not
+fired on a [Cloaker](../items/Infiltration_Suit.md) ([Lasher](../weapons/Lasher.md) figures not
 current)\]\]
 
 [Damage Degradation](Damage_Degradation.md) refers to the loss of power of some
@@ -15,11 +15,11 @@ get as close as possible with these weapons. Most weapons don't start to have
 Damage Degradation until a certain distance while others start to drop off in
 damage almost immediately.
 
-The [Flail](../items/Flail.md) has _inverse_ Damage Degradation. It does more
+The [Flail](../vehicles/Flail.md) has _inverse_ Damage Degradation. It does more
 damage at large distances and less damage at close distances.
 
 Some weapons do not suffer Damage Degradation. Shotgun-type weapons do not have
-Damage Degradation, yet their large [Cone of Fire](../etc/Cone_of_fire.md) means
+Damage Degradation, yet their large [Cone of Fire](Cone_of_fire.md) means
 that you are unlikely to land any hits at large distances anyway. Many
 [vehicle](../vehicles/Vehicle.md) and beam-type weapons do not have Damage
 Degradation either.
@@ -40,9 +40,9 @@ The following suffer from Damage Degradation:
 - [Rotary Chaingun](../items/Rotary_Chaingun.md)
 - [Quasar](../items/Quasar.md)
 - [Dual Cycler](../items/Dual-Cycler.md)
-- [Flail](../items/Flail.md) (inverse Damage Degradation, see above)
+- [Flail](../vehicles/Flail.md) (inverse Damage Degradation, see above)
 - [Wall Turret](../items/Phalanx.md) (standard fire mode)
-- [Spitfire](../weapons/Adaptive_Construction_Engine.md#Spitfire) and
+- [Spitfire](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) and
   [Shadow Turrets](../weapons/Shadow_Turret.md)
 
 <!--[Category: Terminology](Category:_Terminology.md)--> [Category:

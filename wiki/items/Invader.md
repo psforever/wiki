@@ -26,7 +26,7 @@ The pilot weapons available to the Colossus are
 
 - The [Tank Defense Cannon](../weapons/Tank_Defense_Cannon.md) (Anti-Vehicular)
 - The [Rotary Chaingun](Rotary_Chaingun.md) (Anti-Infantry)
-- The [Burster](<Burster_(BFR).md>) (Anti-Aircraft)
+- The [Burster](Burster_(BFR).md) (Anti-Aircraft)
 - The [NTU Siphon](../weapons/NTU_Siphon.md)
 - The [Armor Siphon](../weapons/Armor_Siphon.md) (Anti-Vehicular)
 

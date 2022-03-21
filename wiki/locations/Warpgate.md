@@ -1,8 +1,8 @@
 ![](../images/Warp.jpg "fig:Warp.jpg")
 ![](../images/Biwarp.jpg "fig:Biwarp.jpg")\]\] A Warpgate is a gigantic,
 hemispherically-shaped ancient artifact used to teleport individuals and
-vehicles from one [continent](Continent.md) to another. There are 3 to 4
-warpgates located on each continent and [sanctuary](Sanctuary.md), each linked
+vehicles from one [continent](../locations/Continent.md) to another. There are 3 to 4
+warpgates located on each continent and [sanctuary](../locations/Sanctuary.md), each linked
 to a [planet](Planet.md) light years away.
 
 If the warpgate's host continent is [locked](../etc/Continental_lock.md), or it
@@ -12,7 +12,7 @@ is linked to a locked continent via a
 individual across the [Galactic Lattice](../terminology/Galactic_Lattice.md) to
 any planet in the lattice chain.
 
-You cannot enter warpgates that link to an enemy [sanctuary](Sanctuary.md)
+You cannot enter warpgates that link to an enemy [sanctuary](../locations/Sanctuary.md)
 (found on enemy [Home Continents](Home_Continent.md)). These warpgates are
 shaded the color of the controling empire on the
 [Continental Map](../etc/Continental_Map.md). The bubble will act as a solid
@@ -47,7 +47,7 @@ throughout the [Pre-Bending](../etc/The_Bending.md) planet of
 The Terran scientists utilized this amazing property of the warpgates to create
 the [Matrix Panels](../items/Matrix_Panel.md) and
 [Respawn tubes](../items/Respawn_Tube.md) used in the various
-[facilities](Facilities.md) on each [continent](Continent.md).
+[facilities](Facilities.md) on each [continent](../locations/Continent.md).
 
 It is said that the scientists discovered how to create approximations of the
 [Ancients](../terminology/Ancients.md)' vehicles and weaponry by studying the

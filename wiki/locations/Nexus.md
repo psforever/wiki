@@ -10,16 +10,16 @@
 | Facilities:                      | 1                                  |
 | Towers:                          | 5                                  |
 | Active [Warpgates](Warpgate.md): | 2                                  |
-| Active [Geowarps](Geowarp.md):   | 0                                  |
+| Active [Geowarps](../locations/Geowarp.md):   | 0                                  |
 |                                  |                                    |
 
 A hill perimeter surrounds the only facility, [Atar](../facilities/Atar.md), a
 [Dropship Center](Dropship_Center.md), linked by two [Warpgates](Warpgate.md)
-and a [Geowarp](Geowarp.md).
+and a [Geowarp](../locations/Geowarp.md).
 
 This critical island lynchpin connects [Extinction](Extinction.md) to
 [Ascension](Ascension.md), while having no connections at all to other planets.
-The connected [Geowarp](Geowarp.md) is always inactive and never connects to a
+The connected [Geowarp](../locations/Geowarp.md) is always inactive and never connects to a
 [Cavern](Caverns.md) at the present time.
 
 [Towers](Towers.md) on the hill rim can only be accessed from footpaths on the

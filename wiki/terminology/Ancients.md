@@ -8,7 +8,7 @@ _Wormhole_ that brought us here.
 Upon discovering the [caverns](../locations/Caverns.md) of Auraxis, we got a
 glimpse of where the Ancients must have lived or worked. They left behind
 artifacts and residual energy signatures for
-[Ancient Technology](Ancient_Technology.md) that we have been able to adapt to
+[Ancient Technology](Ancient_Technology.md)  that we have been able to adapt to
 our own needs.
 
 The appearance, motives, and whereabouts of the Ancients are a complete mystery.
