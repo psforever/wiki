@@ -1,3 +1,3 @@
 $(function() {
-  $('img.caption').captionjs({mode: 'animated', inherit_styles: true});
+  $('img.figure').captionjs({mode: 'animated', inherit_styles: true});
 })

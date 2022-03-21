@@ -1,3 +1,10 @@
+.figure {
+  float: right;
+  margin-bottom: 1rem;
+  clear: both;
+  width: 300px;
+}
+
 .captionjs, .captionjs figcaption {
   margin: 0 0 20px;
   padding: 0;
