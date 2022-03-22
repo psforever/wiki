@@ -1045,7 +1045,7 @@ bgcolor="#AAAAAA">
 <tr>
 <td>
 
-[Heavy Weapons](<Heavy_Assault_(Merit).md>)
+[Heavy Weapons](Heavy_Weapons.md)
 
 </td>
 <td class="mitd">

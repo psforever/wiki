@@ -97,7 +97,7 @@ Merit Classes:
 
 - [Basic Weapons](<Basic_Weapons_(Merit).md>)
 - [Rifleman](Rifleman.md)
-- [Heavy Assault](<Heavy_Assault_(Merit).md>)
+- [Heavy Assault](Heavy_Weapons.md)
 - [Special Assault](<Special_Assault_(Merit).md>)
 - [Sniper](<Sniper_(Merit).md>)
 - [Anti-Armor](Anti-Armor.md)

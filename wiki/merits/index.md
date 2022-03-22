@@ -81,7 +81,7 @@ Said streaks require you to kill a certain amount of people without dying.
 
 - Example:
 
-The [Heavy Assault](<Heavy_Assault_(Merit).md>) Platinum Merit Commendation
+The [Heavy Assault](Heavy_Weapons.md) Platinum Merit Commendation
 requires 8,000 kills to Qualify for it. After you have achieved those 8,000
 kills the game will flag you as Qualified and you will have to kill 12 Enemy
 Soldiers ([Unique Kills](../terminology/Unique_kill.md)) to obtain the Heavy

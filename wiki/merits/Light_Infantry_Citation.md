@@ -116,16 +116,16 @@
 </table>
 
 - **Generalist:** Qualify for the Qualification level of the
-  [Basic Weapons](<Standard_Assault_(Merit).md>) and
-  [Rifleman](<Medium_Assault_(Merit).md>) Merits.
+  [Basic Weapons](Basic_Weapons_(Merit).md) and
+  [Rifleman](Rifleman.md) Merits.
 - **Expert:** Qualify for the Bronze level of the
-  [Basic Weapons](<Standard_Assault_(Merit).md>) and
-  [Rifleman](<Medium_Assault_(Merit).md>) Merits.
+  [Basic Weapons](Basic_Weapons_(Merit).md) and
+  [Rifleman](Rifleman.md) Merits.
 - **Elite:** Qualify for the Silver level of the
-  [Basic Weapons](<Standard_Assault_(Merit).md>) and
-  [Rifleman](<Medium_Assault_(Merit).md>) Merits.
+  [Basic Weapons](Basic_Weapons_(Merit).md) and
+  [Rifleman](Rifleman.md) Merits.
 - **Master:** Qualify for the Gold level of the
-  [Basic Weapons](<Standard_Assault_(Merit).md>) and
-  [Rifleman](<Medium_Assault_(Merit).md>) Merits.
+  [Basic Weapons](Basic_Weapons_(Merit).md) and
+  [Rifleman](Rifleman.md) Merits.
 
 **\*\*\*Note: Only the "Generalist" level is on the live server\*\*\***
