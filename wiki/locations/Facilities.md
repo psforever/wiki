@@ -7,7 +7,7 @@ repair or rapid respawning, and strategic chokepoints for defense and attack.
 There are several types of Facilities, each with their own arrangement of
 buildings, terminals, and vital functions.
 
-# Types of Facilities
+## Types of Facilities
 
 ### Surface Facilities
 

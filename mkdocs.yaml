@@ -17,6 +17,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - featherlight
+  - toc:
+      toc_depth: "1-4"
 extra:
   social:
     - icon: fontawesome/brands/discord

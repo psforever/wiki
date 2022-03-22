@@ -16,7 +16,7 @@ Respawn rooms are protected by low-energy
 [Pain Module](../modules/Pain_Module.md) is installed, this pain field is even more
 lethal.
 
-The Respawn room is adjacent to the [lounge](../merits/Lounge.md) and above the
+The Respawn room is adjacent to the [lounge](Lounge.md) and above the
 [barracks](Barracks.md). These three areas together are sometimes refered to as
 the Barracks as well.
 

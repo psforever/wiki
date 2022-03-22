@@ -1,5 +1,5 @@
 ![barracks](../images/Barracksdownstairs.jpg){ class="figure" } This room is
-typically located one level beneath the [lounge](../merits/Lounge.md) in all
+typically located one level beneath the [lounge](Lounge.md) in all
 [facilities](Facilities.md) (excluding [Bio Labs](Bio_Laboratory.md), which have
 a [Research Room](Research_Room.md)).
 

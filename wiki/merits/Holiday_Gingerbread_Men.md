@@ -67,5 +67,5 @@ season.
   - [Yazata](../facilities/Yazata.md) -
     [Medical Bay](../locations/Medical_Bay.md)
 - **[Nexus](../locations/Nexus.md)**
-  - [Atar](../facilities/Atar.md) - [Lounge](Lounge.md) (Room behind the
+  - [Atar](../facilities/Atar.md) - [Lounge](../locations/Lounge.md) (Room behind the
     [Spawn Room](../locations/Spawn_Room.md)
