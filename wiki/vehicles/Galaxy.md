@@ -15,8 +15,7 @@
 
 **Galaxy**
 
-![](../images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg"){ align=right
-width="350" }
+![](../images/Galaxy_crew_seats.jpg "Galaxy_crew_seats.jpg"){ class="figure" }
 
 The **Galaxy** is a huge aircraft capable of carrying 9 infantry and 2
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) units, as well as the pilot and
