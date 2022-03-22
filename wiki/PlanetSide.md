@@ -192,7 +192,7 @@ powerful tools, which, when installed in a surface
 [facility](locations/Facilities.md), grant that facility and all other
 friendly facilities in the lattice certain benefits. The six types of modules
 are [equipment](modules/Equipment_Module.md),
-[health](modules/Health_Module.md), [painmodules/Pain_Module.mdmd),
+[health](modules/Health_Module.md), [pain](modules/Pain_Module.md),
 [shield](items/Shield_Module.md), [speed](modules/Speed_Module.md), and
 [vehicle](modules/Vehicle_Module.md).
 

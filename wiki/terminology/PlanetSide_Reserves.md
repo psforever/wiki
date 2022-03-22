@@ -21,7 +21,7 @@ received access to [AfterShock](../AfterShock.md) content.
   stopped accruing
 - Characters could enter the [Caverns](../locations/Caverns.md) and use
   [Ancient Tech](Ancient_Technology.md) [vehicles](../vehicles/Vehicle.md) and
-  [weapons](../weapons/Weapons_Index.md), but could not
+  [weapons](../weapons/index.md), but could not
   [Imprint](BFR_Imprint.md) for [BFRs](../vehicles/BattleFrame_Robotics.md),
   although the pre-requisites for Imprinting could be earned
 - There was no limitation on joining [Squads](Squad.md) or [Outfits](Outfit.md)

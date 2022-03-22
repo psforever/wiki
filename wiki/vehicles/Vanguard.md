@@ -5,7 +5,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                                   |
 | **Role**                   | Attack                                                                                                                                 |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md)             |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armored Assault II](../certifications/Armored_Assault_II.md)             |
 | **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                         |
 | **Primary Weapon**         | 150mm Cannon                                                                                                                           |
 | **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                                 |

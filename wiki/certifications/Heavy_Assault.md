@@ -1,29 +1,10 @@
-<table>
-<caption><strong>Heavy Assault</strong></caption>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p>Weaponry</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Maelstrom.md" title="wikilink">Maelstrom</a><br />
-<a href="Jackhammer.md" title="wikilink">Jackhammer</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Mini-Chaingun.md" title="wikilink">Mini-Chaingun</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Lasher.md" title="wikilink">Lasher</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Medium_Assault.md" title="wikilink">Medium Assault</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Required For</strong></p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Cert Point Cost</strong></p></td>
-<td><p>4</p></td>
-</tr>
-</tbody>
-</table>
+|     |     |
+| --- | --- |**Heavy Assault**
+| **Type** | Weaponry |
+| **Provides Access To** | [Maelstrom](../weapons/Maelstrom.md)  <br>[Jackhammer](../weapons/Jackhammer.md) ([NC](../terminology/New_Conglomerate.md)), [Mini-Chaingun](../weapons/Mini-Chaingun.md) ([TR](../terminology/Terran_Republic.md)), [Lasher](../weapons/Lasher.md) ([VS](../terminology/Vanu_Sovereignty.md)) |
+| **Pre-requisite** | [Medium Assault](Medium_Assault.md) |
+| **Required For** | -   |
+| **Cert Point Cost** | 4   |
 
 **Heavy Assault**
 

@@ -71,7 +71,7 @@ be purchased or driven.
 The vehicles and their requirements are listed below:
 
 [Vulture](Vulture.md) : [Bomber Ace Bronze](../merits/Bomber_Ace.md)
-Flight-Variant BFRs ([Invader](../items/Invader.md), [Eclipse](Eclipse.md), or
+Flight-Variant BFRs ([Invader](Invader.md), [Eclipse](Eclipse.md), or
 [Eagle](Eagle.md)) : [BFR Basic](<../merits/BFR_(Merit).md>)
 
 ### Vehicle Terminal

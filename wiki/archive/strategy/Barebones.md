@@ -32,7 +32,7 @@ building. You'll see a set of three doors up some stairs; head into any of them.
 
 Choose 1 or 2 (do both). Every new item you <i>equip</i> gives you a number of
 [Experience Points](../../terminology/Experience_Points.md)- anywhere between 50
-and 200. So equip every [weapon](../../weapons/Weapons_Index.md) and support item
+and 200. So equip every [weapon](../../weapons/index.md) and support item
 you can, fire them if you want to. Putting on
 [Rexo](../../armor/Reinforced_Exo-Suit.md) armor makes this process faster.
 

@@ -29,7 +29,7 @@ Upon entering the massacre lands, soldiers will be subject to the following:
   in the shadows
 - The only vehicles available are [Wraiths](../../vehicles/Wraith.md),
   [AMS](../../vehicles/Advanced_Mobile_Station.md),
-  anvehicles/Advanced_Nanite_Transport.mdnsport.md).
+  and [ANTs](../../vehicles/Advanced_Nanite_Transport.md).
 - [Empire](../../terminology/Empire.md) specific Jack-o-lanterns will replace the
   backpack corpses.
 - Before joining the massacre, we advise careful planning of your

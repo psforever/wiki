@@ -2,7 +2,7 @@
 
 |                          |                                                                                              |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Used by**              | [Bolt Driver](../weapons/Bolt_Driver.md), [Heavy Scout../Heavy_Scout_Rifle.mdRifle.md) (HSR) |
+| **Used by**              | [Bolt Driver](../weapons/Bolt_Driver.md), [Heavy Scout Rifle](../weapons/Heavy_Scout_Rifle.md) (HSR) |
 | **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                 |
 | **Inventory dimensions** | 3x3                                                                                          |
 | **Quantity per pack**    | 10 rounds                                                                                    |

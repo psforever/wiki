@@ -20,7 +20,7 @@ Selecting a planet or cavern will also highlight its hosted continent on the
 side of the screen, with thin lines leading to the target world for quick
 referance. Each mini-window will also show the
 [Continental lock](Continental_lock.md) and [Population
-lock](Population_Lock.mdtatus of each continent, the empire
+lock](Population_Lock.md) status of each continent, the empire
 [SOIs](../locations/Sphere_of_Influence.md) for each base, as well as any
 [hotspots](Hotspot.md) on the surface.
 

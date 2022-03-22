@@ -25,7 +25,7 @@ Points for their activities. Kills made as a Black Ops also do not count towards
 
 Black Ops can only [Squad](Squad.md)/[Platoon](Platoon.md) together with other
 Black Ops, and cannot use any [chat](../chat/In-Game_Chat.md) except for the
-special Black Ops chat (b.md <message> or /c <message> when playing as a Black
+special Black Ops chat (/b <message> or /c <message> when playing as a Black
 Ops) and Squad/Platoon Chat.
 
 Black Ops can only be on the continent(s) enabled by the GM (usually only one),

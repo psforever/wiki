@@ -1,29 +1,10 @@
-<table>
-<caption><strong>Light Scout</strong></caption>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p>Vehicle/Aircraft</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Mosquito.md" title="wikilink">Mosquito</a>, <a href="Harasser.md" title="wikilink">Harasser</a>, <a href="Skyguard.md" title="wikilink">Skyguard</a><br />
-<a href="Enforcer.md" title="wikilink">Enforcer</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Marauder.md" title="wikilink">Marauder</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Thresher.md" title="wikilink">Thresher</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Pre-requisite</strong></p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Required For</strong></p></td>
-<td><p><a href="Air_Cavalry_Assault.md" title="wikilink">Air Cavalry Assault</a> and <a href="Air_Cavalry_Interceptor.md" title="wikilink">Air Cavalry Interceptor</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Cert Point Cost</strong></p></td>
-<td><p>5</p></td>
-</tr>
-</tbody>
-</table>
+|     |     |
+| --- | --- |**Light Scout**
+| **Type** | Vehicle/Aircraft |
+| **Provides Access To** | [Mosquito](../vehicles/Mosquito.md), [Harasser](../vehicles/Harasser.md), [Skyguard](../vehicles/Skyguard.md)  <br>[Enforcer](../vehicles/Enforcer.md) ([NC](../terminology/New_Conglomerate.md)), [Marauder](../vehicles/Marauder.md) ([TR](../terminology/Terran_Republic.md)), [Thresher](../vehicles/Thresher.md) ([VS](../terminology/Vanu_Sovereignty.md)) |
+| **Pre-requisite** | -   |
+| **Required For** | [Air Cavalry Assault](Air_Cavalry_Assault.md) and [Air Cavalry Interceptor](Air_Cavalry_Interceptor.md) |
+| **Cert Point Cost** | 5   |
 
 **Light Scout**
 

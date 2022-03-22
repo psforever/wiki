@@ -724,7 +724,7 @@ sweet spot! These are ideal placements for you to be during a takedown.
 <div id="ColossusTakedownPlacement">
 
 <small>Placement under a TR [Colossus](../../vehicles/Colossus.md) or
-[Invader](../../items/Invader.md)</small>
+[Invader](../../vehicles/Invader.md)</small>
 
 </div>
 </td>
@@ -791,7 +791,7 @@ during the deci-swap and the takedown.
 
 ![](../../images/ColossusTakedownAim.gif){ class="figure" } <small>Where to aim
 against a TR [Colossus](../../vehicles/Colossus.md) or
-[Invader](../../items/Invader.md)</small>
+[Invader](../../vehicles/Invader.md)</small>
 
 </div>
 </td>

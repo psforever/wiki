@@ -4,7 +4,7 @@
 |                            |                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md)         |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md), [Terran Republic](../terminology/Terran_Republic.md), [Vanu Sover../terminology/Vanu_Sovereignty.mdignty.md) |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md), [Terran Republic](../terminology/Terran_Republic.md), [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) |
 | **Primary Mode**           | Deploy Field Turret                                                                                                                          |
 | **Secondary Mode**         | \-                                                                                                                                           |
 | **Ammunition**             | \-                                                                                                                                           |

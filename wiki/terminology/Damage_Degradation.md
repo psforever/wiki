@@ -1,7 +1,7 @@
 ![ weaponry. Damage indicated is one shot
 fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){ class="figure" }
 ![
-weaponry, including the medium assault pistols [Eraser](../items/Eraser.md),
+weaponry, including the medium assault pistols [Eraser](../weapons/Eraser.md),
 [Stinger](../weapons/Stinger.md), and [Spear](../weapons/Spear.md) in green.
 Damage indicated is one shot fired on a [Cloaker](../armor/Infiltration_Suit.md)
 ([Pulsar](../weapons/Pulsar.md) figures are not current)](../images/MA_DD.jpg){ class="figure" }

@@ -35,4 +35,4 @@ of the way.
 
 At close range, the Stinger will kill a soldier wearing
 [Rexo](../armor/Reinforced_Exo-Suit.md) armor in 5 shots. The
-[Eraser](../items/Eraser.md) and [Spear](Spear.md) function identically.
+[Eraser](Eraser.md) and [Spear](Spear.md) function identically.

@@ -23,6 +23,6 @@ CR5s: 34/41
 request a tryout from one of our active members. Markov & Werner applicants are
 also welcome, but full-time NC on Emerald is required. Tryout duration is not
 fixed and depends entirely on the applicant. Please contact
-[Fayaz](mailto:fayaz.md@1cmm.net) for details.
+[Fayaz](mailto:fayaz@1cmm.net) for details.
 
 [<http://www.1cmm.net/>](http://www.1cmm.net/)

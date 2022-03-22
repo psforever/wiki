@@ -439,7 +439,7 @@ at bottom.
 
 - [Anniversary Update](Unnumbered_Patches.md#anniversary-2007-update-5182007) -
   Added [Dragon](../weapons/Dragon.md), [Scorpion](../weapons/Scorpion.md),
-  [Stinger](../weapons/Stinger.md), [Eraser](../items/Eraser.md), and
+  [Stinger](../weapons/Stinger.md), [Eraser](../weapons/Eraser.md), and
   [Spear](../weapons/Spear.md)
 - [3.12.20](3.12.20.md) -
   [Combat Engineering](../certifications/Combat_Engineering.md) changes and

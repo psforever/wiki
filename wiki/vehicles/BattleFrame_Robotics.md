@@ -1,31 +1,9 @@
 **BattleFrame Robotics**, or **BFR** for short, is the name given the giant
 robots (or mecha) of the PlanetSide universe.
 
-<table>
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 80%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p>__TOC__</p></td>
-<td style="text-align: center;"><table style="width:10%;">
-<colgroup>
-<col style="width: 3%" />
-<col style="width: 3%" />
-<col style="width: 3%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><img src="Colussus.jpg" title="fig:Colussus.jpg" width="180" alt="Colussus.jpg" />, the <a href="Terran_Republic.md" title="wikilink">TR</a> gunner variant BFR.]]</p></td>
-<td><p><img src="AphelionPicture.jpg" title="fig:AphelionPicture.jpg" width="210" alt="AphelionPicture.jpg" />, the <a href="VS.md" title="wikilink">VS</a> gunner variant BFR.]]</p></td>
-<td><p><img src="NC_Peregrine.jpg" title="fig:NC_Peregrine.jpg" width="165" alt="NC_Peregrine.jpg" />, the <a href="New_Conglomerate.md" title="wikilink">NC</a> gunner variant BFR.]]</p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
+|     |     |     |
+| --- | --- | --- |
+| ![Colussus.jpg](../images/Colussus.jpg "fig:Colussus.jpg"), the [TR](../terminology/Terran_Republic.md "wikilink") gunner variant BFR.\]\] | ![AphelionPicture.jpg](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg"), the [VS](../terminology/Vanu_Sovereignty.md "wikilink") gunner variant BFR.\]\] | ![NC_Peregrine.jpg](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg"), the [NC](../terminology/New_Conglomerate.md "wikilink") gunner variant BFR.\]\] |
 
 ### The Story
 
@@ -172,12 +150,12 @@ regenerate their shields compared to their gunner counterparts. Conversely,
 flight variants can run and walk much faster than the ground variants, giving
 them the ability to flee relatively quickly when under attack. Each empire
 variant's maximum jump height is different, with the
-[Invader](../items/Invader.md) having the highest jump and the
+[Invader](Invader.md) having the highest jump and the
 [Eclipse](Eclipse.md) having the lowest.
 
 ##### Empire-specific flight variants
 
-- The [Invader](../items/Invader.md)
+- The [Invader](Invader.md)
   ([Terran Republic](../terminology/Terran_Republic.md))
 - The [Eagle](Eagle.md) ([New Conglomerate](../terminology/New_Conglomerate.md))
 - The [Eclipse](Eclipse.md) ([Vanu Sovereignty](../terminology/Vanu_Sovereignty.md))

@@ -184,75 +184,9 @@ Enter in order to activate the chat entry mode.
 ## Sending to different channels
 
 Players can send chat to different channels using a variety of commands.
-
-<table>
-<tbody>
-<tr class="odd">
-<td><ul>
-<li>Local Channel
-<ul>
-<li>/local <message></li>
-<li>/l <message></li>
-</ul></li>
-<li>Broadcast Channel
-<ul>
-<li>/broadcast <message></li>
-<li>/b <message></li>
-</ul></li>
-<li>Private Chat
-<ul>
-<li>/tell <name> <message> - Sends a private message to a specific player
-<ul>
-<li>/t <name> <message></li>
-<li>Double-clicking on the name of a squad-mate</li>
-</ul></li>
-<li>/reply <message> - Replies to last private message received
-<ul>
-<li>/r <message></li>
-<li>Backspace key</li>
-</ul></li>
-</ul></li>
-<li>Squad Channel
-<ul>
-<li>/squad <message></li>
-<li>/s <message></li>
-</ul></li>
-</ul></td>
-<td><ul>
-<li>Squad Leader Channel
-<ul>
-<li>/sl <message></li>
-</ul></li>
-<li>Platoon Channel
-<ul>
-<li>/platoon <message></li>
-<li>/p <message></li>
-</ul></li>
-<li>Platoon Leader Channel
-<ul>
-<li>/pl <message></li>
-</ul></li>
-<li>Outfit Channel
-<ul>
-<li>/outfit <message></li>
-<li>/o <message></li>
-</ul></li>
-<li>Command Channel
-<ul>
-<li>/command <message></li>
-<li>/c <message></li>
-<li>/sitrep <message></li>
-<li>For CR5 continental and global chat commands, please see <a href="Commands#Commander_Commands" title="wikilink">Commands</a></li>
-</ul></li>
-<li><a href="Black_Ops.md" title="wikilink">Black Ops</a> Channel
-<ul>
-<li>/b <message></li>
-<li>/c <message></li>
-</ul></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+|     |     |
+| --- | --- |
+| * Local Channel<br>    * /local<br>    * /l<br>* Broadcast Channel<br>    * /broadcast<br>    * /b<br>* Private Chat<br>    * /tell \- Sends a private message to a specific player<br>        <br>        * /t<br>        * Double-clicking on the name of a squad-mate<br>        <br>    * /reply \- Replies to last private message received<br>        <br>        * /r<br>        * Backspace key<br>        <br>* Squad Channel<br>    * /squad<br>    * /s | * Squad Leader Channel<br>    * /sl<br>* Platoon Channel<br>    * /platoon<br>    * /p<br>* Platoon Leader Channel<br>    * /pl<br>* Outfit Channel<br>    * /outfit<br>    * /o<br>* Command Channel<br>    * /command<br>    * /c<br>    * /sitrep<br>    * For CR5 continental and global chat commands, please see [Commands](Chat_Commands.md)<br>* [Black Ops](../terminology/Black_Ops.md) Channel<br>    * /b<br>    * /c |
 
 ## Custom Colors
 

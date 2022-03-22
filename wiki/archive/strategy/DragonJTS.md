@@ -36,7 +36,7 @@ aren’t too useful outside, as vehicles will probably show up early, and then
 easily destroy them, without taking much damage. Mines, however, will wreak
 havoc on them. A very deadly combo is a combination of
 [Disruptor Mines](../../weapons/Disruptor_Mine.md)
-a../certifications/Anti-Vehicular.mdcular.md). The mines make it so vehicles
+and [AV](../../certifications/Anti-Vehicular.md). The mines make it so vehicles
 can't fire their weapons, leaving them open to a salvo of AV rockets. MAXs
 should set up just inside the door, on the stairs towards the CC. If the people
 using them have [DL](../../implants/Darklight.md), they should activate it. Once

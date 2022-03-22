@@ -31,7 +31,7 @@ Used by:
   ([Terran Republic](../terminology/Terran_Republic.md))
 - [Skyguard](../vehicles/Skyguard.md) Medium Buggy
   ([Common Pool](../terminology/Common_Pool.md))
-- [Invader](../items/Invader.md), [Colossus](../vehicles/Colossus.md)
+- [Invader](../vehicles/Invader.md), [Colossus](../vehicles/Colossus.md)
   [Burster](<../items/Burster_(BFR).md>)
   [BFR](../vehicles/BattleFrame_Robotics.md) Weapon
   ([Terran Republic](../terminology/Terran_Republic.md))

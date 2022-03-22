@@ -16,7 +16,7 @@ for a broadcast macro used in advertising for a squad invite.
 Example: /macro LFS /b BR17 CR2 with adv hack and air cav LFS
 
 Hitting the key linked to the macro "LFS" in your
-[Hotkey Bar](Heads-up_Display.md#Hotkey_Bar) will then put "BR17 CR2 with adv
+[Hotkey Bar](Heads-up_Display.md#hotkey-bar) will then put "BR17 CR2 with adv
 hack and air cav LFS" into your local broadcast channel.
 
 You can also add [Color Codes](../chat/Color_Codes.md) to your macro to add

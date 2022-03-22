@@ -216,7 +216,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Motion Sensor](../weapons/Adaptive_Construction_Engine.md#Motion_Sensor_Alarm)
+[Motion Sensor](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm)
 
 </td>
 <td align="center">
@@ -284,7 +284,7 @@ Aegis (Shield Upgrade)
 <tr>
 <td align="center">
 
-[Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret)
+[Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#spitfire-turret)
 
 </td>
 <td align="center">

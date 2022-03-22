@@ -1,7 +1,7 @@
 ![](../images/Equip_Term.jpg "Equip_Term.jpg")
 
 **Equipment terminals** provide troops with
-[weapons](../weapons/Weapons_Index.md), ammunition,
+[weapons](../weapons/index.md), ammunition,
 [armor](../armor/index.md), support equipment, and vehicle ordnance.
 [Ancient-Tech](../terminology/Ancient_Technology.md) weaponry can also be
 acquired if an [Equipment Module](../modules/Equipment_Module.md) is installed or a

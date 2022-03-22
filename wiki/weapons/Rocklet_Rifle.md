@@ -6,7 +6,7 @@
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                                                                      |
 | **Primary Mode**           | Single Fire                                                                                                       |
 | **Secondary Mode**         | Rapid Succession Fire                                                                                             |
-| **Ammunition**             | [Rocket Pod](../ammunition/Rocket_Pod.md) or [Fragmentation Gre../items/Fragmentation_Grenade_Pack.mdade_Pack.md) |
+| **Ammunition**             | [Rocket Pod](../ammunition/Rocket_Pod.md) or [Fragmentation Grenade Pack](../items/Fragmentation_Grenade_Pack.md) |
 | **Inventory Dimensions**   | 3 x 6 (Rifle Holster)                                                                                             |
 | **Magazine Capacity**      | 6                                                                                                                 |
 | **Zoom**                   | 2x                                                                                                                |

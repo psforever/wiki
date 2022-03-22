@@ -354,7 +354,7 @@ Enjoy!
 
 PISTOLS - The [Spear](../weapons/Spear.md) ([NC](../terminology/New_Conglomerate.md)) /
 The [Stinger](../weapons/Stinger.md) ([TR](../terminology/Terran_Republic.md)) / The
-[Eraser](../items/Eraser.md) ([VS](../terminology/Vanu_Sovereignty.md))
+[Eraser](../weapons/Eraser.md) ([VS](../terminology/Vanu_Sovereignty.md))
 
 These Empire specific pistols are designed to be very lethal towards Infantry
 units but lack a punch in the armor piercing department

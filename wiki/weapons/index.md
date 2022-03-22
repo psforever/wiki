@@ -21,7 +21,7 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 
 ### Medium Assault Weapons
 
-- [Eraser](../items/Eraser.md)
+- [Eraser](Eraser.md)
 - [Cycler](Cycler.md)
 - [Gauss](Gauss.md)
 - [Pulsar](Pulsar.md)

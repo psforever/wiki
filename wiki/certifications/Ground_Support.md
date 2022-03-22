@@ -1,29 +1,10 @@
-<table>
-<caption><strong>Ground Support</strong></caption>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p>Vehicle</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Advanced_Mobile_Station.md" title="wikilink">Advanced Mobile Station</a> (AMS)<br />
-<a href="Router.md" title="wikilink">Router</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Pre-requisite</strong></p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Required For</strong></p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Cert Point Cost</strong></p></td>
-<td><p>2</p></td>
-</tr>
-</tbody>
-</table>
+|     |     |
+| --- | --- |**Ground Support**
+| **Type** | Vehicle |
+| **Provides Access To** | [Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md) (AMS)  <br>[Router](../vehicles/Router.md) |
+| **Pre-requisite** | -   |
+| **Required For** | -   |
+| **Cert Point Cost** | 2   |
 
 **Ground Support**
 

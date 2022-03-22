@@ -6,7 +6,7 @@ with [Jammer grenades](../weapons/Jammer_Grenade.md), a
 
 **Inventory** represents a soldier's personal available storage space. The
 inventory space consists of [holsters](Holster.md), from which
-[weapons](../weapons/Weapons_Index.md) and certain items can be quickly
+[weapons](../weapons/index.md) and certain items can be quickly
 retrieved, and general [backpack](Backpack.md) space, where other items of
 interest may be kept.
 

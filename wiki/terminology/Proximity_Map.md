@@ -7,7 +7,7 @@ wealth of data.
 Friendly units are displayed in Green. Enemy Units are displayed in Red.
 
 Depending on certain variables such as
-[Motion Sensors](../weapons/Adaptive_Construction_Engine.md#Motion_Sensor_Alarm)
+[Motion Sensors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm)
 or control of an [Interlink Facility](../locations/Interlink.md), some Enemy
 units may or may not show up on your Radar.
 

@@ -6,7 +6,7 @@ their backs where a second soldier can mount a secondary gun mounted atop the
 BFR. They also have more armor and a faster shield regeneration then their
 flight counter parts giving them more of a "staying power."
 
-The Flight Variant of the Colossus is the [Invader](../items/Invader.md).
+The Flight Variant of the Colossus is the [Invader](Invader.md).
 
 ## **Pilot Weapons**
 

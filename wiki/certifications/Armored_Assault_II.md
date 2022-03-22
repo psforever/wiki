@@ -1,30 +1,10 @@
-<table>
-<caption><strong>Armored Assault II</strong></caption>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p>Vehicle</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Provides Access To</strong></p></td>
-<td><p><a href="Medium_Battle_Tank.md" title="wikilink">Medium Battle Tank</a><br />
-<a href="Vanguard.md" title="wikilink">Vanguard</a> (<a href="New_Conglomerate.md" title="wikilink">NC</a>), <a href="Prowler.md" title="wikilink">Prowler</a> (<a href="Terran_Republic.md" title="wikilink">TR</a>), <a href="Magrider.md" title="wikilink">Magrider</a> (<a href="Vanu_Sovereignty.md" title="wikilink">VS</a>)</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Armored_Assault_I.md" title="wikilink">Armored Assault I</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Required For</strong></p></td>
-<td><p><a href="Flail.md" title="wikilink">Flail</a><br />
-<a href="BattleFrame_Robotics.md" title="wikilink">BattleFrame Robotics</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Cert Point Cost</strong></p></td>
-<td><p>1</p></td>
-</tr>
-</tbody>
-</table>
+|||
+|--- |--- |
+|**Type**|Vehicle|
+|**Provides Access To**|[Medium Battle Tank](../items/Medium_Battle_Tank.md), [Vanguard](../vehicles/Vanguard.md) (NC), [Prowler](../vehicles/Prowler.md) (TR), [Magrider](../vehicles/Magrider.md) (VS)|
+|**Pre-requisite**|Armored Assault I|
+|**Required For**|[Flail](Flail_(Certification).md), [BattleFrame Robotics](BFR_(Certification).md)|
+|**Cert Point Cost**|1|
 
 **Armored Assault II**
 

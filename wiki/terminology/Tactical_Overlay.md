@@ -17,7 +17,7 @@ Aqua squares represent areas under surveillance, where no significant troop
 activity is detected.
 
 Purple, Red, and Blue squares indicate [VS](Vanu_Sovereignty.md),
-[TR](Terran_Republic.md), and [NC](../etc/New_Conglomerate.mdents,
+[TR](Terran_Republic.md), and [NC](New_Conglomerate.md) movements,
 respectively.
 
 Yellow areas indicate contested regions (i.e. nearly equal number of enemy and

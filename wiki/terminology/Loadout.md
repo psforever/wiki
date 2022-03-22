@@ -1,4 +1,4 @@
-The collection of [weapons](../weapons/Weapons_Index.md), ammunition, and
+The collection of [weapons](../weapons/index.md), ammunition, and
 supplies currently in your personal [inventory](Inventory.md) or your vehicle's
 [trunk](Trunk.md).
 

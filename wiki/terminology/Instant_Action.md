@@ -5,7 +5,7 @@ The location a soldier is sent to is partly determined by the number and
 frequency of [Hotspots](Hotspot.md) on the various
 [Planet](../locations/Planet.md) maps, along with friendly population already in
 place, along with [Empire Lock](Empire_Lock.md) and [Population
-lock](Population_Lock.md
+lock](Population_Lock.md)
 
 To use Instant Action, either type '/ia' or '/instantaction' into the chat box,
 or press Esc and select from the menu.

@@ -4,7 +4,7 @@
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
 | **Role**                   | Attack                                                                                                                     |
-| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md) |
+| **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armored Assault II](../certifications/Armored_Assault_II.md) |
 | **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                             |
 | **Primary Weapon**         | Heavy Rail Beam                                                                                                            |
 | **Secondary Weapon**       | Pulsed Particle Accelerator                                                                                                |

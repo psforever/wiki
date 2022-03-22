@@ -1,35 +1,10 @@
-<table>
-<caption><strong>Assault Engineering</strong></caption>
-<tbody>
-<tr class="odd">
-<td><p><strong>Type</strong></p></td>
-<td><p>Equipment</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Provides Access To</strong></p></td>
-<td><ul>
-<li><a href="Field_Deployment_Unit.md" title="wikilink">Field Deployment Unit</a> (FDU)</li>
-<li><a href="Aegis_Shield_Generator.md" title="wikilink">Aegis Shield Generator</a></li>
-<li><a href="One-Manned_Field_Turret.md" title="wikilink">One-Manned Field Turret</a></li>
-<li><a href="Disruptor_Mine.md" title="wikilink">Disruptor Mine</a></li>
-<li>Ability to place <a href="ACE#Spitfire_Turret" title="wikilink">Spitfire Turrets</a> inside Enemy <a href="SOI.md" title="wikilink">SOIs</a></li>
-<li>Ammunition Upgrade for the Aegis Shield Generator</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Pre-requisite</strong></p></td>
-<td><p><a href="Combat_Engineering.md" title="wikilink">Combat Engineering</a></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>Required For</strong></p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>Cert Point Cost</strong></p></td>
-<td><p>3</p></td>
-</tr>
-</tbody>
-</table>
+|     |     |
+| --- | --- |**Assault Engineering**
+| **Type** | Equipment |
+| **Provides Access To** | * [Field Deployment Unit](../weapons/Field_Deployment_Unit.md) (FDU)<br>* [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md)<br>* [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md)<br>* [Disruptor Mine](../weapons/Disruptor_Mine.md)<br>* Ability to place [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) inside Enemy [SOIs](../locations/Sphere_of_Influence.md)<br>* Ammunition Upgrade for the Aegis Shield Generator |
+| **Pre-requisite** | [Combat Engineering](Combat_Engineering.md) |
+| **Required For** | -   |
+| **Cert Point Cost** | 3   |
 
 **Assault Engineering**
 
@@ -74,7 +49,7 @@ information see
 ## Disruptor Mine
 
 Similar to the
-[High Explosive Mine](../weapons/Adaptive_Construction_Engine.md#High_Explosive_Mine)
+[High Explosive Mine](../weapons/Adaptive_Construction_Engine.md#high-explosive-mine)
 it detonates when Enemies in range. However, instead of exploding, they emit a
 small EMP burst, with affects similar to that of a
 [Jammer Grenade](../weapons/Jammer_Grenade.md) or a Commanders EMP. For more

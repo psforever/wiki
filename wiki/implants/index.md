@@ -37,104 +37,20 @@ in [Bio Laboratories](../locations/Bio_Laboratory.md).
 
 ## Implant Index
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Implant</p></th>
-<th><p>Icon</p></th>
-<th><p>Stamina<br />
-Drain</p></th>
-<th><p>Initialization<br />
-Timer (mm:ss)</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="Audio_Amplifier.md" title="wikilink">Audio Amplifier</a></p></td>
-<td><figure>
-<img src="Audio_amplifier.gif" title="../images/Audio_amplifier.gif" alt="Image:Audio_amplifier.gif" /><figcaption aria-hidden="true">Image:Audio_amplifier.gif</figcaption>
-</figure></td>
-<td><p>1sp/second</p></td>
-<td><p>01:00</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Darklight.md" title="wikilink">Darklight Vision</a></p></td>
-<td><figure>
-<img src="Darklight.gif" title="../images/Darklight.gif" alt="Image:Darklight.gif" /><figcaption aria-hidden="true">Image:Darklight.gif</figcaption>
-</figure></td>
-<td><p>2sp/second + 3sp to activate</p></td>
-<td><p>01:00</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Enhanced_Targeting.md" title="wikilink">Enhanced Targeting</a></p></td>
-<td><figure>
-<img src="Enhanced_targeting.gif" title="../images/Enhanced_targeting.gif" alt="Image:Enhanced_targeting.gif" /><figcaption aria-hidden="true">Image:Enhanced_targeting.gif</figcaption>
-</figure></td>
-<td><p>None</p></td>
-<td><p>01:00</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Melee_Booster.md" title="wikilink">Melee Booster</a></p></td>
-<td><figure>
-<img src="Melee_booster.gif" title="../images/Melee_booster.gif" alt="Image:Melee_booster.gif" /><figcaption aria-hidden="true">Image:Melee_booster.gif</figcaption>
-</figure></td>
-<td><p>10sp/knife swing</p></td>
-<td><p>02:00</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Personal_Shield.md" title="wikilink">Personal Shield</a></p></td>
-<td><figure>
-<img src="Personal_shield.gif" title="../images/Personal_shield.gif" alt="Image:Personal_shield.gif" /><figcaption aria-hidden="true">Image:Personal_shield.gif</figcaption>
-</figure></td>
-<td><p>1sp per damage point taken+1.7sp per second</p></td>
-<td><p>02:00</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Range_Magnifier.md" title="wikilink">Range Magnifier</a></p></td>
-<td><figure>
-<img src="Range_magnifier.gif" title="../images/Range_magnifier.gif" alt="Image:Range_magnifier.gif" /><figcaption aria-hidden="true">Image:Range_magnifier.gif</figcaption>
-</figure></td>
-<td><p>None</p></td>
-<td><p>01:00</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Regeneration.md" title="wikilink">Regeneration</a></p></td>
-<td><figure>
-<img src="Regeneration.gif" title="../images/Regeneration.gif" alt="Image:Regeneration.gif" /><figcaption aria-hidden="true">Image:Regeneration.gif</figcaption>
-</figure></td>
-<td><p>for every 1hp: 2sp (running) - 1.5sp(standing) - 1sp (crouched)</p></td>
-<td><p>02:00</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Second_Wind.md" title="wikilink">Second Wind</a></p></td>
-<td><figure>
-<img src="Second_wind.gif" title="../images/Second_wind.gif" alt="Image:Second_wind.gif" /><figcaption aria-hidden="true">Image:Second_wind.gif</figcaption>
-</figure></td>
-<td><p>None; Adds 25sp when activated</p></td>
-<td><p>03:10</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="Sensor_Shield.md" title="wikilink">Sensor Shield</a></p></td>
-<td><figure>
-<img src="Sensor_shield.gif" title="../images/Sensor_shield.gif" alt="Image:Sensor_shield.gif" /><figcaption aria-hidden="true">Image:Sensor_shield.gif</figcaption>
-</figure></td>
-<td><p>1sp/sec (Cloak) - 3sp/sec (Std.) 3sp/sec (Agile) - 3sp/sec (Rexo)</p></td>
-<td><p>01:30</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="Surge.md" title="wikilink">Surge</a></p></td>
-<td><figure>
-<img src="Surge.gif" title="../images/Surge.gif" alt="Image:Surge.gif" /><figcaption aria-hidden="true">Image:Surge.gif</figcaption>
-</figure></td>
-<td><p>1sp/sec (Cloak) - 1sp/sec (Std.) 2sp/sec (Agile) - 3sp/sec (Rexo)</p></td>
-<td><p>01:30</p></td>
-</tr>
-</tbody>
-</table>
+| Implant | Icon | Stamina  <br>Drain | Initialization  <br>Timer (mm:ss) |
+| --- | --- | --- | --- |
+| [Audio Amplifier](Audio_Amplifier.md) | ![Image:Audio_amplifier.gif](../images/Audio_amplifier.gif "../images/Audio_amplifier.gif")<br><br>Image:Audio_amplifier.gif | 1sp/second | 01:00 |
+| [Darklight Vision](Darklight.md) | ![Image:Darklight.gif](../images/Darklight.gif "../images/Darklight.gif")<br><br>Image:Darklight.gif | 2sp/second + 3sp to activate | 01:00 |
+| [Enhanced Targeting](Enhanced_Targeting.md) | ![Image:Enhanced_targeting.gif](../images/Enhanced_targeting.gif "../images/Enhanced_targeting.gif")<br><br>Image:Enhanced_targeting.gif | None | 01:00 |
+| [Melee Booster](Melee_Booster.md) | ![Image:Melee_booster.gif](../images/Melee_booster.gif "../images/Melee_booster.gif")<br><br>Image:Melee_booster.gif | 10sp/knife swing | 02:00 |
+| [Personal Shield](Personal_Shield.md) | ![Image:Personal_shield.gif](../images/Personal_shield.gif "../images/Personal_shield.gif")<br><br>Image:Personal_shield.gif | 1sp per damage point taken+1.7sp per second | 02:00 |
+| [Range Magnifier](Range_Magnifier.md) | ![Image:Range_magnifier.gif](../images/Range_magnifier.gif "../images/Range_magnifier.gif")<br><br>Image:Range_magnifier.gif | None | 01:00 |
+| [Regeneration](Regeneration.md) | ![Image:Regeneration.gif](../images/Regeneration.gif "../images/Regeneration.gif")<br><br>Image:Regeneration.gif | for every 1hp: 2sp (running) - 1.5sp(standing) - 1sp (crouched) | 02:00 |
+| [Second Wind](Second_Wind.md) | ![Image:Second_wind.gif](../images/Second_wind.gif "../images/Second_wind.gif")<br><br>Image:Second_wind.gif | None; Adds 25sp when activated | 03:10 |
+| [Sensor Shield](Sensor_Shield.md) | ![Image:Sensor_shield.gif](../images/Sensor_shield.gif "../images/Sensor_shield.gif")<br><br>Image:Sensor_shield.gif | 1sp/sec (Cloak) - 3sp/sec (Std.) 3sp/sec (Agile) - 3sp/sec (Rexo) | 01:30 |
+| [Surge](Surge.md) | ![Image:Surge.gif](../images/Surge.gif "../images/Surge.gif")<br><br>Image:Surge.gif | 1sp/sec (Cloak) - 1sp/sec (Std.) 2sp/sec (Agile) - 3sp/sec (Rexo) | 01:30 |
 
 sp = Stamina Points
 
 Note that you regain 1sp/sec while standing and 2sp/sec while crouched, though
 the use of the regeneration implant is a special case (see above).
-
-[

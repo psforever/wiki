@@ -1,6 +1,6 @@
 |                          |                                                                                              |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
-| **Used by**              | [Eraser](../items/Eraser.md), [Spear](../weapons/Spear.md), [Stinger](../weapons/Stinger.md) |
+| **Used by**              | [Eraser](../weapons/Eraser.md), [Spear](../weapons/Spear.md), [Stinger](../weapons/Stinger.md) |
 | **Empire**               | [Common Pool](../terminology/Common_Pool.md)                                                 |
 | **Inventory dimensions** | 3x3                                                                                          |
 | **Quantity per pack**    | 30 bullets                                                                                   |

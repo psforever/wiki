@@ -35,7 +35,7 @@ locks one of their home continents.
 [Solsar](../locations/Solsar.md) & [Hossin](../locations/Hossin.md)
 ([TR](Terran_Republic.md)) : [Prowlers](../vehicles/Prowler.md),
 [Raiders](../vehicles/Raider.md), [Marauders](../vehicles/Marauder.md),
-[Colossuses](../vehicles/Colossus.md) & [Invaders](../items/Invader.md)
+[Colossuses](../vehicles/Colossus.md) & [Invaders](../vehicles/Invader.md)
 
 ## Neutral continents
 

@@ -4,7 +4,7 @@ time targeting construction and acquisition pathways in an attempt to level the
 playing field of [Auraxis](../../locations/Auraxis.md), supplementing their arsenal
 with the situational strengths of their enemies. Now that the
 [NC](../../terminology/New_Conglomerate.md) have initiated this process, the
-[TR](../../terminology/Terran_Republic.md) and t../../terminology/Vanu_Sovereignty.mdignty.md) have no other choice
+[TR](../../terminology/Terran_Republic.md) and the [VS](../../terminology/Vanu_Sovereignty.md) have no other choice
 but to see this through, fighting to be the Empire with a robust global arsenal,
 consisting of familiar and enemy weapons alike.
 

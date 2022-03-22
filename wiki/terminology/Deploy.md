@@ -8,7 +8,7 @@ The following vehicles can be "deployed":
 [Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md) (AMS) :
 Deploying the AMS engages its cloak bubble and allows soldiers to
 [spawn](Respawn.md), [deconstruct](Deconstruct.md), use the
-[Equipment../Equipment_Terminal.md_Terminal.md) and bind. Undeploying reverses
+[Equipment Terminal](../items/Equipment_Terminal.md) and bind. Undeploying reverses
 the procedure and allows the AMS to be driven again.
 [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md) (ANT) :
 When deployed in a [Warpgate](../locations/Warpgate.md) or

@@ -512,5 +512,5 @@ to compensate for this.
 
 ## See Also
 
-- [Weapons Index](Weapons_Index.md)
+- [Weapons Index](index.md)
 - [Weaponry Merit Commendations](../merits/Weaponry_Merit_Commendations.md)

@@ -1,6 +1,6 @@
 |                                                 |                                                                                                                                           |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Used by**                                     | [Colossus](../vehicles/Colossus.md) and [Invader](../items/Invader.md) using the [Tank Defense Cannon](../weapons/Tank_Defense_Cannon.md) |
+| **Used by**                                     | [Colossus](../vehicles/Colossus.md) and [Invader](../vehicles/Invader.md) using the [Tank Defense Cannon](../weapons/Tank_Defense_Cannon.md) |
 | **Empire**                                      | [Terran Republic](../terminology/Terran_Republic.md)                                                                                              |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                       |
 | **Quantity per box**                            | 110 Shells                                                                                                                                |
@@ -8,7 +8,7 @@
 **Colossus Tank Defense Cannon Shells**
 
 These 75mm shells are used by the anti-armor weapon on the
-[Colossus](../vehicles/Colossus.md) and [Invader](../items/Invader.md). The
+[Colossus](../vehicles/Colossus.md) and [Invader](../vehicles/Invader.md). The
 rounds are similar to the [Lightning Shells](Lightning_Shell.md) used by other
 vehicles, but these have a slightly faster velocity. The boxes can be obtained
 from any [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded

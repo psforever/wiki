@@ -108,7 +108,7 @@ advantage. It is important you do so as well.
 
 New Character Quick List: Go to the Certification Terminal in the HART Building
 Access the Certification Terminal using the “G” Key Forget certifications: ATV
-and Harasser Get to the fight using Instant Action (instantaction.md, or Escape
+and Harasser Get to the fight using Instant Action (/instantaction, or Escape
 \> Instant Action) OR board the HART in the HART Building. Join a squad (P \>
 Find Squad). As you gain Battle Rank, return to Sanctuary or go to a Bio
 Laboratory facility to spend certification points. Certification Build Quick

@@ -30,10 +30,10 @@ is that this mode drains all remaining [stamina](../terminology/Stamina.md),
 leaving you vulnerable to attack. Thus, you might want to think twice before
 firing in this mode. There is a short delay before firing begins with the
 secondary fire mode (much like the
-[Rocklet Rifle](../weapons/Rocklet_Rifle.md)), with a distinct sound. This can
+[Rocklet Rifle](Rocklet_Rifle.md)), with a distinct sound. This can
 sometimes give your target enough warning to move out of the way.
 
 At close range, the Eraser will kill a soldier wearing
 [Rexo](../armor/Reinforced_Exo-Suit.md) armor in 5 shots. The
-[Spear](../weapons/Spear.md) and [Stinger](../weapons/Stinger.md) function
+[Spear](Spear.md) and [Stinger](Stinger.md) function
 identically.

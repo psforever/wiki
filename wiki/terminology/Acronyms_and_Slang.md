@@ -1,16 +1,6 @@
-<table>
-<thead>
-<tr class="header">
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="#0-9" title="wikilink">#</a> <a href="#A" title="wikilink">A</a> <a href="#B" title="wikilink">B</a> <a href="#C" title="wikilink">C</a> <a href="#D" title="wikilink">D</a> <a href="#E" title="wikilink">E</a> <a href="#F" title="wikilink">F</a> <a href="#G" title="wikilink">G</a> <a href="#H" title="wikilink">H</a> <a href="#I" title="wikilink">I</a> <a href="#J" title="wikilink">J</a> <a href="#K" title="wikilink">K</a> <a href="#L" title="wikilink">L</a> <a href="#M" title="wikilink">M</a> <a href="#N" title="wikilink">N</a> <a href="#O" title="wikilink">O</a> <a href="#P" title="wikilink">P</a> <a href="#Q" title="wikilink">Q</a> <a href="#R" title="wikilink">R</a> <a href="#S" title="wikilink">S</a> <a href="#T" title="wikilink">T</a> <a href="#U" title="wikilink">U</a> <a href="#V" title="wikilink">V</a> <a href="#W" title="wikilink">W</a> <a href="#X" title="wikilink">X</a> <a href="#Y" title="wikilink">Y</a> <a href="#Z" title="wikilink">Z</a></p>
-<p><a href="#Continental_Nicknames" title="wikilink">Continental Nicknames</a> <a href="#Outfit_Acronyms" title="wikilink">Outfit Acronyms</a></p></td>
-</tr>
-</tbody>
-</table>
+|     |
+| --- |
+| [#](#0-9 "wikilink") [A](#A "wikilink") [B](#B "wikilink") [C](#C "wikilink") [D](#D "wikilink") [E](#E "wikilink") [F](#F "wikilink") [G](#G "wikilink") [H](#H "wikilink") [I](#I "wikilink") [J](#J "wikilink") [K](#K "wikilink") [L](#L "wikilink") [M](#M "wikilink") [N](#N "wikilink") [O](#O "wikilink") [P](#P "wikilink") [Q](#Q "wikilink") [R](#R "wikilink") [S](#S "wikilink") [T](#T "wikilink") [U](#U "wikilink") [V](#V "wikilink") [W](#W "wikilink") [X](#X "wikilink") [Y](#Y "wikilink") [Z](#Z "wikilink")<br><br>[Continental Nicknames](#Continental_Nicknames "wikilink") [Outfit Acronyms](#Outfit_Acronyms "wikilink") |
 
 PlanetSide, like all games, seems to have it's own language when referring to
 items or places in game. This is a listing of known acronyms. If there is a term
