@@ -17,8 +17,6 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - featherlight
-  - toc:
-      toc_depth : "1-1"
 extra_javascript:
   - https://unpkg.com/jquery@3/dist/jquery.min.js
   - https://unpkg.com/featherlight@1/release/featherlight.min.js
