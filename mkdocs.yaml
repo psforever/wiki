@@ -6,6 +6,10 @@ repo_name: GitHub
 edit_uri: blob/main/wiki/
 theme:
   name: material
+  logo: res/logo.png
+  favicon: res/favicon.png
+  palette:
+    primary: black
   features:
     - navigation.indexes
     - navigation.instant
