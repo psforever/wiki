@@ -1,5 +1,5 @@
 |     |     |
-| --- | --- |**Fortification Engineering**
+| --- | --- |
 | **Type** | Equipment |
 | **Provides Access To** | * [Field Deployment Unit](../weapons/Field_Deployment_Unit.md) (FDU)<br>* [Shadow Turret](../weapons/Shadow_Turret.md)<br>* [Cerberus Turret](../weapons/Cerberus_Turret.md)<br>* [Tactical Resonance Area Protection](../weapons/Tactical_Resonance_Area_Protection.md) (TRAP)<br>* [Phalanx](../items/Phalanx.md) Wall Turret Upgrades<br>* [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md) Upgrades<br>* Increased number of [Combat Engineering](Combat_Engineering.md) Deployables |
 | **Pre-requisite** | [Combat Engineering](Combat_Engineering.md) |

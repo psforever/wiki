@@ -1,5 +1,5 @@
 |     |     |
-| --- | --- |**Ground Support**
+| --- | --- |
 | **Type** | Vehicle |
 | **Provides Access To** | [Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md) (AMS)  <br>[Router](../vehicles/Router.md) |
 | **Pre-requisite** | -   |

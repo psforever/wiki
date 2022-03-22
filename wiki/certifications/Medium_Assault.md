@@ -1,5 +1,5 @@
 |     |     |
-| --- | --- |**Medium Assault**
+| --- | --- |
 | **Type** | Weaponry |
 | **Provides Access To** | [Punisher](../weapons/Punisher.md), [Sweeper](../weapons/Sweeper.md), [Spiker](../weapons/Spiker.md)  <br>[Spear](../weapons/Spear.md) ([NC](../terminology/New_Conglomerate.md)), [Stinger](../weapons/Stinger.md) ([TR](../terminology/Terran_Republic.md)), [Eraser](../weapons/Eraser.md) ([VS](../terminology/Vanu_Sovereignty.md))  <br>[Gauss](../weapons/Gauss.md) (NC), [Cycler](../weapons/Cycler.md) (TR), [Pulsar](../weapons/Pulsar.md) (VS) |
 | **Pre-requisite** | -   |

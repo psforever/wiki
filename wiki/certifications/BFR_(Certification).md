@@ -1,5 +1,5 @@
 |     |     |
-| --- | --- |**Battle Frame Robotics**
+| --- | --- |
 | **Type** | BattleFrame Robotic |
 | **Provides Access To** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)  <br>[Peregrine](../vehicles/Peregrine.md) ([NC](../terminology/New_Conglomerate.md)), [Colossus](../vehicles/Colossus.md) ([TR](../terminology/Terran_Republic.md)), [Aphelion](../vehicles/Aphelion.md) ([VS](../terminology/Vanu_Sovereignty.md))  <br>With [BFR Basic](../merits/BFR_(Merit).md) [Merit](../merits/index.md): [Eagle](../vehicles/Eagle.md) ([NC](../terminology/New_Conglomerate.md)), [Invader](../vehicles/Invader.md) ([TR](../terminology/Terran_Republic.md)), [Eclipse](../vehicles/Eclipse.md) ([VS](../terminology/Vanu_Sovereignty.md)) |
 | **Pre-requisite** | [Armored Assault I](Armored_Assault_I.md) and [Armored Assault II](Armored_Assault_II.md) |

@@ -1,7 +1,7 @@
 ![Soldier equipped with a Punisher](../images/PSScreenShot0253.jpg){ class="figure" }
 
 |     |     |
-| --- | --- |**Punisher**
+| --- | --- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
 | **Empire** | [Common Pool](../terminology/Common_Pool.md) |
 | **Primary Mode** | Single Shot |

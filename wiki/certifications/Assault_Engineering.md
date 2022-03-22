@@ -1,5 +1,5 @@
 |     |     |
-| --- | --- |**Assault Engineering**
+| --- | --- |
 | **Type** | Equipment |
 | **Provides Access To** | * [Field Deployment Unit](../weapons/Field_Deployment_Unit.md) (FDU)<br>* [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md)<br>* [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md)<br>* [Disruptor Mine](../weapons/Disruptor_Mine.md)<br>* Ability to place [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) inside Enemy [SOIs](../locations/Sphere_of_Influence.md)<br>* Ammunition Upgrade for the Aegis Shield Generator |
 | **Pre-requisite** | [Combat Engineering](Combat_Engineering.md) |

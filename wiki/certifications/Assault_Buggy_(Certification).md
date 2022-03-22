@@ -1,5 +1,5 @@
 |     |     |
-| --- | --- |**Assault Buggy**
+| --- | --- |
 | **Type** | Vehicle |
 | **Provides Access To** | [Harasser](../vehicles/Harasser.md), [Skyguard](../vehicles/Harasser.md)  <br>[Enforcer](../vehicles/Harasser.md) ([NC](../vehicles/Harasser.md)), [Marauder](../vehicles/Harasser.md) ([TR](../vehicles/Harasser.md)), [Thresher](../vehicles/Harasser.md) ([VS](../vehicles/Harasser.md)) |
 | **Pre-requisite** | -   |
