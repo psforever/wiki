@@ -1,4 +1,4 @@
-Murder she Wrote is a [Terran Republic](../../terminology/Terran_Republic.md) outfit on the
+Murder she Wrote is a [Terran Republic](../../factions/Terran_Republic.md) outfit on the
 Werner server. Currently the outfit has over 120 members and over 200,000 outfit
 points with more members joining daily.
 

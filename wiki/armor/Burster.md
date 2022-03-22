@@ -3,7 +3,7 @@
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Aircraft MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                               |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                                                               |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Normal fire                                                                                                                                |
 | **Secondary Mode**         | \-                                                                                                                                         |
@@ -15,7 +15,7 @@
 
 The **Burster** is the
 [Anti-Aircraft MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) of
-the [Terran Republic](../terminology/Terran_Republic.md). It boasts two large flak
+the [Terran Republic](../factions/Terran_Republic.md). It boasts two large flak
 cannons on both arms that can propel flak for great distances. While it cannot
 track aircraft like other [Empire](../terminology/Empire.md)'s
 [Anti-Aircraft MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>)'s,

@@ -3,7 +3,7 @@
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                             |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Standard Bolts                                                                                                                             |
 | **Secondary Mode**         | Armor Piercing Bolts                                                                                                                       |
@@ -13,7 +13,7 @@
 
 **Quasar**
 
-The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s
+The [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)'s
 [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>)—the
 **Quasar**—rapidly fires energy bolts similar to the
 [Pulsar](../weapons/Pulsar.md) rifle. While definitely best-suited for an

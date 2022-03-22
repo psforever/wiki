@@ -352,9 +352,9 @@ regardless of the limitations. We wanted everyone to have the chance to try out
 the new weapons and participate in the mayhem of the Four Year Anniversary!
 Enjoy!
 
-PISTOLS - The [Spear](../weapons/Spear.md) ([NC](../terminology/New_Conglomerate.md)) /
-The [Stinger](../weapons/Stinger.md) ([TR](../terminology/Terran_Republic.md)) / The
-[Eraser](../weapons/Eraser.md) ([VS](../terminology/Vanu_Sovereignty.md))
+PISTOLS - The [Spear](../weapons/Spear.md) ([NC](../factions/New_Conglomerate.md)) /
+The [Stinger](../weapons/Stinger.md) ([TR](../factions/Terran_Republic.md)) / The
+[Eraser](../weapons/Eraser.md) ([VS](../factions/Vanu_Sovereignty.md))
 
 These Empire specific pistols are designed to be very lethal towards Infantry
 units but lack a punch in the armor piercing department

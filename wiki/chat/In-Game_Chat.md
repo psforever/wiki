@@ -61,9 +61,9 @@ soldiers that an enemy vehicle has been destroyed.
 
 These messages are color-coded per empire.
 
-- Red Name - [Terran Republic](../terminology/Terran_Republic.md) Soldier
-- Purple Name - [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) Soldier
-- Blue Name - [New Conglomerate](../terminology/New_Conglomerate.md) Soldier
+- Red Name - [Terran Republic](../factions/Terran_Republic.md) Soldier
+- Purple Name - [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) Soldier
+- Blue Name - [New Conglomerate](../factions/New_Conglomerate.md) Soldier
 
 <!-- -->
 
@@ -186,7 +186,7 @@ Enter in order to activate the chat entry mode.
 Players can send chat to different channels using a variety of commands.
 |     |     |
 | --- | --- |
-| * Local Channel<br>    * /local<br>    * /l<br>* Broadcast Channel<br>    * /broadcast<br>    * /b<br>* Private Chat<br>    * /tell \- Sends a private message to a specific player<br>        <br>        * /t<br>        * Double-clicking on the name of a squad-mate<br>        <br>    * /reply \- Replies to last private message received<br>        <br>        * /r<br>        * Backspace key<br>        <br>* Squad Channel<br>    * /squad<br>    * /s | * Squad Leader Channel<br>    * /sl<br>* Platoon Channel<br>    * /platoon<br>    * /p<br>* Platoon Leader Channel<br>    * /pl<br>* Outfit Channel<br>    * /outfit<br>    * /o<br>* Command Channel<br>    * /command<br>    * /c<br>    * /sitrep<br>    * For CR5 continental and global chat commands, please see [Commands](Chat_Commands.md)<br>* [Black Ops](../terminology/Black_Ops.md) Channel<br>    * /b<br>    * /c |
+| * Local Channel<br>    * /local<br>    * /l<br>* Broadcast Channel<br>    * /broadcast<br>    * /b<br>* Private Chat<br>    * /tell \- Sends a private message to a specific player<br>        <br>        * /t<br>        * Double-clicking on the name of a squad-mate<br>        <br>    * /reply \- Replies to last private message received<br>        <br>        * /r<br>        * Backspace key<br>        <br>* Squad Channel<br>    * /squad<br>    * /s | * Squad Leader Channel<br>    * /sl<br>* Platoon Channel<br>    * /platoon<br>    * /p<br>* Platoon Leader Channel<br>    * /pl<br>* Outfit Channel<br>    * /outfit<br>    * /o<br>* Command Channel<br>    * /command<br>    * /c<br>    * /sitrep<br>    * For CR5 continental and global chat commands, please see [Commands](Chat_Commands.md)<br>* [Black Ops](../factions/Black_Ops.md) Channel<br>    * /b<br>    * /c |
 
 ## Custom Colors
 

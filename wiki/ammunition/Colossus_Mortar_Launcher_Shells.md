@@ -1,7 +1,7 @@
 |                                                 |                                                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Colossus](../vehicles/Colossus.md) using the [Mortar Launcher](../weapons/Mortar_Launcher.md) |
-| **Empire**                                      | [Terran Republic](../terminology/Terran_Republic.md)                                                   |
+| **Empire**                                      | [Terran Republic](../factions/Terran_Republic.md)                                                   |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                            |
 | **Quantity per box**                            | 150 Rounds                                                                                     |
 

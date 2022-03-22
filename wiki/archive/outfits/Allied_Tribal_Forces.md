@@ -1,7 +1,7 @@
 ![](../../images/Oi_decal23_VS.gif){ class="figure" }
 
 **Allied Tribal Forces** is
-one of the oldest [VS](../../terminology/Vanu_Sovereignty.md)
+one of the oldest [VS](../../factions/Vanu_Sovereignty.md)
 [Outfits](../../terminology/Outfit.md) forming August of 2002 in early preparation
 for the release of [PlanetSide](../../PlanetSide.md).
 

@@ -64,11 +64,11 @@ warpgates.
 
 To give players a change in gameplay, the Lattice was changed once more. All
 home planets were rotated to a different empire, changing the links to each
-planet. The [Vanu Sovereignty](Vanu_Sovereignty.md) acquired
+planet. The [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) acquired
 [Forseral](../locations/Forseral.md) and [Ceryshen](../locations/Ceryshen.md),
-the [Terran Republic](Terran_Republic.md) was granted
+the [Terran Republic](../factions/Terran_Republic.md) was granted
 [Solsar](../locations/Solsar.md) and [Hossin](../locations/Hossin.md), and the
-[New Conglomerate](New_Conglomerate.md) was given
+[New Conglomerate](../factions/New_Conglomerate.md) was given
 [Amerish](../locations/Amerish.md) and [Esamir](../locations/Esamir.md). This
 was done so that each empire can experience battles from a different
 perspective.

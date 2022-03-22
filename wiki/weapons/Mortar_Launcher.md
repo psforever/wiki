@@ -1,7 +1,7 @@
 |                            |                                                                                     |
 | -------------------------- | ----------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                         |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                        |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                        |
 | **Primary Mode**           | Single Shot Mortar                                                                  |
 | **Secondary Mode**         | 8-Shot Salvo                                                                        |
 | **Ammunition**             | [Colossus Mortar Launcher Shells](../ammunition/Colossus_Mortar_Launcher_Shells.md) |

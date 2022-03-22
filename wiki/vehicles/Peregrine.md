@@ -4,7 +4,7 @@
 
 The **Peregrine** is the gunner variant of
 [BattleFrame Robotics](BattleFrame_Robotics.md) developed by the
-[New Conglomerate](../terminology/New_Conglomerate.md).
+[New Conglomerate](../factions/New_Conglomerate.md).
 
 Gunner variants have, in addition to the pilot weapons, an extra gunner pod on
 their backs which can be manned by a second soldier. They also have more armor

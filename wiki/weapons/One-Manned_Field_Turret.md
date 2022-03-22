@@ -4,7 +4,7 @@
 |                            |                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md)         |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md), [Terran Republic](../terminology/Terran_Republic.md), [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md), [Terran Republic](../factions/Terran_Republic.md), [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) |
 | **Primary Mode**           | Deploy Field Turret                                                                                                                          |
 | **Secondary Mode**         | \-                                                                                                                                           |
 | **Ammunition**             | \-                                                                                                                                           |
@@ -18,9 +18,9 @@ The One-Manned Field Turrets are designed to supress Infantry, and deal good
 damage against ground and air [Vehicles](../vehicles/index.md).
 
 All three [Empires](../terminology/Empire.md) have their own variant of the
-OMFT, the [New Conglomerate](../terminology/New_Conglomerate.md) has the
-[Osprey](Osprey.md), the [Terran Republic](../terminology/Terran_Republic.md) has the
-[Avenger](Avenger.md) and the [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) has
+OMFT, the [New Conglomerate](../factions/New_Conglomerate.md) has the
+[Osprey](Osprey.md), the [Terran Republic](../factions/Terran_Republic.md) has the
+[Avenger](Avenger.md) and the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) has
 the [Orion](Orion.md). The OMFTs have weaponry similar to that of the
 Anti-Infantry [MAX](../armor/Mechanized_Assault_Exo-Suit.md) of each Empire.
 

@@ -3,7 +3,7 @@
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)            |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)            |
 | **Primary Mode**           | Slash                                                     |
 | **Secondary Mode**         | Force Attack                                              |
 | **Ammunition**             | \-                                                        |

@@ -4,7 +4,7 @@
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Aircraft MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                             |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Normal fire                                                                                                                                |
 | **Secondary Mode**         | \-                                                                                                                                         |
@@ -15,7 +15,7 @@
 
 **Sparrow**
 
-The [New Conglomerate](../terminology/New_Conglomerate.md)'s
+The [New Conglomerate](../factions/New_Conglomerate.md)'s
 [Anti-Aircraft MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>)
 **Sparrow** configuration packs a powerful punch. After a relatively lengthy
 lock-on, its anti-air missiles feature a "fire-and-forget" tracking system,

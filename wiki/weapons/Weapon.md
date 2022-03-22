@@ -114,7 +114,7 @@ restrictions are [Standard Assault](../certifications/Standard_Assault.md),
 
 The exceptions to this rule are
 [Ancient Technology](../terminology/Ancient_Technology.md) and
-[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) weapons. The [Beamer](Beamer.md)
+[Vanu Sovereignty](../factions/Vanu_Sovereignty.md) weapons. The [Beamer](Beamer.md)
 and the [Pulsar](Pulsar.md) have an inherent AP mode which allows the user to
 switch to armor piecing on the fly without worrying about different ammo types.
 The [Lasher](Lasher.md) and the
@@ -176,7 +176,7 @@ Infiltrators, as they can kill enemies outside of the 20 meter
 [Darklight](../implants/Darklight_Vision.md) range without fear of being detected by
 Darklight. The long range pistols are the [Beamer](Beamer.md) and the
 [Repeater](Repeater.md), which means the
-[New Conglomerate](../terminology/New_Conglomerate.md) has no available long range
+[New Conglomerate](../factions/New_Conglomerate.md) has no available long range
 pistol without looting.
 
 **\*Note:** The [Spiker](Spiker.md) is also a Long Range pistol but it is
@@ -239,7 +239,7 @@ The Sweeper is the most powerful close range weapon in the
 shotgun, it's use is quickly diminished at longer ranges, but it has a tighter
 spread than the [Heavy Assault](../certifications/Heavy_Assault.md) weapons and
 can therefore be used at a slightly longer range. Some players even prefer the
-Sweeper to it's big brother, the [New Conglomerate](../terminology/New_Conglomerate.md)
+Sweeper to it's big brother, the [New Conglomerate](../factions/New_Conglomerate.md)
 [Jackhammer](Jackhammer.md). However, this all comes down to personal
 preference.
 
@@ -266,7 +266,7 @@ very low time to kill in close range combat.
 
 #### Lasher
 
-The [Lasher](Lasher.md) is the [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s
+The [Lasher](Lasher.md) is the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)'s
 Heavy Assault weapon. The Lasher features a "lash" which does damage to all
 surrounding targets after a Lasher orb hits the ground, an enemy, or anything.
 This makes the Lasher quite an effective indoor room clearer, as the wall and
@@ -281,7 +281,7 @@ a weak [Special Assault](../certifications/Special_Assault.md) weapon.
 #### Jackhammer
 
 The [Jackhammer](Jackhammer.md) is the
-[New Conglomerate](../terminology/New_Conglomerate.md)'s Heavy Assault weapon. The
+[New Conglomerate](../factions/New_Conglomerate.md)'s Heavy Assault weapon. The
 JackHammer is an automatic shotgun with a rather high pellet spread but a high
 damage output. It is the only Heavy Assault with a secondary mode, which is a
 triple shot mode, where three shotgun slugs are propelled out of the JackHammer
@@ -294,7 +294,7 @@ clearer.
 #### Mini-Chaingun
 
 The [Mini-Chaingun](Mini-Chaingun.md) is the
-[Terran Republic](../terminology/Terran_Republic.md)'s Heavy Assault weapon. The
+[Terran Republic](../factions/Terran_Republic.md)'s Heavy Assault weapon. The
 Mini-Chaingun, sometimes shortenned to just MCG, is a rapid firing machine gun
 with a very high magazine capacity. With 100 shots per magazine, the MCG can
 pour out quite a bit of lead. However, because of the nature of the weapon,

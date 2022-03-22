@@ -14,19 +14,19 @@ combat enemy aircraft. At a cost of one
 [Certification Point](Certification_points.md), this cert allows the pilot to
 utilize three new weapons:
 
-The [VS](../terminology/Vanu_Sovereignty.md) have the
+The [VS](../factions/Vanu_Sovereignty.md) have the
 [Starfire](<../items/Starfire_(BFR).md>) Anti-Aircraft weaponry which is an
 adaptation of the similarly named [MAX](../armor/Starfire.md). It features lock
 on systems that will guide in flight projectiles to the currently painted
 target. Each energy sphere has an outer plasmoid mass that continues to eat away
 at the target after the initial explosive impact.
 
-The [TR](../terminology/Terran_Republic.md) have the
+The [TR](../factions/Terran_Republic.md) have the
 [Burster](<../items/Burster_(BFR).md>) air defense system which operates
 similarly to the [Burster](../armor/Burster.md) equipped AA MAX, rapidly firing
 flak shells that explode in proximity to enemy air.
 
-The [NC](../terminology/New_Conglomerate.md) have the
+The [NC](../factions/New_Conglomerate.md) have the
 [Sparrow](<../items/Sparrow_(BFR).md>) Missile Pod, which is the application of
 the Sparrow Anti-Aircraft weapons platform to the
 [Peregrine](../vehicles/Peregrine.md). The system has been adapted for rapid

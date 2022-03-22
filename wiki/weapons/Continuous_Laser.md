@@ -1,7 +1,7 @@
 |                            |                                                                                         |
 | -------------------------- | --------------------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                             |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                          |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                          |
 | **Primary Mode**           | Continuous Laser                                                                        |
 | **Secondary Mode**         | \-                                                                                      |
 | **Ammunition**             | [Aphelion Continuous Laser Battery](../ammunition/Aphelion_Continuous_Laser_Battery.md) |

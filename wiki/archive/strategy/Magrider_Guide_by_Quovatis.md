@@ -190,7 +190,7 @@ battle, and never repair.
 
 <!-- -->
 
-- [New Conglomerate](../../terminology/New_Conglomerate.md)
+- [New Conglomerate](../../factions/New_Conglomerate.md)
   - [Vanguard](../../vehicles/Vanguard.md): Probably the easiest enemy tank to
     kill. While they have the most armor, and heaviest hitting gun, they lack
     mobility and rate of fire. However, if you engage at close range, you will
@@ -229,7 +229,7 @@ battle, and never repair.
 
 <!-- -->
 
-- [Terran Republic](../../terminology/Terran_Republic.md)
+- [Terran Republic](../../factions/Terran_Republic.md)
   - [Prowler](../../vehicles/Prowler.md): This is your biggest enemy tank threat.
     At close range, the [Prowler](../../vehicles/Prowler.md) will kill you in the
     blink of an eye, especially with 2 gunners. Use the same tactics as the
@@ -256,7 +256,7 @@ battle, and never repair.
 
 <!-- -->
 
-- [Vanu Sovereignty](../../terminology/Vanu_Sovereignty.md)
+- [Vanu Sovereignty](../../factions/Vanu_Sovereignty.md)
   - [Magrider](../../vehicles/Magrider.md): Rarely encountered, but a big threat.
     Head for trees, where you will likely make the less experienced magrider
     driver get hung up.

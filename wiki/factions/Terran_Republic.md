@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The Terran Republic is one of three [Empires](Empire.md) waging war on [Auraxis](../locations/Auraxis.md). According to the [Planetside Backstory](../archive/PlanetSide_Backstory.md), it is the original government entity from which the [New Conglomerate](../weapons/Avenger.md) and [Vanu Sovereignty](Vanu_Sovereignty.md) split. On the battlefield, the Terran Republic's overriding philosophy is to hit their enemies with as much ordinance as possible in a short amount of time. Each individual shot does not do as much damage as an equivalent [New Conglomerate](New_Conglomerate.md) weapon, but the sheer amount of shots that they can generate more than makes up for it.
+The Terran Republic is one of three [Empires](../terminology/Empire.md) waging war on [Auraxis](../locations/Auraxis.md). According to the [Planetside Backstory](../archive/PlanetSide_Backstory.md), it is the original government entity from which the [New Conglomerate](../weapons/Avenger.md) and [Vanu Sovereignty](Vanu_Sovereignty.md) split. On the battlefield, the Terran Republic's overriding philosophy is to hit their enemies with as much ordinance as possible in a short amount of time. Each individual shot does not do as much damage as an equivalent [New Conglomerate](New_Conglomerate.md) weapon, but the sheer amount of shots that they can generate more than makes up for it.
 
 Terran Republic vehicles expand on this "more is better" philosophy by usually having two gunner positions while the equivalent [Vanu Sovereignty](Vanu_Sovereignty.md) and [New Conglomerate](New_Conglomerate.md) vehicles only have one gunner.
 

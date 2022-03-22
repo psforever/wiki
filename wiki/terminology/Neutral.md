@@ -21,5 +21,5 @@ Any [Modules](../modules/index.md) installed at the facility when it goes neutra
 are destroyed.
 
 Occasionally a special in-game event will cause a base to go **neutral** without
-the base being drained first. [Black Ops](Black_Ops.md) can also hack a facility
+the base being drained first. [Black Ops](../factions/Black_Ops.md) can also hack a facility
 to turn it neutral.

@@ -20,7 +20,7 @@ Cys, [CyssorSide](#CyssorSide) [Desolation](../locations/Oshur.md#Desolation) :
 Deso [Esamir](../locations/Esamir.md) : Esa [Forseral](../locations/Forseral.md)
 : Fors, Forsy [Hossin](../locations/Hossin.md) : Hos
 [Ishundar](../locations/Ishundar.md) : Ish [Oshur](../locations/Oshur.md) : Osh
-[TR](../terminology/Terran_Republic.md)/[VS](../terminology/Vanu_Sovereignty.md)/[NC](../terminology/New_Conglomerate.md)
+[TR](../factions/Terran_Republic.md)/[VS](../factions/Vanu_Sovereignty.md)/[NC](../factions/New_Conglomerate.md)
 [Sanctuary](../locations/Sanctuary.md) : Sanc [Searhus](../locations/Searhus.md)
 : Sear [Solsar](../locations/Solsar.md) : Sol
 
@@ -66,7 +66,7 @@ repeating this single tactic until you log. _or_ One who bails from a plane
 before they would die, denying the attacker, usually anti-air, the kill. Bait :
 Grouping of enemy (or friendly) troops that are being susceptible to a
 particular attack. Flavors include OS Bait, Liberator Bait, and Thumper Bait.
-Bang Buggy : Slang term for the [Terran Republic](Terran_Republic.md)
+Bang Buggy : Slang term for the [Terran Republic](../factions/Terran_Republic.md)
 [Marauder](../vehicles/Marauder.md) Bang Bus : Common term used when referring
 to a [Sunderer](../vehicles/Sunderer.md) variant troop transport. Also called
 _Sundy_, _Funbus_, _Mack Truck_, and _Winnebego_.
@@ -160,7 +160,7 @@ confused with EAMS. Eterm :
 
 ## F
 
-Fagrider : Another name for the [Vanu Sovereignty](Vanu_Sovereignty.md)
+Fagrider : Another name for the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)
 [Magrider](../vehicles/Magrider.md). Fagrocket : Another name for the
 [Phoenix](../weapons/Phoenix.md) rockets. FD : Front Door, refering to the
 entrance to the main lobby in the base's [courtyard](../locations/Courtyard.md).
@@ -247,7 +247,7 @@ JumpJets. Juice : "Armor Juice" refers to the
 ## K
 
 KAAOS Drop : Named after the [Emerald](../archive/servers/Emerald.md)
-[TR](Terran_Republic.md) outfit [KAAOS](../archive/outfits/KAAOS.md). Using
+[TR](../factions/Terran_Republic.md) outfit [KAAOS](../archive/outfits/KAAOS.md). Using
 [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective,
 similar to a [Galaxy](../vehicles/Galaxy.md) drop, but twice the air speed of a
 [Galaxy](../vehicles/Galaxy.md). This drop would then be followed by a
@@ -288,10 +288,10 @@ kinda lost, I'm gonna go give him some help." NME : Enemy noob (insult) :
 Someone, potentially a new player, that is unskilled and refuses to improve, or
 refuses help to improve (ie; training, advice). ex; "Wow, look at that total
 noob. He'll never get better if he keeps playing like that." N00b Conglomerate :
-A derogatory term for the [New Conglomerate](New_Conglomerate.md) empire,
-or a Reservist playing on the [New Conglomerate](New_Conglomerate.md)
+A derogatory term for the [New Conglomerate](../factions/New_Conglomerate.md) empire,
+or a Reservist playing on the [New Conglomerate](../factions/New_Conglomerate.md)
 empire. noobfire : Refers to the [Starfire MAX](../armor/Starfire.md) noobhammer
-: Insult form of the [NC](New_Conglomerate.md)
+: Insult form of the [NC](../factions/New_Conglomerate.md)
 [Jackhammer](../weapons/Jackhammer.md), commonly used by both players killed by
 it, and sometimes used by players using the weapon referring to how overpowered
 they think this weapon is.
@@ -334,7 +334,7 @@ rolling coffin : [Sunderer](../vehicles/Sunderer.md).
 SA : [Special Assault](../certifications/Special_Assault.md) certification or
 [weapons](../weapons/Weapon.md). Sanc : Refers to an empire's
 [Sanctuary](../locations/Sanctuary.md) ScatMax : Refers to the
-[New Conglomerate](New_Conglomerate.md)
+[New Conglomerate](../factions/New_Conglomerate.md)
 [Scattercannon](../armor/Scattercannon.md) Anti-Infantry
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Scrub : Refers to a player whose
 objectives are unclear, or you just don't know the guy, a stranger to you.
@@ -361,7 +361,7 @@ Operations. Refers to surgical strike missions such as destroying
 [generators](../items/Generator.md), [Galaxy](../vehicles/Galaxy.md) drop
 operations on bases and towers, or intense small squad missions apart from the
 main force. SplatMAX, SplatterMAX : Common referrence to the
-[NC](New_Conglomerate.md) Anti Infantry
+[NC](../factions/New_Conglomerate.md) Anti Infantry
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md), the
 [Scattercannon](../armor/Scattercannon.md) . Spit/Spitter :
 [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret)
@@ -376,7 +376,7 @@ uttered by players frusturated by the excessive use of strafe tactics by a
 ## T
 
 Thun/Thundy : [Thunderer](../vehicles/Thunderer.md), the
-[New Conglomerate](New_Conglomerate.md)-specific advanced
+[New Conglomerate](../factions/New_Conglomerate.md)-specific advanced
 [Deliverer](../vehicles/Deliverer.md). TK : Teamkill - when one intentionally
 (or unintentionally) kills a teammate. Often happens with OSes. Also Total Kills
 TKer : Someone who makes a habit of killing teammates, or trying to. They may be
@@ -400,7 +400,7 @@ Auraxian Trees which just CANNOT be damaged. **_At all._** 'Nerf the trees..'
 ## V
 
 VG, Van, Vang, Vanny : [Vanguard](../vehicles/Vanguard.md) Van00b : Offensive
-term for the [Vanu Sovereignty](Vanu_Sovereignty.md) - used when one is
+term for the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) - used when one is
 being attacked by several Vanu Reservists - ie; "Help! I'm being swarmed by
 Van00bs!" Vent :[Ventrilo](http://www.Ventrilo.com), voice communication
 software. VPad : Vehicle Creation Pad. See also VT. VT, Vterm :
@@ -428,15 +428,15 @@ Command/Battle/Support Experience Points
 zerg : Adopted from [StarCraft](http://www.blizzard.com/starcraft), referring to
 mass movements of troops with little or no tactical movement whatsoever, or an
 [empire](Empire.md)'s primary assault. Once used to describe the
-[Terran Republic](Terran_Republic.md) towards the start of PlanetSide.
+[Terran Republic](../factions/Terran_Republic.md) towards the start of PlanetSide.
 _"Look at that foot zerg..it's like a sea of red.." "Send the zerg to Forseral,
 and have them beat on the VS at Ogma for a bit."_
 
 ## Outfit Acronyms
 
 666th : [666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_"Devil_Dogs".md)
-[Outfit](Outfit.md) ([NC](New_Conglomerate.md)) 88s : Crazy 88s Outfit
-(NC) AC : Ahriman Corps Outfit ([VS](Vanu_Sovereignty.md)) AT : Azure
+[Outfit](Outfit.md) ([NC](../factions/New_Conglomerate.md)) 88s : Crazy 88s Outfit
+(NC) AC : Ahriman Corps Outfit ([VS](../factions/Vanu_Sovereignty.md)) AT : Azure
 Twilight Outfit (VS) AO : Adrenaline Ops Outfit (VS) CS : Central Spike Outfit
 (VS) DD's : [666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_"Devil_Dogs".md)
 Outfit (NC) DS : [Dark Skyes](../archive/outfits/Dark_Skyes.md) (TR) DT :
@@ -445,7 +445,7 @@ Outfit (NC) DS : [Dark Skyes](../archive/outfits/Dark_Skyes.md) (TR) DT :
 Ht : Refers to the Hostile Takeover Outfit (NC) KOJ:
 [KEEPERS of JOHARI](../archive/outfits/KEEPERS_of_JOHARI.md) Outfit (VS) KOTOR :
 [Knights of the Old Republic](../archive/outfits/Knights_of_The_Old_Republic.md) Outfit
-([TR](Terran_Republic.md)) OC : outcasters Outfit (TR) PCP :
+([TR](../factions/Terran_Republic.md)) OC : outcasters Outfit (TR) PCP :
 [Psychedelic Clown Posse](../archive/outfits/Psychedelic_Clown_Posse.md) Outfit (TR) PH
 : Purple Haze Outfit (VS) SS : Soul_Strike Outfit (VS) RedX : Better RED than
 DEAD Outfit (TR) TRx :

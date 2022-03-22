@@ -49,7 +49,7 @@ Come join the battle and the ghoulish fun.
 
 Off in the distance, you hear a voice yelling, "Stop him! He's one of them!"
 
-Within the [Terran Republic](../../terminology/Terran_Republic.md) a secret assassination
+Within the [Terran Republic](../../factions/Terran_Republic.md) a secret assassination
 organization formed up after a difference of opinions about empire assault
 tactics and other confidential matters. This organization vowed to take down
 high officials not only in the Terran Republic but within the other empires as
@@ -62,8 +62,8 @@ organization after a failed assassination attempt. The assassin was quickly
 slain after vital information had been beaten out of him. The other members of
 the organization got word that their secret had been discovered so they
 immediately went into hiding. Some remained hidden within the Terran Republic,
-while others scattered into the [New Conglomerate](../../terminology/New_Conglomerate.md) and the
-[Vanu Sovereignty](../../terminology/Vanu_Sovereignty.md) empires. They continue to remain in
+while others scattered into the [New Conglomerate](../../factions/New_Conglomerate.md) and the
+[Vanu Sovereignty](../../factions/Vanu_Sovereignty.md) empires. They continue to remain in
 contact with each other. In order to remain out of sight, they changed their
 tactics and decided to cloak their way to victory quietly.
 

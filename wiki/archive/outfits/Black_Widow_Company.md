@@ -1,5 +1,5 @@
 [theblackwidowcompany.net](http://www.theblackwidowcompany.net):
-[TR](../../terminology/Terran_Republic.md) [Emerald](../servers/Emerald.md)
+[TR](../../factions/Terran_Republic.md) [Emerald](../servers/Emerald.md)
 [Outfit](../../terminology/Outfit.md)
 
 Our actions on the battlefield and off the battlefield speak for themselves. We

@@ -5,9 +5,9 @@ The Planetside Launchpad has a built in chat system with 7 chat rooms.
 - [Emerald](servers/Emerald.md)
 - [Werner](servers/Werner.md)
 - [Markov](servers/Markov.md)
-- [New Conglomerate](../terminology/New_Conglomerate.md)
-- [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
-- [Terran Republic](../terminology/Terran_Republic.md)
+- [New Conglomerate](../factions/New_Conglomerate.md)
+- [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)
+- [Terran Republic](../factions/Terran_Republic.md)
 - General
 
 Clearly General chat is the one that most people go to upon opening Chat. People

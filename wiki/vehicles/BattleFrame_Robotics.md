@@ -3,21 +3,21 @@ robots (or mecha) of the PlanetSide universe.
 
 |     |     |     |
 | --- | --- | --- |
-| ![Colussus.jpg](../images/Colussus.jpg "fig:Colussus.jpg"), the [TR](../terminology/Terran_Republic.md) gunner variant BFR.\]\] | ![AphelionPicture.jpg](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg"), the [VS](../terminology/Vanu_Sovereignty.md) gunner variant BFR.\]\] | ![NC_Peregrine.jpg](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg"), the [NC](../terminology/New_Conglomerate.md) gunner variant BFR.\]\] |
+| ![Colussus.jpg](../images/Colussus.jpg "fig:Colussus.jpg"), the [TR](../factions/Terran_Republic.md) gunner variant BFR.\]\] | ![AphelionPicture.jpg](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg"), the [VS](../factions/Vanu_Sovereignty.md) gunner variant BFR.\]\] | ![NC_Peregrine.jpg](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg"), the [NC](../factions/New_Conglomerate.md) gunner variant BFR.\]\] |
 
 ### The Story
 
 In the story, the technology for BattleFrame Robotics was originally developed
-on Earth by the [Terran Republic](../terminology/Terran_Republic.md). However, the
+on Earth by the [Terran Republic](../factions/Terran_Republic.md). However, the
 technology could not be perfected there. The republic of Earth then sent the
 schematics for BFRs through the micro-wormhole between Earth and the Auraxian
 System to the three warring empires of Auraxis. Each side received the
 schematics, and began making their own variants of the technology.
 
-The [Terran Republic](../terminology/Terran_Republic.md) developed the
-[Colossus](Colossus.md). The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
+The [Terran Republic](../factions/Terran_Republic.md) developed the
+[Colossus](Colossus.md). The [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)
 developed the [Aphelion](Aphelion.md). The
-[New Conglomerate](../terminology/New_Conglomerate.md) developed the
+[New Conglomerate](../factions/New_Conglomerate.md) developed the
 [Peregrine](Peregrine.md).
 
 However, the systems of a BFR were very complicated, proving to be too much of a
@@ -127,15 +127,15 @@ able to aim left and right. However, this is a fairly rare bug.
 
 ##### Empire-specific gunner variants
 
-- The [Colossus](Colossus.md) ([Terran Republic](../terminology/Terran_Republic.md))
-- The [Peregrine](Peregrine.md) ([New Conglomerate](../terminology/New_Conglomerate.md))
-- The [Aphelion](Aphelion.md) ([Vanu Sovereignty](../terminology/Vanu_Sovereignty.md))
+- The [Colossus](Colossus.md) ([Terran Republic](../factions/Terran_Republic.md))
+- The [Peregrine](Peregrine.md) ([New Conglomerate](../factions/New_Conglomerate.md))
+- The [Aphelion](Aphelion.md) ([Vanu Sovereignty](../factions/Vanu_Sovereignty.md))
 
 #### Flight variants
 
 Flight variants are single-pilot BFRs with a flight pack on their backs to allow
 the BFR to fly vertically for a short amount of time (in a similar manner to the
-[VS](../terminology/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
+[VS](../factions/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 units' jump-jets). The flight systems are powered by the "BFR capacitor", which
 is measured with a small bar on the player's [HUD](../terminology/Heads-up_Display.md).
 The capacitor recharges over time when the flight systems are not in use. When a
@@ -156,9 +156,9 @@ variant's maximum jump height is different, with the
 ##### Empire-specific flight variants
 
 - The [Invader](Invader.md)
-  ([Terran Republic](../terminology/Terran_Republic.md))
-- The [Eagle](Eagle.md) ([New Conglomerate](../terminology/New_Conglomerate.md))
-- The [Eclipse](Eclipse.md) ([Vanu Sovereignty](../terminology/Vanu_Sovereignty.md))
+  ([Terran Republic](../factions/Terran_Republic.md))
+- The [Eagle](Eagle.md) ([New Conglomerate](../factions/New_Conglomerate.md))
+- The [Eclipse](Eclipse.md) ([Vanu Sovereignty](../factions/Vanu_Sovereignty.md))
 
 ### BFR Certification
 

@@ -34,7 +34,7 @@ virus installed if your empire installed it, or "infected" otherwise. Viruses
 cannot be installed into a base that is not powered. If the
 [generator](../items/Generator.md) is destroyed at a base with an active virus,
 the virus is temporarily disabled. Viruses cannot be removed from neutral bases
-(except by [Black Ops](Black_Ops.md)).
+(except by [Black Ops](../factions/Black_Ops.md)).
 
 Viruses can also be uploaded into enemy equipment, turning it against their
 former owners for up to 15 minutes. The following equipment can be infected so

@@ -5,7 +5,7 @@
 | **Type**                   | Medium Transport                                               |
 | **Role**                   | Medium Troop Transport                                         |
 | **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)      |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                 |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                 |
 | **Primary Weapon**         | 2 [Gauss Cannons](../items/Gauss_Cannon.md)                    |
 | **Secondary Weapon**       | \-                                                             |
 | **Ammunition**             | [Gauss Cannon Ammunition](../items/Gauss_Cannon_Ammunition.md) |

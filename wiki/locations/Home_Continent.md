@@ -8,13 +8,13 @@ needing to broadcast there. Patch [3.12.28](../patches/3.12.28.md) (July
 31, 2007) changed the Home Continents of each empire. The current Empire Home
 Continents are
 
-[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md): [Ceryshen](Ceryshen.md) &
+[Vanu Sovereignty](../factions/Vanu_Sovereignty.md): [Ceryshen](Ceryshen.md) &
 [Forseral](Forseral.md)
 
-[Terran Republic](../terminology/Terran_Republic.md): [Solsar](Solsar.md) &
+[Terran Republic](../factions/Terran_Republic.md): [Solsar](Solsar.md) &
 [Hossin](Hossin.md)
 
-[New Conglomerate](../terminology/New_Conglomerate.md): [Esamir](Esamir.md) &
+[New Conglomerate](../factions/New_Conglomerate.md): [Esamir](Esamir.md) &
 [Amerish](Amerish.md)
 
 Historically the VS had Esamir and Amerish, the TR had Ceryshen and Forseral,

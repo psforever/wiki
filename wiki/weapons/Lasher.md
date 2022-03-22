@@ -3,7 +3,7 @@
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |
 | **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)    |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)         |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)         |
 | **Primary Mode**           | Energy Orb                                             |
 | **Secondary Mode**         | [Armor Piercing](../terminology/Armor_Piercing.md) Orb |
 | **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)           |
@@ -16,7 +16,7 @@
 
 The [Lasher](Lasher.md) is the
 [Heavy Assault](../certifications/Heavy_Assault.md) weapon of the
-[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md). It quickly fires energy orbs
+[Vanu Sovereignty](../factions/Vanu_Sovereignty.md). It quickly fires energy orbs
 which do significant damage on contact, as well as "Lashing" (When an orb
 brushes by the target) nearby enemy targets for minor damage. The orbs travel
 fairly quickly (as of patch [3.15.29](../patches/3.15.29.md)) but suffer from

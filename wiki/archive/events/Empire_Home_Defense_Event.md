@@ -38,11 +38,11 @@ _Results:_
 
 **Werner**
 
-**Defender**: [Vanu Sovereignty](../../terminology/Vanu_Sovereignty.md)
+**Defender**: [Vanu Sovereignty](../../factions/Vanu_Sovereignty.md)
 
-- [Terran Republic](../../terminology/Terran_Republic.md) attacked
+- [Terran Republic](../../factions/Terran_Republic.md) attacked
   [Verica](../../facilities/Verica.md) on [Amerish](../../locations/Amerish.md)
-- [New Conglomerate](../../terminology/New_Conglomerate.md) attacked [Eisa](../../facilities/Eisa.md)
+- [New Conglomerate](../../factions/New_Conglomerate.md) attacked [Eisa](../../facilities/Eisa.md)
   on [Esamir](../../locations/Esamir.md)
 
 **Outcome:**
@@ -56,7 +56,7 @@ leadership.
 
 **Emerald**
 
-**Defender:** [Terran Republic](../../terminology/Terran_Republic.md)
+**Defender:** [Terran Republic](../../factions/Terran_Republic.md)
 
 - New Conglomerate attacked [Neit](../../facilities/Neit.md) on
   [Forseral](../../locations/Forseral.md)
@@ -71,7 +71,7 @@ organization and leadership. There were a couple of good TR leaders as well.
 
 **Markov**
 
-**Defender:** [New Conglomerate](../../terminology/New_Conglomerate.md)
+**Defender:** [New Conglomerate](../../factions/New_Conglomerate.md)
 
 **Outcome:**
 

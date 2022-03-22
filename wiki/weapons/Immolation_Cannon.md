@@ -1,7 +1,7 @@
 |                            |                                                                                                 |
 | -------------------------- | ----------------------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                     |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                  |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                  |
 | **Primary Mode**           | Straight-line energy projectiles                                                                |
 | **Secondary Mode**         | \-                                                                                              |
 | **Ammunition**             | [Aphelion Immolation Cannon Ammunition](../ammunition/Aphelion_Immolation_Cannon_Ammunition.md) |

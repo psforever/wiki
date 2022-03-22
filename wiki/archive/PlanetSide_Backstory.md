@@ -38,7 +38,7 @@
 
 "My name is Frank Root. I've been alive for a long time. Well, if you don't
 count the two hundred or so times that I've died. I am a soldier of the
-[New Conglomerate](../terminology/New_Conglomerate.md). One of the first, actually..."
+[New Conglomerate](../factions/New_Conglomerate.md). One of the first, actually..."
 [As told by Frank Root, New Conglomerate Technician](http://planetside.station.sony.com/news_archive.vm?id=65061&month=022005)
 
 ## Empire Propoganda Netsites

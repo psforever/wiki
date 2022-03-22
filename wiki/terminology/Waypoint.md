@@ -57,8 +57,8 @@ listed above:
   [CR5](Command_Rank.md) player has placed an
   [Orbital Strike](Orbital_Strike.md) waypoint on the map, it is
   visible as a colored beam of light in the gameworld: blue for
-  [NC](New_Conglomerate.md), red for [TR](Terran_Republic.md), and
-  purple for [VS](Vanu_Sovereignty.md). The waypoint is not visible on
+  [NC](../factions/New_Conglomerate.md), red for [TR](../factions/Terran_Republic.md), and
+  purple for [VS](../factions/Vanu_Sovereignty.md). The waypoint is not visible on
   the [Proximity Map](Proximity_Map.md) or the
   [Continental Map](Continental_Map.md).
 

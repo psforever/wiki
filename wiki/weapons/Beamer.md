@@ -4,7 +4,7 @@ Beamer](../images/PSScreenShot0293.jpg){ class="figure" }
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)            |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)            |
 | **Primary Mode**           | Standard Bolt                                             |
 | **Secondary Mode**         | Armor Piercing Bolt                                       |
 | **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)              |

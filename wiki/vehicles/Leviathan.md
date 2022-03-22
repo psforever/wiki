@@ -5,7 +5,7 @@
 | **Type**                   | Heavy Transport                                                                                                                                                             |
 | **Role**                   | Heavy Troop Transport                                                                                                                                                       |
 | **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)                                                                                                                   |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                                                              |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                                                                                              |
 | **Primary Weapons**        | 2 75mm Tank Cannons, 2 [Flux Cannons](../weapons/Flux_Cannon.md)                                                                                                            |
 | **Secondary Weapon**       | 2 side [Ballguns](../items/Ballgun.md)                                                                                                                                      |
 | **Ammunition Used**        | [Lightning Shell](../ammunition/Lightning_Shell.md), [Flux Battery](../ammunition/Flux_Battery.md), and [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |

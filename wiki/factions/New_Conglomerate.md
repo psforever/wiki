@@ -10,7 +10,7 @@ Now!
 ## Introduction
 
 The New Conglomerate is one of three
-[Empires](Empire.md) waging war on
+[Empires](../terminology/Empire.md) waging war on
 [Auraxis](../locations/Auraxis.md). The basic philosophy of the New
 Conglomerate is "hit them hard." What
 their weapons lack in firing rate they make up for in pure damage.

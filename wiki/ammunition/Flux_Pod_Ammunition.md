@@ -1,7 +1,7 @@
 |                                                 |                                                |
 | ----------------------------------------------- | ---------------------------------------------- |
 | **Used by**                                     | [Aurora](../vehicles/Aurora.md)                |
-| **Empire**                                      | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) |
+| **Empire**                                      | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                            |
 | **Quantity per box**                            | 80 Rounds                                      |
 

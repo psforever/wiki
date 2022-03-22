@@ -5,7 +5,7 @@
 | **Type**                   | Heavy Assault Buggy                                                                                                      |
 | **Role**                   | Attack/Defense                                                                                                           |
 | **Certification Required** | [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>) or [Light Scout](../certifications/Light_Scout.md) |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                           |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                           |
 | **Primary Weapon**         | [Firebird](../weapons/Firebird.md) Rocket Launcher                                                                       |
 | **Ammunition**             | [Firebird Rocket](../ammunition/Firebird_Rocket.md)                                                                      |
 | **Occupants**              | 2 (Driver and Gunner)                                                                                                    |
@@ -14,7 +14,7 @@
 
 **Enforcer**
 
-The [New Conglomerate](../terminology/New_Conglomerate.md) **Enforcer** buggy is
+The [New Conglomerate](../factions/New_Conglomerate.md) **Enforcer** buggy is
 obtained with the 3 point
 [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>)
 [Certification](../certifications/Certification.md) or the 5 point

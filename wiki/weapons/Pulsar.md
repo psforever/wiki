@@ -4,7 +4,7 @@ Pulsar](../images/PSScreenShot0290.jpg){ class="figure" }
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)        |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)        |
 | **Primary Mode**           | Standard Bolt                                         |
 | **Secondary Mode**         | Armor Piercing Bolt                                   |
 | **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)          |

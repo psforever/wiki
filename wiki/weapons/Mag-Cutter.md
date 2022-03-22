@@ -3,7 +3,7 @@
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)            |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)            |
 | **Primary Mode**           | Slash                                                     |
 | **Secondary Mode**         | Magnetic Attack                                           |
 | **Ammunition**             | \-                                                        |

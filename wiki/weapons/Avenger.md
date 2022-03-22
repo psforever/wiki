@@ -3,7 +3,7 @@
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced_Engineering](../certifications/Advanced_Engineering.md)) |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                         |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                                                         |
 | **Primary Mode**           | Upgraded Cycler                                                                                                                      |
 | **Secondary Mode**         | \-                                                                                                                                   |
 | **Ammunition**             | Unlimited                                                                                                                            |
@@ -14,7 +14,7 @@
 
 **Avenger**
 
-The [Terran Republic](../terminology/Terran_Republic.md) Variant of the
+The [Terran Republic](../factions/Terran_Republic.md) Variant of the
 [One-Manned Field Turrets](One-Manned_Field_Turret.md), and is deployed by use
 of the [Field Deployment Unit](Field_Deployment_Unit.md). It is an adaptation of
 the [Dual Cycler](../armor/Dual-Cycler.md)

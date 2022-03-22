@@ -19,21 +19,21 @@ Home Continent Empire benefits persist until an opposing Empire recaptures and
 locks one of their home continents.
 
 [Ceryshen](../locations/Ceryshen.md) & [Forseral](../locations/Forseral.md)
-([VS](Vanu_Sovereignty.md)) : [Magriders](../vehicles/Magrider.md),
+([VS](../factions/Vanu_Sovereignty.md)) : [Magriders](../vehicles/Magrider.md),
 [Auroras](../vehicles/Aurora.md), [Threshers](../vehicles/Thresher.md),
 [Aphelions](../vehicles/Aphelion.md) & [Eclipses](../vehicles/Eclipse.md)
 
 <!-- -->
 
 [Amerish](../locations/Amerish.md) & [Esamir](../locations/Esamir.md)
-([NC](New_Conglomerate.md)) : [Vanguards](../vehicles/Vanguard.md),
+([NC](../factions/New_Conglomerate.md)) : [Vanguards](../vehicles/Vanguard.md),
 [Thunderers](../vehicles/Thunderer.md), [Enforcers](../vehicles/Enforcer.md),
 [Peregrines](../vehicles/Peregrine.md) & [Eagles](../vehicles/Eagle.md)
 
 <!-- -->
 
 [Solsar](../locations/Solsar.md) & [Hossin](../locations/Hossin.md)
-([TR](Terran_Republic.md)) : [Prowlers](../vehicles/Prowler.md),
+([TR](../factions/Terran_Republic.md)) : [Prowlers](../vehicles/Prowler.md),
 [Raiders](../vehicles/Raider.md), [Marauders](../vehicles/Marauder.md),
 [Colossuses](../vehicles/Colossus.md) & [Invaders](../vehicles/Invader.md)
 

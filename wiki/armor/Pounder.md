@@ -4,7 +4,7 @@
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                             |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                      |
 | **Primary Mode**           | Normal fire                                                                                                                              |
 | **Secondary Mode**         | 3 second fuse                                                                                                                            |
@@ -16,7 +16,7 @@
 
 The **Pounder** is the
 [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) of
-the [Terran Republic](../terminology/Terran_Republic.md). It boasts two large mortar
+the [Terran Republic](../factions/Terran_Republic.md). It boasts two large mortar
 launchers on both its arms that can launch its ammunition over great ranges.
 This is an indirect fire weapon, requiring the operator to compensate for
 gravity, but making it possible to attack vehicles from behind a hill. The

@@ -20,7 +20,7 @@ Shotgun](../images/Sweeper.jpg){ class="figure" }
 The [Sweeper](Sweeper.md) is the only
 [Common Pool](../terminology/Common_Pool.md) shotgun. Used at close range, it
 can do significant amounts of damage, and although it lacks the large clip and
-triple-shot ability of the [New Conglomerate](../terminology/New_Conglomerate.md)'s
+triple-shot ability of the [New Conglomerate](../factions/New_Conglomerate.md)'s
 [Jackhammer](Jackhammer.md), it does have a slightly tighter cone of fire giving
 it a little more range. It is fairly ineffective at anything beyond short range,
 so is only useful for indoor and close-combat encounters. Using Armor Piercing

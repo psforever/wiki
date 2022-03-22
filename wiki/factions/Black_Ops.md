@@ -1,12 +1,11 @@
-![](../images/BO_Soldiers.jpg){ class="figure" } ![](../images/BO_Phantasm.jpg){ class="figure" }
-![ that is
-hacked by Black Ops, as seen on the
-[continental map](Continental_Map.md)](../images/BO_Hacked_Facility.jpg){ class="figure" }
+![Black Ops soldiers at an Equipment Terminal](../images/BO_Soldiers.jpg){ class="figure" } ![](../images/BO_Phantasm.jpg){ class="figure" }
+![A Black Ops Phantasm](../images/BO_Phantasm.jpg){ class="figure" } ![](../images/BO_Phantasm.jpg){ class="figure" }
+![A facility that is hacked by Black Ops, as seen on the continental map](../images/BO_Hacked_Facility.jpg){ class="figure" }
 
 Black Ops (BO) are the Super Soldiers of [PlanetSide](../PlanetSide.md).
-Having 1000 [Health](Health.md) and 500 [Stamina](Stamina.md) (which has a much
+Having 1000 [Health](../terminology/Health.md) and 500 [Stamina](../terminology/Stamina.md) (which has a much
 higher regeneration rate than normal) and having access to all
-[certifications](../certifications/Certification.md), and therefor all
+[certifications](../certifications/Certification.md), and therefore all
 [vehicles](../vehicles/index.md) and [weaponry](../weapons/Weapon.md) they are
 a force to be reckoned with. Black Ops soldiers can only chose between
 [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) and
@@ -23,14 +22,14 @@ Points for their activities. Kills made as a Black Ops also do not count towards
 [Merit](../merits/index.md) progress or track on the
 [PlanetSide](../PlanetSide.md) statistic websites.
 
-Black Ops can only [Squad](Squad.md)/[Platoon](Platoon.md) together with other
+Black Ops can only [Squad](../terminology/Squad.md)/[Platoon](../terminology/Platoon.md) together with other
 Black Ops, and cannot use any [chat](../chat/In-Game_Chat.md) except for the
 special Black Ops chat (/b <message> or /c <message> when playing as a Black
 Ops) and Squad/Platoon Chat.
 
 Black Ops can only be on the continent(s) enabled by the GM (usually only one),
 as all others will be locked to them. By using the Black Ops HQ they can
-instantly [HART](HART.md) drop anywhere on the
+instantly [HART](../terminology/HART.md) drop anywhere on the
 [continent](../locations/Continent.md), as well as spawn at any neutral
 [Facility](../locations/Facilities.md) or [Tower](../locations/Towers.md) on
 that continent. In addition, they can spawn at
@@ -42,8 +41,8 @@ have a 5 minute timer before they flip. Black Ops can only own or have a hack on
 a maximum of 3 bases, but there is no limit on the number of towers they can
 own.
 
-Note that even though all cosmetic [Command Rank](Command_Rank.md) attributes
-like the CR5 [backpack](Backpack.md) disappear when being turned into a Black
+Note that even though all cosmetic [Command Rank](../terminology/Command_Rank.md) attributes
+like the CR5 [backpack](../terminology/Backpack.md) disappear when being turned into a Black
 Ops, they will still keep the Command abilities
 ([Orbital Strike](../terminology/Orbital_Strike.md), [EMP](../terminology/EMP.md),
 Reveal Enemies and Reveal Friendliess) they have as a normal soldier.

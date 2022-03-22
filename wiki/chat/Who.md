@@ -19,9 +19,9 @@ The following "names" can be used with the "/who <name>" command:
 - **sl** (no space after "/who") - squadleaders - Shows all Squad Leaders for
   your current Continent, it also shows the Squad Leaders Outfit
 - **teams** - Shows percentage of online players for each Empire
-- **NC** - Lists the first 25 [NC](../terminology/New_Conglomerate.md) on your Continent
+- **NC** - Lists the first 25 [NC](../factions/New_Conglomerate.md) on your Continent
   (you must be NC)
-- **TR** - Lists the first 25 [TR](../terminology/Terran_Republic.md) on your Continent
+- **TR** - Lists the first 25 [TR](../factions/Terran_Republic.md) on your Continent
   (you must be TR)
-- **VS** - Lists the first 25 [VS](../terminology/Vanu_Sovereignty.md) on your Continent
+- **VS** - Lists the first 25 [VS](../factions/Vanu_Sovereignty.md) on your Continent
   (you must be VS)

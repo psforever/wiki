@@ -79,7 +79,7 @@ less periods of time generally as they don't always see or notice you up there
 until you start dropping bombs. I use this tactic when the enemy is clumped up
 on a bridge as they have nowhere to run except to drown. I also use it if the
 enemy base is at a low altitude and I'm fighting flak weapons
-([Wall Turrets](../../items/Phalanx.md) and [TR](../../terminology/Terran_Republic.md)
+([Wall Turrets](../../items/Phalanx.md) and [TR](../../factions/Terran_Republic.md)
 [Burster](../../armor/Burster.md) [MAXes](../../armor/Mechanized_Assault_Exo-Suit.md).
 You're fairly safe from [flak](../../weapons/Flak.md) at high altitude unless you
 fly very predictably and the enemy has great skill.

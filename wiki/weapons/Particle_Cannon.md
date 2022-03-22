@@ -1,7 +1,7 @@
 |                            |                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                   |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                |
 | **Primary Mode**           | Particle Cannon                                                                               |
 | **Secondary Mode**         | \-                                                                                            |
 | **Ammunition**             | [Peregrine Particle Cannon Ammunition](../ammunition/Peregrine_Particle_Cannon_Ammunition.md) |

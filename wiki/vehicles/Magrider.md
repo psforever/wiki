@@ -5,7 +5,7 @@
 | **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                       |
 | **Role**                   | Attack                                                                                                                     |
 | **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armored Assault II](../certifications/Armored_Assault_II.md) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                             |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                                             |
 | **Primary Weapon**         | Heavy Rail Beam                                                                                                            |
 | **Secondary Weapon**       | Pulsed Particle Accelerator                                                                                                |
 | **Ammunition Used**        | [PPA Battery](../items/PPA_Battery.md) and [Rail Beam Battery](../ammunition/Rail_Beam_Battery.md)                         |
@@ -16,7 +16,7 @@
 
 **Magrider**
 
-The Magrider is the [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s medium
+The Magrider is the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)'s medium
 battle tank (MBT). Unique because of its non-tracked drive, the Magrider floats
 above the ground, enabling the vehicle to travel over water and strafe. It can
 be agile even when traversing rough terrain. The Magrider is the fastest of all

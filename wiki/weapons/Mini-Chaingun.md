@@ -3,7 +3,7 @@
 |                            |                                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                                 |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                        |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                                        |
 | **Primary Mode**           | Rapid Fire                                                                                                          |
 | **Secondary Mode**         | \-                                                                                                                  |
 | **Ammunition**             | 9mm Bullet ([Standard](../ammunition/9mm_Bullet.md) / [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
@@ -15,8 +15,8 @@
 
 The [Mini-Chaingun](Mini-Chaingun.md) is the
 [Heavy Assault](../certifications/Heavy_Assault.md) weapon of the
-[Terran Republic](../terminology/Terran_Republic.md). It follows the principle of all
-the [Terran Republic](../terminology/Terran_Republic.md) weapons, sacrificing damage per
+[Terran Republic](../factions/Terran_Republic.md). It follows the principle of all
+the [Terran Republic](../factions/Terran_Republic.md) weapons, sacrificing damage per
 hit for rapid fire.
 
 Like all [Heavy Assault](../certifications/Heavy_Assault.md) weaponry, the

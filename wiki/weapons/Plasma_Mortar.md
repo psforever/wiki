@@ -1,7 +1,7 @@
 |                            |                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                   |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                |
 | **Primary Mode**           | Plasma Mortar                                                                                 |
 | **Secondary Mode**         | \-                                                                                            |
 | **Ammunition**             | [Aphelion Plasma Projector Ammunition](../ammunition/Aphelion_Plasma_Projector_Ammunition.md) |

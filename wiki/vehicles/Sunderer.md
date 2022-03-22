@@ -1,7 +1,7 @@
 **The Sunderer now comes in three variants: The [Leviathan](Leviathan.md)
-([VS](../terminology/Vanu_Sovereignty.md)), [Vindicator](Vindicator.md)
-([NC](../terminology/New_Conglomerate.md)), and [Juggernaut](Juggernaut.md)
-([TR](../terminology/Terran_Republic.md)). The Sunderer on this page no longer exists in
+([VS](../factions/Vanu_Sovereignty.md)), [Vindicator](Vindicator.md)
+([NC](../factions/New_Conglomerate.md)), and [Juggernaut](Juggernaut.md)
+([TR](../factions/Terran_Republic.md)). The Sunderer on this page no longer exists in
 game (as of Version [3.12.12](../patches/3.12.12.md), April 20 2007)**
 
 ![Sunderer](../images/Sunderer.jpg){ class="figure" }

@@ -1,7 +1,7 @@
 |     |     |
 | --- | --- |
 | **Type** | Vehicle/Aircraft |
-| **Provides Access To** | [Mosquito](../vehicles/Mosquito.md), [Harasser](../vehicles/Harasser.md), [Skyguard](../vehicles/Skyguard.md)  <br>[Enforcer](../vehicles/Enforcer.md) ([NC](../terminology/New_Conglomerate.md)), [Marauder](../vehicles/Marauder.md) ([TR](../terminology/Terran_Republic.md)), [Thresher](../vehicles/Thresher.md) ([VS](../terminology/Vanu_Sovereignty.md)) |
+| **Provides Access To** | [Mosquito](../vehicles/Mosquito.md), [Harasser](../vehicles/Harasser.md), [Skyguard](../vehicles/Skyguard.md)  <br>[Enforcer](../vehicles/Enforcer.md) ([NC](../factions/New_Conglomerate.md)), [Marauder](../vehicles/Marauder.md) ([TR](../factions/Terran_Republic.md)), [Thresher](../vehicles/Thresher.md) ([VS](../factions/Vanu_Sovereignty.md)) |
 | **Pre-requisite** | -   |
 | **Required For** | [Air Cavalry Assault](Air_Cavalry_Assault.md) and [Air Cavalry Interceptor](Air_Cavalry_Interceptor.md) |
 | **Cert Point Cost** | 5   |

@@ -143,7 +143,7 @@ If you want to become some sort of Cyborg, try the
 (MAX). The AA MAX is the least expensive MAX cert, however it only works well
 against aircraft targets. When anchored (with the B key), its firing rate is
 doubled making it a huge threats to all aircraft (the
-[Terran Republic](../../terminology/Terran_Republic.md)'s [Burster](../../armor/Burster.md) MAX that
+[Terran Republic](../../factions/Terran_Republic.md)'s [Burster](../../armor/Burster.md) MAX that
 is). It is guaranteed to get you some good kills however you are very vulnerable
 when faced with infantry and vehicles. The Anti-Vehicle MAX (AV MAX) and
 Anti-Infantry (AI MAX) are more expensive certs costing 3 CP. The disadvantage

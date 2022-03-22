@@ -15,10 +15,10 @@ Unlike the [Air Tower](Air_tower.md) and [Gun Tower](Gun_tower.md), the Watch
 Tower has no [Phalanx](../items/Phalanx.md) Wall Turrets.
 
 Standing five stories tall, the Watch Tower is the tallest of all 3
-[Tower](Towers.md) types. [VS](../terminology/Vanu_Sovereignty.md)
+[Tower](Towers.md) types. [VS](../factions/Vanu_Sovereignty.md)
 [MAX Units](../armor/Mechanized_Assault_Exo-Suit.md) must use both their regular
 jump and their jump jet special ability at the same time to reach the roof
-directly, though it is still rare to find a [VS](../terminology/Vanu_Sovereignty.md)
+directly, though it is still rare to find a [VS](../factions/Vanu_Sovereignty.md)
 [MAX Unit](../armor/Mechanized_Assault_Exo-Suit.md) at the top of a Watch Tower
 given level surrounding terrain.
 

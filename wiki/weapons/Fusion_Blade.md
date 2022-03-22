@@ -17,7 +17,7 @@ equipped with the Fusion Blade in Secondary Mode](../images/FusionBladeVS.jpg){ 
 **Fusion Blade**
 
 **Only attendees of the 2007, 2009-2011 Las Vegas Fan Faires and
-[Black Ops](../terminology/Black_Ops.md) can currently obtain the Fusion Blade**
+[Black Ops](../factions/Black_Ops.md) can currently obtain the Fusion Blade**
 
 The Fusion Blade was awarded to attendees of the 2007, 2009-2011 Las Vegas Fan
 Faires. It is also awarded very rarely by Game Managers during special in-game
@@ -32,9 +32,9 @@ Knife at the same time. Fusion Blades are not visible in corpse
 
 In primary mode the Fusion Blade uses slashes to damage opponents, in secondary
 fire, the speed of the slashes is increased dramatically. The Sword also glows
-(Yellow for [NC](../terminology/New_Conglomerate.md), Teal for
-[VS](../terminology/Vanu_Sovereignty.md), Red for [TR](../terminology/Terran_Republic.md), and
-green for [Black Ops](../terminology/Black_Ops.md)) and makes a distinctive
+(Yellow for [NC](../factions/New_Conglomerate.md), Teal for
+[VS](../factions/Vanu_Sovereignty.md), Red for [TR](../factions/Terran_Republic.md), and
+green for [Black Ops](../factions/Black_Ops.md)) and makes a distinctive
 sound when in Secondary Mode. The damage for both modes is the same and the only
 difference between the two modes is the speed of the slashes.
 

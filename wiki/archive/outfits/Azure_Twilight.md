@@ -2,7 +2,7 @@
 traverse [Ishundar](../../locations/Ishundar.md)](../../images/AT_akkan_to_kusag.jpg){ class="figure" }
 
 Azure Twilight is [Emerald](../servers/Emerald.md)'s largest
-[VS](../../terminology/Vanu_Sovereignty.md) [outfits](../../terminology/Outfit.md). They're
+[VS](../../factions/Vanu_Sovereignty.md) [outfits](../../terminology/Outfit.md). They're
 known for their excellent use of the [Galaxy](../../vehicles/Galaxy.md) for
 coordinated attacks and powerful [MAX](../../armor/Mechanized_Assault_Exo-Suit.md)
 crash teams.

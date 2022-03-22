@@ -1,7 +1,7 @@
 |                            |                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                           |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                          |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                          |
 | **Primary Mode**           | Flak shells                                                                           |
 | **Secondary Mode**         | \-                                                                                    |
 | **Ammunition**             | [Colossus Dual Burster Ammunition](../ammunition/Colossus_Dual_Burster_Ammunition.md) |

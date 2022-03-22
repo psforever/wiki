@@ -6,7 +6,7 @@
 | **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                                   |
 | **Role**                   | Attack                                                                                                                                 |
 | **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armored Assault II](../certifications/Armored_Assault_II.md)             |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                         |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                                         |
 | **Primary Weapon**         | 150mm Cannon                                                                                                                           |
 | **Secondary Weapon**       | 20mm Recoilless Cannon                                                                                                                 |
 | **Ammunition**             | [150mm Tank Shells](<../ammunition/Tank_Shell_(150mm).md>) and [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md) |
@@ -16,7 +16,7 @@
 
 **Vanguard**
 
-The Vanguard is the [New Conglomerate](../terminology/New_Conglomerate.md)'s
+The Vanguard is the [New Conglomerate](../factions/New_Conglomerate.md)'s
 [Medium Battle Tank](../items/Medium_Battle_Tank.md). It has a low side profile
 and is the most heavily armored MBT. Its gunner can switch between two guns. Its
 main gun does a lot of damage but fires slowly. This makes it hard to engage

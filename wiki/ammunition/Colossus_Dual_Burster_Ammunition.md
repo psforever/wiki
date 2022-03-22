@@ -1,7 +1,7 @@
 |                                                 |                                                                                                                 |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Colossus](../vehicles/Colossus.md) and [Invader](../vehicles/Invader.md) using the [Burster](../armor/Burster.md) |
-| **Empire**                                      | [Terran Republic](../terminology/Terran_Republic.md)                                                                    |
+| **Empire**                                      | [Terran Republic](../factions/Terran_Republic.md)                                                                    |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                             |
 | **Quantity per box**                            | 235 Rounds                                                                                                      |
 

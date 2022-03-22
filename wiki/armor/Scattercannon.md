@@ -4,7 +4,7 @@ Unit](../images/PSScreenShot0258.jpg){ class="figure" }
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                             |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Wide Spread                                                                                                                                |
 | **Secondary Mode**         | Medium Spread                                                                                                                              |
@@ -15,7 +15,7 @@ Unit](../images/PSScreenShot0258.jpg){ class="figure" }
 
 **Scattercannon**
 
-The [New Conglomerate](../terminology/New_Conglomerate.md)
+The [New Conglomerate](../factions/New_Conglomerate.md)
 [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>)—the
 **Scattercannon**— is comparable to a heavy bore shotgun on steroids. Packing a
 whopping 40 shells per magazine, a larger shell and three fire modes, mowing

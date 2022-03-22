@@ -1,4 +1,4 @@
-A cool [TR](../../terminology/Terran_Republic.md) [Outfit](../../terminology/Outfit.md) on
+A cool [TR](../../factions/Terran_Republic.md) [Outfit](../../terminology/Outfit.md) on
 [Markov](../servers/Markov.md)
 
 We use [Teamspeak](../TeamSpeak.md)

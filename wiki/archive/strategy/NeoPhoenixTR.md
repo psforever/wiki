@@ -33,7 +33,7 @@ I go by the alias
 [NeoPhoenixTR](http://www.planetsidestats.net/players.php?world_id=15&char_id=751022)(NeoPhoenixTE
 on the [forums](http://comms.planetsidesyndicate.com/member.php?userid=144), and
 the rest of the net), and my main character is an [Emerald](../servers/Emerald.md)
-[TR](../../terminology/Terran_Republic.md) [CR5](../../terminology/Command_Rank.md). I have been
+[TR](../../factions/Terran_Republic.md) [CR5](../../terminology/Command_Rank.md). I have been
 playing PlanetSide for nearly two years now, but have always been mediocre at
 shooter games overall. My expertise comes in niche strategies and
 multitasking... just not aiming. \>\_\>
@@ -414,9 +414,9 @@ hunting.
 
 Since we're now using Heavy Assault weapons, the common-pool weaponry is out the
 window. This is where problems can occur between empires. Given the
-empire-specific weapons, the [TR](../../terminology/Terran_Republic.md) and the
-[NC](../../terminology/New_Conglomerate.md) have the best defensive HA weapons, while the
-[VS](../../terminology/Vanu_Sovereignty.md) are at a disadvantage. The TR's
+empire-specific weapons, the [TR](../../factions/Terran_Republic.md) and the
+[NC](../../factions/New_Conglomerate.md) have the best defensive HA weapons, while the
+[VS](../../factions/Vanu_Sovereignty.md) are at a disadvantage. The TR's
 [Mini-Chaingun](../../weapons/Mini-Chaingun.md) has a 100 bullet clip that is
 capable of killing 2-3 grunts before running dry. The NC's
 [Jackhammer](../../weapons/Jackhammer.md) is like the Sweeper, but bigger,
@@ -713,7 +713,7 @@ collective average IQ a little. ;)
 You're on the ground, now what? It's time to make use of surge and head for the
 sweet spot! These are ideal placements for you to be during a takedown.
 
-#### Against [Terran Republic](../../terminology/Terran_Republic.md) Frames
+#### Against [Terran Republic](../../factions/Terran_Republic.md) Frames
 
 <table width=100%>
 <tr>
@@ -733,7 +733,7 @@ Description here
 </tr>
 </table>
 
-#### Against [New Conglomerate](../../terminology/New_Conglomerate.md) Frames
+#### Against [New Conglomerate](../../factions/New_Conglomerate.md) Frames
 
 <table width=100%>
 <tr>
@@ -753,7 +753,7 @@ Description here
 </tr>
 </table>
 
-#### Against [Vanu Sovereignty](../../terminology/Vanu_Sovereignty.md) Frames
+#### Against [Vanu Sovereignty](../../factions/Vanu_Sovereignty.md) Frames
 
 <table width=100%>
 <tr>
@@ -779,7 +779,7 @@ You're in the sweet spot, now where do you shove that deci-swap? Well, that all
 depends on what kind of BFR you are fighting. Here are recommended spots to aim
 during the deci-swap and the takedown.
 
-#### Against [Terran Republic](../../terminology/Terran_Republic.md) Frames
+#### Against [Terran Republic](../../factions/Terran_Republic.md) Frames
 
 <table width=100%>
 <tr>
@@ -812,7 +812,7 @@ decimator hits the frame, and delivers its payload.
 </tr>
 </table>
 
-#### Against [New Conglomerate](../../terminology/New_Conglomerate.md) Frames
+#### Against [New Conglomerate](../../factions/New_Conglomerate.md) Frames
 
 <table width=100%>
 <tr>
@@ -832,7 +832,7 @@ Description here
 </tr>
 </table>
 
-#### Against [Vanu Sovereignty](../../terminology/Vanu_Sovereignty.md) Frames
+#### Against [Vanu Sovereignty](../../factions/Vanu_Sovereignty.md) Frames
 
 <table width=100%>
 <tr>

@@ -3,7 +3,7 @@
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                                 |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                          |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                                          |
 | **Primary Mode**           | Rapid Fire                                                                                                            |
 | **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
@@ -15,7 +15,7 @@
 **Cycler**
 
 The Cycler is the [Medium Assault](../certifications/Medium_Assault.md) rifle of
-the [Terran Republic](../terminology/Terran_Republic.md). Following its empire's motif,
+the [Terran Republic](../factions/Terran_Republic.md). Following its empire's motif,
 it boasts the largest magazine capacity and highest fire rate of the medium
 assault rifles.
 

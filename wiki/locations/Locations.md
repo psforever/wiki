@@ -22,9 +22,9 @@ listed under this category.
 
 ### Special Continents
 
-- [New Conglomerate](../terminology/New_Conglomerate.md) [Sanctuary](Sanctuary.md)
-- [Terran Republic](../terminology/Terran_Republic.md) [Sanctuary](Sanctuary.md)
-- [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) [Sanctuary](Sanctuary.md)
+- [New Conglomerate](../factions/New_Conglomerate.md) [Sanctuary](Sanctuary.md)
+- [Terran Republic](../factions/Terran_Republic.md) [Sanctuary](Sanctuary.md)
+- [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) [Sanctuary](Sanctuary.md)
 
 ### Former Continents
 

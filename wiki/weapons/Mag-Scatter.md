@@ -3,7 +3,7 @@
 |                            |                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                                        |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                   |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                                   |
 | **Primary Mode**           | Single Blast                                                                                                                     |
 | **Secondary Mode**         | \-                                                                                                                               |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |

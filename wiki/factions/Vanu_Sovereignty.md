@@ -12,10 +12,10 @@ light.
 ## Introduction
 
 The Vanu Sovereignty is one of three
-[Empires](Empire.md) waging war on
+[Empires](../terminology/Empire.md) waging war on
 [Auraxis](../locations/Auraxis.md). Of the three, the Vanu
 Sovereignty has most embraced the
-technology of the [Ancients](Ancients.md). Most of their
+technology of the [Ancients](../terminology/Ancients.md). Most of their
 infantry weapons use [Energy Cells](../ammunition/Energy_Cell.md) instead of
 conventional rounds. This provides provides flexibility in allowing most
 weapons to have an anti-infantry and an armor-piercing mode without

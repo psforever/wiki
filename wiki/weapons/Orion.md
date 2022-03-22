@@ -3,7 +3,7 @@
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                       |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                                                       |
 | **Primary Mode**           | Quasar                                                                                                                               |
 | **Secondary Mode**         | \-                                                                                                                                   |
 | **Ammunition**             | \-                                                                                                                                   |
@@ -14,7 +14,7 @@
 
 **Orion**
 
-The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) Variant of the
+The [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) Variant of the
 [One-Manned Field Turrets](One-Manned_Field_Turret.md), and is deployed by use
 of the [Field Deployment Unit](Field_Deployment_Unit.md). It is an adaptation of
 the [Quasar](../armor/Quasar.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)

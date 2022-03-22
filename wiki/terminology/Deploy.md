@@ -30,7 +30,7 @@ To deploy and undeploy, the default key is 'B'.
 [Combat Engineer](../certifications/Combat_Engineering.md). The items that can
 be created from an ACE are often called "deployables."
 
-The [Terran Republic](Terran_Republic.md)
+The [Terran Republic](../factions/Terran_Republic.md)
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s "[anchoring](Anchoring.md)"
 ability is essentially the same as "deploying" it, but is never referred to in
 that way. Similarly, [BFRs](../vehicles/BattleFrame_Robotics.md) can crouch and

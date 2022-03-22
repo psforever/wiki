@@ -320,7 +320,7 @@ at bottom.
 
 - [3.9.5](3.9.5.md) - [Rabbit](../terminology/Rabbit.md) Gameplay and
   [LFS](../terminology/LFS.md) revisions go live!
-  [TR](../terminology/Terran_Republic.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
+  [TR](../factions/Terran_Republic.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
   allowed to shoot while (un)anchoring, minor
   [Vehicle](../vehicles/index.md)/[BFR](../vehicles/BattleFrame_Robotics.md)
   tweaks, Help-Star/[HUD](../terminology/Heads-up_Display.md) fixes, the end of looting
@@ -419,8 +419,8 @@ at bottom.
   [Combat Engineering](../certifications/Combat_Engineering.md) deployables
 - [April Fool's Patch](Unnumbered_Patches.md#game-update-03302007) -
   Undocumented addition of Cake, Pie, and Doughnut Box graphics to replace
-  [NC](../terminology/New_Conglomerate.md), [TR](../terminology/Terran_Republic.md), and
-  [VS](../terminology/Vanu_Sovereignty.md) [backpacks](../terminology/Backpack.md)
+  [NC](../factions/New_Conglomerate.md), [TR](../factions/Terran_Republic.md), and
+  [VS](../factions/Vanu_Sovereignty.md) [backpacks](../terminology/Backpack.md)
   respectively.
 
 ### April
@@ -517,7 +517,7 @@ at bottom.
 ### August
 
 - [3.15.18](3.15.18.md) -Added overdrive ability to
-  [TR](../terminology/Terran_Republic.md)
+  [TR](../factions/Terran_Republic.md)
   [MAXes](../armor/Mechanized_Assault_Exo-Suit.md),
   [Burster](../armor/Burster.md) magazine size buff, and changed the way
   [incentives](../terminology/Incentives.md) are calculated.

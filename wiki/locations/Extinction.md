@@ -16,7 +16,7 @@
 
 Although bridge battles are common on this island, water-based attacks are
 possible via hover ([AT](../terminology/Ancient_Technology.md) or
-[VS](../terminology/Vanu_Sovereignty.md) vehicles and
+[VS](../factions/Vanu_Sovereignty.md) vehicles and
 [Deliverer](../vehicles/Deliverer.md) variants. Shoreline access is possible at
 many strategic points on this map if bridge battles are blocking progress
 elsewhere.

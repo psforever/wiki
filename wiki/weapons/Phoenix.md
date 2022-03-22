@@ -4,7 +4,7 @@ Phoenix Missile Launcher](../images/PSScreenShot0249.jpg){ class="figure" }
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md) |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)        |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)        |
 | **Primary Mode**           | Camera Guided                                         |
 | **Secondary Mode**         | Dumb Fire                                             |
 | **Ammunition**             | [Phoenix Missile](../ammunition/Phoenix_Missile.md)   |
@@ -16,7 +16,7 @@ Phoenix Missile Launcher](../images/PSScreenShot0249.jpg){ class="figure" }
 **Phoenix**
 
 The **Phoenix** is the [Anti-Vehicular](../certifications/Anti-Vehicular.md)
-weapon for the [New Conglomerate](../terminology/New_Conglomerate.md). In its primary
+weapon for the [New Conglomerate](../factions/New_Conglomerate.md). In its primary
 mode, a camera in the nose of the rocket allows the operator to guide it to a
 precise target without the operator needing to see the target from his position.
 The warhead can be manually detonated at any time in the flight path by pressing

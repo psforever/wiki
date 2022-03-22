@@ -1,7 +1,7 @@
 |                            |                                                                                       |
 | -------------------------- | ------------------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                           |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                          |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                          |
 | **Primary Mode**           | Rotary Chaingun                                                                       |
 | **Secondary Mode**         | \-                                                                                    |
 | **Ammunition**             | [Colossus Rotary Chaingun Bullets](../ammunition/Colossus_Rotary_Chaingun_Bullets.md) |

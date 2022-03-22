@@ -1,7 +1,7 @@
 |                            |                                                                                             |
 | -------------------------- | ------------------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                 |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                |
 | **Primary Mode**           | Tank Defense Cannon                                                                         |
 | **Secondary Mode**         | \-                                                                                          |
 | **Ammunition**             | [Colossus Tank Defense Cannon Shells](../ammunition/Colossus_Tank_Defense_Cannon_Shells.md) |

@@ -1,7 +1,7 @@
 ![thumb](../images/Firebird.jpg)
 
 The Firebird is the only weapon on the
-[New Conglomerate](../terminology/New_Conglomerate.md)'s
+[New Conglomerate](../factions/New_Conglomerate.md)'s
 [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>), the
 [Enforcer](../vehicles/Enforcer.md).
 

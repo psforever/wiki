@@ -4,7 +4,7 @@
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                           |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                                                           |
 | **Armor**                  | 650                                                                                                                                      |
 | **Primary Mode**           | Normal fire                                                                                                                              |
 | **Secondary Mode**         | \-                                                                                                                                       |
@@ -14,7 +14,7 @@
 
 **Comet**
 
-The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s
+The [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)'s
 [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>)—the
 **Comet**—fires powerful energy plasma rounds that do "aggravated" damage to the
 target. This [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s jump jets allow it

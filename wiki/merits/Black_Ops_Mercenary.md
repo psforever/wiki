@@ -37,4 +37,4 @@
 </table>
 
 The Black Ops Mercenary [Merit](index.md) is awarded when a Player
-gets turned into a [Black Ops](../terminology/Black_Ops.md).
+gets turned into a [Black Ops](../factions/Black_Ops.md).

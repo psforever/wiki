@@ -12,7 +12,7 @@ Operating System.
 
 ## Story
 
-After traveling through a womrhole, the [Terran Republic](terminology/Terran_Republic.md), a
+After traveling through a womrhole, the [Terran Republic](factions/Terran_Republic.md), a
 highly centralized galactic government which has ruled humans for the past 1,112
 years, discovered the planet of [Auraxis](locations/Auraxis.md). Several
 expeditions were sent through the wormhole to colonize Auraxis, and soon after
@@ -30,7 +30,7 @@ war over technology began.
 
 ### Terran Republic
 
-The [Terran Republic](terminology/Terran_Republic.md) consists of colonists who remained
+The [Terran Republic](factions/Terran_Republic.md) consists of colonists who remained
 loyal to the Republic, and is a conservative, authoritarian collectivist nation
 with the goal of re-establishing contact with the homeworld and re-unite the
 warring factions. Thier leadership comes in the form of a public oligarchy known
@@ -51,7 +51,7 @@ superior firepower.
 
 ### New Conglomerate
 
-The [New Conglomerate](terminology/New_Conglomerate.md) is a militant seperatist faction
+The [New Conglomerate](factions/New_Conglomerate.md) is a militant seperatist faction
 composed of anarchists, liberals, and libertarians determined to break and
 remain free from the domineering Republic. They seek to liberate all of humanity
 from the Republic, regardless of whether or not they share the Conglomerate's
@@ -68,7 +68,7 @@ vehicles and infantry.
 
 ### Vanu Sovereignty
 
-The [Vanu Sovereignty](terminology/Vanu_Sovereignty.md) is a loose transhumanist cult of
+The [Vanu Sovereignty](factions/Vanu_Sovereignty.md) is a loose transhumanist cult of
 academics, intellectuals, and technology worshippers who believe that the future
 of humanity lies within the exploitation of alien technology. Their leadership
 is the Sovereignty Council, whose composition is unknown to even the members of

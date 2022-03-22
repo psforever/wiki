@@ -32,7 +32,7 @@ Vehicles and Aircraft can knock you off of the zipline if you collide with them
 while traveling.
 
 Troops using the ziplines are clearly visible as a brightly colored glowing ball
-in transit, colored red for the [Terran Republic](../terminology/Terran_Republic.md),
-purple for the [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) and yellow for the
-[New Conglomerate](../terminology/New_Conglomerate.md), and all three can be seen from
+in transit, colored red for the [Terran Republic](../factions/Terran_Republic.md),
+purple for the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) and yellow for the
+[New Conglomerate](../factions/New_Conglomerate.md), and all three can be seen from
 some distance away.

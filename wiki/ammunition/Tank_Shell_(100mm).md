@@ -1,7 +1,7 @@
 |                                                 |                                              |
 | ----------------------------------------------- | -------------------------------------------- |
 | **Used by**                                     | [Prowler](../vehicles/Prowler.md)            |
-| **Empire**                                      | [Terran Republic](../terminology/Terran_Republic.md) |
+| **Empire**                                      | [Terran Republic](../factions/Terran_Republic.md) |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                          |
 | **Quantity per box**                            | 100 Rounds                                   |
 

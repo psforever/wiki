@@ -1,10 +1,10 @@
-The [New Conglomerate](../../terminology/New_Conglomerate.md) is continuing their attempts at
+The [New Conglomerate](../../factions/New_Conglomerate.md) is continuing their attempts at
 manipulating the Auraxian [lattice](../../terminology/Lattice.md) network, this
 time targeting construction and acquisition pathways in an attempt to level the
 playing field of [Auraxis](../../locations/Auraxis.md), supplementing their arsenal
 with the situational strengths of their enemies. Now that the
-[NC](../../terminology/New_Conglomerate.md) have initiated this process, the
-[TR](../../terminology/Terran_Republic.md) and the [VS](../../terminology/Vanu_Sovereignty.md) have no other choice
+[NC](../../factions/New_Conglomerate.md) have initiated this process, the
+[TR](../../factions/Terran_Republic.md) and the [VS](../../factions/Vanu_Sovereignty.md) have no other choice
 but to see this through, fighting to be the Empire with a robust global arsenal,
 consisting of familiar and enemy weapons alike.
 

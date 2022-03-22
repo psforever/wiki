@@ -9,7 +9,7 @@ to Friday, but its members can be found online at other times as well. The
 Outfit doesn't specialize in any one tactic or task, preferring to remain loose
 and able to try new things. They hold regular "theme" nights, where a particular
 certification or operation is focused on, but otherwise leave themselves open to
-whatever task will help the [Vanu Sovereignty](../../terminology/Vanu_Sovereignty.md)
+whatever task will help the [Vanu Sovereignty](../../factions/Vanu_Sovereignty.md)
 
 The current Outfit Leader is Wrathchild-K. He is the fourth Leader in the
 Outfit's history.

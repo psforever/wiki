@@ -119,16 +119,16 @@ The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 - [High Caliber Bolt](../ammunition/Bolt.md)
 - [Shotgun Shell](../ammunition/Shotgun_Shell.md)
 
-### [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
+### [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)
 
 - [Energy Cell](../ammunition/Energy_Cell.md)
 - [Lancer Cartridge](../ammunition/Lancer_Cartridge.md)
 
-### [New Conglomerate](../terminology/New_Conglomerate.md)
+### [New Conglomerate](../factions/New_Conglomerate.md)
 
 - [Phoenix Missile](../ammunition/Phoenix_Missile.md)
 
-### [Terran Republic](../terminology/Terran_Republic.md)
+### [Terran Republic](../factions/Terran_Republic.md)
 
 - [Striker Missile](../ammunition/Striker_Missile.md)
 

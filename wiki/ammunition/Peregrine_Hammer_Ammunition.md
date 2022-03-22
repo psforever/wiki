@@ -1,7 +1,7 @@
 |                                                 |                                                                                                                |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Peregrine](../vehicles/Peregrine.md) and [Eagle](../vehicles/Eagle.md) using the [Hammer](../items/Hammer.md) |
-| **Empire**                                      | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                 |
+| **Empire**                                      | [New Conglomerate](../factions/New_Conglomerate.md)                                                                 |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                            |
 | **Quantity per box**                            | 165 Rounds                                                                                                     |
 

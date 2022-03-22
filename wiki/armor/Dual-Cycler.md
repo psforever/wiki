@@ -4,7 +4,7 @@
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                               |
+| **Empire**                 | [Terran Republic](../factions/Terran_Republic.md)                                                                                               |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Normal fire                                                                                                                                |
 | **Secondary Mode**         | \-                                                                                                                                         |
@@ -16,7 +16,7 @@
 
 The **Dual-Cycler** is the current
 [Anti-Infantry MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) of
-the [Terran Republic](../terminology/Terran_Republic.md). It boasts two large chainguns
+the [Terran Republic](../factions/Terran_Republic.md). It boasts two large chainguns
 on both its arms that can literally shower an enemy with ordinance. The "Anchor"
 ability locks the [MAX](../armor/Mechanized_Assault_Exo-Suit.md) in place and
 reduces its field of fire, but essentially doubles it rate of fire and reduces

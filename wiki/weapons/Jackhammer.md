@@ -4,7 +4,7 @@ a Jackhammer](../images/PSScreenShot0243.jpg){ class="figure" }
 |                            |                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                                              |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                   |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                                   |
 | **Primary Mode**           | Single Shot                                                                                                                      |
 | **Secondary Mode**         | Triple Shot                                                                                                                      |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |

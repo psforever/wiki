@@ -10,7 +10,7 @@
 These cartridges are used by the
 [Ground Pounder](../terminology/Ground_Pounder.md) weapon found on the
 [Galaxy Gunship](../vehicles/Galaxy_Gunship.md) and the
-[Terran Republic](../terminology/Terran_Republic.md)'s
+[Terran Republic](../factions/Terran_Republic.md)'s
 [Marauder](../vehicles/Marauder.md)
 [assault buggy](<../certifications/Assault_Buggy_(Certification).md>). The
 rounds inflict decent damage to both [infantry](../terminology/Infantry.md) and

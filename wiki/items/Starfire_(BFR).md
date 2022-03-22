@@ -1,7 +1,7 @@
 |                            |                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                   |
-| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                |
+| **Empire**                 | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                |
 | **Primary Mode**           | Homing missiles                                                               |
 | **Secondary Mode**         | \-                                                                            |
 | **Ammunition**             | [Aphelion Starfire Ammunition](../ammunition/Aphelion_Starfire_Ammunition.md) |
@@ -14,7 +14,7 @@
 **Starfire (BFR)**
 
 The [BFR](../vehicles/BattleFrame_Robotics.md) Starfire anti aircraft weaponry
-is an adaptation of the similarly named [VS](../terminology/Vanu_Sovereignty.md)
+is an adaptation of the similarly named [VS](../factions/Vanu_Sovereignty.md)
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md). It features lock on systems that
 will guide in flight projectiles to the currently painted target. Each energy
 sphere has an outer plasmoid mass that continues to eat away at the target after

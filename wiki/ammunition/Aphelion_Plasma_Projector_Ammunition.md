@@ -1,7 +1,7 @@
 |                                                 |                                                                                            |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) using the [Plasma Mortar](../weapons/Plasma_Mortar.md) |
-| **Empire**                                      | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                             |
+| **Empire**                                      | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                             |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                        |
 | **Quantity per pack**                           | 195 Rounds                                                                                 |
 

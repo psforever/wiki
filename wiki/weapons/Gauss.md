@@ -4,7 +4,7 @@ Gauss Rifle](../images/PSScreenShot0248.jpg){ class="figure" }
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                                 |
-| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                        |
+| **Empire**                 | [New Conglomerate](../factions/New_Conglomerate.md)                                                                        |
 | **Primary Mode**           | Single Shot                                                                                                           |
 | **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
@@ -17,7 +17,7 @@ Gauss Rifle](../images/PSScreenShot0248.jpg){ class="figure" }
 
 The [Gauss](Gauss.md) is the
 [Medium Assault](../certifications/Medium_Assault.md) rifle of the
-[New Conglomerate](../terminology/New_Conglomerate.md). Although it has a smaller clip
+[New Conglomerate](../factions/New_Conglomerate.md). Although it has a smaller clip
 and slower rate of fire than the other empire-specific rifles, the
 [Gauss](Gauss.md) deals the most damage per shot at most ranges.
 

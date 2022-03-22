@@ -28,13 +28,13 @@ steady bombardment will generally force a retreat of these craft.
 Used by:
 
 - [Burster](../armor/Burster.md) Anti Air MAX
-  ([Terran Republic](../terminology/Terran_Republic.md))
+  ([Terran Republic](../factions/Terran_Republic.md))
 - [Skyguard](../vehicles/Skyguard.md) Medium Buggy
   ([Common Pool](../terminology/Common_Pool.md))
 - [Invader](../vehicles/Invader.md), [Colossus](../vehicles/Colossus.md)
   [Burster](<../items/Burster_(BFR).md>)
   [BFR](../vehicles/BattleFrame_Robotics.md) Weapon
-  ([Terran Republic](../terminology/Terran_Republic.md))
+  ([Terran Republic](../factions/Terran_Republic.md))
 - [Rocklet Rifle](Rocklet_Rifle.md) loaded with
   [Fragmentation Grenade Pack](../items/Fragmentation_Grenade_Pack.md)
   ammunition, refered to as "Flaklet"

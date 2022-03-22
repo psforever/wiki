@@ -3,12 +3,12 @@
 |                          |                                                                                                |
 | ------------------------ | ---------------------------------------------------------------------------------------------- |
 | **Used by**              | [Beamer](../weapons/Beamer.md), [Pulsar](../weapons/Pulsar.md), [Lasher](../weapons/Lasher.md) |
-| **Empire**               | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                 |
+| **Empire**               | [Vanu Sovereignty](../factions/Vanu_Sovereignty.md)                                                 |
 | **Inventory dimensions** | 3x3                                                                                            |
 | **Quantity per pack**    | 50 Energy Cells                                                                                |
 
 **Energy Cell**
 
-Only soldiers of the [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) can access
+Only soldiers of the [Vanu Sovereignty](../factions/Vanu_Sovereignty.md) can access
 this type of [ammunition](../items/Ammunition.md) from their
 [equipment terminals](../items/Equipment_Terminal.md).
