@@ -43,7 +43,7 @@ upon, and doesn't do a lot of damage to them either. For more information see
 ## Tactical Resonance Area Protection (TRAP)
 
 The TRAP is designed as a roadblock, to prevent
-[vehicles](../vehicles/Vehicle.md) from accessing a certain road. The can take
+[vehicles](../vehicles/index.md) from accessing a certain road. The can take
 quite some damage before being destroyed, and do serious damage to anything that
 tries to ram them. For more information see
 [Tactical Resonance Area Protection](../weapons/Tactical_Resonance_Area_Protection.md).
@@ -106,5 +106,5 @@ The Deployable numbers will be upgraded to:
 Fortification Engineers use [Armor Canisters](../items/Armor_Canister.md) more
 efficiently, resulting in increased repair efficiency for
 [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) (1.5x, from 12 to 18),
-equipment, and [vehicles](../vehicles/Vehicle.md) (2x, from 32 to 64) over that
+equipment, and [vehicles](../vehicles/index.md) (2x, from 32 to 64) over that
 of a standard engineer.

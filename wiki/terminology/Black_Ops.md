@@ -7,7 +7,7 @@ Black Ops (BO) are the Super Soldiers of [PlanetSide](../PlanetSide.md).
 Having 1000 [Health](Health.md) and 500 [Stamina](Stamina.md) (which has a much
 higher regeneration rate than normal) and having access to all
 [certifications](../certifications/Certification.md), and therefor all
-[vehicles](../vehicles/Vehicle.md) and [weaponry](../weapons/Weapon.md) they are
+[vehicles](../vehicles/index.md) and [weaponry](../weapons/Weapon.md) they are
 a force to be reckoned with. Black Ops soldiers can only chose between
 [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) and
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md) and cannot choose

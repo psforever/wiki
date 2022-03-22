@@ -371,7 +371,7 @@ units but lack a punch in the armor piercing department
   with caution
 - Secondary firing also has a large cone of fire so be close to your enemy units
   if you want to do massive damage
-- Pistols deliver very low damage towards [vehicles](../vehicles/Vehicle.md) and
+- Pistols deliver very low damage towards [vehicles](../vehicles/index.md) and
   equipment
 
 MISSILE LAUNCHER with PROPELLED EXPLOSIVE - The
@@ -485,7 +485,7 @@ without need of the [certification](../certifications/Certification.md) on
 - Players are urged to get proper [Implants](../implants/index.md) before
   entering the zone such as [Darklight](../implants/Darklight.md) in order to
   see all apparitions.
-- The zone has limited [vehicles](../vehicles/Vehicle.md).
+- The zone has limited [vehicles](../vehicles/index.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This damage
   should slightly increase with [Melee Booster](../implants/Melee_Booster.md)
   implants.

@@ -7,7 +7,7 @@ The Vehicle Bay is in the basement, and is a large room with a
 [Vehicle Terminal](../locations/Vehicle_Terminal.md). Only
 [Ground Vehicles](:category:Ground_Vehicles) can be purchased there.
 
-Once a [vehicle](../vehicles/Vehicle.md) is created it is
+Once a [vehicle](../vehicles/index.md) is created it is
 [auto-driven](../terminology/Auto-drive.md) through a tunnel into the
 [Courtyard](Courtyard.md).
 

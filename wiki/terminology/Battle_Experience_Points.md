@@ -42,7 +42,7 @@ ANT Runs: A soldier successfully refueling a facility using an
 [Advanced Nanite Transport](../vehicles/Advanced_Nanite_Transport.md) (or
 [BFR](../vehicles/BattleFrame_Robotics.md)
 [NTU Siphon](../weapons/NTU_Siphon.md)) earns experience. The experience gained
-varies depending how muc../items/NTU.md./NTU.md) the base requires to reach 100%
+varies depending how much [NTU](../items/NTU.md) the base requires to reach 100%
 capacity, and is rationed out to the ANT owner in 20 BEP ticks during refueling.
 Squad mates within the same zone also receive 20 BEP for each tick. Note: You
 will only receive BEP for filling up a [neutral](Neutral.md) base if it has a

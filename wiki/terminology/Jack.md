@@ -3,7 +3,7 @@ The process of stealing an enemy vehicle using a
 [Advanced Hacking](../certifications/Advanced_Hacking.md)
 [certification](../certifications/Certification.md).
 
-To Jack a [vehicle](../vehicles/Vehicle.md), approach it and use the REK
+To Jack a [vehicle](../vehicles/index.md), approach it and use the REK
 anywhere on its surface so that the word "Jack" appears in the middle of your
 screen. A timer will appear, similar to other hacking tasks, after which the
 vehicle will change ownership to the hacker, and its color scheme will change to

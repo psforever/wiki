@@ -8,7 +8,7 @@ revamped [lattice](../../terminology/Lattice.md) went live online by being grant
 a lock on each of the four neutral continents and enjoying the benefits of each:
 
 - [Battle Islands](../../locations/Battle_Islands.md) - Provides a +5% armor bonus
-  to all [vehicles](../../vehicles/Vehicle.md) of that
+  to all [vehicles](../../vehicles/index.md) of that
   [Empire](../../terminology/Empire.md).
 - [Cyssor](../../locations/Cyssor.md) - Provides the benefit of a
   [Dropship Center](../../locations/Dropship_Center.md) connected to all of your

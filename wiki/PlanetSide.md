@@ -1,4 +1,6 @@
-![](images/PlanetSide_box.jpg){ class="figure" } [PlanetSide](PlanetSide.md)
+![](images/PlanetSide_box.jpg){ class="figure" }
+
+[PlanetSide](PlanetSide.md)
 is one of the first Massively-Multiplayer Online First Person Shooters (MMOFPS),
 and was published and developed by
 [Sony Online Entertainment](Sony_Online_Entertainment.md). The game was first

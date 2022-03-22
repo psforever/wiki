@@ -126,7 +126,7 @@ giving your bomber much more area to saturate in bombs and making it less likely
 that someone can dodge your pass.
 
 Generally, you want to avoid trying to bomb moving
-[vehicles](../../vehicles/Vehicle.md). But you can always try. Make sure to lead
+[vehicles](../../vehicles/index.md). But you can always try. Make sure to lead
 them enough. You will have to lead them much more than you think, and your
 bombardier needs to understand how to do this too for a successful kill.
 

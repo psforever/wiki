@@ -56,7 +56,7 @@ single Combat Engineer at any one time.
 ![](../images/HE_Mine.jpg){ class="figure" } The enemy of many a soldier, this
 proximity mine fortunately can tell friend from foe, but that's about it. Lay
 and pray is the motto to follow after deploying this devestating weapon. Harmful
-to both infantry and [vehicle](../vehicles/Vehicle.md) alike, the weapons litter
+to both infantry and [vehicle](../vehicles/index.md) alike, the weapons litter
 the battlefields. While not as versatile as
 [Boomers](#remote-detonated-charge-boomer) (they cannot be deployed indoors and
 cannot be remotely detonated), they make up for it in sheer force. Susceptible
@@ -70,7 +70,7 @@ may be deployed by a single Combat Engineer at any one time.
 
 ![](../images/Spitfire.jpg){ class="figure" } The bane of many a soldier, this
 deployable turret is a common sight on the battlefield. Set to automatically
-fire at any adversary (soldier or [vehicle](../vehicles/Vehicle.md)), the "Spit"
+fire at any adversary (soldier or [vehicle](../vehicles/index.md)), the "Spit"
 is a dangerous battlefield obstacle. [EMPs](../terminology/EMP.md) and
 [Jammer grenades](Jammer_Grenade.md) will disable them for a short period of
 time. Other methods of bypassing them include walking (default by holding left
@@ -89,7 +89,7 @@ remote weapons platform will not only shoot straight at friendly soldiers
 standing between them and any enemies it can see, but can also be destroyed by
 snipers with only two shots. When destroyed the Spitfire creates a large
 explosion capable of killing all infantry in close vicinity as well as damaging
-[Vehicles](../vehicles/Vehicle.md).
+[Vehicles](../vehicles/index.md).
 
 Players trained in the art
 [Data Corruption](../certifications/Data_Corruption.md) can corrupt the

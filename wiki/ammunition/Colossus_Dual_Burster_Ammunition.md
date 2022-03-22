@@ -13,5 +13,5 @@ fire similar to the [Burster](../armor/Burster.md)
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) weapon, though does less damage
 per shot. The boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
-[vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or acquired
+[vehicle](../vehicles/index.md)'s [trunk](../terminology/Trunk.md) or acquired
 while in the vehicle from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).

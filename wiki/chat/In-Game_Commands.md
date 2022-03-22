@@ -207,7 +207,7 @@ _[Command Rank](../terminology/Command_Rank.md) 5 ONLY:_
 _Only CSRs and other authorized [SOE](../Sony_Online_Entertainment.md)
 employees can use these commands_
 
-- **/create <name>** - Create specified [vehicle](../vehicles/Vehicle.md).
+- **/create <name>** - Create specified [vehicle](../vehicles/index.md).
 - **/sethealth <amount>** - Sets your [health](../terminology/Health.md).
 - **/setarmor <amount>** - Sets your armor.
 - **/setstamina <amount>** - Sets your [stamina](../terminology/Stamina.md).

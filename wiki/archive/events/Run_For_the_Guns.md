@@ -23,7 +23,7 @@ Whichever Empire has delivered the most Monolith Units will be considered the
 winner of the event.
 
 - The Winner will be able to purchase enemy weaponry from the equipment
-  terminals. Enemy [Vehicles](../../vehicles/Vehicle.md) and
+  terminals. Enemy [Vehicles](../../vehicles/index.md) and
   [MAXes](../../armor/Mechanized_Assault_Exo-Suit.md) will not be available (though
   their standard arsenal will be).
 - The Second Place Empire will be able to access weaponry from the Third Place

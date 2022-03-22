@@ -9,7 +9,7 @@
 | **Primary Weapon**         | 2 20mm Recoilless Cannons, 1 20mm Rotary Chaingun                                                                                           |
 | **Secondary Weapon**       | \-                                                                                                                                          |
 | **Ammunition Used**        | [Recoilless Cannon Bullets](../ammunition/Recoilless_Cannon_Bullets.md)                                                                     |
-| **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units, plus a [vehicle](Vehicle.md) and passengers) |
+| **Occupants**              | 12-15 (Pilot, 3 Gunners, 6 Passengers, 2 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units, plus a [vehicle](index.md) and passengers) |
 | **Handling**               | Very poor                                                                                                                                   |
 | **Top speed**              | 84 kph (152 with [Afterburners](../terminology/Afterburner.md))                                                                             |
 

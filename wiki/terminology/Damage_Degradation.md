@@ -22,7 +22,7 @@ damage at large distances and less damage at close distances.
 Some weapons do not suffer Damage Degradation. Shotgun-type weapons do not have
 Damage Degradation, yet their large [Cone of Fire](Cone_of_fire.md) means that
 you are unlikely to land any hits at large distances anyway. Many
-[vehicle](../vehicles/Vehicle.md) and beam-type weapons do not have Damage
+[vehicle](../vehicles/index.md) and beam-type weapons do not have Damage
 Degradation either.
 
 The following suffer from Damage Degradation:
@@ -35,7 +35,7 @@ The following suffer from Damage Degradation:
 - [Mini-Chaingun](../weapons/Mini-Chaingun.md)
 - [Orion](../weapons/Orion.md)
 - [Avenger](../weapons/Avenger.md)
-- All 12mm, 15mm, 20mm, 25mm, and 35mm [vehicle](../vehicles/Vehicle.md) weapons
+- All 12mm, 15mm, 20mm, 25mm, and 35mm [vehicle](../vehicles/index.md) weapons
 - [Continuous Laser](../weapons/Continuous_Laser.md)
 - [Anti-Tank Machine Gun](../weapons/Anti-Tank_Machine_Gun.md)
 - [Rotary Chaingun](../items/Rotary_Chaingun.md)

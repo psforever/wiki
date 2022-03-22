@@ -21,4 +21,4 @@
    - Dematerializing of objects, such as [backpacks](Backpack.md), in areas of
      heavy population or activity to reduce lag.
    - Manual deconstruction of a vehicle by the player from their
-     [vehicle](../vehicles/Vehicle.md) management window.
+     [vehicle](../vehicles/index.md) management window.

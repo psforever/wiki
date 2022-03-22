@@ -1,6 +1,6 @@
 ![
 [Vanguard](Vanguard.md)
-[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" } [Vehicles](Vehicle.md) are an essential part to
+[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" } [Vehicles](index.md) are an essential part to
 [PlanetSide](../PlanetSide.md) as they are the main mode of transport
 between [facilities](../locations/Facilities.md) and are the most powerful units
 on the battlefield. In PlanetSide, there are many different types of vehicles,
@@ -372,5 +372,4 @@ strafe into the Lodestar sideways._
 
 ## See Also
 
-- [Vehicle Index](category:_Vehicles.md)
 - [Vehicular Merit Commendations](../merits/Vehicular_Merit_Commendations.md)

@@ -31,7 +31,7 @@ are hiding behind a wall and is especially effective in groups of users.
 
 The secondary [Armor Piercing](../terminology/Armor_Piercing.md) fire mode is
 best used against [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) and light
-[vehicles](../vehicles/Vehicle.md). This mode lacks the lash effect and the orbs
+[vehicles](../vehicles/index.md). This mode lacks the lash effect and the orbs
 are colored purple.
 
 A non-native user will be unable to obtain the energy ammunition from equipment

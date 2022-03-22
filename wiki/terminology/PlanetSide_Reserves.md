@@ -20,7 +20,7 @@ received access to [AfterShock](../AfterShock.md) content.
 - Characters limited to Command Rank 2 and [CEP](Command_Experience_Points.md)
   stopped accruing
 - Characters could enter the [Caverns](../locations/Caverns.md) and use
-  [Ancient Tech](Ancient_Technology.md) [vehicles](../vehicles/Vehicle.md) and
+  [Ancient Tech](Ancient_Technology.md) [vehicles](../vehicles/index.md) and
   [weapons](../weapons/index.md), but could not
   [Imprint](BFR_Imprint.md) for [BFRs](../vehicles/BattleFrame_Robotics.md),
   although the pre-requisites for Imprinting could be earned

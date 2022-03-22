@@ -59,7 +59,7 @@ Advanced Hacking Certification:
 - Hack [Vehicle Terminals](../locations/Vehicle_Terminal.md)
 - Hack [Advanced Medical Terminals](../items/Advanced_Medical_Terminal.md)
 - [Jack](../terminology/Jack.md) **Empty** Enemy
-  [Vehicles](../vehicles/Vehicle.md)
+  [Vehicles](../vehicles/index.md)
 - Deconstruct Enemy [One-Manned Field Turrets](One-Manned_Field_Turret.md)
 - Hack [Main Consoles](../items/Main_Terminal.md) (in special circumstances)
 
@@ -85,4 +85,4 @@ The REK of an Expert Hacker emits a **blue** beam.
 
 The effects of hacking are temporary in all cases except the
 [Control Console](../locations/Control_Console.md), Enemy
-[Vehicles](../vehicles/Vehicle.md), and Enemy One-Manned Field Turrets.
+[Vehicles](../vehicles/index.md), and Enemy One-Manned Field Turrets.

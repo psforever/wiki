@@ -12,7 +12,7 @@ The Data Corruption certification enables the soldier to turn to the dark side
 of hacking. With access to the [T-REK](../weapons/T-REK.md), the soldier has the
 following abilities:
 
-- Infect [vehicles](../vehicles/Vehicle.md)' control systems, resulting in
+- Infect [vehicles](../vehicles/index.md)' control systems, resulting in
   decreased speed and turn rate
 - Install a [virus](../terminology/Virus.md) into a facility's
   [Main Terminal](../items/Main_Terminal.md) for a variety of effects (<i>see

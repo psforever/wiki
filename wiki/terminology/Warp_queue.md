@@ -9,7 +9,7 @@ The character's position in the queue is displayed in a small box on the
 [Continental Map](Continental_Map.md). A 'cancel' button is also provided
 to allow players a chance to travel to a different zone. If the player chooses
 to cancel from the queue, he will lose his place in line. If the driver leaves a
-[vehicle](../vehicles/Vehicle.md) while in the queue, he will also lose his
+[vehicle](../vehicles/index.md) while in the queue, he will also lose his
 place. Any character entering a vehicle where the driver is already in the queue
 will share the driver's space in the queue. This latter also creates the need
 for enough slots to fill up to handle all occupants of the vehicle.

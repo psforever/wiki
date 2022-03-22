@@ -97,7 +97,7 @@ Planetside.
 Caver, Ferret : Soldiers who battle in the [Caverns](../locations/Caverns.md).
 CC : [Control Console](../locations/Control_Console.md), the capture point for
 [bases](../locations/Facilities.md) and [towers](../locations/Towers.md). Also
-refers to [Cor../items/Core_Combat.md_Combat.md). Click-Click: a historical way
+refers to [Core Combat](../items/Core_Combat.md). Click-Click: a historical way
 radio operators would acknowledge receipt of a transmission by sending 2 short
 "clicks" of static ("Everyone understand?" reply: "cc"). CEP :
 [Command Experience Points](Command_Experience_Points.md) The experience points
@@ -250,12 +250,12 @@ KAAOS Drop : Named after the [Emerald](../archive/servers/Emerald.md)
 [TR](Terran_Republic.md) outfit [KAAOS](../archive/outfits/KAAOS.md). Using
 [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective,
 similar to a [Galaxy](../vehicles/Galaxy.md) drop, but twice the air speed of a
-vehicles/Galaxy.mdGalaxy.md). This drop would then be followed by a
+[Galaxy](../vehicles/Galaxy.md). This drop would then be followed by a
 [surge](../implants/Surge.md) run to a specific objective in the base. Killwhore
 : Player whose only purpose of the game is (or appears to be) the rapid increase
 of their kill count, whether highly skilled at it or not. Kitchen (aka Barracks)
 : Refers to the [lounge](../merits/Lounge.md) that is behind the
-[spawn room](Spawn_Room.md) KS : Kill Steal, someone taking the kill after you
+[spawn room](../locations/Spawn_Room.md) KS : Kill Steal, someone taking the kill after you
 did most of the work for it. KSer : Kill Stealer, someone who takes the last hit
 and is awarded the kill after you did all the damage to the target. KK : Ok.
 
@@ -264,7 +264,7 @@ and is awarded the kill after you did all the damage to the target. KK : Ok.
 laze : to mark a location with the [Laze Pointer](../weapons/Laze_Pointer.md).
 LD : Linkdead; lost connection to server. LFS, LFSM, LFO, LFP : Looking For
 [Squad](Squad.md), Looking for Squad Members, Looking For [Outfit](Outfit.md),
-Looking for [Platoon](Platoon.md Lib/Libby :
+Looking for [Platoon](Platoon.md) Lib/Libby :
 [Liberator](../vehicles/Liberator.md) Lith : [Monolith](../items/Monolith.md).
 Litterbox/Sandbox : [Lodestar](../vehicles/Lodestar.md). LLU :
 [Lattice Logic Unit](Lattice_Logic_Unit.md). Capture the flag element of
@@ -308,11 +308,11 @@ pinvite : [Platoon](Platoon.md) Invite PJ , PJ's , Pajamas : Refers to the
 kills another player, but this more often used in par to "TK". PKer : Someone
 who makes a habit of killing others. This is often used in place of TKer. pl :
 [Platoon Leader](Platoon_Leader.md) poplock, pop lock : [Population
-lock](Population_Lock.md Potato : The [Spiker](Spiker.md) present :
-[High Explosive Mine](High_Explosive_Mine.md) ("I left some presents by the
+lock](Population_Lock.md) Potato : The [Spiker](../weapons/Spiker.md) present :
+[High Explosive Mine](../weapons/High_Explosive_Mine.md) ("I left some presents by the
 [BD](../locations/Back_Door.md).") PS :
 [Personal Shield](../implants/Personal_Shield.md),
-[Pla../etc/PlanetSide.mdetSide.md)
+[PlanetSide](../PlanetSide.md)
 
 ## Q
 
@@ -434,11 +434,11 @@ and have them beat on the VS at Ogma for a bit."_
 
 ## Outfit Acronyms
 
-666th : [666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs")
+666th : [666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_"Devil_Dogs".md)
 [Outfit](Outfit.md) ([NC](New_Conglomerate.md)) 88s : Crazy 88s Outfit
 (NC) AC : Ahriman Corps Outfit ([VS](Vanu_Sovereignty.md)) AT : Azure
 Twilight Outfit (VS) AO : Adrenaline Ops Outfit (VS) CS : Central Spike Outfit
-(VS) DD's : [666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs")
+(VS) DD's : [666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_"Devil_Dogs".md)
 Outfit (NC) DS : [Dark Skyes](../archive/outfits/Dark_Skyes.md) (TR) DT :
 [Delta Triad](../archive/outfits/Delta_Triad.md) Outfit (VS) FC :
 [Future Crew](../archive/outfits/Future_Crew.md) Outfit (VS) HG : Hired Guns Outfit (NC)
@@ -453,4 +453,4 @@ DEAD Outfit (TR) TRx :
 (TR) ULTRA : United League of Terran Republic Alliances (TR) VC :
 [Victor Company](../archive/outfits/Victor_Company.md) Oufit (NC) And
 [Vanu Corporation](../archive/outfits/Vanu_Corporation.md) (VS) WNx :
-[Warrior Nation](Warrior_Nation.md) Outfit (VS)
+Warrior Nation Outfit (VS)

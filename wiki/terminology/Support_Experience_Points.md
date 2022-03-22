@@ -21,7 +21,7 @@ activities. "Support" includes:
 - Owning a deployed [router](../vehicles/Router.md) or placing a
   [telepad](../weapons/Telepad.md) that soldiers use and then score kills
 - Owning a [lodestar](../vehicles/Lodestar.md) that
-  [vehicles](../vehicles/Vehicle.md) either repair or rearm at and then score
+  [vehicles](../vehicles/index.md) either repair or rearm at and then score
   kills
 
 Unlike base capture or kill [BEP](Battle_Experience_Points.md), you will not be

@@ -15,7 +15,7 @@
 **One-Manned Field Turret (OMFT)**
 
 The One-Manned Field Turrets are designed to supress Infantry, and deal good
-damage against ground and air [Vehicles](../vehicles/Vehicle.md).
+damage against ground and air [Vehicles](../vehicles/index.md).
 
 All three [Empires](../terminology/Empire.md) have their own variant of the
 OMFT, the [New Conglomerate](../terminology/New_Conglomerate.md) has the

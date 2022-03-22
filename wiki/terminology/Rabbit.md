@@ -17,7 +17,7 @@ before any other empire can reach the same point goal.
 ## The Rabbit Carrier
 
 Any player of any empire can pick up the Rabbit ball. That player can also get
-into a friendly ground [vehicle](../vehicles/Vehicle.md), subject to the same
+into a friendly ground [vehicle](../vehicles/index.md), subject to the same
 vehicle restrictions as an [LLU](Lattice_Logic_Unit.md) or
 [Module](../modules/index.md) carrier. However, there are additional restrictions
 for the Rabbit ball carrier.

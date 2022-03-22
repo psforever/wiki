@@ -213,7 +213,7 @@
 </table>
 
 This seven-level Merit is earned by destroying the following
-[Vehicles](../vehicles/Vehicle.md):
+[Vehicles](../vehicles/index.md):
 
 - [Advanced Mobile Station](../vehicles/Advanced_Mobile_Station.md)
   ([AMS](../vehicles/Advanced_Mobile_Station.md))

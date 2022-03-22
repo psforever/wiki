@@ -340,7 +340,7 @@ There are rules that **must** be followed when building loadouts:
 - You must be in [Agile Armor](../../armor/Agile_Exo-Suit.md)
 
 Three Decimators give you a total of nine shots. Typical
-[Gunner Variant BFRs](../../vehicles/BattleFrame_Robotics.md#The_Variants) take 4-5
+[Gunner Variant BFRs](../../vehicles/BattleFrame_Robotics.md#the-variants) take 4-5
 decimator shots. This is assuming you hit the armor with every shot. While this
 only requires 2 decimators, the third one is needed for the deci-swap technique
 itself (plus it's insurance for those of us with either bad aim or lousy pings).
@@ -360,8 +360,7 @@ payload.
 <tr>
 <td width=390 valign=center align=center>
 
-![](../../images/BFRHunter-MALoadout.gif){ class="figure" } <small>Example of a
-"Poor Man's Loadout"</small>
+![Example of a Poor Man's Loadout](../../images/BFRHunter-MALoadout.gif){ class="figure" }
 
 </td>
 <td valign=top>

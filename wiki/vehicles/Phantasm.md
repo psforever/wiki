@@ -23,7 +23,7 @@ to be purchasable. It can carry 4 passengers and can be cloaked by the pilot by
 pressing the "B" key by default.
 
 Traveling at speeds greater than 40 km/h (between 20% and 30% throttle) will
-make the [vehicle](Vehicle.md) slightly visible (note that at 30% throttle (42
+make the [vehicle](index.md) slightly visible (note that at 30% throttle (42
 km/h) you will appear cloaked on your screen but others will see a slight
 outline). Strafing, rising, or descending while traveling over 14 km/h will also
 expose the aircraft. Traveling at speeds above 50% throttle will create visible

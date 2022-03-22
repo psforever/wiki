@@ -28,7 +28,7 @@ All players will be able to use
 - Players are urged to get proper [Implants](../../implants/index.md) before
   entering the zone such as [Darklight](../../implants/Darklight.md) in order to
   see all apparitions.
-- The zone has limited [vehicles](../../vehicles/Vehicle.md).
+- The zone has limited [vehicles](../../vehicles/index.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This damage
   should slightly increase with [Melee Booster](../../implants/Melee_Booster.md)
   implants.

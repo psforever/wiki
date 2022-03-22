@@ -12,6 +12,6 @@ The [Skyguard](../vehicles/Skyguard.md) requires a
 [Technology Plant](../locations/Technology_Plant.md) in order to be purchasable.
 
 Due to the Open-Air Compartment, it is possible to drive all of these
-[vehicles](../vehicles/Vehicle.md) while wearing
+[vehicles](../vehicles/index.md) while wearing
 [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md). Additionally, the driver
 of these vehicles may bail out at any time.

@@ -8,7 +8,7 @@
 | [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Air):           | Courtyard                                                       |
 | [Vehicle Terminal](../locations/Vehicle_Terminal.md) (Ground):        | Courtyard                                                       |
 | [Lattice Logic Unit](../terminology/Lattice_Logic_Unit.md) Socket:    | Air Vehicle Terminal Room                                       |
-| [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | [Vehicle](../vehicles/Vehicle.md) Repair (benefit icon: wrench) |
+| [Facility Linked Benefit](../terminology/Facility_Linked_Benefit.md): | [Vehicle](../vehicles/index.md) Repair (benefit icon: wrench) |
 | [Wall Turrets](../items/Phalanx.md):                                  | 8                                                               |
 |                                                                       |                                                                 |
 

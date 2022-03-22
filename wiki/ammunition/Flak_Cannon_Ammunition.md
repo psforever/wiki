@@ -9,7 +9,7 @@
 
 These rounds explode in the proximity to enemy aircraft. The rounds do minor
 damage to [infantry](../terminology/Infantry.md) and
-[vehicles](../vehicles/Vehicle.md) and can pass through the shields of
+[vehicles](../vehicles/index.md) and can pass through the shields of
 [BFRs](../vehicles/BattleFrame_Robotics.md). The boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
 vehicle's [trunk](../terminology/Trunk.md) or acquired while in the vehicle from

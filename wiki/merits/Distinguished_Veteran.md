@@ -90,5 +90,5 @@
 
 These merits are awarded to characters playing on the [Gemini](../archive/servers/Gemini.md)
 server that were previously on the [Markov](../archive/servers/Markov.md),
-[Emerald](../archive/servers/Emerald.md), ../archive/servers/Werner.mdtc/Werner.md) servers. The
+[Emerald](../archive/servers/Emerald.md), [Werner](../archive/servers/Werner.md) servers. The
 appropriate merit is awarded the first time the character logs into Gemini.

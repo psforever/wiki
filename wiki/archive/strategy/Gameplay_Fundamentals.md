@@ -13,7 +13,7 @@ Gameplay Fundamentals: How to do things, and what you may want to do.
   [Implants](../../implants/index.md),
   [Certifications](../../certifications/Certifications.md)
 - [Heads-up Display](../../terminology/Heads-up_Display.md)(HUD): In-Game
-  [Weapon](../../weapons/Weapon.md) & [Vehicle](../../vehicles/Vehicle.md) use, Icons,
+  [Weapon](../../weapons/Weapon.md) & [Vehicle](../../vehicles/index.md) use, Icons,
   Status bars
 - [Menus](../../terminology/Menu.md)
 - [Maps](../../terminology/Map.md)

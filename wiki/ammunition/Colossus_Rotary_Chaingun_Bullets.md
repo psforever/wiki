@@ -13,5 +13,5 @@ rounds shred infantry at close range, but lose effectiveness at longer ranges as
 it suffers from [Damage Degradation](../terminology/Damage_Degradation.md). The
 boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
-[vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or acquired
+[vehicle](../vehicles/index.md)'s [trunk](../terminology/Trunk.md) or acquired
 while in the vehicle from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).

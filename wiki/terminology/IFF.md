@@ -12,7 +12,7 @@ and use its benefits but disallowing enemies. Objects which use IFF are:
 - [Equipment terminals](../items/Equipment_Terminal.md)
 - [Medical terminals](../items/Medical_Terminal.md)
 - [Lockers](../items/Lockers.md)
-- [Vehicles](../vehicles/Vehicle.md)
+- [Vehicles](../vehicles/index.md)
 - [Spawn tubes](../items/Respawn_Tube.md)
 - Facility [Main terminals](../items/Main_Terminal.md)
 

@@ -93,7 +93,7 @@ So far, the following vehicles can no longer be constructed:
 - [Lightning](../../vehicles/Lightning.md)
 
 Eventually, players received messages informing them that to restore their lost
-[vehicles](../../vehicles/Vehicle.md), they needed to capture
+[vehicles](../../vehicles/index.md), they needed to capture
 [cavern](../../locations/Caverns.md) facilities to gain nanites. Everytime a cavern
 locked, a status bar would reflect the change in recovery based on how much they
 controlled. The vehicles that were removed last, were restored first, and this

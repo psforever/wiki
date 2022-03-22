@@ -75,7 +75,7 @@ These messages are color-coded per empire.
   hits the ground) will also result in white killspam. Special CSR abilities
   like [meteor](../items/Meteor.md) showers or CSR Orbital Strikes also appear
   as white in the killspam. In these cases the name of the
-  [weapon](../weapons/Weapon.md)/[vehicle](../vehicles/Vehicle.md) that killed
+  [weapon](../weapons/Weapon.md)/[vehicle](../vehicles/index.md) that killed
   the player is listed under <killing player name> (ie. orbital_strike_big,
   orbital_strike_small, Mosquito) and a white skull as <weapon icon>.
 

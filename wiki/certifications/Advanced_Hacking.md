@@ -11,7 +11,7 @@
 The **Advanced Hacking** certification further reduces the time needed to
 [hack](../terminology/Hack.md) objects with a
 [REK](../weapons/Remote_Electronics_Kit.md). It also gives the ability to
-[jack](../terminology/Jack.md) Enemy [Vehicles](../vehicles/Vehicle.md) (the
+[jack](../terminology/Jack.md) Enemy [Vehicles](../vehicles/index.md) (the
 vehicle needs to be empty for it to work),
 [One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md) (occupied or
 not, but will deconstruct instead of switching to the hacker's Empire), and hack

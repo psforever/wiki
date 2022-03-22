@@ -37,7 +37,7 @@ at bottom.
 - [1.5](1.5.md) - [Skyguard](../vehicles/Skyguard.md),
   [Liberator](../vehicles/Liberator.md)
   _[Certification](../certifications/Certification.md)_, and
-  [Orbital Strikes](../terminology/Orbital_Strike.md)/[EMP../terminology/EMP.md.md) go
+  [Orbital Strikes](../terminology/Orbital_Strike.md)/[EMP](../terminology/EMP.md) go
   live! Respawn into hacked bases available.
   [Hotspot](../terminology/Hotspot.md) improvements.
 
@@ -330,7 +330,7 @@ at bottom.
   [LFS](../terminology/LFS.md) revisions go live!
   [TR](../terminology/Terran_Republic.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
   allowed to shoot while (un)anchoring, minor
-  [Vehicle](../vehicles/Vehicle.md)/[BFR](../vehicles/BattleFrame_Robotics.md)
+  [Vehicle](../vehicles/index.md)/[BFR](../vehicles/BattleFrame_Robotics.md)
   tweaks, Help-Star/[HUD](../terminology/Heads-up_Display.md) fixes, the end of looting
   knives.
 - [3.9.5 Brief Update](3.9.5_Brief_Update.md) -
@@ -586,7 +586,7 @@ at bottom.
 ### August
 
 - [Server Merge patch](Unnumbered_Patches.md#server-merge-and-lasher-nerf-08252009)
-  -Merged [Gemini](../archive/servers/Gemini.md) a../archive/servers/Werner.mdtc/Werner.md),
+  -Merged [Gemini](../archive/servers/Gemini.md) and [Werner](../archive/servers/Werner.md),
   [Lasher](../weapons/Lasher.md) nerf.
 
 ### October

@@ -16,7 +16,7 @@ zipline). These transportation devices are found throughout each cavern,
 allowing access to high buildings as well as rapid movement through the access
 tunnels and [Troop Tunnels](../locations/Troop_Tunnel.md).
 
-[Vehicles](../vehicles/Vehicle.md) attempting to enter a zipline (or merely
+[Vehicles](../vehicles/index.md) attempting to enter a zipline (or merely
 moving to a point where they are touching any part of the zipline) will take
 damage. Vehicles parked too close to a zipline node will be given a warning for
 deconstruction. Ziplines are different from teleporters in that they are not

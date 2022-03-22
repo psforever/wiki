@@ -10,12 +10,12 @@ The following features/settings changes are added for the Event.
   and long range proximities to your other squad members
 - We doubled the amount of time that you can get
   [Support Experience](../../terminology/Support_Experience_Points.md) from other
-  soldiers or [vehicles](../../vehicles/Vehicle.md) in these areas:
+  soldiers or [vehicles](../../vehicles/index.md) in these areas:
   - Soldiers spawning and re-equipping at your
     [AMS](../../vehicles/Advanced_Mobile_Station.md)
   - Healing and reviving soldiers
   - Repairing another soldiers armor
-  - Repairing a damaged [vehicle](../../vehicles/Vehicle.md)
+  - Repairing a damaged [vehicle](../../vehicles/index.md)
   - Vehicles rearming or repairing at your [Lodestar](../../vehicles/Lodestar.md)
   - Soldiers using your hacked Medical, Equipment, Vehicle or BFR terminal
   - Soldiers bailing from your [Galaxy](../../vehicles/Galaxy.md)

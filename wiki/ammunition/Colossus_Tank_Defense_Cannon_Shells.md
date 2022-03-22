@@ -12,6 +12,6 @@ These 75mm shells are used by the anti-armor weapon on the
 rounds are similar to the [Lightning Shells](Lightning_Shell.md) used by other
 vehicles, but these have a slightly faster velocity. The boxes can be obtained
 from any [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded
-into the [vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or
+into the [vehicle](../vehicles/index.md)'s [trunk](../terminology/Trunk.md) or
 acquired while in the vehicle from a
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).

@@ -6,7 +6,7 @@ Merit Commendations are awards for certain activities done within the game. This
 includes:
 
 - Kills using certain [weapons](../weapons/Weapon.md) or
-  [vehicles](../vehicles/Vehicle.md)
+  [vehicles](../vehicles/index.md)
 - Destroying a specific kind of unit
 - Kills under certain circumstances
 - Supporting/Assisting other players
@@ -110,7 +110,7 @@ can Support someone and gain Kill Assists and Support Experience Points through
 one of the following activities:
 
 - Healing another Soldier
-- Repairing another Soldier or [Vehicle](../vehicles/Vehicle.md) with either a
+- Repairing another Soldier or [Vehicle](../vehicles/index.md) with either a
   [Nano Dispenser](../weapons/Nano_Dispenser.md),
   [BANK](../weapons/Body_Armor_Nano_Kit.md) or
   [Lodestar](../vehicles/Lodestar.md)

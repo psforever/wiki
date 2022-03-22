@@ -1,6 +1,6 @@
 [Support](Support.md) roles involve helping other members of your team in any
 manner. This can include healing other players, repairing other players and
-[vehicles](../vehicles/Vehicle.md), reviving fallen comrades, Hacking Terminals
+[vehicles](../vehicles/index.md), reviving fallen comrades, Hacking Terminals
 and [Lockers](../items/Lockers.md) for your teammates to use, and driving the
 support vehicles.
 
@@ -44,7 +44,7 @@ Available [Merit Commendations](../merits/index.md):
 
 Equipment Support involves using a
 [Nano Dispenser](../weapons/Nano_Dispenser.md) from the Engineering
-certification to repair [vehicles](../vehicles/Vehicle.md),
+certification to repair [vehicles](../vehicles/index.md),
 [Phalanx](../items/Phalanx.md) turrets, and
 [Spitfires](../weapons/Adaptive_Construction_Engine.md#spitfire-turret).
 Generally, it is more difficult to find dedicated Equipment supporters in the
@@ -79,7 +79,7 @@ Available [Merit Commendations](../merits/index.md):
 ## Vehicular Support
 
 Vehicular Support involves using one of the support
-[vehicles](../vehicles/Vehicle.md) in [PlanetSide](../PlanetSide.md) to its full
+[vehicles](../vehicles/index.md) in [PlanetSide](../PlanetSide.md) to its full
 use to help your empire. This is extremely important, as many of these vehicles
 fill roles that are absolutely necessary for the gameplay to flow.
 
@@ -116,7 +116,7 @@ Available [Merit Commendations](../merits/index.md):
 
 ### Lodestar Support
 
-When a [vehicle](../vehicles/Vehicle.md) is heavily damaged and far into enemy
+When a [vehicle](../vehicles/index.md) is heavily damaged and far into enemy
 territory without an Engineer nearby to repair him, the
 [Lodestar](../vehicles/Lodestar.md) is where he turns. A floating
 [repair silo](../items/Repair_Rearm_Silo.md), the lodestar provides much needed

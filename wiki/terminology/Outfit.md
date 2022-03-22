@@ -5,7 +5,7 @@ A player created and organized group of at least 2 players within the same
 Aerial Combat, Sabotage, etc.) Outfits have the ability to earn
 [Outfit Points](Outfit_Points.md). Once an Outfit has attained 10.000 Outfit
 Points it may attain an Outfit Decal for use on
-[vehicles](../vehicles/Vehicle.md) and armor owned by it's members. Outfit chat
+[vehicles](../vehicles/index.md) and armor owned by it's members. Outfit chat
 is accessed by typing "/o" in front of your message. Other Communication
 Commands can be found under the [Commands](../chat/Chat_Commands.md)
 Section.

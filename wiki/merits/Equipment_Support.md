@@ -222,7 +222,7 @@ This Merit is rewarded for kills scored by equipment that were damaged by Enemy
 Fire then repaired by you. These include:
 
 - [Phalanx](../items/Phalanx.md) Wall Turrets (manned or unmanned)
-- All [Vehicles](../vehicles/Vehicle.md)
+- All [Vehicles](../vehicles/index.md)
 - [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret)
 - [Cerberus Turrets](../weapons/Cerberus_Turret.md)
 - [Shadow Turrets](../weapons/Shadow_Turret.md)

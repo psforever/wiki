@@ -23,7 +23,7 @@ The T-REK's abilities are aimed at crippling the enemy forces in a variety of
 ways. It can upload viruses into the [Main Terminal](../items/Main_Terminal.md)
 of an enemy [Facility](../locations/Facilities.md) causing certain benefits of
 that Facility to be temporarily lost, it can disrupt enemy
-[vehicles](../vehicles/Vehicle.md) causing certain problems like reduced speed
+[vehicles](../vehicles/index.md) causing certain problems like reduced speed
 and handling or inverted controls (left becomes right, and vice versa) and it
 can even turn an [Empires](../terminology/Empire.md) own equipment against it.
 
@@ -52,7 +52,7 @@ will hinder the enemy instead of helping them:
 
 The primary fire of the T-REK contains 4 shots (similar to the
 [Decimator](Decimator.md)) that will disrupt enemy
-[vehicles](../vehicles/Vehicle.md) which can cause a number of effects;
+[vehicles](../vehicles/index.md) which can cause a number of effects;
 
 - Vehicle speed is reduced
 - Decreased handling

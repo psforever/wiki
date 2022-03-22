@@ -16,7 +16,7 @@
 
 The [Nano Dispenser](Nano_Dispenser.md) (commonly referred to as the _glue gun_
 or _repair gun_) allows for field repair of all "destroyable" equipment, i.e.,
-[vehicles](../vehicles/Vehicle.md), all [turrets](../terminology/Turret.md),
+[vehicles](../vehicles/index.md), all [turrets](../terminology/Turret.md),
 [equipment terminals](../items/Equipment_Terminal.md),
 [medical terminals](../items/Medical_Terminal.md),
 [certification terminals](../items/Certification_Terminal.md),

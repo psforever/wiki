@@ -5,9 +5,9 @@ This series of [Merit Commendations](index.md) is awarded for:
 - Character Age
 - Mowing enemies
 - Killing [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units
-- Jacking Enemy [Vehicles](../vehicles/Vehicle.md)
+- Jacking Enemy [Vehicles](../vehicles/index.md)
 
-**Note that [Vehicles](../vehicles/Vehicle.md) that you have destroyed only
+**Note that [Vehicles](../vehicles/index.md) that you have destroyed only
 count towards a certain Merit if the Vehicle had occupants.**
 
 <hr>

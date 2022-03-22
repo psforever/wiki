@@ -107,7 +107,7 @@ Also, many weapons have two types of ammo: standard ammo and AP ammo. Standard
 ammo is white in color, and is designed to take out other infantry. AP ammo is
 gold in color, and is designed to take out enemy
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s and
-[vehicles](../vehicles/Vehicle.md). The only weapons with these sorts of
+[vehicles](../vehicles/index.md). The only weapons with these sorts of
 restrictions are [Standard Assault](../certifications/Standard_Assault.md),
 [Medium Assault](../certifications/Medium_Assault.md), and
 [Heavy Assault](../certifications/Heavy_Assault.md) weapons.

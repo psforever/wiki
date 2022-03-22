@@ -25,7 +25,9 @@ while the online division spun off and, at first, became RedEye Interactive and
 then finally becoming known as Verant Interactive.
 
 _EverQuest_ became immensely popular and gained ten expansion packs, a sequel,
-and numerous spin off games. ![](images/Star_Wars_Galaxies_Box_Art.jpg){ class="figure" }
+and numerous spin off games.
+
+![](images/Star_Wars_Galaxies_Box_Art.jpg){ class="figure" }
 
 ### Star Wars Galaxies
 

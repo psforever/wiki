@@ -12,6 +12,6 @@ These 15mm rounds are used by the
 [Prowler](../vehicles/Prowler.md). They do decent damage to all targets but
 suffer from somewhat severe damage reduction at longer distances. The boxes can
 be obtained from any [Equipment Terminal](../items/Equipment_Terminal.md) to be
-hand-loaded into the [vehicle](../vehicles/Vehicle.md)'s
+hand-loaded into the [vehicle](../vehicles/index.md)'s
 [trunk](../terminology/Trunk.md) or acquired while in the vehicle from a
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md).

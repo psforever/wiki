@@ -26,7 +26,7 @@ the others.
 TRAPs are solid objects, which can take quite a punch before being destroyed
 (having 5000 armor points, which is the same armor as a
 [Lodestar](../vehicles/Lodestar.md)), and will do damage to anything that tries
-to ram it. Friendly [vehicles](../vehicles/Vehicle.md) will pass through
+to ram it. Friendly [vehicles](../vehicles/index.md) will pass through
 friendly TRAPs, similar to passing through vehicles in
 [Warpgates](../locations/Warpgate.md). Infantry however cannot pass through it.
 

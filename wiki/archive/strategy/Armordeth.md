@@ -5,7 +5,9 @@ completion at a [Searhus](../../locations/Searhus.md)
 [Back Door](../../locations/Back_Door.md)](../../images/Armordeth_ANT_Trap.jpg){ class="figure" }
 ![ Trap nears completion
 at a [Searhus](../../locations/Searhus.md)
-[Back Door](../../locations/Back_Door.md)](../../images/ANT_Trap_Above.jpg){ class="figure" } What is it? Well after watching all my
+[Back Door](../../locations/Back_Door.md)](../../images/ANT_Trap_Above.jpg){ class="figure" }
+
+What is it? Well after watching all my
 [CE](../../certifications/Combat_Engineering.md) get [EMP](../../terminology/EMP.md)'ed
 over and over again. I though, what if an ant was blocking the door and they
 emp'ed all my mines and it blew the

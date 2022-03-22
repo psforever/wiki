@@ -72,7 +72,7 @@ listed above:
 
 <!-- -->
 
-- **Vehicle Waypoint**: If you own a [vehicle](../vehicles/Vehicle.md), but are
+- **Vehicle Waypoint**: If you own a [vehicle](../vehicles/index.md), but are
   not currently operating it, a yellow rectangle will appear on the proximity
   map pointing in the direction of your vehicle if it is not within the range of
   the proximity map's current zoom setting.

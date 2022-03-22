@@ -3,7 +3,7 @@ robots (or mecha) of the PlanetSide universe.
 
 |     |     |     |
 | --- | --- | --- |
-| ![Colussus.jpg](../images/Colussus.jpg "fig:Colussus.jpg"), the [TR](../terminology/Terran_Republic.md "wikilink") gunner variant BFR.\]\] | ![AphelionPicture.jpg](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg"), the [VS](../terminology/Vanu_Sovereignty.md "wikilink") gunner variant BFR.\]\] | ![NC_Peregrine.jpg](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg"), the [NC](../terminology/New_Conglomerate.md "wikilink") gunner variant BFR.\]\] |
+| ![Colussus.jpg](../images/Colussus.jpg "fig:Colussus.jpg"), the [TR](../terminology/Terran_Republic.md) gunner variant BFR.\]\] | ![AphelionPicture.jpg](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg"), the [VS](../terminology/Vanu_Sovereignty.md) gunner variant BFR.\]\] | ![NC_Peregrine.jpg](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg"), the [NC](../terminology/New_Conglomerate.md) gunner variant BFR.\]\] |
 
 ### The Story
 

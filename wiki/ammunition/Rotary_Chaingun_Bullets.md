@@ -15,6 +15,6 @@ the damage is low. However, the bullets pass through the shields of
 [BFRs](../vehicles/BattleFrame_Robotics.md), giving you the possibility of
 damaging some of its systems. The boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
-[vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or acquired
+[vehicle](../vehicles/index.md)'s [trunk](../terminology/Trunk.md) or acquired
 while in the vehicle from a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md)
 or [Landing Pad](../items/Landing_Pad.md).

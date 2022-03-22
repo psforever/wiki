@@ -6,7 +6,7 @@ non-passive defensive installations of
 [towers](../locations/Towers.md).
 
 When unmanned, the **Phalanx** can track and fire upon larger
-[vehicles](../vehicles/Vehicle.md) and aircraft, as well as
+[vehicles](../vehicles/index.md) and aircraft, as well as
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) units (only if they are in run
 mode). [ATVs](<../certifications/ATV_(Certification).md>),
 [Harassers](../vehicles/Harasser.md), and [Mosquitos](../vehicles/Mosquito.md)
@@ -49,5 +49,5 @@ When firing in auto-fire mode, upgraded turrets only fire standard rounds.
 Soldiers certed in [Data Corruption](../certifications/Data_Corruption.md) can
 infect enemy Wall Turrets causing them to fire at their own Empire, instead of
 their enemies. However, they will act as regular Wall Turrets when infected,
-meaning they will only shoot [vehicles](../vehicles/Vehicle.md) and auto-running
+meaning they will only shoot [vehicles](../vehicles/index.md) and auto-running
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units.

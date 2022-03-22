@@ -9,7 +9,7 @@
 
 These rockets are used by the [Reaver](../vehicles/Reaver.md)'s rocket pod
 weapon. It does decent damage to both [infantry](../terminology/Infantry.md) and
-[vehicles](../vehicles/Vehicle.md). The boxes can be obtained from any
+[vehicles](../vehicles/index.md). The boxes can be obtained from any
 [Equipment Terminal](../items/Equipment_Terminal.md) to be hand-loaded into the
-[vehicle](../vehicles/Vehicle.md)'s [trunk](../terminology/Trunk.md) or acquired
+[vehicle](../vehicles/index.md)'s [trunk](../terminology/Trunk.md) or acquired
 while in the vehicle from a [Landing Pad](../items/Landing_Pad.md).
