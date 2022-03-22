@@ -17,6 +17,12 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - featherlight
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/0nRe5TNbTYoUruA4
+    - icon: fontawesome/brands/github
+      link: https://github.com/psforever
 extra_javascript:
   - https://unpkg.com/jquery@3/dist/jquery.min.js
   - https://unpkg.com/featherlight@1/release/featherlight.min.js
@@ -26,4 +32,3 @@ extra_css:
   - https://unpkg.com/featherlight@1/release/featherlight.min.css
   - https://unpkg.com/captionjs@1/dist/captionjs.min.css
   - res/captions.css
-#use_directory_urls: false
