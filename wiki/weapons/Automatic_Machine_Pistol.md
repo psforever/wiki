@@ -14,7 +14,7 @@
 
 **Automatic Machine Pistol (AMP)**
 
-![image:AMP-Icon.jpg](../images/AMP-Icon.jpg) Capable of utilizing either
+![](../images/AMP-Icon.jpg) Capable of utilizing either
 Anti-Infantry or Armor-Piercing ammunition, the
 [AMP](Automatic_Machine_Pistol.md) is the only fully-automatic handgun
 available.

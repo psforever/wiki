@@ -14,7 +14,7 @@
 
 **Laze Pointer**
 
-![image:Laze-Icon.jpg](../images/Laze-Icon.jpg)
+![](../images/Laze-Icon.jpg)
 
 The [Laze Pointer](Laze_Pointer.md) allows front-line troops to indicate targets
 for [Flail](../vehicles/Flail.md) gunners, who will be quite far from the

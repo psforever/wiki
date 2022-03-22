@@ -15,7 +15,7 @@ Shotgun](../images/Sweeper.jpg){ class="figure" }
 
 **Sweeper**
 
-![image:Sweeper-Icon.jpg](../images/Sweeper-Icon.jpg)
+![](../images/Sweeper-Icon.jpg)
 
 The [Sweeper](Sweeper.md) is the only
 [Common Pool](../terminology/Common_Pool.md) shotgun. Used at close range, it

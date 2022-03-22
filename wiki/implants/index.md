@@ -39,16 +39,16 @@ in [Bio Laboratories](../locations/Bio_Laboratory.md).
 
 | Implant | Icon | Stamina  <br>Drain | Initialization  <br>Timer (mm:ss) |
 | --- | --- | --- | --- |
-| [Audio Amplifier](Audio_Amplifier.md) | ![Image:Audio_amplifier.gif](../images/Audio_amplifier.gif "../images/Audio_amplifier.gif")<br><br>Image:Audio_amplifier.gif | 1sp/second | 01:00 |
-| [Darklight Vision](Darklight.md) | ![Image:Darklight.gif](../images/Darklight.gif "../images/Darklight.gif")<br><br>Image:Darklight.gif | 2sp/second + 3sp to activate | 01:00 |
-| [Enhanced Targeting](Enhanced_Targeting.md) | ![Image:Enhanced_targeting.gif](../images/Enhanced_targeting.gif "../images/Enhanced_targeting.gif")<br><br>Image:Enhanced_targeting.gif | None | 01:00 |
-| [Melee Booster](Melee_Booster.md) | ![Image:Melee_booster.gif](../images/Melee_booster.gif "../images/Melee_booster.gif")<br><br>Image:Melee_booster.gif | 10sp/knife swing | 02:00 |
-| [Personal Shield](Personal_Shield.md) | ![Image:Personal_shield.gif](../images/Personal_shield.gif "../images/Personal_shield.gif")<br><br>Image:Personal_shield.gif | 1sp per damage point taken+1.7sp per second | 02:00 |
-| [Range Magnifier](Range_Magnifier.md) | ![Image:Range_magnifier.gif](../images/Range_magnifier.gif "../images/Range_magnifier.gif")<br><br>Image:Range_magnifier.gif | None | 01:00 |
-| [Regeneration](Regeneration.md) | ![Image:Regeneration.gif](../images/Regeneration.gif "../images/Regeneration.gif")<br><br>Image:Regeneration.gif | for every 1hp: 2sp (running) - 1.5sp(standing) - 1sp (crouched) | 02:00 |
-| [Second Wind](Second_Wind.md) | ![Image:Second_wind.gif](../images/Second_wind.gif "../images/Second_wind.gif")<br><br>Image:Second_wind.gif | None; Adds 25sp when activated | 03:10 |
-| [Sensor Shield](Sensor_Shield.md) | ![Image:Sensor_shield.gif](../images/Sensor_shield.gif "../images/Sensor_shield.gif")<br><br>Image:Sensor_shield.gif | 1sp/sec (Cloak) - 3sp/sec (Std.) 3sp/sec (Agile) - 3sp/sec (Rexo) | 01:30 |
-| [Surge](Surge.md) | ![Image:Surge.gif](../images/Surge.gif "../images/Surge.gif")<br><br>Image:Surge.gif | 1sp/sec (Cloak) - 1sp/sec (Std.) 2sp/sec (Agile) - 3sp/sec (Rexo) | 01:30 |
+| [Audio Amplifier](Audio_Amplifier.md) | ![](../images/Audio_amplifier.gif "../images/Audio_amplifier.gif") | 1sp/second | 01:00 |
+| [Darklight Vision](Darklight.md) | ![](../images/Darklight.gif "../images/Darklight.gif") | 2sp/second + 3sp to activate | 01:00 |
+| [Enhanced Targeting](Enhanced_Targeting.md) | ![](../images/Enhanced_targeting.gif "../images/Enhanced_targeting.gif") | None | 01:00 |
+| [Melee Booster](Melee_Booster.md) | ![](../images/Melee_booster.gif "../images/Melee_booster.gif") | 10sp/knife swing | 02:00 |
+| [Personal Shield](Personal_Shield.md) | ![](../images/Personal_shield.gif "../images/Personal_shield.gif") | 1sp per damage point taken+1.7sp per second | 02:00 |
+| [Range Magnifier](Range_Magnifier.md) | ![](../images/Range_magnifier.gif "../images/Range_magnifier.gif") | None | 01:00 |
+| [Regeneration](Regeneration.md) | ![](../images/Regeneration.gif "../images/Regeneration.gif") | for every 1hp: 2sp (running) - 1.5sp(standing) - 1sp (crouched) | 02:00 |
+| [Second Wind](Second_Wind.md) | ![](../images/Second_wind.gif "../images/Second_wind.gif") | None; Adds 25sp when activated | 03:10 |
+| [Sensor Shield](Sensor_Shield.md) | ![](../images/Sensor_shield.gif "../images/Sensor_shield.gif") | 1sp/sec (Cloak) - 3sp/sec (Std.) 3sp/sec (Agile) - 3sp/sec (Rexo) | 01:30 |
+| [Surge](Surge.md) | ![](../images/Surge.gif "../images/Surge.gif") | 1sp/sec (Cloak) - 1sp/sec (Std.) 2sp/sec (Agile) - 3sp/sec (Rexo) | 01:30 |
 
 sp = Stamina Points
 

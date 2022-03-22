@@ -13,7 +13,7 @@
 
 **Radiator**
 
-![image:Radiator-Icon.jpg](../images/Radiator-Icon.jpg)
+![](../images/Radiator-Icon.jpg)
 
 The [Radiator](Radiator.md) is an indirect damage weapon. The projectiles
 themselves do no damage, but once they explode they irradiate the immediate area

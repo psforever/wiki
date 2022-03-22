@@ -15,7 +15,7 @@ Pulsar](../images/PSScreenShot0290.jpg){ class="figure" }
 
 **Pulsar**
 
-![image:Pulsar-Icon.jpg](../images/Pulsar-Icon.jpg)
+![](../images/Pulsar-Icon.jpg)
 
 The [Pulsar](Pulsar.md) functions well as an outdoor anti-infantry weapon, as it
 has a high projectile velocity, and good accuracy, especially fired from a

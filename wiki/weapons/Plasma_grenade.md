@@ -15,7 +15,7 @@
 **Plasma Grenade**
 
 ![](../images/Plasma-Hand-grenade-Icon.jpg){ class="figure" }
-[image:Plasmagrenadepack.jpg](../images/Plasmagrenadepack.jpg) The damage caused
+[](../images/Plasmagrenadepack.jpg) The damage caused
 by **Plasma grenades** depends on the method of delivery. Both methods inflict
 damage by splashing [Plasma](Plasma.md) in an area effect. Affected objects
 continue to burn over a short period of time after the initial impact blast.
