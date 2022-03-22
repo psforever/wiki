@@ -1,3 +1,5 @@
+# Patches
+
 This is a historical summary of the [Patches](../terminology/Patch.md) of
 PlanetSide.
 
