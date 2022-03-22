@@ -13,7 +13,7 @@ supply. It also disables any
 [Facility Linked Benefits](../terminology/Facility_Linked_Benefit.md) the base
 may be providing. As well, the facility becomes a dead link in the Lattice
 system, blocking benefits from bases behind it on the lattice. Additonally, it
-releases the [modules](../etc/Modules.md) that may be installed in that
+releases the [modules](../modules/index.md) that may be installed in that
 facility. This means they can be removed or stolen from their
 [cradles](Module_Cradle.md). A destroyed generator will repair itself, albeit
 very slowly, as long as the base has a supply of NTUs remaining.
@@ -24,9 +24,9 @@ Influence ([SOI](../locations/Sphere_of_Influence.md)) if it comes under attack.
 
 The generator room is also one of the areas protected by a
 [Pain Field](../terminology/Pain_Field.md) when a
-[Pain Module](../etc/Pain_Module.md) is installed at the base, as a
+[Pain Module](../modules/Pain_Module.md) is installed at the base, as a
 [Lattice Benefit](../terminology/Facility_Linked_Benefit.md), or from a
-[Cavern Lock](../etc/Cavern_Lock.md) Benefit. An
+[Cavern Lock](../terminology/Cavern_Lock.md) Benefit. An
 [Expert Hacker](../certifications/Expert_Hacking.md) can also hack into the
 [Generator Terminal](Generator_Terminal.md) to create or increase a pain field
 in the generator room.

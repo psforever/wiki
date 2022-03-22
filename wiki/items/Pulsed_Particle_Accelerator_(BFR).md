@@ -1,7 +1,7 @@
 |                            |                                                                     |
 | -------------------------- | ------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)         |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                      |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                      |
 | **Primary Mode**           | Particle Pulse Accelerator                                          |
 | **Secondary Mode**         | \-                                                                  |
 | **Ammunition**             | [Aphelion PPA Ammunition](../ammunition/Aphelion_PPA_Ammunition.md) |

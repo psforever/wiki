@@ -1,5 +1,5 @@
 A **Hotspot** is an area of fighting, and is represented on the
-[Continental Map](../etc/Continental_Map.md) by an animated yellow star. The
+[Continental Map](Continental_Map.md) by an animated yellow star. The
 presence of Hotspot stars are one of the main ways a soldier can gain
 information on where enemy forces are, and how active and numerous they are
 likely to be.

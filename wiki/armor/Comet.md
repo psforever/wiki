@@ -4,7 +4,7 @@
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                           |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                           |
 | **Armor**                  | 650                                                                                                                                      |
 | **Primary Mode**           | Normal fire                                                                                                                              |
 | **Secondary Mode**         | \-                                                                                                                                       |
@@ -14,7 +14,7 @@
 
 **Comet**
 
-The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
+The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s
 [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>)—the
 **Comet**—fires powerful energy plasma rounds that do "aggravated" damage to the
 target. This [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s jump jets allow it
@@ -30,5 +30,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 7 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

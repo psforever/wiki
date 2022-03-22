@@ -19,9 +19,9 @@ formed to:
 A squad can have a maximum of 10 people in the squad. Every kill by a member of
 the squad is shared with the rest of the squad as long as the other members are
 on the same continent as the kill. Squads also share
-[base capture](../etc/Capturing_Bases.md) experience.
+[base capture](../archive/strategy/Capturing_Bases.md) experience.
 
 Below is a picture of the mini-squad member list that appears on your
-[Heads-up Display](../etc/Heads-up_Display.md) [HUD](Acronyms_and_Slang.md).
+[Heads-up Display](Heads-up_Display.md) [HUD](Acronyms_and_Slang.md).
 
 ![](../images/SquadList.jpg "Image:SquadList.jpg")

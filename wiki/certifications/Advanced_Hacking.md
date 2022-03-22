@@ -25,5 +25,5 @@ least one active [spawn tube](../items/Respawn_Tube.md).
 
 The [Jacking](<../merits/Jacking_(Merit).md>) and
 [Hack Support Specialist](../merits/Hack_Support_Specialist.md)
-[Merit Commendations](../merits/Merit_Commendations.md) can only be obtained by
+[Merit Commendations](../merits/index.md) can only be obtained by
 use of this [Certification](Certification.md).

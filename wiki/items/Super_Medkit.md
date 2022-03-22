@@ -1,7 +1,7 @@
 |                                                                     |                                                 |
 | ------------------------------------------------------------------- | ----------------------------------------------- |
 | **Certification Required**                                          | None                                            |
-| **[Merit Commendation](../merits/Merit_Commendations.md) Required** | [Holiday Snowmen](../merits/Holiday_Snowmen.md) |
+| **[Merit Commendation](../merits/index.md) Required** | [Holiday Snowmen](../merits/Holiday_Snowmen.md) |
 | **Empire**                                                          | [Common Pool](../terminology/Common_Pool.md)    |
 | **Primary Mode**                                                    | Restores 100 [Health](../terminology/Health.md) |
 | **Secondary Mode**                                                  | \-                                              |

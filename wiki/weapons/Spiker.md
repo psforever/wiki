@@ -30,7 +30,7 @@ While the weapon is classified as a pistol, it requires the
 [Medium Assault](../certifications/Medium_Assault.md) certification to purchase,
 yet fits into the pistol inventory slot, allowing its use by cloakers. In
 addition, unless the user is in the core, the base must have an
-[Equipment Module](../items/Equipment_Module.md) installed for the weapon to be
+[Equipment Module](../modules/Equipment_Module.md) installed for the weapon to be
 purchased. Many players circumvent this by placing large caches of the weapon
 into their [lockers](../items/Lockers.md), making them available anywhere on the
 battlefield.
@@ -41,4 +41,4 @@ Tactics
 
 </H3>
 
-- [Elana](../etc/Elana.md)
+- [Elana](../archive/strategy/Elana.md)

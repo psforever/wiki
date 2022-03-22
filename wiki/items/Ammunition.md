@@ -1,4 +1,4 @@
-There are two main types of ammunition in [Planetside](../etc/PlanetSide.md):
+There are two main types of ammunition in [Planetside](../PlanetSide.md):
 Hand-held and [Vehicle](../vehicles/Vehicle.md).
 
 Hand-held ammunition is stored in your character's
@@ -11,7 +11,7 @@ the vehicle and supplied to the appropriate weapon automatically. The
 [Flail](../vehicles/Flail.md) and [Switchblade](Switchblade.md) are the
 exceptions, using on-board capacitors for ammunition that can only be refiled by
 an [Vehicle Energy Crystal](../terminology/Vehicle_Energy_Crystal.md) or
-[Vehicle Module](../etc/Vehicle_Module.md) [benefit](../etc/Module_benefit.md).
+[Vehicle Module](../modules/Vehicle_Module.md) [benefit](../modules/Module_benefit.md).
 
 All ammunition native to your [empire](../terminology/Empire.md) can be obtained
 from any [Equipment Terminal](Equipment_Terminal.md). Vehicle ammunition is

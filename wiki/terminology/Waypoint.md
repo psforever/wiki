@@ -1,9 +1,9 @@
 **Waypoints** are markers placed on the
-[Continental Map](../etc/Continental_Map.md), and show up in the
-[HUD](../etc/Heads-up_Display.md) as pillars of light with animated arrowheads
+[Continental Map](Continental_Map.md), and show up in the
+[HUD](Heads-up_Display.md) as pillars of light with animated arrowheads
 at the base.
 
-There are many different waypoints in [PlanetSide](../etc/PlanetSide.md):
+There are many different waypoints in [PlanetSide](../PlanetSide.md):
 
 - **Squad/Platoon Waypoints**: These waypoints are placed by Squad leaders that
   are [Command Rank](Command_Rank.md) 1 or higher. These are visible to all
@@ -12,7 +12,7 @@ There are many different waypoints in [PlanetSide](../etc/PlanetSide.md):
   the position of the [Squad Leader](Squad_Leader.md) setting them within a
   platoon, i.e., waypoints set by a particular squad leader will match the color
   of that squad's names in the
-  [Squad Bar](../etc/Heads-up_Display.md#Squad_Bar).
+  [Squad Bar](Heads-up_Display.md#squad-bar).
 
 <!-- -->
 
@@ -28,7 +28,7 @@ There are many different waypoints in [PlanetSide](../etc/PlanetSide.md):
 
 - **Squad Home Base Waypoint**: A [Squad Home Base](Squad_Home_Base.md) (if one
   is set) is marked by a green triangle on the
-  [Continental Map](../etc/Continental_Map.md) as a waypoint.
+  [Continental Map](Continental_Map.md) as a waypoint.
 
 <!-- -->
 
@@ -55,17 +55,17 @@ listed above:
 
 - **Orbital Strike Waypoint**: If a friendly [CR4](Command_Rank.md) or
   [CR5](Command_Rank.md) player has placed an
-  [Orbital Strike](../commands/Orbital_Strike.md) waypoint on the map, it is
+  [Orbital Strike](Orbital_Strike.md) waypoint on the map, it is
   visible as a colored beam of light in the gameworld: blue for
-  [NC](../etc/New_Conglomerate.md), red for [TR](../etc/Terran_Republic.md), and
-  purple for [VS](../etc/Vanu_Sovereignty.md). The waypoint is not visible on
+  [NC](New_Conglomerate.md), red for [TR](Terran_Republic.md), and
+  purple for [VS](Vanu_Sovereignty.md). The waypoint is not visible on
   the [Proximity Map](Proximity_Map.md) or the
-  [Continental Map](../etc/Continental_Map.md).
+  [Continental Map](Continental_Map.md).
 
 <!-- -->
 
 - **Rabbit Waypoint**: If there is a [Rabbit](Rabbit.md)
-  [event](../etc/Events.md) on the zone you are on, an orange circular waypoint
+  event] on the zone you are on, an orange circular waypoint
   will appear on your proximity and continental maps. This waypoint is not
   visible in the gameworld as the other waypoints are. The waypoint will point
   in the direction of the rabbit ball.

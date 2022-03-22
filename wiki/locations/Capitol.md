@@ -1,7 +1,7 @@
 ![ on [Solsar](Solsar.md) with
 [Force Dome](../items/Force_Dome.md) activated](../images/Thoth-solsar.jpg){ class="figure" } One [facilty](Facilities.md) on each
 [Empire](../terminology/Empire.md)'s Home [continent](Continent.md) is
-designated as the **Capitol**. During the [Post-Bending](../etc/The_Bending.md)
+designated as the **Capitol**. During the [Post-Bending](../terminology/The_Bending.md)
 era, control of this facility gave the dominating empire use of the continental
 [warpgates](Warpgate.md) as
 [broadcast warpgates](../items/Broadcast_warpgate.md).
@@ -21,7 +21,7 @@ Dome is up.)
 The Capitol's [Control Console](Control_Console.md) cannot be hacked unless an
 opposing Empire owns at least two of the Sub-Capitols for that Capitol.
 
-[Orbital Strikes](../commands/Orbital_Strike.md) cannot be triggered over a
+[Orbital Strikes](../terminology/Orbital_Strike.md) cannot be triggered over a
 capitol, or in close proximity of one, regardless of the
 [Force Dome](../items/Force_Dome.md) status.
 

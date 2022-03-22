@@ -1,9 +1,9 @@
 ![](../images/BO_Soldiers.jpg){ class="figure" } ![](../images/BO_Phantasm.jpg){ class="figure" }
 ![ that is
 hacked by Black Ops, as seen on the
-[continental map](../etc/Continental_Map.md)](../images/BO_Hacked_Facility.jpg){ class="figure" }
+[continental map](Continental_Map.md)](../images/BO_Hacked_Facility.jpg){ class="figure" }
 
-Black Ops (BO) are the Super Soldiers of [PlanetSide](../etc/PlanetSide.md).
+Black Ops (BO) are the Super Soldiers of [PlanetSide](../PlanetSide.md).
 Having 1000 [Health](Health.md) and 500 [Stamina](Stamina.md) (which has a much
 higher regeneration rate than normal) and having access to all
 [certifications](../certifications/Certification.md), and therefor all
@@ -18,13 +18,13 @@ GM. [One-Manned Field Turrets](../weapons/One-Manned_Field_Turret.md) deployed
 by Black Ops will be the empire variant of the empire they left.
 
 Black Ops do have certain restrictions/penalties however, as they cannot use any
-[Implants](../implants/Implants.md) and are not awarded any form of Experience
+[Implants](../implants/index.md) and are not awarded any form of Experience
 Points for their activities. Kills made as a Black Ops also do not count towards
-[Merit](../merits/Merit_Commendations.md) progress or track on the
-[PlanetSide](../etc/PlanetSide.md) statistic websites.
+[Merit](../merits/index.md) progress or track on the
+[PlanetSide](../PlanetSide.md) statistic websites.
 
 Black Ops can only [Squad](Squad.md)/[Platoon](Platoon.md) together with other
-Black Ops, and cannot use any [chat](../commands/In-Game_Chat.md) except for the
+Black Ops, and cannot use any [chat](../chat/In-Game_Chat.md) except for the
 special Black Ops chat (b.md <message> or /c <message> when playing as a Black
 Ops) and Squad/Platoon Chat.
 
@@ -45,12 +45,12 @@ own.
 Note that even though all cosmetic [Command Rank](Command_Rank.md) attributes
 like the CR5 [backpack](Backpack.md) disappear when being turned into a Black
 Ops, they will still keep the Command abilities
-([Orbital Strike](../commands/Orbital_Strike.md), [EMP](../commands/EMP.md),
+([Orbital Strike](../terminology/Orbital_Strike.md), [EMP](../terminology/EMP.md),
 Reveal Enemies and Reveal Friendliess) they have as a normal soldier.
 
 When transformed into a Black Ops, the player will receive the
 [Black Ops Mercenary](../merits/Black_Ops_Mercenary.md) Merit Commendation.
 
-[VS](../etc/Vanu_Sovereignty.md), [TR](../etc/Terran_Republic.md) and
-[NC](../etc/New_Conglomerate.md) Soldiers that kill a Black Ops will be awarded
+[VS](Vanu_Sovereignty.md), [TR](Terran_Republic.md) and
+[NC](New_Conglomerate.md) Soldiers that kill a Black Ops will be awarded
 with the [Black Ops Hunter](../merits/Black_Ops_Hunter.md) Merit Commendations.

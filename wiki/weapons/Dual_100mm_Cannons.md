@@ -1,7 +1,7 @@
 |                            |                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                   |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                  |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                  |
 | **Primary Mode**           | 100mm Cannon                                                                  |
 | **Secondary Mode**         | \-                                                                            |
 | **Ammunition**             | [Colossus 100mm Cannon Shells](../ammunition/Colossus_100mm_Cannon_Shells.md) |

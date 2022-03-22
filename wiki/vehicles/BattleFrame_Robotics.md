@@ -30,16 +30,16 @@ robots (or mecha) of the PlanetSide universe.
 ### The Story
 
 In the story, the technology for BattleFrame Robotics was originally developed
-on Earth by the [Terran Republic](../etc/Terran_Republic.md). However, the
+on Earth by the [Terran Republic](../terminology/Terran_Republic.md). However, the
 technology could not be perfected there. The republic of Earth then sent the
 schematics for BFRs through the micro-wormhole between Earth and the Auraxian
 System to the three warring empires of Auraxis. Each side received the
 schematics, and began making their own variants of the technology.
 
-The [Terran Republic](../etc/Terran_Republic.md) developed the
-[Colossus](Colossus.md). The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+The [Terran Republic](../terminology/Terran_Republic.md) developed the
+[Colossus](Colossus.md). The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
 developed the [Aphelion](Aphelion.md). The
-[New Conglomerate](../etc/New_Conglomerate.md) developed the
+[New Conglomerate](../terminology/New_Conglomerate.md) developed the
 [Peregrine](Peregrine.md).
 
 However, the systems of a BFR were very complicated, proving to be too much of a
@@ -122,7 +122,7 @@ damaged can only be restored by repairing the BFR.
 </table>
 
 Additionally, [Jammer grenades](../weapons/Jammer_Grenade.md) and
-[EMP](../commands/EMP.md) blasts can temporarily cripple a BFR, causing it to
+[EMP](../terminology/EMP.md) blasts can temporarily cripple a BFR, causing it to
 move and fire much more slowly, and in the case of the flight variants,
 completely disabling the flight systems until the effect wears off.
 
@@ -144,22 +144,22 @@ these positions is occupied. Emptying both positions will deactivate the
 shields, leaving the BFR directly vulnerable to attack or
 [jacking](../terminology/Jack.md).
 
-There is a [known issue](../etc/Known_Issues.md) regarding the gunner no being
+There is a [known issue](../archive/Known_Issues.md) regarding the gunner no being
 able to aim left and right. However, this is a fairly rare bug.
 
 ##### Empire-specific gunner variants
 
-- The [Colossus](Colossus.md) ([Terran Republic](../etc/Terran_Republic.md))
-- The [Peregrine](Peregrine.md) ([New Conglomerate](../etc/New_Conglomerate.md))
-- The [Aphelion](Aphelion.md) ([Vanu Sovereignty](../etc/Vanu_Sovereignty.md))
+- The [Colossus](Colossus.md) ([Terran Republic](../terminology/Terran_Republic.md))
+- The [Peregrine](Peregrine.md) ([New Conglomerate](../terminology/New_Conglomerate.md))
+- The [Aphelion](Aphelion.md) ([Vanu Sovereignty](../terminology/Vanu_Sovereignty.md))
 
 #### Flight variants
 
 Flight variants are single-pilot BFRs with a flight pack on their backs to allow
 the BFR to fly vertically for a short amount of time (in a similar manner to the
-[VS](../etc/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
+[VS](../terminology/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 units' jump-jets). The flight systems are powered by the "BFR capacitor", which
-is measured with a small bar on the player's [HUD](../etc/Heads-up_Display.md).
+is measured with a small bar on the player's [HUD](../terminology/Heads-up_Display.md).
 The capacitor recharges over time when the flight systems are not in use. When a
 flight variant uses its flight systems, the shields are deactivated for the
 entire time the BFR is in the air, reactivating once it lands. Additionally, the
@@ -178,9 +178,9 @@ variant's maximum jump height is different, with the
 ##### Empire-specific flight variants
 
 - The [Invader](../items/Invader.md)
-  ([Terran Republic](../etc/Terran_Republic.md))
-- The [Eagle](Eagle.md) ([New Conglomerate](../etc/New_Conglomerate.md))
-- The [Eclipse](Eclipse.md) ([Vanu Sovereignty](../etc/Vanu_Sovereignty.md))
+  ([Terran Republic](../terminology/Terran_Republic.md))
+- The [Eagle](Eagle.md) ([New Conglomerate](../terminology/New_Conglomerate.md))
+- The [Eclipse](Eclipse.md) ([Vanu Sovereignty](../terminology/Vanu_Sovereignty.md))
 
 ### BFR Certification
 
@@ -197,11 +197,11 @@ In order to get AI and Anti-Aircraft pilot weapons, 1 cert point must be spent
 for each individually.
 
 To obtain a flight variant, one must earn the [BFR
-Basic]../merits/BFR\_(Merit).md) [merit](../merits/Merit_Commendations.md),
+Basic]../merits/BFR\_(Merit).md) [merit](../merits/index.md),
 which involves scoring 100 unique kills and then a kill streak of 15 with the
 BFR pilot weapons.
 
 BFR timers take 25 minutes from the time of original purchase until another BFR
 can be acquired. The timer is reduced to 15 minutes if a
-[Vehicle Module](../etc/Vehicle_Module.md) is installed, or the base is
-receiving a [Cavern Lock](../etc/Cavern_Lock.md) Benefit.
+[Vehicle Module](../modules/Vehicle_Module.md) is installed, or the base is
+receiving a [Cavern Lock](../terminology/Cavern_Lock.md) Benefit.

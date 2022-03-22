@@ -1,7 +1,7 @@
 ![](../images/Psreserves.gif "Image:psreserves.gif")
 
 **PlanetSide Reserves** was a program that ran from March 24, 2006 to March
-27, 2007. It offered a limited version of [PlanetSide](../etc/PlanetSide.md)
+27, 2007. It offered a limited version of [PlanetSide](../PlanetSide.md)
 without a monthly fee. Characters were limited in [Battle Rank](Battle_Rank.md)
 and [Command Rank](Command_Rank.md), and the program was set to end March
 24, 2007. When that date arrived, Reserves players were still able to log in and
@@ -9,7 +9,7 @@ play, and new Reserves accounts could still be created, but on March 27, the
 program was ended.
 
 In conjunction with the launch of the PlanetSide Reserves, all paying accounts
-received access to [AfterShock](../items/AfterShock.md) content.
+received access to [AfterShock](../AfterShock.md) content.
 
 [Planetside Reserves information page](http://planetside.station.sony.com/reserves/)
 

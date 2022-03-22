@@ -40,4 +40,4 @@ Flight Variant's (FV) are avaliable after completing the
 
 This [Certification](Certification.md) is required to obtain the
 [BFR Basic](<../merits/BFR_(Merit).md>)
-[Merit Commendation](../merits/Merit_Commendations.md).
+[Merit Commendation](../merits/index.md).

@@ -3,7 +3,7 @@ and is awarded for Kills that a Friendly Soldier makes after you have Supported
 him. It is [Battle Experience](Battle_Experience_Points.md) awarded for Support
 activities. "Support" includes:
 
-- Repairing [armor](../armor/Armor_Index.md) (infantry or vehicles) that then
+- Repairing [armor](../armor/index.md) (infantry or vehicles) that then
   scores kills
 - Repairing any kind of [turret](Turret.md) that then score kills
 - Healing damage to a soldier that then scores kills

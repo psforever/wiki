@@ -3,7 +3,7 @@
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                             |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                          |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                          |
 | **Primary Mode**           | Single Shot                                                                                                           |
 | **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
@@ -15,7 +15,7 @@
 **Repeater**
 
 The Repeater is the [Standard Assault](../certifications/Standard_Assault.md)
-sidearm of the [Terran Republic](../etc/Terran_Republic.md). It deals good
+sidearm of the [Terran Republic](../terminology/Terran_Republic.md). It deals good
 damage, is relatively accurate and has a 20 round magazine.
 
 Tips for usage - As a sidearm, this weapon is not to be used at long ranges,
@@ -37,5 +37,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 75 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

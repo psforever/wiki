@@ -197,7 +197,7 @@ server. At this point you'll be able to enter "Public Test" normally.
 This is a client and server-side fix that will take approximately 1.5 hours to
 update all the servers.
 
-- Fixed a crash related to the [Orbital Strike](../commands/Orbital_Strike.md).
+- Fixed a crash related to the [Orbital Strike](../terminology/Orbital_Strike.md).
 
 <!-- -->
 
@@ -295,7 +295,7 @@ More Holiday Fun:
 Watch out for the new objects appearing all over Auraxis during the holiday. In
 certain locations you might run across a snowman, gingerbread man, sled, or xmas
 tree. Exploring the world to find these objects might just earn you a few
-[Merits](../merits/Merit_Commendations.md):
+[Merits](../merits/index.md):
 
 - Holiday: Snowman - Earned by finding all 9 snowmen.
 - Holiday: Gingerbread Man - Earned by finding all 10 gingerbread men.
@@ -352,9 +352,9 @@ regardless of the limitations. We wanted everyone to have the chance to try out
 the new weapons and participate in the mayhem of the Four Year Anniversary!
 Enjoy!
 
-PISTOLS - The [Spear](../weapons/Spear.md) ([NC](../etc/New_Conglomerate.md)) /
-The [Stinger](../weapons/Stinger.md) ([TR](../etc/Terran_Republic.md)) / The
-[Eraser](../items/Eraser.md) ([VS](../etc/Vanu_Sovereignty.md))
+PISTOLS - The [Spear](../weapons/Spear.md) ([NC](../terminology/New_Conglomerate.md)) /
+The [Stinger](../weapons/Stinger.md) ([TR](../terminology/Terran_Republic.md)) / The
+[Eraser](../items/Eraser.md) ([VS](../terminology/Vanu_Sovereignty.md))
 
 These Empire specific pistols are designed to be very lethal towards Infantry
 units but lack a punch in the armor piercing department
@@ -422,7 +422,7 @@ are deemed non-existent or believed to be minor.
 - Free [certification](../certifications/Certification.md) reset
 - Increased maximum [Battle Rank](../terminology/Battle_Rank.md) from 25 to 40
 - Added 6 year [Term of Service](../merits/Term_of_Service.md)
-  [merit](../merits/Merit_Commendations.md)
+  [merit](../merits/index.md)
 
 ## BR32 Fix (6/17/2009)
 
@@ -431,10 +431,10 @@ are deemed non-existent or believed to be minor.
 
 ## Server Merge and Lasher nerf (08/25/2009)
 
-- Players moving from [Werner](../etc/Werner.md) to [Gemini](../etc/Gemini.md)
+- Players moving from [Werner](../archive/servers/Werner.md) to [Gemini](../archive/servers/Gemini.md)
   will receive a
   [Werner Distinguished Veteran](../merits/Distinguished_Veteran.md)
-  [Merit](../merits/Merit_Commendations.md)
+  [Merit](../merits/index.md)
 - Players who receive a -W or -G appended to their names will be allowed a
   one-time use of the /rename command
 - [Outfits](../terminology/Outfit.md) that receive a -W or -G appended to their
@@ -473,16 +473,16 @@ some time with us and let’s get that much needed
 [Battle Experience](../terminology/Battle_Experience_Points.md) and see if we
 can reach [Battle Rank](../terminology/Battle_Rank.md) 40... If you dare!!!
 
-[The Chainblade Massacre](../etc/The_Chainblade_Massacre.md) will also pop up
+[The Chainblade Massacre](../archive/events/The_Chainblade_Massacre.md) will also pop up
 from time to time throughout the
-[Spooktacular Days](../etc/Spooktacular_Days.md) so be prepared! All players
+[Spooktacular Days](../archive/events/Spooktacular_Days.md) so be prepared! All players
 will be able to use [Cloaking infiltration suits](../armor/Infiltration_Suit.md)
 without need of the [certification](../certifications/Certification.md) on
 [Extinction](../locations/Extinction.md) (this is our version of ghosts).
 
 - In true Halloween tradition, players will only be allowed to use a Knife to
   kill other players.
-- Players are urged to get proper [Implants](../implants/Implants.md) before
+- Players are urged to get proper [Implants](../implants/index.md) before
   entering the zone such as [Darklight](../implants/Darklight.md) in order to
   see all apparitions.
 - The zone has limited [vehicles](../vehicles/Vehicle.md).
@@ -502,7 +502,7 @@ time!
 
 Greetings Auraxians!
 
-The [Spooktacular Days](../etc/Spooktacular_Days.md) are now over and all
+The [Spooktacular Days](../archive/events/Spooktacular_Days.md) are now over and all
 systems have been restored back to normal.
 
 Thank you and we'll see you on the Battle Field!

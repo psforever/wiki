@@ -4,6 +4,6 @@ kills and reduction in spawn timers and vehicle acquisition timers.
 
 Incentives are applied in two different scales:
 
-- [Empire Incentives](../etc/Empire_Incentives.md) (Planetary (Continent/Cavern)
+- [Empire Incentives](Empire_Incentives.md) (Planetary (Continent/Cavern)
   scale)
 - [Global Incentives](Global_Incentives.md) (Universal scale)

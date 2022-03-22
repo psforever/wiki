@@ -4,7 +4,7 @@ artifact used to teleport individuals and vehicles from one
 located on each continent and [sanctuary](../locations/Sanctuary.md), each
 linked to a [planet](Planet.md) light years away.
 
-If the warpgate's host continent is [locked](../etc/Continental_lock.md), or it
+If the warpgate's host continent is [locked](../terminology/Continental_lock.md), or it
 is linked to a locked continent via a
 [continental lattice](../terminology/Lattice.md) chain, it becomes a
 [Broadcast Warpgate (BWG)](../items/Broadcast_warpgate.md) and can transport an
@@ -14,7 +14,7 @@ any planet in the lattice chain.
 You cannot enter warpgates that link to an enemy
 [sanctuary](../locations/Sanctuary.md) (found on enemy
 [Home Continents](Home_Continent.md)). These warpgates are shaded the color of
-the controling empire on the [Continental Map](../etc/Continental_Map.md). The
+the controling empire on the [Continental Map](../terminology/Continental_Map.md). The
 bubble will act as a solid structure for enemies (thus you cannot fill up an
 [ANT](../vehicles/Advanced_Nanite_Transport.md) in these enemy warpgates).
 
@@ -40,7 +40,7 @@ The warpgates were also the first source of human Re-birthing, later known as
 [respawning](../terminology/Respawn.md). After a human passed through the
 warpgate energy beam, he could no longer stay dead. Instead he would
 [respawn](../terminology/Respawn.md) within one of the warpgates scattered
-throughout the [Pre-Bending](../etc/The_Bending.md) planet of
+throughout the [Pre-Bending](../terminology/The_Bending.md) planet of
 [Auraxis](Auraxis.md).
 
 The Terran scientists utilized this amazing property of the warpgates to create

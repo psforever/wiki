@@ -1,7 +1,7 @@
 |                            |                                                                               |
 | -------------------------- | ----------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Aircraft](../certifications/BFR_Anti-Aircraft.md)                   |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                |
 | **Primary Mode**           | Homing missiles                                                               |
 | **Secondary Mode**         | \-                                                                            |
 | **Ammunition**             | [Peregrine Sparrow Ammunition](../ammunition/Peregrine_Sparrow_Ammunition.md) |

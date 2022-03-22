@@ -4,7 +4,7 @@
 |                            |                                                                                                                                          |
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                             |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                      |
 | **Primary Mode**           | Normal fire                                                                                                                              |
 | **Secondary Mode**         | 3 second fuse                                                                                                                            |
@@ -16,7 +16,7 @@
 
 The **Pounder** is the
 [Anti-Vehicle MAX](<../certifications/Anti-Vehicle_MAX_(Certification).md>) of
-the [Terran Republic](../etc/Terran_Republic.md). It boasts two large mortar
+the [Terran Republic](../terminology/Terran_Republic.md). It boasts two large mortar
 launchers on both its arms that can launch its ammunition over great ranges.
 This is an indirect fire weapon, requiring the operator to compensate for
 gravity, but making it possible to attack vehicles from behind a hill. The
@@ -36,5 +36,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 10 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

@@ -6,7 +6,7 @@
 | **Type**                   | [Medium Battle Tank](../items/Medium_Battle_Tank.md)                                                                           |
 | **Role**                   | Attack                                                                                                                         |
 | **Certification Required** | [Armored Assault I](../certifications/Armored_Assault_I.md) and [Armorcertifications/Armored_Assault_II.mdd_Assault_II.md)     |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                   |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                   |
 | **Primary Weapon**         | Dual 100mm Cannons                                                                                                             |
 | **Secondary Weapon**       | Dual 15mm Rotary Chainguns                                                                                                     |
 | **Ammunition**             | [100mm Tank Shells](<../ammunition/Tank_Shell_(100mm).md>) and [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md) |
@@ -16,7 +16,7 @@
 
 **Prowler**
 
-The Prowler is the [Terran Republic](../etc/Terran_Republic.md)'s
+The Prowler is the [Terran Republic](../terminology/Terran_Republic.md)'s
 [Medium Battle Tank](../items/Medium_Battle_Tank.md). It has a tall side profile
 and can hold two gunners. Its two gunners can attack different targets at the
 same time. Its main gun is a dual-100mm cannon. It fires fast, can be used at

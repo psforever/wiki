@@ -1,7 +1,7 @@
 ![
 [Vanguard](Vanguard.md)
 [Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" } [Vehicles](Vehicle.md) are an essential part to
-[PlanetSide](../etc/PlanetSide.md) as they are the main mode of transport
+[PlanetSide](../PlanetSide.md) as they are the main mode of transport
 between [facilities](../locations/Facilities.md) and are the most powerful units
 on the battlefield. In PlanetSide, there are many different types of vehicles,
 from mobile spawn points to huge lumbering robots to ten person APC's.
@@ -65,7 +65,7 @@ In addition, any player has access to the
 ### Merits
 
 In addition to certifications, certain vehicles require the player to have a
-certain [Merit Commendation](../merits/Merit_Commendations.md) before they can
+certain [Merit Commendation](../merits/index.md) before they can
 be purchased or driven.
 
 The vehicles and their requirements are listed below:
@@ -83,7 +83,7 @@ purchase the vehicle from a friendly or hacked
 Terminals are restricted to either air or ground vehicles, and some vehicles can
 only be purchased when certain requirements are met. Also, after every vehicle
 purchase, the same vehicle cannot be purchased for 5 minutes, unless you are at
-a base which has a [Vehicle Module](../etc/Vehicle_Module.md), in which the
+a base which has a [Vehicle Module](../modules/Vehicle_Module.md), in which the
 timer is reduced to 2:30.
 
 In short, vehicles that are under
@@ -116,7 +116,7 @@ The vehicles that are restricted by this are:
 - [Phantasm](Phantasm.md)
 
 Similarily, [Ancient Tech](../terminology/Ancient_Technology.md) vehicles can
-only be purchased at a base with a [Vehicle Module](../etc/Vehicle_Module.md)
+only be purchased at a base with a [Vehicle Module](../modules/Vehicle_Module.md)
 installed or at a base which has a link to a friendly base with a Vehicle Module
 installed. Alternately, these vehicles can always be purchased in any of the six
 [Core Combat](../items/Core_Combat.md) [caverns](../locations/Caverns.md). The
@@ -259,7 +259,7 @@ a [BFR](BattleFrame_Robotics.md) which uses the BFR Keymapping.](../images/Eagle
 
 ## Vehicle HUD Elements
 
-When a player is inside of a vehicle, some new [HUD](../etc/Heads-up_Display.md)
+When a player is inside of a vehicle, some new [HUD](../terminology/Heads-up_Display.md)
 Elements show up. The Vehicle Armor Status icon defaults in the lower left hand
 corner and shows up as an icon which represents your vehicle. This slowly turns
 from green to red as your vehicle sustains damage. Alternately, this can be
@@ -287,11 +287,11 @@ green bar which reads "Afterburners".
 
 ## Gunner and Passenger Spots
 
-Most vehicles in [PlanetSide](../etc/PlanetSide.md) are not solo vehicles;
+Most vehicles in [PlanetSide](../PlanetSide.md) are not solo vehicles;
 rather, they have gunner and passenger slots to make them more
 teamwork-oriented. In any vehicle, if the driver or any of the gunners scores a
 kill, the driver and the gunners in the vehicle are also awarded
-[Experience](../etc/Experience.md). Also, a gunner or a passenger can always
+[Experience](../terminology/Experience.md). Also, a gunner or a passenger can always
 bail from a vehicle, while a driver may not necessarily be able to.
 
 ### Gunner Slots
@@ -308,7 +308,7 @@ important slot, generally a driver's weapons, if he has any at all, are weaker
 than a gunner's weapons. Thus, it is important for the gunner and the driver to
 coordinate to get the most kills. Also, many of the best driver/gunner
 combinations use a Voice Over IP program such as
-[Teamspeak](../etc/TeamSpeak.md) or [Ventrilo](../etc/Ventrilo.md).
+[Teamspeak](../archive/TeamSpeak.md) or [Ventrilo](../archive/Ventrilo.md).
 
 #### Merits Through Gunning
 

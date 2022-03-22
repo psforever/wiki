@@ -29,4 +29,4 @@
 
 This [Certification](Certification.md) is required to obtain the [Heavy
 Weapons]../merits/Heavy*Assault*(Merit).md)
-[Merit Commendation](../merits/Merit_Commendations.md).
+[Merit Commendation](../merits/index.md).

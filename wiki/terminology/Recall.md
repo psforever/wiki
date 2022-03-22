@@ -12,4 +12,4 @@ The location of the player affects the
 - Enemy SOI: 30 seconds
 
 A player can initiate a Recall by typing /recall or by selecting that option in
-their Esc [Menu](../etc/Menu.md).
+their Esc [Menu](Menu.md).

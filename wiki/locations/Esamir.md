@@ -21,7 +21,7 @@ currently the largest planet/continent being fought over in the Auraxian Civil
 War.
 
 According to game lore, Esamir was the last continent to be mapped by the
-[Terran Republic](../etc/Terran_Republic.md) after traveling through the
+[Terran Republic](../terminology/Terran_Republic.md) after traveling through the
 Wormhole. While the entire continent is blanketed in snow, the temperature is
 not cold enough to freeze the lagoon that encompasses the central island. The
 planet shivers beneath a sky full of moons.

@@ -169,6 +169,6 @@
 </tbody>
 </table>
 
-These [Merit Commendations](Merit_Commendations.md) are awarded to the attendees
-of the annual [SOE](../etc/Sony_Online_Entertainment.md) Fan Faire. The 2009
+These [Merit Commendations](index.md) are awarded to the attendees
+of the annual [SOE](../Sony_Online_Entertainment.md) Fan Faire. The 2009
 merit was awarded again for 2010 and 2011 attendees.

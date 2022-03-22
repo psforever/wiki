@@ -1,7 +1,7 @@
 Refering to the six subterranean battlegrounds introduced with the expansion
 [Core Combat](../items/Core_Combat.md). Each cavern once rested beneath a
 continent on the main planet of Auraxis. After
-[The Bending](../etc/The_Bending.md), these caves now exist in the cores of
+[The Bending](../terminology/The_Bending.md), these caves now exist in the cores of
 gigantic rogue asteroids.
 
 The six caverns are [Adlivun](Adlivun.md), [Annwn](Annwn.md),

@@ -6,7 +6,7 @@ base is hacked.
 
 The [LLU](Lattice_Logic_Unit.md) must be delivered to the specified friendly
 [facility](../locations/Facilities.md) (indicated by the [Lattice](Lattice.md)
-link flashing on the [Continental Map](../etc/Continental_Map.md) screen) within
+link flashing on the [Continental Map](Continental_Map.md) screen) within
 15 minutes for the hack to succeed. If the LLU contacts water, the hack is
 canceled. If you are the LLU runner, the destination base will have a reddish
 [waypoint](Waypoint.md) marker over it and an indicator on your radar of the
@@ -35,7 +35,7 @@ the LLU (determined by distance from it, closer you are to the LLU the more
 BEP/CEP you will get), and for defending the base the LLU must be taken to
 (least BEP/CEP).
 
-The LLU is visable on the [map](../etc/Continental_Map.md) screen, and proximity
+The LLU is visable on the [map](Continental_Map.md) screen, and proximity
 map and the carrier will radiate yellow waves of light while carrying the LLU.
 You can drop the LLU (to give to another player) by pressing shift-G by default.
 Vehicles parked on top of an LLU in the field will be given a deconstruction

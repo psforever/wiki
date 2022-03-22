@@ -11,7 +11,7 @@
 <td><p>Banner</p></td>
 <td><p><strong>Game News</strong></p>
 <ul>
-<li>[March 16th, 2016:] <a href="http://psforever.net/forum/viewtopic.php?f=7&amp;t=159"><strong>PlanetSide Weekend</strong> has been announced! Join us April 8th-10th.</a></li>
+<li>March 16th, 2016: <a href="http://psforever.net/forum/viewtopic.php?f=7&amp;t=159"><strong>PlanetSide Weekend</strong> has been announced! Join us April 8th-10th.</a></li>
 </ul></td>
 </tr>
 <tr class="odd">

@@ -14,4 +14,4 @@ healing other soldiers and yourself.
 This [Certification](Certification.md) is required to obtain the
 [Combat Medic](../merits/Combat_Medic.md) and
 [Universal Soldier](../merits/Universal_Soldier.md)
-[Merit Commendations](../merits/Merit_Commendations.md).
+[Merit Commendations](../merits/index.md).

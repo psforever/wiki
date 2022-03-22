@@ -1,7 +1,7 @@
 |                            |                                                                             |
 | -------------------------- | --------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                 |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                              |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                              |
 | **Primary Mode**           | Wide Spread                                                                 |
 | **Secondary Mode**         | Tight Spread                                                                |
 | **Ammunition**             | [Peregrine Hammer Ammunition](../ammunition/Peregrine_Hammer_Ammunition.md) |

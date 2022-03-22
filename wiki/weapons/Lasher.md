@@ -3,7 +3,7 @@
 |                            |                                                        |
 | -------------------------- | ------------------------------------------------------ |
 | **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)    |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)         |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)         |
 | **Primary Mode**           | Energy Orb                                             |
 | **Secondary Mode**         | [Armor Piercing](../terminology/Armor_Piercing.md) Orb |
 | **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)           |
@@ -16,7 +16,7 @@
 
 The [Lasher](Lasher.md) is the
 [Heavy Assault](../certifications/Heavy_Assault.md) weapon of the
-[Vanu Sovereignty](../etc/Vanu_Sovereignty.md). It quickly fires energy orbs
+[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md). It quickly fires energy orbs
 which do significant damage on contact, as well as "Lashing" (When an orb
 brushes by the target) nearby enemy targets for minor damage. The orbs travel
 fairly quickly (as of patch [3.15.29](../patches/3.15.29.md)) but suffer from
@@ -47,5 +47,5 @@ Shots to kill (With direct orb contact within 20m.):
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 28 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

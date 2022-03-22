@@ -4,7 +4,7 @@ Pulsar](../images/PSScreenShot0290.jpg){ class="figure" }
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)        |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)        |
 | **Primary Mode**           | Standard Bolt                                         |
 | **Secondary Mode**         | Armor Piercing Bolt                                   |
 | **Ammunition**             | [Energy Cells](../ammunition/Energy_Cell.md)          |
@@ -39,5 +39,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 58 [AP Mode](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

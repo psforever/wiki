@@ -21,5 +21,5 @@ a cave by a geowarp, even when the caves rotate. This means that one
 [Home Continent](Home_Continent.md) of one [empire](../terminology/Empire.md)
 will not have an active cavern link at any give time.
 
-Geowarps are the means by which [Cavern Locks](../etc/Cavern_Lock.md) link to
-facilities to provide [Module benefits](../etc/Module_benefit.md).
+Geowarps are the means by which [Cavern Locks](../terminology/Cavern_Lock.md) link to
+facilities to provide [Module benefits](../modules/Module_benefit.md).

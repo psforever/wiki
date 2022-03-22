@@ -1,5 +1,3 @@
-**NOTOC**
-
 <table>
 <caption><strong>Fortification Engineering</strong></caption>
 <tbody>

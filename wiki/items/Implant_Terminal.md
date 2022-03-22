@@ -1,5 +1,5 @@
 ![](../images/PSScreenShot0282.jpg){ class="figure" } The Implant Terminal
-inserts cybernetic devices called [Implants](../implants/Implants.md) into
+inserts cybernetic devices called [Implants](../implants/index.md) into
 various points, or slots, of a soldier's body.
 
 These devices enhance a soldier's abilities such as speed, senses, stealth,
@@ -28,4 +28,4 @@ of the device to start hacking.
 allows the user to install implants from the left pane or remove them from the
 right pane.
 
-### [Available Implants](../implants/Implants.md)
+### [Available Implants](../implants/index.md)

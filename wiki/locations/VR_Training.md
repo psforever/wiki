@@ -22,7 +22,7 @@ setting.
 
 It is not possible to experiment with an enemy empire's specific equipment here.
 
-[Favorites](../etc/Favorites.md) may be saved here, just as at any other
+[Favorites](../terminology/Favorites.md) may be saved here, just as at any other
 Equipment Terminal. To leave the Shooting Range, enter the Teleport column in
 the centre of the room.
 
@@ -46,9 +46,9 @@ to be selected and tested. Unfortunately, there are no targets in this area to
 practice vehicle gunnery on, apart from trees and rocks.
 
 While not normally available, enemy empire-specific vehicles can be acquired
-here if your empire has [locked](../etc/Continental_lock.md) both
+here if your empire has [locked](../terminology/Continental_lock.md) both
 [Home Continents](Home_Continent.md) of an enemy empire, or has gained enemy
-vehicles through an [event](../etc/Events.md).
+vehicles through an event.
 
 There is a [Repair Silo](../items/Repair_Rearm_Silo.md) located next to the
 starting vehicle terminal, allowing Favorites to be saved, and BFR weapons to be

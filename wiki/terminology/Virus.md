@@ -16,7 +16,7 @@ Terminal and duration are listed below.
   - Removes all radar abilities for friendlies that are in the
     [SOI](../locations/Sphere_of_Influence.md) of the infected facility
 - Disable linked benefits - **15 minutes**
-  - All [module](../etc/Modules.md) benefits are disabled
+  - All [module](../modules/index.md) benefits are disabled
   - [Continent](../locations/Continent.md)/[Cavern](../locations/Caverns.md)
     lock benefits will **not** be disabled
   - Will **not** effect other linked bases
@@ -29,7 +29,7 @@ Viruses in the Main Terminal can be switched every 2 minutes or removed by an
 expert hacker at any time. The enemy will be informed of the virus 30 seconds
 after it is uploaded, and will cause the facility lights to flash green. The
 virus information will also be available by double clicking on the facility on
-the [Continental Map](../etc/Continental_Map.md), where it will show the type of
+the [Continental Map](Continental_Map.md), where it will show the type of
 virus installed if your empire installed it, or "infected" otherwise. Viruses
 cannot be installed into a base that is not powered. If the
 [generator](../items/Generator.md) is destroyed at a base with an active virus,

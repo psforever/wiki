@@ -32,12 +32,12 @@ Knife at the same time. Fusion Blades are not visible in corpse
 
 In primary mode the Fusion Blade uses slashes to damage opponents, in secondary
 fire, the speed of the slashes is increased dramatically. The Sword also glows
-(Yellow for [NC](../etc/New_Conglomerate.md), Teal for
-[VS](../etc/Vanu_Sovereignty.md), Red for [TR](../etc/Terran_Republic.md), and
+(Yellow for [NC](../terminology/New_Conglomerate.md), Teal for
+[VS](../terminology/Vanu_Sovereignty.md), Red for [TR](../terminology/Terran_Republic.md), and
 green for [Black Ops](../terminology/Black_Ops.md)) and makes a distinctive
 sound when in Secondary Mode. The damage for both modes is the same and the only
 difference between the two modes is the speed of the slashes.
 
 In both modes, the Fusion Blade will deal 19 [Health](../terminology/Health.md)
-and 6 Armor damage to all [armors](../armor/Armor_Index.md) (Full Health and
-Armor, no [Implants](../implants/Implants.md) or [MedKits](../items/MedKit.md)).
+and 6 Armor damage to all [armors](../armor/index.md) (Full Health and
+Armor, no [Implants](../implants/index.md) or [MedKits](../items/MedKit.md)).

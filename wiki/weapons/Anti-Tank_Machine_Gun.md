@@ -1,7 +1,7 @@
 |                            |                                                                                                   |
 | -------------------------- | ------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                                       |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                    |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                    |
 | **Primary Mode**           | Anti-Tank Machine Gun                                                                             |
 | **Secondary Mode**         | \-                                                                                                |
 | **Ammunition**             | [Peregrine Anti Tank Machinegun Bullets](../ammunition/Peregrine_Anti_Tank_Machinegun_Bullets.md) |
@@ -15,7 +15,7 @@
 
 The Anti Tank Machinegun chugs out depleted uranium bullets that tears up
 armored opponents. While it's rate of fire does not rival any of the
-[Terran Republics](../etc/Terran_Republic.md) rapid fire weaponry, it's
+[Terran Republics](../terminology/Terran_Republic.md) rapid fire weaponry, it's
 projectile acceleration systems make it very powerful at close range and throw
 each round to quite a distance. Unfortunately, the slug's velocity drops off at
 these latter ranges, resulting in a loss of the damage this weapon enjoys close

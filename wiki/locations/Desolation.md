@@ -37,7 +37,7 @@ All three bases on this island are
 [LLU](../terminology/Lattice_Logic_Unit.md)-capture
 [Technology Plants](../locations/Technology_Plant.md). The lack of a
 [Bio Laboratory](Bio_Laboratory.md) here means that spawn times are not modified
-by anything but [Modules](../etc/Modules.md).
+by anything but [Modules](../modules/index.md).
 
 ### [Technology Plants](../locations/Technology_Plant.md)
 

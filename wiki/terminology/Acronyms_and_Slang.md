@@ -6,7 +6,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="#0-9" title="wikilink">#</a> <a href="#A" title="wikilink">A</a> <a href="#B" title="wikilink">B</a> <a href="#C" title="wikilink">C</a> <a href="#D" title="wikilink">D</a> <a href="#E" title="wikilink">E</a> <a href="#F" title="wikilink">F</a> <a href="#G" title="wikilink">G</a> <a href="#H" title="wikilink">H</a> <a href="#I" title="wikilink">I</a> <a href="#J" title="wikilink">J</a> <a href="#K" title="wikilink">K</a> <a href="#L" title="wikilink">L</a> <a href="#M" title="wikilink">M</a> <a href="#N" title="wikilink">N</a> <a href="#O" title="wikilink">O</a> <a href="#P" title="wikilink">P</a> <a href="#Q" title="wikilink">Q</a> <a href="#R" title="wikilink">R</a> <a href="#S" title="wikilink">S</a> <a href="#T" title="wikilink">T</a> <a href="#U" title="wikilink">U</a> <a href="#V" title="wikilink">V</a> <a href="#W" title="wikilink">W</a> <a href="#X" title="wikilink">X</a> <a href="#Y" title="wikilink">Y</a> <a href="#Z" title="wikilink">Z</a> __NOTOC__</p>
+<td><p><a href="#0-9" title="wikilink">#</a> <a href="#A" title="wikilink">A</a> <a href="#B" title="wikilink">B</a> <a href="#C" title="wikilink">C</a> <a href="#D" title="wikilink">D</a> <a href="#E" title="wikilink">E</a> <a href="#F" title="wikilink">F</a> <a href="#G" title="wikilink">G</a> <a href="#H" title="wikilink">H</a> <a href="#I" title="wikilink">I</a> <a href="#J" title="wikilink">J</a> <a href="#K" title="wikilink">K</a> <a href="#L" title="wikilink">L</a> <a href="#M" title="wikilink">M</a> <a href="#N" title="wikilink">N</a> <a href="#O" title="wikilink">O</a> <a href="#P" title="wikilink">P</a> <a href="#Q" title="wikilink">Q</a> <a href="#R" title="wikilink">R</a> <a href="#S" title="wikilink">S</a> <a href="#T" title="wikilink">T</a> <a href="#U" title="wikilink">U</a> <a href="#V" title="wikilink">V</a> <a href="#W" title="wikilink">W</a> <a href="#X" title="wikilink">X</a> <a href="#Y" title="wikilink">Y</a> <a href="#Z" title="wikilink">Z</a></p>
 <p><a href="#Continental_Nicknames" title="wikilink">Continental Nicknames</a> <a href="#Outfit_Acronyms" title="wikilink">Outfit Acronyms</a></p></td>
 </tr>
 </tbody>
@@ -22,6 +22,7 @@ or [Wikipedia:Leet](Wikipedia:Leet.md).
 
 ## Continental Nicknames
 
+
 [Amerish](../locations/Amerish.md) : Amer
 [Battle Islands](../locations/Battle_Islands.md) : BI, BI's
 [Ceryshen](../locations/Ceryshen.md) : Cery [Cyssor](../locations/Cyssor.md) :
@@ -29,9 +30,10 @@ Cys, [CyssorSide](#CyssorSide) [Desolation](../locations/Oshur.md#Desolation) :
 Deso [Esamir](../locations/Esamir.md) : Esa [Forseral](../locations/Forseral.md)
 : Fors, Forsy [Hossin](../locations/Hossin.md) : Hos
 [Ishundar](../locations/Ishundar.md) : Ish [Oshur](../locations/Oshur.md) : Osh
-[TR](../etc/Terran_Republic.md)/[VS](../etc/Vanu_Sovereignty.md)/[NC](../etc/New_Conglomerate.md)
+[TR](../terminology/Terran_Republic.md)/[VS](../terminology/Vanu_Sovereignty.md)/[NC](../terminology/New_Conglomerate.md)
 [Sanctuary](../locations/Sanctuary.md) : Sanc [Searhus](../locations/Searhus.md)
 : Sear [Solsar](../locations/Solsar.md) : Sol
+
 
 ## 0-9
 
@@ -67,14 +69,14 @@ often utilizing a [Galaxy](../vehicles/Galaxy.md) or
 
 BD : short for [Back Door](../locations/Back_Door.md), referring to the back
 door of a [base](../locations/Facilities.md). Badge : Refers to
-[Merit Commendations](../merits/Merit_Commendations.md), because one can wear
+[Merit Commendations](../merits/index.md), because one can wear
 shoulder patches denoting one's merits. Bailure : The act of fighting in a
 Mosquito and then dropping onto the target after your vehicle is destroyed. Then
 repeating this single tactic until you log. _or_ One who bails from a plane
 before they would die, denying the attacker, usually anti-air, the kill. Bait :
 Grouping of enemy (or friendly) troops that are being susceptible to a
 particular attack. Flavors include OS Bait, Liberator Bait, and Thumper Bait.
-Bang Buggy : Slang term for the [Terran Republic](../etc/Terran_Republic.md)
+Bang Buggy : Slang term for the [Terran Republic](Terran_Republic.md)
 [Marauder](../vehicles/Marauder.md) Bang Bus : Common term used when referring
 to a [Sunderer](../vehicles/Sunderer.md) variant troop transport. Also called
 _Sundy_, _Funbus_, _Mack Truck_, and _Winnebego_.
@@ -119,7 +121,7 @@ Cerbs : [Cerberus Turrets](../weapons/Cerberus_Turret.md) Cert :
 [Certifications](../certifications/Certifications.md) Chair :
 [One-Manned Field Turret](../weapons/One-Manned_Field_Turret.md) ("Deploy more
 Chairs!") CN : Chinese player cont lock, contlock :
-[Continental lock](../etc/Continental_lock.md) or Continent lock. CR/BR :
+[Continental lock](Continental_lock.md) or Continent lock. CR/BR :
 [Command Rank](Command_Rank.md) and [Battle Rank](Battle_Rank.md). Crackhammer :
 A common TR term for the NC [Jackhammer](../weapons/Jackhammer.md). Crash : An
 assault from a large group of the exact same unit all in one large wave. Most
@@ -147,11 +149,11 @@ troop transport. Deployables : Name for items created with the
 Boomers, and Motion Sensors. Often interchanged with "CE." Drain : The process
 of damaging an enemy base causing the base to deplete all of it's
 [NTUs](../items/NTU.md) for auto-repairing its structures.
-([JamQ](../etc/JamQ.md) Guide on how to drain a
+([JamQ](../archive/strategy/JamQ.md) Guide on how to drain a
 [Base](../locations/Facilities.md).) Duck Walk : A celebratory "dance" players
 sometimes do after a base capture (or if there are no enemies to kill while
 waiting for the timer). Usually done by forming a line with other players and
-crouch walking while doing an [emote](../commands/Emote.md), usually the
+crouch walking while doing an [emote](../chat/Emote.md), usually the
 cabbagepatch or dunno emotes. Also called a Conga Line.
 
 ## E
@@ -168,7 +170,7 @@ confused with EAMS. Eterm :
 
 ## F
 
-Fagrider : Another name for the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+Fagrider : Another name for the [Vanu Sovereignty](Vanu_Sovereignty.md)
 [Magrider](../vehicles/Magrider.md). Fagrocket : Another name for the
 [Phoenix](../weapons/Phoenix.md) rockets. FD : Front Door, refering to the
 entrance to the main lobby in the base's [courtyard](../locations/Courtyard.md).
@@ -177,7 +179,7 @@ entrance to the main lobby in the base's [courtyard](../locations/Courtyard.md).
 that link through the lattice to other facilities. FodderSide :
 [PlanetSide Reserves](PlanetSide_Reserves.md) Fodderling : Sometimes derogatory
 term for a Reservist player. ForumSide : Refers to the "game" of posting alot on
-the [PlanetSide Forums](../etc/Planetside_Official_Forums.md). Fraggle :
+the [PlanetSide Forums](../archive/Planetside_Official_Forums.md). Fraggle :
 Referring to a player who loves to play in the
 [caverns](../locations/Caverns.md). ("We need some Fraggles to protect that
 cavern lock in Byblos!") Fragstab : The act of throwing a
@@ -224,7 +226,7 @@ location where the "LZ" (landing zone, dropzone) is otherwise "hot" (under fire)
 and unavailable for landing and dropping the contents of a
 [Galaxy](../vehicles/Galaxy.md) or [Lodestar](../vehicles/Lodestar.md) Har/Harry
 : [Harrasser](Harrasser.md) vehicle. HUD :
-[Heads-up Display](../etc/Heads-up_Display.md) Hunter : Short form of
+[Heads-up Display](Heads-up_Display.md) Hunter : Short form of
 [BFR Hunter](Acronyms_and_Slang.md#BFRHunter)
 
 ## I
@@ -254,8 +256,8 @@ JumpJets. Juice : "Armor Juice" refers to the
 
 ## K
 
-KAAOS Drop : Named after the [Emerald](../etc/Emerald.md)
-[TR](../etc/Terran_Republic.md) outfit [KAAOS](../outfits/KAAOS.md). Using
+KAAOS Drop : Named after the [Emerald](../archive/servers/Emerald.md)
+[TR](Terran_Republic.md) outfit [KAAOS](../archive/outfits/KAAOS.md). Using
 [Air Cavalry](Air_Cavalry.md) vehicles in large groups to drop on an objective,
 similar to a [Galaxy](../vehicles/Galaxy.md) drop, but twice the air speed of a
 vehicles/Galaxy.mdGalaxy.md). This drop would then be followed by a
@@ -286,7 +288,7 @@ MA : [Medium Assault](../certifications/Medium_Assault.md) certification or
 called "Magmower" Meat Shield : Any player that likes to run directly into the
 hail of enemy bullets, there by providng you with instant cover, intentionally
 or not. Mods: Short for the [Core Combat](../items/Core_Combat.md)
-[Modules](../etc/Modules.md) Mono : Short for [Monolith](../items/Monolith.md)
+[Modules](../modules/index.md) Mono : Short for [Monolith](../items/Monolith.md)
 
 ## N
 
@@ -296,10 +298,10 @@ kinda lost, I'm gonna go give him some help." NME : Enemy noob (insult) :
 Someone, potentially a new player, that is unskilled and refuses to improve, or
 refuses help to improve (ie; training, advice). ex; "Wow, look at that total
 noob. He'll never get better if he keeps playing like that." N00b Conglomerate :
-A derogatory term for the [New Conglomerate](../etc/New_Conglomerate.md) empire,
-or a Reservist playing on the [New Conglomerate](../etc/New_Conglomerate.md)
+A derogatory term for the [New Conglomerate](New_Conglomerate.md) empire,
+or a Reservist playing on the [New Conglomerate](New_Conglomerate.md)
 empire. noobfire : Refers to the [Starfire MAX](../armor/Starfire.md) noobhammer
-: Insult form of the [NC](../etc/New_Conglomerate.md)
+: Insult form of the [NC](New_Conglomerate.md)
 [Jackhammer](../weapons/Jackhammer.md), commonly used by both players killed by
 it, and sometimes used by players using the weapon referring to how overpowered
 they think this weapon is.
@@ -307,7 +309,7 @@ they think this weapon is.
 ## O
 
 omw : On my way. otw : On the way. OS :
-[Orbital Strike](../commands/Orbital_Strike.md)
+[Orbital Strike](Orbital_Strike.md)
 
 ## P
 
@@ -342,7 +344,7 @@ rolling coffin : [Sunderer](../vehicles/Sunderer.md).
 SA : [Special Assault](../certifications/Special_Assault.md) certification or
 [weapons](../weapons/Weapon.md). Sanc : Refers to an empire's
 [Sanctuary](../locations/Sanctuary.md) ScatMax : Refers to the
-[New Conglomerate](../etc/New_Conglomerate.md)
+[New Conglomerate](New_Conglomerate.md)
 [Scattercannon](../armor/Scattercannon.md) Anti-Infantry
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Scrub : Refers to a player whose
 objectives are unclear, or you just don't know the guy, a stranger to you.
@@ -369,7 +371,7 @@ Operations. Refers to surgical strike missions such as destroying
 [generators](../items/Generator.md), [Galaxy](../vehicles/Galaxy.md) drop
 operations on bases and towers, or intense small squad missions apart from the
 main force. SplatMAX, SplatterMAX : Common referrence to the
-[NC](../etc/New_Conglomerate.md) Anti Infantry
+[NC](New_Conglomerate.md) Anti Infantry
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md), the
 [Scattercannon](../armor/Scattercannon.md) . Spit/Spitter :
 [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret)
@@ -384,7 +386,7 @@ uttered by players frusturated by the excessive use of strafe tactics by a
 ## T
 
 Thun/Thundy : [Thunderer](../vehicles/Thunderer.md), the
-[New Conglomerate](../etc/New_Conglomerate.md)-specific advanced
+[New Conglomerate](New_Conglomerate.md)-specific advanced
 [Deliverer](../vehicles/Deliverer.md). TK : Teamkill - when one intentionally
 (or unintentionally) kills a teammate. Often happens with OSes. Also Total Kills
 TKer : Someone who makes a habit of killing teammates, or trying to. They may be
@@ -408,7 +410,7 @@ Auraxian Trees which just CANNOT be damaged. **_At all._** 'Nerf the trees..'
 ## V
 
 VG, Van, Vang, Vanny : [Vanguard](../vehicles/Vanguard.md) Van00b : Offensive
-term for the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) - used when one is
+term for the [Vanu Sovereignty](Vanu_Sovereignty.md) - used when one is
 being attacked by several Vanu Reservists - ie; "Help! I'm being swarmed by
 Van00bs!" Vent :[Ventrilo](http://www.Ventrilo.com), voice communication
 software. VPad : Vehicle Creation Pad. See also VT. VT, Vterm :
@@ -436,29 +438,29 @@ Command/Battle/Support Experience Points
 zerg : Adopted from [StarCraft](http://www.blizzard.com/starcraft), referring to
 mass movements of troops with little or no tactical movement whatsoever, or an
 [empire](Empire.md)'s primary assault. Once used to describe the
-[Terran Republic](../etc/Terran_Republic.md) towards the start of PlanetSide.
+[Terran Republic](Terran_Republic.md) towards the start of PlanetSide.
 _"Look at that foot zerg..it's like a sea of red.." "Send the zerg to Forseral,
 and have them beat on the VS at Ogma for a bit."_
 
 ## Outfit Acronyms
 
 666th : [666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs")
-[Outfit](Outfit.md) ([NC](../etc/New_Conglomerate.md)) 88s : Crazy 88s Outfit
-(NC) AC : Ahriman Corps Outfit ([VS](../etc/Vanu_Sovereignty.md)) AT : Azure
+[Outfit](Outfit.md) ([NC](New_Conglomerate.md)) 88s : Crazy 88s Outfit
+(NC) AC : Ahriman Corps Outfit ([VS](Vanu_Sovereignty.md)) AT : Azure
 Twilight Outfit (VS) AO : Adrenaline Ops Outfit (VS) CS : Central Spike Outfit
 (VS) DD's : [666th Spec. Ops "Devil Dogs"](666th_Spec.md._Ops_"Devil_Dogs")
-Outfit (NC) DS : [Dark Skyes](../outfits/Dark_Skyes.md) (TR) DT :
-[Delta Triad](../outfits/Delta_Triad.md) Outfit (VS) FC :
-[Future Crew](../outfits/Future_Crew.md) Outfit (VS) HG : Hired Guns Outfit (NC)
+Outfit (NC) DS : [Dark Skyes](../archive/outfits/Dark_Skyes.md) (TR) DT :
+[Delta Triad](../archive/outfits/Delta_Triad.md) Outfit (VS) FC :
+[Future Crew](../archive/outfits/Future_Crew.md) Outfit (VS) HG : Hired Guns Outfit (NC)
 Ht : Refers to the Hostile Takeover Outfit (NC) KOJ:
-[KEEPERS of JOHARI](../outfits/KEEPERS_of_JOHARI.md) Outfit (VS) KOTOR :
-[Knights of the Old Republic](../outfits/Knights_of_The_Old_Republic.md) Outfit
-([TR](../etc/Terran_Republic.md)) OC : outcasters Outfit (TR) PCP :
-[Psychedelic Clown Posse](../outfits/Psychedelic_Clown_Posse.md) Outfit (TR) PH
+[KEEPERS of JOHARI](../archive/outfits/KEEPERS_of_JOHARI.md) Outfit (VS) KOTOR :
+[Knights of the Old Republic](../archive/outfits/Knights_of_The_Old_Republic.md) Outfit
+([TR](Terran_Republic.md)) OC : outcasters Outfit (TR) PCP :
+[Psychedelic Clown Posse](../archive/outfits/Psychedelic_Clown_Posse.md) Outfit (TR) PH
 : Purple Haze Outfit (VS) SS : Soul_Strike Outfit (VS) RedX : Better RED than
 DEAD Outfit (TR) TRx :
-[Knights of the Old Republic](../outfits/Knights_of_The_Old_Republic.md) Outfit
+[Knights of the Old Republic](../archive/outfits/Knights_of_The_Old_Republic.md) Outfit
 (TR) ULTRA : United League of Terran Republic Alliances (TR) VC :
-[Victor Company](../outfits/Victor_Company.md) Oufit (NC) And
-[Vanu Corporation](../outfits/Vanu_Corporation.md) (VS) WNx :
+[Victor Company](../archive/outfits/Victor_Company.md) Oufit (NC) And
+[Vanu Corporation](../archive/outfits/Vanu_Corporation.md) (VS) WNx :
 [Warrior Nation](Warrior_Nation.md) Outfit (VS)

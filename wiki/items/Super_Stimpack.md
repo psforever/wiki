@@ -1,7 +1,7 @@
 |                                                                     |                                                                 |
 | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Certification Required**                                          | None                                                            |
-| **[Merit Commendation](../merits/Merit_Commendations.md) Required** | [Holiday Gingerbread Men](../merits/Holiday_Gingerbread_Men.md) |
+| **[Merit Commendation](../merits/index.md) Required** | [Holiday Gingerbread Men](../merits/Holiday_Gingerbread_Men.md) |
 | **Empire**                                                          | [Common Pool](../terminology/Common_Pool.md)                    |
 | **Primary Mode**                                                    | Restores 100 [Stamina](../terminology/Stamina.md) Points        |
 | **Secondary Mode**                                                  | \-                                                              |

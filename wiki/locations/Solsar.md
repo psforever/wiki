@@ -27,7 +27,7 @@ bases more defensible to standard massed armor attacks.
 ---
 
 Source: Planetside In-game descriptions, pre- and
-post-[Bending](../etc/The_Bending.md).
+post-[Bending](../terminology/The_Bending.md).
 
 This continent is also refered to as
 [Sol](../terminology/Acronyms_and_Slang.md). Solsar is a

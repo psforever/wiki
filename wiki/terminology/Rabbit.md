@@ -8,7 +8,7 @@ will be displayed on your map by an orange [waypoint](Waypoint.md). Kills made
 in close proximity to the rabbit ball will be rewarded with an extra 25%
 [experience point](Battle_Experience_Points.md) bonus to the killer and those in
 his/her [squad](Squad.md), which is added to any
-[empire incentive](../etc/Empire_Incentives.md) already in place.
+[empire incentive](Empire_Incentives.md) already in place.
 
 The objective of the Rabbit event is for an empire to keep possession of the
 Rabbit ball and accumulate points towards a certain point goal (typically 1000)
@@ -19,7 +19,7 @@ before any other empire can reach the same point goal.
 Any player of any empire can pick up the Rabbit ball. That player can also get
 into a friendly ground [vehicle](../vehicles/Vehicle.md), subject to the same
 vehicle restrictions as an [LLU](Lattice_Logic_Unit.md) or
-[Module](../etc/Modules.md) carrier. However, there are additional restrictions
+[Module](../modules/index.md) carrier. However, there are additional restrictions
 for the Rabbit ball carrier.
 
 The Rabbit ball carrier cannot enter the following areas:
@@ -70,4 +70,4 @@ equipment, bonuses to experience or other perks.
 
 The most common use for a Rabbit event is to end a 3-way battle in a zone that
 has lasted many days. The most common reward is a
-[continental lock](../etc/Continental_lock.md) on that zone for 12 hours.
+[continental lock](Continental_lock.md) on that zone for 12 hours.

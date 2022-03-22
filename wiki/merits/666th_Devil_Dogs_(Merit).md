@@ -35,10 +35,10 @@
 </table>
 
 For consistent and demonstrated dedication to
-[PlanetSide](../etc/PlanetSide.md), it's community, and it's Developers, the
-[666th Spec. Ops "Devil Dogs"](../outfits/666th_Spec._Ops_"Devil_Dogs".md)
-Outfit of the [New Conglomerate](../etc/New_Conglomerate.md) on
-[Markov](../etc/Markov.md) were awarded a special
-[Merit Commendation](Merit_Commendations.md) from
-[SOE](../etc/Sony_Online_Entertainment.md) handed out by the great Sporkfire
+[PlanetSide](../PlanetSide.md), it's community, and it's Developers, the
+[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_"Devil_Dogs".md)
+Outfit of the [New Conglomerate](../terminology/New_Conglomerate.md) on
+[Markov](../archive/servers/Markov.md) were awarded a special
+[Merit Commendation](index.md) from
+[SOE](../Sony_Online_Entertainment.md) handed out by the great Sporkfire
 himself.

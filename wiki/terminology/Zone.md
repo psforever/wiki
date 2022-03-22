@@ -8,6 +8,6 @@ within the zone.
 Entering and leaving a zone will also instruct the Client to load and unload the
 graphical resources needed to display that area.
 
-Zones in [PlanetSide](../etc/PlanetSide.md) are referred to as
+Zones in [PlanetSide](../PlanetSide.md) are referred to as
 [Planets](../locations/Planet.md), [Continents](../locations/Continent.md), and
 [Caverns](../locations/Caverns.md).

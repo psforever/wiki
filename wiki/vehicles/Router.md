@@ -34,8 +34,8 @@ minutes if it loses ownership.
 
 Despite being an [Ancient Tech](../terminology/Ancient_Technology.md) vehicle,
 the Router can be spawned anywhere an [AMS](Advanced_Mobile_Station.md) can
-(does not require a [Vehicle Module](../etc/Vehicle_Module.md) or
-[Cavern Lock](../etc/Cavern_Lock.md)). Similar to an
+(does not require a [Vehicle Module](../modules/Vehicle_Module.md) or
+[Cavern Lock](../terminology/Cavern_Lock.md)). Similar to an
 [AMS](Advanced_Mobile_Station.md), you can gain
 [Support Experience Points](../terminology/Support_Experience_Points.md) by
 owning a deployed Router (or deploying a [Telepad](../weapons/Telepad.md) for

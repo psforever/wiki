@@ -1,9 +1,9 @@
 |                                                                     |                                                                 |
 | ------------------------------------------------------------------- | --------------------------------------------------------------- |
 | **Certification Required**                                          | None                                                            |
-| **[Merit Commendation](../merits/Merit_Commendations.md) Required** | [Holiday Spirit of Youth](../merits/Holiday_Spirit_of_Youth.md) |
+| **[Merit Commendation](../merits/index.md) Required** | [Holiday Spirit of Youth](../merits/Holiday_Spirit_of_Youth.md) |
 | **Empire**                                                          | [Common Pool](../terminology/Common_Pool.md)                    |
-| **Primary Mode**                                                    | Restores 200 [Armor](../armor/Armor_Index.md) Points            |
+| **Primary Mode**                                                    | Restores 200 [Armor](../armor/index.md) Points            |
 | **Secondary Mode**                                                  | \-                                                              |
 | **Ammunition**                                                      | \-                                                              |
 | **Inventory Dimensions**                                            | 2 x 4                                                           |

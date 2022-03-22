@@ -106,4 +106,4 @@ Each of the first three levels of the above merits will yield the successive
 level of Weapons Citation.
 
 **Note:** Completing the Kill Streaks for the above
-[Merits](Merit_Commendations.md) is not required to obtain this Merit.
+[Merits](index.md) is not required to obtain this Merit.

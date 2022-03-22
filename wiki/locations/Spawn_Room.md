@@ -13,7 +13,7 @@ several[lockers](../items/Lockers.md) and 3
 
 Respawn rooms are protected by low-energy
 [Pain Fields](../terminology/Pain_Field.md). If a
-[Pain Module](../etc/Pain_Module.md) is installed, this pain field is even more
+[Pain Module](../modules/Pain_Module.md) is installed, this pain field is even more
 lethal.
 
 The Respawn room is adjacent to the [lounge](../merits/Lounge.md) and above the
@@ -33,4 +33,4 @@ Spawn Rooms are also indestructable, making it harder to defend a
 [Cavern](Caverns.md) [Facility](Facilities.md) because you cannot prevent the
 Enemy from respawning and getting their gear. Cavern Spawn Rooms have a
 [Pain Field](../terminology/Pain_Field.md) strength equal to that of a
-[Pain Module](../etc/Pain_Module.md) by default.
+[Pain Module](../modules/Pain_Module.md) by default.

@@ -3,10 +3,10 @@ The Continental Lattice is a network of links between all
 [warpgates](../locations/Warpgate.md) on a
 [continent](../locations/Continent.md). This network determines which base is
 next available for capture by each Empire. The network can be viewed on each
-continent's [Continental Map](../etc/Continental_Map.md) view.
+continent's [Continental Map](Continental_Map.md) view.
 
 In addition, [Facility Linked Benefits](Facility_Linked_Benefit.md) and
-[module benefits](../etc/Module_benefit.md) are shared along unbroken chains in
+[module benefits](../modules/Module_benefit.md) are shared along unbroken chains in
 the lattice. Any disruption in this chain, be it a destroyed
 [generator](../items/Generator.md), enemy hack, or a base turning neutral, will
 break this link and sever the benefit.
@@ -37,7 +37,7 @@ In game fiction terms, the lattice is the web of warpgate energy shunted through
 each base to allow for respawn points and the conversion of nanites into energy
 for powering systems.
 
-Before [The Bending](../etc/The_Bending.md), lattice networks sprawled between
+Before [The Bending](The_Bending.md), lattice networks sprawled between
 all warpgates on a continent. After The Bending, and the appearance of the
 Battle Islands, some of these warpgates have become inactive, shifting the
 lattice links between bases.

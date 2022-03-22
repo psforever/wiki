@@ -17,7 +17,7 @@ drain rate. [Capitols](../locations/Capitol.md) that have their
 [Force Dome](../items/Force_Dome.md) active do not consume NTU for autorepair,
 and thus cannot turn neutral.
 
-Any [Modules](../etc/Modules.md) installed at the facility when it goes neutral
+Any [Modules](../modules/index.md) installed at the facility when it goes neutral
 are destroyed.
 
 Occasionally a special in-game event will cause a base to go **neutral** without

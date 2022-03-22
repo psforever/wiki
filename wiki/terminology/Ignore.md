@@ -3,7 +3,7 @@ you a tell, they will receive a "_That player is ignoring you_" message. If a
 Player that you have on Ignore sends you a
 [Squad](Squad.md)/[Platoon](Platoon.md)/[Outfit](Outfit.md) Invite, they will
 receive an automatic "Invite Declined Message". If a player you have on ignore
-has you on his/her [Friends List](../commands/Friends_List.md), you will not
+has you on his/her [Friends List](../chat/Friends_List.md), you will not
 show as online even if you actually are.
 
 To modify your ignore list, the following command can be used in the chat pane:

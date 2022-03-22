@@ -34,5 +34,5 @@
 </tbody>
 </table>
 
-This [Merit](Merit_Commendations.md) was awarded to the SOE Player of the Year
-2007: EVILPIG from [NC](../etc/New_Conglomerate.md) [Markov](../etc/Markov.md).
+This [Merit](index.md) was awarded to the SOE Player of the Year
+2007: EVILPIG from [NC](../terminology/New_Conglomerate.md) [Markov](../archive/servers/Markov.md).

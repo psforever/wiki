@@ -1,5 +1,5 @@
 **FPS** can have one of two meanings in the context of
-[PlanetSide](../etc/PlanetSide.md):
+[PlanetSide](../PlanetSide.md):
 
 Frames Per Second : How many frames the graphics card is able to render in one
 second.

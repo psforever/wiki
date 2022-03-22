@@ -74,7 +74,7 @@ rematrix order. However, they can be used to recall the squad or Platoon to
 Sanctuary and Commanders will be able to receive information on the timers for
 these abilities. The CUD is able to issue a Recall to Sanctuary order while in
 the Sanctuary, but other functionality of the CUD is not available (such as
-firing an [Orbital Strike](../commands/Orbital_Strike.md) on a Sanctuary).
+firing an [Orbital Strike](Orbital_Strike.md) on a Sanctuary).
 
 The Squad List has two columns: One displays which facility each Squad member is
 bound to, and the other is a checkbox that indicates if that Squad member is

@@ -24,7 +24,7 @@ damage from the weapon is cut in half if you are in a vehicle or in a
 
 In addition to the [Special Assault](../certifications/Special_Assault.md)
 [Certification](../certifications/Certifications.md), unless the user is in the
-core, the base must have an [Equipment Module](../items/Equipment_Module.md)
+core, the base must have an [Equipment Module](../modules/Equipment_Module.md)
 installed for the weapon to be purchased.
 
 In primary mode, the projectile will bounce off hard surfaces and will explode
@@ -39,7 +39,7 @@ While not damaging the shields or armor of
 [BFRs](../vehicles/BattleFrame_Robotics.md), the radiator can still damage BFR
 systems such as sensor and aiming systems, as well as reduce the health of the
 driver/gunner. Combined with a [Jammer grenade](Jammer_Grenade.md) or
-[EMP](../commands/EMP.md) blast, the radiator can be used to either kill the
+[EMP](../terminology/EMP.md) blast, the radiator can be used to either kill the
 ocupants of a [BFR](../vehicles/BattleFrame_Robotics.md) or make them eject,
 leaving you with an otherwise undamaged
 [BFR](../vehicles/BattleFrame_Robotics.md) that can be

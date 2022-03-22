@@ -8,7 +8,7 @@ A [Respawn timer](Respawn_timer.md) governs how quickly a player transitions
 from death to respawning. The timer increases with each death, but can be
 reduced by staying alive longer or with the
 [Bio Laboratory](../locations/Bio_Laboratory.md) or
-[Speed Module](../etc/Speed_Module.md) benefits.
+[Speed Module](../modules/Speed_Module.md) benefits.
 
 Respawning is sometimes refered to simply as Spawning.
 

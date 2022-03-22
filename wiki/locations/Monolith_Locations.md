@@ -1,6 +1,6 @@
 These are the locations of the [Monoliths](../items/Monolith.md) that must be
 visited to obtain the [Exploration]../merits/Exploration\_(Merit).md)
-[Merit Commendation](../merits/Merit_Commendations.md)
+[Merit Commendation](../merits/index.md)
 
 - [Amerish](Amerish.md): N6, on the coast
 - [Ceryshen](Ceryshen.md): J9, Bottom of the canyon, East side of the bridge

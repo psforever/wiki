@@ -3,9 +3,9 @@
 
 The three Empires are:
 
-- The [Terran Republic](../etc/Terran_Republic.md)
-- The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
-- The [New Conglomerate](../etc/New_Conglomerate.md)
+- The [Terran Republic](Terran_Republic.md)
+- The [Vanu Sovereignty](Vanu_Sovereignty.md)
+- The [New Conglomerate](New_Conglomerate.md)
 
 Every player is allowed to choose their Empire when creating a new character.
 They are free to pick based upon any criteria they see fit, including backstory,

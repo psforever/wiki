@@ -1,8 +1,8 @@
 [Auraxis](Auraxis.md) is the name of the "construct" in which
-[PlanetSide's story](../etc/PlanetSide_Backstory.md) play takes place.
+[PlanetSide's story](../archive/PlanetSide_Backstory.md) play takes place.
 Initially, it was a planet-like body of ten [continents](Continent.md) colonized
-by the [Terran Republic](../etc/Terran_Republic.md). After
-[The Bending](../etc/The_Bending.md) however, it became a set of interconnected
+by the [Terran Republic](../terminology/Terran_Republic.md). After
+[The Bending](../terminology/The_Bending.md) however, it became a set of interconnected
 [planets](Planet.md) and moons, with the [warp gates](Warpgate.md) allowing
 PlanetSide soldiers to cross galactic distances.
 

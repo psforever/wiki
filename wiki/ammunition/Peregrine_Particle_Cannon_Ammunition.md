@@ -1,7 +1,7 @@
 |                                                 |                                                                                                  |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Used by**                                     | [Peregrine](../vehicles/Peregrine.md) using the [Particle Cannon](../weapons/Particle_Cannon.md) |
-| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md)                                                   |
+| **Empire**                                      | [New Conglomerate](../terminology/New_Conglomerate.md)                                                   |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                              |
 | **Quantity per box**                            | 40 Rounds                                                                                        |
 

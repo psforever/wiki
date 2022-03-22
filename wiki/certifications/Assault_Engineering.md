@@ -1,5 +1,3 @@
-**NOTOC**
-
 <table>
 <caption><strong>Assault Engineering</strong></caption>
 <tbody>
@@ -61,10 +59,10 @@ more information see
 
 The One-Manned Field Turret, or OMFT for short, has it's own variant for all
 three [Empires](../terminology/Empire.md). The
-[New Conglomerate](../etc/New_Conglomerate.md) gets the
-[Osprey](../weapons/Osprey.md), the [Terran Republic](../etc/Terran_Republic.md)
+[New Conglomerate](../terminology/New_Conglomerate.md) gets the
+[Osprey](../weapons/Osprey.md), the [Terran Republic](../terminology/Terran_Republic.md)
 has the [Avenger](../weapons/Avenger.md) and the
-[Vanu Sovereignty](../etc/Vanu_Sovereignty.md) has the
+[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) has the
 [Orion](../weapons/Orion.md). These Turrets are designed to supress the Enemy in
 the Field, and have [weaponry](../weapons/Weapon.md) similar to their
 Anti-Infantry [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units. For more

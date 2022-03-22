@@ -1,5 +1,5 @@
 Refers to the links between [continents](../locations/Continent.md) and
-[planets](../locations/Planet.md) in the [Post-Bending](../etc/The_Bending.md)
+[planets](../locations/Planet.md) in the [Post-Bending](The_Bending.md)
 [Auraxis](../locations/Auraxis.md). Similar to the
 [Continental Lattice](Lattice.md), the **Galactic Lattice** allows
 [Empires](Empire.md) to teleport from planet to planet, or to the caverns, via
@@ -64,11 +64,11 @@ warpgates.
 
 To give players a change in gameplay, the Lattice was changed once more. All
 home planets were rotated to a different empire, changing the links to each
-planet. The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) acquired
+planet. The [Vanu Sovereignty](Vanu_Sovereignty.md) acquired
 [Forseral](../locations/Forseral.md) and [Ceryshen](../locations/Ceryshen.md),
-the [Terran Republic](../etc/Terran_Republic.md) was granted
+the [Terran Republic](Terran_Republic.md) was granted
 [Solsar](../locations/Solsar.md) and [Hossin](../locations/Hossin.md), and the
-[New Conglomerate](../etc/New_Conglomerate.md) was given
+[New Conglomerate](New_Conglomerate.md) was given
 [Amerish](../locations/Amerish.md) and [Esamir](../locations/Esamir.md). This
 was done so that each empire can experience battles from a different
 perspective.

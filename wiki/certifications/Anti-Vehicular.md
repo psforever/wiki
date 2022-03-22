@@ -29,4 +29,4 @@
 
 This [Certification](Certification.md) is required to obtain the
 [Anti-Armor](../merits/Anti-Armor.md)
-[Merit Commendation](../merits/Merit_Commendations.md).
+[Merit Commendation](../merits/index.md).

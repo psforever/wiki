@@ -1,4 +1,4 @@
-[Locking](../etc/Continental_lock.md) a continent can carry with it a unique
+[Locking](Continental_lock.md) a continent can carry with it a unique
 benefit for the Empire holding that [planet](../locations/Planet.md). These
 benefits apply to all facilities regardless of a
 [Galactic Lattice](Galactic_Lattice.md) link.
@@ -19,21 +19,21 @@ Home Continent Empire benefits persist until an opposing Empire recaptures and
 locks one of their home continents.
 
 [Ceryshen](../locations/Ceryshen.md) & [Forseral](../locations/Forseral.md)
-([VS](../etc/Vanu_Sovereignty.md)) : [Magriders](../vehicles/Magrider.md),
+([VS](Vanu_Sovereignty.md)) : [Magriders](../vehicles/Magrider.md),
 [Auroras](../vehicles/Aurora.md), [Threshers](../vehicles/Thresher.md),
 [Aphelions](../vehicles/Aphelion.md) & [Eclipses](../vehicles/Eclipse.md)
 
 <!-- -->
 
 [Amerish](../locations/Amerish.md) & [Esamir](../locations/Esamir.md)
-([NC](../etc/New_Conglomerate.md)) : [Vanguards](../vehicles/Vanguard.md),
+([NC](New_Conglomerate.md)) : [Vanguards](../vehicles/Vanguard.md),
 [Thunderers](../vehicles/Thunderer.md), [Enforcers](../vehicles/Enforcer.md),
 [Peregrines](../vehicles/Peregrine.md) & [Eagles](../vehicles/Eagle.md)
 
 <!-- -->
 
 [Solsar](../locations/Solsar.md) & [Hossin](../locations/Hossin.md)
-([TR](../etc/Terran_Republic.md)) : [Prowlers](../vehicles/Prowler.md),
+([TR](Terran_Republic.md)) : [Prowlers](../vehicles/Prowler.md),
 [Raiders](../vehicles/Raider.md), [Marauders](../vehicles/Marauder.md),
 [Colossuses](../vehicles/Colossus.md) & [Invaders](../items/Invader.md)
 

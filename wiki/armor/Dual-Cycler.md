@@ -4,7 +4,7 @@
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                               |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                               |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Normal fire                                                                                                                                |
 | **Secondary Mode**         | \-                                                                                                                                         |
@@ -16,7 +16,7 @@
 
 The **Dual-Cycler** is the current
 [Anti-Infantry MAX](<../certifications/Anti-Aircraft_MAX_(Certification).md>) of
-the [Terran Republic](../etc/Terran_Republic.md). It boasts two large chainguns
+the [Terran Republic](../terminology/Terran_Republic.md). It boasts two large chainguns
 on both its arms that can literally shower an enemy with ordinance. The "Anchor"
 ability locks the [MAX](../armor/Mechanized_Assault_Exo-Suit.md) in place and
 reduces its field of fire, but essentially doubles it rate of fire and reduces
@@ -33,5 +33,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 75 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

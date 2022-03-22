@@ -1,5 +1,5 @@
 There are a few different types of **plasma** found in
-[PlanetSide](../etc/PlanetSide.md), all of them dangerous. All types continue to
+[PlanetSide](../PlanetSide.md), all of them dangerous. All types continue to
 do damage after the initial impact. Soldiers can only take two instances of this
 secondary damage at the same time. Additional instances are ignored until the
 first one wears off. Note, however, that the damage taken from the initial
@@ -16,14 +16,14 @@ Ignited by [Plasma grenades](Plasma_grenade.md), this distinct green fire can be
 applied to a large group very quickly via hand [grenades](../items/Grenade.md),
 the [Thumper](Thumper.md), or the [Punisher](Punisher.md).
 
-## [VS](../etc/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Plasma
+## [VS](../terminology/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Plasma
 
 These aggravated-damage plasma fields are
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) in nature, being
 distributed by the orbs of the [Starfire](../armor/Starfire.md) and
 [Comet](../armor/Comet.md) [MAXes](../armor/Mechanized_Assault_Exo-Suit.md), as
 well as the [Starfire BFR Weapon](<../items/Starfire_(BFR).md>) of the
-[Vanu Sovereignty](../etc/Vanu_Sovereignty.md). Soldiers taking damage from this
+[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md). Soldiers taking damage from this
 type of plasma glow purple.
 
 ## [BFR](../vehicles/BattleFrame_Robotics.md) [Plasma Mortars](Plasma_Mortar.md)

@@ -7,7 +7,7 @@
 | **Type**                   | Heavy Assault Buggy                                                                                                      |
 | **Role**                   | Attack                                                                                                                   |
 | **Certification Required** | [Assault Buggy](<../certifications/Assault_Buggy_(Certification).md>) or [Light Scout](../certifications/Light_Scout.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                           |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                           |
 | **Primary Weapon**         | [Flux Cannon](../weapons/Flux_Cannon.md)                                                                                 |
 | **Secondary Weapon**       | \-                                                                                                                       |
 | **Ammunition Used**        | [Flux Battery](../ammunition/Flux_Battery.md)                                                                            |

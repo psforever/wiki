@@ -3,7 +3,7 @@
 |                            |                                                                                                                                            |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Certification Required** | [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>) or [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                             |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                             |
 | **Armor**                  | 650                                                                                                                                        |
 | **Primary Mode**           | Standard Bolts                                                                                                                             |
 | **Secondary Mode**         | Armor Piercing Bolts                                                                                                                       |
@@ -13,7 +13,7 @@
 
 **Quasar**
 
-The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
+The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s
 [Anti-Infantry MAX](<../certifications/Anti-Infantry_MAX_(Certification).md>)—the
 **Quasar**—rapidly fires energy bolts similar to the
 [Pulsar](../weapons/Pulsar.md) rifle. While definitely best-suited for an
@@ -33,5 +33,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md) | 63 [AP Mode](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

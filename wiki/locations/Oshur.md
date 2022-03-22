@@ -9,9 +9,9 @@ giving rise to lively discussions about the Ancient Vanu that were there before.
 This single-mass continent is now most commonly referred to as
 "[Oshur Prime](../locations/Oshur_Prime.md)."
 
-## [The Bending](../etc/The_Bending.md): [Battle Islands](Battle_Islands.md)
+## [The Bending](../terminology/The_Bending.md): [Battle Islands](Battle_Islands.md)
 
-When [The Bending](../etc/The_Bending.md) occurred, ripping apart our reality
+When [The Bending](../terminology/The_Bending.md) occurred, ripping apart our reality
 and spreading the [Auraxian](Auraxis.md) continents across a dozen worlds, Oshur
 was erased or torn asunder. In its place appeared 4 smaller landmasses we now
 call "The [Battle Islands](Battle_Islands.md)."

@@ -4,7 +4,7 @@ combat from anywhere in the game.
 The location a soldier is sent to is partly determined by the number and
 frequency of [Hotspots](Hotspot.md) on the various
 [Planet](../locations/Planet.md) maps, along with friendly population already in
-place, along with [Empire Lock](../etc/Empire_Lock.md) and [Population
+place, along with [Empire Lock](Empire_Lock.md) and [Population
 lock](Population_Lock.md
 
 To use Instant Action, either type '/ia' or '/instantaction' into the chat box,
@@ -17,7 +17,7 @@ As with [Recall](Recall.md), location affects timer:
 - Enemy SOI: 30 seconds
 
 Activating Instant Action will turn off (but not uninitialize)
-[implants](../implants/Implants.md) and deactivate cloak (if any). Moving,
+[implants](../implants/index.md) and deactivate cloak (if any). Moving,
 jumping, cloaking or activating implants will all cancel the Instant Action
 countdown.
 

@@ -27,7 +27,7 @@ Ideal uses for the thumper are in [Back Door](../locations/Back_Door.md) or
 user to fire around corners, saturating a target or area without visual contact.
 In addition, when loaded with a supply of [Jammer grenades](Jammer_Grenade.md),
 they can be quite handy eliminating minefields on
-[Galaxy](../vehicles/Galaxy.md) drops when a Command [EMP](../commands/EMP.md)
+[Galaxy](../vehicles/Galaxy.md) drops when a Command [EMP](../terminology/EMP.md)
 is not available.
 
 Aspiring Special Assault soldiers should start by loading
@@ -46,4 +46,4 @@ the [Rocklet Rifle](Rocklet_Rifle.md) and the [Radiator](Radiator.md).
 Merit-qualified kills with the Thumper count towards both the
 [Grenadier](../merits/Grenadier.md) and [Special
 Assault]../merits/Special*Assault*(Merit).md)
-[Merit Commendations](../merits/Merit_Commendations.md).
+[Merit Commendations](../merits/index.md).

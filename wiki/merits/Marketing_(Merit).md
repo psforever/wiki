@@ -35,5 +35,5 @@
 </table>
 
 This merit was awarded to players who participated in the filming of an in-game
-marketing movie on the [Test Server](../etc/Test_Server.md) for
-[The Bending](../etc/The_Bending.md).
+marketing movie on the [Test Server](../archive/servers/Test_Server.md) for
+[The Bending](../terminology/The_Bending.md).

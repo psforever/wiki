@@ -4,7 +4,7 @@
 |                            |                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Assault Engineering](../certifications/Assault_Engineering.md) or [Advanced Engineering](../certifications/Advanced_Engineering.md)         |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md), [Terran Republic](../etc/Terran_Republic.md), [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md), [Terran Republic](../terminology/Terran_Republic.md), [Vanu Sover../terminology/Vanu_Sovereignty.mdignty.md) |
 | **Primary Mode**           | Deploy Field Turret                                                                                                                          |
 | **Secondary Mode**         | \-                                                                                                                                           |
 | **Ammunition**             | \-                                                                                                                                           |
@@ -18,9 +18,9 @@ The One-Manned Field Turrets are designed to supress Infantry, and deal good
 damage against ground and air [Vehicles](../vehicles/Vehicle.md).
 
 All three [Empires](../terminology/Empire.md) have their own variant of the
-OMFT, the [New Conglomerate](../etc/New_Conglomerate.md) has the
-[Osprey](Osprey.md), the [Terran Republic](../etc/Terran_Republic.md) has the
-[Avenger](Avenger.md) and the [Vanu Sovereignty](../etc/Vanu_Sovereignty.md) has
+OMFT, the [New Conglomerate](../terminology/New_Conglomerate.md) has the
+[Osprey](Osprey.md), the [Terran Republic](../terminology/Terran_Republic.md) has the
+[Avenger](Avenger.md) and the [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) has
 the [Orion](Orion.md). The OMFTs have weaponry similar to that of the
 Anti-Infantry [MAX](../armor/Mechanized_Assault_Exo-Suit.md) of each Empire.
 
@@ -49,14 +49,14 @@ with [AMSes](../vehicles/Advanced_Mobile_Station.md),
 will deconstruct automatically in about 5 minutes.
 
 Kills made with OMFTs count toward empire specific OMFT
-[merits](../merits/Merit_Commendations.md):
+[merits](../merits/index.md):
 [Avenger Gunner](../merits/Avenger_Gunner.md) for the Avenger,
 [Orion Gunner](../merits/Orion_Gunner.md) for the Orion, and
 [Osprey Gunner](../merits/Osprey_Gunner.md) for the Osprey. These kills also
 count toward the general [Turret Gunner](../merits/Turret_Gunner.md) merit.
 
 **Graphics Settings Note**: If you plan on gunning these turrets often, it's
-best to turn [Bullet Holes](../etc/Menu.md#video-options) off in the graphics
+best to turn [Bullet Holes](../terminology/Menu.md#video-options) off in the graphics
 settings. Large explosions can leave an opaque black scorch mark on the outline
 of your turret, making it difficult, if not impossible, to see out when turned
 in certain directions.

@@ -1,6 +1,6 @@
 **Stamina**, simply put, is a measure of a soldier's physical endurance. It is
 consumed by various actions such as jumping and the use of most
-[Implants](../implants/Implants.md). It can also be lost by taking damage;
+[Implants](../implants/index.md). It can also be lost by taking damage;
 however, Stamina will slowly regenerate over time. This process is accelerated
 while crouched and still, and halts when moving.
 
@@ -11,4 +11,4 @@ stamina points are recovered by resting.
 Jumping costs 10 stamina points.
 
 Stamina is shown as a teal bar in the
-[Bio pane](../etc/Heads-up_Display.md#Bio_Pane).
+[Bio pane](Heads-up_Display.md#Bio_Pane).

@@ -14,7 +14,7 @@ arms use where armor penetration is required. Armor Piercing 9mm ammo can be
 acquired from any [equipment terminal](../items/Equipment_Terminal.md) by any
 [Empire](../terminology/Empire.md). Armor Piercing 9mm Ammo is effective at
 damaging armored targets such as
-[Mechanized Armor Exo-Suits](../armor/Armor_Index.md),
+[Mechanized Armor Exo-Suits](../armor/index.md),
 [Deployables](../weapons/Adaptive_Construction_Engine.md), and
 [Vehicles](../vehicles/Vehicle.md). However, AP 9mm Ammo is ineffective at
 damaging infantry. In such cases, [Standard 9mm Ammunition](9mm_Bullet.md)

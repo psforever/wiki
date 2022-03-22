@@ -1,7 +1,7 @@
 |                                                 |                                                                                                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Peregrine](../vehicles/Peregrine.md) and [Eagle](../vehicles/Eagle.md) using the [Anti-Tank Machine Gun](../weapons/Anti-Tank_Machine_Gun.md) |
-| **Empire**                                      | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                                 |
+| **Empire**                                      | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                                 |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                            |
 | **Quantity per box**                            | 240 Rounds                                                                                                                                     |
 

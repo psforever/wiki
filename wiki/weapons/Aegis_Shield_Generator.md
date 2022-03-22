@@ -30,7 +30,7 @@ The Aegis Shield Generator can also be upgraded by
 [Assault Engineers](../certifications/Assault_Engineering.md) with ammunition
 benefits. This benefit eventually wears off and will need to be re-upgraded
 periodically. The status of the Aegis can be seen by double clicking on the
-Aegis deployable icon on the [Continental Map](../etc/Continental_Map.md). Note
+Aegis deployable icon on the [Continental Map](../terminology/Continental_Map.md). Note
 that if a character has both Fortification and Assault Engineering (or
 [Advanced Engineering](../certifications/Advanced_Engineering.md)), upgrading
 the shields takes priority, and thus to upgrade to ammunition benefits, the

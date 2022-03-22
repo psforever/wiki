@@ -28,7 +28,7 @@ The Laze Pointer can be obtained from any
 Simply point the [Laze Pointer](Laze_Pointer.md) at the target and hold the
 trigger. A progress bar indicates the time to completion. Once completed, a
 temporary targeting waypoint will be visible in the
-[HUD](../etc/Heads-up_Display.md) and on the
+[HUD](../terminology/Heads-up_Display.md) and on the
 [Proximity Map](../terminology/Proximity_Map.md) for members of the Platoon.
 Unlike normal [waypoints](../terminology/Waypoint.md), targeting waypoints are
 circular on the proximity map, use the color and number of the user, and go away

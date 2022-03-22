@@ -18,7 +18,7 @@
 **Jammer grenades** cause electomagnetic interference explosions. This
 interference has the following effects:
 
-- Causes soldier [implant timers](../implants/Implants.md) to reset.
+- Causes soldier [implant timers](../implants/index.md) to reset.
 - Causes the following to cease functioning for a short time:
   - [Proximity Map](../terminology/Proximity_Map.md) radar.
   - Vehicle weapons (except [BFRs](../vehicles/BattleFrame_Robotics.md))

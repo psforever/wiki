@@ -5,7 +5,7 @@ The imprint is used to tune the [Resonance Crystals](Resonance_Crystals.md)
 implanted in all soldier to the thought-patterns of that particular soldier so
 as to allow the soldier to control the systems of a BFR.
 
-The process includes achieving 5 [Cavern Captures](../etc/Cavern_Captures.md)
+The process includes achieving 5 [Cavern Captures](Cavern_Captures.md)
 and getting 75 [unique kills](Unique_kill.md) inside the caverns. Kills on
 enemies in [vehicles](../vehicles/Vehicle.md) or
 [Ancient Sentry Turrets](../items/Ancient_Sentry_Turret.md) do not count toward

@@ -39,7 +39,7 @@ user to bounce Chain-Lash grenades off of walls to hit targets around corners.
 The Maelstrom is a powerful base defense tool as the chain lash can hurt an
 unlimited number of enemies in theory. The Maelstrom is also possibly the most
 ammo-hungry weapon in PlanetSide. It's best used in defensive roles inside a
-friendly SOI that has an [Equipment Module](../items/Equipment_Module.md)
+friendly SOI that has an [Equipment Module](../modules/Equipment_Module.md)
 installed so that the ammo recharges automatically. If used in other
 circumstances, one should carry plenty of ammo for it, especially if you plan on
 using the secondary or tertiary modes, as it takes 10 ammo "points" to fire one
@@ -48,8 +48,8 @@ grenade.
 On the surface, in addition to the
 [Heavy Assault](../certifications/Heavy_Assault.md)
 [certification](../certifications/Certifications.md), the base must have
-[Equipment Module](../items/Equipment_Module.md) installed (or the equipment
-[Module benefit](../etc/Module_benefit.md) via
+[Equipment Module](../modules/Equipment_Module.md) installed (or the equipment
+[Module benefit](../modules/Module_benefit.md) via
 [Lattice](../terminology/Lattice.md)) for the weapon to be available at
 [Equipment Terminals](../items/Equipment_Terminal.md).
 
@@ -63,5 +63,5 @@ Shots to kill (Vortex Whip):
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 130 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

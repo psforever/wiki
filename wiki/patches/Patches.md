@@ -20,13 +20,13 @@ at bottom.
 
 ### May
 
-- [1.0.0](1.0.0.md) - [PlanetSide](../etc/PlanetSide.md) Launches on May 20th!
+- [1.0.0](1.0.0.md) - [PlanetSide](../PlanetSide.md) Launches on May 20th!
 - [1.1](1.1.md) - [Jamming](../weapons/Jammer_Grenade.md) of friendly
   [Combat Engineering](../certifications/Combat_Engineering.md) disabled.
-  [Implant](../implants/Implants.md) confirmation removed.
-  [Tells](../commands/Tell.md) no longer case sensitive.
+  [Implant](../implants/index.md) confirmation removed.
+  [Tells](../chat/Tell.md) no longer case sensitive.
 - [1.2](1.2.md) - [Zone](../terminology/Zone.md) crash fixes, weather tweaks,
-  and Server listing tweaks added. Base kill [Experience](../etc/Experience.md)
+  and Server listing tweaks added. Base kill [Experience](../terminology/Experience.md)
   doubled from 50 to 100.
 - [1.3](1.3.md) - Zone and game crash fixes
 
@@ -37,7 +37,7 @@ at bottom.
 - [1.5](1.5.md) - [Skyguard](../vehicles/Skyguard.md),
   [Liberator](../vehicles/Liberator.md)
   _[Certification](../certifications/Certification.md)_, and
-  [Orbital Strikes](../commands/Orbital_Strike.md)/[EMPs](../commands/EMP.md) go
+  [Orbital Strikes](../terminology/Orbital_Strike.md)/[EMP../terminology/EMP.md.md) go
   live! Respawn into hacked bases available.
   [Hotspot](../terminology/Hotspot.md) improvements.
 
@@ -99,7 +99,7 @@ at bottom.
 
 ### January
 
-- [2.3.23](2.3.23.md) - [Holiday Decorations](../etc/Holiday_Decorations.md)
+- [2.3.23](2.3.23.md) - [Holiday Decorations](../terminology/Holiday_Decorations.md)
   removed
 
 ### February
@@ -147,8 +147,8 @@ at bottom.
 
 ### August
 
-- [2.9.5](2.9.5.md) - [Empire Incentives](../etc/Empire_Incentives.md)
-  modifications, [merit](../merits/Merit_Commendations.md) shoulderpad, Adaptive
+- [2.9.5](2.9.5.md) - [Empire Incentives](../terminology/Empire_Incentives.md)
+  modifications, [merit](../merits/index.md) shoulderpad, Adaptive
   LOD added, and different
   [animation culling](../terminology/Animation_Culling.md) levels added.
   [LLU](../terminology/Lattice_Logic_Unit.md)
@@ -160,7 +160,7 @@ at bottom.
   degredation extended. [Starfire](../armor/Starfire.md) and
   [Sparrow](../armor/Sparrow.md) range increased.
   [Zoning](../terminology/Zone.md) client crash fix.
-- [2.10.7](2.10.7.md) - [The Bending](../etc/The_Bending.md).
+- [2.10.7](2.10.7.md) - [The Bending](../terminology/The_Bending.md).
   [Battle Islands](../locations/Battle_Islands.md) go live!
 
 ### September
@@ -208,7 +208,7 @@ at bottom.
   added to heavily damaged aircraft. Support tools permitted during weapons
   lock. /ignore includes globals/cont-alls. 20 boomer limit implemented.
 - [3.1.5](3.1.5.md) - Win condition for
-  ["Run for the Guns!"](../etc/Run_For_the_Guns.md) [Event](../etc/Events.md)
+  ["Run for the Guns!"](../archive/events/Run_For_the_Guns.md) event
   implemented. Mouse wheel mapping fix.
 
 ### December
@@ -265,7 +265,7 @@ at bottom.
 
 - [3.4.14](3.4.14.md) - Round 7 of [BFR](../vehicles/BattleFrame_Robotics.md)
   nerfs. First revision of
-  [Merit Commendations](../merits/Merit_Commendations.md). Weapon splash on
+  [Merit Commendations](../merits/index.md). Weapon splash on
   water implemented.
 
 ### April
@@ -315,7 +315,7 @@ at bottom.
 - [3.7.10 Addendum](3.7.10_Addendum.md) -
   [AMS Support](../merits/AMS_Support.md) and
   [Lodestar Support](../merits/Lodestar_Support.md)
-  [Merits](../merits/Merit_Commendations.md) changed.
+  [Merits](../merits/index.md) changed.
 
 ### August
 
@@ -328,10 +328,10 @@ at bottom.
 
 - [3.9.5](3.9.5.md) - [Rabbit](../terminology/Rabbit.md) Gameplay and
   [LFS](../terminology/LFS.md) revisions go live!
-  [TR](../etc/Terran_Republic.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
+  [TR](../terminology/Terran_Republic.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
   allowed to shoot while (un)anchoring, minor
   [Vehicle](../vehicles/Vehicle.md)/[BFR](../vehicles/BattleFrame_Robotics.md)
-  tweaks, Help-Star/[HUD](../etc/Heads-up_Display.md) fixes, the end of looting
+  tweaks, Help-Star/[HUD](../terminology/Heads-up_Display.md) fixes, the end of looting
   knives.
 - [3.9.5 Brief Update](3.9.5_Brief_Update.md) -
   [Rabbit](../terminology/Rabbit.md) Gameplay adjustments
@@ -379,9 +379,9 @@ at bottom.
 ### April
 
 - [3.11.4](3.11.4.md) - Balance adjustments for the
-  [Martial Law](../etc/Martial_Law.md) event on
+  [Martial Law](../archive/events/Martial_Law.md) event on
   [Desolation](../locations/Desolation.md).
-- [3.11.5](3.11.5.md) - [Merit Commendation](../merits/Merit_Commendations.md)
+- [3.11.5](3.11.5.md) - [Merit Commendation](../merits/index.md)
   bug fix.
 - [3.11.6](3.11.6.md) - Major Anti Vehicular damage increases for the
   [Phoenix](../weapons/Phoenix.md), [Lancer](../weapons/Lancer.md),
@@ -394,7 +394,7 @@ at bottom.
 ### May
 
 - [3.11.11](3.11.11.md) - Updates concerning the Event for
-  [PlanetSide](../etc/PlanetSide.md)'s Third Anniversary and a fix for the Login
+  [PlanetSide](../PlanetSide.md)'s Third Anniversary and a fix for the Login
   Problem.
 
 ### June
@@ -411,12 +411,12 @@ at bottom.
   hack detection added and changes to the [Pounder](../armor/Pounder.md)
   [MAX](../armor/Mechanized_Assault_Exo-Suit.md).
 - [3.11.28](3.11.28.md) - Setting changes for the Special Event
-  "[Blast Into Battle, Double Time](../etc/Blast_Into_Battle,_Double_Time.md)".
+  "[Blast Into Battle, Double Time](../archive/events/Blast_Into_Battle,_Double_Time.md)".
 
 ### December
 
 - [3.11.47](3.11.47.md) - New
-  [Merit Commendations](../merits/Merit_Commendations.md), additional levels for
+  [Merit Commendations](../merits/index.md), additional levels for
   most Merits, and added Christmas decorations.
 
 ## 2007
@@ -427,8 +427,8 @@ at bottom.
   [Combat Engineering](../certifications/Combat_Engineering.md) deployables
 - [April Fool's Patch](Unnumbered_Patches.md#game-update-03302007) -
   Undocumented addition of Cake, Pie, and Doughnut Box graphics to replace
-  [NC](../etc/New_Conglomerate.md), [TR](../etc/Terran_Republic.md), and
-  [VS](../etc/Vanu_Sovereignty.md) [backpacks](../terminology/Backpack.md)
+  [NC](../terminology/New_Conglomerate.md), [TR](../terminology/Terran_Republic.md), and
+  [VS](../terminology/Vanu_Sovereignty.md) [backpacks](../terminology/Backpack.md)
   respectively.
 
 ### April
@@ -493,7 +493,7 @@ at bottom.
 
 - [3.13.11](3.13.11.md) -Valentine's day patch changing
   [VR training](../locations/VR_Training.md) characters' names, awarding a
-  special merit, and adding [Pain Module](../etc/Pain_Module.md) damage to
+  special merit, and adding [Pain Module](../modules/Pain_Module.md) damage to
   [cavern](../locations/Caverns.md) spawn areas.
 
 <!-- -->
@@ -517,15 +517,15 @@ at bottom.
 
 ### May
 
-- [3.15.6](3.15.6.md) -[Markov](../etc/Markov.md) and
-  [Emerald](../etc/Emerald.md) merged into [Gemini](../etc/Gemini.md). Five-year
+- [3.15.6](3.15.6.md) -[Markov](../archive/servers/Markov.md) and
+  [Emerald](../archive/servers/Emerald.md) merged into [Gemini](../archive/servers/Gemini.md). Five-year
   merit added with free [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md)
   [certification](../certifications/Certification.md) as the reward.
 
 ### August
 
 - [3.15.18](3.15.18.md) -Added overdrive ability to
-  [TR](../etc/Terran_Republic.md)
+  [TR](../terminology/Terran_Republic.md)
   [MAXes](../armor/Mechanized_Assault_Exo-Suit.md),
   [Burster](../armor/Burster.md) magazine size buff, and changed the way
   [incentives](../terminology/Incentives.md) are calculated.
@@ -586,7 +586,7 @@ at bottom.
 ### August
 
 - [Server Merge patch](Unnumbered_Patches.md#server-merge-and-lasher-nerf-08252009)
-  -Merged [Gemini](../etc/Gemini.md) and [Werner](../etc/Werner.md),
+  -Merged [Gemini](../archive/servers/Gemini.md) a../archive/servers/Werner.mdtc/Werner.md),
   [Lasher](../weapons/Lasher.md) nerf.
 
 ### October
@@ -602,7 +602,7 @@ at bottom.
 ### November
 
 - [Unnumbered Patch](Unnumbered_Patches.md) (11/03/09) - Changes
-  [Spooktacular Days](../etc/Spooktacular_Days.md) [event](../etc/Events.md)
+  [Spooktacular Days](../archive/events/Spooktacular_Days.md) event
   settings back to normal
 
 ### December

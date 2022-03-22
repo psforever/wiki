@@ -1,12 +1,12 @@
-[Assists](Assist.md) are [Planetside](../etc/PlanetSide.md)'s method for
+[Assists](Assist.md) are [Planetside](../PlanetSide.md)'s method for
 tracking [Support Experience Points](Support_Experience_Points.md) and how
-support character gain [Merits](../merits/Merit_Commendations.md). An assist is
+support character gain [Merits](../merits/index.md). An assist is
 awarded after a player that you supported scores a kill. This is denoted on the
-[HUD](../etc/Heads-up_Display.md) on the Session Stats Bar with an "A: ".
+[HUD](Heads-up_Display.md) on the Session Stats Bar with an "A: ".
 Assists are also gained by operating a vehicle that has gunners or bombardiers
 that are making kills using your vehicles weaponry.
 
-[Support](../etc/Support.md) activities include healing, repairing, hacking, and
+[Support](Support.md) activities include healing, repairing, hacking, and
 other helpful activities. An assist timer will start after the first kill the
 person you supported makes. Any additional kills during this time will also
 count as assists. This timer is a minimum of 5 minutes and a maximum of 10
@@ -29,4 +29,4 @@ only player kills will count toward merits and give SEP.
 
 - [Support Experience Points](Support_Experience_Points.md)
 - [Support Merit Commendations](../merits/Support_Merit_Commendations.md)
-- [Support](../etc/Support.md)
+- [Support](Support.md)

@@ -1,7 +1,7 @@
 |                                                 |                                                                                                    |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) using the [Immolation Cannon](../weapons/Immolation_Cannon.md) |
-| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                     |
+| **Empire**                                      | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                     |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 5x5                                                                                                |
 | **Quantity per pack**                           | 100 Rounds                                                                                         |
 

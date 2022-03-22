@@ -227,7 +227,7 @@
 </tbody>
 </table>
 
-This [merit](Merit_Commendations.md) is rewarded for kills scored by
+This [merit](index.md) is rewarded for kills scored by
 [Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret),
 [Cerberus Turrets](../weapons/Cerberus_Turret.md), or
 [Shadow Turrets](../weapons/Shadow_Turret.md) after you have repaired them by

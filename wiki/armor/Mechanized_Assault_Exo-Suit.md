@@ -15,7 +15,7 @@ Each type of armor has its own
 [Uni-MAX](<../certifications/Uni-MAX_(Certification).md>) certification gives
 access to all three types of MAX armor at a reduced cost.
 
-## [New Conglomerate](../etc/New_Conglomerate.md)
+## [New Conglomerate](../terminology/New_Conglomerate.md)
 
 ![ MAX Armor at, from left
 to right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCMAXArmors2.jpg){ class="figure" } Anti-Infantry: [Scattercannon](Scattercannon.md) Anti-Vehicle:
@@ -24,7 +24,7 @@ Units are equipped with a light energy shield. The shield draws power from from
 an onboard MAX Capacitor. Once depleted, the capacitor will recharge. The MAX
 Unit cannot fire when the Shield is active.
 
-## [Terran Republic](../etc/Terran_Republic.md)
+## [Terran Republic](../terminology/Terran_Republic.md)
 
 ![ MAX Armor at, from left to
 right, [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/TRMAXArmor2.jpg){ class="figure" } Anti-Infantry: [Dual-Cycler](Dual-Cycler.md) Anti-Vehicle:
@@ -39,7 +39,7 @@ Overdrive is "all-or-nothing," meaning that once active, it cannot be turned off
 until the capacitor is drained. The MAX may not lock down or auto-run while in
 overdrive. MAXes with overdrive active will glow red.
 
-## [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+## [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
 
 ![ MAX Armor at, from left to right,
 [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/VS_MAXs.jpg){ class="figure" } Anti-Infantry: [Quasar](Quasar.md) Anti-Vehicle:

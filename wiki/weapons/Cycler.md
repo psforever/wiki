@@ -3,7 +3,7 @@
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md)                                                                 |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                          |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                          |
 | **Primary Mode**           | Rapid Fire                                                                                                            |
 | **Secondary Mode**         | \-                                                                                                                    |
 | **Ammunition**             | 9mm Bullets ([Standard](../ammunition/9mm_Bullet.md) or [Armor Piercing](../ammunition/Armor_Piercing_9mm_Bullet.md)) |
@@ -15,7 +15,7 @@
 **Cycler**
 
 The Cycler is the [Medium Assault](../certifications/Medium_Assault.md) rifle of
-the [Terran Republic](../etc/Terran_Republic.md). Following its empire's motif,
+the [Terran Republic](../terminology/Terran_Republic.md). Following its empire's motif,
 it boasts the largest magazine capacity and highest fire rate of the medium
 assault rifles.
 
@@ -32,5 +32,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

@@ -21,4 +21,4 @@ them.
 accessed the control console and is trying to capture the facility or _b)_ the
 base's hack timer after such an event has occured. _"How long on the hack?"_
 
-See [Capturing Bases](../etc/Capturing_Bases.md).
+See [Capturing Bases](../archive/strategy/Capturing_Bases.md).

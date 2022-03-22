@@ -9,13 +9,13 @@ have pain fields if infected by an enemy [Virus](Virus.md).
 
 The [Pain Field](Pain_Field.md) at a surface
 [facility](../locations/Facilities.md) can be enhanced in two ways. The first is
-by the addition of a [Pain Module](../etc/Pain_Module.md)
-[benefit](../etc/Module_benefit.md) to the facility. The second is by upgrades
+by the addition of a [Pain Module](../modules/Pain_Module.md)
+[benefit](../modules/Module_benefit.md) to the facility. The second is by upgrades
 made by [Expert Hackers](../certifications/Expert_Hacking.md) using their
 [REK](../weapons/Remote_Electronics_Kit.md) to hack a facility's
 [Matrix Panel](../items/Matrix_Panel.md) and/or
 [Generator Terminal](../items/Generator_Terminal.md). The
-[Sensor Shield](../implants/Sensor_Shield.md) [Implant](../implants/Implants.md)
+[Sensor Shield](../implants/Sensor_Shield.md) [Implant](../implants/index.md)
 will shield the user from damage from an un-upgraded surface spawn room only.
 The damage of the pain field is dependent on several factors, summarized in the
 following table:

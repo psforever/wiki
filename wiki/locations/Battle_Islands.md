@@ -9,7 +9,7 @@ seemed to be plain view. A giant, unexplained avian skeleton once lay fossilized
 on the continent, giving rise to lively discussions about the Vanu that were
 here before.
 
-But a year ago, the event we know as [The Bending](../etc/The_Bending.md)
+But a year ago, the event we know as [The Bending](../terminology/The_Bending.md)
 occurred, ripping apart our reality and spreading the Auraxian continents across
 a dozen worlds. Oshur was erased or torn asunder, and in its place appeared 4
 smaller landmasses we came to call [Battle Islands](Battle_Islands.md)

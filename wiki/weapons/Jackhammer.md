@@ -4,7 +4,7 @@ a Jackhammer](../images/PSScreenShot0243.jpg){ class="figure" }
 |                            |                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Heavy Assault](../certifications/Heavy_Assault.md)                                                                              |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                   |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                   |
 | **Primary Mode**           | Single Shot                                                                                                                      |
 | **Secondary Mode**         | Triple Shot                                                                                                                      |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |
@@ -34,5 +34,5 @@ Shots to kill (Close to Medium Range):
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 11 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

@@ -3,7 +3,7 @@
 |                            |                                                           |
 | -------------------------- | --------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)              |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)              |
 | **Primary Mode**           | Slash                                                     |
 | **Secondary Mode**         | Chainblade Attack                                         |
 | **Ammunition**             | \-                                                        |

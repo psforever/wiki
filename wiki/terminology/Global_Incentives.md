@@ -1,9 +1,9 @@
-Similar to [Empire Incentives](../etc/Empire_Incentives.md), Global incentives
+Similar to [Empire Incentives](Empire_Incentives.md), Global incentives
 adjust [experience point](Battle_Experience_Points.md) bonuses based upon
 population disadvantages. The bonus percentage is the percent difference between
 the highest [empire](Empire.md) population and yours. For example, if the global
-populations are 40%, 35%, and 25% for the [TR](../etc/Terran_Republic.md),
-[NC](../etc/New_Conglomerate.md), and [VS](../etc/Vanu_Sovereignty.md),
+populations are 40%, 35%, and 25% for the [TR](Terran_Republic.md),
+[NC](New_Conglomerate.md), and [VS](Vanu_Sovereignty.md),
 respectively, the TR would receive no bonus, the NC would receive a +5%
 [BEP](Battle_Experience_Points.md) bonus, and the VS would receive a +15% bonus.
 These apply to the entire empire across the server on any planet or continent.

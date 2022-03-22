@@ -2,7 +2,7 @@ A Sphere of Influence radiates invisibly out from the center of each
 [facility](Facilities.md) and [tower](Towers.md) on a continent or
 [cavern](Caverns.md). Technically, the Sphere of Influence is a cylindrical
 shape, extending from the ground to the flight ceiling. On your
-[map](../etc/Continental_Map.md), each SOI is color coded Red, Blue, or Purple
+[map](../terminology/Continental_Map.md), each SOI is color coded Red, Blue, or Purple
 for each Empire that controls it, or green for
 [neutrality](../terminology/Neutral.md).
 
@@ -33,11 +33,11 @@ is coded as yellow, orange, or red depending on the size of the enemy presence.
 
 While players are inside a friendly SOI, they will be affected by the benefits
 that that facility provides, as well as any linked benefits that facility might
-have. [Module](../etc/Modules.md) benefits that are in place at that facility
+have. [Module](../modules/index.md) benefits that are in place at that facility
 will also be triggered for players inside its SOI.
 
 Any player may also use the
-[/broadcast channel](../commands/In-Game_Commands.md) within a Friendly Base SOI
+[/broadcast channel](../chat/In-Game_Commands.md) within a Friendly Base SOI
 as you would in your Empire's Sanctuary; friendly Tower SOIs do not have
 /broadcast capability. However, unlike the Sanctuary, this chat only goes to the
 SOI you are in, and not the entire continent. When your empire captures the

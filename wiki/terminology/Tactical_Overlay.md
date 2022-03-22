@@ -16,8 +16,8 @@ Each square is 1/4 by area of the map's [Grid](Grid.md) squares.
 Aqua squares represent areas under surveillance, where no significant troop
 activity is detected.
 
-Purple, Red, and Blue squares indicate [VS](../etc/Vanu_Sovereignty.md),
-[TR](../etc/Terran_Republic.md), and [NC](../etc/New_Conglomerate.md) movements,
+Purple, Red, and Blue squares indicate [VS](Vanu_Sovereignty.md),
+[TR](Terran_Republic.md), and [NC](../etc/New_Conglomerate.mdents,
 respectively.
 
 Yellow areas indicate contested regions (i.e. nearly equal number of enemy and

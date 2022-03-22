@@ -1,4 +1,4 @@
-This series of [Merit Commendations](Merit_Commendations.md) are given out for
+This series of [Merit Commendations](index.md) are given out for
 vehicle-related tasks, such as:
 
 - Getting kills while driving a certain vehicle

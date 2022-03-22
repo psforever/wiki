@@ -21,6 +21,6 @@ The **Standard Exo-Suit** is issued to every soldier at spawn time. While it
 does allow the wearer to run a little faster than the
 [Agile Exo-Suit](Agile_Exo-Suit.md), its smaller
 [inventory](../terminology/Inventory.md), single
-[pistol slot](../etc/Holster.md), and the fact that Agile is also available
+[pistol slot](../terminology/Holster.md), and the fact that Agile is also available
 without other [Certifications](../certifications/Certifications.md) means this
 armor has no practical use, other than quick defense of a base without power.

@@ -58,7 +58,7 @@ A common tactic used for the weapon is to launch a
 [Fragmentation grenade](Fragmentation_grenade.md) or
 [Plasma grenade](Plasma_grenade.md) at an enemy, and then quickly switch to
 primary mode to finish him off with bullets. Though to do this properly,
-disabling [Auto Reload](../etc/Menu.md#Game_Options) in the Game Options Menu is
+disabling [Auto Reload](../terminology/Menu.md#Game_Options) in the Game Options Menu is
 a must as otherwise you will be unable to fire standard rounds until you have
 reloaded your [Grenades](Weapons_Index.md#Grenades) or Rocket.
 
@@ -72,5 +72,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 58 [AP](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

@@ -40,7 +40,7 @@ success.
 
 The [trunk](../terminology/Trunk.md) of the Vulture is slightly smaller than the
 Liberator, able to carry 8 4x4 boxes instead of 9 like the Liberator. Because of
-this, Liberator [favorites](../etc/Favorites.md) cannot be seamlessly loaded
+this, Liberator [favorites](../terminology/Favorites.md) cannot be seamlessly loaded
 into the Vulture, requiring a seperate favorite slot for dedicated Vulture
 users.
 
@@ -48,7 +48,7 @@ Only experienced Liberator pilots are cleared to operate Vulture. Obtaining one
 from a flight vehicle terminal will require not only the
 [Air Support](../certifications/Air_Support.md) certification, but also a
 [Bomber Ace](../merits/Bomber_Ace.md) Bronze
-[Merit Commendation](../merits/Merit_Commendations.md). Like the Liberator, the
+[Merit Commendation](../merits/index.md). Like the Liberator, the
 Vulture requires a [Technology Plant](../locations/Technology_Plant.md) lattice
 link or [Sanctuary](../locations/Sanctuary.md) vehicle pad in order to be
 purchasable.

@@ -23,10 +23,10 @@ field commander.
 2. **Reveal Enemies** Show the current location of enemy troops within a limited
    radius on the overhead map. Becomes available at
    [CR](../terminology/Command_Rank.md) 4.
-3. **[Electromagnetic Pulse (EMP)](../commands/EMP.md)** Sends an EMP similar to
+3. **[Electromagnetic Pulse (EMP)](../terminology/EMP.md)** Sends an EMP similar to
    a [Jammer grenade](Jammer_Grenade.md) in a sphere away from user. Becomes
    available at [CR](../terminology/Command_Rank.md) 3.
-4. **[Orbital Strike](../commands/Orbital_Strike.md)** Allows the user to call a
+4. **[Orbital Strike](../terminology/Orbital_Strike.md)** Allows the user to call a
    powerful energy beam from Orbital Stations to wreak devastation on enemy
    troops. Becomes available at [CR](../terminology/Command_Rank.md) 4.
 5. **Recall Squad to Sanctuary** Allows the user to send out a Recall message to

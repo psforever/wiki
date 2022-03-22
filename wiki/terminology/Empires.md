@@ -1,9 +1,9 @@
-Each character in [PlanetSide](../etc/PlanetSide.md) is a member of one of three
+Each character in [PlanetSide](../PlanetSide.md) is a member of one of three
 [Empires](Empires.md) (teams):
 
-- [New Conglomerate](../etc/New_Conglomerate.md)
-- [Terran Republic](../etc/Terran_Republic.md)
-- [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+- [New Conglomerate](New_Conglomerate.md)
+- [Terran Republic](Terran_Republic.md)
+- [Vanu Sovereignty](Vanu_Sovereignty.md)
 
 Each [Empire](Empires.md) is different in its philosophy, which carries into the
 Empire-Specific weapons and vehicles.

@@ -28,7 +28,7 @@
 **Agile Exo-Suit**
 
 With about twice the protection of the [Standard Exo-Suit](Standard_Exo-Suit.md)
-and the flexibility of a second [pistol slot](../etc/Holster.md) and larger
+and the flexibility of a second [pistol slot](../terminology/Holster.md) and larger
 [inventory](../terminology/Inventory.md), the **Agile Exo-Suit** is a vast
 improvement. You still maintain good foot speed and this is the heaviest armor
 you can wear and still pilot/drive all vehicles.

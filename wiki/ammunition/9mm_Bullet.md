@@ -10,8 +10,8 @@
 **9mm Bullet**
 
 9mm Bullets are the ubiquitous ordinance of choice for many of the weapons used
-by the [New Conglomerate](../etc/New_Conglomerate.md) and
-[Terran Republic](../etc/Terran_Republic.md). 9mm ammo can be removed from any
+by the [New Conglomerate](../terminology/New_Conglomerate.md) and
+[Terran Republic](../terminology/Terran_Republic.md). 9mm ammo can be removed from any
 equipment terminal by any empire. 9mm ammo is especially effective against soft
 or lightly armored targets such as
 [Infiltration Suits](../armor/Infiltration_Suit.md) as well as

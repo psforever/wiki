@@ -15,7 +15,7 @@ loaded into the trunk on creation, but these contents may be changed quickly at
 a [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md),
 [Landing Pad](../items/Landing_Pad.md), or [Lodestar](../vehicles/Lodestar.md).
 These terminals also allow depleted ammunition to be instantly restocked in the
-trunk, via the vehicle [Favorites](../etc/Favorites.md) menu.
+trunk, via the vehicle [Favorites](Favorites.md) menu.
 
 In emergencies, i.e only [Towers](../locations/Towers.md) and
 [Advanced Mobile Stations](../vehicles/Advanced_Mobile_Station.md) available,

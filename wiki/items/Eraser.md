@@ -3,7 +3,7 @@
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)        |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)        |
 | **Primary Mode**           | Single Shot                                           |
 | **Secondary Mode**         | All-Magazine Burst                                    |
 | **Ammunition**             | [10mm Multi-Phase](../ammunition/10mm_Multi-Phase.md) |

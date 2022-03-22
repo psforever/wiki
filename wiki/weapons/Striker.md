@@ -3,7 +3,7 @@
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)          |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)          |
 | **Primary Mode**           | Homing Missile                                        |
 | **Secondary Mode**         | Dumb Fire                                             |
 | **Ammunition**             | [Striker Missile](../ammunition/Striker_Missile.md)   |
@@ -14,7 +14,7 @@
 
 **Striker**
 
-The [Striker](Striker.md) is the [Terran Republic](../etc/Terran_Republic.md)'s
+The [Striker](Striker.md) is the [Terran Republic](../terminology/Terran_Republic.md)'s
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) weapon. In primary mode,
 the [Striker](Striker.md) can "lock on" to any vehicle,
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) unit,

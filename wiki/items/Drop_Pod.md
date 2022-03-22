@@ -8,4 +8,4 @@ vehicles.
 Accessible via the [HART](../terminology/HART.md), a soldier can land a drop pod
 on any relatively flat ground outside of an
 [SOI](../locations/Sphere_of_Influence.md) (noting that the SOI covers the
-entirety of a [continent locked](../etc/Continental_lock.md) by that empire).
+entirety of a [continent locked](../terminology/Continental_lock.md) by that empire).

@@ -25,7 +25,7 @@ non-[Ancient Tech](../terminology/Ancient_Technology.md) ground or air
 [vehicle](category:_Vehicles.md) through the use of the ground vehicle
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) and air vehicle
 [Repair/Rearm Landing Pad](../items/Landing_Pad.md) (ancient tech vehicles
-require a [Vehicle Module](../etc/Vehicle_Module.md) for this function). The
+require a [Vehicle Module](../modules/Vehicle_Module.md) for this function). The
 **Dropship Center** is also the largest of all [facilities](Facilities.md) and
 the only location (other than your [sanctuary](../locations/Sanctuary.md))
 capable of spawning the gigantic [Galaxy](../vehicles/Galaxy.md),

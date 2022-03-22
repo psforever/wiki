@@ -35,14 +35,14 @@
 </table>
 
 This [Exclusive](Exclusive_Merit_Commendations.md)
-[Merit Commendation](Merit_Commendations.md) is awarded to players at the
-discretion of [SOE](../etc/Sony_Online_Entertainment.md) Quality Assurance team
+[Merit Commendation](index.md) is awarded to players at the
+discretion of [SOE](../Sony_Online_Entertainment.md) Quality Assurance team
 members, based on continuous voluntary assistance to the
-[PlanetSide](../etc/PlanetSide.md) [QA](../terminology/QA.md) team.
+[PlanetSide](../PlanetSide.md) [QA](../terminology/QA.md) team.
 
 Only four people have been awarded this merit.
 
-- JamQ ([Emerald](../etc/Emerald.md))
+- JamQ ([Emerald](../archive/servers/Emerald.md))
 - Cyborgmatt (Emerald)
 - ItZMuRdA (Emerald)
-- xxBigpappaNCxx ([Markov](../etc/Markov.md))
+- xxBigpappaNCxx ([Markov](../archive/servers/Markov.md))

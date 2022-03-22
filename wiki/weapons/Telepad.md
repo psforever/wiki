@@ -33,7 +33,7 @@ Telepads also have an interference range similar to that of an
 [AMS](../vehicles/Advanced_Mobile_Station.md), thus another telepad cannot be
 placed close to an already active one. Like other deployables, a telepad placed
 by you can be deconstructed by double clicking on its icon on the
-[Continental Map](../etc/Continental_Map.md) and selecting to deconstruct it.
+[Continental Map](../terminology/Continental_Map.md) and selecting to deconstruct it.
 
 The link is not IFF Aware, so enemy troops may travel back through the link from
 the Telepad to the Router. If the host [Router](../vehicles/Router.md) is

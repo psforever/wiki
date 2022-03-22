@@ -11,10 +11,10 @@ platoon:
   [Squad Leader](Squad_Leader.md) and [Platoon Leader](Platoon_Leader.md) are
   atleast [Command Rank](Command_Rank.md) 1.
 - Allows the [Platoon Leader](Platoon_Leader.md) to create battle plans on the
-  [Continental Map](../etc/Continental_Map.md) for the entire platoon. (Requires
+  [Continental Map](Continental_Map.md) for the entire platoon. (Requires
   [Command Rank](Command_Rank.md) 3 or above)
 
 Here is a picture of the platoon list in the
-[Heads-up Display](../etc/Heads-up_Display.md) ([HUD](Acronyms_and_Slang.md))
+[Heads-up Display](Heads-up_Display.md) ([HUD](Acronyms_and_Slang.md))
 
 ![](../images/PlatoonList.jpg "Image:PlatoonList.jpg")

@@ -3,7 +3,7 @@
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)          |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)          |
 | **Primary Mode**           | Single Shot                                           |
 | **Secondary Mode**         | All-Magazine Burst                                    |
 | **Ammunition**             | [10mm Multi-Phase](../ammunition/10mm_Multi-Phase.md) |

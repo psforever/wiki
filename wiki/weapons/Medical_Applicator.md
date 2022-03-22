@@ -42,7 +42,7 @@ to heal himself.
 5. Advanced Medics can see "fallen" friendly soldiers on the
    [Proximity Map](../terminology/Proximity_Map.md) when their Medical
    Applicator is drawn. They are represented as glowing triangles.
-6. It's a good idea to create a [macro](../etc/Macro.md) in local chat
+6. It's a good idea to create a [macro](../terminology/Macro.md) in local chat
    announcing "I am an advanced medic. Do not release!" This will let people
    know that there is an advanced medic in the area willing to revive them, and
    encourage them to wait for a revive.

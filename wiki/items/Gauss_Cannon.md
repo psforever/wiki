@@ -1,5 +1,5 @@
 The Gauss Cannon is the Primary Weapon of the
-[New Conglomerate](../etc/New_Conglomerate.md)
+[New Conglomerate](../terminology/New_Conglomerate.md)
 [Deliverer](../vehicles/Deliverer.md) Variant the
 [Thunderer](../vehicles/Thunderer.md).
 

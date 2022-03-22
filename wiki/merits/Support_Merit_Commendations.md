@@ -1,4 +1,4 @@
-This series of [Merit Commendations](Merit_Commendations.md) rewards the
+This series of [Merit Commendations](index.md) rewards the
 thankless job of supporting the empire, including:
 
 - Reviving fallen soldiers

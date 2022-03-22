@@ -2,10 +2,10 @@
 
 **Equipment terminals** provide troops with
 [weapons](../weapons/Weapons_Index.md), ammunition,
-[armor](../armor/Armor_Index.md), support equipment, and vehicle ordnance.
+[armor](../armor/index.md), support equipment, and vehicle ordnance.
 [Ancient-Tech](../terminology/Ancient_Technology.md) weaponry can also be
-acquired if an [Equipment Module](Equipment_Module.md) is installed or a
-[Cavern Lock](../etc/Cavern_Lock.md) is linked through the
+acquired if an [Equipment Module](../modules/Equipment_Module.md) is installed or a
+[Cavern Lock](../terminology/Cavern_Lock.md) is linked through the
 [lattice](../terminology/Lattice.md).
 
 These terminals are crucial to any war effort and can be found in numerous
@@ -34,7 +34,7 @@ or click and drag that item into your inventory.
 
 From the acquisition window you can also save up to 10 unique
 [loadouts](../terminology/Loadout.md) of arms and equipment under the
-[Favorites](../etc/Favorites.md) tab. This allows you to quickly arm and supply
+[Favorites](../terminology/Favorites.md) tab. This allows you to quickly arm and supply
 yourself for various situations after respawning.
 
 Equipment terminals can be destroyed, and must be repaired to 50% of their
@@ -48,5 +48,5 @@ same equipment as their surface counterparts, including Ancient Tech weaponry.
 Ancient Equipment Terminals cannot be destroyed unlike the surface Equipment
 Terminals. See [Core Combat](Core_Combat.md).
 
-There is a [known issue](../etc/Known_Issues.md) regarding hacked equipment
+There is a [known issue](../archive/Known_Issues.md) regarding hacked equipment
 terminals not functioning properly.

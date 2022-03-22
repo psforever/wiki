@@ -1,9 +1,9 @@
 # Exclusive Merits
 
-These extremely rare [Merit Commendations](Merit_Commendations.md) are only
+These extremely rare [Merit Commendations](index.md) are only
 given out to certain people or groups that have:
 
-- Attended special [PlanetSide](../etc/PlanetSide.md) [Events](../etc/Events.md)
+- Attended special [PlanetSide](../PlanetSide.md) events
 - Helped out the community by performing a certain task
 - Won a contest
 - Completed certain in-game requirements

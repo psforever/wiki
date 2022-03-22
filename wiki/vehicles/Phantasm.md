@@ -56,5 +56,5 @@ inside the [SOI](../locations/Sphere_of_Influence.md) of a base with
 
 The pilot can wear up to [Agile Exo-Suit](../armor/Agile_Exo-Suit.md) armor, and
 can earn the [Galaxy Support Pilot](../merits/Galaxy_Support_Pilot.md)
-[merit](../merits/Merit_Commendations.md) for kills made by players after they
+[merit](../merits/index.md) for kills made by players after they
 bail from the aircraft.

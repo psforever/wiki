@@ -27,7 +27,7 @@ less accurate at longer ranges.
 
 The HSR is free for characters with the
 [Two Year Term of Service](../merits/Term_of_Service.md)
-[merit](../merits/Merit_Commendations.md). Others may obtain it by purchasing
+[merit](../merits/index.md). Others may obtain it by purchasing
 the [Sniping](../certifications/Sniping.md)
 [certification](../certifications/Certification.md).
 
@@ -41,5 +41,5 @@ Shots to kill:
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 27 shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

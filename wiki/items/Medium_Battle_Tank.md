@@ -8,19 +8,19 @@ gunner, have around 3500-4500 points of armor and are generally designed to
 counter other vehcular threats in an attempt to dominate outdoor battlefield
 areas, although specific capabilities vary:
 
-- [Terran Republic](../etc/Terran_Republic.md)
+- [Terran Republic](../terminology/Terran_Republic.md)
   [Prowler](../vehicles/Prowler.md): Two Gunners, Independent AI/AA Chaingun,
   High RoF, Steep Shell Arc
 
 <!-- -->
 
-- [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+- [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
   [Magrider](../vehicles/Magrider.md): Driver AI Gun, Amphibious, Strafe, No
   Main Gun Arc
 
 <!-- -->
 
-- [New Conglomerate](../etc/New_Conglomerate.md)
+- [New Conglomerate](../terminology/New_Conglomerate.md)
   [Vanguard](../vehicles/Vanguard.md): Large Main Gun (150mm), Low Profile,
   Gunner AI/AA Secondary Mode, Low Shell Arc, Largest Armor
 

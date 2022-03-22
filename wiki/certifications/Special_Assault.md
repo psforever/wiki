@@ -14,4 +14,4 @@ certification. It has since been moved to the
 
 This [Certification](Certification.md) is required to obtain the
 [Special Assault](<../merits/Special_Assault_(Merit).md>)
-[Merit Commendation](../merits/Merit_Commendations.md).
+[Merit Commendation](../merits/index.md).

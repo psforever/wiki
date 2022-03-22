@@ -11,7 +11,7 @@ effective against all types of targets. Ancient Sentry Turrets can be found in
 far more varied and numerous locations than the Phalanx.
 
 As with the [Phalanx](Phalanx.md), these turrets can be temporarily disabled by
-[EMP](../commands/EMP.md) blasts or grenades, and destroyed fairly quickly by
+[EMP](../terminology/EMP.md) blasts or grenades, and destroyed fairly quickly by
 [AV](../certifications/Anti-Vehicular.md) weaponry.
 
 Unlike the Phalanx, these turrets are not 'owned' by any particular
@@ -26,5 +26,5 @@ times.
 
 Also known as an Ancient-Tech Turret.
 
-There is a [known issue](../etc/Known_Issues.md) where friendly manned Ancient
+There is a [known issue](../archive/Known_Issues.md) where friendly manned Ancient
 Sentry Turrets can appear enemy-controled.

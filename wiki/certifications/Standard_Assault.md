@@ -13,4 +13,4 @@ necessary to obtain it.
 
 This [Certification](Certification.md) is required to obtain the
 [Basic Weapons](<../merits/Basic_Weapons_(Merit).md>)
-[Merit Commendation](../merits/Merit_Commendations.md).
+[Merit Commendation](../merits/index.md).

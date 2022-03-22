@@ -1,9 +1,9 @@
 ![](../images/PSScreenShot0309.jpg){ class="figure" } A small "X" shaped object
 attached to the floor of all facilities (typically in the
 [lobby](../locations/Main_lobby.md))a [Module Cradle](Module_Cradle.md) is where
-a person running a [module](../etc/Modules.md) from the
+a person running a [module](../modules/index.md) from the
 [caverns](Core_Combat.md) to the surface deposits their
-[module](../etc/Modules.md). [Module Cradles](Module_Cradle.md) are located in
+[module](../modules/index.md). [Module Cradles](Module_Cradle.md) are located in
 different locations for all [facilities](../locations/Facilities.md).
 
 - [Bio Laboratory](../locations/Bio_Laboratory.md):

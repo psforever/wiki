@@ -59,5 +59,5 @@ target.
 The Scorpion has a rather large learning curve, but once mastered, it's a
 devastating weapon.
 
-The weapon has a rare [known issue](../etc/Known_Issues.md) involving the
+The weapon has a rare [known issue](../archive/Known_Issues.md) involving the
 bomblets not exploding properly.

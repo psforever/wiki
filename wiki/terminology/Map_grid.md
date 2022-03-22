@@ -1,5 +1,5 @@
 The Map Grid is a co-ordinate based overlay on the
-[Continental Map](../etc/Continental_Map.md).
+[Continental Map](Continental_Map.md).
 
 Letters indicate position horizontally, and numbers for vertical. This grid
 divides continents up into areas roughly the size of a

@@ -1,7 +1,7 @@
 ![`Proximity_map.jpg`](../images/Proximity_map.jpg "Proximity_map.jpg")
 
 Also known as the "Radar," the **Proximity Map** is typically located in the top
-left of your [Heads-Up Display (HUD)](../etc/Heads-up_Display.md) and shows a
+left of your [Heads-Up Display (HUD)](Heads-up_Display.md) and shows a
 wealth of data.
 
 Friendly units are displayed in Green. Enemy Units are displayed in Red.

@@ -1,6 +1,6 @@
 ![](../images/Global_Map.jpg){ class="figure" } The [Global Map](Global_Map.md)
-was the way [PlanetSide](../etc/PlanetSide.md) originally showed the ten
-continents and three sanctuaries. Before [The Bending](../etc/The_Bending.md)
+was the way [PlanetSide](../PlanetSide.md) originally showed the ten
+continents and three sanctuaries. Before [The Bending](The_Bending.md)
 occurred, all of [Auraxis](../locations/Auraxis.md) was still one planet.
 Therefore, the ten [continents](../locations/Continent.md) and three
 [sanctuaries](../locations/Sanctuary.md) were all displayed on one map
@@ -46,7 +46,7 @@ spots are left on that particular planet.
 ### Traveling Weather
 
 With the Global Map, it was obvious to a player when
-[weather](../etc/Weather.md) patterns are going to move from continent to
+[weather](Weather.md) patterns are going to move from continent to
 continent. However, this is completely impossible to tell with the Interstellar
 Map, and storms seem to be entirely random.
 
@@ -62,4 +62,4 @@ the Interstellar Map performs all of the jobs that the Global Map did just fine.
 - [Battle Islands](../locations/Battle_Islands.md)
 - [Interstellar Map](Interstellar_Map.md)
 - [Oshur](../locations/Oshur.md)
-- [The Bending](../etc/The_Bending.md)
+- [The Bending](The_Bending.md)

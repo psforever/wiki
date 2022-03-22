@@ -3,12 +3,12 @@
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md) |
 | **Empire**                 | [Common Pool](../terminology/Common_Pool.md)                |
 | **Primary Mode**           | Extract/Deposit [NTU](../items/NTU.md)                      |
-| **Secondary Mode**         | [EMP](../commands/EMP.md)                                   |
+| **Secondary Mode**         | [EMP](../terminology/EMP.md)                                   |
 | **Ammunition**             | Internal Capacitor                                          |
 | **Inventory Dimensions**   | [BFR](../vehicles/BattleFrame_Robotics.md) Pilot Weapon     |
 | **Magazine Capacity**      | 150                                                         |
 | **Zoom**                   | None                                                        |
-| **Note**                   | 20 second cooldown between [EMPs](../commands/EMP.md)       |
+| **Note**                   | 20 second cooldown between [EMPs](../terminology/EMP.md)       |
 
 **NTU Siphon**
 
@@ -28,7 +28,7 @@ For every 2 NTUs you siphon, only 1 unit can be put back into a friendly base. A
 BFR with two full siphons can fill a base to approximately 30%. A BFR can only
 use one NTU Siphon at a time, but can equip Siphons on both arms.
 
-The second mode is the [EMP](../commands/EMP.md) mode. The Siphon must have at
+The second mode is the [EMP](../terminology/EMP.md) mode. The Siphon must have at
 least 30 NTUs gathered in the primary mode to use as an EMP. When activated, an
 EMP is expelled (identical to one called by a [CUD](Command_Uplink_Device.md)).
 An EMP can only be expelled every 20 seconds or so.
@@ -38,6 +38,6 @@ completely for a short time (unlike traditional BFR weapons that simply receive
 rate of fire penalties).
 
 Uses for this weapon include draining enemy NTUs to drain the base quicker,
-using the [EMP](../commands/EMP.md) to clear mines, and using the
-[EMP](../commands/EMP.md) in conjuction with an [Armor Siphon](Armor_Siphon.md)
+using the [EMP](../terminology/EMP.md) to clear mines, and using the
+[EMP](../terminology/EMP.md) in conjuction with an [Armor Siphon](Armor_Siphon.md)
 to attack enemy [BFRs](../vehicles/BattleFrame_Robotics.md).

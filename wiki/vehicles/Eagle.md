@@ -1,12 +1,12 @@
 ![[Eagle](Eagle.md)](../images/EagleFV.jpg){ class="figure" } The **Eagle** is
 the flight variant of [BattleFrame Robotics](BattleFrame_Robotics.md) developed
-by the [New Conglomerate](../etc/New_Conglomerate.md).
+by the [New Conglomerate](../terminology/New_Conglomerate.md).
 
 Flight variants are single-pilot BFRs with a flight pack on their backs to allow
 the BFR to fly vertically for a short amount of time (in a similar manner to the
-[VS](../etc/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
+[VS](../terminology/Vanu_Sovereignty.md) [MAX](../armor/Mechanized_Assault_Exo-Suit.md)
 units' jump-jets). The flight systems are powered by the "BFR capacitor", which
-is measured with a small bar on the player's [HUD](../etc/Heads-up_Display.md).
+is measured with a small bar on the player's [HUD](../terminology/Heads-up_Display.md).
 The capacitor recharges over time when the flight systems are not in use. When a
 flight variant uses its flight systems, the shields are deactivated for the
 entire time the BFR is in the air, reactivating once it lands. Additionally, the
@@ -20,7 +20,7 @@ flight variants can run and walk much faster than the ground variants, giving
 them the ability to flee relatively quickly when under attack.
 
 ![
-[VS](../etc/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){ class="figure" }
+[VS](../terminology/Vanu_Sovereignty.md) Eagle](../images/Vanu-Eagle.jpg){ class="figure" }
 
 ## Pilot Weapons
 

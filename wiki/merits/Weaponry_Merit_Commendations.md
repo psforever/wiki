@@ -1,4 +1,4 @@
-This series of [Merit Commendations](Merit_Commendations.md) is awarded for:
+This series of [Merit Commendations](index.md) is awarded for:
 
 - Kills achieved by using a specific [weapon](../weapons/Weapon.md)
 - Kills achieved by using a specific class of [weapon](../weapons/Weapon.md)

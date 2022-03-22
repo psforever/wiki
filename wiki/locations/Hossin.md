@@ -44,7 +44,7 @@ This continent is also refered to as
 [Hos](../terminology/Acronyms_and_Slang.md).
 
 Source: PlanetSide In-game descriptions, pre- and
-post-[Bending](../etc/The_Bending.md).
+post-[Bending](../terminology/The_Bending.md).
 
 ## Base [Facilities](Facilities.md)
 

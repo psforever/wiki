@@ -19,5 +19,5 @@ free for characters that have been registered for more than two years.
 
 This [Certification](Certification.md) is required to obtain the
 [Sniper](<../merits/Sniper_(Merit).md>)
-[Merit Commendation](../merits/Merit_Commendations.md) if your character is less
+[Merit Commendation](../merits/index.md) if your character is less
 than two years old.

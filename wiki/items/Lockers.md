@@ -43,7 +43,7 @@ and towers, the [Barracks](../locations/Barracks.md) in each facility (excluding
 [Bio Laboratories](../locations/Bio_Laboratory.md)), the
 [Medical Bay](../locations/Medical_Bay.md),
 [Research Room](../locations/Research_Room.md), and
-[certification](../certifications/Certification.md)/[Implant](../implants/Implants.md)
+[certification](../certifications/Certification.md)/[Implant](../implants/index.md)
 room of Bio Labs, and the Observation Deck of the [HART](../terminology/HART.md)
 building in each Empire's [Sanctuary](../locations/Sanctuary.md).
 

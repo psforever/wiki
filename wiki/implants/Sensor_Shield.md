@@ -12,7 +12,7 @@ the user from any sort of sensing devices, including:
 
 Sensor Shield will also prevent damage from the low level
 [Pain Fields](../terminology/Pain_Field.md) that exist in all base spawn rooms.
-It does not protect against an installed [Pain Module](../etc/Pain_Module.md)
+It does not protect against an installed [Pain Module](../modules/Pain_Module.md)
 though.
 
 For [infiltrators](<../certifications/Infiltration_Suit_(Certification).md>),

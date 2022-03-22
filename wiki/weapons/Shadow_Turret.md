@@ -30,6 +30,6 @@ The Shadow Turret is deployed by the Tertiary Mode of the
 Ammunition" function (default is "X").
 
 Shadow Turrets can be detected by use of the
-[Darklight](../implants/Darklight.md) [implant](../implants/Implants.md), and
+[Darklight](../implants/Darklight.md) [implant](../implants/index.md), and
 will appear in a similar way as players wearing an
 [Infiltration Suit](../armor/Infiltration_Suit.md).

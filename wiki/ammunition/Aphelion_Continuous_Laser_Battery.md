@@ -1,7 +1,7 @@
 |                                                 |                                                                                                                                        |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Continuous Laser](../weapons/Continuous_Laser.md) |
-| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                         |
+| **Empire**                                      | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                         |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                    |
 | **Quantity per pack**                           | 165 Units                                                                                                                              |
 

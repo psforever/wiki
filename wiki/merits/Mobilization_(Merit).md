@@ -69,7 +69,7 @@ Planetside Universe-endorsed Planetside Conference, organized by Triggar.
 
 August 2004, Orlando, Fl.
 
-### [Planetside Syndicate](../etc/PlanetSide_Syndicate.md) Mobilization: Bravo
+### [Planetside Syndicate](../archive/PlanetSide_Syndicate.md) Mobilization: Bravo
 
 Awarded to attendees of this event by Zatozia.
 

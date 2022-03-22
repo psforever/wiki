@@ -4,16 +4,16 @@ other facilities via the [Continental Lattice](Lattice.md). A facility can enjoy
 many benefits from mulitiple bases through direct and indirect chains of links.
 
 Facility Linked Benefits, or FLB, can be interupted if the base is
-[hacked](../etc/Capturing_Bases.md) by the enemy, if the
+[hacked](../archive/strategy/Capturing_Bases.md) by the enemy, if the
 [generator](../items/Generator.md) is destroyed, a [Virus](Virus.md) is uploaded
 into the [Main Terminal](../items/Main_Terminal.md), or the base runs out of
 [NTU](../items/NTU.md) and goes [neutral](Neutral.md). Any facility linked to
 this incapacitated base, directly or via a chain of bases, will lose that base's
 benefit (except viruses, which affect only the infected base).
 
-This system is a similar one used for [Cavern Modules](../etc/Modules.md).
+This system is a similar one used for [Cavern Modules](../modules/index.md).
 
-Icons on the [Continental Map](../etc/Continental_Map.md) represent each type of
+Icons on the [Continental Map](Continental_Map.md) represent each type of
 benefit associated or linked to that base.
 
 ## Available Facility Benefits
@@ -62,7 +62,7 @@ benefit associated or linked to that base.
   [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md). Note:
   [Ancient Tech](Ancient_Technology.md) Vehicles ([Flail](../vehicles/Flail.md)
   and [Switchblade](../items/Switchblade.md)) require the
-  [Vehicle Module](../etc/Vehicle_Module.md) benefit to be repaired and/or
+  [Vehicle Module](../modules/Vehicle_Module.md) benefit to be repaired and/or
   rearmed, and will not be repaired with the Dropship Center benefit alone.
 
 <!-- -->

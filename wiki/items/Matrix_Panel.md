@@ -22,7 +22,7 @@ This is done by equipping the [REK](../weapons/Remote_Electronics_Kit.md),
 aiming it at the Matrix Panel, and pressing the "Primary Fire" button. A
 progress bar will appear similar to the one received when hacking a
 [Control Console](../locations/Control_Console.md). The
-[Pain Module](../etc/Pain_Module.md) benefit and this process are stackable.
+[Pain Module](../modules/Pain_Module.md) benefit and this process are stackable.
 Spawn rooms that have upgraded pain fields from expert hackers show a special
-icon on the [Continental Map](../etc/Continental_Map.md) and will last for 30
+icon on the [Continental Map](../terminology/Continental_Map.md) and will last for 30
 minutes after the last boost.

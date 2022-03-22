@@ -1,7 +1,7 @@
 |                            |                                                                                     |
 | -------------------------- | ----------------------------------------------------------------------------------- |
 | **Certification Required** | [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)                         |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                      |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                      |
 | **Primary Mode**           | Single shot                                                                         |
 | **Secondary Mode**         | 6-shot Salvo                                                                        |
 | **Ammunition**             | [Peregrine Rocket Pod Ammunition](../ammunition/Peregrine_Rocket_Pod_Ammunition.md) |

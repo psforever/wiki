@@ -1,7 +1,7 @@
 |                                                 |                                                                                                                                                                    |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Pulsed Particle Accelerator](<../items/Pulsed_Particle_Accelerator_(BFR).md>) |
-| **Empire**                                      | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)                                                                                                                     |
+| **Empire**                                      | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)                                                                                                                     |
 | **[Trunk](../terminology/Trunk.md) dimensions** | 4x4                                                                                                                                                                |
 | **Quantity per pack**                           | 110 Rounds                                                                                                                                                         |
 

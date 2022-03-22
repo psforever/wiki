@@ -27,7 +27,7 @@ something.
 
 Like [ACE](Adaptive_Construction_Engine.md) devices, the FDU devices owned by
 you show as a different color in the gameworld and on the
-[Continental Map](../etc/Continental_Map.md). They can also be deconstructed by
+[Continental Map](../terminology/Continental_Map.md). They can also be deconstructed by
 double clicking on their icon on the continental map and selecting to
 deconstruct them.
 

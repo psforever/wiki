@@ -35,6 +35,6 @@ inventory space, use this mode sparingly, as it eats up ammo quickly!
 
 The Dragon is free to those having the
 [Three Year Term of Service](../merits/Term_of_Service.md)
-[merit](../merits/Merit_Commendations.md) or available to those certing
+[merit](../merits/index.md) or available to those certing
 [Elite Assault](../certifications/Elite_Assault.md). The Dragon has a 3 minute
 acquisition timer.

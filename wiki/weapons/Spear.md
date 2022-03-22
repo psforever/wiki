@@ -3,7 +3,7 @@
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Medium Assault](../certifications/Medium_Assault.md) |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)        |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)        |
 | **Primary Mode**           | Single Shot                                           |
 | **Secondary Mode**         | All-Magazine Burst                                    |
 | **Ammunition**             | [10mm Multi-Phase](../ammunition/10mm_Multi-Phase.md) |

@@ -5,7 +5,7 @@
 | **Type**                   | Medium Transport                                                |
 | **Role**                   | Medium Troop Transport                                          |
 | **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)       |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                    |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                    |
 | **Primary Weapon**         | 4 15mm Recoilless Cannons                                       |
 | **Secondary Weapon**       | \-                                                              |
 | **Ammunition**             | [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md) |
@@ -16,7 +16,7 @@
 
 **Raider**
 
-The Raider variant developed by the [Terran Republic](../etc/Terran_Republic.md)
+The Raider variant developed by the [Terran Republic](../terminology/Terran_Republic.md)
 features four 15mm chainguns. The new 15mm ammo does equal damage to infantry
 and armor, and does well against aircraft also. With a full gun-crew, the Raider
 is fearsome on the battefield. Like the [Deliverer](Deliverer.md), the Raider

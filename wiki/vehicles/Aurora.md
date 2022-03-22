@@ -5,7 +5,7 @@
 | **Type**                   | Medium Transport                                          |
 | **Role**                   | Medium Troop Transport                                    |
 | **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)            |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)            |
 | **Primary Weapon**         | 2 [Flux Pods](../items/Flux_Pod.md)                       |
 | **Secondary Weapon**       | \-                                                        |
 | **Occupants**              | 5 (Driver, 2 Gunners and 2 Passengers)                    |
@@ -15,7 +15,7 @@
 **Aurora**
 
 The Aurora variant developed by the
-[Vanu Sovereignty](../etc/Vanu_Sovereignty.md) is equipped with
+[Vanu Sovereignty](../terminology/Vanu_Sovereignty.md) is equipped with
 [Flux Pod](../items/Flux_Pod.md) Launchers, similar in effect to the
 [Flux Cannon](../weapons/Flux_Cannon.md) with an indirect arc of fire. A
 secondary fire mode launches a salvo of 6-pods in rapid succession with a large

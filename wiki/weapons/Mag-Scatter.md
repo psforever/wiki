@@ -3,7 +3,7 @@
 |                            |                                                                                                                                  |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Standard Assault](../certifications/Standard_Assault.md)                                                                        |
-| **Empire**                 | [New Conglomerate](../etc/New_Conglomerate.md)                                                                                   |
+| **Empire**                 | [New Conglomerate](../terminology/New_Conglomerate.md)                                                                                   |
 | **Primary Mode**           | Single Blast                                                                                                                     |
 | **Secondary Mode**         | \-                                                                                                                               |
 | **Ammunition**             | [Shotgun Shell](../ammunition/Shotgun_Shell.md) or [Armor Piercing Shotgun Shell](../ammunition/Armor_Piercing_Shotgun_Shell.md) |
@@ -30,5 +30,5 @@ Shots to kill (Extremely Close Range):
 | [MAX](../armor/Mechanized_Assault_Exo-Suit.md)         | 15 [Armor Piercing](../terminology/Armor_Piercing.md) shots |
 
 (The above numbers are taken with 100 Health and full Armor; no
-[MedKits](../items/MedKit.md), [Implants](../implants/Implants.md) or
-[Empire Incentives](../etc/Empire_Incentives.md) applied)
+[MedKits](../items/MedKit.md), [Implants](../implants/index.md) or
+[Empire Incentives](../terminology/Empire_Incentives.md) applied)

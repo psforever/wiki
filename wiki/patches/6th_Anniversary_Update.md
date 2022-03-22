@@ -6,7 +6,7 @@ commemorate this Anniversary we have a few exciting new additions for everybody!
 - The [battle rank](../terminology/Battle_Rank.md) maximum has been increased
   from 25 to 40 with a special reward upon reaching 40!
 - [Six Year Anniversary](../merits/Term_of_Service.md)
-  [merit](../merits/Merit_Commendations.md) has been awarded to all Characters
+  [merit](../merits/index.md) has been awarded to all Characters
   that are 72 months old!
 - [Battle Frame Robotics](../vehicles/BattleFrame_Robotics.md) (BFR)
   [imprint](../terminology/BFR_Imprint.md) will now be given to all characters

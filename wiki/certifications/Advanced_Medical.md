@@ -18,10 +18,10 @@ bug.
 
 Revived characters have full health, but zero
 [Stamina](../terminology/Stamina.md) and deactivated
-[Implants](../implants/Implants.md).
+[Implants](../implants/index.md).
 
 This [Certification](Certification.md) is required to obtain the
 [Combat Resuscitation](../merits/Combat_Resuscitation.md),
 [Resuscitation Medic](../merits/Resuscitation_Medic.md), and
 [Universal Soldier](../merits/Universal_Soldier.md)
-[Merit Commendations](../merits/Merit_Commendations.md).
+[Merit Commendations](../merits/index.md).

@@ -1,7 +1,7 @@
 ![
 [Facility](../locations/Facilities.md) with a Shield Module Benefit](../images/VSShieldModFacility.jpg){ class="figure" } ![](../images/Shield_module.jpg){ class="figure" } Installing
-this [Module](../etc/Modules.md) provides the
-[Module Benefit](../etc/Module_benefit.md) of powering a Force Field across the
+this [Module](../modules/index.md) provides the
+[Module Benefit](../modules/Module_benefit.md) of powering a Force Field across the
 Gate, or openings in the [Courtyard](../locations/Courtyard.md) wall.
 
 This Force Field stops ALL weapon fire. Most Vehicles cannot pass through it and
@@ -14,4 +14,4 @@ penalty.
 Friendly Infantry and Vehicles can pass through the Force Field without
 receiving Speed Penalties.
 
-This module appears as aqua on the [Continental Map](../etc/Continental_Map.md).
+This module appears as aqua on the [Continental Map](../terminology/Continental_Map.md).

@@ -5,12 +5,12 @@ with [Jammer grenades](../weapons/Jammer_Grenade.md), a
 [MedKits](../items/MedKit.md)\]\]
 
 **Inventory** represents a soldier's personal available storage space. The
-inventory space consists of [holsters](../etc/Holster.md), from which
+inventory space consists of [holsters](Holster.md), from which
 [weapons](../weapons/Weapons_Index.md) and certain items can be quickly
 retrieved, and general [backpack](Backpack.md) space, where other items of
 interest may be kept.
 
-Each type of [armor](../armor/Armor_Index.md) has a different size of inventory.
+Each type of [armor](../armor/index.md) has a different size of inventory.
 [Infiltration Suits](../armor/Infiltration_Suit.md) have the smallest and
 [MAXes](../armor/Mechanized_Assault_Exo-Suit.md) have the largest. Each
 inventory type displays a holster and backpack space. Items placed in the

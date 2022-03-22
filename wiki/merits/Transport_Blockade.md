@@ -231,4 +231,4 @@ the same time after completing 150 kills.
 **Note that the Qualification to Platinum levels of this Merit Commendation are
 exactly the same as the Qualification to Platinum levels of the
 [Cavalry Driver](Cavalry_Driver.md) Merit Commendation. This is a mistake made
-by [SOE](../etc/Sony_Online_Entertainment.md).**
+by [SOE](../Sony_Online_Entertainment.md).**

@@ -21,4 +21,4 @@ This [Certification](Certification.md) is required to obtain the
 [Hacking Support](../merits/Hacking_Support.md),
 [Locker Hack](../merits/Locker_Hack.md) and
 [Universal Soldier](../merits/Universal_Soldier.md)
-[Merit Commendations](../merits/Merit_Commendations.md).
+[Merit Commendations](../merits/index.md).

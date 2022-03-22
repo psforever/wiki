@@ -33,11 +33,11 @@ the [Empire](../terminology/Empire.md)-specific
 [Medium Battle Tank](../items/Medium_Battle_Tank.md):
 
 - [Magrider](../vehicles/Magrider.md) -
-  [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)
+  [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)
 - [Prowler](../vehicles/Prowler.md) -
-  [Terran Republic](../etc/Terran_Republic.md)
+  [Terran Republic](../terminology/Terran_Republic.md)
 - [Vanguard](../vehicles/Vanguard.md) -
-  [New Conglomerate](../etc/New_Conglomerate.md)
+  [New Conglomerate](../terminology/New_Conglomerate.md)
 
 If a soldier can manage to acquire an enemy tank in this class, either by
 [Hacking](../terminology/Hack.md) or through

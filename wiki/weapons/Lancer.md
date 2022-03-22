@@ -3,7 +3,7 @@
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |
 | **Certification Required** | [Anti-Vehicular](../certifications/Anti-Vehicular.md) |
-| **Empire**                 | [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)        |
+| **Empire**                 | [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)        |
 | **Primary Mode**           | Energy Beam                                           |
 | **Secondary Mode**         | \-                                                    |
 | **Ammunition**             | Large Energy Cell                                     |
@@ -14,7 +14,7 @@
 
 **Lancer**
 
-The [Vanu Sovereignty](../etc/Vanu_Sovereignty.md)'s
+The [Vanu Sovereignty](../terminology/Vanu_Sovereignty.md)'s
 [Anti-Vehicular](../certifications/Anti-Vehicular.md) weapon, the
 [Lancer](Lancer.md), feature a fast-moving energy projectile with a small
 [cone of fire](../terminology/Cone_of_fire.md). However, it takes approximately
@@ -24,7 +24,7 @@ to lead moving targets. The Lancer has a greater range than the
 
 As an interesting sidenote, this is the only
 non-[MAX](../armor/Mechanized_Assault_Exo-Suit.md)
-[Vanu](../etc/Vanu_Sovereignty.md) beam weapon not to use the universal
+[Vanu](../terminology/Vanu_Sovereignty.md) beam weapon not to use the universal
 [Energy Cell](../ammunition/Energy_Cell.md) ammo.
 
 Shots to kill:

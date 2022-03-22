@@ -38,4 +38,4 @@ These Turrets cannot be deployed inside an Enemy
 Kills made with these turrets count towards both the
 [Air Defender](../merits/Air_Defender.md) and
 [Engineering]../merits/Engineering\_(Merit).md)
-[Merits](../merits/Merit_Commendations.md).
+[Merits](../merits/index.md).

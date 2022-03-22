@@ -28,4 +28,4 @@ Tactics
 
 </H3>
 
-- [Tower defense/assault guide by DragonJTS](../etc/DragonJTS.md)
+- [Tower defense/assault guide by DragonJTS](../archive/strategy/DragonJTS.md)

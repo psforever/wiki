@@ -8,12 +8,12 @@ The Module Building features:
 - A [Spawn Room](Spawn_Room.md)
 - [Ancient Equipment Terminals](../items/Ancient_Equipment_Terminal.md)
 - [Module Cradles](../items/Module_Cradle.md)
-- [Modules](../etc/Modules.md)
+- [Modules](../modules/index.md)
 - [Teleporters](../terminology/Teleporter.md)
 
-Module Buildings are the buildings were you can get [Modules](../etc/Modules.md)
+Module Buildings are the buildings were you can get [Modules](../modules/index.md)
 that give benefits for the surface facilities after the
-[Module](../etc/Modules.md) has been installed in the
+[Module](../modules/index.md) has been installed in the
 [Facility](Facilities.md)'s [Module Cradle](../items/Module_Cradle.md). Each
 module building spawns 2 modules at a time, located in the module cradles near
 the two [Teleporters](../terminology/Teleporter.md). The modules availible at
@@ -25,4 +25,4 @@ take a module from the cradle, your [empire](../terminology/Empire.md) must own
 the building. For the module to be installed on the surface, it must first be
 charged in the core beam in the [Core Complex](Core_Complex.md).
 
-See [Modules](../etc/Modules.md) for more information about their Benefits.
+See [Modules](../modules/index.md) for more information about their Benefits.

@@ -40,7 +40,7 @@ similar to the rate of fire and trajectory of the
 [prowler](../vehicles/Prowler.md) main gun, but the damage is not as great.
 Kills made with the flak cannon also count towards the
 [Air Defender](../merits/Air_Defender.md)
-[merit](../merits/Merit_Commendations.md). Upgrades are done with the
+[merit](../merits/index.md). Upgrades are done with the
 [Nano Dispenser](../weapons/Nano_Dispenser.md) and last for 30 minutes unless
 destroyed or the base changes [empire](../terminology/Empire.md) control. The
 type of upgrade can be changed at any time by starting the process over again.

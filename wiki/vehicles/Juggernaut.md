@@ -6,14 +6,14 @@
 | **Type**                   | Heavy Transport                                                                                                                                                                               |
 | **Role**                   | Heavy Troop Transport                                                                                                                                                                         |
 | **Certification Required** | [Ground Transport](../certifications/Ground_Transport.md)                                                                                                                                     |
-| **Empire**                 | [Terran Republic](../etc/Terran_Republic.md)                                                                                                                                                  |
+| **Empire**                 | [Terran Republic](../terminology/Terran_Republic.md)                                                                                                                                                  |
 | **Primary Weapons**        | 2 75mm Tank Cannons, 2 15mm Chainguns, 2 side [Ballguns](../items/Ballgun.md)                                                                                                                 |
 | **Secondary Weapon**       | \-                                                                                                                                                                                            |
 | **Ammunition Used**        | [Lightning Shell](../ammunition/Lightning_Shell.md), [15mm Chaingun Bullets](../ammunition/15mm_Chaingun_Bullets.md), and [Rotary Chaingun Bullets](../ammunition/Rotary_Chaingun_Bullets.md) |
 | **Occupants**              | 11 (Driver, 6 Gunners, 2 Infantry Passengers and 2 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Passengers)                                                                                 |
 | **Handling**               | Poor                                                                                                                                                                                          |
 | **Top speed**              | 58 kph                                                                                                                                                                                        |
-| **Special Features**       | Driver [EMP](../commands/EMP.md) weapon, can pass through [Shield Module](../items/Shield_Module.md) defenses.                                                                                |
+| **Special Features**       | Driver [EMP](../terminology/EMP.md) weapon, can pass through [Shield Module](../items/Shield_Module.md) defenses.                                                                                |
 
 **Juggernaut**
 
@@ -27,14 +27,14 @@ The 15mm Chainguns are nearly identical to those found on the
 enemy aircraft and vehicles, not infantry.
 
 The driver can wear up to [Reinforced Exo-Suit](../armor/Reinforced_Exo-Suit.md)
-armor. The driver also has access to an [EMP](../commands/EMP.md) blast (default
+armor. The driver also has access to an [EMP](../terminology/EMP.md) blast (default
 key: "b"). The capacitor must recharge before it can be fired again. The
-capacitor status is shown on the [HUD](../etc/Heads-up_Display.md) bar. The
+capacitor status is shown on the [HUD](../terminology/Heads-up_Display.md) bar. The
 driver can also activate the vehicle horn (default key: "f").
 
 The side [Ballguns](../items/Ballgun.md) have a limited view, but if the user
 has the [Darklight](../implants/Darklight.md)
-[Implant](../implants/Implants.md), he/she can see
+[Implant](../implants/index.md), he/she can see
 [cloaked](../armor/Infiltration_Suit.md) enemies at a longer range than normal,
 providing excellent side defense.
 

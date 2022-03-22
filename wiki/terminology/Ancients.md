@@ -12,7 +12,7 @@ artifacts and residual energy signatures for
 our own needs.
 
 The appearance, motives, and whereabouts of the Ancients are a complete mystery.
-As revealed by [The Bending](../etc/The_Bending.md) it is thought that the
+As revealed by [The Bending](The_Bending.md) it is thought that the
 Ancients were masters of manipulating space-time, able to move or alter
 different dimensions and realities through complex technology. It is this
 technology that has allowed us to cheat death in our wars. Sadly, this

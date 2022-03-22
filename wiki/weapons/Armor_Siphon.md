@@ -29,12 +29,12 @@ energy to kill the equivalent of an
 [ANT](../vehicles/Advanced_Nanite_Transport.md) in armor. More heavily armored
 targets will require a brief recharge.
 
-[Jammer Grenades](Jammer_Grenade.md) and [EMP](../commands/EMP.md) blasts will
+[Jammer Grenades](Jammer_Grenade.md) and [EMP](../terminology/EMP.md) blasts will
 disable the armor siphon completely for a short time (unlike traditional BFR
 weapons that simply receive rate of fire penalties).
 
 The best (and almost the only practical) use of this weapon is in conjuction
 with the [NTU Siphon](NTU_Siphon.md) in attacking enemy
 [BFRs](../vehicles/BattleFrame_Robotics.md). By using the NTU Siphon to
-[EMP](../commands/EMP.md) the enemy, then using the Armor Siphon to bypass their
+[EMP](../terminology/EMP.md) the enemy, then using the Armor Siphon to bypass their
 shields, the enemy BFR can be destroyed fairly quickly.

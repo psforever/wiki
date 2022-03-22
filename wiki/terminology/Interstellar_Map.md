@@ -2,7 +2,7 @@
 [planets](../locations/Planet.md) and of Auraxian space, showing the
 [Galactic Lattice](Galactic_Lattice.md) network between the worlds and their
 [continents](../locations/Continent.md). Accessed with the "G" key after you
-have opened up the [Continental Map](../etc/Continental_Map.md) with the "M"
+have opened up the [Continental Map](Continental_Map.md) with the "M"
 key.
 
 When you select a single planet, it will reveal color-coded lines to other
@@ -19,17 +19,17 @@ Mini-screens at the top of the map display [Cavern](../locations/Caverns.md) and
 Selecting a planet or cavern will also highlight its hosted continent on the
 side of the screen, with thin lines leading to the target world for quick
 referance. Each mini-window will also show the
-[Continental lock](../etc/Continental_lock.md) and [Population
+[Continental lock](Continental_lock.md) and [Population
 lock](Population_Lock.mdtatus of each continent, the empire
 [SOIs](../locations/Sphere_of_Influence.md) for each base, as well as any
 [hotspots](Hotspot.md) on the surface.
 
-[LLU](Lattice_Logic_Unit.md), [Module](../etc/Modules.md), [Squad](Squad.md),
+[LLU](Lattice_Logic_Unit.md), [Module](../modules/index.md), [Squad](Squad.md),
 and [Platoon](Platoon.md)-member locations will also display on these continent
 windows. Your current location will appear as a white arrow.
 
 Double-clicking on a continent or planet will open up the
-[Continental Map](../etc/Continental_Map.md) of that world or cavern.
+[Continental Map](Continental_Map.md) of that world or cavern.
 
 ---
 
