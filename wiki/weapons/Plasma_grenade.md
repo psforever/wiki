@@ -31,5 +31,5 @@ fragmentation grenades do more damage to all objects, including
 
 The [Plasma](Plasma.md) will also reveal cloakers in the area as one can see the
 plasma burning on them even while cloaked, and thus can be a useful way of
-revealing cloakers without using the [Darklight](../implants/Darklight.md)
+revealing cloakers without using the [Darklight](../implants/Darklight_Vision.md)
 [Implant](../implants/index.md).

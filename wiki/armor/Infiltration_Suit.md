@@ -26,4 +26,4 @@ Still, it is an extremely useful suit for reconnaissance and stealth.
 
 Wearers of the **Infiltration Suit** are commonly known as "Cloakers." They are
 visible when moving or shooting (see image) or with the use of the
-[Darklight](../implants/Darklight.md) implant.
+[Darklight](../implants/Darklight_Vision.md) implant.

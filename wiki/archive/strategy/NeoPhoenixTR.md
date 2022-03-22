@@ -206,7 +206,7 @@ and health up for enough time to squeeze the killshot off.
 Implants to avoid using are:
 
 - [Personal Shield](../../implants/Personal_Shield.md)
-- [Darklight](../../implants/Darklight.md)
+- [Darklight](../../implants/Darklight_Vision.md)
 
 The reasoning behing my recommendation against personal shield is that, during a
 takedown, _stamina is essential_. Darklight is also a stamina hog, and serves no

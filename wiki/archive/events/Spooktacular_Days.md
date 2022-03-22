@@ -26,7 +26,7 @@ All players will be able to use
 - In true Halloween tradition, players will only be allowed to use a Knife to
   kill other players.
 - Players are urged to get proper [Implants](../../implants/index.md) before
-  entering the zone such as [Darklight](../../implants/Darklight.md) in order to
+  entering the zone such as [Darklight](../../implants/Darklight_Vision.md) in order to
   see all apparitions.
 - The zone has limited [vehicles](../../vehicles/index.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This damage

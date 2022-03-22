@@ -173,7 +173,7 @@ Long range pistols is a slightly misleading name, as these pistols still are not
 anywhere near Medium Assault range. However, these weapons can be used
 effectively in ranges over 20 meters, which is somewhat advantageous to
 Infiltrators, as they can kill enemies outside of the 20 meter
-[Darklight](../implants/Darklight.md) range without fear of being detected by
+[Darklight](../implants/Darklight_Vision.md) range without fear of being detected by
 Darklight. The long range pistols are the [Beamer](Beamer.md) and the
 [Repeater](Repeater.md), which means the
 [New Conglomerate](../terminology/New_Conglomerate.md) has no available long range

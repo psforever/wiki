@@ -34,7 +34,7 @@ Upon entering the massacre lands, soldiers will be subject to the following:
   backpack corpses.
 - Before joining the massacre, we advise careful planning of your
   [implants](../../implants/index.md). With so many spooky ghosts and ghouls
-  around, you'll probably want to have [Darklight](../../implants/Darklight.md)
+  around, you'll probably want to have [Darklight](../../implants/Darklight_Vision.md)
   handy.
 - Each empire will have a predetermined base. Hacking of the bases will be
   permitted and you will receive experience. However, if the death toll has

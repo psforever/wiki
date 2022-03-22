@@ -48,7 +48,7 @@ noob stationary [BFR](../../vehicles/BattleFrame_Robotics.md) you come across.
 
 The implants I recommend are
 [Enhanced Targeting](../../implants/Enhanced_Targeting.md),
-[Darklight](../../implants/Darklight.md), and
+[Darklight](../../implants/Darklight_Vision.md), and
 [Audio Amplifier](../../implants/Audio_Amplifier.md). Always have Audio Amp on, and
 Darklight lets you run over those pesky cloakers.
 
@@ -286,7 +286,7 @@ gun, and a [Lasher](../../weapons/Lasher.md) if you have it certed, though a
 or two boxes of repair juice, since hopefully your driver has plenty in the
 trunk if you run out. Recommended implants are
 [Enhanced Targeting](../../implants/Enhanced_Targeting.md) and
-[Darklight](../../implants/Darklight.md). The third slot is up to you, but
+[Darklight](../../implants/Darklight_Vision.md). The third slot is up to you, but
 [Audio Amplifier](../../implants/Audio_Amplifier.md) is probably best.
 
 Like driving, the gunner needs to be looking at the radar screen every few

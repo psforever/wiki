@@ -332,7 +332,7 @@ Undocumented update
 
 Undocumented bug fix
 
-- Fixed [Darklight](../implants/Darklight.md) icon not displaying above both
+- Fixed [Darklight](../implants/Darklight_Vision.md) icon not displaying above both
   friendly and enemies names. The bug was introduced with patch
   [3.12.12](3.12.12.md).
 
@@ -483,7 +483,7 @@ without need of the [certification](../certifications/Certification.md) on
 - In true Halloween tradition, players will only be allowed to use a Knife to
   kill other players.
 - Players are urged to get proper [Implants](../implants/index.md) before
-  entering the zone such as [Darklight](../implants/Darklight.md) in order to
+  entering the zone such as [Darklight](../implants/Darklight_Vision.md) in order to
   see all apparitions.
 - The zone has limited [vehicles](../vehicles/index.md).
 - Knives’ secondary mode will now damage vehicles and equipment. This damage

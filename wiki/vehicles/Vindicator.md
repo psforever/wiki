@@ -34,7 +34,7 @@ capacitor status is shown on the [HUD](../terminology/Heads-up_Display.md) bar. 
 driver can also activate the vehicle horn (default key: "f").
 
 The side [Ballguns](../items/Ballgun.md) have a limited view, but if the user
-has the [Darklight](../implants/Darklight.md)
+has the [Darklight](../implants/Darklight_Vision.md)
 [Implant](../implants/index.md), he/she can see
 [cloaked](../armor/Infiltration_Suit.md) enemies at a longer range than normal,
 providing excellent side defense.

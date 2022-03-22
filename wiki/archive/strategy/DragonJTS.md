@@ -39,7 +39,7 @@ havoc on them. A very deadly combo is a combination of
 and [AV](../../certifications/Anti-Vehicular.md). The mines make it so vehicles
 can't fire their weapons, leaving them open to a salvo of AV rockets. MAXs
 should set up just inside the door, on the stairs towards the CC. If the people
-using them have [DL](../../implants/Darklight.md), they should activate it. Once
+using them have [DL](../../implants/Darklight_Vision.md), they should activate it. Once
 the enemy is inside, push hard from the spawn room, and head either to the CC,
 or keep pushing the enemy outside. If you can bring in vehicles from an outside
 source, do so, or else enemy vehicles will seal you in. Once they reach the

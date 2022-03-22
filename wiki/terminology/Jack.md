@@ -9,7 +9,7 @@ screen. A timer will appear, similar to other hacking tasks, after which the
 vehicle will change ownership to the hacker, and its color scheme will change to
 show its new [Empire](Empire.md). Cloaked [Phantasms](../vehicles/Phantasm.md)
 and [Wraiths](../vehicles/Wraith.md) can be jacked, but requires the hacker to
-use the [Darklight](../implants/Darklight.md) implant to begin the jacking
+use the [Darklight](../implants/Darklight_Vision.md) implant to begin the jacking
 process.
 
 Vehicles may be hacked if they belong to another empire.
