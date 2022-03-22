@@ -72,16 +72,16 @@ buildings, terminals, and vital functions.
 - [Teleporters](../terminology/Teleporter.md)
 - [Crystals](../items/Crystal.md)
 
-# Facilities Directory
+## Facilities Directory
 
 Total Capturable Facilities: 153 **Does not include [Towers](Towers.md) or
 neutral cavern structures.**
 
-## Surface Bases
+### Surface Bases
 
 Capturable Facilities, not including [Towers](Towers.md): 117
 
-### [Amerish](Amerish.md)
+#### [Amerish](Amerish.md)
 
 12 Bases:
 
@@ -98,7 +98,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Verica](../facilities/Verica.md)
 - [Xelas](../facilities/Xelas.md)
 
-### [Ceryshen](Ceryshen.md)
+#### [Ceryshen](Ceryshen.md)
 
 9 Bases:
 
@@ -112,7 +112,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Tarqaq](../facilities/Tarqaq.md)
 - [Tootega](../facilities/Tootega.md)
 
-### [Cyssor](Cyssor.md)
+#### [Cyssor](Cyssor.md)
 
 17 Bases:
 
@@ -134,7 +134,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Tore](../facilities/Tore.md)
 - [Wele](../facilities/Wele.md)
 
-### [Esamir](Esamir.md)
+#### [Esamir](Esamir.md)
 
 13 Bases:
 
@@ -152,7 +152,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Vidar](../facilities/Vidar.md)
 - [Ymir](../facilities/Ymir.md)
 
-### [Forseral](Forseral.md)
+#### [Forseral](Forseral.md)
 
 10 Bases:
 
@@ -167,7 +167,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Ogma](../facilities/Ogma.md)
 - [Pwyll](../facilities/Pwyll.md)
 
-### [Hossin](Hossin.md)
+#### [Hossin](Hossin.md)
 
 11 Bases:
 
@@ -183,7 +183,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Voltan](../facilities/Voltan.md)
 - [Zotz](../facilities/Zotz.md)
 
-### [Ishundar](Ishundar.md)
+#### [Ishundar](Ishundar.md)
 
 12 Bases:
 
@@ -200,33 +200,33 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Neti](../facilities/Neti.md)
 - [Zaqar](../facilities/Zaqar.md)
 
-### [Oshur Battle Islands](Oshur.md)
+#### [Oshur Battle Islands](Oshur.md)
 
 10 Bases
 
-#### [Ascension](Oshur.md#Ascension)
+##### [Ascension](Oshur.md#Ascension)
 
 - [Rashnu](../facilities/Rashnu.md)
 - [Sraosha](../facilities/Sraosha.md)
 - [Zal](../facilities/Zal.md)
 
-#### [Desolation](Oshur.md#Desolation)
+##### [Desolation](Oshur.md#Desolation)
 
 - [Dahaka](../facilities/Dahaka.md)
 - [Izha](../facilities/Izha.md)
 - [Jamshid](../facilities/Jamshid.md)
 
-#### [Extinction](Oshur.md#Extinction)
+##### [Extinction](Oshur.md#Extinction)
 
 - [Hvar](../facilities/Hvar.md)
 - [Mithra](../facilities/Mithra.md)
 - [Yazata](../facilities/Yazata.md)
 
-#### [Nexus](Oshur.md#Nexus)
+##### [Nexus](Oshur.md#Nexus)
 
 - [Atar](../facilities/Atar.md)
 
-### [Searhus](Searhus.md)
+#### [Searhus](Searhus.md)
 
 14 Bases:
 
@@ -245,7 +245,7 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Tara](../facilities/Tara.md)
 - [Wakea](../facilities/Wakea.md)
 
-### [Solsar](Solsar.md)
+#### [Solsar](Solsar.md)
 
 9 Bases:
 
@@ -259,11 +259,11 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 - [Sobek](../facilities/Sobek.md)
 - [Thoth](../facilities/Thoth.md)
 
-## Cavern Bases
+### Cavern Bases
 
 Capturable Facilities: 36
 
-### [Adlivun](Adlivun.md)
+#### [Adlivun](Adlivun.md)
 
 6 Capturable Facilities:
 
@@ -274,7 +274,7 @@ Capturable Facilities: 36
 - [Redoubt](Redoubt_Building.md) Northwest, Adlivun
 - [Redoubt](Redoubt_Building.md) Southeast, Adlivun
 
-### [Annwn](Annwn.md)
+#### [Annwn](Annwn.md)
 
 6 Capturable Facilities:
 
@@ -285,7 +285,7 @@ Capturable Facilities: 36
 - [Redoubt](Redoubt_Building.md) Northwest, Annwn
 - [Redoubt](Redoubt_Building.md) Southeast, Annwn
 
-### [Byblos](Byblos.md)
+#### [Byblos](Byblos.md)
 
 6 Capturable Facilities:
 
@@ -296,7 +296,7 @@ Capturable Facilities: 36
 - [Redoubt](Redoubt_Building.md) North, Byblos
 - [Redoubt](Redoubt_Building.md) South, Byblos
 
-### [Drugaskan](Drugaskan.md)
+#### [Drugaskan](Drugaskan.md)
 
 6 Capturable Facilities:
 
@@ -307,7 +307,7 @@ Capturable Facilities: 36
 - [Redoubt](Redoubt_Building.md) North, Drugaskan
 - [Redoubt](Redoubt_Building.md) South, Drugaskan
 
-### [Hunhau](Hunhau.md)
+#### [Hunhau](Hunhau.md)
 
 6 Capturable Facilities:
 
@@ -318,7 +318,7 @@ Capturable Facilities: 36
 - [Redoubt](Redoubt_Building.md) North, Hunhau
 - [Redoubt](Redoubt_Building.md) South, Hunhau
 
-### [Supai](Supai.md)
+#### [Supai](Supai.md)
 
 6 Capturable Facilities:
 

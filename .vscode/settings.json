@@ -1,3 +1,4 @@
 {
-  "markdownLinkUpdater.exclude": ["**/node_modules/**", "site"]
+  "markdownLinkUpdater.exclude": ["**/node_modules/**", "site"],
+  "markdownLinkUpdater.disableConfirmationPrompt": true
 }
