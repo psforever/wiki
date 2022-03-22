@@ -1,13 +1,3 @@
-<table width=180 align=right bgcolor=#AAAAAA>
-<tr>
-<td width=180 valign=top>
-
-**TOC**
-
-</td>
-</tr>
-</table>
-
 This is a historical summary of the [Patches](../terminology/Patch.md) of
 PlanetSide.
 

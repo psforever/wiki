@@ -87,9 +87,6 @@ the same vein as [LLUs](../terminology/Lattice_Logic_Unit.md).
 5. The modules are extremely sensitive to changes in pressure. If a module is
    ever submerged in water, it will immediately detonate, destroying itself and
    anything near it.
-
-<!-- -->
-
-1. The modules become unstable when they are taken out of their
+6. The modules become unstable when they are taken out of their
    [Module Cradle](../items/Module_Cradle.md). They will explode if they are out
    of their cradle for more than 15 minutes.

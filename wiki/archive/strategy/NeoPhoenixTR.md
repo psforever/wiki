@@ -18,8 +18,6 @@ THE BFR Hunters' Handbook
 <tr>
 <td valign="top" width="300">
 
-**TOC**
-
 </td>
 <td valign="top">
 <h2>

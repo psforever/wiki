@@ -2,8 +2,6 @@
 <tr>
 <td align=center width=150>
 
-**TOC**
-
 </td>
 <td align=left valign=center>
 

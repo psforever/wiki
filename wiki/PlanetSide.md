@@ -181,7 +181,7 @@ change the face of the battlefield.
 
 #### Changes to Caverns
 
-With more recent [patches](patches/Patches.md), the way the caverns work has
+With more recent [patches](patches/index.md), the way the caverns work has
 changed. Rather than having the six caverns being linked to the same six
 continents all the time, two caverns are open at any time and are linked to
 random continents on the surface, and the other four caverns have a countdown
@@ -236,7 +236,7 @@ Aftershock marked the introduction of a new gameplay element,
 ## See Also
 
 - [Core Combat](items/Core_Combat.md)
-- [Patches](patches/Patches.md)
+- [Patches](patches/index.md)
 
 ## External Links
 
