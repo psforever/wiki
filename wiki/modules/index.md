@@ -49,7 +49,9 @@ second and 5 minutes, killing the carrier and anything nearby.
 
 ## Available Modules
 
-![](../images/Shield_module.jpg){ class="figure" } Currently, six types of
+![](../images/Shield_module.jpg){ class="figure" }
+
+Currently, six types of
 modules are available to be installed (map icon color is listed):
 
 - [Equipment Module](Equipment_Module.md) (blue)

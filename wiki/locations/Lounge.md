@@ -1,4 +1,6 @@
-![Lounge](../images/TRLounge.jpg){ class="figure" } Sometimes called the
+![Lounge](../images/TRLounge.jpg){ class="figure" }
+
+Sometimes called the
 Kitchen, this room is typically adjacent to the
 [respawn room](Spawn_Room.md) in a
 [facility](Facilities.md).

@@ -1,4 +1,6 @@
-![](../images/Avenger.jpg){ class="figure" } ![](../images/AvengerInside.jpg){ class="figure" }
+![](../images/Avenger.jpg){ class="figure" }
+
+![](../images/AvengerInside.jpg){ class="figure" }
 
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,4 +1,6 @@
-![Invader](../images/PSScreenShot0322.jpg){ class="figure" } The **Invader** is
+![Invader](../images/PSScreenShot0322.jpg){ class="figure" }
+
+The **Invader** is
 the flight variant of
 [BattleFrame Robotics](BattleFrame_Robotics.md) developed by the
 [Terran Republic](../factions/Terran_Republic.md).

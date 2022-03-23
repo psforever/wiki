@@ -1,5 +1,7 @@
 ![ in
-[Adlivun](../locations/Adlivun.md)](../images/VehicleRepairCrystal.jpg){ class="figure" } [Vehicle Energy Crystals](Vehicle_Energy_Crystal.md) serve two
+[Adlivun](../locations/Adlivun.md)](../images/VehicleRepairCrystal.jpg){ class="figure" }
+
+[Vehicle Energy Crystals](Vehicle_Energy_Crystal.md) serve two
 purposes:
 
 - [Vehicle](../vehicles/index.md) Armor Repair

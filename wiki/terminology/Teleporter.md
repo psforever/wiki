@@ -1,5 +1,7 @@
 ![
-![](../images/TeleporterBoardingPoint.jpg){ class="figure" } in
+![](../images/TeleporterBoardingPoint.jpg){ class="figure" }
+
+in
 the [Caverns](../locations/Caverns.md)](../images/Teleporter.jpg){ class="figure" }
 ![ Soldier exiting an
 Ancient Teleporter in the [Caverns](../locations/Caverns.md)](../images/TeleporterExit.jpg){ class="figure" }

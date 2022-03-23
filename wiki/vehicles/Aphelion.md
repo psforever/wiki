@@ -42,7 +42,9 @@ Only one gunner weapon can be used at a time.
 
 ## History
 
-![](../images/Aphelions.jpg){ class="figure" } The currently-fielded unit named
+![](../images/Aphelions.jpg){ class="figure" }
+
+The currently-fielded unit named
 "Aphelion" varies from the pictured unit. When introduced, the two-man version
 of the [VS](../factions/Vanu_Sovereignty.md) battleframe was named the **Orion**. It
 was renamed "Aphelion" in patch [3.2.6](../patches/3.2.6.md), and the original

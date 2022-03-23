@@ -1,6 +1,6 @@
 ![](../images/PSScreenShot0287.jpg){ class="figure" }
 ![](../images/UpgradingPhalanx.jpg){ class="figure" }
-![](../images/AAPhalanx.jpg){ class="figure" } ![](../images/AVPhalanx.jpg){ class="figure" }
+![](../images/AAPhalanx.jpg){ class="figure" }
 
 **Phalanx wall turrets** are the only fixed weapons and
 non-passive defensive installations of

@@ -1,7 +1,9 @@
 ![ from the
 outside](../images/VehicleBayExterior.jpg){ class="figure" }
 ![
-from the inside](../images/VehicleBayInterior.jpg){ class="figure" } Only
+from the inside](../images/VehicleBayInterior.jpg){ class="figure" }
+
+Only
 [Technology Plants](../locations/Technology_Plant.md) feature **Vehicle Bays**.
 The Vehicle Bay is in the basement, and is a large room with a
 [Vehicle Terminal](../locations/Vehicle_Terminal.md). Only

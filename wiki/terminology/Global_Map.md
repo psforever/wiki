@@ -1,4 +1,6 @@
-![](../images/Global_Map.jpg){ class="figure" } The [Global Map](Global_Map.md)
+![](../images/Global_Map.jpg){ class="figure" }
+
+The [Global Map](Global_Map.md)
 was the way [PlanetSide](../PlanetSide.md) originally showed the ten
 continents and three sanctuaries. Before [The Bending](The_Bending.md)
 occurred, all of [Auraxis](../locations/Auraxis.md) was still one planet.

@@ -1,4 +1,6 @@
-![](../images/Spear.jpg){ class="figure" } ![.](../images/Pistol_DD.jpg){ class="figure" }
+![](../images/Spear.jpg){ class="figure" }
+
+![.](../images/Pistol_DD.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

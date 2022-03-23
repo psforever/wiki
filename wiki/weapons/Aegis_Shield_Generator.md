@@ -1,5 +1,7 @@
 ![](../images/AegisGenerator.jpg){ class="figure" }
-![](../images/AegisAmmo.jpg){ class="figure" } ![](../images/AegisInfo.jpg){ class="figure" }
+![](../images/AegisAmmo.jpg){ class="figure" }
+
+![](../images/AegisInfo.jpg){ class="figure" }
 
 |                            |                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |

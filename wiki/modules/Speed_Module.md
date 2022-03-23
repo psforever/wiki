@@ -1,4 +1,6 @@
-![](../images/Speed_module.jpg){ class="figure" } Installing this
+![](../images/Speed_module.jpg){ class="figure" }
+
+Installing this
 [module](index.md) provides the [module benefit](Module_benefit.md) of
 significantly reducing the respawn delay at the
 [facility](../locations/Facilities.md). Additionally, all friendlies in the area

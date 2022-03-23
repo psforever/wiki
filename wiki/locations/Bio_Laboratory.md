@@ -1,4 +1,6 @@
-![](../images/Bio_Layout.jpg){ class="figure" } Bio Laboratory
+![](../images/Bio_Layout.jpg){ class="figure" }
+
+Bio Laboratory
 [facilities](Facilities.md) are the weakest in terms of defense, as their
 [generators](../items/Generator.md) are located on the rooftop of the facility.
 The Bio Laboratory grants a faster [respawn](../terminology/Respawn.md) time to

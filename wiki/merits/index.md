@@ -47,7 +47,9 @@ At present, there are six categories of Merit Commendations:
 </td>
 <td width="170" align="center" valign="top">
 
-<b></b> ![](../images/VehMeritThumb.png){ class="figure" } <b></b>
+<b></b> ![](../images/VehMeritThumb.png){ class="figure" }
+
+<b></b>
 ![](../images/DefenseMeritThumb.png){ class="figure" }
 
 </td>
@@ -58,7 +60,9 @@ At present, there are six categories of Merit Commendations:
 </td>
 <td width="190" align="center" valign="top">
 
-<b></b> ![](../images/ActivityMeritThumbnail_copy.png){ class="figure" } <b></b>
+<b></b> ![](../images/ActivityMeritThumbnail_copy.png){ class="figure" }
+
+<b></b>
 ![](../images/Exclusive_Merit_Commendation.png){ class="figure" }
 
 </td>

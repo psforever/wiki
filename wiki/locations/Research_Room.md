@@ -1,4 +1,6 @@
-![](../images/BioLabResearchRoom.jpg){ class="figure" } The Research Room can
+![](../images/BioLabResearchRoom.jpg){ class="figure" }
+
+The Research Room can
 only be found in [Bio Laboratories](Bio_Laboratory.md) behind the
 [Spawn Room](Spawn_Room.md).
 

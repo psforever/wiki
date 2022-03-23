@@ -1,4 +1,6 @@
-![](../images/Eraser.jpg){ class="figure" } ![.](../images/Pistol_DD.jpg){ class="figure" }
+![](../images/Eraser.jpg){ class="figure" }
+
+![.](../images/Pistol_DD.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

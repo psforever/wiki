@@ -1,4 +1,6 @@
-![[Eagle](Eagle.md)](../images/EagleFV.jpg){ class="figure" } The **Eagle** is
+![[Eagle](Eagle.md)](../images/EagleFV.jpg){ class="figure" }
+
+The **Eagle** is
 the flight variant of [BattleFrame Robotics](BattleFrame_Robotics.md) developed
 by the [New Conglomerate](../factions/New_Conglomerate.md).
 

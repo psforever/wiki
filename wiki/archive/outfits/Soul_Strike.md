@@ -1,4 +1,6 @@
-![](../../images/Decoys_memorial1.jpg){ class="figure" } Soul_Strike is a mid-sized
+![](../../images/Decoys_memorial1.jpg){ class="figure" }
+
+Soul_Strike is a mid-sized
 [outfit](../../terminology/Outfit.md) that fights for the
 [Vanu Sovereignty](../../factions/Vanu_Sovereignty.md) on the
 [Emerald](../servers/Emerald.md) Server. They also have alt chapters on

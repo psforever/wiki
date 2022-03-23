@@ -402,7 +402,9 @@ in there. That jammer, pistol, or ammo could cost you the kill later on.
 <tr>
 <td width=390 valign=center align=center>
 
-![](../../images/BFRHunter-HALoadout.gif){ class="figure" } <small>Example of an
+![](../../images/BFRHunter-HALoadout.gif){ class="figure" }
+
+<small>Example of an
 Optimal BFR Hunter Loadout</small>
 
 </td>
@@ -449,7 +451,9 @@ Enough about how to setup your loadouts. Time to get on with the moves!
 <tr>
 <td width=390 valign=center align=center>
 
-![](../../images/BFRHunter-CursorPosition.gif){ class="figure" } <small>Mouse
+![](../../images/BFRHunter-CursorPosition.gif){ class="figure" }
+
+<small>Mouse
 cursor position at the start of a Deci-Swap</small>
 
 </td>
@@ -489,7 +493,9 @@ itself!
 <tr>
 <td width=390 valign=center align=center>
 
-![](../../images/BFRHunter-CursorMovement.gif){ class="figure" } <small>Mouse
+![](../../images/BFRHunter-CursorMovement.gif){ class="figure" }
+
+<small>Mouse
 Movement during the Deci-Swap</small>
 
 </td>
@@ -544,7 +550,9 @@ Here's a couple scenarios that I recommend for Deci-Swap practice.
 <td valign=center align=center width=400>
 <div id="RexoPracticeLoadout">
 
-![](../../images/BFRHunter-RexoPracticeLoadout.gif){ class="figure" } <small>Rexo
+![](../../images/BFRHunter-RexoPracticeLoadout.gif){ class="figure" }
+
+<small>Rexo
 Loadout for Deci-Swap Combat Practice</small>
 
 </div>
@@ -786,7 +794,9 @@ during the deci-swap and the takedown.
 <td align=center valign=center width=400>
 <div id="ColossusTakedownAim">
 
-![](../../images/ColossusTakedownAim.gif){ class="figure" } <small>Where to aim
+![](../../images/ColossusTakedownAim.gif){ class="figure" }
+
+<small>Where to aim
 against a TR [Colossus](../../vehicles/Colossus.md) or
 [Invader](../../vehicles/Invader.md)</small>
 

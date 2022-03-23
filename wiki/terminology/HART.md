@@ -1,4 +1,8 @@
-![](../images/Hart.jpg){ class="figure" } ![](../images/HART-Icon.jpg){ class="figure" } The **HART**, or **High Altitude Rapid Transport** shuttle, is
+![](../images/Hart.jpg){ class="figure" }
+
+![](../images/HART-Icon.jpg){ class="figure" }
+
+The **HART**, or **High Altitude Rapid Transport** shuttle, is
 a large passenger spacecraft that makes regular flights at three minute
 intervals to any of the ten [planets](../locations/Planet.md) and their
 [continents](../locations/Continent.md). Landing and departing from special

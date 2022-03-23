@@ -15,7 +15,9 @@
 **Lodestar**
 
 ![ Lodestar carries an
-[AMS](Advanced_Mobile_Station.md)](../images/Lodestar_NC.jpg){ class="figure" } The **Lodestar** is a massive, shoebox shaped aircraft designed
+[AMS](Advanced_Mobile_Station.md)](../images/Lodestar_NC.jpg){ class="figure" }
+
+The **Lodestar** is a massive, shoebox shaped aircraft designed
 to carry any vehicle and also act as a remote Repair/rearm station. Infantry may
 not be directly transported by the Lodestar, but must be inside a vehicle.
 

@@ -1,4 +1,6 @@
-![](../images/Ant.jpg){ class="figure" } ![](../images/ANTatSilo.jpg){ class="figure" }
+![](../images/Ant.jpg){ class="figure" }
+
+![](../images/ANTatSilo.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |

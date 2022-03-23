@@ -1,5 +1,7 @@
 ![
-[Gun tower](../locations/Gun_tower.md) ](../images/Personal_waypoint.jpg){ class="figure" } Players can set a single Personal Waypoint on the
+[Gun tower](../locations/Gun_tower.md) ](../images/Personal_waypoint.jpg){ class="figure" }
+
+Players can set a single Personal Waypoint on the
 [Continental Map](Continental_Map.md) to aid with navigation.
 
 In map mode, <b>right-click</b> on the location to which you want the waypoint

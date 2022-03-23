@@ -2,7 +2,9 @@
 
 ![
 [Vanguard](Vanguard.md)
-[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" } [Vehicles](index.md) are an essential part to
+[Medium Battle Tank](../items/Medium_Battle_Tank.md).](../images/Vanguard_threefourths.jpg){ class="figure" }
+
+[Vehicles](index.md) are an essential part to
 [PlanetSide](../PlanetSide.md) as they are the main mode of transport
 between [facilities](../locations/Facilities.md) and are the most powerful units
 on the battlefield. In PlanetSide, there are many different types of vehicles,
@@ -79,7 +81,9 @@ Flight-Variant BFRs ([Invader](Invader.md), [Eclipse](Eclipse.md), or
 ### Vehicle Terminal
 
 ![ is a vehicle which requires a
-[Technology Plant](../locations/Technology_Plant.md).](../images/NCmag.jpg){ class="figure" } Once a player has the correct certification, a player can
+[Technology Plant](../locations/Technology_Plant.md).](../images/NCmag.jpg){ class="figure" }
+
+Once a player has the correct certification, a player can
 purchase the vehicle from a friendly or hacked
 [Vehicle Terminal](../locations/Vehicle_Terminal.md). However, some Vehicle
 Terminals are restricted to either air or ground vehicles, and some vehicles can

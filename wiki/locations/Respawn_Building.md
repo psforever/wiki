@@ -1,4 +1,6 @@
-![](../images/Respawn.jpg){ class="figure" } At each
+![](../images/Respawn.jpg){ class="figure" }
+
+At each
 [Sanctuary Villa](Sanctuary_Villa.md) are three
 [Respawn Buildings](Respawn_Building.md) placed close to the
 [HART building](HART_building.md). These locations are where any player spawns

@@ -53,7 +53,9 @@ player will also get health, armor, and stamina regeneration while carrying it.
 ## The Rabbit Status
 
 ![ window showing the score
-and other information.](../images/RabbitWindow.png){ class="figure" } The Rabbit Status Window will appear on the screen for all
+and other information.](../images/RabbitWindow.png){ class="figure" }
+
+The Rabbit Status Window will appear on the screen for all
 players while they are on the zone that is hosting the Rabbit event. Score
 points for your [empire](Empire.md) by carrying the Rabbit ball or gain bonus
 experience for participating in battle. A point is scored every five seconds the

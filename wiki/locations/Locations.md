@@ -1,4 +1,6 @@
-![](../images/InterstellarMap.jpg){ class="figure" } [Auraxis](Auraxis.md) has
+![](../images/InterstellarMap.jpg){ class="figure" }
+
+[Auraxis](Auraxis.md) has
 10 Surface [Continents](Continent.md) and 6 [Caverns](Caverns.md). Some of those
 Continents also feature Special Locations like a strange landscape or a
 [Monolith](../items/Monolith.md). Facility Locations like the

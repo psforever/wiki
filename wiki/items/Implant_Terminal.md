@@ -1,4 +1,6 @@
-![](../images/PSScreenShot0282.jpg){ class="figure" } The Implant Terminal
+![](../images/PSScreenShot0282.jpg){ class="figure" }
+
+The Implant Terminal
 inserts cybernetic devices called [Implants](../implants/index.md) into
 various points, or slots, of a soldier's body.
 

@@ -1,5 +1,7 @@
 !['s
-[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/Vanguard.jpg){ class="figure" } ![](../images/Vanguards.jpg){ class="figure" }
+[Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/Vanguard.jpg){ class="figure" }
+
+![](../images/Vanguards.jpg){ class="figure" }
 
 |                            |                                                                                                                                        |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |

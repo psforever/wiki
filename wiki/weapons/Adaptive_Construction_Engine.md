@@ -53,7 +53,9 @@ single Combat Engineer at any one time.
 
 ## High Explosive Mine
 
-![](../images/HE_Mine.jpg){ class="figure" } The enemy of many a soldier, this
+![](../images/HE_Mine.jpg){ class="figure" }
+
+The enemy of many a soldier, this
 proximity mine fortunately can tell friend from foe, but that's about it. Lay
 and pray is the motto to follow after deploying this devestating weapon. Harmful
 to both infantry and [vehicle](../vehicles/index.md) alike, the weapons litter
@@ -68,7 +70,9 @@ may be deployed by a single Combat Engineer at any one time.
 
 ## Spitfire Turret
 
-![](../images/Spitfire.jpg){ class="figure" } The bane of many a soldier, this
+![](../images/Spitfire.jpg){ class="figure" }
+
+The bane of many a soldier, this
 deployable turret is a common sight on the battlefield. Set to automatically
 fire at any adversary (soldier or [vehicle](../vehicles/index.md)), the "Spit"
 is a dangerous battlefield obstacle. [EMPs](../terminology/EMP.md) and

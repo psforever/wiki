@@ -1,4 +1,6 @@
-![](../images/ByblosMap.jpg){ class="figure" } Byblos is one of the six
+![](../images/ByblosMap.jpg){ class="figure" }
+
+Byblos is one of the six
 [Core Combat](../items/Core_Combat.md) [Caverns](Caverns.md).
 
 It is a volcanically active cavern, notable for vivid red and orange crystals

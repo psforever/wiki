@@ -17,7 +17,9 @@
 
 ## Description
 
-![](../images/Rockswarpgate.jpg){ class="figure" } The large central oasis of
+![](../images/Rockswarpgate.jpg){ class="figure" }
+
+The large central oasis of
 Solsar is flanked by two warp gates on plateaus nearby, making it a unique
 tactical situation.
 

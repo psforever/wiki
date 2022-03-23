@@ -1,4 +1,6 @@
-![](../images/Gun.jpg){ class="figure" } In addition to the standard features
+![](../images/Gun.jpg){ class="figure" }
+
+In addition to the standard features
 found in all [Towers](Towers.md), the Gun Tower is equipped with two
 [Phalanx](../items/Phalanx.md) Wall Turrets on the roof walkway, greatly
 increasing their tactical value, and providing reasonably robust defence against
