@@ -1,5 +1,4 @@
-![Soldier carrying
-a Suppressor](../images/PSScreenShot0299.jpg){ class="figure" }
+![Soldier carrying a Suppressor](../images/PSScreenShot0299.jpg){ class="figure" }
 
 |                            |                                                                                                                       |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------- |

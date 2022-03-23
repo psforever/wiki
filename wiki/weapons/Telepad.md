@@ -1,6 +1,5 @@
 ![Telepad](../images/Telepad.jpg){ class="figure" }
-![ telepad with its
-[Router](../vehicles/Router.md) in the background](../images/Telepad_deployed.jpg){ class="figure" }
+![ telepad with its [Router](../vehicles/Router.md) in the background](../images/Telepad_deployed.jpg){ class="figure" }
 
 |                            |                                                                      |
 | -------------------------- | -------------------------------------------------------------------- |
