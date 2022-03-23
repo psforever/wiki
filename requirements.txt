@@ -1,3 +1,4 @@
+markdown
 mkdocs-material
 mkdocs
-git+https://github.com/it-novum/mkdocs-featherlight.git#egg=featherlight
+./src/figure

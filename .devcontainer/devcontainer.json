@@ -38,7 +38,8 @@
 		"mathiassoeholm.markdown-link-updater",
 		"dlyz.md-link-checker",
 		"KlausJandl.markdownlinkcompletionprovider",
-		"possan.nbsp-vscode"
+		"possan.nbsp-vscode",
+		"EditorConfig.EditorConfig"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
