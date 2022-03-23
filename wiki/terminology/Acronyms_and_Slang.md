@@ -450,7 +450,9 @@ defense\!"). In context of defense, an enemy [Galaxy](../vehicles/Galaxy.md)
 dropping troops near the generator, especially at Bio Labs ("Gen drop incoming\!
 Defend the generator\!").
 
-Gen Hold: Furthering the Gen Drop tactic of destroying the base's
+###### Gen Hold
+
+Furthering the Gen Drop tactic of destroying the base's
 [Generator](../items/Generator.md) (usually a
 [Technology Plant](../locations/Technology_Plant.md)) and holding the
 [Generator](../items/Generator.md) Room to prevent the enemy from repairing it.
@@ -523,8 +525,9 @@ Short form of [BFR Hunter](#bfr-hunter-biffer-hunter)
 
 "In My Opinion"
 
-Infy, Infil : Cloaked enemy, also refers to the
-[Infiltration Suit](../armor/Infiltration_Suit.md).
+###### Infy, Infil
+
+Cloaked enemy, also refers to the [Infiltration Suit](../armor/Infiltration_Suit.md).
 
 ###### Infil Suit
 
