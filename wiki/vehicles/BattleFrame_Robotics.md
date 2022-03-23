@@ -1,9 +1,9 @@
 **BattleFrame Robotics**, or **BFR** for short, is the name given the giant
 robots (or mecha) of the PlanetSide universe.
 
-|     |     |     |
-| --- | --- | --- |
-| ![Colussus.jpg](../images/Colussus.jpg "fig:Colussus.jpg"), the [TR](../factions/Terran_Republic.md) gunner variant BFR.\]\] | ![AphelionPicture.jpg](../images/AphelionPicture.jpg "fig:AphelionPicture.jpg"), the [VS](../factions/Vanu_Sovereignty.md) gunner variant BFR.\]\] | ![NC_Peregrine.jpg](../images/NC_Peregrine.jpg "fig:NC_Peregrine.jpg"), the [NC](../factions/New_Conglomerate.md) gunner variant BFR.\]\] |
+![A Colossus, the TR gunner variant BFR.](../images/Colussus.jpg){ class="figure" }
+![An Aphelion, the VS gunner variant BFR.](../images/AphelionPicture.jpg){ class="figure" }
+![A Peregrine, the NC gunner variant BFR.](../images/NC_Peregrine.jpg){ class="figure" }
 
 ### The Story
 
