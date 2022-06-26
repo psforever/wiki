@@ -10,3 +10,8 @@ indent_style = tab
 
 [*.{yaml,md}]
 indent_style = space
+
+
+[*.{py,java,r,R}]
+indent_style = space
+indent_size = 4

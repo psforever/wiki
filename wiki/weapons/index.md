@@ -1,3 +1,5 @@
+# Weapons
+
 The following is a listing of **[Weapons](Weapon.md)**, **Devices** and
 **ammunition** available to soldiers.
 
