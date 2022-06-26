@@ -1,3 +1,5 @@
+# Armor Canister
+
 [Armor Canisters](Armor_Canister.md) are used in
 [BANKs](../weapons/Body_Armor_Nano_Kit.md) and
 [Nano Dispensers](../weapons/Nano_Dispenser.md) to repair trooper

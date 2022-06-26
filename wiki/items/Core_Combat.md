@@ -1,3 +1,5 @@
+# Core Combat
+
 Released on 27 October 2003, **Core Combat** is the first and only expansion for
 [PlanetSide](../PlanetSide.md). Adding the Auraxian Core
 [Caverns](../locations/Caverns.md)(pre-[Bending](../terminology/The_Bending.md)) as a

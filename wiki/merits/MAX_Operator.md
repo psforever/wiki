@@ -1,3 +1,5 @@
+# MAX Operator
+
 <table>
 <tbody>
 <tr class="odd">

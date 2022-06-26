@@ -1,3 +1,5 @@
+# Air Terminal
+
 An air terminal is a vehicular Terminal that only allows you to pull Air
 [vehicles](../vehicles/index.md). Air Terminals can be found at
 [Technology Plants](../locations/Technology_Plant.md),

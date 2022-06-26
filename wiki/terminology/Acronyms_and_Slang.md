@@ -1,3 +1,5 @@
+# Acronyms and Slang
+
 PlanetSide, like all games, seems to have it's own language when referring to
 items or places in game. This is a listing of known acronyms. If there is a term
 you know that is not listed, feel free to add it into the proper category.

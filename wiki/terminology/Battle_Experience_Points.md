@@ -1,3 +1,5 @@
+# Battle Experience Points
+
 **Battle Experience** (**BEP**) is gained from exploring and interacting with
 the game world, elimination of enemy soldiers and from the capture of base
 facilities. When enough experience is accumulated, the character will increase

@@ -1,3 +1,5 @@
+# Sandstorms
+
 ![](../images/Sandstormsmall.jpg){ class="figure" }
 
 Sandstorms are found on [Ishundar](../locations/Ishundar.md),

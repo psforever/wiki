@@ -1,3 +1,5 @@
+# Colossus
+
 ![ of the
 [Terran Republic](../factions/Terran_Republic.md)](../images/Colussus.jpg){ class="figure" }
 

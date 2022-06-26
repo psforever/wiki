@@ -1,3 +1,5 @@
+# Respawn Building
+
 ![](../images/Respawn.jpg){ class="figure" }
 
 At each

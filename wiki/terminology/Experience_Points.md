@@ -1,3 +1,5 @@
+# Experience Points
+
 **Experience Points**, referred to as XP in game slang, are units earned through
 the exploration of in-game items, destruction of enemy units and capture of
 enemy [facilities](../locations/Facilities.md). Currently, there are three types

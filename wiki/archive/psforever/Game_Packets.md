@@ -1,3 +1,5 @@
+# Game Packets
+
 ## Game Packet Listing
 
 | Packet ID | Packet ID (hex) | Name                                      | Status | Note                                                     |

@@ -1,3 +1,5 @@
+# Mag-Scatter
+
 ![Mag-Scatter](../images/Mag-Scatter.jpg){ class="figure" }
 
 |                            |                                                                                                                                  |

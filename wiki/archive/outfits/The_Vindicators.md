@@ -1,3 +1,5 @@
+# The Vindicators
+
 We are an outfit that concentrates on team play and coordination.
 
 We are one of the larger, more successful Outfits in the game due to the

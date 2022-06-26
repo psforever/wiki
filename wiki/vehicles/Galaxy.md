@@ -1,3 +1,5 @@
+# Galaxy
+
 ![New Conglomerate Galaxy](../images/GalaxyNC.jpg){ class="figure" }
 
 |                            |                                                                                                                                             |

@@ -1,3 +1,5 @@
+# Generator Terminal
+
 ![room](../images/GenTerm.jpg){ class="figure" }
 
 The [Generator Terminal](Generator_Terminal.md) is located at the entrance of

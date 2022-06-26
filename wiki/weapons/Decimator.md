@@ -1,3 +1,5 @@
+# Decimator
+
 ![ Soldier carrying
 a Decimator](../images/PSScreenShot0246.jpg){ class="figure" }
 

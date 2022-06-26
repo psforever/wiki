@@ -1,3 +1,5 @@
+# Empire Incentives
+
 Empire Incentives are awarded and adjusted based upon continental/planetary
 population. They activate only when the [empire](Empire.md) with
 the highest population on the [zone](Zone.md) has at least 50

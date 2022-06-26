@@ -1,3 +1,5 @@
+# Lightning
+
 ![Lightning](../images/Lightning.jpg){ class="figure" }
 
 |                            |                                                                                                                             |

@@ -1,3 +1,5 @@
+# Soul Strike
+
 ![](../../images/Decoys_memorial1.jpg){ class="figure" }
 
 Soul_Strike is a mid-sized

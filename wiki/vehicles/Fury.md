@@ -1,3 +1,5 @@
+# Fury
+
 ![Fury](../images/Fury.jpg){ class="figure" }
 
 |                            |                                                               |

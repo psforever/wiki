@@ -1,3 +1,5 @@
+# Sphere of Influence
+
 A Sphere of Influence radiates invisibly out from the center of each
 [facility](Facilities.md) and [tower](Towers.md) on a continent or
 [cavern](Caverns.md). Technically, the Sphere of Influence is a cylindrical

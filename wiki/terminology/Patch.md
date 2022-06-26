@@ -1,3 +1,5 @@
+# Patch
+
 A **patch** is an update to the game automatically downloaded by the game client
 software. They are installed by Launch Pad and apply changes to the currently
 installed game files. Patches are either to fix bugs or add new features, often

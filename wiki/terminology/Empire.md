@@ -1,3 +1,5 @@
+# Empire
+
 **Empire** refers to the 3 factions that are at war for control of
 [Auraxis](../locations/Auraxis.md).
 

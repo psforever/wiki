@@ -1,3 +1,5 @@
+# List of Certifications
+
 These skills can be applied to your character at the expense of
 [certification points](Certification_points.md), which are earned relative to
 the advancement of your [Battle Rank](../terminology/Battle_Rank.md) except on

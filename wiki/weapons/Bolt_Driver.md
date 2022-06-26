@@ -1,3 +1,5 @@
+# Bolt Driver
+
 ![ [Rexo](../armor/Reinforced_Exo-Suit.md) wields a
 Bolt Driver in [Byblos](../locations/Byblos.md)](../images/Bolt_driver.jpg){ class="figure" }
 

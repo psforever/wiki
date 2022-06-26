@@ -1,3 +1,5 @@
+# Player Harassment
+
 To deal with player harassment in-game, [SOE](../Sony_Online_Entertainment.md) has
 set up mutliple ways to deal with it. In game you can type:
 

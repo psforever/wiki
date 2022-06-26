@@ -1,3 +1,5 @@
+# Ancient Technology
+
 See also: [Core Combat](../items/Core_Combat.md)
 
 Ancient Technology is used to descibe anything connected with the relics left

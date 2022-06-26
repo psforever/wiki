@@ -1,3 +1,5 @@
+# Sweeper
+
 ![ Soldier fields the Sweeper
 Shotgun](../images/Sweeper.jpg){ class="figure" }
 

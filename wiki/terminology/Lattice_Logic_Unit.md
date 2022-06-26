@@ -1,3 +1,5 @@
+# Lattice Logic Unit
+
 ![](../images/LLU.jpg){ class="figure" }
 
 The **LLU** (Lattice Logic Unit) is a

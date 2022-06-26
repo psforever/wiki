@@ -1,3 +1,5 @@
+# Surge
+
 The **Surge** Implant provides a marked increase in footspeed for infantry, at
 the expense of stamina. The stamina usage is dependent on the current armor
 bulk.

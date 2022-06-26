@@ -1,3 +1,5 @@
+# Lattice Logic Unit Socket
+
 ![in a Lattice Logic Unit Socket](../images/LLU.jpg){ class="figure" }
 
 The **Lattice Logic Unit Socket** is the Socket in which the

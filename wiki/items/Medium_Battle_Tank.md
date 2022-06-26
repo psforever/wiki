@@ -1,3 +1,5 @@
+# Medium Battle Tank
+
 ![ and a
 [Vanguard](../vehicles/Vanguard.md) square off](../images/Prowler-Vanguard.jpg){ class="figure" }
 

@@ -1,3 +1,5 @@
+# Who
+
 The /who command provides information about Players or Empires.
 
 The following "names" can be used with the "/who <name>" command:

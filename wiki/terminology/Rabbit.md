@@ -1,3 +1,5 @@
+# Rabbit
+
 ## What is a Rabbit?
 
 **Rabbit** gameplay promotes combat in open areas; quite a difference from your

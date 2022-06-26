@@ -1,3 +1,5 @@
+# Continental lock
+
 A Continental lock is when you own ALL the
 [facilities](../locations/Facilities.md) on the
 [continent](../locations/Continent.md). When you first get a lock, all

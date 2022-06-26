@@ -1,3 +1,5 @@
+# Auraxis
+
 [Auraxis](Auraxis.md) is the name of the "construct" in which
 [PlanetSide's story](../archive/PlanetSide_Backstory.md) play takes place.
 Initially, it was a planet-like body of ten [continents](Continent.md) colonized

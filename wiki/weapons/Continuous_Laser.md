@@ -1,3 +1,5 @@
+# Continuous Laser
+
 |                            |                                                                                         |
 | -------------------------- | --------------------------------------------------------------------------------------- |
 | **Certification Required** | [BFR Anti-Infantry](../certifications/BFR_Anti-Infantry.md)                             |

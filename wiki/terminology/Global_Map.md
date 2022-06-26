@@ -1,3 +1,5 @@
+# Global Map
+
 ![](../images/Global_Map.jpg){ class="figure" }
 
 The [Global Map](Global_Map.md)

@@ -1,3 +1,5 @@
+# Lockers
+
 ![Medical Bay](../images/Lockers_biolab.jpg){ class="figure" }
 ![s](../images/Locker-Contents.jpg){ class="figure" }
 

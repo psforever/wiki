@@ -1,3 +1,5 @@
+# Reinforced Exo-Suit
+
 ![
 [Reinforced Exo-Suits](Reinforced_Exo-Suit.md) at, from left to right,
 [Battle Rank](../terminology/Battle_Rank.md) 1, 7, 14 and 25](../images/NCRexoArmors.jpg){ class="figure" }

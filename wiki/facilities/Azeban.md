@@ -1,3 +1,5 @@
+# Azeban
+
 **Continent -** [Amerish](../locations/Amerish.md)
 
 **Location -** P7/P8

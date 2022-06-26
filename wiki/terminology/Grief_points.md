@@ -1,3 +1,5 @@
+# Grief points
+
 **Grief points** are a mechanism introduced in an attempt to control the amount
 of [friendly fire](Friendly_fire.md) that takes place in PlanetSide. If at any
 point a character damages soldiers or equipment owned by their own

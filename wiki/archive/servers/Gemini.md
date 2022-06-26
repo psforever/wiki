@@ -1,3 +1,5 @@
+# Gemini
+
 Gemini is the only remaining server for [Planetside](../../PlanetSide.md), located on
 the East coast of the United States. On May 20, 2008, the [Markov](Markov.md)
 and [Emerald](Emerald.md) servers combined to form Gemini. On August 25, 2009

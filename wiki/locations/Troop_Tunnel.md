@@ -1,3 +1,5 @@
+# Troop Tunnel
+
 ![in [Supai](Supai.md)](../images/TroopTunnel.jpg){ class="figure" }
 
 Troop Tunnels are narrow passageways in [Caverns](Caverns.md) connecting the

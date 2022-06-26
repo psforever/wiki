@@ -1,3 +1,5 @@
+# Lounge
+
 ![Lounge](../images/TRLounge.jpg){ class="figure" }
 
 Sometimes called the

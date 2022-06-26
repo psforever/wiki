@@ -1,3 +1,5 @@
+# Hand grenade
+
 ![thumb](../images/Hand-grenades.jpg), [Jammer](Jammer_Grenade.md), and
 [Plasma](Plasma_grenade.md) Hand [Grenades](../items/Grenade.md) (L to R)\]\]
 Hand grenades are single lightweight grenades designed to be thrown at thine

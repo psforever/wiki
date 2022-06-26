@@ -1,3 +1,5 @@
+# Grenade
+
 A Grenade is a large slow-moving explosive projectile, usually ballistic.
 
 Grenades can be fired from a number of weapons:

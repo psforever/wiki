@@ -1,3 +1,5 @@
+# Map
+
 There are several kinds of maps available in Planetside:
 
 - [Interstellar Map](Interstellar_Map.md) - also called Galactic or Global Map.

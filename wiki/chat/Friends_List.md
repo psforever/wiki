@@ -1,3 +1,5 @@
+# Friends List
+
 The command **/friends** **add**/**remove** \[**playername**\] will provide
 notifactions when your friends sign on and off. You can add players from other
 servers by prefixing the server name and a period before the player name (e.g.

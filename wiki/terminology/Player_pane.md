@@ -1,3 +1,5 @@
+# Player pane
+
 The player pane can be accessed by pressing 'P' on ones keyboard. From this pane
 the following functions are available:
 

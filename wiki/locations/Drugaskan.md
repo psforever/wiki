@@ -1,3 +1,5 @@
+# Drugaskan
+
 ![](../images/Drugaskan.jpg){ class="figure" }
 
 ![](../images/DrugaskanMap.jpg){ class="figure" }

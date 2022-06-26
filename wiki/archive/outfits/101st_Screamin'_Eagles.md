@@ -1,3 +1,5 @@
+# 101st Screamin' Eagles
+
 The 101st ScreaminÃ¢â¬â¢ Eagles are a very respectable outfit on Markov. We have
 earned several people their CR5 and continue to do so. The 101st are known for
 our JTC drops, a specialized Gal Drop that is done with style and gusto, these

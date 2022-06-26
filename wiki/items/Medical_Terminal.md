@@ -1,3 +1,5 @@
+# Medical Terminal
+
 ![](../images/PSScreenShot0281.jpg "PSScreenShot0281.jpg")
 
 Medical Terminals can be found in all [Facilities](../locations/Facilities.md)

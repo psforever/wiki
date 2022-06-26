@@ -1,3 +1,5 @@
+# Gameplay Fundamentals
+
 Gameplay Fundamentals: How to do things, and what you may want to do.
 
 - The three conflicting [Empires](../../terminology/Empires.md)

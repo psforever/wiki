@@ -1,3 +1,5 @@
+# Black Ops
+
 ![Black Ops soldiers at an Equipment Terminal](../images/BO_Soldiers.jpg){ class="figure" }
 ![A Black Ops Phantasm](../images/BO_Phantasm.jpg){ class="figure" }
 ![A facility that is hacked by Black Ops, as seen on the continental map](../images/BO_Hacked_Facility.jpg){ class="figure" }

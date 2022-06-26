@@ -1,3 +1,5 @@
+# Black Widow Company
+
 [theblackwidowcompany.net](http://www.theblackwidowcompany.net):
 [TR](../../factions/Terran_Republic.md) [Emerald](../servers/Emerald.md)
 [Outfit](../../terminology/Outfit.md)

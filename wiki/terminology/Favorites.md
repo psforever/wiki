@@ -1,3 +1,5 @@
+# Favorites
+
 All [Equipment Terminals](../items/Equipment_Terminal.md),
 [Landing Pads](../items/Landing_Pad.md) and
 [Repair/Rearm Silos](../items/Repair_Rearm_Silo.md) allow the current infantry

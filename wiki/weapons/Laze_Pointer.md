@@ -1,3 +1,5 @@
+# Laze Pointer
+
 ![](../images/Laze_Pointer.jpg){ class="figure" }
 ![](../images/Laze_powered.jpg){ class="figure" }
 

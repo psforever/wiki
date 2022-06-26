@@ -1,3 +1,5 @@
+# Recall timer
+
 Governs how quickly one can [recall](../terminology/Recall.md) back to
 [Sanctuary](../locations/Sanctuary.md).
 

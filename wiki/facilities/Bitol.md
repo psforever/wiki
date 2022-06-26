@@ -1,3 +1,5 @@
+# Bitol
+
 Bitol is one of the three [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Hossin](../locations/Hossin.md) and is in the South inside grids K14 and L14.
 

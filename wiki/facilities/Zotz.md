@@ -1,3 +1,5 @@
+# Zotz
+
 Zotz is one of the three [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Hossin](../locations/Hossin.md) and is in the very South East inside grid Q15.
 

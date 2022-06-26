@@ -1,3 +1,5 @@
+# Orbital Platform
+
 The **Orbital Platform** is the canon location of the massive weapons that
 create [Orbital Strikes](../terminology/Orbital_Strike.md). Players of
 [Command Rank](../terminology/Command_Rank.md) 4 and 5 have the ability to use

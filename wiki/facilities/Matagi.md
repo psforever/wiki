@@ -1,3 +1,5 @@
+# Matagi
+
 Matagi is one of the three [Amp Stations](../locations/Amp_Station.md) on
 [Searhus](../locations/Searhus.md) and is in interior Searhus inside grid M8.
 

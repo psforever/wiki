@@ -1,3 +1,5 @@
+# Trunk
+
 ![ trunk filled with ammunition and
 extra repair gear.](../images/MagTrunk.jpg){ class="figure" }
 

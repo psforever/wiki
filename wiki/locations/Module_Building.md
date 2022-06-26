@@ -1,3 +1,5 @@
+# Module Building
+
 Module Buildings can be found in each of the 6
 [Core Combat](../items/Core_Combat.md) Caverns. There are 2 Module Buildings in
 each cavern.

@@ -1,3 +1,5 @@
+# Certification
+
 A **certification** (cert) is a soldier attribute that allows him or her to
 operate specific classes equipment.
 

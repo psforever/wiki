@@ -1,3 +1,5 @@
+# Flail
+
 ![ Flail firing its
 Dispersion Cannon](../images/FlailPicture.jpg){ class="figure" }
 

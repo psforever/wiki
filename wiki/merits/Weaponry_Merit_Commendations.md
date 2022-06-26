@@ -1,3 +1,5 @@
+# Weaponry Merit Commendations
+
 This series of [Merit Commendations](index.md) is awarded for:
 
 - Kills achieved by using a specific [weapon](../weapons/Weapon.md)

@@ -1,3 +1,5 @@
+# Respawn
+
 Respawning occurs after one has voluntarily [deconstructed](Deconstruct.md), or
 died and "released" their corpse. A player will then reappear in a
 [Respawn tube](../items/Respawn_Tube.md) or

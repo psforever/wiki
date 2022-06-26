@@ -1,3 +1,5 @@
+# Squad Leader
+
 The [Squad Leader](Squad_Leader.md) is the current leader of a
 [squad](Squad.md).
 

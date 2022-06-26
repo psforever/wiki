@@ -1,3 +1,5 @@
+# Terran Republic
+
 > Loyalty until Death!  Strength in Unity!  Order requires law. Law is enforced through deterrence. Deterrence is based on the fear of consequences, and fear is the most powerful motivating force. The separatist groups, the Vanu Sovereignty and the New Conglomerate, will be dismantled through the exercise of forceful deterrence. Dissidents will fear the consequences of their disloyalty. Unity and order will be restored.
 
 — Terran Republic propaganda poster

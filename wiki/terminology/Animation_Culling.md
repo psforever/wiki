@@ -1,3 +1,5 @@
+# Animation Culling
+
 Animation culling is the process of cutting certain frames of animation (such as
 a soldier running or the wheels on a [vehicle](../vehicles/index.md)) to help
 improve frame rates on less powerful machines.

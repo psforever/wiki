@@ -1,3 +1,5 @@
+# Caverns
+
 Refering to the six subterranean battlegrounds introduced with the expansion
 [Core Combat](../items/Core_Combat.md). Each cavern once rested beneath a
 continent on the main planet of Auraxis. After

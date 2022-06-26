@@ -1,3 +1,5 @@
+# Melee Booster
+
 The **Melee Booster** implant greatly increases damage output from all melee
 weapons, which includes the [empire](../terminology/Empire.md)-specific combat
 knife (key '5') standard to all infantry (Non-MAX)

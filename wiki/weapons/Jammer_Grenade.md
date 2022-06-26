@@ -1,3 +1,5 @@
+# Jammer Grenade
+
 ![](../images/Jammer_grenade.jpg){ class="figure" }
 
 |                            |                                                           |

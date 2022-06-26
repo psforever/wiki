@@ -1,3 +1,5 @@
+# Lahar
+
 Lahar is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Ishundar](../locations/Ishundar.md) and is to the North East inside grids R7
 and R8.

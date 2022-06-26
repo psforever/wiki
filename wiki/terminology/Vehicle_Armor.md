@@ -1,3 +1,5 @@
+# Vehicle Armor
+
 Each [vehicle](../vehicles/index.md) in [Planetside](../PlanetSide.md) has
 a different armor value. [Weapons](../weapons/Weapon.md) do different amounts of
 damage to each vehicle, depending on the type of vehicle targeted. For example,

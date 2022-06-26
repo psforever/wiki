@@ -1,3 +1,5 @@
+# Acan
+
 Acan is one of the three [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Hossin](../locations/Hossin.md). It is located in center Hossin in grids I10
 and I11.

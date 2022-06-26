@@ -1,3 +1,5 @@
+# Peregrine Particle Cannon Ammunition
+
 |                                                 |                                                                                                  |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | **Used by**                                     | [Peregrine](../vehicles/Peregrine.md) using the [Particle Cannon](../weapons/Particle_Cannon.md) |

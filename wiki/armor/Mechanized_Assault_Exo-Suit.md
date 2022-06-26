@@ -1,3 +1,5 @@
+# Mechanized Assault Exo-Suit
+
 The **Mechanized Assault Exo-Suit**—or **MAX** unit—provides a huge amount of
 protection for its wearer (650 armor points). The heavy armor means that MAX
 units turn and move slower than typical infantry. All MAX units have a

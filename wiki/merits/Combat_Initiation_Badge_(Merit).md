@@ -1,3 +1,5 @@
+# Combat Initiation Badge (Merit)
+
 <table>
 <tbody>
 <tr class="odd">

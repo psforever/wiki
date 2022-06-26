@@ -1,3 +1,5 @@
+# Award
+
 Used to change the add or remove as well as change the status of
 [Merit Commendations](../merits/index.md) on players.
 

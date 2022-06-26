@@ -1,3 +1,5 @@
+# Battle Islands
+
 ![](../images/BIMap.jpg "BIMap.jpg")
 
 ## Description

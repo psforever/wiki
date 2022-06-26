@@ -1,3 +1,5 @@
+# Sungrey
+
 Sungrey is one of the two [Amp Stations](../locations/Amp_Station.md) on
 [Amerish](../locations/Amerish.md). Sungrey is located in North Amerish in grid
 L7 and has [Lattice](../terminology/Lattice.md) Links to:

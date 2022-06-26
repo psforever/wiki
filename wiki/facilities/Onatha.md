@@ -1,3 +1,5 @@
+# Onatha
+
 Onatha is one of the four Bio Laboratories on
 [Amerish](../locations/Amerish.md). It is located in the North West of Amerish,
 in grids I6 and I7.

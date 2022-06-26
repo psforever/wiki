@@ -1,3 +1,5 @@
+# Weekly Update 2 - Nov. 19th
+
 **Original Post by Chord - Thursday November 19th, 2015**
 
 So much for weekly updates...sorry about that! I'm still all for the project.

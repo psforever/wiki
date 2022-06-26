@@ -1,3 +1,5 @@
+# Module benefit
+
 Installed [modules](index.md) provide base benefits that can be linked to
 other [facilities](../locations/Facilities.md) via the Continental
 [Lattice](../terminology/Lattice.md). A facility can enjoy many module benefits

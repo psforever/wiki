@@ -1,3 +1,5 @@
+# Instant Action
+
 The **Instant Action** command allows a player to be spawned directly into
 combat from anywhere in the game.
 

@@ -1,3 +1,5 @@
+# Autorun
+
 Autorun is the ability for foot soldiers and
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units to run automatically
 without having to hold down the run button.

@@ -1,3 +1,5 @@
+# Johari
+
 **Johari** was the second of two west-coast based servers (with
 [Markov](Markov.md) remaining, but now merged into [Gemini](Gemini.md)). Johari
 was shut down and its characters moved to Markov to increase falling populations

@@ -1,3 +1,5 @@
+# Vehicle Module
+
 Installing this [module](index.md) provides the
 [module benefit](Module_benefit.md) of allowing the purchase, repair, and
 capacitor recharging of [Ancient-Tech](../terminology/Ancient_Technology.md)

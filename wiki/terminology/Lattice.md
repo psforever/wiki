@@ -1,3 +1,5 @@
+# Lattice
+
 The Continental Lattice is a network of links between all
 [facilities](../locations/Facilities.md) and
 [warpgates](../locations/Warpgate.md) on a

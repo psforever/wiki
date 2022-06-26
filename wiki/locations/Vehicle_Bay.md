@@ -1,3 +1,5 @@
+# Vehicle Bay
+
 ![ from the
 outside](../images/VehicleBayExterior.jpg){ class="figure" }
 ![

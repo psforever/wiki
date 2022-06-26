@@ -1,3 +1,5 @@
+# Proximity Map
+
 ![`Proximity_map.jpg`](../images/Proximity_map.jpg "Proximity_map.jpg")
 
 Also known as the "Radar," the **Proximity Map** is typically located in the top

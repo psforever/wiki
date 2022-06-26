@@ -1,3 +1,5 @@
+# Speed Module
+
 ![](../images/Speed_module.jpg){ class="figure" }
 
 Installing this

@@ -1,3 +1,5 @@
+# Celestial Fire
+
 **Celestial Fire** is an [Outfit](../../terminology/Outfit.md) of primarily "older"
 PlanetSide players. The average age of its members is 30+. It was formed on the
 [Konried](../servers/Konried.md) server on the first full day of PlanetSide: May

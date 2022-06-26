@@ -1,3 +1,5 @@
+# Reticle
+
 A Reticle is a two-dimensional weapon trajectory reference.
 
 Usually in the form of trunkated crosshairs, it shows the center of the cone of

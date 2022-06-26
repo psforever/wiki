@@ -1,3 +1,5 @@
+# Flux Battery
+
 |                                                 |                                                                               |
 | ----------------------------------------------- | ----------------------------------------------------------------------------- |
 | **Used by**                                     | [Thresher](../vehicles/Thresher.md) and [Leviathan](../vehicles/Leviathan.md) |

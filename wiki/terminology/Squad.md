@@ -1,3 +1,5 @@
+# Squad
+
 The squad is the smallest group that can be formed in planetside. Squads are
 formed to:
 

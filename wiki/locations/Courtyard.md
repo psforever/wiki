@@ -1,3 +1,5 @@
+# Courtyard
+
 The **courtyard** is the area enclosed within a [facility's](Facilities.md)
 walls. Stairwells at various points along the walls allow access to the
 ramparts. Within the walls are various support features such as the

@@ -1,3 +1,5 @@
+# Ping
+
 **Ping** is a term for "latency" or "lag". It indicates the amount of delay in
 the network between your computer and the server in question.
 

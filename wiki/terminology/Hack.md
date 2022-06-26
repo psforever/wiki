@@ -1,3 +1,5 @@
+# Hack
+
 **_v._ to hack, hacked:** To use the [REK](../weapons/Remote_Electronics_Kit.md)
 to gain access to terminals, doors, or to capture a
 [facility](../locations/Facilities.md) not under your [Empire](Empire.md)'s

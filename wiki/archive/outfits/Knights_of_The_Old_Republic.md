@@ -1,3 +1,5 @@
+# Knights of The Old Republic
+
 ## Knights of the Old Republic
 
 Knights of the Old Republic is an [outfit](../../terminology/Outfit.md) led by

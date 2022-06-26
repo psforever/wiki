@@ -1,3 +1,5 @@
+# Lancer
+
 ![Soldier firing a Lancer](../images/Lancer.jpg){ class="figure" }
 
 |                            |                                                       |

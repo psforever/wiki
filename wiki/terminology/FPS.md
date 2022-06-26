@@ -1,3 +1,5 @@
+# FPS
+
 **FPS** can have one of two meanings in the context of
 [PlanetSide](../PlanetSide.md):
 

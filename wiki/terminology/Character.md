@@ -1,3 +1,5 @@
+# Character
+
 Character is the common term referring to a playable participant in the game
 [PlanetSide](../PlanetSide.md).
 

@@ -1,3 +1,5 @@
+# Wasp
+
 ![[Wasp](Wasp.md)](../images/Wasp.jpg){ class="figure" }
 
 |                            |                                                                                                                                          |

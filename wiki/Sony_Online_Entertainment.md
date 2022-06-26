@@ -1,3 +1,5 @@
+# Sony Online Entertainment
+
 [Sony Online Entertainment](Sony_Online_Entertainment.md) (SOE) is a computer
 game development division of Sony which seems to specialize in Massively
 Multiplayer Online Games. SOE is best known for creating EverQuest, Star Wars

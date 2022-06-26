@@ -1,3 +1,5 @@
+# Vehicle Energy Crystal
+
 ![ in
 [Adlivun](../locations/Adlivun.md)](../images/VehicleRepairCrystal.jpg){ class="figure" }
 

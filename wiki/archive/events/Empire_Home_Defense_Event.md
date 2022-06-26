@@ -1,3 +1,5 @@
+# Empire Home Defense Event
+
 On Friday, July 29, 2005, we will be running the Empire Home Defense Event!
 
 In this event, one [Empire](../../terminology/Empire.md) (chosen manually,

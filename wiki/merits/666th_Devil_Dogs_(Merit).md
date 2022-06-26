@@ -1,3 +1,5 @@
+# 666th Devil Dogs (Merit)
+
 <table>
 <tbody>
 <tr class="odd">

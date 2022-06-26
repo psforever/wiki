@@ -1,3 +1,5 @@
+# Martial Law
+
 The **Martial Law** (or **Marshal Law**) is an April Fool's Day inspired event
 that took place from April 1, 2006 through April 7, 2006.
 

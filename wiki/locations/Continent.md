@@ -1,3 +1,5 @@
+# Continent
+
 There are ten battle continents in Planetside: six
 [Home Continents](Home_Continent.md) and four
 [Neutral Continents](../terminology/Neutral_Continent.md). Capturing these

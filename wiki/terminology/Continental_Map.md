@@ -1,3 +1,5 @@
+# Continental Map
+
 Sometimes called the Overhead Map, this is a top-down view of a
 [continent](../locations/Continent.md) and its
 [facilities](../locations/Facilities.md). Accessed by pressing the "M" key

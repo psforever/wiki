@@ -1,3 +1,5 @@
+# Hiro
+
 Hiro is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Searhus](../locations/Searhus.md) and is in the North inside grids L6 and L7.
 

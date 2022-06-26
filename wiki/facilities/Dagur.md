@@ -1,3 +1,5 @@
+# Dagur
+
 ![](../images/Dagur_overhead.jpg){ class="figure" }
 [Technology Plant](../locations/Technology_Plant.md) on Northern
 [Esamir](../locations/Esamir.md).

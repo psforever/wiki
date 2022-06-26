@@ -1,3 +1,5 @@
+# Planet
+
 There were once ten [continents](../locations/Continent.md) on a single planet
 named [Auraxis](Auraxis.md), but after [The Bending](../terminology/The_Bending.md),
 these continents were pushed through dimensional rifts outward into the galaxy

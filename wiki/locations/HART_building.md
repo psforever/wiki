@@ -1,3 +1,5 @@
+# HART building
+
 ![](../images/HART.jpg){ class="figure" }
 
 The platform-hangar and dock serves as

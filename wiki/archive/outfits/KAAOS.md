@@ -1,3 +1,5 @@
+# KAAOS
+
 Currently in retirement from the game, but still one of the most widely
 recognized [Terran Republic](../../factions/Terran_Republic.md) outfits on
 [Emerald](../servers/Emerald.md). KAAOS (Killing As An Organized Sport) had been

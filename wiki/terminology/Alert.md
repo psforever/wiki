@@ -1,3 +1,5 @@
+# Alert
+
 Alerts are indications of enemy density within a friendly
 [SOI](../locations/Sphere_of_Influence.md). There are three degrees of Alert
 Status:

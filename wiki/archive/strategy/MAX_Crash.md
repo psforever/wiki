@@ -1,3 +1,5 @@
+# MAX Crash
+
 ![MAX Crash crash forms up in a
 [Tower](../../locations/Towers.md)](../../images/Max_Crash.jpg){ class="figure" }
 

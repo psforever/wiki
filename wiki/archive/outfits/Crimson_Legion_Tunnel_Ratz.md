@@ -1,3 +1,5 @@
+# Crimson Legion Tunnel Ratz
+
 Crimson Legion/Tunnel Ratz of the Terran Republic of Markov was formed in April
 of 2004 after the merger of the cave-focused and small skirmish infantry combat
 outfit Tunnel Ratz (led by AhmedShahMasood) and the armor-focused outfit The

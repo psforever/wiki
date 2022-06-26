@@ -1,3 +1,5 @@
+# Stamina
+
 **Stamina**, simply put, is a measure of a soldier's physical endurance. It is
 consumed by various actions such as jumping and the use of most
 [Implants](../implants/index.md). It can also be lost by taking damage;

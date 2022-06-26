@@ -1,3 +1,5 @@
+# Leza
+
 ![](../images/Leza_Mukuru_Map.jpg "Leza_Mukuru_Map.jpg")
 
 [Tech Plant](../locations/Technology_Plant.md) Leza shares on an island in the

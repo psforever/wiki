@@ -1,3 +1,5 @@
+# Matrix Panel
+
 ![](../images/Matrix_Panel.jpg "Matrix_Panel.jpg")
 
 Allows a soldier to [bind](../terminology/Matrix.md) to a location as a

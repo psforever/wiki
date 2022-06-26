@@ -1,3 +1,5 @@
+# Xelas
+
 Xelas is one of the four Bio Laboratories on [Amerish](../locations/Amerish.md).
 It is located in the North East of Amerish, in grid Q10.
 

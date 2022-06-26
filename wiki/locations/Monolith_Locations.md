@@ -1,3 +1,5 @@
+# Monolith Locations
+
 These are the locations of the [Monoliths](../items/Monolith.md) that must be
 visited to obtain the [Exploration]../merits/Exploration\_(Merit).md)
 [Merit Commendation](../merits/index.md)

@@ -1,3 +1,5 @@
+# Dagon
+
 **Dagon** is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md)
 on [Ishundar](../locations/Ishundar.md) and is in the northwest inside grids E6
 and E7.

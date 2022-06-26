@@ -1,3 +1,5 @@
+# Damage Crystal
+
 ![](../images/Damagecrystal.jpg){ class="figure" }
 
 Damage Crystals, are very rare [Crystals](Crystal.md) and can be identified by

@@ -1,3 +1,5 @@
+# VR Training
+
 ![in [Sanctuary](../locations/Sanctuary.md)](../images/VR_bldg.jpg){ class="figure" }
 
 The VR Training area can be found in

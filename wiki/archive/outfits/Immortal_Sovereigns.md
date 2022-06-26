@@ -1,3 +1,5 @@
+# Immortal Sovereigns
+
 The **Immortal Sovereigns** was an [Outfit](../../terminology/Outfit.md) originally
 created by Aryo on the [Konried](../servers/Konried.md) server at the release of the
 [PlanetSide](../../PlanetSide.md) in May of 2003.

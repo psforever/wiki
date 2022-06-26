@@ -1,3 +1,5 @@
+# Platoon
+
 A platoon is a large group of soldiers with multiple [squads](Squad.md). A
 platoon:
 

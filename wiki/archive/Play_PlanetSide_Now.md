@@ -1,3 +1,5 @@
+# Play PlanetSide Now
+
 ## Step One: Get the Software
 
 Download, extract, and install the game client:

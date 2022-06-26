@@ -1,3 +1,5 @@
+# Zaqar
+
 Zaqar is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md) on
 [Ishundar](../locations/Ishundar.md) and is in the South inside grid L15.
 

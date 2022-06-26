@@ -1,3 +1,5 @@
+# Blast Into Battle, Double Time
+
 **_Special Event:_**
 [Blast Into Battle, Double Time](Blast_Into_Battle,_Double_Time.md)
 

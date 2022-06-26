@@ -1,3 +1,5 @@
+# Weekly Update 1 - Nov. 5th
+
 **Original Post by Chord - Wednesday November 5th, 2015**
 
 Just a short update to let everyone know that I'm alive. Been overly busy with

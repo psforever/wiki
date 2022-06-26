@@ -1,3 +1,5 @@
+# Health Crystal
+
 ![](../images/Health_crystal.jpg){ class="figure" }
 
 The Health Crystal restores

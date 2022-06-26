@@ -1,3 +1,5 @@
+# Pamba
+
 ![](../images/Pamba_Map.jpg "Pamba_Map.jpg")
 
 An [Amp Station](../locations/Amp_Station.md) on East Cyssor

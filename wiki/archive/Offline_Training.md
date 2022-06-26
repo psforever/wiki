@@ -1,3 +1,5 @@
+# Offline Training
+
 Weapon Names:
 
 a_miss_launcher=Firebird auto_laser_rifle=Laser Rifle beamer=Beamer

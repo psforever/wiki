@@ -1,3 +1,5 @@
+# Grid
+
 To aid navigation, each [Continental](../locations/Continent.md) and
 [Cavern](../locations/Caverns.md) [map](Continental_Map.md) is divided
 into a **grid** of squares.

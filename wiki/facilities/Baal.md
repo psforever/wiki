@@ -1,3 +1,5 @@
+# Baal
+
 **Baal** is one of the four
 [Technology Plants](../locations/Technology_Plant.md) on
 [Ishundar](../locations/Ishundar.md) and is in the very northwest at grid C7.

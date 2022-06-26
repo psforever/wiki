@@ -1,3 +1,5 @@
+# Searhus
+
 ![](../images/SearhusMap.jpg){ class="figure" }
 ![](../images/Searhus_Terrain.jpg){ class="figure" }
 

@@ -1,3 +1,5 @@
+# Facility Linked Benefit
+
 Each type of [base facility](../locations/Facilities.md) carries with it a
 unique benefit for the Empire holding that base. These benefits can be linked to
 other facilities via the [Continental Lattice](Lattice.md). A facility can enjoy

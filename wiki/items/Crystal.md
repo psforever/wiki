@@ -1,3 +1,5 @@
+# Crystal
+
 Scattered throughout the [caverns](../locations/Caverns.md) are multi-colored
 Crystal Formations that provide different benefits depending on the color. All a
 unit need do is stand next to the crystal to activate it. Several crystal

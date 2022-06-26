@@ -1,3 +1,5 @@
+# Pain Module
+
 Installing this [module](index.md) provides the [benefit](Module_benefit.md)
 of having [Pain Fields](../terminology/Pain_Field.md) in the
 [Respawn room](../locations/Spawn_Room.md) and

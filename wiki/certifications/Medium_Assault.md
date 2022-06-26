@@ -1,3 +1,5 @@
+# Medium Assault
+
 |     |     |
 | --- | --- |
 | **Type** | Weaponry |

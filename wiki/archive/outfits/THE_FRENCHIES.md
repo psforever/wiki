@@ -1,3 +1,5 @@
+# THE FRENCHIES
+
 The Frenchies was created on July 29, 2003
 
 It's an ex-[Werner](../servers/Werner.md) French speaking

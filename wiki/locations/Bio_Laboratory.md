@@ -1,3 +1,5 @@
+# Bio Laboratory
+
 ![](../images/Bio_Layout.jpg){ class="figure" }
 
 Bio Laboratory

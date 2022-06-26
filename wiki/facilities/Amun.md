@@ -1,3 +1,5 @@
+# Amun
+
 Amun is a [Sub-Capitol](../locations/Sub-Capitol.md) and
 [Technology Plant](../locations/Technology_Plant.md) on southern
 [Solsar](../locations/Solsar.md). Nearby are a

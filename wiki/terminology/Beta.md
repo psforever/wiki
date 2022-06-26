@@ -1,3 +1,5 @@
+# Beta
+
 **Beta** is short for "Beta test", which is the common name for software testing
 that has expanded beyond internal "alpha testing". It generally involves
 recruiting outside people to use the software in order to improve the chances

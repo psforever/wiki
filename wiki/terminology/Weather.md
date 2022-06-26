@@ -1,3 +1,5 @@
+# Weather
+
 Weather on Auraxian Planets has three distinct flavors, and are predictable
 based upon the climate of the host body.
 

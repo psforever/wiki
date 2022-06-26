@@ -1,3 +1,5 @@
+# ChaosNC
+
 The home of ChaosNC can be found at: [ChaosNC](http://www.khaosclan.com)
 
 ChaosNC is a large Outfit, based on Werner in the New Conglomerate faction,

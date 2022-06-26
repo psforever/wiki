@@ -1,3 +1,5 @@
+# Platoon Leader
+
 The [Platoon Leader](Platoon_Leader.md) is the [Squad Leader](Squad_Leader.md)
 who invited the other two Squad Leaders to merge their [squads](Squad.md) with
 his to form a [Platoon](Platoon.md). Typically, in a default interface, the

@@ -1,3 +1,5 @@
+# Launchpad Chat
+
 **THIS INFORMATION IS OUTDATED, THE LAUNCHPAD CHAT WAS REMOVED LONG AGO.**
 
 The Planetside Launchpad has a built in chat system with 7 chat rooms.

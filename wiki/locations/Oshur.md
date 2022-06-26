@@ -1,3 +1,5 @@
+# Oshur
+
 ## [Oshur Prime](../locations/Oshur_Prime.md)
 
 The name Oshur once belonged to an extremely rough desert continent consisting

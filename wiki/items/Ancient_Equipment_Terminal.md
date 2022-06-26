@@ -1,3 +1,5 @@
+# Ancient Equipment Terminal
+
 ![
 in the [Caverns](../locations/Caverns.md)](../images/AncientEquipmentTerminal.jpg){ class="figure" }
 

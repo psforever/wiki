@@ -1,3 +1,5 @@
+# Auraxian Core
+
 The Auraxian Core refers to the mysterious mechanics, or spirits, of the
 Auraxian System.
 

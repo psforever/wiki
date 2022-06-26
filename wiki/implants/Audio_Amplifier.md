@@ -1,3 +1,5 @@
+# Audio Amplifier
+
 ![](../images/Audio_amplifier.gif){ class="figure" }
 
 The **Audio Amplifier**

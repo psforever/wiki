@@ -1,3 +1,5 @@
+# Flux Cannon
+
 - Magazine Capacity: 100
 - Rate of Fire: Unknown
 - Projectile: Orb

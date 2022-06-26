@@ -1,3 +1,5 @@
+# Extinction
+
 ![](../images/ExtinctionMap.jpg){ class="figure" }
 ![](../images/Extinction_Terrain.jpg){ class="figure" }
 

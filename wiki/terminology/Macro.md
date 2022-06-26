@@ -1,3 +1,5 @@
+# Macro
+
 A macro is a prerecorded chat command accessed via a key on your
 [hotkey bar](Heads-up_Display.md#Hotkey_Bar).
 

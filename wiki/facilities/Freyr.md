@@ -1,3 +1,5 @@
+# Freyr
+
 **Freyr** is an [Amp Station](../locations/Amp_Station.md) on
 [Esamir](../locations/Esamir.md). It is located at
 [grid](../terminology/Map_grid.md) G/H11.

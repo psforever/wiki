@@ -1,3 +1,5 @@
+# Section 8 Blue
+
 Section 8 Blue was originally formed as
 [Terran Republic](../../factions/Terran_Republic.md) Outfit Section 8 on the
 [Markov](../servers/Markov.md) Server by ColonelOneil and DocGoodwrench on Dec

@@ -1,3 +1,5 @@
+# Long Forgotten Soldiers
+
 ![thumb‎](../../images/LFS_logo.png)
 
 Long Forgotten Soldiers (LFS) (Nov 17 2003) are a well established outfit with a

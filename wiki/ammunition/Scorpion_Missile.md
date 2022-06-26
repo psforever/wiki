@@ -1,3 +1,5 @@
+# Scorpion Missile
+
 |                          |                                              |
 | ------------------------ | -------------------------------------------- |
 | **Used by**              | [Scorpion](../weapons/Scorpion.md)           |

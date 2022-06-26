@@ -1,3 +1,5 @@
+# Research Room
+
 ![](../images/BioLabResearchRoom.jpg){ class="figure" }
 
 The Research Room can

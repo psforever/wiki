@@ -1,3 +1,5 @@
+# Akua
+
 Akua is one of the best defensive [facility](../locations/Facilities.md)
 _locations_ in the game, due to its high altitude and the surrounding geography.
 The mountains east of Akua are so tall and steep as to be completely impassible

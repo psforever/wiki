@@ -1,3 +1,5 @@
+# Spawn point
+
 A location where a player can [respawn](Respawn.md).
 
 Respawn points are typically located at facility and tower

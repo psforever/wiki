@@ -1,3 +1,5 @@
+# Main lobby
+
 ![](../images/InterlinkMainLobby.jpg){ class="figure" }
 
 Generally, the Lobby is the room immediately inside the main entrance from a

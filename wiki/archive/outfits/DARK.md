@@ -1,3 +1,5 @@
+# DARK
+
 **DARK** is an [Outfit](../../terminology/Outfit.md) comprised of mostly older
 players who enjoy teamwork and playing in a mature fashion, but still like to
 have fun. We have some excellent cloakers and are experienced cave fighters, but

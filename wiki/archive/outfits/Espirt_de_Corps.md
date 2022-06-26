@@ -1,3 +1,5 @@
+# Espirt de Corps
+
 Espirt de Corps is a Special Operations Outfit .
 
 When we are not doing Spec Ops we are generally all grouped up for the most part

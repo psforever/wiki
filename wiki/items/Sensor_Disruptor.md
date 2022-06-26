@@ -1,3 +1,5 @@
+# Sensor Disruptor
+
 |                            |                                                                                                                             |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | **Certification Required** | [Advanced Hacking](../certifications/Advanced_Hacking.md) and [Combat Engineering](../certifications/Combat_Engineering.md) |

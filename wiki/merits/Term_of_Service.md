@@ -1,3 +1,5 @@
+# Term of Service
+
 <table>
 <tbody>
 <tr class="odd">

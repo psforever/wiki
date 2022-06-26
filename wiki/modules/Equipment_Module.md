@@ -1,3 +1,5 @@
+# Equipment Module
+
 Installing this [module](index.md) provides three distinct beneficial
 [Module benefits](Module_benefit.md):
 

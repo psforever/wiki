@@ -1,3 +1,5 @@
+# Incentives
+
 **Incentives** are bonuses awarded to an underpopulated empire and include a
 percentage increase in [Experience Points](Experience_Points.md) awarded for
 kills and reduction in spawn timers and vehicle acquisition timers.

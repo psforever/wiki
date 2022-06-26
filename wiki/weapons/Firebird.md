@@ -1,3 +1,5 @@
+# Firebird
+
 ![thumb](../images/Firebird.jpg)
 
 The Firebird is the only weapon on the

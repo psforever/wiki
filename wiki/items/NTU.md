@@ -1,3 +1,5 @@
+# NTU
+
 **NTUs** (Nanite Technology Units) are collected from
 [warpgates](../locations/Warpgate.md) and active
 [geowarps](../locations/Geowarp.md) by

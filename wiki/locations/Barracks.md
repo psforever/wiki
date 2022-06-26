@@ -1,3 +1,5 @@
+# Barracks
+
 ![barracks](../images/Barracksdownstairs.jpg){ class="figure" }
 
 This room is

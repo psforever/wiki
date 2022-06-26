@@ -1,3 +1,5 @@
+# Colossus Dual Burster Ammunition
+
 |                                                 |                                                                                                                 |
 | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Colossus](../vehicles/Colossus.md) and [Invader](../vehicles/Invader.md) using the [Burster](../armor/Burster.md) |

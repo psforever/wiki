@@ -1,3 +1,5 @@
+# Ignore
+
 Ignored players cannot talk to you. If a player that you have on Ignore sends
 you a tell, they will receive a "_That player is ignoring you_" message. If a
 Player that you have on Ignore sends you a

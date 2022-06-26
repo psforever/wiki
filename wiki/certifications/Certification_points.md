@@ -1,3 +1,5 @@
+# Certification points
+
 [Certification points](Certification_points.md) are what players use to acquire
 [certifications](Certifications.md). [Certifications](Certifications.md) are
 what gives players access to different weapons, armor, vehicles and abilities.

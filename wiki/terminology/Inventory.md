@@ -1,3 +1,5 @@
+# Inventory
+
 ![thumb](../images/Inventory.jpg) [Agile Exo-Suit](../armor/Agile_Exo-Suit.md)
 with [Jammer grenades](../weapons/Jammer_Grenade.md), a
 [Telepad](../weapons/Telepad.md), a [Pulsar](../weapons/Pulsar.md), a

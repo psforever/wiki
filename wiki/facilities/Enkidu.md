@@ -1,3 +1,5 @@
+# Enkidu
+
 Enkidu is the only [Amp Station](../locations/Amp_Station.md) on
 [Ishundar](../locations/Ishundar.md) and is in the center inside grids H12 and
 I12.

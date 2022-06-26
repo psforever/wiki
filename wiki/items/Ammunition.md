@@ -1,3 +1,5 @@
+# Ammunition
+
 There are two main types of ammunition in [Planetside](../PlanetSide.md):
 Hand-held and [Vehicle](../vehicles/index.md).
 

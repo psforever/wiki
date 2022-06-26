@@ -1,3 +1,5 @@
+# Squad Home Base
+
 Implemented April 8, 2005 with version [3.5.4](../patches/3.5.4.md).
 
 ## Squad Home Base

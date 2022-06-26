@@ -1,3 +1,5 @@
+# Suppressor
+
 ![Soldier carrying a Suppressor](../images/PSScreenShot0299.jpg){ class="figure" }
 
 |                            |                                                                                                                       |

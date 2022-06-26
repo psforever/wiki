@@ -1,3 +1,5 @@
+# Martyr
+
 **martyr's Stragies and Tactics**
 
 note: I lead the now-disbanded Strategic Air Command of my outfit, Sons of Vanu.

@@ -1,3 +1,5 @@
+# Neutral
+
 A [base](../locations/Facilities.md) will go **neutral** when the power level
 ([NTU](../items/NTU.md)) is completely depleted. Any neutral base can be hacked
 by any empire (except for Capitol facilities, which still require two

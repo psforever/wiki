@@ -1,3 +1,5 @@
+# Hack-and-Hold
+
 "**Hack-and-Hold**" refers to [facilities](../locations/Facilities.md) that, in
 order to be captured, must be [hacked](Hack.md) and the owning
 [Empire](Empire.md) prevented from re-hacking (resecuring) the facility for 15

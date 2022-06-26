@@ -1,3 +1,5 @@
+# Spawn Room
+
 ![](../images/SpawnRoom.jpg){ class="figure" }
 ![from another view](../images/SpawnRoom2.jpg){ class="figure" }
 ![ in a

@@ -1,3 +1,5 @@
+# Beamer
+
 ![ Soldier holding a
 Beamer](../images/PSScreenShot0293.jpg){ class="figure" }
 

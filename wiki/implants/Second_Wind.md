@@ -1,3 +1,5 @@
+# Second Wind
+
 The [Second Wind](Second_Wind.md) Implant provides an emergency reserve of
 [Health](../terminology/Health.md) and [Stamina](../terminology/Stamina.md)
 which can revive a soldier from near-death, and provide time to find proper

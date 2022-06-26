@@ -1,3 +1,5 @@
+# Heavy Scout Rifle
+
 ![soldier displays an HSR](../images/HSR.jpg){ class="figure" }
 
 |                            |                                              |

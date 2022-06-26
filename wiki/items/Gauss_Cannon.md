@@ -1,3 +1,5 @@
+# Gauss Cannon
+
 The Gauss Cannon is the Primary Weapon of the
 [New Conglomerate](../factions/New_Conglomerate.md)
 [Deliverer](../vehicles/Deliverer.md) Variant the

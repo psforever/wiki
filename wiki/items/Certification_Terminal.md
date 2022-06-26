@@ -1,3 +1,5 @@
+# Certification Terminal
+
 ![](../images/Cert_term.jpg "Cert_term.jpg")
 
 Located on each [Empire](../terminology/Empire.md)'s

@@ -1,3 +1,5 @@
+# Run For the Guns
+
 The [New Conglomerate](../../factions/New_Conglomerate.md) is continuing their attempts at
 manipulating the Auraxian [lattice](../../terminology/Lattice.md) network, this
 time targeting construction and acquisition pathways in an attempt to level the

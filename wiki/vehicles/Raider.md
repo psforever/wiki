@@ -1,3 +1,5 @@
+# Raider
+
 ![Raider](../images/RaiderPicture.jpg){ class="figure" }
 
 |                            |                                                                 |

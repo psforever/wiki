@@ -1,3 +1,5 @@
+# Outfit
+
 ![](../images/OutfitDecal02.gif){ class="figure" }
 
 A player created and organized group of at least 2 players within the same

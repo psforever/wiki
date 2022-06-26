@@ -1,3 +1,5 @@
+# AfterShock
+
 Following [The Bending](terminology/The_Bending.md), PlanetSide's software was
 rereleased as a bundle package, including both the base game and the
 [Core Combat](items/Core_Combat.md) Expansion.

@@ -1,3 +1,5 @@
+# Ixtab
+
 Ixtab is [Hossin](../locations/Hossin.md)'s only
 [Amp Station](../locations/Amp_Station.md). Ixtab is located in center Hossin in
 grid I13.

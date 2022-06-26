@@ -1,3 +1,5 @@
+# Medical Bay
+
 ![](../images/MedBay.jpg){ class="figure" }
 
 ![](../images/MedBay3.jpg){ class="figure" }

@@ -1,3 +1,5 @@
+# Lightning Shell
+
 |                                                 |                                                                                                                                                                    |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Used by**                                     | [Lightning](../vehicles/Lightning.md), [Leviathan](../vehicles/Leviathan.md), [Juggernaut](../vehicles/Juggernaut.md), and [Vindicator](../vehicles/Vindicator.md) |

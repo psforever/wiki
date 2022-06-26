@@ -1,3 +1,5 @@
+# Agents
+
 Agents are a Sniping outfit, however we also dab our hands in many things
 including light vehicular and fast response work.
 

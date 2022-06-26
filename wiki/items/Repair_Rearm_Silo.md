@@ -1,3 +1,5 @@
+# Repair Rearm Silo
+
 ![base](../images/Repair-silo.jpg){ class="figure" }
 
 The **Repair/Rearm Silo** is a large cylindrical structure attached to two walls

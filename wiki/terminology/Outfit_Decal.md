@@ -1,3 +1,5 @@
+# Outfit Decal
+
 An **Outfit Decal** is an image that an Outfit can select when it reaches 10,000
 [Outfit Points](Outfit_Points.md).
 

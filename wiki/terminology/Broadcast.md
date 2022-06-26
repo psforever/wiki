@@ -1,3 +1,5 @@
+# Broadcast
+
 **Broadcast** refers to one of the following:
 
 1. The /broadcast channel available in the chat window. See

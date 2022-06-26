@@ -1,3 +1,5 @@
+# Core Complex
+
 ![](../images/Core_Complex.jpg){ class="figure" }
 
 The Core Complex is the large crystaline structure located at the center of each

@@ -1,3 +1,5 @@
+# Voltan
+
 **Voltan** is one of the [Capitol](../locations/Capitol.md) of
 [Hossin](../locations/Hossin.md), one of three
 [Interlink Facilities](../locations/Interlink.md).

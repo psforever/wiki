@@ -1,3 +1,5 @@
+# Automatic Machine Pistol
+
 ![ Soldier equipped with an AMP](../images/PSScreenShot0292.jpg){ class="figure" }
 
 |                            |                                                                                                                       |

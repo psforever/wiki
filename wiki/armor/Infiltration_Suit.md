@@ -1,3 +1,5 @@
+# Infiltration Suit
+
 ![](../images/Cloaker_firing.jpg){ class="figure" }
 
 ![Infiltrator coming

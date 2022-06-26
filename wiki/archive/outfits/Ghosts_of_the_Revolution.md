@@ -1,3 +1,5 @@
+# Ghosts of the Revolution
+
 Ghosts of the Revolution (GotR) are a Gemini based outfit that play mostly Vanu
 Sovereignty but have been known to play the other two empires.
 

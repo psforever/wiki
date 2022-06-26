@@ -1,3 +1,5 @@
+# Upgrade Canister
+
 ![](../images/UpgradeCanister.png){ class="figure" }
 ![ Commander
 using a [Nano Dispenser](../weapons/Nano_Dispenser.md) with an Upgrade

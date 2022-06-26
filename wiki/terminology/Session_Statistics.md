@@ -1,3 +1,5 @@
+# Session Statistics
+
 The Session Statistics are displayed in a small bar on your screen.
 
 The Session Statistics display:

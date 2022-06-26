@@ -1,3 +1,5 @@
+# Ghanon
+
 Ghanon is on of the three [Technology Plants](../locations/Technology_Plant.md)
 on [Hossin](../locations/Hossin.md). It is located in the West of Hossin in
 grids F11, F12, G11 and G12.

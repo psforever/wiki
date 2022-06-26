@@ -1,3 +1,5 @@
+# Population lock
+
 A Population lock means that an [Empire](Empire.md) has filled all available
 server slots to capacity for a [continent](../locations/Continent.md). Total
 capacity for each world is figured to be roughly 500-550 players.

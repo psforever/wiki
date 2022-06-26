@@ -1,3 +1,5 @@
+# Armor Piercing
+
 "Armor Piercing" or "AP" refers to weapons, configurations, or ammunition that
 is designed to be effective against [Vehicles](category:_Vehicles.md) or
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) armor only, usually having little

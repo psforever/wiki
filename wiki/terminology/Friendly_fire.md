@@ -1,3 +1,5 @@
+# Friendly fire
+
 **Friendly fire** is damage caused by members of the same [Empire](Empire.md) to
 each other. As its name implies, this is primarily damage caused by
 [weapons](../weapons/Weapon.md), but within the context of

@@ -1,3 +1,5 @@
+# Dragon
+
 ![Soldier firing the Dragon](../images/Dragon1.jpg){ class="figure" }
 ![](../images/Dragon.jpg){ class="figure" }
 

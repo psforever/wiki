@@ -1,3 +1,5 @@
+# Anchoring
+
 **Anchoring**, or "**locking down**", is the special ability of
 [Terran Republic](../factions/Terran_Republic.md)
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units.

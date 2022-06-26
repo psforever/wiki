@@ -1,3 +1,5 @@
+# Kingston Lan Commandos
+
 ## KINGSTON LAN COMMANDOS
 
 The _Kingston Lan Commandos_ is always looking for players to join our

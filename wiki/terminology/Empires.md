@@ -1,3 +1,5 @@
+# Empires
+
 Each character in [PlanetSide](../PlanetSide.md) is a member of one of three
 [Empires](Empires.md) (teams):
 

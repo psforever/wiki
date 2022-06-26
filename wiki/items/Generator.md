@@ -1,3 +1,5 @@
+# Generator
+
 ![](../images/Generator.jpg){ class="figure" }
 ![ Warning Light: Generator
 Destroyed](../images/Power_light.jpg){ class="figure" }

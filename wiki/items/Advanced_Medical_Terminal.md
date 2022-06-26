@@ -1,3 +1,5 @@
+# Advanced Medical Terminal
+
 ![](../images/Advanced_Med_Term.jpg "Advanced_Med_Term.jpg")
 
 The Advanced Medical Terminal fills both Health and Armor as normal

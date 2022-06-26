@@ -1,3 +1,5 @@
+# Ancient Control Console
+
 ![Control Console](../images/AT-CC.jpg){ class="figure" }
 
 The Ancient Control Console is the

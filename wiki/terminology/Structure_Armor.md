@@ -1,3 +1,5 @@
+# Structure Armor
+
 Certain [facility](../locations/Facilities.md) objects are destroyable, draining
 [NTU](../items/NTU.md) to repair. The following is a list of the armor values of
 non-[vehicle](../vehicles/index.md) objects and their repair time if they are

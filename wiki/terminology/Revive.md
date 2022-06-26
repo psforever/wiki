@@ -1,3 +1,5 @@
+# Revive
+
 A [revive](Revive.md) allows a soldier whose [health](Health.md) has hit 0 to be
 brought back into combat without the need of being [respawned](Respawn.md). This
 allows for a soldier to get back into the combat more quickly, and it also

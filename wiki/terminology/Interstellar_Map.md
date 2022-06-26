@@ -1,3 +1,5 @@
+# Interstellar Map
+
 ![](../images/InterstellarMap.jpg){ class="figure" }
 
 Overhead Map of the

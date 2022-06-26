@@ -1,3 +1,5 @@
+# Deconstruct
+
 **Deconstructing** refers to one of two things:
 
 1. When a player [Recalls](Recall.md), calls

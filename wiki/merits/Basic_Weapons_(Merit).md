@@ -1,3 +1,5 @@
+# Basic Weapons (Merit)
+
 <table>
 <tbody>
 <tr class="odd">

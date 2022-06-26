@@ -1,3 +1,5 @@
+# In-Game Commands
+
 A list of all the In-Game Commands
 
 ## Communication Commands

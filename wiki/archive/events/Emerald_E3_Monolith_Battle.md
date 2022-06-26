@@ -1,3 +1,5 @@
+# Emerald E3 Monolith Battle
+
 "On May 18th through May 20th on the [Emerald](../servers/Emerald.md) server, the
 [Monolith](../../items/Monolith.md) event will make its return. Only
 this time the event will be running live from the Electronic Entertainment Expo

@@ -1,3 +1,5 @@
+# Neutral Continent
+
 A **Neutral Continent** (or Neutral Planet in the
 [Post-Bending](The_Bending.md) era) is simply a
 [planet](../locations/Planet.md) which does not possesses a direct link to an

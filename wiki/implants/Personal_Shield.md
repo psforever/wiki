@@ -1,3 +1,5 @@
+# Personal Shield
+
 **Personal Shield** is one of the most popular [implants](index.md) for
 zerglings and skilled players alike. Its effect is simple: It allows you to use
 your [stamina](../terminology/Stamina.md) to absorb damage taken at a 1 to 1

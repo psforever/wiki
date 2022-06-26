@@ -1,3 +1,5 @@
+# Bamelin
+
 Noun: A CR5 who, though no longer maintaining a permanent account, continues to
 show up from time to time in PlanetSide to cause disruptions. Bamelin is most
 renown for his tendancy to counter global any decisions made by other CR5's.

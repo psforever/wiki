@@ -1,3 +1,5 @@
+# Astrala's Guide to Planetside
+
 ## Astrala's Guide to Planetside
 
 This is a guide for total newbies. I was a total newbie 3 weeks ago and most of

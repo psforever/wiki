@@ -1,3 +1,5 @@
+# Beginner's Guide to PlanetSide in 2016
+
 Beginner’s Guide to PlanetSide 1 in 2016
 
 - Still receiving updates

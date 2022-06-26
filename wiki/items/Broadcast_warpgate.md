@@ -1,3 +1,5 @@
+# Broadcast warpgate
+
 Considered an upgrade from a normal [warpgate](../locations/Warpgate.md),
 broadcast warpgates help Empires shorten the length of travel to the battlefront
 by allowing forces to teleport from one warpgate to another along the

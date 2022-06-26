@@ -1,3 +1,5 @@
+# Assist
+
 [Assists](Assist.md) are [Planetside](../PlanetSide.md)'s method for
 tracking [Support Experience Points](Support_Experience_Points.md) and how
 support character gain [Merits](../merits/index.md). An assist is

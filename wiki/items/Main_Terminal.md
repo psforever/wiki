@@ -1,3 +1,5 @@
+# Main Terminal
+
 ![](../images/Main_Term.jpg "Main_Term.jpg")
 
 The **Main terminal** of each [Facility](../locations/Facilities.md) is located

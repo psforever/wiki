@@ -1,3 +1,5 @@
+# Colossus Rotary Chaingun Bullets
+
 |                                                 |                                                                                                                                 |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Colossus](../vehicles/Colossus.md) and [Invader](../vehicles/Invader.md) using the [Rotary Chaingun](../items/Rotary_Chaingun.md) |

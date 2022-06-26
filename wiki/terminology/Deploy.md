@@ -1,3 +1,5 @@
+# Deploy
+
 Certain [vehicles](../vehicles/index.md) require that they be "**deployed**"
 in order for their abilities to be used. "Deploying" renders the vehicle
 immobile. "Undeploying" is simply the act of leaving the "deployed" state in

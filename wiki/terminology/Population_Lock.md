@@ -1,3 +1,5 @@
+# Population Lock
+
 A population lock is when a [continent](../locations/Continent.md) is full, and
 cannot hold any more players.
 

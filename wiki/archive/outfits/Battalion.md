@@ -1,3 +1,5 @@
+# Battalion
+
 ## Bios
 
 Battalion is an epic [New Conglomerate](../../factions/New_Conglomerate.md)

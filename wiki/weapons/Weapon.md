@@ -1,3 +1,5 @@
+# Weapon
+
 !['s empire-specific handheld
 weaponry.](../images/Tr_weapons.jpg){ class="figure" }
 

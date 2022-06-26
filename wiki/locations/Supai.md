@@ -1,3 +1,5 @@
+# Supai
+
 Supai is one of the six [Core Combat](../items/Core_Combat.md)
 [Caverns](Caverns.md).
 

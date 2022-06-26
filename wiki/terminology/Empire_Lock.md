@@ -1,3 +1,5 @@
+# Empire Lock
+
 An Empire Lock is when all available slots for a given
 [Empire](Empire.md) on a specific
 [Planet](../locations/Planet.md) are in use.

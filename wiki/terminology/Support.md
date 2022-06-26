@@ -1,3 +1,5 @@
+# Support
+
 [Support](Support.md) roles involve helping other members of your team in any
 manner. This can include healing other players, repairing other players and
 [vehicles](../vehicles/index.md), reviving fallen comrades, Hacking Terminals

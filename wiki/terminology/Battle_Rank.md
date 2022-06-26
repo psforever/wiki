@@ -1,3 +1,5 @@
+# Battle Rank
+
 Battle Rank When enough experience is accumulated, the character will increase
 in Battle Rank (BR). One certification point is awarded for each Battle Rank
 increase, except at BR6, 12, 18, 24, 25, 28, 30, 32, 34, 36, 38, and 40. At

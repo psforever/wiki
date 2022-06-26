@@ -1,3 +1,5 @@
+# Plasma
+
 There are a few different types of **plasma** found in
 [PlanetSide](../PlanetSide.md), all of them dangerous. All types continue to
 do damage after the initial impact. Soldiers can only take two instances of this

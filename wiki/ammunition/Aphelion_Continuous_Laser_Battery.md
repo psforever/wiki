@@ -1,3 +1,5 @@
+# Aphelion Continuous Laser Battery
+
 |                                                 |                                                                                                                                        |
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Aphelion](../vehicles/Aphelion.md) and [Eclipse](../vehicles/Eclipse.md) using the [Continuous Laser](../weapons/Continuous_Laser.md) |

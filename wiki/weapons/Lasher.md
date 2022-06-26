@@ -1,3 +1,5 @@
+# Lasher
+
 ![soldier firing a Lasher](../images/Lasher.jpg){ class="figure" }
 
 |                            |                                                        |

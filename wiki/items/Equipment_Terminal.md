@@ -1,3 +1,5 @@
+# Equipment Terminal
+
 ![](../images/Equip_Term.jpg "Equip_Term.jpg")
 
 **Equipment terminals** provide troops with

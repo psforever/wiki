@@ -1,3 +1,5 @@
+# Vanu Sovereignty
+
 > The destiny of the human species tilts toward ruin. Thousands of years
 of shortsightedness and provincial thinking have hampered its proper
 evolution. We plunge toward oblivion. Those able to comprehend the

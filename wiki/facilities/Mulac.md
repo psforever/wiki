@@ -1,3 +1,5 @@
+# Mulac
+
 Mulac is one of the three [Technology Plants](../locations/Technology_Plant.md)
 on [Hossin](../locations/Hossin.md) and is to the South East inside grids N13,
 O13, N14 and O14.

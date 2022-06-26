@@ -1,3 +1,5 @@
+# Infantry
+
 Within the context of [PlanetSide](../PlanetSide.md), **infantry** refers to
 any soldiers (characters) that are not in a vehicle and not using
 [MAX](../armor/Mechanized_Assault_Exo-Suit.md) armor. Generally,

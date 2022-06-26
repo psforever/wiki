@@ -1,3 +1,5 @@
+# Map grid
+
 The Map Grid is a co-ordinate based overlay on the
 [Continental Map](Continental_Map.md).
 

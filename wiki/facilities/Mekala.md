@@ -1,3 +1,5 @@
+# Mekala
+
 Mekela is one of the three [Technology Plants](../locations/Technology_Plant.md)
 on [Amerish](../locations/Amerish.md). It is located in grid O13 in the South
 East of Amerish.

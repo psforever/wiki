@@ -1,3 +1,5 @@
+# Command Rank
+
 Command Rank 0(CR0)
 
 All characters start at this command level. No special abilities are available.

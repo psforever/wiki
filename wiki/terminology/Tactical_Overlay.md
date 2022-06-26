@@ -1,3 +1,5 @@
+# Tactical Overlay
+
 ![ Battle represented on the
 Tactical Overlay](../images/Tactical-Overlay.jpg){ class="figure" }
 

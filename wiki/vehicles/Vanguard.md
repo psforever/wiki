@@ -1,3 +1,5 @@
+# Vanguard
+
 !['s
 [Medium Battle Tank](../items/Medium_Battle_Tank.md)](../images/Vanguard.jpg){ class="figure" }
 

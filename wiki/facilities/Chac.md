@@ -1,3 +1,5 @@
+# Chac
+
 Chac is one of the three [Technology Plants](../locations/Technology_Plant.md)
 on [Hossin](../locations/Hossin.md). It is located in the upper North of Hossin
 in grid J6.

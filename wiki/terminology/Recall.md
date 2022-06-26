@@ -1,3 +1,5 @@
+# Recall
+
 This option allows a player to [deconstruct](Deconstruct.md) and
 [respawn](Respawn.md) back in the [Sanctuary](../locations/Sanctuary.md). This
 method is usually used for regrouping, re-equipping, or to travel to another

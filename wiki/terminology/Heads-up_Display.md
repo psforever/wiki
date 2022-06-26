@@ -1,3 +1,5 @@
+# Heads-up Display
+
 ### Squad Bar
 
 (Note: Most elements of the user interface may be repositioned by dragging the

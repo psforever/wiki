@@ -1,3 +1,5 @@
+# Regeneration
+
 The **Regeneration** [implant](index.md) allows a soldier to heal 1 point of
 [Health](../terminology/Health.md) at the expense of 2 points of
 [Stamina](../terminology/Stamina.md) per second. Once activated, the implant

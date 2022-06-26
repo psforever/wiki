@@ -1,3 +1,5 @@
+# Yazata
+
 Yazata is [Extinction](../locations/Oshur.md#Extinction)'s only
 [Bio Laboratory](../locations/Bio_Laboratory.md) and is in the South East in
 grids G14, G15, H14 and H15.

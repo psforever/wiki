@@ -1,3 +1,5 @@
+# Mini-Chaingun
+
 ![Soldier equipped with a Mini-Chaingun](../images/MCG.jpg){ class="figure" }
 
 |                            |                                                                                                                     |

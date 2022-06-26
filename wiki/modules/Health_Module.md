@@ -1,3 +1,5 @@
+# Health Module
+
 Installing this [module](index.md) provides the
 [module benefit](Module_benefit.md) of allowing soldiers that spawn to do
 so with 120 health instead of 100. Additionally, friendly soldiers in the

@@ -1,3 +1,5 @@
+# Link Dead
+
 When a character is **Link Dead** (sometimes **linkdead**), it means that the
 player's client has stopped communicating with the game server. An "\[LD\]" will
 be shown under the character's name. If the connection between the player's

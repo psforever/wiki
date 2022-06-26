@@ -1,3 +1,5 @@
+# Spiker
+
 ![ Soldier is loading his
 Spiker](../images/SpikerPicture.jpg){ class="figure" }
 

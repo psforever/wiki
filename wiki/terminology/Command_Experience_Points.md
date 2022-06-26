@@ -1,3 +1,5 @@
+# Command Experience Points
+
 **Command Experience Points** (CEP) is gained by leading a [squad](Squad.md) in
 a successful [base](../locations/Facilities.md) capture or resecure.
 

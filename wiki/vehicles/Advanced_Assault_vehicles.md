@@ -1,3 +1,5 @@
+# Advanced Assault vehicles
+
 Purchasable in an Empire's [Sanctuary](../locations/Sanctuary.md), at a
 [Technology Plant](../locations/Technology_Plant.md) or its
 [lattice linked](../terminology/Lattice.md) facility, **Advanced Assault

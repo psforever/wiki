@@ -1,3 +1,5 @@
+# 10mm Multi-Phase
+
 |                          |                                                                                              |
 | ------------------------ | -------------------------------------------------------------------------------------------- |
 | **Used by**              | [Eraser](../weapons/Eraser.md), [Spear](../weapons/Spear.md), [Stinger](../weapons/Stinger.md) |

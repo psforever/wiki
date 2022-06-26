@@ -1,3 +1,5 @@
+# Shield Module
+
 ![
 [Facility](../locations/Facilities.md) with a Shield Module Benefit](../images/VSShieldModFacility.jpg){ class="figure" }
 

@@ -1,3 +1,5 @@
+# Cavern Lock
+
 Cavern lock is granted to an empire when they completely control an active Core
 [Cavern](../locations/Caverns.md) by having posession of all cavern
 [Facilities](../locations/Facilities.md).

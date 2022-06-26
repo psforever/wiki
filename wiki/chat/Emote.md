@@ -1,3 +1,5 @@
+# Emote
+
 A /[command](Chat_Commands.md) entered into the chat pane, **/em** (abbreviated
 from **/emote**) executes a character animation, visible to other players. Usage
 is either of the following:

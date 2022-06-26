@@ -1,3 +1,5 @@
+# Planetside Realms Guide
+
 Congratulations! Whether you've purchased, installed, and patched PlanetSide or
 are just sitting on the john, this guide will help you gain an understanding of
 the Planetside game mechanics, earn you a couple of battle ranks, and get you in

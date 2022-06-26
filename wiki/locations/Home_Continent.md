@@ -1,3 +1,5 @@
+# Home Continent
+
 A [Home Continent](Home_Continent.md) (or Home Planet in the
 [Post-Bending](../terminology/The_Bending.md) era) is simply a [planet](Planet.md), or
 [continent](../locations/Continent.md) which possesses a link to an

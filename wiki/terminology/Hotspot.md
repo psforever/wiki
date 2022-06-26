@@ -1,3 +1,5 @@
+# Hotspot
+
 A **Hotspot** is an area of fighting, and is represented on the
 [Continental Map](Continental_Map.md) by an animated yellow star. The
 presence of Hotspot stars are one of the main ways a soldier can gain

@@ -1,3 +1,5 @@
+# Oro
+
 Oro is one of the three [Interlink Facilities](../locations/Interlink.md) on
 [Searhus](../locations/Searhus.md). It is to the West of the Crater in grids L9,
 L10, M9 and M10.

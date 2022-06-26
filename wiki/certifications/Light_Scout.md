@@ -1,3 +1,5 @@
+# Light Scout
+
 |     |     |
 | --- | --- |
 | **Type** | Vehicle/Aircraft |

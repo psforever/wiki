@@ -1,3 +1,5 @@
+# Sniper (Merit)
+
 <table>
 <tbody>
 <tr class="odd">

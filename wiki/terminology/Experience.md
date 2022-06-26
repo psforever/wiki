@@ -1,3 +1,5 @@
+# Experience
+
 Experience ("exp" or "xp") is the way in which soldiers gain battle or command
 ranks.
 

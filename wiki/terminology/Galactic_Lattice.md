@@ -1,3 +1,5 @@
+# Galactic Lattice
+
 Refers to the links between [continents](../locations/Continent.md) and
 [planets](../locations/Planet.md) in the [Post-Bending](The_Bending.md)
 [Auraxis](../locations/Auraxis.md). Similar to the

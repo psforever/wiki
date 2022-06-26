@@ -1,3 +1,5 @@
+# Facilities
+
 The goal of Planetside is to capture and hold the **Facilities**, often called
 **Bases**, on each [Planet](Planet.md) and in each [Cavern](Caverns.md). These
 bases provide gathering locations for troops, supply points for weapons and

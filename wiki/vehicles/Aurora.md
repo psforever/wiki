@@ -1,3 +1,5 @@
+# Aurora
+
 ![Aurora](../images/VSAurora.jpg){ class="figure" }
 
 |                            |                                                           |

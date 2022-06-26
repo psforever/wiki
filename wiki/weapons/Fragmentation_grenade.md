@@ -1,3 +1,5 @@
+# Fragmentation grenade
+
 ![](../images/Frag_Hand_grenade.jpg){ class="figure" }
 
 |                            |                                                           |

@@ -1,3 +1,5 @@
+# Emerald
+
 **Emerald** was the PlanetSide server that was located on the eastern coast of
 the United States (Maryland). On May 20, 2008, Emerald was merged with the
 [Markov](Markov.md) server to create the [Gemini](Gemini.md) server.

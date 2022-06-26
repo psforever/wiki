@@ -1,3 +1,5 @@
+# Empire Benefit
+
 [Locking](Continental_lock.md) a continent can carry with it a unique
 benefit for the Empire holding that [planet](../locations/Planet.md). These
 benefits apply to all facilities regardless of a

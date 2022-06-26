@@ -1,3 +1,5 @@
+# Sub-Capitol
+
 A Sub-Capitol is any one of four [facilities](Facilities.md) located on each
 [Empire](../terminology/Empire.md)'s home
 [continents](../locations/Continent.md) which is connected via a green lattice

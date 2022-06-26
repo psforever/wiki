@@ -1,3 +1,5 @@
+# Faro
+
 Faro is a [Technology Plant](../locations/Technology_Plant.md). It is located at
 [grid](../terminology/Map_grid.md) M6.
 

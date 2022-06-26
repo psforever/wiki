@@ -1,3 +1,5 @@
+# Rotary Chaingun Bullets
+
 |                                                 |                                                                                                                                                                                                                                                                                                                         |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Used by**                                     | [Harasser](../vehicles/Harasser.md), [Basilisk](../vehicles/Basilisk.md), [Leviathan](../vehicles/Leviathan.md), [Vindicator](../vehicles/Vindicator.md), [Juggernaut](../vehicles/Juggernaut.md), [Lightning](../vehicles/Lightning.md), [Mosquito](../vehicles/Mosquito.md), and [Marauder](../vehicles/Marauder.md). |

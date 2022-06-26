@@ -1,3 +1,5 @@
+# Test Server
+
 The [Test Server](Test_Server.md) is a special server run by the
 [PlanetSide](../../PlanetSide.md) team. The Test Server is exactly the same as the
 other three PlanetSide servers, [Emerald](Emerald.md), [Markov](Markov.md), and

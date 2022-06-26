@@ -1,3 +1,5 @@
+# Support Experience Points
+
 **Support Experience** (**SEP**) went live in Patch [3.7.3](../patches/3.7.3.md)
 and is awarded for Kills that a Friendly Soldier makes after you have Supported
 him. It is [Battle Experience](Battle_Experience_Points.md) awarded for Support

@@ -1,3 +1,5 @@
+# Personal Waypoint
+
 ![
 [Gun tower](../locations/Gun_tower.md) ](../images/Personal_waypoint.jpg){ class="figure" }
 

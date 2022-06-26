@@ -1,3 +1,5 @@
+# Outfit Points
+
 Outfit Points are contributed to Players that are in an [Outfit](Outfit.md).
 
 For every 100

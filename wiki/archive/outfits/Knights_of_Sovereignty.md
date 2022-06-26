@@ -1,3 +1,5 @@
+# Knights of Sovereignty
+
 The [Knights of Sovereignty](http://www.knightsofsovereignty.org) are one of the
 largest and highest points scoring [Outfits](../../terminology/Outfit.md) on
 [VS](../../factions/Vanu_Sovereignty.md) [Emerald](../servers/Emerald.md).

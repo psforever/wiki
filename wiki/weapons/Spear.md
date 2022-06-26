@@ -1,3 +1,5 @@
+# Spear
+
 ![](../images/Spear.jpg){ class="figure" }
 
 ![.](../images/Pistol_DD.jpg){ class="figure" }

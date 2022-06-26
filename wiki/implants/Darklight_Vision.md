@@ -1,3 +1,5 @@
+# Darklight Vision
+
 ![A cloaker as seen with Darklight](../images/Darklight.jpg){ class="figure" }
 
 ![](../images/Darklight.gif) The Darklight implant enables the user to detect cloaked enemies and equipment

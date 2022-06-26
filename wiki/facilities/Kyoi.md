@@ -1,3 +1,5 @@
+# Kyoi
+
 Kyoi is one of the four Bio Laboratories on [Amerish](../locations/Amerish.md).
 It is located in the very South East of Amerish, in grid N15.
 

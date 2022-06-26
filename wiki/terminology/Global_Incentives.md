@@ -1,3 +1,5 @@
+# Global Incentives
+
 Similar to [Empire Incentives](Empire_Incentives.md), Global incentives
 adjust [experience point](Battle_Experience_Points.md) bonuses based upon
 population disadvantages. The bonus percentage is the percent difference between

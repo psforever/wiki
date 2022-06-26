@@ -1,3 +1,5 @@
+# Capturing Bases
+
 The most basic element of strategy in Planeteside is the fine art of capturing
 [bases](../../locations/Facilities.md). Though the mechanics of a base capture are
 simple, there's a lot of different ways you can do it.

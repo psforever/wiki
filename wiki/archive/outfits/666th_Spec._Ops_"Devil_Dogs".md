@@ -1,3 +1,5 @@
+# 666th Spec. Ops "Devil Dogs"
+
 **The statistics on the page are out of date.**
 
 - The 666th Spec. Ops "Devil Dogs" is the largest and one of the most known

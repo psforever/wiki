@@ -1,3 +1,5 @@
+# Cone of fire
+
 To better simulate the effects of environment on a soldier's aim, PlanetSide
 uses the **Cone of Fire** system.
 

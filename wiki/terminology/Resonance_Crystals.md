@@ -1,3 +1,5 @@
+# Resonance Crystals
+
 Resonance Crystals are small crystals implanted in the spinal cord of any
 soldier. These crystals are activated by the [BFR Imprint](BFR_Imprint.md)
 process, and allow a soldier to pilot a

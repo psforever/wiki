@@ -1,3 +1,5 @@
+# Locations
+
 ![](../images/InterstellarMap.jpg){ class="figure" }
 
 [Auraxis](Auraxis.md) has

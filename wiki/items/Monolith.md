@@ -1,3 +1,5 @@
+# Monolith
+
 ![](../images/Amerish_monolith.jpg){ class="figure" }
 
 **Monoliths** are golden crystalline structures found all over the many worlds

@@ -1,3 +1,5 @@
+# Force Dome
+
 Each [Capitol](../locations/Capitol.md) has a Force Dome over it that protects
 it from all enemy intrusion. The Force Dome can only be taken down by ensuring
 that current Capitol owners own less than two of the

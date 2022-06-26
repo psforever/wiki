@@ -1,3 +1,5 @@
+# Sons of Vanu
+
 Sons of Vanu plays on the Emerald server.
 
 [www.sonsofvanu.com](http://www.sonsofvanu.com)

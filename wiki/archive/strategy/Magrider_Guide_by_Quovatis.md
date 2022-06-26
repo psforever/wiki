@@ -1,3 +1,5 @@
+# Magrider Guide by Quovatis
+
 Since I feel that I'm one of the more experienced
 [Magrider](../../vehicles/Magrider.md) drivers in planetside, this guide is meant
 to help others out.

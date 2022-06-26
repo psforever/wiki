@@ -1,3 +1,5 @@
+# Minignus infiltrator startup
+
 Right this is for the REALLY new people ;)
 
 First up remember that if you want LOADS of kills this not be the setup for you.

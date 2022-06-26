@@ -1,3 +1,5 @@
+# Liberator and Vulture Bombs
+
 |                                                 |                                                                             |
 | ----------------------------------------------- | --------------------------------------------------------------------------- |
 | **Used by**                                     | [Liberator](../vehicles/Liberator.md) and [Vulture](../vehicles/Vulture.md) |

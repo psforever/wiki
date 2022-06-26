@@ -1,3 +1,5 @@
+# Raging Primates
+
 ![](../../images/Rpbanner.jpg){ class="figure" }
 
 **Raging Primates** is a

@@ -1,3 +1,5 @@
+# Waypoint
+
 **Waypoints** are markers placed on the
 [Continental Map](Continental_Map.md), and show up in the
 [HUD](Heads-up_Display.md) as pillars of light with animated arrowheads

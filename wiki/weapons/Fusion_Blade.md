@@ -1,3 +1,5 @@
+# Fusion Blade
+
 ![ Soldier with the Fusion
 Blade](../images/FusionBladeNC.jpg){ class="figure" }
 ![ Soldier

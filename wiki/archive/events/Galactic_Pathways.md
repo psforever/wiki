@@ -1,3 +1,5 @@
+# Galactic Pathways
+
 In this event, [Monoliths](../../items/Monolith.md) were spawned on
 each planet (not including the battle islands). Whichever
 [Empire](../../terminology/Empire.md) delivered the most

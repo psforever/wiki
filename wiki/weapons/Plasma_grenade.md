@@ -1,3 +1,5 @@
+# Plasma grenade
+
 ![
 [Hand grenade](Hand_grenade.md)](../images/Plasma-Hand-grenade.jpg){ class="figure" }
 

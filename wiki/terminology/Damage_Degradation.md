@@ -1,3 +1,5 @@
+# Damage Degradation
+
 ![ weaponry. Damage indicated is one shot
 fired on a [Cloaker](../armor/Infiltration_Suit.md)](../images/SA_DD.jpg){ class="figure" }
 ![

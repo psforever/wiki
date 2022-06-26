@@ -1,3 +1,5 @@
+# Bombing Guide by Quovatis
+
 Bombing can be very rewarding. In the right situations, my bombardier has made
 over 60 kills before we died. In other situations you will die before you even
 make it to the target. This guide is intended to help both the pilot and

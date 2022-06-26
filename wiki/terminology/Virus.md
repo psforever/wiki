@@ -1,3 +1,5 @@
+# Virus
+
 ![
 has been infected with a virus](../images/InfectedFacilityLighting.jpg){ class="figure" }
 

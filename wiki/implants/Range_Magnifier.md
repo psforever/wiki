@@ -1,3 +1,5 @@
+# Range Magnifier
+
 The **Range Magnifier** Implant provides a weapon-independent zoom capability of
 x4, x8 and x12 magnification. The zoom function becomes independent of any
 unholstered weapon, allowing a soldier to stay zoomed when normally the function

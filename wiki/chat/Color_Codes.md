@@ -1,3 +1,5 @@
+# Color Codes
+
 **Color codes** will help you change the Color of your message or macro.
 
 ## Chat pane

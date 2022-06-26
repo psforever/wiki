@@ -1,3 +1,5 @@
+# Pain Field
+
 A [Pain Field](Pain_Field.md) is an area within (and extending slightly outside
 of) a [Respawn room](../locations/Spawn_Room.md) and
 [Generator](../items/Generator.md) which causes direct health damage to all

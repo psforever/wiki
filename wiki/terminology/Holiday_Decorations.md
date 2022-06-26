@@ -1,3 +1,5 @@
+# Holiday Decorations
+
 Decorations are occasionally added for major American commercial holidays in
 October and December.
 

@@ -1,3 +1,5 @@
+# Naum
+
 Naum is [Hossin](../locations/Hossin.md)'s
 [Dropship Center](../locations/Dropship_Center.md) and is in the East inside
 grid N12.

@@ -1,3 +1,5 @@
+# Terran Death Company
+
 Terran Death Company is an old outfit, approximately 5 years old. After a slump,
 TDC is back on the rise and their members have been seen in increasing numbers.
 

@@ -1,3 +1,5 @@
+# Ancients
+
 The **Ancients** are alien beings, originally referred to as the Vanu, believed
 to be the creators of the [Auraxis](../locations/Auraxis.md) construct, the
 [Auraxian Core](../items/Auraxian_Core.md), the

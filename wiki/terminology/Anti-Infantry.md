@@ -1,3 +1,5 @@
+# Anti-Infantry
+
 "Anti-Infantry" refers to weapons, configurations, or ammunition that is
 designed to be effective against infantry only, usually having little effect on
 [Vehicles](category:_Vehicles.md) or

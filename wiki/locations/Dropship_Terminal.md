@@ -1,3 +1,5 @@
+# Dropship Terminal
+
 The **Dropship Terminal** is a special variant of the
 [Air Terminal](../items/Air_Terminal.md) large enough to allow the construction
 of the [Galaxy](../vehicles/Galaxy.md) troop transport, the

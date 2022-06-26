@@ -1,3 +1,5 @@
+# Hanish
+
 **Hanish** is one of the four [Bio Laboratories](../locations/Bio_Laboratory.md)
 on [Ishundar](../locations/Ishundar.md) and is in the north inside
 [grids](../terminology/Grid.md) I7 and J7.

@@ -1,3 +1,5 @@
+# Strength and Honour
+
 **(New Conglomerate, Markov)**
 
 ---

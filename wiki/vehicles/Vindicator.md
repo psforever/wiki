@@ -1,3 +1,5 @@
+# Vindicator
+
 ![Vindicator](../images/VindicatorFront.jpg){ class="figure" }
 ![](../images/VindicatorRear.jpg){ class="figure" }
 
