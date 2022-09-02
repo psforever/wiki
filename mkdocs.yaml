@@ -20,6 +20,9 @@ markdown_extensions:
   - figure
   - toc:
       toc_depth: "1-4"
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra:
   social:
     - icon: fontawesome/brands/discord
