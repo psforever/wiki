@@ -14,14 +14,14 @@ PlanetSide, Star Wars Galaxies, City of Heroes, and World of Warcraft.
 
 ## External Links
 
-- [Allied Tribal Forces](http://www.alliedtribalforces.com)
-- [Allied Tribal Forces Forums](http://www.alliedtribalforces.com/forum)
+- [Allied Tribal Forces](https://alliedtribalforces.com)
+- [Allied Tribal Forces Forums](https://alliedtribalforces.com/forum.php)
 
 ## ATF Founding Clans
 
-- [The Hounds of Zeus](http://www.thzclan.com/)
-- [XMEN Clan](http://www.xmenclan.org/)
-- [Lords of Steel](http://www.lordsofsteel.net/)
+- [The Hounds of Zeus](https://thzclan.com/)
+- [XMEN Clan](https://www.xmenclan.org/)
+- Lords of Stee
 - Tribal Soup
-- [Tappa Kegga Brew](http://www.tappakeggabrew.com/)
-- [SOB](http://www.sobservers.com/)
+- Tappa Kegga Brew
+- SOB
