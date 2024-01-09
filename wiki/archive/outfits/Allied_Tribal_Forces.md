@@ -21,7 +21,7 @@ PlanetSide, Star Wars Galaxies, City of Heroes, and World of Warcraft.
 
 - [The Hounds of Zeus](https://thzclan.com/)
 - [XMEN Clan](https://www.xmenclan.org/)
-- Lords of Stee
+- Lords of Steel
 - Tribal Soup
 - Tappa Kegga Brew
 - SOB
