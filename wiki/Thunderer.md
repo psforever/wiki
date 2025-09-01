@@ -1,4 +1,4 @@
-![](images/Thunderer_VS.jpg "fig:Thunderer_VS.jpg") Thunderer\]\]
+<img width="987" height="670" alt="Thunder" src="https://github.com/user-attachments/assets/ece9bcf9-1878-4e26-922c-60203eb6f1d1" />
 
 |                            |                                                                  |
 | -------------------------- | ---------------------------------------------------------------- |
