@@ -33,9 +33,8 @@ class ImagesTreeprocessor(Treeprocessor):
 				parent.remove(image)
 
 class FigureExtension(Extension):
-	def extendMarkdown(self, md, md_globals):
-		md.treeprocessors.add("figure", ImagesTreeprocessor(md), "_end")
-
+	def extendMarkdown(self, md):
+		md.treeprocessors.register(ImagesTreeprocessor(md), "figure", 1)
 
 # pylint: disable-next=invalid-name
 def makeExtension(*args, **kwargs):
