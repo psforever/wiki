@@ -20,7 +20,7 @@ class ImagesTreeprocessor(Treeprocessor):
 
 				a = etree.Element('a')
 				a.set("href", "#")
-				a.set("data-featherlight", image.attrib["src"])
+				a.set("data-featherlight",  "../" + image.attrib["src"])
 				a.append(image)
 
 				figcaption = etree.Element('figcaption')
