@@ -1,6 +1,6 @@
 # Thunderer
 
-![Thunderer](../images/Thunderer_VS.jpg){ class="figure" }
+![Thunderer](../images/Thunderer.png){ class="figure" }
 
 |                            |                                                                |
 | -------------------------- | -------------------------------------------------------------- |
