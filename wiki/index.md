@@ -9,4 +9,4 @@ Our community gathers every Sunday at 12pm EST to relive the classic MMOFPS expe
 
 [Play :material-connection:](PSForever/Connection_Guide.md){.md-button .md-button--primary}
 [Discord :fontawesome-brands-discord:](https://discord.gg/0nRe5TNbTYoUruA4){.md-button .md-button--primary}
-[GitHub :fontawesome-brands-github:](https://github.com/psforever){ .md-button }
+[GitHub :fontawesome-brands-github:](https://github.com/psforever){.md-button}
