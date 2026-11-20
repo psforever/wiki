@@ -8,5 +8,5 @@ GitHub, ready for additional contributions to be made.
 Our community gathers every Sunday at 12pm EST to relive the classic MMOFPS experience.
 
 [Play :material-connection:](PSForever/Connection_Guide.md){.md-button .md-button--primary}
-[Discord :fontawesome-brands-discord:](https://discord.gg/0nRe5TNbTYoUruA4){.md-button .md-button--primary}
+[Discord :fontawesome-brands-discord:](https://discord.com/invite/SQf8cW8){.md-button .md-button--primary}
 [GitHub :fontawesome-brands-github:](https://github.com/psforever){ .md-button }

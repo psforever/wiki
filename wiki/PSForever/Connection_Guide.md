@@ -1,6 +1,6 @@
 # Connection Guide
 
-To connect to the PSForever Server, follow the steps below. If you have any further questions, join us on [Discord](http://chat.psforever.net) and ask us your question in the *help* channel.
+To connect to the PSForever Server, follow the steps below. If you have any further questions, join us on [Discord](https://discord.com/invite/SQf8cW8) and ask us your question in the *help* channel.
 
 If you’re a returning player, make sure you set the server port to 51000. The old server/launcher used to be a default port of 51200, which is wrong.
 

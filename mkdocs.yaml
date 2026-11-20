@@ -26,7 +26,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/0nRe5TNbTYoUruA4
+      link: https://discord.com/invite/SQf8cW8
     - icon: fontawesome/brands/github
       link: https://github.com/psforever
 extra_javascript:
