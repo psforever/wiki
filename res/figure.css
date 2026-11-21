@@ -1,0 +1,7 @@
+.md-typeset figure {
+  float: right;
+	margin: 0 0 1rem 1rem !important;
+  clear: both;
+  width: 250px;
+  object-fit: scale-down;
+}
