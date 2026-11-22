@@ -1,0 +1,169 @@
+{#-
+  Landing page. Used by wiki/index.md (template: home.html).
+
+  Content rules (see CONTRIBUTING.md, "Landing page and IP"):
+  - Prefer screenshots captured on PSForever. The current hero images are
+    in-game screenshots inherited from the old wiki; replace them over time.
+    No official PlanetSide logos, faction emblems, box art, or marketing renders.
+  - Describe the game by name ("the original PlanetSide") but never style the
+    name as a logo or imply the project is official or endorsed.
+  - Do not link to copies of the game client from this page.
+-#}
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+  <div class="psf-landing">
+
+    <header class="psf-hero">
+      {#- Background images rotate; configure them in zensical.toml ([[project.extra.hero_images]]).
+          Optional per image: position (CSS background-position on wider screens),
+          focus (horizontal point to center on phones, such as "60%"), align = "right"
+          (art on the right, fading out behind the text), mobile_align = "corner" (on
+          phones, the image's center in the upper-right corner), flip = true (mirror on wider
+          screens so a subject on the left shows beside the text), vivid = true
+          (no dimming). -#}
+      {%- set heroes = config.extra.hero_images or [] %}
+      {%- for hero in heroes %}
+        {%- set mods = (" psf-hero__bg--right" if hero.align == "right" else "") ~ (" psf-hero__bg--mobile-corner" if hero.mobile_align == "corner" else "") ~ (" psf-hero__bg--vivid" if hero.vivid else "") ~ (" psf-hero__bg--flip" if hero.flip else "") %}
+        {%- set place = "background-position: " ~ (hero.position or "center") ~ "; --psf-focus-x: " ~ (hero.focus or "50%") %}
+        {%- if loop.first %}
+      <div class="psf-hero__bg{{ mods }} is-active" style="background-image: url('{{ hero.src | url }}'); {{ place }}" aria-hidden="true"></div>
+        {%- else %}
+      <div class="psf-hero__bg{{ mods }}" data-psf-bg="{{ hero.src | url }}" style="{{ place }}" aria-hidden="true"></div>
+        {%- endif %}
+      {%- endfor %}
+      {%- if heroes %}
+      <div class="psf-hero__shade" aria-hidden="true"></div>
+      {%- else %}
+      <img class="psf-hero__mark" src="{{ 'res/logo.png' | url }}" alt="" aria-hidden="true">
+      {%- endif %}
+      <div class="psf-hero__grid" aria-hidden="true"></div>
+      <div class="psf-wrap psf-hero__inner">
+        <p class="psf-label">// Fan-made server emulator</p>
+        <h1 class="psf-display">The war <span class="psf-gradient-text">never ended.</span></h1>
+        <p class="psf-lede">
+          PSForever is a free, open-source server emulator that lets you play
+          the original PlanetSide again. It's built and run by volunteers from
+          the community.
+        </p>
+        <div class="psf-cta-row">
+          <a class="psf-btn psf-btn--primary" href="{{ 'PSForever/Connection_Guide/' | url }}">Play the game</a>
+          <a class="psf-btn psf-btn--ghost" href="{{ config.extra.discord_url }}">
+            {% include ".icons/fontawesome/brands/discord.svg" %}
+            Join Discord
+          </a>
+        </div>
+        <div class="psf-chips">
+          <div class="psf-chip">
+            <span class="psf-label">Next weekly session</span>
+            <strong data-psf-session>Sundays, 12:00 PM Eastern</strong>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="psf-section" id="play">
+      <div class="psf-wrap">
+        <div class="psf-section__head">
+          <div class="psf-rule"></div>
+          <h2 class="psf-display">In the game in three steps</h2>
+          <p>Playing on PSForever is free. The setup guide walks through each step.</p>
+        </div>
+        <div class="psf-grid">
+          <div class="psf-card">
+            <span class="psf-step">01</span>
+            <h3 class="psf-display">Set up the game</h3>
+            <p>PSForever works with the original PlanetSide client. The setup guide explains what you need.</p>
+            <a class="psf-more" href="{{ 'PSForever/Connection_Guide/' | url }}">Setup guide &rarr;</a>
+          </div>
+          <div class="psf-card">
+            <span class="psf-step">02</span>
+            <h3 class="psf-display">Install the launcher</h3>
+            <p>The open-source PSForever launcher connects the game to our server. Point it at your game folder and launch.</p>
+            <a class="psf-more" href="https://github.com/psforever/GameLauncher/releases/latest">Get the launcher &rarr;</a>
+          </div>
+          <div class="psf-card">
+            <span class="psf-step">03</span>
+            <h3 class="psf-display">Create your soldier</h3>
+            <p>Make an account in game, choose the PSForever server, and create your character.</p>
+            <a class="psf-more" href="{{ 'PSForever/Connection_Guide/' | url }}">Full walkthrough &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="psf-section psf-section--tight" id="empires">
+      <div class="psf-wrap">
+        <div class="psf-section__head">
+          <div class="psf-rule"></div>
+          <h2 class="psf-display">Choose your empire</h2>
+          <p>Three empires fight over the same continents. Your empire decides your weapons, vehicles, and allies.</p>
+        </div>
+        <div class="psf-grid">
+          <div class="psf-card psf-empire psf-empire--tr">
+            <span class="psf-tag">TR</span>
+            <h3 class="psf-display">Terran Republic</h3>
+            <p>Order and discipline, with weapons built for a high rate of fire.</p>
+            <a class="psf-more" href="{{ 'factions/Terran_Republic/' | url }}">Read about the TR &rarr;</a>
+          </div>
+          <div class="psf-card psf-empire psf-empire--nc">
+            <span class="psf-tag">NC</span>
+            <h3 class="psf-display">New Conglomerate</h3>
+            <p>Freedom fighters whose weapons trade speed for raw stopping power.</p>
+            <a class="psf-more" href="{{ 'factions/New_Conglomerate/' | url }}">Read about the NC &rarr;</a>
+          </div>
+          <div class="psf-card psf-empire psf-empire--vs">
+            <span class="psf-tag">VS</span>
+            <h3 class="psf-display">Vanu Sovereignty</h3>
+            <p>Believers in alien technology, with energy weapons and hover vehicles.</p>
+            <a class="psf-more" href="{{ 'factions/Vanu_Sovereignty/' | url }}">Read about the VS &rarr;</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="psf-section psf-band" id="community">
+      <div class="psf-wrap psf-band__inner">
+        <div class="psf-section__head">
+          <div class="psf-rule"></div>
+          <h2 class="psf-display">Play with us every Sunday</h2>
+          <p>The community meets each week for large battles. Discord is where squads form, events are announced, and new players get help.</p>
+          <div class="psf-cta-row">
+            <a class="psf-btn psf-btn--discord" href="{{ config.extra.discord_url }}">
+              {% include ".icons/fontawesome/brands/discord.svg" %}
+              Join the Discord
+            </a>
+          </div>
+        </div>
+        <div class="psf-links">
+          <a class="psf-link" href="{{ 'wiki/' | url }}">
+            <span><span class="psf-link__title">Read the wiki</span><span class="psf-link__desc">Weapons, vehicles, certifications, and maps</span></span>
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="psf-link" href="https://github.com/psforever">
+            <span><span class="psf-link__title">Contribute on GitHub</span><span class="psf-link__desc">The server and tools are open source</span></span>
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="psf-link" href="https://play.psforever.net/">
+            <span><span class="psf-link__title">Manage your account</span><span class="psf-link__desc">Characters and stats on play.psforever.net</span></span>
+            <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </div>
+{% endblock %}
+
+{#- No sidebar on the landing page, except as the menu drawer on smaller screens. -#}
+{% block site_nav %}
+  <div class="md-sidebar md-sidebar--primary psf-sidebar--drawer-only" data-md-component="sidebar" data-md-type="navigation">
+    <div class="md-sidebar__scrollwrap">
+      <div class="md-sidebar__inner">
+        {% include "partials/nav.html" %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
+{% block container %}{% endblock %}

@@ -11,7 +11,7 @@ play, and new Reserves accounts could still be created, but on March 27, the
 program was ended.
 
 In conjunction with the launch of the PlanetSide Reserves, all paying accounts
-received access to [AfterShock](../AfterShock.md) content.
+received access to [AfterShock](AfterShock.md) content.
 
 [Planetside Reserves information page](http://planetside.station.sony.com/reserves/)
 

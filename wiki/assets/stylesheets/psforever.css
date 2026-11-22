@@ -1,0 +1,435 @@
+/* PSForever theme: site-wide tokens for Material, plus the landing page. */
+
+:root {
+  --psf-night: #0a0d14;
+  --psf-surface: #111723;
+  --psf-surface-2: #182131;
+  --psf-line: #263247;
+  --psf-text: #e8ecf3;
+  --psf-muted: #9aa6b8;
+  --psf-tr: #d7263d;
+  --psf-nc: #2b6fe0;
+  --psf-nc-alt: #e8b730;
+  --psf-vs: #8e44ec;
+  --psf-vs-alt: #2ec4b6;
+  --psf-discord: #5865f2;
+  --psf-signature: linear-gradient(90deg, #2a4fe0 0%, #8a2fe0 50%, #d81f33 100%);
+  --psf-cut: 10px;
+  --psf-font-display: "Chakra Petch", system-ui, sans-serif;
+  --psf-font-label: "JetBrains Mono", ui-monospace, monospace;
+
+  --md-text-font: "Inter";
+}
+
+/* The site uses a single dark (slate) scheme; see zensical.toml. */
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: var(--psf-surface);
+  --md-primary-fg-color--light: var(--psf-surface-2);
+  --md-primary-fg-color--dark: var(--psf-night);
+  --md-primary-bg-color: var(--psf-text);
+  --md-primary-bg-color--light: rgba(232, 236, 243, 0.7);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 220;
+  --md-default-bg-color: var(--psf-night);
+  --md-code-bg-color: var(--psf-surface);
+  --md-footer-bg-color: var(--psf-surface);
+  --md-footer-bg-color--dark: var(--psf-night);
+}
+
+[data-md-color-scheme="slate"][data-md-color-accent="custom"] {
+  --md-accent-fg-color: #b27dff;
+  --md-accent-fg-color--transparent: rgba(178, 125, 255, 0.1);
+  --md-typeset-a-color: #8fb0ff;
+}
+
+.md-header__title,
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: var(--psf-font-display);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+/* Header title: the site name with the page title beside it, always, instead
+   of Zensical's swap to the page title once the heading scrolls out of view. */
+.md-header .md-header__title {
+  /* Take only the space left over, so a long article name truncates instead
+     of pushing the Home, Wiki, and Portal links along. */
+  flex: 1 1 0;
+  min-width: 0;
+}
+.md-header .md-header__title > .md-header__ellipsis {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.md-header .md-header__title .md-header__topic,
+.md-header .md-header__title .md-header__topic + .md-header__topic {
+  position: static;
+  z-index: auto;
+  pointer-events: auto;
+  opacity: 1;
+  transform: none;
+  transition: none;
+}
+.md-header .md-header__title .md-header__topic:first-child { flex: none; }
+.md-header .md-header__title .md-header__topic + .md-header__topic {
+  min-width: 0;
+  padding-left: 0.6rem;
+  border-left: 1px solid var(--psf-line);
+  font-family: var(--md-text-font-family);
+  font-size: 0.6rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--md-primary-bg-color--light);
+}
+.md-header .md-header__title .md-header__topic + .md-header__topic:has(> .md-ellipsis:empty) { display: none; }
+
+/* GitHub button: fixed at the width its icon, label, and star and fork counts
+   need with up to three digits each (the theme reserves 11.7rem). The theme
+   caps the label at the button's width minus 1.2rem, so a narrower button
+   squeezes the star count down to its icon. Fixed rather than automatic, so
+   nothing shifts when the counts load. */
+@media screen and (min-width: 60em) {
+  [dir] .md-header .md-header__source {
+    width: 7.2rem;
+    max-width: 7.2rem;
+    margin-left: 0.6rem;
+    margin-right: 0;
+  }
+}
+
+/* Home, Wiki, and Portal links in the header (overrides/partials/header.html)
+   on tablets and desktops, and at the top of the menu drawer on phones
+   (overrides/partials/psf-drawer-links.html). */
+.psf-header-links {
+  display: flex;
+  align-self: stretch;
+  gap: 0.2rem;
+  flex: none;
+  margin: 0 0.6rem;
+}
+.psf-header-link {
+  display: flex;
+  align-items: center;
+  padding: 0 0.7rem;
+  font: 600 0.75rem/1 var(--psf-font-display);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--md-primary-bg-color--light);
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s ease;
+}
+.psf-header-link:hover,
+.psf-header-link:focus-visible { color: var(--md-primary-bg-color); }
+.psf-header-link.is-active {
+  color: var(--md-primary-bg-color);
+  border-image: var(--psf-signature) 1;
+}
+.psf-header-link__icon { display: inline-flex; margin-left: 0.25rem; }
+.psf-header-link__icon svg { width: 0.7rem; height: 0.7rem; fill: currentColor; }
+
+.psf-drawer-links { display: none; }
+@media screen and (max-width: 44.9375em) {
+  /* Phones: the header keeps the menu, site name, and search; the section
+     links move to the top of the menu drawer. */
+  .psf-header-links { display: none; }
+  .psf-drawer-links {
+    display: block;
+    padding: 0.4rem 0;
+    background: var(--md-primary-fg-color);
+    border-bottom: 2px solid transparent;
+    border-image: var(--psf-signature) 1;
+  }
+  .psf-drawer-link {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 0.8rem;
+    font: 600 0.8rem/1 var(--psf-font-display);
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--md-primary-bg-color--light);
+    border-left: 3px solid transparent;
+  }
+  .psf-drawer-link:hover,
+  .psf-drawer-link:focus-visible { color: var(--md-primary-bg-color); }
+  .psf-drawer-link.is-active {
+    color: var(--md-primary-bg-color);
+    border-image: linear-gradient(180deg, #2a4fe0, #8a2fe0, #d81f33) 1;
+  }
+  /* Stack the links above the navigation, so its sliding category panels
+     open below them instead of covering them. */
+  .md-sidebar--primary .md-sidebar__inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .psf-drawer-links { flex: none; }
+  .psf-drawer-links ~ .md-nav--primary {
+    position: relative;
+    flex: 1 1 auto;
+    min-height: 0;
+    height: auto;
+  }
+}
+
+/* Desktop sidebars: Zensical (0.1.x) doesn't size them on a full page load,
+   so a long section such as Facilities spilled over the footer on short pages.
+   Bound them here: each sidebar is at most one screen tall and scrolls inside
+   itself, and the main area is at least that tall, so the footer always sits
+   below. A height Zensical sets later (after instant navigation) still wins. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar { height: calc(100vh - 2.4rem); }
+  .md-sidebar__scrollwrap { max-height: 100%; }
+  .md-main__inner { min-height: calc(100vh - 2.4rem); }
+}
+
+/* ---------- Landing page ---------- */
+
+/* The landing page has no content column; its sidebar exists only as the
+   menu drawer, so hide it where the sidebar would otherwise be a column. */
+.psf-landing ~ .md-main { flex-grow: 0; }
+.psf-landing ~ .md-main .md-main__inner { margin-top: 0; min-height: 0; }
+@media screen and (min-width: 76.25em) {
+  .psf-sidebar--drawer-only { display: none; }
+}
+
+.psf-landing {
+  background: var(--psf-night);
+  color: var(--psf-text);
+  font-size: 0.85rem;
+  line-height: 1.65;
+}
+
+.psf-landing a { color: inherit; }
+.psf-wrap { max-width: 61rem; margin: 0 auto; padding: 0 1.2rem; }
+
+.psf-display {
+  font-family: var(--psf-font-display);
+  font-weight: 600;
+  line-height: 1.1;
+  letter-spacing: 0.01em;
+  margin: 0;
+  color: var(--psf-text);
+}
+
+.psf-label {
+  font: 500 0.6rem/1 var(--psf-font-label);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--psf-muted);
+  margin: 0;
+}
+
+.psf-gradient-text {
+  background: var(--psf-signature);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.psf-btn,
+.psf-chip,
+.psf-card {
+  clip-path: polygon(var(--psf-cut) 0, 100% 0, 100% calc(100% - var(--psf-cut)), calc(100% - var(--psf-cut)) 100%, 0 100%, 0 var(--psf-cut));
+}
+
+.psf-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.3rem;
+  font: 600 0.8rem/1 var(--psf-font-display);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: transform 0.15s ease, filter 0.15s ease;
+}
+.psf-btn:hover { transform: translateY(-1px); filter: brightness(1.08); }
+.psf-btn:focus-visible { outline: 2px solid #fff; outline-offset: 3px; }
+.psf-btn svg { width: 1rem; height: 1rem; fill: currentColor; }
+.psf-landing .psf-btn--primary { background: var(--psf-signature); color: #fff; }
+.psf-landing .psf-btn--discord { background: var(--psf-discord); color: #fff; }
+.psf-landing .psf-btn--ghost { background: rgba(10, 13, 20, 0.6); color: var(--psf-text); box-shadow: inset 0 0 0 1px var(--psf-line); }
+
+.psf-cta-row { display: flex; flex-wrap: wrap; gap: 0.7rem; }
+
+/* Hero */
+.psf-hero {
+  position: relative;
+  overflow: hidden;
+  border-bottom: 1px solid var(--psf-line);
+}
+.psf-hero__bg {
+  position: absolute;
+  inset: 0;
+  background-position: center;
+  background-size: cover;
+  filter: grayscale(0.3) brightness(0.68);
+  opacity: 0;
+  transition: opacity 1.6s ease;
+}
+.psf-hero__bg.is-active { opacity: 1; }
+/* Brand art: keep its colors. */
+.psf-hero__bg--vivid { filter: none; }
+/* Art on the right, fading into the background behind the text. */
+@media screen and (min-width: 45em) {
+  .psf-hero__bg--right {
+    left: 38%;
+    -webkit-mask-image: linear-gradient(90deg, transparent, #000 40%);
+    mask-image: linear-gradient(90deg, transparent, #000 40%);
+  }
+}
+/* Mirror on tablets and desktops, so a subject on the left of the picture
+   shows beside the text instead of under it. */
+@media screen and (min-width: 45em) {
+  .psf-hero__bg--flip { transform: scaleX(-1); }
+}
+/* Phones: the image fills the hero behind the text, centered vertically and
+   horizontally on its focus (focus in zensical.toml), with an even shade so
+   the text stays readable. */
+@media screen and (max-width: 44.9375em) {
+  .psf-hero__bg,
+  .psf-hero__bg--right {
+    left: 0;
+    background-position: var(--psf-focus-x, 50%) 50% !important;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+  .psf-hero .psf-hero__shade { background: rgba(10, 13, 20, 0.55); }
+}
+/* mobile_align = "corner": on phones, the image's center (the splash's logo)
+   sits in the hero's upper-right corner, with the edges fading into the
+   background. It's drawn above the shade, so its colors stay bright, and
+   below the text. Wider screens use the image's normal placement. */
+@media screen and (max-width: 44.9375em) {
+  .psf-hero .psf-hero__bg--mobile-corner {
+    inset: -16.5% -25% 70.5% 35%;
+    z-index: 1;
+    background-position: center !important;
+    -webkit-mask-image: radial-gradient(closest-side, #000 55%, transparent);
+    mask-image: radial-gradient(closest-side, #000 55%, transparent);
+  }
+  .psf-hero .psf-hero__inner { z-index: 2; }
+}
+@media screen and (max-width: 22.4375em) {
+  /* The hero is taller on the narrowest phones, which enlarges the art. */
+  .psf-hero .psf-hero__bg--mobile-corner { inset: -15% -16% 74% 32%; }
+}
+.psf-hero__shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, var(--psf-night) 18%, rgba(10, 13, 20, 0.72) 55%, rgba(10, 13, 20, 0.35));
+}
+.psf-hero__grid {
+  position: absolute;
+  inset: 0;
+  background-image: linear-gradient(var(--psf-line) 1px, transparent 1px), linear-gradient(90deg, var(--psf-line) 1px, transparent 1px);
+  background-size: 48px 48px;
+  opacity: 0.22;
+  -webkit-mask-image: linear-gradient(90deg, #000 30%, transparent 75%);
+  mask-image: linear-gradient(90deg, #000 30%, transparent 75%);
+}
+.psf-hero__mark {
+  position: absolute;
+  right: -4rem;
+  top: 50%;
+  width: 26rem;
+  transform: translateY(-50%);
+  opacity: 0.12;
+}
+.psf-hero__inner { position: relative; padding-top: 5.5rem; padding-bottom: 4.5rem; }
+.psf-hero h1 { font-size: clamp(2.4rem, 6.4vw, 4rem); font-weight: 700; margin-top: 0.6rem; }
+.psf-lede { max-width: 30rem; font-size: 1rem; color: #c9d1de; margin: 1.1rem 0 1.8rem; }
+.psf-hero__credit {
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.6rem;
+  font-size: 0.55rem;
+  color: var(--psf-muted);
+}
+
+.psf-chips { display: flex; flex-wrap: wrap; gap: 0.6rem; margin-top: 2.8rem; }
+.psf-chip {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.7rem 0.9rem;
+  background: rgba(17, 23, 35, 0.85);
+  border: 1px solid var(--psf-line);
+}
+.psf-chip strong { font: 600 0.8rem/1.2 var(--psf-font-display); letter-spacing: 0.03em; }
+
+/* Sections */
+.psf-section { padding: 4.8rem 0; }
+.psf-section--tight { padding-top: 0; }
+.psf-section__head { display: flex; flex-direction: column; gap: 0.7rem; margin-bottom: 2.2rem; max-width: 32rem; }
+.psf-section__head h2 { font-size: clamp(1.5rem, 3.4vw, 2.1rem); }
+.psf-section__head p { margin: 0; color: var(--psf-muted); }
+.psf-rule { height: 2px; width: 3.2rem; background: var(--psf-signature); }
+
+.psf-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+.psf-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  padding: 1.5rem 1.4rem;
+  background: var(--psf-surface);
+  border: 1px solid var(--psf-line);
+}
+.psf-card h3 { font-size: 1.1rem; }
+.psf-card p { margin: 0; color: var(--psf-muted); font-size: 0.8rem; }
+.psf-more {
+  margin-top: auto;
+  font: 600 0.7rem/1 var(--psf-font-display);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.psf-more:hover { text-decoration: underline; text-underline-offset: 4px; }
+.psf-step { font: 700 2.2rem/1 var(--psf-font-display); color: transparent; -webkit-text-stroke: 1px #4a5a75; }
+
+.psf-empire { position: relative; padding-top: 1.7rem; }
+.psf-empire::before { content: ""; position: absolute; inset: 0 0 auto; height: 4px; background: var(--psf-empire); }
+.psf-empire--tr { --psf-empire: var(--psf-tr); }
+.psf-empire--nc { --psf-empire: var(--psf-nc); }
+.psf-empire--vs { --psf-empire: var(--psf-vs); }
+.psf-tag {
+  align-self: flex-start;
+  padding: 0.35rem 0.5rem;
+  font: 500 0.6rem/1 var(--psf-font-label);
+  letter-spacing: 0.14em;
+  color: color-mix(in srgb, var(--psf-empire) 55%, white);
+  background: color-mix(in srgb, var(--psf-empire) 18%, transparent);
+  border: 1px solid color-mix(in srgb, var(--psf-empire) 45%, transparent);
+}
+
+.psf-band { background: var(--psf-surface); border-top: 1px solid var(--psf-line); border-bottom: 1px solid var(--psf-line); }
+.psf-band__inner { display: grid; grid-template-columns: 1.2fr 1fr; gap: 2.4rem; align-items: center; }
+.psf-band .psf-section__head { margin: 0; }
+.psf-links { display: grid; gap: 0.6rem; }
+.psf-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  padding: 0.9rem 1rem;
+  background: var(--psf-surface-2);
+  border: 1px solid var(--psf-line);
+  text-decoration: none;
+}
+.psf-link:hover { border-color: #3a4a66; }
+.psf-link__title { display: block; font: 600 0.85rem/1.2 var(--psf-font-display); letter-spacing: 0.03em; }
+.psf-link__desc { display: block; margin-top: 0.2rem; font-size: 0.7rem; color: var(--psf-muted); }
+
+@media screen and (max-width: 44.9375em) {
+  .psf-band__inner { grid-template-columns: 1fr; }
+  .psf-hero__mark { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .psf-btn, .psf-hero__bg { transition: none; }
+}

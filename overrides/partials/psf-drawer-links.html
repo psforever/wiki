@@ -1,0 +1,23 @@
+{#-
+  Home, Wiki, and Portal at the top of the menu drawer. Shown only on phones,
+  where the header has no room for them; the links come from
+  extra.header_links in zensical.toml, like the header's.
+-#}
+{% if config.extra.header_links %}
+  <nav class="psf-drawer-links" aria-label="Site sections">
+    {% for link in config.extra.header_links %}
+      {% if link.url[:4] == "http" %}
+        <a href="{{ link.url }}" class="psf-drawer-link">{{ link.title }}<span class="psf-header-link__icon" aria-hidden="true">{% include ".icons/material/open-in-new.svg" %}</span></a>
+      {% else %}
+        {% if link.url == "/" %}
+          {% set active = page.url in ["", "./", "index.html"] %}
+        {% elif link.everywhere_else %}
+          {% set active = page.url not in ["", "./", "index.html"] %}
+        {% else %}
+          {% set active = ("/" ~ page.url)[:link.url | length] == link.url %}
+        {% endif %}
+        <a href="{{ link.url }}" class="psf-drawer-link{% if active %} is-active{% endif %}" data-psf-section="{{ link.url }}"{% if link.everywhere_else %} data-psf-everywhere-else{% endif %}{% if active %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endif %}
+    {% endfor %}
+  </nav>
+{% endif %}

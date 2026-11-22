@@ -1,19 +1,50 @@
-name: Publish docs via GitHub Pages
+name: Build and publish
+
+# Pull requests get the same strict build as local `docker compose run --rm check`.
+# Pushes to main also publish the site to the gh-pages branch, which GitHub
+# Pages serves at www.psforever.net.
 on:
   push:
     branches:
       - main
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   build:
-    name: Deploy docs
+    name: Build site
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # push to gh-pages on main
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v2
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CONFIG_FILE: mkdocs.yaml
-          EXTRA_PACKAGES: build-base
-          REQUIREMENTS: requirements.txt
+      - name: Check out
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Install Zensical
+        run: pip install --disable-pip-version-check -r requirements.txt
+
+      - name: Build (strict)
+        run: zensical build --clean --strict
+
+      - name: Write redirects for renamed pages
+        run: python scripts/redirects.py
+
+      - name: Publish to gh-pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        run: |
+          pip install --disable-pip-version-check ghp-import==2.1.0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          ghp-import --no-jekyll --no-history --force --push \
+            --message "Publish ${GITHUB_SHA::7}" site
