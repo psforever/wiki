@@ -1,0 +1,9 @@
+# Only what the image stages copy. The preview stage includes the site itself.
+*
+!requirements.txt
+!src/
+!zensical.toml
+!overrides/
+!wiki/
+src/**/build
+src/**/*.egg-info
