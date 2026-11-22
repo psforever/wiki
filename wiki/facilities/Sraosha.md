@@ -1,6 +1,6 @@
 # Sraosha
 
-**Sraosha** is [Ascension](../locations/Oshur.md#Ascension)'s only
+**Sraosha** is [Ascension](../locations/Oshur.md)'s only
 [Amp Station](../locations/Amp_Station.md). Sroasha is located in grids M9, M10,
 N9 and N10, and is in the East of Ascension.
 

@@ -206,25 +206,25 @@ Capturable Facilities, not including [Towers](Towers.md): 117
 
 10 Bases
 
-##### [Ascension](Oshur.md#Ascension)
+##### [Ascension](Oshur.md)
 
 - [Rashnu](../facilities/Rashnu.md)
 - [Sraosha](../facilities/Sraosha.md)
 - [Zal](../facilities/Zal.md)
 
-##### [Desolation](Oshur.md#Desolation)
+##### [Desolation](Oshur.md)
 
 - [Dahaka](../facilities/Dahaka.md)
 - [Izha](../facilities/Izha.md)
 - [Jamshid](../facilities/Jamshid.md)
 
-##### [Extinction](Oshur.md#Extinction)
+##### [Extinction](Oshur.md)
 
 - [Hvar](../facilities/Hvar.md)
 - [Mithra](../facilities/Mithra.md)
 - [Yazata](../facilities/Yazata.md)
 
-##### [Nexus](Oshur.md#Nexus)
+##### [Nexus](Oshur.md)
 
 - [Atar](../facilities/Atar.md)
 

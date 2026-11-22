@@ -95,7 +95,7 @@
 </table>
 
 The third stage of the
-"[Empire Defense series](Defense_Merit_Commendations.md#Empire_Defense_Merits)"
+"[Empire Defense series](Defense_Merit_Commendations.md#empire-defense-merits)"
 merits.
 
 This Merit is awarded for killing Enemies while using any means necessary.

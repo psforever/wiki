@@ -22,7 +22,7 @@ not necessarily the fastest.
 
 If you need to take somebody down quickly, your best bet is to fire a number of
 more rapid shots. You'll improve your
-[TTK](../../terminology/Acronyms_and_Slang.md#TTK) at the expense of some ammo. A
+[TTK](../../terminology/Acronyms_and_Slang.md#ttk) at the expense of some ammo. A
 good way to get a feel for this is to use the
 [Enhanced Targeting](../../implants/Enhanced_Targeting.md) implant.
 

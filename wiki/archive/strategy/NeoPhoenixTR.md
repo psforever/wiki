@@ -900,7 +900,7 @@ Description here
   - [Against NC Frames](#PeregrineTakedownAim)
   - [Against VS Frames](#AphelionTakedownAim)
 - Deci-Swap Loadouts
-  - [Actual](#The_Poor_Man.27s_Loadout)
+  - [Actual](#the-poor-mans-loadout)
   - [Practice](#RexoPracticeLoadout)
 - Takedown placement
   - [Against TR Frames](#ColossusTakedownPlacement)

@@ -1,7 +1,7 @@
 # Rashnu
 
 Rashnu is the only [Bio Laboratory](../locations/Bio_Laboratory.md) on
-[Ascension](../locations/Oshur.md#Ascension) and is located in the South. It is
+[Ascension](../locations/Oshur.md) and is located in the South. It is
 in grid I12.
 
 Rashnu is a [Hack-and-Hold](../terminology/Hack-and-Hold.md)

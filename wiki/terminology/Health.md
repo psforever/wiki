@@ -1,7 +1,7 @@
 # Health
 
 **Health**, is a measure of a soldier's physical condition. Health is shown as a
-red guage in the [Bio pane](Heads-up_Display.md#Bio_Pane). If you have no
+red guage in the [Bio pane](Heads-up_Display.md#bio-pane). If you have no
 armor, all damage taken will come from your health, but with armor only a
 fraction of the damage will come from your health. [Pain Fields](Pain_Field.md),
 the [Radiator](../weapons/Radiator.md), and the

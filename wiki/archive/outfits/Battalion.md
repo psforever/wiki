@@ -5,7 +5,7 @@
 Battalion is an epic [New Conglomerate](../../factions/New_Conglomerate.md)
 [outfit](../../terminology/Outfit.md), on the [Emerald](../servers/Emerald.md) server,
 which boasts countless victories through systematic raids on bases of enemy
-empires. Battalion was founded by [Pedromdrp](user:Pedromdrp.md) in 2003.
+empires. Battalion was founded by Pedromdrp in 2003.
 
 Over time, members of Battalion have migrated to fulfil other ambitions, mostly
 involving the Real World.

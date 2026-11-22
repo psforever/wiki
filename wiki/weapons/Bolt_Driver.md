@@ -36,7 +36,7 @@ It is little more than a nuisance to
 [MAX's](../armor/Mechanized_Assault_Exo-Suit.md), causing 50 points of damage to
 their armor (or health when the [MAX](../armor/Mechanized_Assault_Exo-Suit.md)'s
 armor has been drained), and likely not even noticed by
-[vehicles](category:_Vehicles.md) and [Phalanx](../items/Phalanx.md) turrets
+[vehicles](../vehicles/index.md) and [Phalanx](../items/Phalanx.md) turrets
 (unless extremely damaged). The large caliber bolt can, however, pass through
 [BattleFrame Robotics](../vehicles/BattleFrame_Robotics.md)' shields and can do
 significant damage to internal systems. The Bolt Driver's shot will damage

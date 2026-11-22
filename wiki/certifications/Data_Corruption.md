@@ -22,7 +22,7 @@ following abilities:
 - Infect [Wall Turrets](../items/Phalanx.md) and Spitfires so they will attack
   their own empire
 - Infect
-  [Motion Sensors](../weapons/Adaptive_Construction_Engine.md#Motion_Sensor) so
+  [Motion Sensors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm) so
   they will display friendly units as enemies on radar
 - Infect an enemy [Aegis Shield Generator](../weapons/Aegis_Shield_Generator.md)
   to emit a [Pain Field](../terminology/Pain_Field.md) that damages friendly

@@ -1,14 +1,14 @@
 # Atar
 
 Atar is a [Dropship Center](../locations/Dropship_Center.md) and the only
-Facility on [Nexus](../locations/Oshur.md#Nexus). It is in the center of Nexus,
+Facility on [Nexus](../locations/Oshur.md). It is in the center of Nexus,
 in grids J10 and J11.
 
 It has [Lattice](../terminology/Lattice.md) links to:
 
 - An always-inactive [Geowarp](../locations/Geowarp.md)
-- [Ascension](../locations/Oshur.md#Acsension)
-- [Extinction](../locations/Oshur.md#Extinction)
+- [Ascension](../locations/Oshur.md)
+- [Extinction](../locations/Oshur.md)
 
 It has 3 Towers that are close to the base, of which the Gun Tower to the South
 the closest is.

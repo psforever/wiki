@@ -25,7 +25,7 @@ Cery
 
 Cys, [CyssorSide](#cyssorside)
 
-###### [Desolation](../locations/Oshur.md#Desolation)
+###### [Desolation](../locations/Oshur.md)
 
 Deso
 
