@@ -38,7 +38,7 @@
 
 For consistent and demonstrated dedication to
 [PlanetSide](../PlanetSide.md), it's community, and it's Developers, the
-[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_"Devil_Dogs".md)
+[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_Devil_Dogs.md)
 Outfit of the [New Conglomerate](../factions/New_Conglomerate.md) on
 [Markov](../archive/servers/Markov.md) were awarded a special
 [Merit Commendation](index.md) from
