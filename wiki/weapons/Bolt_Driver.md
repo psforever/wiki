@@ -2,6 +2,7 @@
 
 ![ [Rexo](../armor/Reinforced_Exo-Suit.md) wields a
 Bolt Driver in [Byblos](../locations/Byblos.md)](../images/Bolt_driver.jpg){ class="figure" }
+![New Conglomerate soldier wielding a Bolt Driver](../images/NC_soldier_Bolt_Driver.jpg){ class="figure" }
 
 |                            |                                              |
 | -------------------------- | -------------------------------------------- |

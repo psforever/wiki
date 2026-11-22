@@ -1,5 +1,7 @@
 # Anu
 
+![Anu](../images/Tech-Anu.jpg){ class="figure" }
+
 Anu is a [Technology Plant](../locations/Technology_Plant.md) on the southwest
 coast of [Forseral](../locations/Forseral.md) in I-14, with one nearby
 [Air tower](../locations/Air_tower.md) just inside the

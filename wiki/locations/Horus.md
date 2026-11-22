@@ -1,5 +1,8 @@
 # Horus
 
+![Horus](../images/Horus.jpg){ class="figure" }
+![Horus from above](../images/Horus-OverheadMap.jpg){ class="figure" }
+
 Horus is a [Bio Laboratory](Bio_Laboratory.md) on southern [Solsar](Solsar.md).
 Nearby are a [Gun tower](Gun_tower.md), 116m to the north-east, and
 [Technology Plant](../locations/Technology_Plant.md)

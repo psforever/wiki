@@ -1,5 +1,8 @@
 # Backpack
 
+![TR backpack](../images/TRBackpack.jpg){ class="figure" }
+![Command Rank 5 backpack](../images/CR5_vs_backpack.jpg){ class="figure" }
+
 The term **backpack** can refer to several things:
 
 ![ CR5's
