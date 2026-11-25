@@ -5,16 +5,16 @@
 Recall to Sanctuary : Returns you to your Empire's
 [Sanctuary](../locations/Sanctuary.md) after a set time: Friendly area, 10s,
 Neutral area, 20s, Enemy area, 30s. Game Options : Opens the
-[Game Options Window](#Game_Options), allowing you to adjust your Gameplay
+[Game Options Window](#game-options), allowing you to adjust your Gameplay
 defaults such as session stats, [HUD](Heads-up_Display.md) preferences, and
 [proximity radar](Proximity_Map.md) settings. Color Options :
-Opens the [Color Options Window](#Color_Options), allowing you to change colors
+Opens the [Color Options Window](#color-options), allowing you to change colors
 for chat channels and name tags. Video Options : Opens the
-[Video Options Window](#Video_Options), allowing you to adjust your Video
+[Video Options Window](#video-options), allowing you to adjust your Video
 settings. These changes will be reflected the next time you start PlanetSide.
-Audio Options : Opens the [Audio Options Window](#Audio_Options), allowing you
+Audio Options : Opens the [Audio Options Window](#audio-options), allowing you
 to adjust your Audio settings. Key Mappings : Opens the
-[Keymappings Window](#Keymappings), allowing you to change your control scheme
+[Keymappings Window](#keymappings), allowing you to change your control scheme
 [Instant Action](Instant_Action.md) : When selecting this item,
 your character will be deployed to a location near a
 [Hotspot](Hotspot.md).

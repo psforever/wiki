@@ -25,6 +25,12 @@ certifications. There are very valid workarounds, although they typically
 Fortunately, most of the combat in PlanetSide with current populations revolve
 around battling near Equipment Terminals.
 
+![An inventory loadout](../../images/Beginner's_Guide_to_PlanetSide_in_2016_IMAGE_01.png){ class="figure" }
+![An inventory loadout](../../images/Beginner's_Guide_to_PlanetSide_in_2016_IMAGE_02.png){ class="figure" }
+![An inventory loadout](../../images/Beginner's_Guide_to_PlanetSide_in_2016_IMAGE_03.png){ class="figure" }
+![An inventory loadout](../../images/Beginner's_Guide_to_PlanetSide_in_2016_IMAGE_04.png){ class="figure" }
+![An inventory loadout](../../images/Beginner's_Guide_to_PlanetSide_in_2016_IMAGE_05.png){ class="figure" }
+
 To repair your armor without Engineering (regular armor, not MAX or Infiltration
 Suit): Go to an Equipment Terminal Choose a loadout of a different armor type
 you are currently wearing Choose the loadout of the armor type you were wearing

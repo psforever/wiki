@@ -1,6 +1,6 @@
 # Zal
 
-Zal is [Ascension](../locations/Oshur.md#Ascension)'s only
+Zal is [Ascension](../locations/Oshur.md)'s only
 [Interlink Facility](../locations/Interlink.md) and is located to the North in
 grids I7, J7, I8 and J8.
 

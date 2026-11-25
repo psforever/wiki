@@ -1,0 +1,44 @@
+{#-
+  Nav override: Zensical's partials/nav.html with the site section links
+  (partials/psf-drawer-links.html) added above it. They sit outside the
+  <nav> so the sliding category panels in the phone drawer can't cover them.
+  The wiki front page (wiki/wiki.md, served at /wiki/) is listed right after
+  Home instead of in alphabetical order with the other top-level pages.
+  When updating Zensical, compare with zensical_ui/templates/partials/nav.html.
+-#}
+{% include "partials/psf-drawer-links.html" %}
+{% import "partials/nav-item.html" as item with context %}
+{% set class = "md-nav md-nav--primary" %}
+{% if "navigation.tabs" in features %}
+  {% set class = class ~ " md-nav--lifted" %}
+{% endif %}
+{% if "toc.integrate" in features %}
+  {% set class = class ~ " md-nav--integrated" %}
+{% endif %}
+<nav class="{{ class }}" aria-label="{{ lang.t('nav') }}" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-nav__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    {{ config.site_name }}
+  </label>
+  {% if config.repo_url %}
+    <div class="md-nav__source">
+      {% include "partials/source.html" %}
+    </div>
+  {% endif %}
+  <ul class="md-nav__list" data-md-scrollfix>
+    {% set ns = namespace(items = [], front = []) %}
+    {% for nav_item in nav.items %}
+      {% if (nav_item.url or "") | trim("/") == "wiki" %}
+        {% set ns.front = [nav_item] %}
+      {% else %}
+        {% set ns.items = ns.items + [nav_item] %}
+      {% endif %}
+    {% endfor %}
+    {% for nav_item in ns.items[:1] + ns.front + ns.items[1:] %}
+      {% set path = "__nav_" ~ loop.index %}
+      {{ item.render(nav_item, path, 1) }}
+    {% endfor %}
+  </ul>
+</nav>

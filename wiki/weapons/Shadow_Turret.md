@@ -16,7 +16,7 @@
 **Shadow Turret**
 
 Shadow Turrets are exactly the same as
-[Spitfire Turrets](Adaptive_Construction_Engine.md#Spitfire_Turret) with the
+[Spitfire Turrets](Adaptive_Construction_Engine.md#spitfire-turret) with the
 exception that they are cloaked. Shadow Turrets will only become visible when
 firing, and will become cloaked again once they have killed their target, or the
 target finds cover.

@@ -1,0 +1,46 @@
+# Local preview and checks. See CONTRIBUTING.md.
+#   docker compose watch           -> live preview on http://localhost:8000
+#   docker compose run --rm check  -> strict build plus redirects, like CI
+#
+# The preview runs on a copy of the site inside the image, and
+# `docker compose watch` syncs your edits into it. (Zensical can't see edits
+# made through a bind mount on Windows or macOS, so it wouldn't live-reload.)
+services:
+  serve:
+    build:
+      context: .
+      target: preview
+    image: psforever-wiki-preview
+    ports:
+      - "8000:8000"
+    develop:
+      watch:
+        - action: sync
+          path: ./wiki
+          target: /work/wiki
+        - action: sync
+          path: ./overrides
+          target: /work/overrides
+        - action: sync+restart
+          path: ./zensical.toml
+          target: /work/zensical.toml
+        - action: rebuild
+          path: ./requirements.txt
+        - action: rebuild
+          path: ./src
+
+  check:
+    build:
+      context: .
+      target: base
+    image: psforever-wiki
+    profiles: ["check"]
+    volumes:
+      - .:/src:ro
+    # Build a copy so the checkout stays clean (Zensical writes site/ and .cache/).
+    command:
+      - sh
+      - -c
+      - >-
+        mkdir /tmp/w && cd /src && cp -r wiki overrides scripts zensical.toml /tmp/w &&
+        cd /tmp/w && zensical build --clean --strict && python scripts/redirects.py

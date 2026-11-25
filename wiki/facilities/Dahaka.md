@@ -2,7 +2,7 @@
 
 Dahaka is one of the three
 [Technology Plant](../locations/Technology_Plant.md)'s on
-[Desolation](../locations/Oshur.md#Desolation). Dahaka is in the East in grids
+[Desolation](../locations/Oshur.md). Dahaka is in the East in grids
 H9 and H10.
 
 Dahaka is a [LLU](../terminology/Lattice_Logic_Unit.md)

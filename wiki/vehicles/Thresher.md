@@ -20,7 +20,7 @@
 **Thresher**
 
 The **Thresher** and its capibility to hover makes it the fastest and most agile
-of all the empire specific [Assault buggies](category:_Vehicles.md#Buggies).
+of all the empire specific [Assault buggies](index.md).
 
 Designed for a two-person crew, a driver and a gunner position are oriented
 side-by-side.

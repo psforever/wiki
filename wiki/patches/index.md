@@ -41,7 +41,7 @@ at bottom.
 
 ### August
 
-- [LLU Patch](Unnumbered_Patches.md#llu-goes-live---august-14-2003) - LLU
+- [LLU Patch](Unnumbered_Patches.md#llu-goes-live-august-14-2003) - LLU
   capture system goes live! [Lasher](../weapons/Lasher.md) and
   [Starfire](../armor/Starfire.md) damage degredation tweaks,
   [Basilisk](../vehicles/Basilisk.md) and [Wraith](../vehicles/Wraith.md)
@@ -381,7 +381,7 @@ at bottom.
   [Anti-Vehicular](../certifications/Anti-Vehicular.md)
   [MAX](../armor/Mechanized_Assault_Exo-Suit.md) Units.
 
-[\*](category:Patches.md)
+[\*](index.md)
 
 ### May
 

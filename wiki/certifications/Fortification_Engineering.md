@@ -31,7 +31,7 @@ information.
 
 ## Shadow Turret
 
-This Turret is similar to the [Spitfire Turret](#Spitfire), with the only
+This Turret is similar to the [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#spitfire-turret), with the only
 difference being that it is invisible, and will only become visible when firing.
 For more information see [Shadow Turret](../weapons/Shadow_Turret.md).
 
@@ -97,11 +97,11 @@ additional numbers of [Combat Engineering](Combat_Engineering.md) Deployables.
 
 The Deployable numbers will be upgraded to:
 
-- [Spitfire Turret](#Spitfire) : From 10 to 15
-- [Boomer](#Boomer) : From 20 to 25
+- [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#spitfire-turret) : From 10 to 15
+- [Boomer](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer) : From 20 to 25
 - [Motion Sensor](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm)
   : From 20 to 25
-- [Heavy Explosive Mine](#HEMine) : From 20 to 25
+- [Heavy Explosive Mine](../weapons/Adaptive_Construction_Engine.md#high-explosive-mine) : From 20 to 25
 
 ## Increased Repair Efficiency
 

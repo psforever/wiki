@@ -35,7 +35,7 @@ increases the more BEP you collect.
 
 With each Battle Rank you gain one
 [certification point](../../certifications/Certification_points.md) to invest into
-your abilities like piloting certain [vehicles](category:_Vehicles.md) or using
+your abilities like piloting certain [vehicles](../../vehicles/index.md) or using
 particular weapons. Also with Battle Rank 6, 12 and 18 you can add
 [Implants](../../implants/index.md) to yourself that also provide new abilities.
 The highest BR to achieve is 23, but it will take a long time to get there (I

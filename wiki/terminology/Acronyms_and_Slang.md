@@ -25,7 +25,7 @@ Cery
 
 Cys, [CyssorSide](#cyssorside)
 
-###### [Desolation](../locations/Oshur.md#Desolation)
+###### [Desolation](../locations/Oshur.md)
 
 Deso
 
@@ -741,7 +741,7 @@ TKer.
 
 ###### poplock, pop lock
 
-[Population lock](Population_lock.md)
+[Population lock](<Population_Lock_(Capacity).md>)
 
 ###### Potato
 
@@ -1055,7 +1055,7 @@ the start of PlanetSide. _"Look at that foot zerg..it's like a sea of red.."
 
 ###### 666th
 
-[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_%22Devil_Dogs%22.md)
+[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_Devil_Dogs.md)
 [Outfit](Outfit.md) ([NC](../factions/New_Conglomerate.md))
 
 ###### 88s
@@ -1080,7 +1080,7 @@ Central Spike Outfit (VS)
 
 ###### DD's
 
-[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_%22Devil_Dogs%22.md)
+[666th Spec. Ops "Devil Dogs"](../archive/outfits/666th_Spec._Ops_Devil_Dogs.md)
 Outfit (NC)
 
 ###### DS

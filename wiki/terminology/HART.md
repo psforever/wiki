@@ -1,6 +1,6 @@
 # HART
 
-![](../images/Hart.jpg){ class="figure" }
+![](../images/HART_2.jpg){ class="figure" }
 
 ![](../images/HART-Icon.jpg){ class="figure" }
 

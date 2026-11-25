@@ -5,7 +5,7 @@
 ![](../images/Ground.jpg){ class="figure" }
 
 The [Vehicle Terminal](../locations/Vehicle_Terminal.md) is
-where you can spawn [vehicles](category:_Vehicles.md) for use. It is typically
+where you can spawn [vehicles](../vehicles/index.md) for use. It is typically
 located in the [courtyard](Courtyard.md) of a
 [facility](../locations/Facilities.md), with the exception of
 [Technology Plants](../locations/Technology_Plant.md). The vehicle terminal can

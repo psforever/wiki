@@ -54,7 +54,7 @@ to [Marduk](../facilities/Marduk.md), [Ishundar](Ishundar.md);
 [Home Continent](Home_Continent.md) for the current empire sanctuary links.
 
 This continent is also refered to as
-[Es](../terminology/Acronyms_and_Slang.md#Es).
+[Es](../terminology/Acronyms_and_Slang.md#es).
 
 ## Base Facilities
 

@@ -1,6 +1,7 @@
 # Lancer
 
 ![Soldier firing a Lancer](../images/Lancer.jpg){ class="figure" }
+![Vanu Sovereignty soldier wielding a Lancer](../images/VS_soldier_Lancer.jpg){ class="figure" }
 
 |                            |                                                       |
 | -------------------------- | ----------------------------------------------------- |

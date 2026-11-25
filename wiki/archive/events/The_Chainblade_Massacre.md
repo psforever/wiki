@@ -8,7 +8,7 @@ the general gameplay is the same for all years.
 
 ==Official <News:==>
 
-### [Extinction](../../locations/Oshur.md#Extinction)
+### [Extinction](../../locations/Oshur.md)
 
 This isle is a barren wasteland in the middle of the salty sea. However, this
 Halloween, it's not going to be great tank country this season.

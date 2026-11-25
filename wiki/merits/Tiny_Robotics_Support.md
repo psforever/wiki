@@ -4,7 +4,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><b>Level</b></p></td>
-<td style="text-align: center;"><p><b>Kill <a href="Assist.md" title="wikilink">Assists</a></b></p></td>
+<td style="text-align: center;"><p><b>Kill <a href="../terminology/Assist.md" title="wikilink">Assists</a></b></p></td>
 <td style="text-align: center;"><p><b>Streak</b></p></td>
 <td style="text-align: center;"><p><b>Title</b></p></td>
 <td style="text-align: center;"><p><b>Award</b></p></td>
@@ -230,7 +230,7 @@
 </table>
 
 This [merit](index.md) is rewarded for kills scored by
-[Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret),
+[Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret),
 [Cerberus Turrets](../weapons/Cerberus_Turret.md), or
 [Shadow Turrets](../weapons/Shadow_Turret.md) after you have repaired them by
 using the [Nano Dispenser](../weapons/Nano_Dispenser.md). The turret must have

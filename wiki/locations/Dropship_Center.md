@@ -24,7 +24,7 @@
 [Engineers](../certifications/Engineering.md). The **Dropship Center** gives all
 friendly-linked [facilities](Facilities.md) the ability to repair any
 non-[Ancient Tech](../terminology/Ancient_Technology.md) ground or air
-[vehicle](category:_Vehicles.md) through the use of the ground vehicle
+[vehicle](../vehicles/index.md) through the use of the ground vehicle
 [Repair/Rearm Silo](../items/Repair_Rearm_Silo.md) and air vehicle
 [Repair/Rearm Landing Pad](../items/Landing_Pad.md) (ancient tech vehicles
 require a [Vehicle Module](../modules/Vehicle_Module.md) for this function). The

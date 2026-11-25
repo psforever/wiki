@@ -4,7 +4,7 @@
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p><b>Level</b></p></td>
-<td style="text-align: center;"><p><b>Repair <a href="Assist.md" title="wikilink">Assists</a></b></p></td>
+<td style="text-align: center;"><p><b>Repair <a href="../terminology/Assist.md" title="wikilink">Assists</a></b></p></td>
 <td style="text-align: center;"><p><b>Title</b></p></td>
 <td style="text-align: center;"><p><b>Award</b></p></td>
 </tr>

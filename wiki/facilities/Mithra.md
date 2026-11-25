@@ -1,6 +1,6 @@
 # Mithra
 
-Mithra is [Extinction](../locations/Oshur.md#Extinction)'s only
+Mithra is [Extinction](../locations/Oshur.md)'s only
 [Amp Station](../locations/Amp_Station.md) and is in the upper North West in
 grids N7, N8 and O7.
 

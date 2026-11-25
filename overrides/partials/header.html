@@ -1,0 +1,95 @@
+{#-
+  Header override: Zensical's classic partials/header.html plus the Home and
+  Wiki links from extra.header_links in zensical.toml. When updating Zensical,
+  compare with zensical_ui/templates/partials/header.html and keep the
+  "psf-header-links" block.
+-#}
+{% set class = "md-header" %}
+{% if "navigation.tabs.sticky" in features %}
+  {% set class = class ~ " md-header--shadow md-header--lifted" %}
+{% elif "navigation.tabs" not in features %}
+  {% set class = class ~ " md-header--shadow" %}
+{% endif %}
+<header class="{{ class }}" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header') }}">
+    <a href="{{ config.extra.homepage | d(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-header__button md-logo" aria-label="{{ config.site_name }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      {% set icon = config.theme.icon.menu or "material/menu" %}
+      {% include ".icons/" ~ icon ~ ".svg" %}
+      <span class="md-visually-hidden">{{ lang.t('nav') }}</span>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            {{ config.site_name }}
+          </span>
+        </div>
+        {#- PSForever: the page title shows beside the site name (see psforever.css),
+            and is left empty on the landing page so only "PSForever" shows there. -#}
+        <div class="md-header__topic" data-md-component="header-topic">
+          {%- if page.url in ["", "./", "index.html"] -%}
+            <span class="md-ellipsis"></span>
+          {%- else -%}
+            <span class="md-ellipsis">{{ page.meta.title if page.meta and page.meta.title else page.title }}</span>
+          {%- endif -%}
+        </div>
+      </div>
+    </div>
+    {% if config.extra.header_links %}
+      <div class="psf-header-links">
+        {#- link.url is a path from the site root ("/", "/wiki/") or a full URL for an
+            external site. A link with everywhere_else is highlighted on every page
+            except the landing page; see zensical.toml. -#}
+        {% for link in config.extra.header_links %}
+          {% if link.url[:4] == "http" %}
+            <a href="{{ link.url }}" class="psf-header-link psf-header-link--external" title="{{ link.title }} (opens {{ link.url }})">{{ link.title }}<span class="psf-header-link__icon" aria-hidden="true">{% include ".icons/material/open-in-new.svg" %}</span></a>
+          {% else %}
+            {% if link.url == "/" %}
+              {% set active = page.url in ["", "./", "index.html"] %}
+            {% elif link.everywhere_else %}
+              {% set active = page.url not in ["", "./", "index.html"] %}
+            {% else %}
+              {% set active = ("/" ~ page.url)[:link.url | length] == link.url %}
+            {% endif %}
+            <a href="{{ link.url }}" class="psf-header-link{% if active %} is-active{% endif %}" data-psf-section="{{ link.url }}"{% if link.everywhere_else %} data-psf-everywhere-else{% endif %}{% if active %} aria-current="page"{% endif %}>{{ link.title }}</a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+    {% if config.theme.palette %}
+      {% if not config.theme.palette is mapping %}
+        {% include "partials/palette.html" %}
+      {% endif %}
+    {% endif %}
+    {% if not config.theme.palette is mapping %}
+      {% include "partials/javascripts/palette.html" %}
+    {% endif %}
+    {% if config.extra.alternate %}
+      {% include "partials/alternate.html" %}
+    {% endif %}
+    {% if "search" in config.plugins %}
+      {% set search = config.plugins["search"] | attr("config") %}
+      {% if search.enabled %}
+        <label class="md-header__button md-icon" for="__search">
+          {% set icon = config.theme.icon.search or "material/magnify" %}
+          {% include ".icons/" ~ icon ~ ".svg" %}
+          <span class="md-visually-hidden">{{ lang.t('search') }}</span>
+        </label>
+        {% include "partials/search.html" %}
+      {% endif %}
+    {% endif %}
+    <div class="md-header__source">
+      {% if config.repo_url %}
+        {% include "partials/source.html" %}
+      {% endif %}
+    </div>
+  </nav>
+  {% if "navigation.tabs.sticky" in features %}
+    {% if "navigation.tabs" in features %}
+      {% include "partials/tabs.html" %}
+    {% endif %}
+  {% endif %}
+</header>

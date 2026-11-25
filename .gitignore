@@ -1,3 +1,5 @@
 site
+.cache
 node_modules
 markdown-link-updater
+__pycache__

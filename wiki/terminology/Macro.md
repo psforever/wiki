@@ -1,7 +1,7 @@
 # Macro
 
 A macro is a prerecorded chat command accessed via a key on your
-[hotkey bar](Heads-up_Display.md#Hotkey_Bar).
+[hotkey bar](Heads-up_Display.md#hotkey-bar).
 
 A macro is created using the following command:
 

@@ -1,5 +1,8 @@
 # Backpack
 
+![TR backpack](../images/TRBackpack.jpg){ class="figure" }
+![Command Rank 5 backpack](../images/CR5_vs_backpack.jpg){ class="figure" }
+
 The term **backpack** can refer to several things:
 
 ![ CR5's
@@ -9,5 +12,5 @@ The term **backpack** can refer to several things:
 2. The lootable pack that is left behind when a character dies and elects to
    [respawn](Respawn.md).
 3. The armor upgrade associated with
-   [Command Rank 5](Command_Rank.md#Command_Rank_5_CR5) (see picture to the
+   [Command Rank 5](Command_Rank.md) (see picture to the
    right).

@@ -18,13 +18,13 @@ An EMP can also be triggered by a charged
 or [Vindicator](../vehicles/Vindicator.md).
 
 Once triggered, this ability detonates a blast that doesn't harm soldiers, but
-detonates [Mines](#High_Explosive_Mine),
-[Boomers](<#Remote-Detonated_Charge_(Boomer)>), and disables
-[Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret),
+detonates [Mines](../weapons/Adaptive_Construction_Engine.md#high-explosive-mine),
+[Boomers](<../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer>), and disables
+[Spitfire Turrets](../weapons/Adaptive_Construction_Engine.md#spitfire-turret),
 [Shadow Turrets](../weapons/Shadow_Turret.md),
 [Cerberus Turrets](../weapons/Cerberus_Turret.md),
 [Wall Turrets](../items/Phalanx.md) and
-[Motion Sensors](../weapons/Adaptive_Construction_Engine.md#Motion_Sensor_Alarm).
+[Motion Sensors](../weapons/Adaptive_Construction_Engine.md#motion-sensor-alarm).
 It also disables all [Implants](../implants/index.md) and
 [Proximity Maps](Proximity_Map.md) of any enemy soldiers in the
 area, as well as the weapons of all vehicles nearby, excluding

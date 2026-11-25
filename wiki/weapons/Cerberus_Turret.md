@@ -18,7 +18,7 @@
 The Cerberus Turret is deployed using the
 [ACE](Adaptive_Construction_Engine.md)'s Tertiary Mode. The "Change Ammunition"
 function will allow you to select the Cerberus Turret, the
-[Spitfire Turret](Adaptive_Construction_Engine.md#Spitfire_Turret) or the
+[Spitfire Turret](Adaptive_Construction_Engine.md#spitfire-turret) or the
 [Shadow Turret](Shadow_Turret.md).
 
 The maximum amount of Cerberus Turrets that can be placed at any given time is

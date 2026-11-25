@@ -1,6 +1,6 @@
 # Hvar
 
-Hvar is [Extinction](../locations/Oshur.md#Extinction)'s only
+Hvar is [Extinction](../locations/Oshur.md)'s only
 [Interlink Facility](../locations/Interlink.md) and is in the North East inside
 grids F8, F9, G8 and G9.
 

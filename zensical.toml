@@ -1,0 +1,127 @@
+# PSForever website and wiki. Reference: https://zensical.org/docs/setup/basics/
+
+[project]
+site_name = "PSForever"
+site_description = "A fan-made server emulator for the original PlanetSide, plus the community wiki."
+site_url = "https://www.psforever.net/"
+docs_dir = "wiki"
+site_dir = "site"
+# The header's GitHub button points at the server project; page edit links
+# still go to this repository, so edit_uri is a full URL.
+repo_url = "https://github.com/psforever/PSF-LoginServer"
+repo_name = "GitHub"
+edit_uri = "https://github.com/psforever/wiki/blob/main/wiki/"
+copyright = """PSForever is a non-commercial fan project and is not affiliated with or \
+endorsed by Daybreak Game Company. PlanetSide and related names are \
+trademarks of their respective owners."""
+extra_css = [
+  "https://unpkg.com/featherlight@1/release/featherlight.min.css",
+  "assets/stylesheets/fonts.css",
+  "assets/stylesheets/psforever.css",
+  "res/figure.css",
+]
+extra_javascript = [
+  "https://unpkg.com/jquery@3/dist/jquery.min.js",
+  "https://unpkg.com/featherlight@1/release/featherlight.min.js",
+  "assets/javascripts/psforever.js",
+]
+
+[project.theme]
+variant = "classic"
+custom_dir = "overrides"
+logo = "res/logo.png"
+favicon = "res/favicon.png"
+# Fonts are self-hosted in assets/fonts (see assets/stylesheets/fonts.css).
+font = false
+features = [
+  "content.action.edit",
+  "navigation.indexes",
+  "navigation.instant",
+  "navigation.path",
+  "navigation.prune",
+  "navigation.top",
+  "search.suggest",
+]
+
+# One dark scheme for the whole site; colors are set in psforever.css.
+[project.theme.palette]
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+
+[project.markdown_extensions]
+attr_list = {}
+md_in_html = {}
+figure = {}
+toc.toc_depth = "1-4"
+pymdownx.emoji.emoji_index = "zensical.extensions.emoji.twemoji"
+pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
+
+[project.extra]
+discord_url = "https://discord.com/invite/SQf8cW8"
+
+# Sidebar sections whose pages are version numbers, sorted as versions
+# (3.2.12 before 3.15.6) instead of alphabetically. See overrides/partials/nav-item.html.
+version_sorted_sections = ["Patches"]
+
+# Header navigation, shown on every page. Use paths from the site root: the
+# header isn't re-rendered during instant navigation, so relative links would
+# go stale after moving between pages. A link is highlighted on pages under its
+# path; everywhere_else highlights it on every page except the landing page,
+# because wiki pages keep their original URLs at the site root.
+[[project.extra.header_links]]
+title = "Home"
+url = "/"
+
+[[project.extra.header_links]]
+title = "Wiki"
+url = "/wiki/"
+everywhere_else = true
+
+# Full URLs are shown as external links (with an icon, never highlighted).
+# play.psforever.net is the PSForever Portal: server status, accounts, stats.
+[[project.extra.header_links]]
+title = "Portal"
+url = "https://play.psforever.net/"
+
+# Landing page hero backgrounds, shown in this order and rotated every 8 s.
+# Preview one with ?hero=N (1-based), for example http://localhost:8000/?hero=2
+# PSForever's own artwork: the splash image from the project's Discord invite.
+[[project.extra.hero_images]]
+src = "assets/images/psforever-splash.jpg"
+align = "right"
+mobile_align = "corner"
+vivid = true
+
+[[project.extra.hero_images]]
+src = "images/Meteor.jpg"
+focus = "35%"
+flip = true
+
+[[project.extra.hero_images]]
+src = "images/Amun.jpg"
+position = "center 70%"
+focus = "45%"
+
+[[project.extra.hero_images]]
+src = "images/Lancer.jpg"
+focus = "25%"
+flip = true
+
+[[project.extra.hero_images]]
+src = "images/Horus.jpg"
+position = "center 70%"
+focus = "33%"
+flip = true
+
+[[project.extra.hero_images]]
+src = "images/Vanguards.jpg"
+focus = "55%"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/discord"
+link = "https://discord.com/invite/SQf8cW8"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/psforever"

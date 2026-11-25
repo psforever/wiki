@@ -4,7 +4,7 @@
 extra repair gear.](../images/MagTrunk.jpg){ class="figure" }
 
 Similar to a soldier's [Inventory](Inventory.md), trunks are the compartments in
-[vehicles](category:_Vehicles.md) for storing
+[vehicles](../vehicles/index.md) for storing
 [ammunition](../items/Ammunition.md) and supplies. Most vehicle weapons are fed
 directly from the trunk, with the exceptions being the
 [Flail](../vehicles/Flail.md) and [Switchblade](../items/Switchblade.md), which

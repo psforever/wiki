@@ -1,6 +1,7 @@
 # Mini-Chaingun
 
 ![Soldier equipped with a Mini-Chaingun](../images/MCG.jpg){ class="figure" }
+![Terran Republic soldier wielding a Mini-Chaingun](../images/TR_soldier_Mini-Chaingun.jpg){ class="figure" }
 
 |                            |                                                                                                                     |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------- |

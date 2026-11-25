@@ -11,7 +11,7 @@ well as receive information regarding the current battle.
 The main interface of the in-game chat system. This is where all communication
 is sent and received.
 
-(See Also: [HUD Chat Pane](../terminology/Heads-up_Display.md#status--chat-pane-onoff))
+(See Also: [HUD Chat Pane](../terminology/Heads-up_Display.md#status-chat-pane-onoff))
 
 ## Sections
 
@@ -20,12 +20,12 @@ The chat HUD is made up of different sections and buttons.
 ### Status Area
 
 This is the top half of the chat HUD that displays
-[System Messages](#System_Messages)
+[System Messages](#system-messages)
 
 ### Chat Area
 
 This is the bottom half of the chat HUD that displays
-[Chat Messages](#Chat_Messages)
+[Chat Messages](#chat-messages)
 
 ### Text entry
 

@@ -198,9 +198,9 @@ since 1902.
 
 This Merit is awarded for amassing kills with one of the following:
 
-- [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#Spitfire_Turret)
-- [Boomer](../weapons/Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29)
-- [High Explosive Mine](../weapons/Adaptive_Construction_Engine.md#Remote-Detonated_Charge_.28Boomer.29)
+- [Spitfire Turret](../weapons/Adaptive_Construction_Engine.md#spitfire-turret)
+- [Boomer](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer)
+- [High Explosive Mine](../weapons/Adaptive_Construction_Engine.md#remote-detonated-charge-boomer)
 - [Cerberus Turret](../weapons/Cerberus_Turret.md)
 - [Shadow Turret](../weapons/Shadow_Turret.md)
 
